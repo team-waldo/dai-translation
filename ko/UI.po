@@ -1,14 +1,14 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-10 15:58+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2021-01-10 18:28+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.1.1\n"
-"Content-Transfer-Encoding: 8bit\n"
 
 #. FILE: UI\ToolTipMappings.xml
 #. PATH: ToolTipEntry[1]/StringToDisplay
@@ -26,13 +26,13 @@ msgstr ""
 #. PATH: ToolTipEntry[4]/StringToDisplay
 msgctxt "0x00044234"
 msgid "Locked"
-msgstr ""
+msgstr "잠김"
 
 #. FILE: UI\ToolTipMappings.xml
 #. PATH: ToolTipEntry[5]/StringToDisplay
 msgctxt "0x00004667"
 msgid "Inventory"
-msgstr ""
+msgstr "인벤토리"
 
 #. FILE: UI\ToolTipMappings.xml
 #. PATH: ToolTipEntry[8]/StringToDisplay
@@ -105,7 +105,7 @@ msgstr ""
 #. PATH: UIBaseChoiceAsset/Breadcrumbs/member[2]
 msgctxt "0x000133cd"
 msgid "Upgrades"
-msgstr ""
+msgstr "업그레이드"
 
 #. FILE: UI\assets\BaseChoices\UIBaseChoice_Courtyard.xml
 #. PATH: UIBaseChoiceAsset/LeftChoice/UIBaseChoiceOption/OptionTitle
@@ -7745,7 +7745,7 @@ msgstr ""
 #. PATH: UICreditsScreenAsset/MainCredits/member[73]/UIScrollingCreditSection/Title
 msgctxt "0x00044d19"
 msgid "Blackwall"
-msgstr ""
+msgstr "블랙월"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Credits.xml
 #. PATH: UICreditsScreenAsset/MainCredits/member[73]/UIScrollingCreditSection/Names

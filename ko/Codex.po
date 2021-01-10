@@ -1,8 +1,14 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2021-01-10 18:28+0000\n"
+"Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/dai/codex/ko/>\n"
 "Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_char_calpernia.xml
 #. PATH: CodexEntry/TitleReference
@@ -56,7 +62,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00041883"
 msgid "Blackwall"
-msgstr ""
+msgstr "블랙월"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_briala.xml
 #. PATH: CodexEntry/TitleReference
@@ -198,9 +204,10 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_player_quanari.xml
 #. PATH: CodexEntry/TitleReference
+#, fuzzy
 msgctxt "0x000420b6"
 msgid "Adaar, the Vashoth"
-msgstr ""
+msgstr "바쇼스 아다르"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_sera.xml
 #. PATH: CodexEntry/TitleReference
@@ -6236,7 +6243,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00048a4e"
 msgid "Blackwall\" and the Last Few Years\""
-msgstr ""
+msgstr "\"블랙월\"의 근황"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_cafe_drink_menu.xml
 #. PATH: CodexEntry/TitleReference

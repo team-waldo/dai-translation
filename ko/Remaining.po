@@ -1,14 +1,21 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2021-01-10 18:28+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
+"\n"
 "Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 #. FILE: DisplayControllerUnavailablePrompt.xml
 #. PATH: BWPopUpEntityData/Title
 msgctxt "0x0001fb30"
 msgid "Error"
-msgstr ""
+msgstr "오류"
 
 #. FILE: DisplayControllerUnavailablePrompt.xml
 #. PATH: BWPopUpEntityData/Text
@@ -17,6 +24,8 @@ msgid ""
 "No controller was detected. Keyboard and mouse controls will be used. To "
 "play with a controller, please insert one and restart the game."
 msgstr ""
+"컨트롤러를 찾을 수 없습니다. 키보드와 마우스를 사용해 조작합니다. 컨트롤러를 사용하려면 먼저 컨트롤러를 연결한 후 게임을 다시 "
+"시작하세요."
 
 #. FILE: DA3\Actors\PartySpawnPrefab.xml
 #. PATH: BWPopUpEntityData/Title
@@ -86,25 +95,25 @@ msgstr ""
 #. PATH: CreatureEntityData/CharacterNameReference
 msgctxt "0x0001869e"
 msgid "Solas"
-msgstr ""
+msgstr "솔라스"
 
 #. FILE: DA3\Actors\party\Specializations\Follower\gen_partymember_cassandra.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 msgctxt "0x00018683"
 msgid "Cassandra"
-msgstr ""
+msgstr "카산드라"
 
 #. FILE: DA3\Actors\party\Specializations\Follower\gen_partymember_cole.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 msgctxt "0x00018682"
 msgid "Cole"
-msgstr ""
+msgstr "콜"
 
 #. FILE: DA3\Actors\party\Specializations\Follower\gen_partymember_dorian.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 msgctxt "0x000185f6"
 msgid "Dorian"
-msgstr ""
+msgstr "도리안"
 
 #. FILE: DA3\Actors\party\Specializations\Follower\gen_partymember_ironbull.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -116,55 +125,55 @@ msgstr ""
 #. PATH: CreatureEntityData/CharacterNameReference
 msgctxt "0x00018673"
 msgid "Cullen"
-msgstr ""
+msgstr "컬렌"
 
 #. FILE: DA3\Actors\party\Specializations\Follower\gen_partymember_plot_leliana.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 msgctxt "0x00018677"
 msgid "Leliana"
-msgstr ""
+msgstr "렐리아나"
 
 #. FILE: DA3\Actors\party\Specializations\Follower\gen_partymember_plot_morrigan.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 msgctxt "0x00018679"
 msgid "Morrigan"
-msgstr ""
+msgstr "모리건"
 
 #. FILE: DA3\Actors\party\Specializations\Follower\gen_partymember_plot_warden_alistair.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 msgctxt "0x00018692"
 msgid "Alistair"
-msgstr ""
+msgstr "알리스터"
 
 #. FILE: DA3\Actors\party\Specializations\Follower\gen_partymember_plot_warden_stroud.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 msgctxt "0x00018696"
 msgid "Stroud"
-msgstr ""
+msgstr "스트라우드"
 
 #. FILE: DA3\Actors\party\Specializations\Follower\gen_partymember_sera.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 msgctxt "0x000185f7"
 msgid "Sera"
-msgstr ""
+msgstr "세라"
 
 #. FILE: DA3\Actors\party\Specializations\Follower\gen_partymember_varric.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 msgctxt "0x0001869d"
 msgid "Varric"
-msgstr ""
+msgstr "배릭"
 
 #. FILE: DA3\Actors\party\Specializations\Follower\gen_partymember_vivienne.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 msgctxt "0x0001869f"
 msgid "Vivienne"
-msgstr ""
+msgstr "비비엔"
 
 #. FILE: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_mp_saarebas.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 msgctxt "0x0004b4cc"
 msgid "Saarebas"
-msgstr ""
+msgstr "사레바스"
 
 #. FILE: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_mp_skirmisher.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -16229,37 +16238,37 @@ msgstr ""
 #. PATH: InteractableComponentSpawnData/InteractionText
 msgctxt "0x00018672"
 msgid "Cullen"
-msgstr ""
+msgstr "컬렌"
 
 #. FILE: DA3\NPCs\Global\npc_t_josephine.xml
 #. PATH: InteractableComponentSpawnData/InteractionText
 msgctxt "0x0001867c"
 msgid "Josephine"
-msgstr ""
+msgstr "조세핀"
 
 #. FILE: DA3\NPCs\Global\npc_t_leliana.xml
 #. PATH: InteractableComponentSpawnData/InteractionText
 msgctxt "0x00018676"
 msgid "Leliana"
-msgstr ""
+msgstr "렐리아나"
 
 #. FILE: DA3\NPCs\Global\Followers\npc_t_blackwall.xml
 #. PATH: CreatureEntitySpawnData/CharacterNameReference
 msgctxt "0x0001869b"
 msgid "Blackwall"
-msgstr ""
+msgstr "블랙월"
 
 #. FILE: DA3\NPCs\Global\Followers\npc_t_blackwall.xml
 #. PATH: InteractableComponentSpawnData/InteractionText
 msgctxt "0x0001869a"
 msgid "Blackwall"
-msgstr ""
+msgstr "블랙월"
 
 #. FILE: DA3\NPCs\Global\Followers\npc_t_cassandra.xml
 #. PATH: InteractableComponentSpawnData/InteractionText
 msgctxt "0x00018670"
 msgid "Cassandra"
-msgstr ""
+msgstr "카산드라"
 
 #. FILE: DA3\NPCs\Global\Followers\npc_t_cole.xml
 #. PATH: InteractableComponentSpawnData/InteractionText
@@ -16289,19 +16298,19 @@ msgstr ""
 #. PATH: InteractableComponentSpawnData/InteractionText
 msgctxt "0x00018698"
 msgid "Solas"
-msgstr ""
+msgstr "솔라스"
 
 #. FILE: DA3\NPCs\Global\Followers\npc_t_varric.xml
 #. PATH: InteractableComponentSpawnData/InteractionText
 msgctxt "0x0001864d"
 msgid "Varric"
-msgstr ""
+msgstr "배릭"
 
 #. FILE: DA3\NPCs\Global\Followers\npc_t_vivienne.xml
 #. PATH: InteractableComponentSpawnData/InteractionText
 msgctxt "0x00018680"
 msgid "Vivienne"
-msgstr ""
+msgstr "비비엔"
 
 #. FILE: DA3\NPCs\Human\npc_t_empress_celene.xml
 #. PATH: CreatureEntitySpawnData/CharacterNameReference
