@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-10 18:28+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-01-10 19:46+0000\n"
+"Last-Translator: 불타는 수염 <brng_beard@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,13 +14,14 @@ msgstr ""
 #. PATH: ToolTipEntry[1]/StringToDisplay
 msgctxt "0x00044fe8"
 msgid "Scorecard"
-msgstr ""
+msgstr "점수판"
 
 #. FILE: UI\ToolTipMappings.xml
 #. PATH: ToolTipEntry[3]/StringToDisplay
+#, fuzzy
 msgctxt "0x000194a6"
 msgid "Settings"
-msgstr ""
+msgstr "설정"
 
 #. FILE: UI\ToolTipMappings.xml
 #. PATH: ToolTipEntry[4]/StringToDisplay
@@ -99,7 +100,7 @@ msgstr ""
 #. PATH: UIBaseChoiceAsset/Breadcrumbs/member[1]
 msgctxt "0x000133d1"
 msgid "SKYHOLD"
-msgstr ""
+msgstr "스카이홀드"
 
 #. FILE: UI\assets\BaseChoices\UIBaseChoice_Courtyard.xml
 #. PATH: UIBaseChoiceAsset/Breadcrumbs/member[2]
@@ -205,7 +206,7 @@ msgstr ""
 #. PATH: UIBaseChoiceAsset/LeftChoice/UIBaseChoiceOption/OptionTitle
 msgctxt "0x000133cf"
 msgid "TEMPLAR"
-msgstr ""
+msgstr "템플러"
 
 #. FILE: UI\assets\BaseChoices\UIBaseChoice_Tower.xml
 #. PATH: UIBaseChoiceAsset/LeftChoice/UIBaseChoiceOption/OptionShortDesc
@@ -225,7 +226,7 @@ msgstr ""
 #. PATH: UIBaseChoiceAsset/RightChoice/UIBaseChoiceOption/OptionTitle
 msgctxt "0x000133d0"
 msgid "MAGE"
-msgstr ""
+msgstr "마법사"
 
 #. FILE: UI\assets\BaseChoices\UIBaseChoice_Tower.xml
 #. PATH: UIBaseChoiceAsset/RightChoice/UIBaseChoiceOption/OptionShortDesc
@@ -299,7 +300,7 @@ msgstr ""
 #. PATH: UIBaseCustomizeItemAsset/Title
 msgctxt "0x0001786f"
 msgid "ORLAIS"
-msgstr ""
+msgstr "올레이"
 
 #. FILE: UI\assets\BaseCustomization\BaseCust_Banner_Templar.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
@@ -419,7 +420,7 @@ msgstr ""
 #. PATH: UIBaseCustomizeItemAsset/Title
 msgctxt "0x0001786b"
 msgid "DECOR"
-msgstr ""
+msgstr "장식"
 
 #. FILE: UI\assets\BaseCustomization\BaseCust_Props.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
@@ -5770,7 +5771,7 @@ msgstr ""
 #. PATH: UIBaseChoiceScreenAsset/LocalizedLabels/member[2]/UIScreenAssetLocalizedLabel/LocString
 msgctxt "0x000133a1"
 msgid "[This choice is irreversible.]"
-msgstr ""
+msgstr "[이 선택은 되돌릴 수 없습니다.]"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_BaseChoice.xml
 #. PATH: BWButtonLegendBinding[1]/LegendButtons/member[1]/BWButtonLegendEntry/LocalizedDisplayString
@@ -7234,7 +7235,7 @@ msgstr ""
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[4]/UIScreenAssetLocalizedLabel/LocString
 msgctxt "0x0001601f"
 msgid "Difficulty"
-msgstr ""
+msgstr "난이도"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_EndOfMatch.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[5]/UIScreenAssetLocalizedLabel/LocString
