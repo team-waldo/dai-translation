@@ -33,9 +33,7 @@ msgstr ""
 #. FILE: DA3\Party\Archived\Rogue\General\PartyStealth\party_rogue_general_partystealth_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042ab0"
-msgid ""
-"<font color=\"#BAAB7B\">This ability consumes and is powered by "
-"focus.</font>\n"
+msgid "<font color=\"#BAAB7B\">This ability consumes and is powered by focus.</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Archived\Rogue\General\PartyStealth\party_rogue_general_partystealth_abilitydata.xml
@@ -76,9 +74,7 @@ msgstr ""
 #. FILE: DA3\Party\general\abilities\ProjectileBubble\party_general_inquisitor_projectilebubble_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 msgctxt "0x000466b2"
-msgid ""
-"You turn the Veil itself into a magical shield that deflects enemy "
-"projectiles.\n"
+msgid "You turn the Veil itself into a magical shield that deflects enemy projectiles.\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\abilities\ProjectileBubble\party_general_inquisitor_projectilebubble_upgrade1.xml
@@ -98,9 +94,7 @@ msgstr ""
 #. FILE: DA3\Party\general\abilities\ProjectileBubble\party_general_inquisitor_projectilebubble_upgrade1.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x000466e8"
-msgid ""
-"<font color=\"#BAAB7B\">Damage: </font><font color=\"#F5ECCE\">{CUSTOM0} per"
-" character level</font>\n"
+msgid "<font color=\"#BAAB7B\">Damage: </font><font color=\"#F5ECCE\">{CUSTOM0} per character level</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\abilities\ProjectileBubble\party_general_inquisitor_projectilebubble_upgrade2.xml
@@ -126,10 +120,7 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\General_Inquisitor_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00043727"
-msgid ""
-"In addition to sealing and controlling rifts, your mark makes you a leader "
-"in the eyes of the people, improving your ability to command the party and "
-"help allies work together as a team."
+msgid "In addition to sealing and controlling rifts, your mark makes you a leader in the eyes of the people, improving your ability to command the party and help allies work together as a team."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Bloodmage_Spec_AbilityTree.xml
@@ -141,19 +132,13 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Bloodmage_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00043acb"
-msgid ""
-"These mages specialize in binding the spirits that are drawn to death. They "
-"can put the fear of death into enemies, bring spirits to fight on their "
-"behalf, and even cause devastating explosions when their enemies die."
+msgid "These mages specialize in binding the spirits that are drawn to death. They can put the fear of death into enemies, bring spirits to fight on their behalf, and even cause devastating explosions when their enemies die."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Dorian_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00044825"
-msgid ""
-"Dorian is well-versed in spells that bind and manipulate Fade spirits, a "
-"practice that does not have the same stigma in the Tevinter Imperium as it "
-"does elsewhere in Thedas."
+msgid "Dorian is well-versed in spells that bind and manipulate Fade spirits, a practice that does not have the same stigma in the Tevinter Imperium as it does elsewhere in Thedas."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Elemental_AbilityTree.xml
@@ -165,10 +150,7 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Elemental_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00043ac8"
-msgid ""
-"Masters of this school of magic dominate the battlefield with unrelenting "
-"fire. Enemies who survive the initial blast are driven mad with terror or "
-"burn to death in unquenchable flames."
+msgid "Masters of this school of magic dominate the battlefield with unrelenting fire. Enemies who survive the initial blast are driven mad with terror or burn to death in unquenchable flames."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Entropy_AbilityTree.xml
@@ -180,9 +162,7 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Entropy_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00043ac9"
-msgid ""
-"Masters of this school of magic call forth the power of thunder and "
-"lightning. Their spells paralyze foes and arc from one enemy to another."
+msgid "Masters of this school of magic call forth the power of thunder and lightning. Their spells paralyze foes and arc from one enemy to another."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_KnightEnchanter_Spec_AbilityTree.xml
@@ -194,10 +174,7 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Mage_KnightEnchanter_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00043aca"
-msgid ""
-"These rare mages received special dispensation from the Chantry to serve in "
-"battle. They summon blades from the Fade and are experts in protection and "
-"defense."
+msgid "These rare mages received special dispensation from the Chantry to serve in battle. They summon blades from the Fade and are experts in protection and defense."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Primal_AbilityTree.xml
@@ -209,9 +186,7 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Primal_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00043ac7"
-msgid ""
-"Masters of this school of magic summon cold that bites deeper than the "
-"cruelest winter. Their icy spells slow and weaken enemies."
+msgid "Masters of this school of magic summon cold that bites deeper than the cruelest winter. Their icy spells slow and weaken enemies."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Solas_Spec_AbilityTree.xml
@@ -223,10 +198,7 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Solas_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00044826"
-msgid ""
-"Years spent studying the Fade have given Solas the ability to manipulate its"
-" energies in unpredictable ways. He can pull matter from the Fade and even "
-"twist the Veil into a weapon to hamper his opponents."
+msgid "Years spent studying the Fade have given Solas the ability to manipulate its energies in unpredictable ways. He can pull matter from the Fade and even twist the Veil into a weapon to hamper his opponents."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Spirit_AbilityTree.xml
@@ -238,28 +210,19 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Spirit_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00042eae"
-msgid ""
-"Masters of this school of magic call upon spirits for protection, as well as"
-" the essence of the Fade itself. Their spells disrupt hostile magic, create "
-"defensive barriers, and even heal injuries."
+msgid "Masters of this school of magic call upon spirits for protection, as well as the essence of the Fade itself. Their spells disrupt hostile magic, create defensive barriers, and even heal injuries."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Summoner_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00043acc"
-msgid ""
-"These mages draw upon the force of the Fade, either pulling matter from the "
-"Fade to attack or twisting the Veil itself into a weapon to stagger or crush"
-" their enemies."
+msgid "These mages draw upon the force of the Fade, either pulling matter from the Fade to attack or twisting the Veil itself into a weapon to stagger or crush their enemies."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Vivienne_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00044828"
-msgid ""
-"Whether it's high fashion or the battlefield, Vivienne prefers to be at the "
-"forefront and in control of everything around her. She will personally see "
-"order restored—by the blade, if necessary."
+msgid "Whether it's high fashion or the battlefield, Vivienne prefers to be at the forefront and in control of everything around her. She will personally see order restored—by the blade, if necessary."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Alchemist_Spec_AbilityTree.xml
@@ -271,10 +234,7 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Alchemist_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00043ad1"
-msgid ""
-"These unpredictable experts specialize in using alchemical mixtures that "
-"wreathe them in frost or flame. Fast, chaotic, and possibly mad, they wade "
-"into the fight and dare enemies to face the storm. "
+msgid "These unpredictable experts specialize in using alchemical mixtures that wreathe them in frost or flame. Fast, chaotic, and possibly mad, they wade into the fight and dare enemies to face the storm. "
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Archery_AbilityTree.xml
@@ -286,10 +246,7 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Archery_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x0002836c"
-msgid ""
-"Experts in this style are masters of ranged combat. They can avoid enemies "
-"that attempt to close, put arrows or bolts through multiple foes, and even "
-"unleash explosive shots to devastating effect."
+msgid "Experts in this style are masters of ranged combat. They can avoid enemies that attempt to close, put arrows or bolts through multiple foes, and even unleash explosive shots to devastating effect."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Assassin_Spec_AbilityTree.xml
@@ -301,20 +258,13 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Assassin_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00043ace"
-msgid ""
-"Any rogue can kill a target, but assassins make death into an art form. They"
-" specialize in quick, deadly kills that let them slide back into the shadows"
-" undetected, or indirect kills that eliminate targets while the assassin is "
-"safely away."
+msgid "Any rogue can kill a target, but assassins make death into an art form. They specialize in quick, deadly kills that let them slide back into the shadows undetected, or indirect kills that eliminate targets while the assassin is safely away."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Cole_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00044823"
-msgid ""
-"As a spirit dedicated to mercy, Cole is oddly suited to killing enemies with"
-" speed and precision. He can eliminate targets too dangerous to face "
-"directly with strikes they never even notice."
+msgid "As a spirit dedicated to mercy, Cole is oddly suited to killing enemies with speed and precision. He can eliminate targets too dangerous to face directly with strikes they never even notice."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_DualWeapon_AbilityTree.xml
@@ -326,9 +276,7 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_DualWeapon_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00042eaf"
-msgid ""
-"Experts in this style are fast and deadly, their blades slicing through "
-"enemies' defenses—and throats—before they have time to react."
+msgid "Experts in this style are fast and deadly, their blades slicing through enemies' defenses—and throats—before they have time to react."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_FieldControl_AbilityTree.xml
@@ -340,19 +288,13 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_FieldControl_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00043acf"
-msgid ""
-"Experts in these talents specialize in poisons and traps. Their dirty tricks"
-" leave enemies sick and limping, easy pickings for a sharp blade or a barbed"
-" arrow."
+msgid "Experts in these talents specialize in poisons and traps. Their dirty tricks leave enemies sick and limping, easy pickings for a sharp blade or a barbed arrow."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Sera_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00044827"
-msgid ""
-"With a satchel of dirty tricks, Sera takes the fight to her opponents before"
-" they know they're in it, committing fast and hard—and if covered in "
-"alchemical fire, all the better."
+msgid "With a satchel of dirty tricks, Sera takes the fight to her opponents before they know they're in it, committing fast and hard—and if covered in alchemical fire, all the better."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Support_AbilityTree.xml
@@ -364,10 +306,7 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Support_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00043ad0"
-msgid ""
-"Experts in these talents are masters of misdirection. Whether leaping to "
-"safety, disappearing into the shadows, or tricking enemies into slashing at "
-"empty air, they are never where anyone expects them to be."
+msgid "Experts in these talents are masters of misdirection. Whether leaping to safety, disappearing into the shadows, or tricking enemies into slashing at empty air, they are never where anyone expects them to be."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Tinker_Spec_AbilityTree.xml
@@ -379,18 +318,13 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Tinker_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00043acd"
-msgid ""
-"These specialists control the battlefield with deadly traps. Neither they "
-"nor their explosive mines are ever where the enemy expects them to be."
+msgid "These specialists control the battlefield with deadly traps. Neither they nor their explosive mines are ever where the enemy expects them to be."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Varric_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00044829"
-msgid ""
-"After years of experience with the Merchants Guild and the publishing world,"
-" Varric has become an expert at handling deadly traps and convoluted "
-"devices."
+msgid "After years of experience with the Merchants Guild and the publishing world, Varric has become an expert at handling deadly traps and convoluted devices."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_BattleMaster_AbilityTree.xml
@@ -402,10 +336,7 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_BattleMaster_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00042ea4"
-msgid ""
-"These cunning warriors control the battlefield and everyone on it. They "
-"bolster their allies, hamper their enemies, and take advantage of any sign "
-"of weakness."
+msgid "These cunning warriors control the battlefield and everyone on it. They bolster their allies, hamper their enemies, and take advantage of any sign of weakness."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_Blackwall_Spec_AbilityTree.xml
@@ -417,10 +348,7 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_Blackwall_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00044822"
-msgid ""
-"Blackwall has sworn to give his life to protect his friends and allies. He "
-"puts himself between them and danger, and his experience and resolve let him"
-" stand against attacks that would fell weaker warriors."
+msgid "Blackwall has sworn to give his life to protect his friends and allies. He puts himself between them and danger, and his experience and resolve let him stand against attacks that would fell weaker warriors."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_Cassandra_Spec_AbilityTree.xml
@@ -432,19 +360,13 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_Cassandra_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00044824"
-msgid ""
-"Long ago, the Seekers of Truth founded the Templar Order and taught them how"
-" to deal with hostile mages and their spells. Cassandra thus possesses all "
-"of a templar's abilities, without the risk of lyrium addiction."
+msgid "Long ago, the Seekers of Truth founded the Templar Order and taught them how to deal with hostile mages and their spells. Cassandra thus possesses all of a templar's abilities, without the risk of lyrium addiction."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_Chavalier_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00042ea5"
-msgid ""
-"These powerful defenders protect their allies from harm, standing strong "
-"against devastating blows with expert training and fierce determination. "
-"Enemies can't kill them—and usually can't survive them."
+msgid "These powerful defenders protect their allies from harm, standing strong against devastating blows with expert training and fierce determination. Enemies can't kill them—and usually can't survive them."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_IronBull_Spec_AbilityTree.xml
@@ -456,19 +378,13 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_IronBull_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00044821"
-msgid ""
-"The Iron Bull's combat style has honed his aggression and anger to a killing"
-" edge. He has learned to turn his own pain into a fury that makes him even "
-"deadlier when the fight gets bloody."
+msgid "The Iron Bull's combat style has honed his aggression and anger to a killing edge. He has learned to turn his own pain into a fury that makes him even deadlier when the fight gets bloody."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_Reaver_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00042ea6"
-msgid ""
-"As the battle gets bloodier, these vicious and deadly warriors get even more"
-" brutal. Hurting them just makes them mad, a mistake most enemies don't live"
-" to repeat."
+msgid "As the battle gets bloodier, these vicious and deadly warriors get even more brutal. Hurting them just makes them mad, a mistake most enemies don't live to repeat."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_ShieldWeapon_AbilityTree.xml
@@ -480,19 +396,13 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_ShieldWeapon_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00042ea8"
-msgid ""
-"Experts in this style are still on their feet after punishment that would "
-"kill their allies. They use their shield to protect themselves and stagger "
-"their enemies."
+msgid "Experts in this style are still on their feet after punishment that would kill their allies. They use their shield to protect themselves and stagger their enemies."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_Templar_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00042ea9"
-msgid ""
-"These unrelenting warriors specialize in fighting mages and demons. No "
-"enemy's magic can withstand them, and they inspire and protect their allies "
-"with their righteous power."
+msgid "These unrelenting warriors specialize in fighting mages and demons. No enemy's magic can withstand them, and they inspire and protect their allies with their righteous power."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_TwoHanded_AbilityTree.xml
@@ -504,9 +414,7 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_TwoHanded_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00042eaa"
-msgid ""
-"Experts in this style crush their enemies with massive blows that can break "
-"any guard, shatter any armor, and destroy any opponent."
+msgid "Experts in this style crush their enemies with massive blows that can break any guard, shatter any armor, and destroy any opponent."
 msgstr ""
 
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_Vanguard_AbilityTree.xml
@@ -518,10 +426,7 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_Vanguard_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 msgctxt "0x00042ead"
-msgid ""
-"These stalwart warriors protect their allies by making themselves the "
-"biggest target on the battlefield. When enemies take the bait, vanguards "
-"pick them apart with brutal precision."
+msgid "These stalwart warriors protect their allies by making themselves the biggest target on the battlefield. When enemies take the bait, vanguards pick them apart with brutal precision."
 msgstr ""
 
 #. FILE: DA3\Party\general\AI\BehaviorSettings\party_behavior_enabletactics.xml
@@ -599,8 +504,7 @@ msgstr ""
 #. FILE: DA3\Party\general\AI\BehaviorSettings\party_behavior_healthpotion_reserve.xml
 #. PATH: CharacterBehaviorSetting/Description
 msgctxt "0x000432dd"
-msgid ""
-"Party member will not use healing potions if this many or fewer remain."
+msgid "Party member will not use healing potions if this many or fewer remain."
 msgstr ""
 
 #. FILE: DA3\Party\general\AI\BehaviorSettings\party_behavior_healthpotion_threshold.xml
@@ -648,9 +552,7 @@ msgstr ""
 #. FILE: DA3\Party\general\AI\BehaviorSettings\party_behavior_healthpotion_threshold.xml
 #. PATH: CharacterBehaviorSetting/Description
 msgctxt "0x000432de"
-msgid ""
-"When the party member's health falls below this threshold, they will attempt"
-" to use a healing potion."
+msgid "When the party member's health falls below this threshold, they will attempt to use a healing potion."
 msgstr ""
 
 #. FILE: DA3\Party\general\AI\BehaviorSettings\party_behavior_resource_reserve.xml
@@ -668,9 +570,7 @@ msgstr ""
 #. FILE: DA3\Party\general\AI\BehaviorSettings\party_behavior_resource_reserve.xml
 #. PATH: CharacterBehaviorSetting/Description
 msgctxt "0x000432df"
-msgid ""
-"If mana/stamina falls below this threshold, party member will stop using "
-"abilities that require it."
+msgid "If mana/stamina falls below this threshold, party member will stop using abilities that require it."
 msgstr ""
 
 #. FILE: DA3\Party\general\AI\BehaviorSettings\party_behavior_targeting.xml
@@ -694,9 +594,7 @@ msgstr ""
 #. FILE: DA3\Party\general\AI\BehaviorSettings\party_behavior_targeting.xml
 #. PATH: CharacterBehaviorSetting/Description
 msgctxt "0x000432e0"
-msgid ""
-"Choose targets by following another party member's target or by prioritizing"
-" threats to another party member."
+msgid "Choose targets by following another party member's target or by prioritizing threats to another party member."
 msgstr ""
 
 #. FILE: DA3\Party\general\Items\party_general_items_rune_staff_melee_abilitydata.xml
@@ -732,33 +630,25 @@ msgstr ""
 #. FILE: DA3\Party\general\Passive\party_inquisitor_focus_passive_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 msgctxt "0x00043734"
-msgid ""
-"Successfully performing an ability combo earns additional focus for the "
-"party."
+msgid "Successfully performing an ability combo earns additional focus for the party."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_attackspeed_lowhp_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b258"
-msgid ""
-"The wearer of this belt gains a small boost to attack speed when below 50% "
-"health."
+msgid "The wearer of this belt gains a small boost to attack speed when below 50% health."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_attackspeed_lowhp_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b25a"
-msgid ""
-"The wearer of this belt gains a moderate boost to attack speed when below "
-"50% health."
+msgid "The wearer of this belt gains a moderate boost to attack speed when below 50% health."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_attackspeed_lowhp_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b25c"
-msgid ""
-"The wearer of this belt gains a large boost to attack speed when below 50% "
-"health."
+msgid "The wearer of this belt gains a large boost to attack speed when below 50% health."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_berserker_abilitydata.xml
@@ -794,9 +684,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Passive\unique_item_passive_bow_lightning_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004acd8"
-msgid ""
-"Electricity enchanted: all attacks deal electricity damage and have a chance"
-" on hit to paralyze the target"
+msgid "Electricity enchanted: all attacks deal electricity damage and have a chance on hit to paralyze the target"
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_bow_piercing_abilitydata.xml
@@ -808,33 +696,25 @@ msgstr ""
 #. FILE: DA3\Party\general\Passive\unique_item_passive_chivalry_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004acec"
-msgid ""
-"Chivalry: you can deal damage only to enemies attacking you, but you deal "
-"more damage to them"
+msgid "Chivalry: you can deal damage only to enemies attacking you, but you deal more damage to them"
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_coldboost_t1_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b24c"
-msgid ""
-"Cold-based abilities are slightly more powerful at the cost of a small "
-"amount of health."
+msgid "Cold-based abilities are slightly more powerful at the cost of a small amount of health."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_coldboost_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b24e"
-msgid ""
-"Cold-based abilities are moderately more powerful at the cost of a moderate "
-"amount of health."
+msgid "Cold-based abilities are moderately more powerful at the cost of a moderate amount of health."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_coldboost_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b250"
-msgid ""
-"Cold-based abilities are much more powerful at the cost of a large amount of"
-" health."
+msgid "Cold-based abilities are much more powerful at the cost of a large amount of health."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_coldsword_abilitydata.xml
@@ -852,33 +732,25 @@ msgstr ""
 #. FILE: DA3\Party\general\Passive\unique_item_passive_cowardice_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004acc3"
-msgid ""
-"Cowardice: all attacks deal +500% from behind the target but only 10% damage"
-" from the front"
+msgid "Cowardice: all attacks deal +500% from behind the target but only 10% damage from the front"
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_critchain_t1_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b26e"
-msgid ""
-"Every time the wearer of this amulet doesn't land a critical hit, {herhis} "
-"critical hit chance increases slightly."
+msgid "Every time the wearer of this amulet doesn't land a critical hit, {herhis} critical hit chance increases slightly."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_critchain_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b270"
-msgid ""
-"Every time the wearer of this amulet doesn't land a critical hit, {herhis} "
-"critical hit chance increases somewhat."
+msgid "Every time the wearer of this amulet doesn't land a critical hit, {herhis} critical hit chance increases somewhat."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_critchain_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b272"
-msgid ""
-"Every time the wearer of this amulet doesn't land a critical hit, {herhis} "
-"critical hit chance increases greatly."
+msgid "Every time the wearer of this amulet doesn't land a critical hit, {herhis} critical hit chance increases greatly."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_damageleech_abilitydata.xml
@@ -890,41 +762,31 @@ msgstr ""
 #. FILE: DA3\Party\general\Passive\unique_item_passive_damagereturn_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b25e"
-msgid ""
-"When the wearer of this belt is attacked, some damage is reflected back onto"
-" enemies."
+msgid "When the wearer of this belt is attacked, some damage is reflected back onto enemies."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_deathsiphon_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b274"
-msgid ""
-"Every time an enemy dies nearby, the wearer of this amulet gains health and "
-"stamina."
+msgid "Every time an enemy dies nearby, the wearer of this amulet gains health and stamina."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_elecboost_t1_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b252"
-msgid ""
-"Electricity-based abilities are slightly more powerful at the cost of a "
-"small amount of health."
+msgid "Electricity-based abilities are slightly more powerful at the cost of a small amount of health."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_elecboost_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b254"
-msgid ""
-"Electricity-based abilities are moderately more powerful at the cost of a "
-"moderate amount of health."
+msgid "Electricity-based abilities are moderately more powerful at the cost of a moderate amount of health."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_elecboost_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b256"
-msgid ""
-"Electricity-based abilities are much more powerful at the cost of a large "
-"amount of health."
+msgid "Electricity-based abilities are much more powerful at the cost of a large amount of health."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_elecsword_abilitydata.xml
@@ -936,9 +798,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Passive\unique_item_passive_enhanced1hmace_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004acc7"
-msgid ""
-"Enhanced basic attacks: the end of the attack chain now briefly stuns "
-"enemies"
+msgid "Enhanced basic attacks: the end of the attack chain now briefly stuns enemies"
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_enhanced2haxe_abilitydata.xml
@@ -950,45 +810,37 @@ msgstr ""
 #. FILE: DA3\Party\general\Passive\unique_item_passive_enhanced2hmaul_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004acc6"
-msgid ""
-"Enhanced basic attacks: the end of the attack chain now knocks down enemies"
+msgid "Enhanced basic attacks: the end of the attack chain now knocks down enemies"
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_enhanceddagger_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004acc8"
-msgid ""
-"Enhanced basic attacks: the end of the attack chain now hits all enemies in "
-"the area"
+msgid "Enhanced basic attacks: the end of the attack chain now hits all enemies in the area"
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_enhancedstaff_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004acf4"
-msgid ""
-"Enhanced basic attacks: the end of the attack chain now drops 3 electricity "
-"glyphs around you"
+msgid "Enhanced basic attacks: the end of the attack chain now drops 3 electricity glyphs around you"
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_evasion_t1_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b266"
-msgid ""
-"The wearer of this amulet has a small chance of dodging incoming attacks."
+msgid "The wearer of this amulet has a small chance of dodging incoming attacks."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_evasion_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b268"
-msgid ""
-"The wearer of this amulet has a moderate chance of dodging incoming attacks."
+msgid "The wearer of this amulet has a moderate chance of dodging incoming attacks."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_evasion_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b26a"
-msgid ""
-"The wearer of this amulet has a large chance of dodging incoming attacks."
+msgid "The wearer of this amulet has a large chance of dodging incoming attacks."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_explosivekill_abilitydata.xml
@@ -1030,25 +882,19 @@ msgstr ""
 #. FILE: DA3\Party\general\Passive\unique_item_passive_fireboost_t1_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b246"
-msgid ""
-"Fire-based abilities are slightly more powerful at the cost of a small "
-"amount of health."
+msgid "Fire-based abilities are slightly more powerful at the cost of a small amount of health."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_fireboost_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b248"
-msgid ""
-"Fire-based abilities are moderately more powerful at the cost of a moderate "
-"amount of health."
+msgid "Fire-based abilities are moderately more powerful at the cost of a moderate amount of health."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_fireboost_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b24a"
-msgid ""
-"Fire-based abilities are much more powerful at the cost of a large amount of"
-" health."
+msgid "Fire-based abilities are much more powerful at the cost of a large amount of health."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_firesword_abilitydata.xml
@@ -1084,8 +930,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Passive\unique_item_passive_genbarrier_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b235"
-msgid ""
-"The wearer of this amulet receives a moderate amount of barrier when hit."
+msgid "The wearer of this amulet receives a moderate amount of barrier when hit."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_genbarrier_t3_abilitydata.xml
@@ -1097,23 +942,19 @@ msgstr ""
 #. FILE: DA3\Party\general\Passive\unique_item_passive_genthreat_t1_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b239"
-msgid ""
-"The wearer of this amulet generates a small amount of threat when attacking."
+msgid "The wearer of this amulet generates a small amount of threat when attacking."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_genthreat_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b23b"
-msgid ""
-"The wearer of this amulet generates a moderate amount of threat when "
-"attacking."
+msgid "The wearer of this amulet generates a moderate amount of threat when attacking."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_genthreat_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b23d"
-msgid ""
-"The wearer of this amulet generates a large amount of threat when attacking."
+msgid "The wearer of this amulet generates a large amount of threat when attacking."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_guardgenerator_abilitydata.xml
@@ -1299,49 +1140,37 @@ msgstr ""
 #. FILE: DA3\Party\general\Passive\unique_item_passive_nothreat_t1_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b240"
-msgid ""
-"The wearer of this amulet generates slightly less threat than normal when "
-"attacking."
+msgid "The wearer of this amulet generates slightly less threat than normal when attacking."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_nothreat_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b242"
-msgid ""
-"The wearer of this amulet generates moderately less threat than normal when "
-"attacking."
+msgid "The wearer of this amulet generates moderately less threat than normal when attacking."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_nothreat_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b244"
-msgid ""
-"The wearer of this amulet generates much less threat than normal when "
-"attacking."
+msgid "The wearer of this amulet generates much less threat than normal when attacking."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_permafire_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004aced"
-msgid ""
-"Permaflame: all nearby enemies are constantly burning; grants 50% bonus "
-"resistance to fire and 50% bonus fire damage"
+msgid "Permaflame: all nearby enemies are constantly burning; grants 50% bonus resistance to fire and 50% bonus fire damage"
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_permafrost_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004acc4"
-msgid ""
-"Permafrost: all nearby enemies are constantly chilled; grants 50% bonus "
-"resistance to cold and physical damage"
+msgid "Permafrost: all nearby enemies are constantly chilled; grants 50% bonus resistance to cold and physical damage"
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_permashock_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004acee"
-msgid ""
-"Permashock: all nearby enemies are constantly shocked; grants 50% bonus "
-"resistance to electricity and 50% attack speed"
+msgid "Permashock: all nearby enemies are constantly shocked; grants 50% bonus resistance to electricity and 50% attack speed"
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_poison_abilitydata.xml
@@ -1389,22 +1218,19 @@ msgstr ""
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_caltrops_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x00044830"
-msgid ""
-"10% chance to drop caltrops on a hit, doing 30% weapon damage per second"
+msgid "10% chance to drop caltrops on a hit, doing 30% weapon damage per second"
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_caltrops_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x00044831"
-msgid ""
-"10% chance to drop caltrops on a hit, doing 50% weapon damage per second"
+msgid "10% chance to drop caltrops on a hit, doing 50% weapon damage per second"
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_caltrops_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x00044832"
-msgid ""
-"10% chance to drop caltrops on a hit, doing 70% weapon damage per second"
+msgid "10% chance to drop caltrops on a hit, doing 70% weapon damage per second"
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_chainlightning_abilitydata.xml
@@ -1506,9 +1332,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_hemo_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004acef"
-msgid ""
-"On hit: chance to place a stack of Hemorrhage on the target, causing damage "
-"over time"
+msgid "On hit: chance to place a stack of Hemorrhage on the target, causing damage over time"
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_hiddenblades_abilitydata.xml
@@ -1634,25 +1458,19 @@ msgstr ""
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_walkingbomb_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x00044852"
-msgid ""
-"10% chance to apply Walking Bomb for 5 seconds, with detonation of 50% "
-"weapon damage"
+msgid "10% chance to apply Walking Bomb for 5 seconds, with detonation of 50% weapon damage"
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_walkingbomb_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x00044853"
-msgid ""
-"10% chance to apply Walking Bomb for 5 seconds, with detonation of 75% "
-"weapon damage"
+msgid "10% chance to apply Walking Bomb for 5 seconds, with detonation of 75% weapon damage"
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_walkingbomb_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x00044854"
-msgid ""
-"10% chance to apply Walking Bomb for 5 seconds, with detonation of 100% "
-"weapon damage"
+msgid "10% chance to apply Walking Bomb for 5 seconds, with detonation of 100% weapon damage"
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_walkingfortress_abilitydata.xml
@@ -1676,16 +1494,13 @@ msgstr ""
 #. FILE: DA3\Party\general\Passive\unique_item_passive_rampage_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004acc5"
-msgid ""
-"Rampage: on kill, movement and attack speed increases by 10% for 30 seconds."
-" Stacks up to 5 times."
+msgid "Rampage: on kill, movement and attack speed increases by 10% for 30 seconds. Stacks up to 5 times."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_resourceregen_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b26c"
-msgid ""
-"The wearer of this amulet regenerates mana or stamina at a higher rate."
+msgid "The wearer of this amulet regenerates mana or stamina at a higher rate."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_secondchance_abilitydata.xml
@@ -1715,9 +1530,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Passive\unique_item_passive_shieldsplosion_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004acbd"
-msgid ""
-"Enhanced Shield Wall: every fifth block with Shield Wall deals massive "
-"damage to enemies in the area"
+msgid "Enhanced Shield Wall: every fifth block with Shield Wall deals massive damage to enemies in the area"
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_singing_defense_abilitydata.xml
@@ -1771,25 +1584,19 @@ msgstr ""
 #. FILE: DA3\Party\general\Passive\unique_item_passive_stamonkill_t1_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b260"
-msgid ""
-"The wearer of this amulet gains a small amount of stamina after killing an "
-"enemy."
+msgid "The wearer of this amulet gains a small amount of stamina after killing an enemy."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_stamonkill_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b262"
-msgid ""
-"The wearer of this amulet gains a moderate amount of stamina after killing "
-"an enemy."
+msgid "The wearer of this amulet gains a moderate amount of stamina after killing an enemy."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_stamonkill_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b264"
-msgid ""
-"The wearer of this amulet gains a large amount of stamina after killing an "
-"enemy."
+msgid "The wearer of this amulet gains a large amount of stamina after killing an enemy."
 msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_warcry_abilitydata.xml
@@ -1801,9 +1608,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Passive\unique_item_passive_yololeap_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004acf7"
-msgid ""
-"Enhanced basic attack: your first attack now leaps toward your target if you"
-" are between 6 and 12 meters away"
+msgid "Enhanced basic attack: your first attack now leaps toward your target if you are between 6 and 12 meters away"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\ColdResistance\party_general_potion_coldresistance_abilitydata.xml
@@ -1815,10 +1620,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\ColdResistance\party_general_potion_coldresistance_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x000433e4"
-msgid ""
-"Grants a <font color=\"#F5ECCE\">{CUSTOM0}%</font> resistance against <font "
-"color=\"#F5ECCE\">cold</font> damage for <font "
-"color=\"#F5ECCE\">{CUSTOM1}</font> seconds.\n"
+msgid "Grants a <font color=\"#F5ECCE\">{CUSTOM0}%</font> resistance against <font color=\"#F5ECCE\">cold</font> damage for <font color=\"#F5ECCE\">{CUSTOM1}</font> seconds.\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\ColdResistance\party_general_potion_coldresistance_upgrade1a_abilitydata.xml
@@ -1866,9 +1668,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\ColdResistance\party_general_potion_coldresistance_upgradefinal_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x000430fe"
-msgid ""
-"Applies resistance to all party members within <font "
-"color=\"#F5ECCE\">{CUSTOM0}</font> meters when the tonic is consumed."
+msgid "Applies resistance to all party members within <font color=\"#F5ECCE\">{CUSTOM0}</font> meters when the tonic is consumed."
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\ConfusionGrenade\party_general_potion_confusiongrenade_abilitydata.xml
@@ -1880,9 +1680,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\ConfusionGrenade\party_general_potion_confusiongrenade_abilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x00043125"
-msgid ""
-"Enemies within the area of effect will attack other enemies for <font "
-"color=\"#F5ECCE\">{CUSTOM0}</font> seconds.\n"
+msgid "Enemies within the area of effect will attack other enemies for <font color=\"#F5ECCE\">{CUSTOM0}</font> seconds.\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\ConfusionGrenade\party_general_potion_confusiongrenade_upgrade1a_abilitydata.xml
@@ -1906,9 +1704,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\ConfusionGrenade\party_general_potion_confusiongrenade_upgrade2a_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x00043127"
-msgid ""
-"Confused targets now cause <font color=\"#F5ECCE\">{CUSTOM0}%</font> extra "
-"damage.\n"
+msgid "Confused targets now cause <font color=\"#F5ECCE\">{CUSTOM0}%</font> extra damage.\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\ConfusionGrenade\party_general_potion_confusiongrenade_upgrade2b_abilitydata.xml
@@ -1920,9 +1716,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\ConfusionGrenade\party_general_potion_confusiongrenade_upgrade2b_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x00043128"
-msgid ""
-"The damage bonus while confused is increased by <font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>."
+msgid "The damage bonus while confused is increased by <font color=\"#F5ECCE\">{CUSTOM0}%</font>."
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\ConfusionGrenade\party_general_potion_confusiongrenade_upgradefinal_abilitydata.xml
@@ -1934,9 +1728,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\ConfusionGrenade\party_general_potion_confusiongrenade_upgradefinal_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x00043129"
-msgid ""
-"All targets suffer <font color=\"#F5ECCE\">{CUSTOM0}</font> spirit damage "
-"when the effect wears off."
+msgid "All targets suffer <font color=\"#F5ECCE\">{CUSTOM0}</font> spirit damage when the effect wears off."
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\CrowPoison\party_general_potion_crowpoison_abilitydata.xml
@@ -1956,9 +1748,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\CrowPoison\party_general_potion_crowpoison_upgrade1a_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004312b"
-msgid ""
-"Increases poison duration on the target by <font "
-"color=\"#F5ECCE\">{CUSTOM0}</font> seconds."
+msgid "Increases poison duration on the target by <font color=\"#F5ECCE\">{CUSTOM0}</font> seconds."
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\CrowPoison\party_general_potion_crowpoison_upgrade1b_abilitydata.xml
@@ -1994,19 +1784,13 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\CrowPoison\party_general_potion_crowpoison_upgradefinal_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004312d"
-msgid ""
-"Grants <font color=\"#F5ECCE\">{CUSTOM0}</font> extra hits and <font "
-"color=\"#F5ECCE\">{CUSTOM1}</font> extra seconds before the poison wears "
-"off."
+msgid "Grants <font color=\"#F5ECCE\">{CUSTOM0}</font> extra hits and <font color=\"#F5ECCE\">{CUSTOM1}</font> extra seconds before the poison wears off."
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\ElectricResistance\party_general_potion_electricresistance_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x00043104"
-msgid ""
-"Grants a <font color=\"#F5ECCE\">{CUSTOM0}%</font> resistance against <font "
-"color=\"#F5ECCE\">electric</font> damage for <font "
-"color=\"#F5ECCE\">{CUSTOM1}</font> seconds.\n"
+msgid "Grants a <font color=\"#F5ECCE\">{CUSTOM0}%</font> resistance against <font color=\"#F5ECCE\">electric</font> damage for <font color=\"#F5ECCE\">{CUSTOM1}</font> seconds.\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\ElectricResistance\party_general_potion_electricresistance_upgrade1a_abilitydata.xml
@@ -2042,10 +1826,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\Elfroot\party_general_potion_elfroot_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x000430b6"
-msgid ""
-"Restores <font color=\"#F5ECCE\">{CUSTOM0}</font> health every <font "
-"color=\"#F5ECCE\">{CUSTOM1}</font> seconds for <font "
-"color=\"#F5ECCE\">{CUSTOM2}</font> seconds.\n"
+msgid "Restores <font color=\"#F5ECCE\">{CUSTOM0}</font> health every <font color=\"#F5ECCE\">{CUSTOM1}</font> seconds for <font color=\"#F5ECCE\">{CUSTOM2}</font> seconds.\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\Elfroot\party_general_potion_elfroot_upgrade1a_abilitydata.xml
@@ -2069,9 +1850,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\Elfroot\party_general_potion_elfroot_upgrade2a_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x000430f3"
-msgid ""
-"Increases healing amount by <font color=\"#F5ECCE\">{CUSTOM0}</font> per "
-"second."
+msgid "Increases healing amount by <font color=\"#F5ECCE\">{CUSTOM0}</font> per second."
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\Elfroot\party_general_potion_elfroot_upgrade2b_abilitydata.xml
@@ -2101,9 +1880,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\Elfroot\party_general_potion_elfroot_upgradefinal_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x000430f4"
-msgid ""
-"Doubles the healing amount if the user is below <font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font> health.\n"
+msgid "Doubles the healing amount if the user is below <font color=\"#F5ECCE\">{CUSTOM0}%</font> health.\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\FireBomb\party_general_potion_firebomb_abilitydata.xml
@@ -2115,11 +1892,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\FireBomb\party_general_potion_firebomb_abilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004313b"
-msgid ""
-"Spreads sticky fire at the target location, causing <font "
-"color=\"#F5ECCE\">{CUSTOM0}</font> burning damage every second to enemies "
-"inside the fire. The fire remains for <font "
-"color=\"#F5ECCE\">{CUSTOM1}</font> seconds.\n"
+msgid "Spreads sticky fire at the target location, causing <font color=\"#F5ECCE\">{CUSTOM0}</font> burning damage every second to enemies inside the fire. The fire remains for <font color=\"#F5ECCE\">{CUSTOM1}</font> seconds.\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\FireBomb\party_general_potion_firebomb_upgrade1a_abilitydata.xml
@@ -2155,18 +1928,13 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\FireBomb\party_general_potion_firebomb_upgrade_final_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004313d"
-msgid ""
-"Targets at the initial explosion location are stunned for <font "
-"color=\"#F5ECCE\">{CUSTOM0}</font> seconds."
+msgid "Targets at the initial explosion location are stunned for <font color=\"#F5ECCE\">{CUSTOM0}</font> seconds."
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\FireResistance\party_general_potion_fireresistance_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x000430fc"
-msgid ""
-"Grants a <font color=\"#F5ECCE\">{CUSTOM0}%</font> resistance against <font "
-"color=\"#F5ECCE\">fire</font> damage for <font "
-"color=\"#F5ECCE\">{CUSTOM1}</font> seconds.\n"
+msgid "Grants a <font color=\"#F5ECCE\">{CUSTOM0}%</font> resistance against <font color=\"#F5ECCE\">fire</font> damage for <font color=\"#F5ECCE\">{CUSTOM1}</font> seconds.\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\FireResistance\party_general_potion_fireresistance_upgrade1a_abilitydata.xml
@@ -2238,9 +2006,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\HealingMist\party_general_potion_healingmist_abilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004313e"
-msgid ""
-"Creates a small healing mist in the target area, instantly healing allies "
-"within for <font color=\"#F5ECCE\">{CUSTOM0}</font> health.\n"
+msgid "Creates a small healing mist in the target area, instantly healing allies within for <font color=\"#F5ECCE\">{CUSTOM0}</font> health.\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\HealingMist\party_general_potion_healingmist_finalupgrade1_abilitydata.xml
@@ -2252,8 +2018,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\HealingMist\party_general_potion_healingmist_finalupgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004313f"
-msgid ""
-"Healing Mist can restore unconscious party members as well as healing them."
+msgid "Healing Mist can restore unconscious party members as well as healing them."
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\HealingMist\party_general_potion_healingmist_upgrade1a_abilitydata.xml
@@ -2309,9 +2074,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\InsectSwarm\party_general_potion_insectswarm_upgrade2a_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x00043143"
-msgid ""
-"Increase the swarm's attack duration by <font "
-"color=\"#F5ECCE\">{CUSTOM0}</font> seconds"
+msgid "Increase the swarm's attack duration by <font color=\"#F5ECCE\">{CUSTOM0}</font> seconds"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\InsectSwarm\party_general_potion_insectswarm_upgrade2b_abilitydata.xml
@@ -2329,17 +2092,13 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\InsectSwarm\party_general_potion_insectswarm_upgradefinal_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x00043144"
-msgid ""
-"The swarm of bees splits off to attack the first enemy that comes near the "
-"original target, and both targets suffer the full effect of the swarm."
+msgid "The swarm of bees splits off to attack the first enemy that comes near the original target, and both targets suffer the full effect of the swarm."
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\Lyrium\party_general_potion_lyrium_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x000440ae"
-msgid ""
-"Increases Magic by <font color=\"#F5ECCE\">{CUSTOM0}</font> for <font "
-"color=\"#F5ECCE\">{CUSTOM1}</font> seconds."
+msgid "Increases Magic by <font color=\"#F5ECCE\">{CUSTOM0}</font> for <font color=\"#F5ECCE\">{CUSTOM1}</font> seconds."
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\Lyrium\party_general_potion_lyrium_upgrade1_abilitydata.xml
@@ -2387,9 +2146,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\MightyOffense\party_general_potion_mightyoffense_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x00043146"
-msgid ""
-"Applies a <font color=\"#F5ECCE\">+{CUSTOM0}</font> damage bonus for <font "
-"color=\"#F5ECCE\">{CUSTOM1}</font> seconds.\n"
+msgid "Applies a <font color=\"#F5ECCE\">+{CUSTOM0}</font> damage bonus for <font color=\"#F5ECCE\">{CUSTOM1}</font> seconds.\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\MightyOffense\party_general_potion_mightyoffense_upgrade1_abilitydata.xml
@@ -2413,9 +2170,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\MightyOffense\party_general_potion_mightyoffense_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x00043148"
-msgid ""
-"Grants a <font color=\"#F5ECCE\">+{CUSTOM0}%</font> damage bonus against "
-"enemies with Guard active.\n"
+msgid "Grants a <font color=\"#F5ECCE\">+{CUSTOM0}%</font> damage bonus against enemies with Guard active.\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\MightyOffense\party_general_potion_mightyoffense_upgrade3_abilitydata.xml
@@ -2427,9 +2182,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\MightyOffense\party_general_potion_mightyoffense_upgrade3_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x00043149"
-msgid ""
-"Grants a <font color=\"#F5ECCE\">+{CUSTOM0}%</font> damage bonus against "
-"enemies with Barrier active.\n"
+msgid "Grants a <font color=\"#F5ECCE\">+{CUSTOM0}%</font> damage bonus against enemies with Barrier active.\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\MightyOffense\party_general_potion_mightyoffense_upgrade4_abilitydata.xml
@@ -2441,9 +2194,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\MightyOffense\party_general_potion_mightyoffense_upgrade4_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004314a"
-msgid ""
-"Grants a <font color=\"#F5ECCE\">+{CUSTOM0}%</font> damage bonus on critical"
-" hits.\n"
+msgid "Grants a <font color=\"#F5ECCE\">+{CUSTOM0}%</font> damage bonus on critical hits.\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\MightyOffense\party_general_potion_mightyoffense_upgradefinal_abilitydata.xml
@@ -2461,10 +2212,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\OozeGrenade\party_general_potion_oozegrenade_abilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004314b"
-msgid ""
-"Coats the target location with pitch, which remains for <font "
-"color=\"#F5ECCE\">{CUSTOM0}</font> seconds, slowing any enemies that enter "
-"it.\n"
+msgid "Coats the target location with pitch, which remains for <font color=\"#F5ECCE\">{CUSTOM0}</font> seconds, slowing any enemies that enter it.\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\OozeGrenade\party_general_potion_oozegrenade_upgrade1a_abilitydata.xml
@@ -2488,10 +2236,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\OozeGrenade\party_general_potion_oozegrenade_upgrade2a_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004314c"
-msgid ""
-"Enemies caught in the pitch suffer <font color=\"#F5ECCE\">{CUSTOM0}%</font>"
-" extra damage from all sources and inflict <font "
-"color=\"#F5ECCE\">{CUSTOM1}%</font> less damage.\n"
+msgid "Enemies caught in the pitch suffer <font color=\"#F5ECCE\">{CUSTOM0}%</font> extra damage from all sources and inflict <font color=\"#F5ECCE\">{CUSTOM1}%</font> less damage.\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\OozeGrenade\party_general_potion_oozegrenade_upgrade2b_abilitydata.xml
@@ -2503,18 +2248,13 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\OozeGrenade\party_general_potion_oozegrenade_upgrade2b_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004314d"
-msgid ""
-"Increase the damage bonus against enemies by <font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font> and the damage penalty of enemies by "
-"<font color=\"#F5ECCE\">{CUSTOM1}%</font>."
+msgid "Increase the damage bonus against enemies by <font color=\"#F5ECCE\">{CUSTOM0}%</font> and the damage penalty of enemies by <font color=\"#F5ECCE\">{CUSTOM1}%</font>."
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\OozeGrenade\party_general_potion_oozegrenade_upgradefinal_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004314e"
-msgid ""
-"Targets at the initial explosion location are stunned for <font "
-"color=\"#F5ECCE\">{CUSTOM0}</font> seconds."
+msgid "Targets at the initial explosion location are stunned for <font color=\"#F5ECCE\">{CUSTOM0}</font> seconds."
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\RockSkin\party_general_potion_rockskin_abilitydata.xml
@@ -2526,9 +2266,7 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\RockSkin\party_general_potion_rockskin_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x00043150"
-msgid ""
-"Grants a <font color=\"#F5ECCE\">+{CUSTOM0}</font> bonus to armor rating for"
-" <font color=\"#F5ECCE\">{CUSTOM1}</font> seconds.\n"
+msgid "Grants a <font color=\"#F5ECCE\">+{CUSTOM0}</font> bonus to armor rating for <font color=\"#F5ECCE\">{CUSTOM1}</font> seconds.\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\RockSkin\party_general_potion_rockskin_upgrade1a_abilitydata.xml
@@ -2570,18 +2308,13 @@ msgstr ""
 #. FILE: DA3\Party\general\Potions\RockSkin\party_general_potion_rockskin_upgradefinal_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x00043152"
-msgid ""
-"Any enemy that hits the user has a <font color=\"#F5ECCE\">{CUSTOM0}%</font>"
-" chance to be stunned."
+msgid "Any enemy that hits the user has a <font color=\"#F5ECCE\">{CUSTOM0}%</font> chance to be stunned."
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\SpiritResistance\party_general_potion_spiritresistance_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004311f"
-msgid ""
-"Grants a <font color=\"#F5ECCE\">{CUSTOM0}%</font> resistance against <font "
-"color=\"#F5ECCE\">spirit</font> damage for <font "
-"color=\"#F5ECCE\">{CUSTOM1}</font> seconds.\n"
+msgid "Grants a <font color=\"#F5ECCE\">{CUSTOM0}%</font> resistance against <font color=\"#F5ECCE\">spirit</font> damage for <font color=\"#F5ECCE\">{CUSTOM1}</font> seconds.\n"
 msgstr ""
 
 #. FILE: DA3\Party\general\Potions\SpiritResistance\party_general_potion_spiritresistance_upgrade1a_abilitydata.xml
@@ -2637,17 +2370,13 @@ msgstr ""
 #. FILE: DA3\Party\mage\BloodMage\GraveMarker\party_mage_bloodmage_gravemarker_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042e80"
-msgid ""
-"<font color=\"#BAAB7B\">Spirit Damage: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}% weapon damage per second</font>\n"
+msgid "<font color=\"#BAAB7B\">Spirit Damage: </font><font color=\"#F5ECCE\">{CUSTOM0}% weapon damage per second</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\BloodMage\GraveMarker\party_mage_bloodmage_gravemarker_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004291e"
-msgid ""
-"<font color=\"#BAAB7B\">Charm Duration: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Charm Duration: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\BloodMage\GraveMarker\party_mage_bloodmage_gravemarker_upgrade2_abilitydata.xml
@@ -2712,9 +2441,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Controller\WalkingBomb\party_mage_controller_walkingbomb_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042e7f"
-msgid ""
-"<font color=\"#BAAB7B\">Explosion Damage: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}% of weapon damage</font>\n"
+msgid "<font color=\"#BAAB7B\">Explosion Damage: </font><font color=\"#F5ECCE\">{CUSTOM0}% of weapon damage</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Controller\WalkingBomb\party_mage_controller_walkingbomb_upgrade2_abilitydata.xml
@@ -2762,9 +2489,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\FireIce\FireMine\party_mage_fireice_firemine_aoeabilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042661"
-msgid ""
-"<font color=\"#BAAB7B\">Activation Delay: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Activation Delay: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\FireIce\FireMine\party_mage_fireice_firemine_upgrade1_abilitydata.xml
@@ -2784,9 +2509,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\FireIce\FireMine\party_mage_fireice_firemine_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042e68"
-msgid ""
-"<font color=\"#BAAB7B\">Burning: </font><font color=\"#F5ECCE\">{CUSTOM0}% "
-"weapon damage per second</font>\n"
+msgid "<font color=\"#BAAB7B\">Burning: </font><font color=\"#F5ECCE\">{CUSTOM0}% weapon damage per second</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\FireIce\FireMine\party_mage_fireice_firemine_upgrade2_abilitydata.xml
@@ -2840,9 +2563,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\FireIce\IceMine\party_mage_fireice_icemine_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004268e"
-msgid ""
-"<font color=\"#BAAB7B\">Armor Reduction: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Armor Reduction: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\FireIce\WallOfFire\party_mage_fireice_walloffire_aoeabilitydata.xml
@@ -2862,17 +2583,13 @@ msgstr ""
 #. FILE: DA3\Party\mage\FireIce\WallOfFire\party_mage_fireice_walloffire_aoeabilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042664"
-msgid ""
-"<font color=\"#BAAB7B\">Size: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"meters</font>\n"
+msgid "<font color=\"#BAAB7B\">Size: </font><font color=\"#F5ECCE\">{CUSTOM0} meters</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\FireIce\WallOfFire\party_mage_fireice_walloffire_aoeabilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member[5]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004267b"
-msgid ""
-"<font color=\"#BAAB7B\">Fear Duration: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Fear Duration: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\FireIce\WallOfFire\party_mage_fireice_walloffire_upgrade2_abilitydata.xml
@@ -2906,9 +2623,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\FireIce\WallOfFire\party_mage_fireice_walloffire_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042e9a"
-msgid ""
-"<font color=\"#BAAB7B\">Damage Duration Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Damage Duration Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\FireIce\WallOfIce\party_mage_fireice_wallofice_active_abilitydata.xml
@@ -2998,9 +2713,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Passives\ChaoticFocus\party_mage_passive_chaoticfocus_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042e7d"
-msgid ""
-"<font color=\"#BAAB7B\">Barrier Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Barrier Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\Clairvoyance\party_mage_passive_clairvoyance_abilitydata.xml
@@ -3020,17 +2733,13 @@ msgstr ""
 #. FILE: DA3\Party\mage\Passives\Clairvoyance\party_mage_passive_clairvoyance_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004267f"
-msgid ""
-"<font color=\"#BAAB7B\">Meditation Idle Threshold: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Meditation Idle Threshold: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\Clairvoyance\party_mage_passive_clairvoyance_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042937"
-msgid ""
-"<font color=\"#BAAB7B\">Mana Generation Rate Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Mana Generation Rate Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\ClearCasting\party_mage_passive_clearcasting_abilitydata.xml
@@ -3072,9 +2781,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Passives\DeathSiphon\party_mage_passive_deathsiphon_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004290f"
-msgid ""
-"<font color=\"#BAAB7B\">Mana Amount: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}</font>\n"
+msgid "<font color=\"#BAAB7B\">Mana Amount: </font><font color=\"#F5ECCE\">{CUSTOM0}</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\Destiny\party_mage_passive_destiny_abilitydata.xml
@@ -3094,9 +2801,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Passives\Destiny\party_mage_passive_destiny_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042923"
-msgid ""
-"<font color=\"#BAAB7B\">Damage Bonus vs. Weakened: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Damage Bonus vs. Weakened: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\DisciplineMastery\party_mage_passive_disciplinemastery_abilitydata.xml
@@ -3116,17 +2821,13 @@ msgstr ""
 #. FILE: DA3\Party\mage\Passives\DisciplineMastery\party_mage_passive_disciplinemastery_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x000428f4"
-msgid ""
-"<font color=\"#BAAB7B\">Freeze Duration Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Freeze Duration Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\DisciplineMastery\party_mage_passive_disciplinemastery_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x000428f6"
-msgid ""
-"<font color=\"#BAAB7B\">Chill Duration Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Chill Duration Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\DiscordMastery\party_mage_passive_discordmastery_abilitydata.xml
@@ -3146,17 +2847,13 @@ msgstr ""
 #. FILE: DA3\Party\mage\Passives\DiscordMastery\party_mage_passive_discordmastery_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x000428f8"
-msgid ""
-"<font color=\"#BAAB7B\">Burning Duration Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Burning Duration Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\DiscordMastery\party_mage_passive_discordmastery_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x000428ff"
-msgid ""
-"<font color=\"#BAAB7B\">Fear Duration Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Fear Duration Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\Dissonance\party_mage_passive_dissonance_abilitydata.xml
@@ -3184,9 +2881,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Passives\ElementalWard\party_mage_passive_elementalward_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042658"
-msgid ""
-"<font color=\"#BAAB7B\">Mana Regeneration: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Mana Regeneration: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\ElementaryMagic\party_mage_passive_elementarymagic_abilitydata.xml
@@ -3234,9 +2929,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Passives\Fate\party_mage_passive_fate_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042929"
-msgid ""
-"<font color=\"#BAAB7B\">Duration Bonus vs. Weakened: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Duration Bonus vs. Weakened: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\FrighteningPresence\party_mage_passive_frighteningpresence_abilitydata.xml
@@ -3256,9 +2949,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Passives\FrighteningPresence\party_mage_passive_frighteningpresence_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042927"
-msgid ""
-"<font color=\"#BAAB7B\">Damage Bonus vs. Panicked: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Damage Bonus vs. Panicked: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\Innocence\party_mage_passive_innocence_abilitydata.xml
@@ -3278,9 +2969,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Passives\Innocence\party_mage_passive_innocence_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042656"
-msgid ""
-"<font color=\"#BAAB7B\">Threat Reduction: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Threat Reduction: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\Karma\party_mage_passive_karma_abilitydata.xml
@@ -3300,9 +2989,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Passives\Karma\party_mage_passive_karma_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042938"
-msgid ""
-"<font color=\"#BAAB7B\">Mana Recovery: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Mana Recovery: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\Kismet\party_mage_passive_kismet_abilitydata.xml
@@ -3344,9 +3031,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Passives\Manic\party_mage_passive_manic_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042903"
-msgid ""
-"<font color=\"#BAAB7B\">Damage Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}% for every {CUSTOM1}% missing mana</font>\n"
+msgid "<font color=\"#BAAB7B\">Damage Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}% for every {CUSTOM1}% missing mana</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\Protector\party_mage_passive_protector_abilitydata.xml
@@ -3366,9 +3051,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Passives\Protector\party_mage_passive_protector_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004264d"
-msgid ""
-"<font color=\"#BAAB7B\">Barrier Decay Reduction: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Barrier Decay Reduction: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\ShimmeringShield\party_mage_passive_shimmeringshield_abilitydata.xml
@@ -3382,17 +3065,13 @@ msgstr ""
 #. FILE: DA3\Party\mage\Passives\ShimmeringShield\party_mage_passive_shimmeringshield_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042646"
-msgid ""
-"<font color=\"#BAAB7B\">Barrier: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Barrier: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\ShimmeringShield\party_mage_passive_shimmeringshield_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004490a"
-msgid ""
-"A barrier provides an additional health bar that must be destroyed before "
-"the target will take any damage. Barrier is vulnerable to dispel effects."
+msgid "A barrier provides an additional health bar that must be destroyed before the target will take any damage. Barrier is vulnerable to dispel effects."
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\Shroud\party_mage_passive_shroud_abilitydata.xml
@@ -3412,9 +3091,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Passives\Shroud\party_mage_passive_shroud_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042aae"
-msgid ""
-"<font color=\"#BAAB7B\">Barrier: </font><font color=\"#F5ECCE\">{CUSTOM0}% "
-"of damage dealt</font>\n"
+msgid "<font color=\"#BAAB7B\">Barrier: </font><font color=\"#F5ECCE\">{CUSTOM0}% of damage dealt</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\Spirit\party_mage_passive_spirit_abilitydata.xml
@@ -3448,9 +3125,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Passives\SpiritVeil\party_mage_passive_spiritveil_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042699"
-msgid ""
-"<font color=\"#BAAB7B\">Damage Returned: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Damage Returned: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\StaticCharge\party_mage_passive_staticcharge_abilitydata.xml
@@ -3484,9 +3159,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Staff\AblativeArmor\party_mage_staff_ablativearmor_aoe_abilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00044ab5"
-msgid ""
-"<font color=\"#BAAB7B\">Barrier: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}</font>\n"
+msgid "<font color=\"#BAAB7B\">Barrier: </font><font color=\"#F5ECCE\">{CUSTOM0}</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\AblativeArmor\party_mage_staff_ablativearmor_aoe_upgrade2_abilitydata.xml
@@ -3520,9 +3193,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Staff\AblativeArmor\party_mage_staff_ablativearmor_aoe_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004264a"
-msgid ""
-"<font color=\"#BAAB7B\">Cost Reduction: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} mana</font>\n"
+msgid "<font color=\"#BAAB7B\">Cost Reduction: </font><font color=\"#F5ECCE\">{CUSTOM0} mana</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\AblativeArmor\party_mage_staff_ablativearmor_ring_upgrade_abilitydata.xml
@@ -3734,9 +3405,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Staff\BurstFire\party_mage_staff_burst_fire_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042e6b"
-msgid ""
-"<font color=\"#BAAB7B\">Fire Damage Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}% weapon damage</font>\n"
+msgid "<font color=\"#BAAB7B\">Fire Damage Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}% weapon damage</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\BurstLightning\party_mage_staff_burst_lightning2_abilitydata.xml
@@ -3750,26 +3419,19 @@ msgstr ""
 #. FILE: DA3\Party\mage\Staff\BurstLightning\party_mage_staff_burst_lightning2_abilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042904"
-msgid ""
-"<font color=\"#BAAB7B\">Damage Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}% for every creature within {CUSTOM1} "
-"meters</font>\n"
+msgid "<font color=\"#BAAB7B\">Damage Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}% for every creature within {CUSTOM1} meters</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\BurstLightning\party_mage_staff_burst_lightning_abilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042675"
-msgid ""
-"<font color=\"#BAAB7B\">Paralyzed Duration: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Paralyzed Duration: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\BurstLightning\party_mage_staff_lightningrod_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00043ad4"
-msgid ""
-"<font color=\"#BAAB7B\">Paralyzed Duration: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds per nearby enemy</font>\n"
+msgid "<font color=\"#BAAB7B\">Paralyzed Duration: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds per nearby enemy</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\BurstLightning\party_mage_staff_lightningrod_upgrade2_abilitydata.xml
@@ -3826,17 +3488,13 @@ msgstr ""
 #. FILE: DA3\Party\mage\Staff\ChargedBurstIce\party_mage_staff_chargedburst_ice_abilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042fbd"
-msgid ""
-"<font color=\"#BAAB7B\">Ice Damage: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}% weapon damage per second</font>\n"
+msgid "<font color=\"#BAAB7B\">Ice Damage: </font><font color=\"#F5ECCE\">{CUSTOM0}% weapon damage per second</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\ChargedBurstIce\party_mage_staff_chargedburst_ice_abilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004265b"
-msgid ""
-"<font color=\"#BAAB7B\">Cost: </font><font color=\"#F5ECCE\">{CUSTOM0} mana "
-"per second</font>\n"
+msgid "<font color=\"#BAAB7B\">Cost: </font><font color=\"#F5ECCE\">{CUSTOM0} mana per second</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\ChargedBurstIce\party_mage_staff_chargedburst_ice_upgrade2_abilitydata.xml
@@ -3976,9 +3634,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Staff\Dispel\party_mage_staff_dispel_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004294e"
-msgid ""
-"<font color=\"#BAAB7B\">Damage Reduction: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Damage Reduction: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\Dispel\party_mage_staff_dispel_upgrade_abilitydata.xml
@@ -4034,9 +3690,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Staff\DoomBlade\party_mage_staff_doomblade_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042aba"
-msgid ""
-"<font color=\"#BAAB7B\">Bonus Damage vs. Barrier: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Bonus Damage vs. Barrier: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\DoomBlade\party_mage_staff_doomblade_active_abilitydata.xml
@@ -4050,17 +3704,13 @@ msgstr ""
 #. FILE: DA3\Party\mage\Staff\ElementalCone\party_mage_staff_elementalcone_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042f7f"
-msgid ""
-"<font color=\"#BAAB7B\">Chill Damage: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}% weapon damage per second</font>\n"
+msgid "<font color=\"#BAAB7B\">Chill Damage: </font><font color=\"#F5ECCE\">{CUSTOM0}% weapon damage per second</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\ElementalCone\party_mage_staff_elementalcone_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042e69"
-msgid ""
-"<font color=\"#BAAB7B\">Shocked: </font><font color=\"#F5ECCE\">{CUSTOM0}% "
-"weapon damage per second</font>\n"
+msgid "<font color=\"#BAAB7B\">Shocked: </font><font color=\"#F5ECCE\">{CUSTOM0}% weapon damage per second</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\FistOfTheMaker\party_mage_staff_fistofthemaker_upgrade2_abilitydata.xml
@@ -4080,9 +3730,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Staff\FistOfTheMaker\party_mage_staff_fistofthemaker_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042654"
-msgid ""
-"<font color=\"#BAAB7B\">Cooldown Reduction: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Cooldown Reduction: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\FistOfTheMaker\party_mage_staff_fistofthemaker_upgrade_abilitydata.xml
@@ -4144,9 +3792,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Staff\FlameTongue\party_mage_staff_flametongue_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004267c"
-msgid ""
-"<font color=\"#BAAB7B\">Fear Duration Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Fear Duration Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\Heal\party_mage_staff_heal_abilitydata.xml
@@ -4158,11 +3804,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Staff\Heal\party_mage_staff_heal_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 msgctxt "0x0003e31f"
-msgid ""
-"You call on benign spirits to restore you and your allies for continuing the"
-" fight. All party members are healed to full health, including those who "
-"have fallen unconscious, and a glyph around you provides ongoing healing to "
-"the party for the spell's duration.\n"
+msgid "You call on benign spirits to restore you and your allies for continuing the fight. All party members are healed to full health, including those who have fallen unconscious, and a glyph around you provides ongoing healing to the party for the spell's duration.\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\Heal\party_mage_staff_heal_abilitydata.xml
@@ -4219,9 +3861,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Staff\Phantasm\party_mage_staff_phantasm_abilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042677"
-msgid ""
-"<font color=\"#BAAB7B\">Panic Duration: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Panic Duration: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\Phantasm\party_mage_staff_phantasm_upgrade2_abilitydata.xml
@@ -4283,9 +3923,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Staff\Resurrect\party_mage_staff_resurrect_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00046de5"
-msgid ""
-"<font color=\"#BAAB7B\">Attack Speed Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Attack Speed Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\Resurrect\party_mage_staff_resurrect_upgrade_abilitydata.xml
@@ -4313,9 +3951,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042668"
-msgid ""
-"<font color=\"#BAAB7B\">Projectiles: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}</font>\n"
+msgid "<font color=\"#BAAB7B\">Projectiles: </font><font color=\"#F5ECCE\">{CUSTOM0}</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_upgrade2_abilitydata.xml
@@ -4349,9 +3985,7 @@ msgstr ""
 #. FILE: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042917"
-msgid ""
-"<font color=\"#BAAB7B\">Magic Resistance: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Magic Resistance: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\SlowBubble\party_mage_staff_slowbubble_inplace_abilitydata.xml
@@ -4469,17 +4103,13 @@ msgstr ""
 #. FILE: DA3\Party\mage\Support\ChainLightning\party_mage_support_chainlightning_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042fb5"
-msgid ""
-"<font color=\"#BAAB7B\">Distance Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} meters</font>\n"
+msgid "<font color=\"#BAAB7B\">Distance Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0} meters</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\mage\Support\ChainLightning\party_mage_support_chainlightning_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042637"
-msgid ""
-"<font color=\"#BAAB7B\">Additional Hits: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}</font>\n"
+msgid "<font color=\"#BAAB7B\">Additional Hits: </font><font color=\"#F5ECCE\">{CUSTOM0}</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Mount\Ability\dismount_abilitydata.xml
@@ -4528,9 +4158,7 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\Archery\ArrowOfSlaying\party_rogue_archery_arrowofslaying_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042632"
-msgid ""
-"<font color=\"#BAAB7B\">Damage Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}% at {CUSTOM1} meters</font>\n"
+msgid "<font color=\"#BAAB7B\">Damage Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}% at {CUSTOM1} meters</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\Archery\ArrowOfSlaying\party_rogue_archery_arrowofslaying_upgrade1_abilitydata.xml
@@ -4602,17 +4230,13 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\Archery\ExplosiveShot\party_rogue_archery_explosiveshot_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042633"
-msgid ""
-"<font color=\"#BAAB7B\">Damage Bonus per Target: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Damage Bonus per Target: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\Archery\ExplosiveShot\party_rogue_archery_explosiveshot_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042634"
-msgid ""
-"<font color=\"#BAAB7B\">Maximum Bonus Damage: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Maximum Bonus Damage: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\Archery\ExplosiveShot\party_rogue_archery_explosiveshot_upgrade2_abilitydata.xml
@@ -4682,9 +4306,7 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004383d"
-msgid ""
-"<font color=\"#BAAB7B\">Damage Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}% at full health</font>\n"
+msgid "<font color=\"#BAAB7B\">Damage Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}% at full health</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade1_abilitydata.xml
@@ -4704,9 +4326,7 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x000428f2"
-msgid ""
-"<font color=\"#BAAB7B\">Sleep Duration: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Sleep Duration: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade2_abilitydata.xml
@@ -4726,9 +4346,7 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b2a3"
-msgid ""
-"<font color=\"#BAAB7B\">Immobilize Duration: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Immobilize Duration: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\Assassin\HeartSeeker\party_rogue_assassin_heartseeker_upgrade1_abilitydata.xml
@@ -4770,9 +4388,7 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\Assassin\MarkOfDeath\party_rogue_assassin_markofdeath_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004268d"
-msgid ""
-"<font color=\"#BAAB7B\">Stored Damage: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Stored Damage: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\Assassin\MarkOfDeath\party_rogue_assassin_markofdeath_upgrade1_abilitydata.xml
@@ -4792,9 +4408,7 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\Assassin\MarkOfDeath\party_rogue_assassin_markofdeath_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042660"
-msgid ""
-"<font color=\"#BAAB7B\">Duration Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Duration Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\Assassin\MarkOfDeath\party_rogue_assassin_markofdeath_upgrade2_abilitydata.xml
@@ -4878,9 +4492,7 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\Assassin\SleepBomb\party_rogue_assassin_sleepbomb_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042ab2"
-msgid ""
-"<font color=\"#BAAB7B\">Bleed Duration: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Bleed Duration: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\Assassin\SleepBomb\party_rogue_assassin_sleepbomb_upgrade_abilitydata.xml
@@ -5169,17 +4781,13 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\FieldControl\CorrosiveWeapons\party_rogue_fieldcontrol_corrosiveweapons_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042e65"
-msgid ""
-"<font color=\"#BAAB7B\">Damage: </font><font color=\"#F5ECCE\">{CUSTOM0}% "
-"weapon damage per second</font>\n"
+msgid "<font color=\"#BAAB7B\">Damage: </font><font color=\"#F5ECCE\">{CUSTOM0}% weapon damage per second</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\FieldControl\CorrosiveWeapons\party_rogue_fieldcontrol_corrosiveweapons_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042630"
-msgid ""
-"<font color=\"#BAAB7B\">Damage Duration: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Damage Duration: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\FieldControl\CorrosiveWeapons\party_rogue_fieldcontrol_corrosiveweapons_upgrade1_abilitydata.xml
@@ -5255,9 +4863,7 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\General\Artifice\party_rogue_general_artifice_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 msgctxt "0x000430f6"
-msgid ""
-"<font color=\"#BAAB7B\">Fire Damage Duration: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Fire Damage Duration: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\General\Artifice\party_rogue_general_artifice_upgrade1_abilitydata.xml
@@ -5277,9 +4883,7 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\General\Artifice\party_rogue_general_artifice_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042692"
-msgid ""
-"<font color=\"#BAAB7B\">Additional Traps: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} for every {CUSTOM1} stamina</font>\n"
+msgid "<font color=\"#BAAB7B\">Additional Traps: </font><font color=\"#F5ECCE\">{CUSTOM0} for every {CUSTOM1} stamina</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\General\Artifice\party_rogue_general_artifice_upgrade2_abilitydata.xml
@@ -5409,9 +5013,7 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\General\Knives\party_rogue_general_knives_upgrade3_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004268c"
-msgid ""
-"<font color=\"#BAAB7B\">Maximum Distance: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} meters</font>\n"
+msgid "<font color=\"#BAAB7B\">Maximum Distance: </font><font color=\"#F5ECCE\">{CUSTOM0} meters</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\General\Miasma\party_rogue_general_miasma_abilitydata.xml
@@ -5515,9 +5117,7 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\General\SleepDust\party_rogue_general_sleepdust_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042667"
-msgid ""
-"<font color=\"#BAAB7B\">Damaged Sleep Duration: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Damaged Sleep Duration: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\General\SleepDust\party_rogue_general_sleepdust_upgrade2_abilitydata.xml
@@ -5649,9 +5249,7 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_skirmisher_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004291f"
-msgid ""
-"<font color=\"#BAAB7B\">Guard Amount: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Guard Amount: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_upgrade2_abilitydata.xml
@@ -5685,17 +5283,13 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004267d"
-msgid ""
-"<font color=\"#BAAB7B\">Stealth Bonus Damage: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Stealth Bonus Damage: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004267e"
-msgid ""
-"<font color=\"#BAAB7B\">Not Damaged Recently Threshold: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Not Damaged Recently Threshold: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\Passives\Alchemist\party_rogue_passive_alchemist_abilitydata.xml
@@ -5715,9 +5309,7 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\Passives\Alchemist\party_rogue_passive_alchemist_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042ab4"
-msgid ""
-"<font color=\"#BAAB7B\">Maximum Potions Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}</font>\n"
+msgid "<font color=\"#BAAB7B\">Maximum Potions Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\Passives\Ambush\party_rogue_passive_ambush_abilitydata.xml
@@ -5829,9 +5421,7 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\Passives\FocusFire\party_rogue_passive_focusfire_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042659"
-msgid ""
-"<font color=\"#BAAB7B\">Bonus Duration: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Bonus Duration: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\Passives\Forsaken\party_rogue_passive_forsaken_abilitydata.xml
@@ -5843,9 +5433,7 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\Passives\Forsaken\party_rogue_passive_forsaken_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 msgctxt "0x00042609"
-msgid ""
-"The effects of your elixirs last longer if you activate one immediately "
-"after another expires.\n"
+msgid "The effects of your elixirs last longer if you activate one immediately after another expires.\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\Passives\HighGround\party_rogue_passive_highground_abilitydata.xml
@@ -5865,9 +5453,7 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\Passives\HighGround\party_rogue_passive_highground_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042ab3"
-msgid ""
-"<font color=\"#BAAB7B\">Maximum Height: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} meters</font>\n"
+msgid "<font color=\"#BAAB7B\">Maximum Height: </font><font color=\"#F5ECCE\">{CUSTOM0} meters</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\Passives\Mobility\party_rogue_passive_mobility_abilitydata.xml
@@ -6005,9 +5591,7 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\Passives\Subtlety\party_rogue_passive_subtlety_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042662"
-msgid ""
-"<font color=\"#BAAB7B\">Flanking Threat Reduction: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Flanking Threat Reduction: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\Passives\Survivalist\party_rogue_passive_survivalist_abilitydata.xml
@@ -6147,9 +5731,7 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\Stalker\AspectOfPride\party_rogue_stalker_aspectofpride_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042650"
-msgid ""
-"<font color=\"#BAAB7B\">Speed Reduction Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Speed Reduction Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Rogue\Stalker\AspectOfPride\party_rogue_stalker_aspectofpride_upgrade2_abilitydata.xml
@@ -6302,9 +5884,7 @@ msgstr ""
 #. FILE: DA3\Party\Warrior\Battlemaster\InspiringHorn\party_warrior_battlemaster_inspiringhorn_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042935"
-msgid ""
-"<font color=\"#BAAB7B\">Additional Armor Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Additional Armor Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Battlemaster\InspiringHorn\party_warrior_battlemaster_inspiringhorn_upgrade2_abilitydata.xml
@@ -6434,9 +6014,7 @@ msgstr ""
 #. FILE: DA3\Party\Warrior\Chevalier\Bodyguard\party_warrior_chevalier_bodyguard_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042942"
-msgid ""
-"<font color=\"#BAAB7B\">Damage Transfer: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Damage Transfer: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Chevalier\Bodyguard\party_warrior_chevalier_bodyguard_upgrade1_abilitydata.xml
@@ -6512,9 +6090,7 @@ msgstr ""
 #. FILE: DA3\Party\Warrior\Chevalier\Challenge\party_warrior_chevalier_challenge_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004388e"
-msgid ""
-"<font color=\"#BAAB7B\">Bonus Regeneration: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} stamina per second</font>\n"
+msgid "<font color=\"#BAAB7B\">Bonus Regeneration: </font><font color=\"#F5ECCE\">{CUSTOM0} stamina per second</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Chevalier\Duel\party_warrior_chevalier_duel_abilitydata.xml
@@ -6534,17 +6110,13 @@ msgstr ""
 #. FILE: DA3\Party\Warrior\Chevalier\Duel\party_warrior_chevalier_duel_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042944"
-msgid ""
-"<font color=\"#BAAB7B\">Enemy Damage Output: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}% increase per second</font>\n"
+msgid "<font color=\"#BAAB7B\">Enemy Damage Output: </font><font color=\"#F5ECCE\">{CUSTOM0}% increase per second</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Chevalier\Duel\party_warrior_chevalier_duel_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042945"
-msgid ""
-"<font color=\"#BAAB7B\">Enemy Damage Taken: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}% increase per second</font>\n"
+msgid "<font color=\"#BAAB7B\">Enemy Damage Taken: </font><font color=\"#F5ECCE\">{CUSTOM0}% increase per second</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Chevalier\Duel\party_warrior_chevalier_duel_upgrade1_abilitydata.xml
@@ -6676,9 +6248,7 @@ msgstr ""
 #. FILE: DA3\Party\Warrior\Passives\Aggression\party_warrior_passive_aggression_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042657"
-msgid ""
-"<font color=\"#BAAB7B\">Threat Increase: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Threat Increase: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Passives\ArmorUp\party_warrior_passive_armorup_abilitydata.xml
@@ -6734,9 +6304,7 @@ msgstr ""
 #. FILE: DA3\Party\Warrior\Passives\Bulwark\party_warrior_passive_bulwark_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004293f"
-msgid ""
-"<font color=\"#BAAB7B\">Maximum Guard Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Maximum Guard Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Passives\Clemency\party_warrior_passive_clemency_abilitydata.xml
@@ -6870,9 +6438,7 @@ msgstr ""
 #. FILE: DA3\Party\Warrior\Passives\Guts\party_warrior_passive_guts_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042948"
-msgid ""
-"<font color=\"#BAAB7B\">Invulnerability Duration: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Invulnerability Duration: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Passives\Guts\unique_item_guts_abilitydata.xml
@@ -7052,9 +6618,7 @@ msgstr ""
 #. FILE: DA3\Party\Warrior\Passives\TwohandedSpecialization\party_warrior_passive_twohandedspecialization_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042932"
-msgid ""
-"<font color=\"#BAAB7B\">Stamina Restored: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Stamina Restored: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Passives\VanguardPASSIVE2\party_warrior_passive_vanguardPASSIVE2_abilitydata.xml
@@ -7088,25 +6652,19 @@ msgstr ""
 #. FILE: DA3\Party\Warrior\Passives\WeaponMastery\party_warrior_passive_weaponmastery_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042939"
-msgid ""
-"<font color=\"#BAAB7B\">Swords: </font><font color=\"#F5ECCE\">Critical hits"
-" cause Wound for {CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Swords: </font><font color=\"#F5ECCE\">Critical hits cause Wound for {CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Passives\WeaponMastery\party_warrior_passive_weaponmastery_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004293a"
-msgid ""
-"<font color=\"#BAAB7B\">Axes: </font><font color=\"#F5ECCE\">Critical hits "
-"deal {CUSTOM0} bonus damage versus Guard</font>\n"
+msgid "<font color=\"#BAAB7B\">Axes: </font><font color=\"#F5ECCE\">Critical hits deal {CUSTOM0} bonus damage versus Guard</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Passives\WeaponMastery\party_warrior_passive_weaponmastery_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004293b"
-msgid ""
-"<font color=\"#BAAB7B\">Hammers: </font><font color=\"#F5ECCE\">Critical "
-"hits cause {CUSTOM0} second(s) of Stun</font>\n"
+msgid "<font color=\"#BAAB7B\">Hammers: </font><font color=\"#F5ECCE\">Critical hits cause {CUSTOM0} second(s) of Stun</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Reaver\Devour\party_warrior_reaver_devour_abilitydata.xml
@@ -7126,9 +6684,7 @@ msgstr ""
 #. FILE: DA3\Party\Warrior\Reaver\Devour\party_warrior_reaver_devour_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00043892"
-msgid ""
-"<font color=\"#BAAB7B\">Health Restored: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}% for every {CUSTOM1}% health lost</font>\n"
+msgid "<font color=\"#BAAB7B\">Health Restored: </font><font color=\"#F5ECCE\">{CUSTOM0}% for every {CUSTOM1}% health lost</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Reaver\Devour\party_warrior_reaver_devour_abilitydata.xml
@@ -7140,9 +6696,7 @@ msgstr ""
 #. FILE: DA3\Party\Warrior\Reaver\Devour\party_warrior_reaver_devour_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 msgctxt "0x000428e1"
-msgid ""
-"After you attack with Devour, your next use of Dragon-Rage has a better "
-"chance of ripping deeply into your target for a critical strike.\n"
+msgid "After you attack with Devour, your next use of Dragon-Rage has a better chance of ripping deeply into your target for a critical strike.\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Reaver\Devour\party_warrior_reaver_devour_upgrade2_abilitydata.xml
@@ -7176,9 +6730,7 @@ msgstr ""
 #. FILE: DA3\Party\Warrior\Reaver\Fury\party_warrior_reaver_fury_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00043893"
-msgid ""
-"<font color=\"#BAAB7B\">Cost: </font><font color=\"#F5ECCE\">{CUSTOM0}% "
-"health</font>\n"
+msgid "<font color=\"#BAAB7B\">Cost: </font><font color=\"#F5ECCE\">{CUSTOM0}% health</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Reaver\Fury\party_warrior_reaver_fury_upgrade1_abilitydata.xml
@@ -7190,10 +6742,7 @@ msgstr ""
 #. FILE: DA3\Party\Warrior\Reaver\Fury\party_warrior_reaver_fury_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 msgctxt "0x000428ef"
-msgid ""
-"For some, Dragon-Rage is a dangerous ability. For you, it's the only way to "
-"fight. You now hit harder and reduce the cooldown time for Devour with every"
-" attack.\n"
+msgid "For some, Dragon-Rage is a dangerous ability. For you, it's the only way to fight. You now hit harder and reduce the cooldown time for Devour with every attack.\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Reaver\Fury\party_warrior_reaver_fury_upgrade2_abilitydata.xml
@@ -7219,17 +6768,13 @@ msgstr ""
 #. FILE: DA3\Party\Warrior\Reaver\PainAura\party_warrior_chevalier_painaura_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 msgctxt "0x000428dd"
-msgid ""
-"While Ring of Pain is active, Devour costs less stamina and has a shorter "
-"cooldown time, and Dragon-Rage costs less of your own health.\n"
+msgid "While Ring of Pain is active, Devour costs less stamina and has a shorter cooldown time, and Dragon-Rage costs less of your own health.\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Reaver\PainAura\party_warrior_chevalier_painaura_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004263d"
-msgid ""
-"<font color=\"#BAAB7B\">Cost Reduction: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Cost Reduction: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Reaver\PainAura\party_warrior_chevalier_painaura_upgrade2_abilitydata.xml
@@ -7333,9 +6878,7 @@ msgstr ""
 #. FILE: DA3\Party\Warrior\Templar\MakersWrath\party_warrior_templar_makerswrath_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004266e"
-msgid ""
-"<font color=\"#BAAB7B\">Stun Duration Bonus: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Stun Duration Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\Templar\MakersWrath\party_warrior_templar_makerswrath_upgrade2_abilitydata.xml
@@ -7550,9 +7093,7 @@ msgstr ""
 #. FILE: DA3\Party\Warrior\TwoHanded\Pound\party_warrior_twohanded_pound_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004264b"
-msgid ""
-"<font color=\"#BAAB7B\">Cost Reduction: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} stamina</font>\n"
+msgid "<font color=\"#BAAB7B\">Cost Reduction: </font><font color=\"#F5ECCE\">{CUSTOM0} stamina</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Pound\party_warrior_twohanded_pound_upgrade2_abilitydata.xml
@@ -7600,9 +7141,7 @@ msgstr ""
 #. FILE: DA3\Party\Warrior\TwoHanded\Whirlwind\party_warrior_twohanded_whirlwind_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042933"
-msgid ""
-"<font color=\"#BAAB7B\">Damage Bonus per Rotation: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Damage Bonus per Rotation: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Whirlwind\party_warrior_twohanded_whirlwind_upgrade2_abilitydata.xml
@@ -7907,9 +7446,7 @@ msgstr ""
 #. FILE: DA3\Party\Warrior\WeaponShield\Revenge\party_warrior_weaponshield_revenge_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004292f"
-msgid ""
-"<font color=\"#BAAB7B\">Recently Damaged Threshold: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
+msgid "<font color=\"#BAAB7B\">Recently Damaged Threshold: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 
 #. FILE: DA3\Party\Warrior\WeaponShield\Revenge\party_warrior_weaponshield_revenge_upgrade1_abilitydata.xml
@@ -7979,9 +7516,7 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\General\dlcblue_discharge_aoe_damage_upgrade.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x000495b5"
-msgid ""
-"<font color=\"#BAAB7B\">Damage: </font><font color=\"#F5ECCE\">{CUSTOM0}% "
-"weapon damage</font>"
+msgid "<font color=\"#BAAB7B\">Damage: </font><font color=\"#F5ECCE\">{CUSTOM0}% weapon damage</font>"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\General\dlcblue_party_inquisitor_focus_discharge_abilitydata.xml
@@ -8001,9 +7536,7 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\General\dlcblue_party_inquisitor_focus_discharge_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x000495b3"
-msgid ""
-"<font color=\"#BAAB7B\">Immunity Duration: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0} seconds</font>"
+msgid "<font color=\"#BAAB7B\">Immunity Duration: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Barrage\saarebas_abilities_barrage_abilitydata.xml
@@ -8035,9 +7568,7 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Barrage\saarebas_abilities_barrage_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3df"
-msgid ""
-"<font color=\"#F5ECCE\">{CUSTOM0} ice projectiles that chill "
-"enemies.</font>\n"
+msgid "<font color=\"#F5ECCE\">{CUSTOM0} ice projectiles that chill enemies.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Barrage\saarebas_abilities_barrage_abilitydata.xml
@@ -8049,9 +7580,7 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Barrage\saarebas_abilities_barrage_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3e0"
-msgid ""
-"<font color=\"#F5ECCE\">{CUSTOM0} fire projectiles that leave enemies "
-"burning.</font>\n"
+msgid "<font color=\"#F5ECCE\">{CUSTOM0} fire projectiles that leave enemies burning.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Barrage\saarebas_abilities_barrage_abilitydata.xml
@@ -8063,9 +7592,7 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Barrage\saarebas_abilities_barrage_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[8]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3e1"
-msgid ""
-"<font color=\"#F5ECCE\">{CUSTOM0} lightning projectiles that shock "
-"enemies.</font>\n"
+msgid "<font color=\"#F5ECCE\">{CUSTOM0} lightning projectiles that shock enemies.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Barrage\saarebas_abilities_barrage_upgrade_abilitydata.xml
@@ -8099,25 +7626,19 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Barrier\saarebas_abilities_barrier_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3b4"
-msgid ""
-"<font color=\"#F5ECCE\">You generate {CUSTOM0}% barrier for "
-"yourself.</font>\n"
+msgid "<font color=\"#F5ECCE\">You generate {CUSTOM0}% barrier for yourself.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Barrier\saarebas_abilities_barrier_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3b5"
-msgid ""
-"<font color=\"#F5ECCE\">You knock back enemies within {CUSTOM0} meters, "
-"gaining {CUSTOM1}% barrier for each enemy hit.</font>\n"
+msgid "<font color=\"#F5ECCE\">You knock back enemies within {CUSTOM0} meters, gaining {CUSTOM1}% barrier for each enemy hit.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Barrier\saarebas_abilities_barrier_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3b6"
-msgid ""
-"<font color=\"#F5ECCE\">You generate {CUSTOM0}% barrier for yourself and all"
-" allies.</font>\n"
+msgid "<font color=\"#F5ECCE\">You generate {CUSTOM0}% barrier for yourself and all allies.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Barrier\saarebas_abilities_barrier_upgrade_abilitydata.xml
@@ -8151,25 +7672,19 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Blink\saarebas_abilities_blink_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3d1"
-msgid ""
-"<font color=\"#F5ECCE\">You deal cold damage to enemies you pass "
-"through.</font>\n"
+msgid "<font color=\"#F5ECCE\">You deal cold damage to enemies you pass through.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Blink\saarebas_abilities_blink_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3d2"
-msgid ""
-"<font color=\"#F5ECCE\">You leap back to safety, dealing electricity damage "
-"to enemies you pass.</font>\n"
+msgid "<font color=\"#F5ECCE\">You leap back to safety, dealing electricity damage to enemies you pass.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Blink\saarebas_abilities_blink_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[8]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3d3"
-msgid ""
-"<font color=\"#F5ECCE\">You leap to an enemy, leaving fire behind you and "
-"striking your target as well.</font>\n"
+msgid "<font color=\"#F5ECCE\">You leap to an enemy, leaving fire behind you and striking your target as well.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Blink\saarebas_abilities_blink_upgrade_abilitydata.xml
@@ -8203,17 +7718,13 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Breath\saarebas_abilities_breath_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3c2"
-msgid ""
-"<font color=\"#F5ECCE\">Chilling ice deals {CUSTOM0}% cold damage and "
-"briefly freezes targets.</font>\n"
+msgid "<font color=\"#F5ECCE\">Chilling ice deals {CUSTOM0}% cold damage and briefly freezes targets.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Breath\saarebas_abilities_breath_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3c3"
-msgid ""
-"<font color=\"#F5ECCE\">Shocking electricity paralyzes enemies for {CUSTOM0}"
-" seconds.</font>\n"
+msgid "<font color=\"#F5ECCE\">Shocking electricity paralyzes enemies for {CUSTOM0} seconds.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Breath\saarebas_abilities_breath_abilitydata.xml
@@ -8253,25 +7764,19 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Burst\saarebas_abilities_burst_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b392"
-msgid ""
-"<font color=\"#F5ECCE\">You deal  {CUSTOM0}% electricity damage to your "
-"target, as well as enemies near your target.</font>\n"
+msgid "<font color=\"#F5ECCE\">You deal  {CUSTOM0}% electricity damage to your target, as well as enemies near your target.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Burst\saarebas_abilities_burst_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b393"
-msgid ""
-"<font color=\"#F5ECCE\">You deal {CUSTOM0}% fire damage to your target, and "
-"enemies near the target are panicked.</font>\n"
+msgid "<font color=\"#F5ECCE\">You deal {CUSTOM0}% fire damage to your target, and enemies near the target are panicked.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Burst\saarebas_abilities_burst_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[8]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b394"
-msgid ""
-"<font color=\"#F5ECCE\">A blizzard swirls around your target, dealing "
-"{CUSTOM0}% cold damage per second for {CUSTOM1} seconds.</font>\n"
+msgid "<font color=\"#F5ECCE\">A blizzard swirls around your target, dealing {CUSTOM0}% cold damage per second for {CUSTOM1} seconds.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Burst\saarebas_abilities_burst_upgrade_abilitydata.xml
@@ -8305,9 +7810,7 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\DoT\saarebas_abilities_dot_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b39f"
-msgid ""
-"<font color=\"#F5ECCE\">The target takes {CUSTOM0}% fire damage per "
-"second.</font>\n"
+msgid "<font color=\"#F5ECCE\">The target takes {CUSTOM0}% fire damage per second.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\DoT\saarebas_abilities_dot_abilitydata.xml
@@ -8319,9 +7822,7 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\DoT\saarebas_abilities_dot_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[8]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3a1"
-msgid ""
-"<font color=\"#F5ECCE\">The target takes {CUSTOM0}% of its current health as"
-" electricity damage every second.</font>\n"
+msgid "<font color=\"#F5ECCE\">The target takes {CUSTOM0}% of its current health as electricity damage every second.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\DoT\saarebas_abilities_dot_upgrade_abilitydata.xml
@@ -8355,33 +7856,25 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Glyph\saarebas_abilities_glyph_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004292e"
-msgid ""
-"<font color=\"#BAAB7B\">Amount: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
+msgid "<font color=\"#BAAB7B\">Amount: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Glyph\saarebas_abilities_glyph_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3bb"
-msgid ""
-"<font color=\"#F5ECCE\">A frost glyph increases your damage resistance and "
-"chills enemies that strike you.</font>\n"
+msgid "<font color=\"#F5ECCE\">A frost glyph increases your damage resistance and chills enemies that strike you.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Glyph\saarebas_abilities_glyph_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3bc"
-msgid ""
-"<font color=\"#F5ECCE\">A lightning glyph increases your movement speed and "
-"lets you dodge one hit every {CUSTOM0} seconds.</font>\n"
+msgid "<font color=\"#F5ECCE\">A lightning glyph increases your movement speed and lets you dodge one hit every {CUSTOM0} seconds.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Glyph\saarebas_abilities_glyph_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[8]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3bd"
-msgid ""
-"<font color=\"#F5ECCE\">A fire glyph increases your damage and burns enemies"
-" that strike you for {CUSTOM0}% damage per second.</font>\n"
+msgid "<font color=\"#F5ECCE\">A fire glyph increases your damage and burns enemies that strike you for {CUSTOM0}% damage per second.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Glyph\saarebas_abilities_glyph_upgrade_abilitydata.xml
@@ -8415,9 +7908,7 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Grip\saarebas_abilities_grip_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3aa"
-msgid ""
-"<font color=\"#F5ECCE\">You shove back enemies who stand before you, dealing"
-" physical damage.</font>\n"
+msgid "<font color=\"#F5ECCE\">You shove back enemies who stand before you, dealing physical damage.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Grip\saarebas_abilities_grip_abilitydata.xml
@@ -8429,9 +7920,7 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Grip\saarebas_abilities_grip_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[8]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3ac"
-msgid ""
-"<font color=\"#F5ECCE\">You seize an enemy and hold them immobile for "
-"{CUSTOM0} seconds.</font>\n"
+msgid "<font color=\"#F5ECCE\">You seize an enemy and hold them immobile for {CUSTOM0} seconds.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Grip\saarebas_abilities_grip_upgrade_abilitydata.xml
@@ -8465,25 +7954,19 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\PointBlank\saarebas_abilities_pointblank_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3a5"
-msgid ""
-"<font color=\"#F5ECCE\">A ring of fire deals {CUSTOM0}% damage to enemies "
-"within {CUSTOM1} meters.</font>\n"
+msgid "<font color=\"#F5ECCE\">A ring of fire deals {CUSTOM0}% damage to enemies within {CUSTOM1} meters.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\PointBlank\saarebas_abilities_pointblank_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3a6"
-msgid ""
-"<font color=\"#F5ECCE\">Your magic pulls all enemies within {CUSTOM0} meters"
-" toward your location.</font>\n"
+msgid "<font color=\"#F5ECCE\">Your magic pulls all enemies within {CUSTOM0} meters toward your location.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\PointBlank\saarebas_abilities_pointblank_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3a7"
-msgid ""
-"<font color=\"#F5ECCE\">You deal {CUSTOM0}% cold damage to all enemies "
-"within {CUSTOM1} meters and then freeze them.</font>\n"
+msgid "<font color=\"#F5ECCE\">You deal {CUSTOM0}% cold damage to all enemies within {CUSTOM1} meters and then freeze them.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\PointBlank\saarebas_abilities_pointblank_upgrade_abilitydata.xml
@@ -8523,18 +8006,13 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Projectile\saarebas_abilities_projectile_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b39a"
-msgid ""
-"<font color=\"#F5ECCE\">You fire two lightning-charged stones. The first "
-"paralyzes the target, and the second discharges if it hits the primary "
-"target.</font>\n"
+msgid "<font color=\"#F5ECCE\">You fire two lightning-charged stones. The first paralyzes the target, and the second discharges if it hits the primary target.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Projectile\saarebas_abilities_projectile_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[8]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b39b"
-msgid ""
-"<font color=\"#F5ECCE\">You hurl {CUSTOM0} flaming stones into the air, "
-"where they rain down upon your target.</font>\n"
+msgid "<font color=\"#F5ECCE\">You hurl {CUSTOM0} flaming stones into the air, where they rain down upon your target.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Projectile\saarebas_abilities_projectile_upgrade_abilitydata.xml
@@ -8568,25 +8046,19 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Ring\saarebas_abilities_ring_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[5]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3d9"
-msgid ""
-"<font color=\"#F5ECCE\">A ring of ice boosts allies' damage resistance by "
-"{CUSTOM0}%.</font>\n"
+msgid "<font color=\"#F5ECCE\">A ring of ice boosts allies' damage resistance by {CUSTOM0}%.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Ring\saarebas_abilities_ring_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[7]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3da"
-msgid ""
-"<font color=\"#F5ECCE\">A ring of lightning increases allies' attack speed "
-"by {CUSTOM0}%.</font>\n"
+msgid "<font color=\"#F5ECCE\">A ring of lightning increases allies' attack speed by {CUSTOM0}%.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Ring\saarebas_abilities_ring_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[9]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3d8"
-msgid ""
-"<font color=\"#F5ECCE\">A ring of fire deals {CUSTOM0}% fire damage each "
-"second.</font>\n"
+msgid "<font color=\"#F5ECCE\">A ring of fire deals {CUSTOM0}% fire damage each second.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Ring\saarebas_abilities_ring_upgrade_abilitydata.xml
@@ -8620,25 +8092,19 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Wall\saarebas_abilities_wall_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3af"
-msgid ""
-"<font color=\"#F5ECCE\">A wall of ice severely slows enemies for {CUSTOM0} "
-"seconds.</font>\n"
+msgid "<font color=\"#F5ECCE\">A wall of ice severely slows enemies for {CUSTOM0} seconds.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Wall\saarebas_abilities_wall_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3b0"
-msgid ""
-"<font color=\"#F5ECCE\">A wall of lightning paralyzes enemies for {CUSTOM0} "
-"seconds.</font>\n"
+msgid "<font color=\"#F5ECCE\">A wall of lightning paralyzes enemies for {CUSTOM0} seconds.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Wall\saarebas_abilities_wall_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[8]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3b1"
-msgid ""
-"<font color=\"#F5ECCE\">A wall of fire sweeps toward your target, dealing "
-"{CUSTOM0}% weapon damage.</font>\n"
+msgid "<font color=\"#F5ECCE\">A wall of fire sweeps toward your target, dealing {CUSTOM0}% weapon damage.</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Wall\saarebas_abilities_wall_upgrade_abilitydata.xml
@@ -8714,9 +8180,7 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Consumption\saarebas_passive_consumption_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042912"
-msgid ""
-"<font color=\"#BAAB7B\">Health Amount: </font><font "
-"color=\"#F5ECCE\">{CUSTOM0}</font>\n"
+msgid "<font color=\"#BAAB7B\">Health Amount: </font><font color=\"#F5ECCE\">{CUSTOM0}</font>\n"
 msgstr ""
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\FreeMotion\saarebas_passive_freemotion_abilitydata.xml
