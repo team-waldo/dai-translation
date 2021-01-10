@@ -6,9 +6,9 @@ msgstr ""
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.1.1\n"
-"Content-Transfer-Encoding: 8bit\n"
 
 #. FILE: DA3\Layouts\ArborWilds\ArborWilds_Main\design\layer6_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -408,6 +408,8 @@ msgstr ""
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer3_dsg_interactiveart_schematic.xml
 #. PATH: BWPopUpEntityData/Title
+#. 
+#. STRING 273055(0x00042a9f) : Mounts
 msgctxt "0x00043e0f"
 msgid "{string}273055{/string}"
 msgstr ""
@@ -416,13 +418,11 @@ msgstr ""
 #. PATH: BWPopUpEntityData/Text
 msgctxt "0x00043d18"
 msgid ""
-"Press "
-"{controller}{StringBtnLStickClick}{/controller}{notcontroller}{ConceptSprint}{/notcontroller}"
-" to gallop.  Press "
-"{controller}{StringBtnB}{/controller}{notcontroller}{ConceptSummonMount}{/notcontroller}"
-" to dismount.  To summon your mount, {controller}press {StringBtnLB} to open"
-" the radial menu and select {summonmount}{/controller}{notcontroller}select "
-"the mount icon on the hotbar or press {ConceptSummonMount}{/notcontroller}."
+"Press {controller}{StringBtnLStickClick}{/controller}{notcontroller}{ConceptSprint}{/notcontroller} to gallop.\n"
+"\n"
+"Press {controller}{StringBtnB}{/controller}{notcontroller}{ConceptSummonMount}{/notcontroller} to dismount.\n"
+"\n"
+"To summon your mount, {controller}press {StringBtnLB} to open the radial menu and select {summonmount}{/controller}{notcontroller}select the mount icon on the hotbar or press {ConceptSummonMount}{/notcontroller}."
 msgstr ""
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer3_dsg_interactiveart_schematic.xml
@@ -471,11 +471,11 @@ msgstr ""
 #. PATH: BWPopUpEntityData/Text
 msgctxt "0x00030ed2"
 msgid ""
-"When not in a dungeon, you can use the quest map to travel to distant "
-"locations.  Press {controller}{StringBtnSTART} and select the quest map in "
-"the hero menu{/controller}{notcontroller}{ConceptQuickShowMap} to open the "
-"quest map{/notcontroller}.{controller}  Press {StringBtnY} from the quest "
-"map to access the world map and travel to unlocked areas.{/controller}"
+"When not in a dungeon, you can use the quest map to travel to distant locations.\n"
+"\n"
+"Press {controller}{StringBtnSTART} and select the quest map in the hero menu{/controller}{notcontroller}{ConceptQuickShowMap} to open the quest map{/notcontroller}.{controller}\n"
+"\n"
+"Press {StringBtnY} from the quest map to access the world map and travel to unlocked areas.{/controller}"
 msgstr ""
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml
@@ -680,11 +680,11 @@ msgstr ""
 #. PATH: BWPopUpEntityData/Text
 msgctxt "0x000313ed"
 msgid ""
-"Stabilize areas by sealing Fade rifts, expand the reach of the Inquisition "
-"by setting up new camps, and complete quests to gain Power and Influence.  "
-"Spend Power on scouting operations at the war table to unlock new "
-"opportunities.  Gaining enough Influence increases the rank of your "
-"Inquisition and grants you access to unique perks."
+"Stabilize areas by sealing Fade rifts, expand the reach of the Inquisition by setting up new camps, and complete quests to gain Power and Influence.\n"
+"\n"
+"Spend Power on scouting operations at the war table to unlock new opportunities.\n"
+"\n"
+"Gaining enough Influence increases the rank of your Inquisition and grants you access to unique perks."
 msgstr ""
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\map\Ferelden_Wilderness_Main_floor0.xml
@@ -1399,9 +1399,13 @@ msgstr ""
 #. PATH: BWPopUpEntityData[1]/Text
 msgctxt "0x00043ac5"
 msgid ""
-"You now have access to missions. {appropriation}  Mission operations take "
-"time and bring the Inquisition resources and rewards.  Only one mission per "
-"advisor can be active at a time.  Some missions have a preferred\" type"
+"You now have access to missions. {appropriation}\n"
+"\n"
+"Mission operations take time and bring the Inquisition resources and rewards.\n"
+"\n"
+"Only one mission per advisor can be active at a time.\n"
+"\n"
+"Some missions have a \"preferred\" type, which results in less time required when undertaken by the associated advisor. Missions may also provide different rewards, depending on which advisor completes them."
 msgstr ""
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0101_wartable\layer3_dsg_0101_wartable_main_schematic.xml
@@ -1435,18 +1439,18 @@ msgstr ""
 #. PATH: BWPopUpEntityData[5]/Text
 msgctxt "0x000420ef"
 msgid ""
-"The war table allows you to apply the power of the Inquisition throughout "
-"Orlais and Ferelden.  Mother Giselle is in the Hinterlands, which can be "
-"found on the Ferelden side of the table."
+"The war table allows you to apply the power of the Inquisition throughout Orlais and Ferelden.\n"
+"\n"
+"Mother Giselle is in the Hinterlands, which can be found on the Ferelden side of the table."
 msgstr ""
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0101_wartable\layer3_dsg_0101_wartable_main_schematic.xml
 #. PATH: BWPopUpEntityData[6]/Text
 msgctxt "0x000420f0"
 msgid ""
-"The Inquisition can unlock new areas for you to explore through scouting "
-"operations. {scouting}  Perform the scouting operation for the Hinterlands "
-"on the Ferelden side of the war table now."
+"The Inquisition can unlock new areas for you to explore through scouting operations. {scouting}\n"
+"\n"
+"Perform the scouting operation for the Hinterlands on the Ferelden side of the war table now."
 msgstr ""
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0110_chantry_interior\layer1_dsg_0110_chantry_interior_main_schematic.xml
@@ -1485,11 +1489,13 @@ msgstr ""
 #. PATH: BWPopUpEntityData/Text
 msgctxt "0x00033475"
 msgid ""
-"Find recipes through exploration or by visiting merchants.  Visit an "
-"apothecary with herbs you gather in the wilderness to upgrade potions.  Use "
-"the equip station to assign different potions to each of your party members "
-"and to replenish the potions you are carrying.  Use the upgrade station to "
-"unlock permanent upgrades to your potions."
+"Find recipes through exploration or by visiting merchants.\n"
+"\n"
+"Visit an apothecary with herbs you gather in the wilderness to upgrade potions.\n"
+"\n"
+"Use the equip station to assign different potions to each of your party members and to replenish the potions you are carrying.\n"
+"\n"
+"Use the upgrade station to unlock permanent upgrades to your potions."
 msgstr ""
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0140_haven_lower\layer0_dsg_0140_haven_lower_main.xml
@@ -1745,13 +1751,9 @@ msgstr ""
 #. PATH: BWPopUpEntityData[2]/Text
 msgctxt "0x0003f84c"
 msgid ""
-"{controller}Use {StringBtnLStick} to move and {StringBtnRStick} to control "
-"the camera.{/controller}{notcontroller}Use "
-"{ConceptMoveFB}{!ConceptCameraYaw}{!ConceptMoveFB}{ConceptCameraYaw} to move"
-" and {!ConceptMoveLR} and {ConceptMoveLR} to strafe.   You can also look "
-"around by holding {StringBtnMouseRight} and moving the mouse. While looking "
-"with the mouse, you can strafe with {!ConceptCameraYaw} and "
-"{ConceptCameraYaw}.{/notcontroller}"
+"{controller}Use {StringBtnLStick} to move and {StringBtnRStick} to control the camera.{/controller}{notcontroller}Use {ConceptMoveFB}{!ConceptCameraYaw}{!ConceptMoveFB}{ConceptCameraYaw} to move and {!ConceptMoveLR} and {ConceptMoveLR} to strafe. \n"
+"\n"
+"You can also look around by holding {StringBtnMouseRight} and moving the mouse. While looking with the mouse, you can strafe with {!ConceptCameraYaw} and {ConceptCameraYaw}.{/notcontroller}"
 msgstr ""
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0190_pro_bridge\layer1_dsg_0190_pro_bridge_schematic.xml
@@ -1968,16 +1970,13 @@ msgstr ""
 #. PATH: BWPopUpEntityData[1]/Text
 msgctxt "0x00042f3c"
 msgid ""
-"While in Tactical Camera, use "
-"{controller}{StringBtnLStick}{/controller}{notcontroller}{ConceptFreeCameraMoveFB}{!ConceptFreeCameraMoveLR}{!ConceptFreeCameraMoveFB}{ConceptFreeCameraMoveLR}"
-" or hold down {StringBtnMouseLeftRight} or "
-"{StringBtnMouseMiddle}{/notcontroller} to scan the battlefield.  Use "
-"{controller}{StringBtnRStickClick}{/controller}{notcontroller}{ConceptPCCombatSwitchTargets}{/notcontroller}"
-" to cycle through targets.  Switch control between your party members and "
-"{controller}press {StringBtnA}{/controller}{notcontroller}use "
-"{StringBtnMouseRight}{/notcontroller} to issue orders to move to a specific "
-"spot or attack a specific enemy.{notcontroller}  To exit Tactical Camera "
-"mode, press {ConceptPauseAndPlay} or scroll back in.{/notcontroller}"
+"While in Tactical Camera, use {controller}{StringBtnLStick}{/controller}{notcontroller}{ConceptFreeCameraMoveFB}{!ConceptFreeCameraMoveLR}{!ConceptFreeCameraMoveFB}{ConceptFreeCameraMoveLR} or hold down {StringBtnMouseLeftRight} or {StringBtnMouseMiddle}{/notcontroller} to scan the battlefield.\n"
+"\n"
+"Use {controller}{StringBtnRStickClick}{/controller}{notcontroller}{ConceptPCCombatSwitchTargets}{/notcontroller} to cycle through targets.\n"
+"\n"
+"Switch control between your party members and {controller}press {StringBtnA}{/controller}{notcontroller}use {StringBtnMouseRight}{/notcontroller} to issue orders to move to a specific spot or attack a specific enemy.{notcontroller}\n"
+"\n"
+"To exit Tactical Camera mode, press {ConceptPauseAndPlay} or scroll back in.{/notcontroller}"
 msgstr ""
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0320_pro_lakecombat\layer1_dsg_0320_pro_lakecombat_schematic.xml
@@ -2027,11 +2026,11 @@ msgstr ""
 #. PATH: BWPopUpEntityData[1]/Text
 msgctxt "0x00042fb6"
 msgid ""
-"Fade rifts are caused by weaknesses in the Veil. Rifts spawn demons and can "
-"only be sealed once all nearby demons are killed.  The mark can disrupt the "
-"rift and cause damage to enemies.  When the Fade rift is available, interact"
-" with it to disrupt the rift and both stun and damage demons in its "
-"vicinity."
+"Fade rifts are caused by weaknesses in the Veil. Rifts spawn demons and can only be sealed once all nearby demons are killed.\n"
+"\n"
+"The mark can disrupt the rift and cause damage to enemies.\n"
+"\n"
+"When the Fade rift is available, interact with it to disrupt the rift and both stun and damage demons in its vicinity."
 msgstr ""
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0330_pro_firstrift\layer1_dsg_0330_pro_firstrift_schematic.xml
@@ -2054,10 +2053,9 @@ msgstr ""
 #. PATH: BWPopUpEntityData[5]/Text
 msgctxt "0x0004382d"
 msgid ""
-"Your character has leveled up. This increases your health and stats "
-"automatically and awards you one ability point to use.{notcontroller}  Press"
-" {ConceptQuickShowCharRec} to open the character record to see the Abilities"
-" screen.{/notcontroller}"
+"Your character has leveled up. This increases your health and stats automatically and awards you one ability point to use.{notcontroller}\n"
+"\n"
+"Press {ConceptQuickShowCharRec} to open the character record to see the Abilities screen.{/notcontroller}"
 msgstr ""
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0330_pro_firstrift\layer1_dsg_0330_pro_firstrift_schematic.xml
@@ -2081,51 +2079,46 @@ msgstr ""
 #. PATH: BWPopUpEntityData[2]/Text
 msgctxt "0x0004382e"
 msgid ""
-"When you have ability points available, {controller}press "
-"{GuiInteractionEnter} to learn a highlighted ability or "
-"upgrade{/controller}{notcontroller}click an ability or upgrade to learn "
-"it{/notcontroller}.  You can only learn abilities connected to the root of "
-"the ability tree or connected to an ability you've already learned."
+"When you have ability points available, {controller}press {GuiInteractionEnter} to learn a highlighted ability or upgrade{/controller}{notcontroller}click an ability or upgrade to learn it{/notcontroller}.\n"
+"\n"
+"You can only learn abilities connected to the root of the ability tree or connected to an ability you've already learned."
 msgstr ""
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0330_pro_firstrift\layer2_dsg_0330_pro_charrec_tutorial.xml
 #. PATH: BWPopUpEntityData[4]/Text
 msgctxt "0x00043831"
 msgid ""
-"Active abilities {activeability} are automatically assigned to an empty "
-"hotkey if one is available after learning.  At any time, you can "
-"{controller}select a learned ability and press "
-"{GuiInteractionEnter}{/controller}{notcontroller}drag a learned active "
-"ability{/notcontroller} to map it to a hotkey of your choice.  Select the "
-"Tactics tab from {controller}the Abilities screen "
-"in{/controller}{notcontroller}the top of {/notcontroller} the character "
-"record to access a complete list of your learned active abilities."
+"Active abilities {activeability} are automatically assigned to an empty hotkey if one is available after learning.\n"
+"\n"
+"At any time, you can {controller}select a learned ability and press {GuiInteractionEnter}{/controller}{notcontroller}drag a learned active ability{/notcontroller} to map it to a hotkey of your choice.\n"
+"\n"
+"Select the Tactics tab from {controller}the Abilities screen in{/controller}{notcontroller}the top of {/notcontroller} the character record to access a complete list of your learned active abilities."
 msgstr ""
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0330_pro_firstrift\layer2_dsg_0330_pro_charrec_tutorial.xml
 #. PATH: BWPopUpEntityData[5]/Text
 msgctxt "0x00043688"
 msgid ""
-"Each ability tree contains active abilities, upgrades, and passive "
-"abilities.  Active abilities have diamond-shaped icons. They can be mapped "
-"to your hotbar and then used in combat.  Upgrades are attached to an ability"
-" and make it stronger.  Passive abilities have circular icons and are "
-"permanent boosts to your character that are always active.  {controller}Use "
-"{StringBtnLStick}{/controller}{notcontroller}Drag with "
-"{StringBtnMouseLeft}{/notcontroller} to navigate the trees and "
-"{controller}inspect an ability's details{/controller}{notcontroller}hover "
-"over an ability to inspect its details{/notcontroller}."
+"Each ability tree contains active abilities, upgrades, and passive abilities.\n"
+"\n"
+"Active abilities have diamond-shaped icons. They can be mapped to your hotbar and then used in combat.\n"
+"\n"
+"Upgrades are attached to an ability and make it stronger.\n"
+"\n"
+"Passive abilities have circular icons and are permanent boosts to your character that are always active.\n"
+"\n"
+"{controller}Use {StringBtnLStick}{/controller}{notcontroller}Drag with {StringBtnMouseLeft}{/notcontroller} to navigate the trees and {controller}inspect an ability's details{/controller}{notcontroller}hover over an ability to inspect its details{/notcontroller}."
 msgstr ""
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0330_pro_firstrift\layer2_dsg_0330_pro_charrec_tutorial.xml
 #. PATH: BWPopUpEntityData[7]/Text
 msgctxt "0x0004383c"
 msgid ""
-"{controller}Use {StringBtnLStick} to select abilities in an ability tree.  "
-"Press {GuiInteractionEnter} to learn a highlighted ability.  Press "
-"{GuiInteractionBack} to go back{/controller}{notcontroller}Press "
-"{ConceptBack} to go back to the ability tree list{/notcontroller} and browse"
-" other ability trees."
+"{controller}Use {StringBtnLStick} to select abilities in an ability tree.\n"
+"\n"
+"Press {GuiInteractionEnter} to learn a highlighted ability.\n"
+"\n"
+"Press {GuiInteractionBack} to go back{/controller}{notcontroller}Press {ConceptBack} to go back to the ability tree list{/notcontroller} and browse other ability trees."
 msgstr ""
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0330_pro_firstrift\layer2_dsg_0330_pro_charrec_tutorial.xml
@@ -2166,11 +2159,11 @@ msgstr ""
 #. PATH: BWPopUpEntityData/Text
 msgctxt "0x00042fbe"
 msgid ""
-"Your character's mark can disrupt the rift and cause damage to enemies.  "
-"Look for opportunities against the rift when disrupt is available, but avoid"
-" being interrupted by incoming damage.  {controller}Hold {StringBtnA} when "
-"disrupt is available{/controller}{notcontroller}{StringBtnMouseRight} a rift"
-" to disrupt it when available{/notcontroller}."
+"Your character's mark can disrupt the rift and cause damage to enemies.\n"
+"\n"
+"Look for opportunities against the rift when disrupt is available, but avoid being interrupted by incoming damage.\n"
+"\n"
+"{controller}Hold {StringBtnA} when disrupt is available{/controller}{notcontroller}{StringBtnMouseRight} a rift to disrupt it when available{/notcontroller}."
 msgstr ""
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_1100_prologue\layer3_qst_1100_pro_flow_schematic.xml
@@ -2230,18 +2223,20 @@ msgstr ""
 #. PATH: BWPopUpEntityData[1]/Text
 msgctxt "0x000448fd"
 msgid ""
-"You have gained Mark of the Rift, a focus-based ability.  Mark of the Rift "
-"causes massive damage and can even kill some enemies instantly."
+"You have gained Mark of the Rift, a focus-based ability.\n"
+"\n"
+"Mark of the Rift causes massive damage and can even kill some enemies instantly."
 msgstr ""
 
 #. FILE: DA3\Layouts\InquisitorBase2\MainBase\crit_0002_wildernesswander\layer3_crit_0001_wildernessphase1_schematic.xml
 #. PATH: BWPopUpEntityData[2]/Text
 msgctxt "0x000432c1"
 msgid ""
-"Mark of the Rift is a focus-based ability.  Focus is a resource that is "
-"gained each time someone in your party deals damage.  Each party member has "
-"a personal focus meter, but all party members gain focus when a single "
-"member deals damage."
+"Mark of the Rift is a focus-based ability.\n"
+"\n"
+"Focus is a resource that is gained each time someone in your party deals damage.\n"
+"\n"
+"Each party member has a personal focus meter, but all party members gain focus when a single member deals damage."
 msgstr ""
 
 #. FILE: DA3\Layouts\InquisitorBase2\MainBase\crit_0002_wildernesswander\layer3_crit_0001_wildernessphase1_schematic.xml
@@ -3081,12 +3076,16 @@ msgstr ""
 
 #. FILE: DA3\Layouts\TheDales\hal_winter_palace_ext\map\hal_winter_palace_ext_floor0.xml
 #. PATH: BWMapPinLocation[3]/TitleReference
+#. 
+#. STRING 142432(0x00022c60) : Montbelliard's Ring
 msgctxt "0x00043ebb"
 msgid "{string}142432{/string}"
 msgstr ""
 
 #. FILE: DA3\Layouts\TheDales\hal_winter_palace_ext\map\hal_winter_palace_ext_floor0.xml
 #. PATH: BWMapPinLocation[4]/TitleReference
+#. 
+#. STRING 142379(0x00022c2b) : Unlock the Eastern Storage
 msgctxt "0x00043ebd"
 msgid "{string}142379{/string}"
 msgstr ""
@@ -3099,6 +3098,8 @@ msgstr ""
 
 #. FILE: DA3\Layouts\TheDales\hal_winter_palace_ext\map\hal_winter_palace_ext_floor1.xml
 #. PATH: BWMapPinLocation/TitleReference
+#. 
+#. STRING 142354(0x00022c12) : Even Gilded Walls Have Ears
 msgctxt "0x00043ebf"
 msgid "{string}142354{/string}"
 msgstr ""
@@ -4214,6 +4215,10 @@ msgstr ""
 
 #. FILE: DA3\Layouts\TheDales\TheDales_Highlands\map\TheDales_Highlands_floor0.xml
 #. PATH: BWMapPinLocation[68]/TitleReference
+#. 
+#. STRING 238738(0x0003a492) : Completed
+#. 
+#. STRING 277838(0x00043d4e) : Operations
 msgctxt "0x00044980"
 msgid "{string}238738{/string} {string}277838{/string}"
 msgstr ""
@@ -4508,12 +4513,16 @@ msgstr ""
 
 #. FILE: DA3\Layouts\TheDales\TheDales_Plains\TheDales_Plains\dsg_dalishhunter\layer1_dsg_dalishhunter_general_schematic.xml
 #. PATH: ShowPlotIntegerNotificationEntityData[1]/NotificationFormatTextReference
+#. 
+#. STRING 195969(0x0002fd81) : Dalish favor
 msgctxt "0x00044873"
 msgid "{string}195969{/string} +{CUSTOM0}"
 msgstr ""
 
 #. FILE: DA3\Layouts\TheDales\TheDales_Plains\TheDales_Plains\dsg_dalishhunter\layer1_dsg_dalishhunter_general_schematic.xml
 #. PATH: ShowPlotIntegerNotificationEntityData[3]/NotificationFormatTextReference
+#. 
+#. STRING 195969(0x0002fd81) : Dalish favor
 msgctxt "0x00044874"
 msgid "{string}195969{/string} -{CUSTOM0}"
 msgstr ""
@@ -5211,6 +5220,8 @@ msgstr ""
 
 #. FILE: DA3\Layouts\ThematicLevels\the_DesertRuins_510\design\layer20_dsg_landmarks_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
+#. 
+#. STRING 273091(0x00042ac3) : Lonely Light
 msgctxt "0x000337e0"
 msgid "{string}273091{/string}"
 msgstr ""
@@ -5223,42 +5234,56 @@ msgstr ""
 
 #. FILE: DA3\Layouts\ThematicLevels\the_DesertRuins_510\design\layer20_dsg_landmarks_schematic.xml
 #. PATH: GetLocalizedStringIDData[3]/Text
+#. 
+#. STRING 272936(0x00042a28) : The Oasis
 msgctxt "0x00029f2f"
 msgid "{string}272936{/string}"
 msgstr ""
 
 #. FILE: DA3\Layouts\ThematicLevels\the_DesertRuins_510\design\layer20_dsg_landmarks_schematic.xml
 #. PATH: GetLocalizedStringIDData[4]/Text
+#. 
+#. STRING 273389(0x00042bed) : Canyon Overlook
 msgctxt "0x000337d4"
 msgid "{string}273389{/string}"
 msgstr ""
 
 #. FILE: DA3\Layouts\ThematicLevels\the_DesertRuins_510\design\layer20_dsg_landmarks_schematic.xml
 #. PATH: GetLocalizedStringIDData[5]/Text
+#. 
+#. STRING 273337(0x00042bb9) : The Empty Square
 msgctxt "0x00029dfb"
 msgid "{string}273337{/string}"
 msgstr ""
 
 #. FILE: DA3\Layouts\ThematicLevels\the_DesertRuins_510\design\layer20_dsg_landmarks_schematic.xml
 #. PATH: GetLocalizedStringIDData[6]/Text
+#. 
+#. STRING 273636(0x00042ce4) : A Blocked Doorway
 msgctxt "0x000337c8"
 msgid "{string}273636{/string}"
 msgstr ""
 
 #. FILE: DA3\Layouts\ThematicLevels\the_DesertRuins_510\design\layer20_dsg_landmarks_schematic.xml
 #. PATH: GetLocalizedStringIDData[7]/Text
+#. 
+#. STRING 272935(0x00042a27) : The Colossus of Orlais
 msgctxt "0x00029e22"
 msgid "{string}272935{/string}"
 msgstr ""
 
 #. FILE: DA3\Layouts\ThematicLevels\the_DesertRuins_510\design\layer20_dsg_landmarks_schematic.xml
 #. PATH: GetLocalizedStringIDData[8]/Text
+#. 
+#. STRING 273334(0x00042bb6) : The Four Pillars
 msgctxt "0x000337e7"
 msgid "{string}273334{/string}"
 msgstr ""
 
 #. FILE: DA3\Layouts\ThematicLevels\the_DesertRuins_510\design\layer20_dsg_landmarks_schematic.xml
 #. PATH: GetLocalizedStringIDData[9]/Text
+#. 
+#. STRING 273093(0x00042ac5) : Stone Over Sky
 msgctxt "0x000337c7"
 msgid "{string}273093{/string}"
 msgstr ""
@@ -5987,6 +6012,8 @@ msgstr ""
 
 #. FILE: DA3\Layouts\ThematicLevels\the_WaterRuins_520\design\layer21_dsg_doors_schematic.xml
 #. PATH: GetLocalizedStringIDData[3]/Text
+#. 
+#. STRING 273105(0x00042ad1) : Ornate Elven Key
 msgctxt "0x000337a3"
 msgid "Requires {string}273105{/string}"
 msgstr ""
@@ -6449,6 +6476,8 @@ msgstr ""
 
 #. FILE: DA3\Layouts\TheWesternApproach\TheWesternApproach_Main\grp_collections\layer1_dsg_landmarks_schematic.xml
 #. PATH: GetLocalizedStringIDData[2]/Text
+#. 
+#. STRING 230202(0x0003833a) : Griffon Wing Monument
 msgctxt "0x0002c041"
 msgid "{string}230202{/string}"
 msgstr ""
@@ -6784,9 +6813,9 @@ msgstr ""
 #. PATH: BWPopUpEntityData/Text
 msgctxt "0x00033537"
 msgid ""
-"- The templars will hold the Great Hall, but their strength will wane over "
-"time! - Returning to help the templars resecure the Great Hall will restore "
-"their strength. - If the templars are overwhelmed, the battle will be lost."
+"- The templars will hold the Great Hall, but their strength will wane over time!\n"
+"- Returning to help the templars resecure the Great Hall will restore their strength.\n"
+"- If the templars are overwhelmed, the battle will be lost."
 msgstr ""
 
 #. FILE: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\dsg_0000_global\layer1_dsg_0000_doors_schematic.xml
@@ -6877,11 +6906,13 @@ msgstr ""
 #. PATH: BWPopUpEntityData[1]/Text
 msgctxt "0x0002eb51"
 msgid ""
-"Marion:  I'm getting the same headaches, but everyone on the red stuff says "
-"they pass. You'll feel stronger before long. I finally beat Sergeant Pollet "
-"during sparring yesterday. Twice! The look on his face!   I hear they're "
-"increasing rations for anyone on red lyrium. Let's practice together "
-"tomorrow. I need to train with someone who can keep pace.  Venner"
+"Marion:\n"
+"\n"
+"I'm getting the same headaches, but everyone on the red stuff says they pass. You'll feel stronger before long. I finally beat Sergeant Pollet during sparring yesterday. Twice! The look on his face! \n"
+"\n"
+"I hear they're increasing rations for anyone on red lyrium. Let's practice together tomorrow. I need to train with someone who can keep pace.\n"
+"\n"
+"Venner"
 msgstr ""
 
 #. FILE: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\dsg_0400_grandhallentrance\layer11_dsg_0400_main_schematic.xml
@@ -6894,12 +6925,13 @@ msgstr ""
 #. PATH: BWPopUpEntityData[2]/Text
 msgctxt "0x0003058e"
 msgid ""
-"Knight-Captain Sigric:  I gave clear instructions. The knights are "
-"restricted to the lower barracks while the officers plan our next action. I "
-"will not tolerate fraternization. The Order's pride has suffered too many "
-"injuries. Therinfal Redoubt is where we will regain our purpose.   Send the "
-"offenders to me for punishment and extend training exercises by an hour. We "
-"must strengthen the knights for what's to come.  Lord Seeker Lucius Corin"
+"Knight-Captain Sigric:\n"
+"\n"
+"I gave clear instructions. The knights are restricted to the lower barracks while the officers plan our next action. I will not tolerate fraternization. The Order's pride has suffered too many injuries. Therinfal Redoubt is where we will regain our purpose. \n"
+"\n"
+"Send the offenders to me for punishment and extend training exercises by an hour. We must strengthen the knights for what's to come.\n"
+"\n"
+"Lord Seeker Lucius Corin"
 msgstr ""
 
 #. FILE: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\dsg_0400_secretrooms\layer1_dsg_0400_secretrooms_exploration_schematic.xml
@@ -6948,11 +6980,15 @@ msgstr ""
 #. PATH: BWPopUpEntityData/Text
 msgctxt "0x00027ab8"
 msgid ""
-"—Three crates, high grade. West Sink Mines, Orzammar. House Keltarr. —Two "
-"crates, regular grade. Sternann Peak, Anderfels. Town of Geltberg. —Five "
-"crates of red\" lyrium. Source unverified. Rations given out only on Lord "
-"Seeker's orders.  <i>A note is pinned to the bottom of the page.</i>  Isric:"
-"   Is it me"
+"—Three crates, high grade. West Sink Mines, Orzammar. House Keltarr.\n"
+"—Two crates, regular grade. Sternann Peak, Anderfels. Town of Geltberg.\n"
+"—Five crates of \"red\" lyrium. Source unverified. Rations given out only on Lord Seeker's orders.\n"
+"\n"
+"<i>A note is pinned to the bottom of the page.</i>\n"
+"\n"
+"Isric: \n"
+"\n"
+"Is it me, or does red lyrium sound different than the rest? I caught the new boy listening to it after stacking the crates. Dragged him out by his ears, but the knight-captain says put him on the red lyrium from now on. Too lenient if you ask me."
 msgstr ""
 
 #. FILE: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\dsg_0610_wa_lordseekersoffice\layer1_dsg_0610_wa_lordseekersoffice_main_schematic.xml
@@ -6977,18 +7013,13 @@ msgstr ""
 #. PATH: BWPopUpEntityData/Text
 msgctxt "0x00025cff"
 msgid ""
-"<i>A page from a log of prisoners jailed in Therinfal Redoubt over two ages "
-"ago. The paper crumbles to the touch.</i>  —Knights-Templar Wellen, Poller, "
-"and Legain, kept for questioning after leveling charges of apostasy against "
-"one Marion Durge, found innocent after Seeker Tehan's investigation. "
-"Imprisoned 5th of Verimensis, 7:02 Storm.  —Ellin Devar, First Enchanter, "
-"arrested for possession of heretical material. After protesting innocence, "
-"tomes containing instructions on blood magic discovered hidden in his "
-"office, as well eight mage phylacteries. Executed 29th of Verimensis, 7:02 "
-"Storm.  —Peytr Lothir, accused of apostasy. Brought in for examination by "
-"Seeker Landsdale. Possessed no magic. Thought to be in the grip of a disease"
-" of the brain. Kept imprisoned for his own safety. Visitors allowed. Jailed "
-"9th of Pluitanis, 7:02 Storm."
+"<i>A page from a log of prisoners jailed in Therinfal Redoubt over two ages ago. The paper crumbles to the touch.</i>\n"
+"\n"
+"—Knights-Templar Wellen, Poller, and Legain, kept for questioning after leveling charges of apostasy against one Marion Durge, found innocent after Seeker Tehan's investigation. Imprisoned 5th of Verimensis, 7:02 Storm.\n"
+"\n"
+"—Ellin Devar, First Enchanter, arrested for possession of heretical material. After protesting innocence, tomes containing instructions on blood magic discovered hidden in his office, as well eight mage phylacteries. Executed 29th of Verimensis, 7:02 Storm.\n"
+"\n"
+"—Peytr Lothir, accused of apostasy. Brought in for examination by Seeker Landsdale. Possessed no magic. Thought to be in the grip of a disease of the brain. Kept imprisoned for his own safety. Visitors allowed. Jailed 9th of Pluitanis, 7:02 Storm."
 msgstr ""
 
 #. FILE: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\map\val_SeekerFortress_floor0.xml
@@ -7463,9 +7494,9 @@ msgstr ""
 #. PATH: BWPopUpEntityData/Text
 msgctxt "0x000470dc"
 msgid ""
-"The Inquisitor has gained a new ability: Aegis of the Rift  Use this ability"
-" to turn the Veil itself into a magical shield that deflects enemy "
-"projectiles. It can be upgraded in the Inquisitor ability tree."
+"The Inquisitor has gained a new ability: Aegis of the Rift\n"
+"\n"
+"Use this ability to turn the Veil itself into a magical shield that deflects enemy projectiles. It can be upgraded in the Inquisitor ability tree."
 msgstr ""
 
 #. FILE: DA3_DLC1\Layouts\DLC1_Wilderness\qst_missingsoldiercarnage_props\layer1_qst_missingsoldiercarnage_props_general_schematic.xml
@@ -7943,6 +7974,8 @@ msgstr ""
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\map\DLCBlue_WinterPalace_floor0.xml
 #. PATH: BWMapPinLocation[18]/TitleReference
+#. 
+#. STRING 307990(0x0004b316) : Notes on Palace Guests
 msgctxt "0x0004b51b"
 msgid "{string}307990{/string}"
 msgstr ""
@@ -8219,6 +8252,8 @@ msgstr ""
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor4.xml
 #. PATH: BWMapPinSearchZone[1]/TitleReference
+#. 
+#. STRING 305775(0x0004aa6f) : Scorched Ancient Gear
 msgctxt "0x00047787"
 msgid "Find the {string}305775{/string}s"
 msgstr ""

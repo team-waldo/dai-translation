@@ -242,7 +242,7 @@ msgstr ""
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\dlc_cod_char_Xenon.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00046111"
-msgid "Xenon the Antiquarian "
+msgid "Xenon the Antiquarian\n"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\let_ada_hero_of_ferelden_to_inq.xml
@@ -799,18 +799,24 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_chant_adamant.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 19396(0x00004bc4) : Here Lies the Abyss
 msgctxt "0x00041847"
 msgid "{string}19396{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_chant_finale.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 152053(0x000251f5) : Doom Upon All the World
 msgctxt "0x000411b3"
 msgid "{string}152053{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_chant_halamshiral.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 146856(0x00023da8) : Wicked Eyes and Wicked Hearts
 msgctxt "0x00041a64"
 msgid "{string}146856{/string}"
 msgstr ""
@@ -823,12 +829,16 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_chant_prologue.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 19458(0x00004c02) : The Wrath of Heaven
 msgctxt "0x0004138b"
 msgid "{string}19458{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_chant_redcliffe.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 19480(0x00004c18) : In Hushed Whispers
 msgctxt "0x000419b2"
 msgid "{string}19480{/string}"
 msgstr ""
@@ -841,6 +851,8 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_chant_setback.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 152051(0x000251f3) : In Your Heart Shall Burn
 msgctxt "0x00041638"
 msgid "{string}152051{/string}"
 msgstr ""
@@ -2114,7 +2126,7 @@ msgstr ""
 #. FILE: DA3\DesignContent\Codex\Plot\BlackEmporium\dlc_cod_tbe_sign_xenonsleeps.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00046b1b"
-msgid "Do Not Disturb\"\""
+msgid "\"Do Not Disturb\""
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Plot\CradleSulevin\the_RevenentChurch_Ruins.xml
@@ -3613,6 +3625,8 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Plot\Hinterlands\cod_pop_build_port.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 271206(0x00042366) : An Unsigned Letter
 msgctxt "0x0004235c"
 msgid "{string}271206{/string}"
 msgstr ""
@@ -3709,6 +3723,8 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Plot\Hinterlands\fer_wild_lq12.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 195737(0x0002fc99) : A Letter in an Empty Home
 msgctxt "0x0002fce9"
 msgid "{string}195737{/string}"
 msgstr ""
@@ -4075,12 +4091,16 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Plot\SeekerFortress\cod_see_nobleletter.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 192337(0x0002ef51) : Folded Letter
 msgctxt "0x000440a6"
 msgid "{string}192337{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Plot\SeekerFortress\cod_see_nobleletter2.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 193238(0x0002f2d6) : Creased Note
 msgctxt "0x000440a8"
 msgid "{string}193238{/string}"
 msgstr ""
@@ -4088,61 +4108,61 @@ msgstr ""
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_bardsong_empress.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x000430b7"
-msgid "Empress Of Fire\"\""
+msgid "\"Empress Of Fire\""
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_bardsong_enchanters.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x000430b4"
-msgid "Enchanters\"\""
+msgid "\"Enchanters\""
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_bardsong_maker.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0004309f"
-msgid "Maker\"\""
+msgid "\"Maker\""
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_bardsong_nightingales.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0004309c"
-msgid "Nightingale's Eyes\"\""
+msgid "\"Nightingale's Eyes\""
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_bardsong_once.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00043090"
-msgid "Once We Were\"\""
+msgid "\"Once We Were\""
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_bardsong_rise.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0004307e"
-msgid "Rise\"\""
+msgid "\"Rise\""
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_bardsong_samson.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0004307d"
-msgid "Samson's Tale\"\""
+msgid "\"Samson's Tale\""
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_bardsong_sera.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00043059"
-msgid "Sera Was Never\"\""
+msgid "\"Sera Was Never\""
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_bardsong_theone.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x000430a8"
-msgid "I Am The One\"\""
+msgid "\"I Am The One\""
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_bardsong_warden.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x000430af"
-msgid "Oh"
+msgid "\"Oh, Grey Warden\""
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_andraste.xml
@@ -4201,6 +4221,8 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_cullen_desk.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 217238(0x00035096) : A Letter
 msgctxt "0x00044a6d"
 msgid "{string}217238{/string}"
 msgstr ""
@@ -5359,48 +5381,64 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_apothecary.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 210036(0x00033474) : Apothecary
 msgctxt "0x00043d59"
 msgid "{string}210036{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_characterrecord.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 276100(0x00043684) : Character Record
 msgctxt "0x00043d5d"
 msgid "{string}276100{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_crafting.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 78647(0x00013337) : Crafting
 msgctxt "0x00043d50"
 msgid "{string}78647{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_faderift.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 210021(0x00033465) : Fade Rifts
 msgctxt "0x00043d57"
 msgid "{string}210021{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_inquisitioncamps.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 112658(0x0001b812) : Inquisition Camps
 msgctxt "0x00041e8e"
 msgid "{string}112658{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_itemvalue.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 276548(0x00043844) : Item Value
 msgctxt "0x00043d61"
 msgid "{string}276548{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_mounts.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 273055(0x00042a9f) : Mounts
 msgctxt "0x00044e93"
 msgid "{string}273055{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_potionupgrade.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 277876(0x00043d74) : Potion Upgrading
 msgctxt "0x0004494c"
 msgid "{string}277876{/string}"
 msgstr ""
@@ -5413,24 +5451,32 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_quartermaster.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 210038(0x00033476) : Quartermaster
 msgctxt "0x00041e9d"
 msgid "{string}210038{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_researcher.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 210032(0x00033470) : Researcher
 msgctxt "0x00041ea0"
 msgid "{string}210032{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_revive.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 276614(0x00043886) : Revive
 msgctxt "0x00043d64"
 msgid "{string}276614{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_search.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 210199(0x00033517) : Search
 msgctxt "0x00041e90"
 msgid "{string}210199{/string}"
 msgstr ""
@@ -5443,36 +5489,48 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_taccam.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 210203(0x0003351b) : Tactical Camera
 msgctxt "0x00043d5c"
 msgid "{string}210203{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_tactics.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 276106(0x0004368a) : Behaviors
 msgctxt "0x00043d60"
 msgid "{string}276106{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_veilfire.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 210213(0x00033525) : Veilfire
 msgctxt "0x00041e93"
 msgid "{string}210213{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_viewskulls.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 112790(0x0001b896) : Ocularum
 msgctxt "0x00041e95"
 msgid "{string}112790{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_wartable.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 206446(0x0003266e) : War Table
 msgctxt "0x00041e8a"
 msgid "{string}206446{/string}"
 msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_worldtravel.xml
 #. PATH: CodexEntry/TitleReference
+#. 
+#. STRING 200401(0x00030ed1) : World Travel
 msgctxt "0x00043d55"
 msgid "{string}200401{/string}"
 msgstr ""
@@ -6211,24 +6269,32 @@ msgstr ""
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\cod_dlcblue_TreasureMap_1.xml
 #. PATH: CodexPuzzle/TitleReference
+#. 
+#. STRING 292632(0x00047718) : Winter Palace
 msgctxt "0x0004b4ec"
 msgid "{string}292632{/string}"
 msgstr ""
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\cod_dlcblue_TreasureMap_2.xml
 #. PATH: CodexPuzzle/TitleReference
+#. 
+#. STRING 292632(0x00047718) : Winter Palace
 msgctxt "0x0004b4ed"
 msgid "{string}292632{/string}"
 msgstr ""
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\cod_dlcblue_TreasureMap_3.xml
 #. PATH: CodexPuzzle/TitleReference
+#. 
+#. STRING 292632(0x00047718) : Winter Palace
 msgctxt "0x0004b4f0"
 msgid "{string}292632{/string}"
 msgstr ""
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\cod_dlcblue_TreasureMap_4.xml
 #. PATH: CodexPuzzle/TitleReference
+#. 
+#. STRING 292632(0x00047718) : Winter Palace
 msgctxt "0x0004b4f1"
 msgid "{string}292632{/string}"
 msgstr ""
@@ -6241,8 +6307,10 @@ msgstr ""
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_blackwall_states_letters.xml
 #. PATH: CodexEntry/TitleReference
+#, fuzzy
+#| msgid "Blackwall\" and the Last Few Years\""
 msgctxt "0x00048a4e"
-msgid "Blackwall\" and the Last Few Years\""
+msgid "\"Blackwall\" and the Last Few Years"
 msgstr "\"블랙월\"의 근황"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_cafe_drink_menu.xml
