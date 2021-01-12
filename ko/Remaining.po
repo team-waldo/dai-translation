@@ -1,9 +1,10 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-10 18:28+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>\n"
+"PO-Revision-Date: 2021-01-12 10:01+0000\n"
+"Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
+"\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -24,15 +25,20 @@ msgstr "컨트롤러를 찾을 수 없습니다. 키보드와 마우스를 사�
 
 #. FILE: DA3\Actors\PartySpawnPrefab.xml
 #. PATH: BWPopUpEntityData/Title
+#, fuzzy
 msgctxt "0x00043886"
 msgid "Revive"
-msgstr ""
+msgstr "되살리기"
 
 #. FILE: DA3\Actors\PartySpawnPrefab.xml
 #. PATH: BWPopUpEntityData/Text
+#, fuzzy
 msgctxt "0x00043846"
 msgid "{controller}Revive fallen party members by targeting them and holding {StringBtnA}.{/controller}{notcontroller}Hold {StringBtnMouseRight} fallen party members to revive them.{/notcontroller}"
 msgstr ""
+"{controller}쓰러진 파티원에 다가가 대상으로 지정하고 {StringBtnA}를 꾹 눌러 "
+"되살리세요.{/controller}{notcontroller}{StringBtnMounseRight}을 꾹 눌러 쓸진 파티원을 "
+"되살리세요.{/notcontroller}"
 
 #. FILE: DA3\Actors\party\gen_partymember.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -42,9 +48,10 @@ msgstr ""
 
 #. FILE: DA3\Actors\party\gen_partymember.xml
 #. PATH: InteractableComponentData[1]/InteractionTextReference
+#, fuzzy
 msgctxt "0x000185f8"
 msgid "Revive (Hold)"
-msgstr ""
+msgstr "되살리기 (꾹 눌러서)"
 
 #. FILE: DA3\Actors\party\gen_partymember.xml
 #. PATH: NotificationEntityData[1]/TitleTextReference
@@ -3561,11 +3568,14 @@ msgstr ""
 
 #. FILE: DA3\Configurations\Online\Multiplayer\Abilities\Passives\KitUnique\Avvar\Stormbringer\MP_avvar_passive_stormbringer_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0003f758"
 msgid ""
 "The storm comes to your aid even without your calling it. When you are in combat, lightning will periodically strike a random nearby enemy. \n"
 "\n"
 msgstr ""
+"부르지 않아도 폭풍의 도움을 받습니다. 전투 중에는 근방의 무작위 적에게 간헐적으로 번개가 내려칩니다. \n"
+"\n"
 
 #. FILE: DA3\Configurations\Online\Multiplayer\Abilities\Passives\KitUnique\Avvar\Stormbringer\MP_avvar_passive_stormbringer_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -5392,17 +5402,21 @@ msgstr ""
 
 #. FILE: DA3\Creatures\Faction\Biotic\Human\Spellbinder\Abilities\Mindblast\human_enchanter_mindblast_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
+#, fuzzy
 msgctxt "0x00027007"
 msgid "Mind Blast"
-msgstr ""
+msgstr "정신 폭발"
 
 #. FILE: DA3\Creatures\Faction\Biotic\Human\Spellbinder\Abilities\Mindblast\human_enchanter_mindblast_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0002e442"
 msgid ""
 "You send enemies staggering with an explosion of willpower that drives them back and makes them less likely to target you again.\n"
 "\n"
 msgstr ""
+"적의 정신력을 폭발시켜 균형을 잃게 만들고 물리칩니다. 적은 다른 공격 대상을 찾습니다.\n"
+"\n"
 
 #. FILE: DA3\Creatures\Faction\Biotic\Human\Spellbinder\Abilities\Mindblast\human_enchanter_mindblast_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
@@ -11475,6 +11489,7 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\PrefabComponents\General\CMP_CraftingArmor.xml
 #. PATH: BWPopUpEntityData[1]/Text
+#, fuzzy
 msgctxt "0x0004385d"
 msgid ""
 "To craft new armor or weapons, you need a schematic and enough materials.\n"
@@ -11483,6 +11498,11 @@ msgid ""
 "\n"
 "The materials determine the specific stats and powers that will be added to the new item."
 msgstr ""
+"새로운 무기나 방어구를 제작하려면 도안과 재료가 필요합니다.\n"
+"\n"
+"도안은 제작품의 외형과 최대성능을 결정합니다.\n"
+"\n"
+"재료는 제작품에 부여될 구체적인 능력치와 성능을 결정합니다."
 
 #. FILE: DA3\DesignContent\PrefabComponents\General\CMP_CraftingArmor.xml
 #. PATH: BWPopUpEntityData[2]/Text
@@ -11495,12 +11515,16 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\PrefabComponents\General\CMP_CraftingArmor.xml
 #. PATH: BWPopUpEntityData[3]/Text
+#, fuzzy
 msgctxt "0x00043860"
 msgid ""
 "Each crafting schematic has one or more slots. Each slot accepts a specific number of materials of either metal, cloth, or leather.\n"
 "\n"
 "Fill all available slots to craft an item."
 msgstr ""
+"각 제작 도안에는 하나 이상의 슬롯이 있습니다. 각 슬롯은 특정 수의 제작 재료(금속, 옷감, 가죽)가 들어갑니다.\n"
+"\n"
+"모든 슬롯을 채우면 아이템을 제작합니다."
 
 #. FILE: DA3\DesignContent\PrefabComponents\General\CMP_CraftingArmor.xml
 #. PATH: BWPopUpEntityData[4]/Text
@@ -11607,18 +11631,23 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\PrefabComponents\General\CMP_PotionCrafting.xml
 #. PATH: BWPopUpEntityData/Title
+#, fuzzy
 msgctxt "0x00043d74"
 msgid "Potion Upgrading"
-msgstr ""
+msgstr "물약 개선"
 
 #. FILE: DA3\DesignContent\PrefabComponents\General\CMP_PotionCrafting.xml
 #. PATH: BWPopUpEntityData/Text
+#, fuzzy
 msgctxt "0x00043d76"
 msgid ""
 "You can upgrade potions you have already unlocked. To upgrade a potion, select a category, select a potion, then select the upgrade.\n"
 "\n"
 "Potion upgrades require a significant amount of herbs to unlock; in return, they give permanent and significant bonuses to your potions."
 msgstr ""
+"획득한 물약을 개선시킬 수 있습니다. 물약을 개선하려면 분류를 선택한 후, 물약을 선택하고, 개선을 선택하세요.\n"
+"\n"
+"물약을 개선하기 위해서는 상당한 양의 약초를 모아야 합니다. 대신 영구적이고 상당한 성능 향상을 기대할 수 있습니다."
 
 #. FILE: DA3\DesignContent\PrefabComponents\General\CMP_PotionLoadout.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
@@ -13370,9 +13399,10 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Prefabs\Inquisition\Inquisition_Camp.xml
 #. PATH: BWPopUpEntityData[1]/Title
+#, fuzzy
 msgctxt "0x0001b812"
 msgid "Inquisition Camps"
-msgstr ""
+msgstr "인퀴지션 전초기지"
 
 #. FILE: DA3\DesignContent\Prefabs\Inquisition\Inquisition_Camp.xml
 #. PATH: BWPopUpEntityData[1]/Text
@@ -13382,12 +13412,16 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Prefabs\Inquisition\Inquisition_Camp.xml
 #. PATH: BWPopUpEntityData[2]/Text
+#, fuzzy
 msgctxt "0x0001b813"
 msgid ""
 "Once established, Inquisition camps allow the party to rest, refill potions and regenerate health, change party members, and fulfill requisitions.\n"
 "\n"
 "Camps also serve as fast travel points."
 msgstr ""
+"한 번 건설되면, 인퀴지션 전초기지에서 파티 휴식, 물약을 충전, 체력 보충, 파티원 교체, 보급품 조달이 가능합니다.\n"
+"\n"
+"전초기지로 빠른 이동 또한 가능합니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Inquisition\Inquisition_Camp.xml
 #. PATH: AppearanceOverrideSpawnData/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
@@ -13478,15 +13512,20 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Prefabs\Interactions\Exploration\Ladder_12m_1Way.xml
 #. PATH: BWPopUpEntityData/Title
+#, fuzzy
 msgctxt "0x0003351b"
 msgid "Tactical Camera"
-msgstr ""
+msgstr "전술 시점"
 
 #. FILE: DA3\DesignContent\Prefabs\Interactions\Exploration\Ladder_12m_1Way.xml
 #. PATH: BWPopUpEntityData/Text
+#, fuzzy
 msgctxt "0x00044a55"
 msgid "{controller}While in Tactical Camera mode, press {StringBtnRStickClick} to cycle between levels of terrain accessible by ladders.{/controller}{notcontroller} Double-click a party member's portrait in the top-left corner of the screen to center the Tactical Camera on that party member.{/notcontroller}"
 msgstr ""
+"{controller}전술 시점에서 {StringBtnRStickClick}을 눌러 높낮이를 조절합니다. 사다리로 오를 수 있는 지형들을 "
+"볼 수 있습니다.{/controller}{notcontroller} 화면 좌측 상단 파티원의 초상화를 더블클릭하면 해당 파티원을 중심으로 "
+"전술 시점을 이동합니다.{/notcontroller}"
 
 #. FILE: DA3\DesignContent\Prefabs\Interactions\Exploration\Ladder_12m_1Way.xml
 #. PATH: GetLocalizedStringData/Text
@@ -13562,18 +13601,24 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Prefabs\Interactions\Search\CMP_SearchManager.xml
 #. PATH: BWPopUpEntityData[1]/Text
+#, fuzzy
 msgctxt "0x00033513"
 msgid ""
 "When the compass pulses, press {controller}{StringBtnLStickClick}{/controller}{notcontroller}{ConceptSearch}{/notcontroller} to search.\n"
 "\n"
 "Searching indicates the direction of hidden objects with an additional pulse on the ground and, if you're close enough, reveals them."
 msgstr ""
+"나침반이 울리면, {controller}{StringBtnLStickClick}{/controller}{notcontroller}{Conc"
+"eptSearch}{/notcontroller}를 눌러 탐색하세요.\n"
+"\n"
+"탐색은 지면에 추가로 울리어 숨겨진 물품의 방향도 알려줍니다. 만약 물품에서 가깝다면, 표시합니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Interactions\Search\CMP_SearchManager.xml
 #. PATH: BWPopUpEntityData[2]/Text
+#, fuzzy
 msgctxt "0x000432ad"
 msgid "Searching reveals nearby loot, codex entries, and crafting nodes."
-msgstr ""
+msgstr "탐색은 근방의 전리품, 도감 일지, 제작 재료를 표시합니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Interactions\Veilfire\TorchHolding_Listener.xml
 #. PATH: BWPopUpEntityData[1]/Title
@@ -14854,9 +14899,13 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[24]/Text
+#, fuzzy
 msgctxt "0x000475f3"
 msgid "Chain Lightning {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: This ability inflicts lightning damage on your foes. As this attack bounces between nearby enemies, use it when two or more foes are in close proximity for maximum effectiveness."
 msgstr ""
+"연쇄 번개 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInven"
+"toryItem1}{/notcontroller}: 적에게 전격 피해를 가합니다. 근처의 적에게 튕기며 연쇄적인 피해를 입히기 때문에, 둘 "
+"이상의 적이 모여있을 때 사용하면 가장 효율적입니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[25]/Text
@@ -14915,9 +14964,13 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[33]/Text
+#, fuzzy
 msgctxt "0x0004760c"
 msgid "Chain Lightning {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: This ability inflicts lightning damage on your foes. As this attack bounces between nearby enemies, use it when two or more foes are in close proximity for maximum effectiveness."
 msgstr ""
+"연쇄 번개 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInven"
+"toryItem1}{/notcontroller}: 적에게 전격 피해를 가합니다. 근처의 적에게 튕기며 연쇄적인 피해를 입히기 때문에, 둘 "
+"이상의 적이 모여있을 때 사용하면 가장 효율적입니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[34]/Text
@@ -15098,9 +15151,10 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Tutorials\TutorialManager.xml
 #. PATH: BWPopUpEntityData[1]/Text
+#, fuzzy
 msgctxt "0x000313e8"
 msgid "Gather herbs and metals out in the wild, and use them to craft upgrades to your gear and potions. Explore and find as many varieties as you can."
-msgstr ""
+msgstr "야생에서 각종 약초와 금속을 수집하여 장비와 물약을 개선하세요. 많이 탐험하여 최대한 다양한 재료를 모으세요."
 
 #. FILE: DA3\DesignContent\Tutorials\TutorialManager.xml
 #. PATH: BWPopUpEntityData[2]/Text
@@ -15110,18 +15164,23 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Tutorials\TutorialManager.xml
 #. PATH: BWPopUpEntityData[3]/Title
+#, fuzzy
 msgctxt "0x0004368a"
 msgid "Behaviors"
-msgstr ""
+msgstr "행동"
 
 #. FILE: DA3\DesignContent\Tutorials\TutorialManager.xml
 #. PATH: BWPopUpEntityData[3]/Text
+#, fuzzy
 msgctxt "0x00043687"
 msgid ""
 "The Behaviors screen allows you to provide instructions to your party on how they should fight, cooperate, and defend themselves in combat.\n"
 "\n"
 "While you can directly control and switch between party members at any time, they will follow these rules when you are not controlling them."
 msgstr ""
+"행동 창에서는 파티원들이 전투에서 어떤 방식으로 싸우고, 협력하고, 방어할 지를 설정할 수 있습니다.\n"
+"\n"
+"언제든 파티원을 직접 조종할 수도 있지만, 그렇지 않은 때에는 위의 설정대로 행동합니다."
 
 #. FILE: DA3\DesignContent\Tutorials\TutorialManager.xml
 #. PATH: BWPopUpEntityData[4]/Title
@@ -15646,9 +15705,10 @@ msgstr ""
 
 #. FILE: DA3\Logic\Levels\SingletonEntities.xml
 #. PATH: EnumToLocalizedStringMapperEntityData/MappedInputConcepts/member[41]/InputConceptAndLocalizedStringPair/InputConceptString
+#, fuzzy
 msgctxt "0x00044acb"
 msgid "Pan Tactical Camera"
-msgstr ""
+msgstr "전술 시점 카메라 이동"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities.xml
 #. PATH: EnumToLocalizedStringMapperEntityData/MappedInputConcepts/member[42]/InputConceptAndLocalizedStringPair/InputConceptString
@@ -15706,39 +15766,45 @@ msgstr ""
 
 #. FILE: DA3\Logic\Levels\SingletonEntities.xml
 #. PATH: EnumToLocalizedStringMapperEntityData/MappedInputConcepts/member[51]/InputConceptAndLocalizedStringPair/InputConceptString
+#, fuzzy
 msgctxt "0x00044eb3"
 msgid "Move Forward (Tactical Camera)"
-msgstr ""
+msgstr "전진 (전술 시점)"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities.xml
 #. PATH: EnumToLocalizedStringMapperEntityData/MappedInputConcepts/member[51]/InputConceptAndLocalizedStringPair/NegatedInputConceptString
+#, fuzzy
 msgctxt "0x00044eb4"
 msgid "Move Backward (Tactical Camera)"
-msgstr ""
+msgstr "후진 (전술 시점)"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities.xml
 #. PATH: EnumToLocalizedStringMapperEntityData/MappedInputConcepts/member[52]/InputConceptAndLocalizedStringPair/InputConceptString
+#, fuzzy
 msgctxt "0x00044eb5"
 msgid "Move Right (Tactical Camera)"
-msgstr ""
+msgstr "우측 이동 (전술 시점)"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities.xml
 #. PATH: EnumToLocalizedStringMapperEntityData/MappedInputConcepts/member[52]/InputConceptAndLocalizedStringPair/NegatedInputConceptString
+#, fuzzy
 msgctxt "0x00044eb6"
 msgid "Move Left (Tactical Camera)"
-msgstr ""
+msgstr "좌측 이동 (전술 시점)"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities.xml
 #. PATH: EnumToLocalizedStringMapperEntityData/MappedInputConcepts/member[53]/InputConceptAndLocalizedStringPair/InputConceptString
+#, fuzzy
 msgctxt "0x00044eb7"
 msgid "Turn Right (Tactical Camera)"
-msgstr ""
+msgstr "우회전 (전술 시점)"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities.xml
 #. PATH: EnumToLocalizedStringMapperEntityData/MappedInputConcepts/member[53]/InputConceptAndLocalizedStringPair/NegatedInputConceptString
+#, fuzzy
 msgctxt "0x00044eb8"
 msgid "Turn Left (Tactical Camera)"
-msgstr ""
+msgstr "좌회전 (전술 시점)"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities.xml
 #. PATH: EnumToLocalizedStringMapperEntityData/MappedInputConcepts/member[54]/InputConceptAndLocalizedStringPair/InputConceptString
@@ -16936,9 +17002,10 @@ msgstr ""
 
 #. FILE: DA3\Persistence\AchievementTree.xml
 #. PATH: AwardAchievementData[44]/LocalizedDescription
+#, fuzzy
 msgctxt "0x00042e12"
 msgid "Upgrade your alchemic potions, grenades, or tonics 30 times in a single playthrough."
-msgstr ""
+msgstr "한 회차 내에서 물약, 폭탄, 강장제를 30회 개선하세요."
 
 #. FILE: DA3\Persistence\AchievementTree.xml
 #. PATH: AwardAchievementData[44]/LocalizedName

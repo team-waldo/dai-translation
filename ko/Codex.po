@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-10 18:28+0000\n"
-"Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
+"PO-Revision-Date: 2021-01-12 10:01+0000\n"
+"Last-Translator: 불타는 수염 <brng_beard@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/codex/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,7 +14,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00041a5e"
 msgid "Calpernia"
-msgstr ""
+msgstr "칼퍼니아"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_char_josephine.xml
 #. PATH: CodexEntry/TitleReference
@@ -26,7 +26,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0004158e"
 msgid "Leliana"
-msgstr ""
+msgstr "렐리아나"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_char_roderick.xml
 #. PATH: CodexEntry/TitleReference
@@ -38,7 +38,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00041a55"
 msgid "Samson"
-msgstr ""
+msgstr "샘슨"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_alexius.xml
 #. PATH: CodexEntry/TitleReference
@@ -92,19 +92,19 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00041865"
 msgid "Cole"
-msgstr ""
+msgstr "콜"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_corypheus.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x000417b1"
 msgid "Corypheus"
-msgstr ""
+msgstr "코리피우스"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_cullen.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x000420b0"
 msgid "Cullen"
-msgstr ""
+msgstr "컬렌"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_divine_justinia_v.xml
 #. PATH: CodexEntry/TitleReference
@@ -146,7 +146,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00017132"
 msgid "The Champion of Kirkwall"
-msgstr ""
+msgstr "커크월의 수호자"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_hero_of_ferelden.xml
 #. PATH: CodexEntry/TitleReference
@@ -176,7 +176,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00041818"
 msgid "Morrigan"
-msgstr ""
+msgstr "모리건"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_mounts.xml
 #. PATH: CodexEntry/TitleReference
@@ -186,9 +186,10 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_player_dwarf.xml
 #. PATH: CodexEntry/TitleReference
+#, fuzzy
 msgctxt "0x000420b8"
 msgid "Cadash, the Casteless"
-msgstr ""
+msgstr "카스트리스의 카다쉬"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_player_elf.xml
 #. PATH: CodexEntry/TitleReference
@@ -213,19 +214,19 @@ msgstr "바쇼스 아다르"
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00042018"
 msgid "Sera"
-msgstr ""
+msgstr "세라"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_solas.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0004185f"
 msgid "Solas"
-msgstr ""
+msgstr "솔라스"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_stroud.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0001713c"
 msgid "Ser Stroud"
-msgstr ""
+msgstr "스트라우드 경"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_varric.xml
 #. PATH: CodexEntry/TitleReference
@@ -693,7 +694,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00017154"
 msgid "The Grey Wardens"
-msgstr ""
+msgstr "그레이 워든"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_magisterium.xml
 #. PATH: CodexEntry/TitleReference
@@ -2463,7 +2464,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00017199"
 msgid "A Torn Diary"
-msgstr ""
+msgstr "찢어진 일기장"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\ChateaudOnterre\td_main_chateau_artifact.xml
 #. PATH: CodexEntry/TitleReference
@@ -2517,7 +2518,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00017197"
 msgid "Superstitions"
-msgstr ""
+msgstr "미신"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\DesertersVilla\td_deserters_DesertersNote_01.xml
 #. PATH: CodexEntry/TitleReference
@@ -2745,7 +2746,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00036da7"
 msgid "The Hunt"
-msgstr ""
+msgstr "사냥"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_wild_lq13_journal.xml
 #. PATH: CodexEntry/TitleReference
@@ -2781,13 +2782,13 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00037377"
 msgid "Snow-Covered Diary"
-msgstr ""
+msgstr "눈 덮인 일기장"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_wild_village_02.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00037379"
 msgid "Half-Written Letter"
-msgstr ""
+msgstr "쓰다 만 편지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_wild_village_03.xml
 #. PATH: CodexEntry/TitleReference
@@ -2799,7 +2800,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0003737d"
 msgid "Scribbled Note"
-msgstr ""
+msgstr "휘갈겨 쓴 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_wild_village_05.xml
 #. PATH: CodexEntry/TitleReference
@@ -2853,7 +2854,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00040017"
 msgid "Tower of Bone"
-msgstr ""
+msgstr "뼈의 탑"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmpriseduLion\Landmarks\cod_lor_dal_hld_coliseumhotsprings.xml
 #. PATH: CodexEntry/TitleReference
@@ -3009,7 +3010,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x000416d4"
 msgid "Soggy Journal"
-msgstr ""
+msgstr "눅눅한 일지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ExaltedPlains\dal_pln_deaddalishelf_diary.xml
 #. PATH: CodexEntry/TitleReference
@@ -3027,13 +3028,13 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00035096"
 msgid "A Letter"
-msgstr ""
+msgstr "편지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ExaltedPlains\dal_pln_noble_journal_01.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0002aaee"
 msgid "A Note"
-msgstr ""
+msgstr "쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ExaltedPlains\dal_pln_noble_journal_02.xml
 #. PATH: CodexEntry/TitleReference
@@ -3045,13 +3046,13 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0002aaf9"
 msgid "Infatuation"
-msgstr ""
+msgstr "상사병"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ExaltedPlains\dal_pln_servant_journal_01.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0002ab3c"
 msgid "Old Journal"
-msgstr ""
+msgstr "오래된 일지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ExaltedPlains\dal_pln_servant_journal_02.xml
 #. PATH: CodexEntry/TitleReference
@@ -3297,7 +3298,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0001f2bc"
 msgid "Note from Leliana"
-msgstr ""
+msgstr "렐리아나의 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Global\Followers\Dorian\dor_mainplot_letter.xml
 #. PATH: CodexEntry/TitleReference
@@ -3495,7 +3496,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x000170c8"
 msgid "Winter Palace"
-msgstr ""
+msgstr "겨울 궁전"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Haven\cod_hav_chantry_1.xml
 #. PATH: CodexEntry/TitleReference
@@ -3775,25 +3776,25 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0002fcd4"
 msgid "Letter Found on a Noblewoman's Corpse"
-msgstr ""
+msgstr "귀족여성 시신에서 발견된 편지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Hinterlands\fer_wild_lq4.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0002fcd6"
 msgid "A Letter Found on a Dead Dwarf"
-msgstr ""
+msgstr "죽은 드워프에게서 발견된 편지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Hinterlands\fer_wild_lq5.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0002fcda"
 msgid "A Letter Found on a Dead Templar"
-msgstr ""
+msgstr "죽은 템플러에게서 발견된 편지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Hinterlands\fer_wild_lq7.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0002fcdf"
 msgid "A Letter Found on a Dead Body"
-msgstr ""
+msgstr "시신에서 발견된 편지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Hinterlands\fer_wild_lq9.xml
 #. PATH: CodexEntry/TitleReference
@@ -3871,13 +3872,13 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00017103"
 msgid "Monthly Report"
-msgstr ""
+msgstr "월간 보고서"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Nemesis\Samson\let_nem_sam_quest1letter2.xml
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x000170f7"
 msgid "New Clients"
-msgstr ""
+msgstr "새 의뢰인"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Nemesis\Samson\let_nem_sam_quest1letter3.xml
 #. PATH: CodexEntry/TitleReference
@@ -3925,7 +3926,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00026c26"
 msgid "A Miner's Journal"
-msgstr ""
+msgstr "광부의 일기"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Oasis\the_oasis_shard_ending.xml
 #. PATH: CodexEntry/TitleReference
@@ -3937,7 +3938,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00026c23"
 msgid "Note Found on a Corpse"
-msgstr ""
+msgstr "시신에서 찾은 편지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Oasis\the_oasis_veilfire_1.xml
 #. PATH: CodexEntry/TitleReference
@@ -4009,7 +4010,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0002f97e"
 msgid "A Note from Felix"
-msgstr ""
+msgstr "펠릭스의 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Redcliffe\let_red_future_alexius_journal.xml
 #. PATH: CodexEntry/TitleReference
@@ -4675,7 +4676,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x00027384"
 msgid "Gardner Diary"
-msgstr ""
+msgstr "정원사의 일기"
 
 #. FILE: DA3\DesignContent\Codex\Plot\TheBog\the_Bog_veilfire.xml
 #. PATH: CodexEntry/TitleReference
@@ -4771,7 +4772,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x000267d9"
 msgid "A Dusty Note"
-msgstr ""
+msgstr "먼지투성이 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\TheDesertRuins\the_DesertRuins_Lorehunter_Intro.xml
 #. PATH: CodexEntry/TitleReference
@@ -4789,7 +4790,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x000267df"
 msgid "A Worn Diary"
-msgstr ""
+msgstr "낡은 일기장"
 
 #. FILE: DA3\DesignContent\Codex\Plot\TheDesertRuins\the_DesertRuins_SpidersNote.xml
 #. PATH: CodexEntry/TitleReference
@@ -5071,7 +5072,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0001c952"
 msgid "Phylacteries"
-msgstr ""
+msgstr "성물함"
 
 #. FILE: DA3\DesignContent\Codex\Plot\WesternApproach\wes_keep_redtemplar.xml
 #. PATH: CodexEntry/TitleReference
@@ -5257,7 +5258,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x000171e2"
 msgid "Ancient Tevinter"
-msgstr ""
+msgstr "고대 테빈터"
 
 #. FILE: DA3\DesignContent\Codex\Plot\WesternApproach\wes_main_tevinter_orders1.xml
 #. PATH: CodexEntry/TitleReference
@@ -5353,7 +5354,7 @@ msgstr ""
 #. PATH: CodexEntry/TitleReference
 msgctxt "0x0001bb69"
 msgid "Research Notes"
-msgstr ""
+msgstr "연구 노트"
 
 #. FILE: DA3\DesignContent\Codex\Plot\WesternApproach\StillRuins\wes_D110_library_2.xml
 #. PATH: CodexEntry/TitleReference
@@ -5483,9 +5484,10 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_status_effects.xml
 #. PATH: CodexEntry/TitleReference
+#, fuzzy
 msgctxt "0x00043a2b"
 msgid "Status Effects"
-msgstr ""
+msgstr "상태 효과"
 
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_taccam.xml
 #. PATH: CodexEntry/TitleReference
@@ -6332,9 +6334,10 @@ msgstr ""
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_cole.xml
 #. PATH: CodexEntry/TitleReference
+#, fuzzy
 msgctxt "0x0004ae33"
 msgid "Cole and the Last Few Years"
-msgstr ""
+msgstr "콜의 근황"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_conspiracy_book.xml
 #. PATH: CodexEntry/TitleReference

@@ -1,20 +1,27 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2021-01-12 10:01+0000\n"
+"Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
+"\n"
 "Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FILE: DA3\Equipment\Crafting\DA3CraftingSettings.xml
 #. PATH: CraftingSettings/RecipeRequiresText
 msgctxt "0x0004392b"
 msgid "Materials:"
-msgstr ""
+msgstr "재료:"
 
 #. FILE: DA3\Equipment\Crafting\equip_template_DalesForest_improved_poison_remedy.xml
 #. PATH: EquipItemAsset/DisplayName
 msgctxt "0x0003aac9"
 msgid "Improved Poison Remedy"
-msgstr ""
+msgstr "향상된 독극물 치료법"
 
 #. FILE: DA3\Equipment\Crafting\equip_template_DalesForest_improved_poison_remedy.xml
 #. PATH: EquipItemAsset/Description
@@ -23,6 +30,8 @@ msgstr ""
 msgctxt "0x00038356"
 msgid "Inquisition diplomats and agents are reporting a rash of \"accidental\" poisoning when dealing with the Orlesian nobility. Adding to our supply of poison remedies would be advised. {string}277940{/string}"
 msgstr ""
+"심문회와 외교관들은 오를레앙 귀족들을 다룰 때 \"우발적인\" 독살로 인한 발진을 보고하고 있다. 우리의 독극물 치료제 공급을 추가하는 "
+"것이 좋을 것이다. {string}277940{/string}"
 
 #. FILE: DA3\Equipment\Crafting\equip_template_Desert_Ruins_Geo_02.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -36,13 +45,13 @@ msgstr ""
 #. STRING 277941(0x00043db5) : Reward: +1 Power
 msgctxt "0x0004262d"
 msgid "Several dwarven academics at the University of Orlais have requested samples of ore from the Hissing Wastes. {string}277941{/string}"
-msgstr ""
+msgstr "오를레앙 대학의 몇몇 난쟁이 학자들은 히싱 폐기물에서 광석의 샘플을 요청했다. {string}277941{/string}"
 
 #. FILE: DA3\Equipment\Crafting\equip_template_Desert_Ruins_Sun_Oitment.xml
 #. PATH: EquipItemAsset/DisplayName
 msgctxt "0x00041316"
 msgid "Sun Ointment "
-msgstr ""
+msgstr "태양 연고 "
 
 #. FILE: DA3\Equipment\Crafting\equip_template_Desert_Ruins_Sun_Oitment.xml
 #. PATH: EquipItemAsset/Description
@@ -51,6 +60,8 @@ msgstr ""
 msgctxt "0x00041317"
 msgid "The Inquisition's quartermaster is reporting that supplies of sun ointment are rapidly dwindling. Materials available in the Hissing Waste can be helpful in crafting more. {string}277941{/string}"
 msgstr ""
+"심문회의 병참장교는 태양 연고의 공급이 빠른속도로 줄어들고 있다고 보고했습니다. 히싱 폐기물에서 나오는 재료들은 제작에 큰 도움을 "
+"실어줄것입니다. {string}277941{/string}"
 
 #. FILE: DA3\Equipment\Crafting\equip_template_Desert_Ruins_Wildlife_Guide.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -64,13 +75,13 @@ msgstr ""
 #. STRING 277941(0x00043db5) : Reward: +1 Power
 msgctxt "0x00041340"
 msgid "The wastelands make creating proper shelter difficult for our forces. Scouts recommend gathering supplies common in the area to sand-proof Inquisition shelters. {string}277941{/string}"
-msgstr ""
+msgstr "모래 대피소"
 
 #. FILE: DA3\Equipment\Crafting\equip_template_Western_Approach_Geo_Survey_01.xml
 #. PATH: EquipItemAsset/DisplayName
 msgctxt "0x0003b63f"
 msgid "Western Approach Geological Survey"
-msgstr ""
+msgstr "서부 접근 지리조사"
 
 #. FILE: DA3\Equipment\Crafting\equip_template_Western_Approach_Geo_Survey_01.xml
 #. PATH: EquipItemAsset/Description
@@ -78,13 +89,13 @@ msgstr ""
 #. STRING 277940(0x00043db4) : Reward: +1 Power
 msgctxt "0x0003fb85"
 msgid "Several dwarven academics at the University of Orlais have requested samples of ore from the Western Approach. {string}277940{/string}"
-msgstr ""
+msgstr "오를레앙 대학의 몇몇 난쟁이 학자들은 서부 접근지역에서 광석의 샘플을 요청했다. {string}277940{/string}"
 
 #. FILE: DA3\Equipment\Crafting\recipe_Western_Approach_GeoSurvey_02.xml
 #. PATH: RecipeSlot[2]/SlotName
 msgctxt "0x0000bfcf"
 msgid "Craft Item"
-msgstr ""
+msgstr "제작 물품"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\crafting_masterwork_augusta_ram.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
@@ -161,7 +172,7 @@ msgstr ""
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00024fdc"
 msgid "Dragon's Tooth"
-msgstr ""
+msgstr "용의 이빨"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\crafting_masterwork_DragonToothLarge.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -177,7 +188,7 @@ msgstr ""
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00042247"
 msgid "Essence of Perfection"
-msgstr ""
+msgstr "완벽의 정수"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\crafting_masterwork_Glass.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
@@ -204,13 +215,13 @@ msgstr ""
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00024ae0"
 msgid "Masterwork Iron"
-msgstr ""
+msgstr "명품 철"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\crafting_masterwork_Rough_Hide.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00038357"
 msgid "Masterwork Rough Hide"
-msgstr ""
+msgstr "명품 거친 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\crafting_masterwork_Rough_Hide_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
@@ -252,13 +263,13 @@ msgstr ""
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00043196"
 msgid "White Wyvern Hide"
-msgstr ""
+msgstr "하얀 와이번 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Cotton.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00024ade"
 msgid "Masterwork Cotton"
-msgstr ""
+msgstr "명품 면"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Cotton_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
@@ -12610,9 +12621,10 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Items\Accessories\Rings\equip_ring_upgrade_mage_chain_lightning.xml
 #. PATH: EquipItemAsset/DisplayName
+#, fuzzy
 msgctxt "0x00040975"
 msgid "Enhanced Chain Lightning Ring"
-msgstr ""
+msgstr "증진된 연쇄 번개의 반지"
 
 #. FILE: DA3\Equipment\Items\Accessories\Rings\equip_ring_upgrade_mage_cold_snap.xml
 #. PATH: EquipItemAsset/DisplayName

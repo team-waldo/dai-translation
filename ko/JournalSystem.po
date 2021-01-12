@@ -1,9 +1,10 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-10 19:46+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/dai/journalsystem/ko/>\n"
+"PO-Revision-Date: 2021-01-12 10:01+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/dai/journalsystem/"
+"ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,6 +16,8 @@ msgstr ""
 msgctxt "0x0001708a"
 msgid "One of Leliana's agents reported a man, calling himself Blackwall, dressed in full Grey Warden regalia and last seen travelling through the Fereldan Hinterlands. With so many Wardens disappearing in the wake of the Divine's death, this Blackwall should be questioned."
 msgstr ""
+"릴리아나의 요원 중 한 명이 회색 감시자의 복장을 입고 자신을 \"블랙월\" 이라고 말하는 여행자를 페렐던 의 힌터랜드에서 목격했다고 "
+"보고했습니다. \"신성한 죽음\" 으로 인해 수많은 감시자가 사라지고 있는 상황에서, 우리는 \"블랙월\"을 만나 의문을 제기해야합니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2]/JournalTextData/TextReference
@@ -22,13 +25,13 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044902"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[3]/JournalTextData/TextReference
 msgctxt "0x000321d1"
 msgid "A massive figure with arm outstretched stands guard at the spot marked on this map."
-msgstr ""
+msgstr "이 지도에 표시된 지점을 팔을 뻗은 거인이 지키고있다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[4]/JournalTextData/TextReference
@@ -58,7 +61,7 @@ msgstr ""
 #. PATH: JournalSystem/JournalTextData/member[8]/JournalTextData/TextReference
 msgctxt "0x00042e77"
 msgid "A Qunari warrior known as the Iron Bull is offering aid for the Inquisition from his mercenary company, the Bull's Chargers."
-msgstr ""
+msgstr "용병 회사인 불스 차저스의 \"아이언불\" 로 알려진 쿠나리 전사가 심문회를 지원하고 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[9]/JournalTextData/TextReference
@@ -72,7 +75,7 @@ msgstr "{string}280827{/string}"
 #. PATH: JournalSystem/JournalTextData/member[10]/JournalTextData/TextReference
 msgctxt "0x00031932"
 msgid "A woman, infected by red lyrium and unable to walk, has asked for a letter to her husband to be placed in a hollow tree by the river."
-msgstr ""
+msgstr "붉은 리륨에 감염되어 걸을 수 없는 한 여성이 남편에게 편지를 강가의 빈 나무에 넣어달라고 요청했습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[11]/JournalTextData/TextReference
@@ -90,7 +93,7 @@ msgstr ""
 #. PATH: JournalSystem/JournalTextData/member[13]/JournalTextData/TextReference
 msgctxt "0x000393f4"
 msgid "Vivienne de Fer, the First Enchanter of Montsimmard, has extended an invitation to her salon at the chateau of Duke Bastien de Ghislain."
-msgstr ""
+msgstr "몽티마르의 초대 인챈터인 비비안 드 페르는 바스티앙 드 지슬레인 공작 성당에 있는 그녀의 미용실에 초대장을 내밀었습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[14]/JournalTextData/TextReference
@@ -104,31 +107,35 @@ msgstr "{string}280827{/string}"
 #. PATH: JournalSystem/JournalTextData/member[15]/JournalTextData/TextReference
 msgctxt "0x00033861"
 msgid "The longer Alwyn is missing, the less chance he'll be found alive."
-msgstr ""
+msgstr "알윈이 실종된 시간이 길어질수록, 그를 살아서 볼 확률은 줄어듭니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[16]/JournalTextData/TextReference
 msgctxt "0x0002e150"
 msgid "Frederic believes his dragon lure recipe could be perfected if only he could reference some old Tevinter writings on the subject. He believes such writings might be found in an ancient laboratory somewhere in the Western Approach."
 msgstr ""
+"프레데릭은 오래된 테빈터 고서들을 참고하는것으로 그들의 용을 끌어들이는 미끼 제작법을 완벽히 이해할 수 있을것이라 믿고있으며, 그는 "
+"그러한 글들이 고대 실험실에서 발견될것이라고 믿고있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[17]/JournalTextData/TextReference
 msgctxt "0x0002e14e"
 msgid "An ancient Tevinter manuscript, recovered in the Still Ruins, appears to say a great deal about dragons. Perhaps Frederic could make use of it."
 msgstr ""
+"고요한 폐허에서 발견된 고대 테빈터의 문서에는 용에 대한 많은 정보가 적혀 있었습니다. 그리고 프레드릭은 그 정보를 이용할 수 있을 것 "
+"같습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[18]/JournalTextData/TextReference
 msgctxt "0x0002e156"
 msgid "The ancient Tevinter manuscript has some marvelous diagrams, but Frederic is unable to read the script."
-msgstr ""
+msgstr "고대 테빈터 문서에는 몇가지 놀라운 도표가 포함되어있지만, 프레데릭은 그 자료를 읽을 수 없습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[19]/JournalTextData/TextReference
 msgctxt "0x0003ac2c"
 msgid "Discover all landmarks in the Forbidden Oasis."
-msgstr ""
+msgstr "금단의 오아시스에 있는 모든 랜드마크를 찾아보세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[20]/JournalTextData/TextReference
@@ -140,7 +147,7 @@ msgstr ""
 #. PATH: JournalSystem/JournalTextData/member[21]/JournalTextData/TextReference
 msgctxt "0x0003a9a1"
 msgid "An earthy smell emanates from a locked door within the temple."
-msgstr ""
+msgstr "사원의 잠긴 문에서 흙냄새가 납니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[22]/JournalTextData/TextReference
@@ -168,37 +175,39 @@ msgstr "{string}270942{/string}"
 #. PATH: JournalSystem/JournalTextData/member[25]/JournalTextData/TextReference
 msgctxt "0x0003fa34"
 msgid "From the looks of the locked door in the lower guest wing garden, there must be something important behind it."
-msgstr ""
+msgstr "아래의 \"날개달린 손님의 정원\"의 잠긴 문을 보면, 그 뒤에는 무언가 중요한 것이 있을 것입니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[26]/JournalTextData/TextReference
 msgctxt "0x0003fda8"
 msgid "A high dragon has nested on the Storm Coast and is terrorizing the region."
-msgstr ""
+msgstr "고룡이 폭풍 해안에 둥지를 틀고, 그 지역을 공포에 떨게하고 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[27]/JournalTextData/TextReference
 msgctxt "0x00032f1c"
 msgid "Inquisition scouts have been approached by an Orlesian rebel named Fairbanks who requests protection. Fairbanks and his followers are being attacked by a suspicious group calling themselves the Freemen of the Dales."
 msgstr ""
+"심문회의 감시자들은 보호를 요청하는 페어뱅크스 라는 올레이의 반군과 접선했습니다. 페어뱅크스와 그의 추종자들은 자칭 데일스의 자유인 이라 "
+"부르는 자들의 공격을 받고 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[28]/JournalTextData/TextReference
 msgctxt "0x00041f68"
 msgid "Explore the Fallow Mire to find a way inside the locked cabin."
-msgstr ""
+msgstr "잠긴 오두막 내부의 길을 찾기 위해, 고요한 늪지를 탐색하세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[29]/JournalTextData/TextReference
 msgctxt "0x00043f74"
 msgid "Scouts are requesting special lures to keep the forest giants off their backs."
-msgstr ""
+msgstr "감시자들은 숲의 거인들을 뒤로 물러나게 하기 위해 특별한 미끼를 요청하고있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[30]/JournalTextData/TextReference
 msgctxt "0x00040394"
 msgid "Active Fade rifts have been spotted in the area around the Sunstop Mountain camp."
-msgstr ""
+msgstr "태양이 멈추는 산의 캠프 주변 지역에서 활동중인 균열이 발견되었습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[31]/JournalTextData/TextReference
@@ -506,7 +515,7 @@ msgstr ""
 #. STRING 189365(0x0002e3b5) : The healer needs certain herbs in order to treat injured patients.
 msgctxt "0x00044a27"
 msgid "{string}189365{/string}"
-msgstr ""
+msgstr "{string}189365{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[81]/JournalTextData/TextReference
@@ -532,7 +541,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x000449ff"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[85]/JournalTextData/TextReference
@@ -546,7 +555,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044a0c"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[87]/JournalTextData/TextReference
@@ -875,7 +884,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044d69"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[140]/JournalTextData/TextReference
@@ -1003,7 +1012,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x000449fe"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[161]/JournalTextData/TextReference
@@ -1036,7 +1045,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044d65"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[165]/JournalTextData/TextReference
@@ -1140,7 +1149,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044a00"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[182]/JournalTextData/TextReference
@@ -1226,7 +1235,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044a03"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[196]/JournalTextData/TextReference
@@ -1306,7 +1315,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x000449fd"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[209]/JournalTextData/TextReference
@@ -1333,7 +1342,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044d68"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[212]/JournalTextData/TextReference
@@ -1365,7 +1374,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x000449f6"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[217]/JournalTextData/TextReference
@@ -1457,7 +1466,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044904"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[232]/JournalTextData/TextReference
@@ -1495,7 +1504,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044a06"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[238]/JournalTextData/TextReference
@@ -1576,7 +1585,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044d6d"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[250]/JournalTextData/TextReference
@@ -1626,7 +1635,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044a01"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[258]/JournalTextData/TextReference
@@ -1670,7 +1679,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x000449fa"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[265]/JournalTextData/TextReference
@@ -1708,7 +1717,7 @@ msgstr ""
 #. STRING 189365(0x0002e3b5) : The healer needs certain herbs in order to treat injured patients.
 msgctxt "0x00044a22"
 msgid "{string}189365{/string}"
-msgstr ""
+msgstr "{string}189365{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[271]/JournalTextData/TextReference
@@ -1746,7 +1755,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x000449f8"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[277]/JournalTextData/TextReference
@@ -1791,7 +1800,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044d6a"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[283]/JournalTextData/TextReference
@@ -1901,7 +1910,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044a0d"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[301]/JournalTextData/TextReference
@@ -1952,7 +1961,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044d6b"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[308]/JournalTextData/TextReference
@@ -2009,7 +2018,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044d66"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[316]/JournalTextData/TextReference
@@ -2041,7 +2050,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044905"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[321]/JournalTextData/TextReference
@@ -2055,7 +2064,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x000449f3"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[323]/JournalTextData/TextReference
@@ -2123,7 +2132,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044f77"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[334]/JournalTextData/TextReference
@@ -2143,7 +2152,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044b38"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[337]/JournalTextData/TextReference
@@ -2193,7 +2202,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044f54"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[345]/JournalTextData/TextReference
@@ -2255,7 +2264,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044901"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[355]/JournalTextData/TextReference
@@ -2288,7 +2297,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044d6c"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[359]/JournalTextData/TextReference
@@ -2464,7 +2473,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x000449f2"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[388]/JournalTextData/TextReference
@@ -2508,7 +2517,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044a04"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[395]/JournalTextData/TextReference
@@ -2562,7 +2571,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044a05"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[403]/JournalTextData/TextReference
@@ -2607,7 +2616,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044d67"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[409]/JournalTextData/TextReference
@@ -2813,7 +2822,7 @@ msgstr ""
 #. STRING 280827(0x000448fb) : This quest is no longer available.
 msgctxt "0x00044a07"
 msgid "{string}280827{/string}"
-msgstr ""
+msgstr "{string}280827{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[443]/JournalTextData/TextReference
@@ -2947,7 +2956,7 @@ msgstr ""
 #. STRING 189365(0x0002e3b5) : The healer needs certain herbs in order to treat injured patients.
 msgctxt "0x00044a2b"
 msgid "{string}189365{/string}"
-msgstr ""
+msgstr "{string}189365{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[465]/JournalTextData/TextReference
@@ -4991,6 +5000,7 @@ msgstr ""
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[704]/JournalTextData/TextReference
+#, fuzzy
 msgctxt "0x0004183e"
 msgid ""
 "Watch out for elves in Halamshiral.\n"
@@ -5003,6 +5013,17 @@ msgid ""
 "\n"
 "—Part of a communiqué intercepted by Inquisition agents, author unknown"
 msgstr ""
+"할람시랄의 엘프를 조심하라.\n"
+"\n"
+"누구도 그들에게 눈길을 주지 않는다. 바닥을 닦는 청소부. 잔을 채우는 웨이터. 잡초를 뽑는 정원사. 귀족들 옷을 다듬는 하인들. 어느 "
+"방에도, 어떤 벽감에도, 아무리 은밀한 복도라도 그들이 존재한다. 그들이 지켜보고 있다. 조직적으로.\n"
+"\n"
+"누군가 그 엘프들을 움직이고 있다는 소문은 단순한 소문이 아니다. “브리알라”라는 자는 단순히 뛰어난 노래꾼을 넘어 셀린느가 개인적으로 "
+"부리는 스파이이자 암살자라는 보고가 있다. 지금 현재 브리알라가 누구 밑에서 일하는 지는 알 수 없다.\n"
+"\n"
+"입을 다물어라. 그들이 듣고 있다.\n"
+"\n"
+"—인퀴지션 요원이 탈취한 공문의 일부, 작자 미상"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[705]/JournalTextData/TextReference
@@ -7492,12 +7513,22 @@ msgstr ""
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[872]/JournalTextData/TextReference
+#, fuzzy
 msgctxt "0x000420b9"
 msgid ""
 "{spHeroName} Cadash is a surface dwarf whose family was exiled from Orzammar generations ago, for crimes known only to the record keepers in the Shaperate. Banned from their underground cities and stripped of all status in traditional society, many surface dwarves are forced to become part of the crime syndicate known as the Carta, simply to survive. {spHeroName} was raised as part of the Cadash family, a branch of the Carta specializing in smuggling the magical ore lyrium across Thedas. {SheHe} moved from city to city in the Free Marches, working wherever the syndicate saw profit to be made.\n"
 "\n"
 "News of the Conclave shook up the Carta's usual operations, as its success or failure would have tremendous impact on the demand for lyrium for years to come. {spHeroName} was one of a handful of Carta dwarves sent to spy on the proceedings at Haven. {SheHe} was the only survivor of the explosion at the Temple of Sacred Ashes. Rumors that the mysterious mark on {herhis} hand is a sign of the Maker's favor were spread by those who claim they saw the divine prophet, Andraste herself, lead Cadash out of the Fade."
 msgstr ""
+"{spHeroName} 카다쉬는 몇 세대 이전, 셰퍼레이트의 기록가만이 알고 있는 범죄로 오자마에서 추방된 가문에서 태어난 지상 "
+"드워프이다. 지하 도시에서 쫓겨나고 사회의 모든 지위가 박탈된 지상 드워프들은 생존 그 자체를 위해 카르타라 불리는 범죄조직에 가입하는 "
+"경우가 많았다. {spHeroName}은 카르타에서 테다스 전역에 리륨을 밀수하는 부서인 카다쉬 가문에서 길러졌다. {spHeroName}"
+"은 자유 동맹 전역의 도시를 전전하며 조직의 수익을 위해 활동하였다.\n"
+"\n"
+"콘클라베가 열린다는 소식은 카르타의 모든 활동에 큰 변화를 가져왔다. 성공 여부와 관계없이 향후 몇 년간의 리륨 수요에 지대한 영향을 줄 "
+"것이기 때문이었다. 카르타는 {spHeroName}을 비롯해 몇 명의 드워프 스파이를 헤이븐으로 보내 동태를 살폈다. 카다쉬는 성스러운 "
+"재의 성전의 참사에서 유일하게 생존하였다. 성스러운 예언자 안드라스테가 카다쉬를 영계에서 이끌어내는 것을 목격했다고 주장하는 이들은 그 "
+"손에 새겨진 의문의 표식이 실은 창조주의 가호라는 소문을 퍼트렸다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[873]/JournalTextData/TextReference
@@ -9043,6 +9074,19 @@ msgid ""
 "Love,\n"
 "Eloinne"
 msgstr ""
+"루네트,\n"
+"\n"
+"브리치가 봉쇄되고, 마침내 기사단과 마법사 간의 전쟁이 끝났단다. 이 세상에 질서가 돌아오고, 우리가 가진 모든 두려움과 공포가 마침내 "
+"끝나겠지. 헤이븐에서 사람들이 축하하는 모습을 볼 수 있으면 좋겠구나. 그것이 콘클라베를 떠나면서 내가 걱정한 전부란다.\n"
+"\n"
+"나는 너의 희생이 헛되이지 않도록 할것이며, 심문회에서 우리가 하는 모든 일들이 테다스를 이루게 될거란다. 모두가 너를 자랑스럽게 "
+"생각할거야. 너의 불꽃은 희망을 등대로서 영원히 타오르겠지.\n"
+"\n"
+"무언가 일어나고있어. 땅이 흔들리고, 병사들이 게이트를 향해 달려가지. 창조자의 곁에서 편히 쉬렴, 내 딸아. 곧 다시 너의 기억을 "
+"노래할게.\n"
+"\n"
+"사랑하는, \n"
+"엘로인"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[982]/JournalTextData/TextReference
@@ -9126,6 +9170,44 @@ msgid ""
 "\n"
 "That's what I figure, anyway. And it would sure keep the children out of the feast hall."
 msgstr ""
+"지금 여기는 행복한 연구를 진행하고있습니다..\n"
+"\"The Fall\" 그리고 \"왜 우리는 계단이 없는곳으로 가려고 시도하지?\"라고 말하는 얼굴,\n"
+"왜냐면 저런 불가능한 건물을 그렇게 들어갔다간, 불이 붙은채로 나오거나 뒤집히는 등, 어떻게든 될것입니다.\n"
+"나는 여전히 꿈의 매력이 보이지 않습니다.\n"
+"\n"
+"일곱 마법사들이 들어왔고,\n"
+"그들은 망가지고, 어찌할 바를 모르게 되었습니다.\n"
+"나는 그것들을 광기를 표현하는 조각가에게 물려줄것입니다.\n"
+"내 말은, 여기있는 뒤집어진 채로 있는 저 타워들,\n"
+"그렇게 많은 돌들을 뒤집기 위해서 얼마나 큰 힘이 있어야 하는줄 아십니까?\n"
+"그건 당신의 수염을 태우는것 이상일거에요.\n"
+"\n"
+"다만, 흥미로운 것이 있습니다.\n"
+"당신은 잎이 광택을 내는것에서 힌트를 얻을 수 있지만,\n"
+"아마 그 이상의 무언가가 있을것입니다.\n"
+"이것은 모두 특정 지점에서 덧칠되고 고쳐져서,\n"
+"3곳의 구멍과 일치하게 되어있습니다.\n"
+"하지만 당신이 시도할 수 있는 방법이 있습니다.\n"
+"그것은 표면을 균일하게 하는 매우 섬세하며, 많은 시간이 걸리는 방법입니다.\n"
+"만약 당신이 그것을 올바르게 한다면, 유리처럼 부드러운 돌을 얻게될것입니다.\n"
+"그리고 그 탑과 베어디의 두개골은 그것을 가질것을 의미했습니다.\n"
+"그리고 다른 사람에게는 조금만 존재합니다\n"
+"\n"
+"그래서 이 조각이 처음으로 공개되었을 때\n"
+"비어디가 표적이 된것처럼 보였습니다.\n"
+"아마도 그가 첫번째 문 안에 있었을까요?\n"
+"\n"
+"그리고 그 빛은 그를 불태우고 주변으로 번져나갑니다.\n"
+"또한 잎사귀들은 거울처럼 빛을 반사해, 보는 이들의 눈을 멀게합니다.\n"
+"그들은 눈을 돌리거나 외면하면서, \"참여\" 마법사들에게 벌을 줍니다.\n"
+"그들이 그것의 일부를 느낄 수 있게 합니다.\n"
+"\n"
+"그리고 그 빛은 그를 불태우고 주변으로 번져나갑니다.\n"
+"또한 잎사귀들은 거울처럼 빛을 반사해, 보는 이들의 눈을 멀게합니다.\n"
+"마법사들의 형벌을 \"함께\"하도록 하고, 그들은 눈을 돌리거나 외면합니다\n"
+"그들이 그것의 일부를 느낄 수 있게 합니다.\n"
+"\n"
+"어찌되었든, 제 생각도 같습니다. 그리고 그것은 확실히 이 연회장에 아이들이 들어오지 못하도록 할것입니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[987]/JournalTextData/TextReference
@@ -12392,6 +12474,7 @@ msgstr ""
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1238]/JournalTextData/TextReference
+#, fuzzy
 msgctxt "0x00041a5d"
 msgid ""
 "I had never heard of Calpernia before I joined the Venatori. Tevinter's Circles have no record of a mage of that name, so I thought her perhaps a magister from one of the old houses who took a false title. Calpernia appears to have no background at all, however, and offers no hints to her past. She is too shrewd to flatter, even if she did not spend half her hours training as her Master's star pupil should.\n"
@@ -12400,6 +12483,14 @@ msgid ""
 "\n"
 "—Note from Marconius Pellnix, Ben-Hassrath agent to the Qunari, dated several days before his mysterious death by fire"
 msgstr ""
+"칼퍼니아라는 이름은 베나토리에 입단하고 나서야 처음 들어보았습니다. 테빈터 써클의 내부 기록에는 그런 이름의 마법사가 없기 때문에, "
+"오래된 가문 출신의 매지스터 하나가 가명을 쓰는 것이라 생각했습니다. 하지만 칼퍼니아의 과거에 대해서는 어떤 것도 알아낼 수가 "
+"없었습니다. 눈치도 빠른 데다가 지도자의 총애를 받는 학생 답게 시간의 대부분을 수련에 사용합니다.\n"
+"\n"
+"정면에서 맞설 수도 없습니다. 추종자들에게 있어 칼퍼니아는 아름다운 여인인 데다가, 임페리움 재건을 향한 그 열정이 충성심을 더욱 "
+"부추기기 때문입니다. 바보가 아닌 이상 힘으로 칼퍼니아를 무너뜨릴 생각은 하지 않을 겁니다. 더 은밀한 방법이 필요합니다.\n"
+"\n"
+"- 쿠나리의 벤-하스라스 요원 마코니움 펠닉스의 서신 중에서, 의문의 화재에 목숨을 잃기 며칠 전 날짜에"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1239]/JournalTextData/TextReference
@@ -16768,7 +16859,13 @@ msgctxt "0x00041dd2"
 msgid ""
 "King Alistair Theirin was crowned the ruler of Ferelden after the end of the Fifth Blight, and is considered a hero among his people for having fought against the darkspawn as a Grey Warden. He is one of the few known to have ever left the secretive Order, never mind one who went on to rule a nation afterwards. Some in Ferelden claim that the Theirin line ended with the death of King Cailan and that the existence of an unknown bastard was a lie imposed upon the people to overthrow Queen Anora. As such, Alistair's rule has been plagued with trouble… both within his own lands as well as with neighboring Orlais. The Blight greatly weakened Ferelden, and many believe that a renewal of the long-standing rivalry between the two nations is inevitable.\n"
 "{blank}"
-msgstr "알리스터 테이린 국왕은 5차 대재앙 이후 페렐던을 다스리는 왕이 되었다. 백성들은 그를 잿빛 감시단의 일원으로 다크스폰에 맞서 싸운 영웅으로 추대한다. 그 비밀스러운 기사단을 떠나 세상으로 나오는 이도 거의 없다시피 한데, 나아가 나라를 다스리는 감시자는 알리스터가 유일무이하다. 페렐던의 어떤 이들은 국왕 케일런이 사망하여 테이린 가문은 끊겼으며, 알리스터가 숨겨뒀던 사생아라는 얘기는 여왕 아노라를 타도하기 위한 거짓 핑계라고 주장한다. 여기에 이웃나라 올레이와의 갈등이 더해져 알리스터의 통치는 나라 안팎으로 험난하였다. 대재앙은 국력을 심히 위축시켰고, 많은 이들이 이 두 국가 간의 갈등이 어떤 식으로든 끝장을 보게 되리라 생각한다. {blank}"
+msgstr ""
+"알리스터 테이린 국왕은 5차 대재앙 이후 페렐던을 다스리는 왕이 되었다. 백성들은 그를 잿빛 감시단의 일원으로 다크스폰에 맞서 싸운 "
+"영웅으로 추대한다. 그 비밀스러운 기사단을 떠나 세상으로 나오는 이도 거의 없다시피 한데, 나아가 나라를 다스리는 감시자는 알리스터가 "
+"유일무이하다. 페렐던의 어떤 이들은 국왕 케일런이 사망하여 테이린 가문은 끊겼으며, 알리스터가 숨겨뒀던 사생아라는 얘기는 여왕 아노라를 "
+"타도하기 위한 거짓 핑계라고 주장한다. 여기에 이웃나라 올레이와의 갈등이 더해져 알리스터의 통치는 나라 안팎으로 험난하였다. 대재앙은 "
+"국력을 심히 위축시켰고, 많은 이들이 이 두 국가 간의 갈등이 어떤 식으로든 끝장을 보게 되리라 생각한다.\n"
+"{blank}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1607]/JournalTextData/TextReference
@@ -16777,7 +16874,13 @@ msgctxt "0x00041dce"
 msgid ""
 "King Alistair Theirin was crowned the ruler of Ferelden after the end of the Fifth Blight; his people consider him a hero for fighting against the darkspawn as a Grey Warden. Few Wardens have ever left the secretive Order, and he is the only of those who went on to rule a nation; Queen Anora, daughter of the legendary Teyrn Loghain, rules at his side. Although Ferelden has prospered under their reign, it was greatly weakened by the Blight. Tensions with neighboring Orlais have been high, and many believe a renewal of their long-standing conflict is inevitable.\n"
 "{blank}"
-msgstr "알리스터 테이린 국왕은 5차 대재앙 이후 페렐던을 다스리는 왕이 되었다. 백성들은 그를 잿빛 감시단의 일원으로 다크스폰에 맞서 싸운 영웅으로 추대한다. 그 비밀스러운 기사단을 떠나 세상으로 나오는 이도 거의 없다시피 한데, 나아가 나라를 다스리는 감시자는 알리스터가 유일무이하다. 전설적인 인물인 테언 로게인의 딸 아노라 여왕이 알리스터를 보좌한다. 둘의 통치 하에 페렐던은 번창하였으나, 대재앙으로 인해 그 국력이 몹시 약해져있었다. 이웃나라 올레이와의 갈등도 심해져, 많은 이들이 이 두 국가 간의 갈등이 어떤 식으로든 끝장을 보게 되리라 생각한다. {blank}"
+msgstr ""
+"알리스터 테이린 국왕은 5차 대재앙 이후 페렐던을 다스리는 왕이 되었다. 백성들은 그를 잿빛 감시단의 일원으로 다크스폰에 맞서 싸운 "
+"영웅으로 추대한다. 그 비밀스러운 기사단을 떠나 세상으로 나오는 이도 거의 없다시피 한데, 나아가 나라를 다스리는 감시자는 알리스터가 "
+"유일무이하다. 전설적인 인물인 테언 로게인의 딸 아노라 여왕이 알리스터를 보좌한다. 둘의 통치 하에 페렐던은 번창하였으나, 대재앙으로 "
+"인해 그 국력이 몹시 약해져있었다. 이웃나라 올레이와의 갈등도 심해져, 많은 이들이 이 두 국가 간의 갈등이 어떤 식으로든 끝장을 보게 "
+"되리라 생각한다.\n"
+"{blank}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1608]/JournalTextData/TextReference
@@ -16794,7 +16897,12 @@ msgctxt "0x00041dd0"
 msgid ""
 "Rumored to be King Maric of Ferelden's bastard son, there was a moment during the recent Fifth Blight where Alistair could have ascended to the throne. Instead, the throne was given to Queen Anora, daughter of the traitorous Teyrn Loghain—the very man responsible for the death of almost every Grey Warden in Ferelden at the infamous Battle of Ostagar. Disgusted, Alistair abandoned the Grey Wardens, and for years lived in disgraced exile in the Free Marches. Several years ago, Alistair was retrieved from his exile, sobered up, and eventually re-admitted to the Order... though he chose to do so in Orlais rather than his homeland.\n"
 "{blank}"
-msgstr "페렐던의 국왕 마릭의 사생아라는 소문이 도는 알리스터는 최근 발발했던 5차 대재앙 도중 왕위에 오를 수도 있었다. 하지만 왕좌는 페렐던의 오스타가 전투에서 잿빛 감시단을 몰살시킨 장본인인 역적 테언 로게인의 딸, 아노라 여왕에게 주어졌다. 이에 넌더리가 난 알리스터는 잿빛 감시단을 떠나버렸고, 몇 년 동안 자유 동맹에서 불명예스러운 유배생활에 들어간다. 수 년 뒤 유배를 마친 알리스터는 술을 멀리하더니, 결국 감시단에 재가입한다… 비록 고향이 아닌 올레이에서 활동하기를 택했지만. {blank}"
+msgstr ""
+"페렐던의 국왕 마릭의 사생아라는 소문이 도는 알리스터는 최근 발발했던 5차 대재앙 도중 왕위에 오를 수도 있었다. 하지만 왕좌는 페렐던의 "
+"오스타가 전투에서 잿빛 감시단을 몰살시킨 장본인인 역적 테언 로게인의 딸, 아노라 여왕에게 주어졌다. 이에 넌더리가 난 알리스터는 잿빛 "
+"감시단을 떠나버렸고, 몇 년 동안 자유 동맹에서 불명예스러운 유배생활에 들어간다. 수 년 뒤 유배를 마친 알리스터는 술을 멀리하더니, "
+"결국 감시단에 재가입한다… 비록 고향이 아닌 올레이에서 활동하기를 택했지만.\n"
+"{blank}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1610]/JournalTextData/TextReference
@@ -16804,9 +16912,12 @@ msgstr ""
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1611]/JournalTextData/TextReference
+#, fuzzy
 msgctxt "0x00041dcf"
 msgid "After the Champion of Kirkwall's sacrifice in the Fade, giving him and the Inquisitor a chance to escape, Alistair left to report to the Grey Warden leadership at the fortress of Weisshaupt in the Anderfels."
 msgstr ""
+"커크월의 챔피언이 영계에서 희생하여 그와 인퀴지터가 탈출할 시간을 벌어준 뒤, 알리스터는 이를 잿빛 감시단 지휘부에 보고하기 위해 "
+"안더펠에 위치한 와이스홉트 요새로 떠났다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1612]/JournalTextData/TextReference
@@ -19415,7 +19526,12 @@ msgctxt "0x000420b7"
 msgid ""
 "The Qunari in Par Vollen live under the Qun, a religious and philosophical doctrine dictating every aspect of their society. {spHeroName} Adaar's parents left that restrictive life before {shehe} was born, settling in the Free Marches and raising their child outside the Qun. Qunari brought up outside their society are still feared, shunned, or misunderstood by most people in the south. The average citizen of Orlais or Ferelden assumes they are cold-blooded thralls, or vicious bandits.\n"
 "{blank}"
-msgstr "파 볼렌의 쿠나리들은 쿤이라고 칭하는 사회 전반을 아우르는 종교적, 철학적 규율에 따라 살아간다. {spHeroName} 아다르가 태어나기 전, {spHeroName}의 부모는 쿤의 억압적인 삶을 버리고 자유 동맹에 정착하여 가정을 꾸렸다. 그들만의 사회 밖에서 자란 쿠나리는 남부 사람들에게 두려움의 대상이자, 배척의 대상이며, 동시에 오해의 대상이었다. 올레이나 페렐던의 보통 사람들은 그들을 냉혹한 군주나 잔혹한 도적쯤으로 여겼다. {blank}"
+msgstr ""
+"파 볼렌의 쿠나리들은 쿤이라고 칭하는 사회 전반을 아우르는 종교적, 철학적 규율에 따라 살아간다. {spHeroName} 아다르가 "
+"태어나기 전, {spHeroName}의 부모는 쿤의 억압적인 삶을 버리고 자유 동맹에 정착하여 가정을 꾸렸다. 그들만의 사회 밖에서 자란 "
+"쿠나리는 남부 사람들에게 두려움의 대상이자, 배척의 대상이며, 동시에 오해의 대상이었다. 올레이나 페렐던의 보통 사람들은 그들을 냉혹한 "
+"군주나 잔혹한 도적쯤으로 여겼다.\n"
+"{blank}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1833]/JournalTextData/TextReference
@@ -19931,6 +20047,7 @@ msgstr ""
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1884]/JournalTextData/TextReference
+#, fuzzy
 msgctxt "0x00043a2c"
 msgid ""
 "Party members and enemies can be affected by (or innately possess) a range of status effects. The list below provides a brief synopsis of general terms.\n"
@@ -19975,6 +20092,51 @@ msgid ""
 "\n"
 "Immunity (effect): The target is completely immune to one or more debilitating effects (such as Burning or Asleep). \n"
 msgstr ""
+"파티 구성원과 적들 모두 다양한 형태의 상태 효과를 받습니다 (기본 상태일 수도 있습니다). 각 효과는 아래에서 요약되어있습니다.\n"
+"\n"
+"{i}해로운 효과{/i}\n"
+"\n"
+"불가 상태 (결빙, 마비, 기절, 수면을 포함): 대상은 이동이나 어떠한 행동도 불가능합니다. 이러한 효과는 잠시동안만 지속되거나 특정 "
+"행동에 의해 종료됩니다 (수면 도중 피해를 입을 시 깨어납니다). 팁: 불가 상태인 대상에 기폭 효과를 지닌 능력을 사용 시 파괴적인 "
+"콤보 효과를 가할 수 있습니다.\n"
+"\n"
+"지속 피해 (화상, 중독, 출혈을 포함): 대상은 점차적으로 해당 피해를 입습니다.\n"
+"\n"
+"서리: 대상은 공격 속도와 이동 속도가 감소합니다.\n"
+"\n"
+"혼란: 대상은 자신의 아군을 공격합니다.\n"
+"\n"
+"쓰러짐: 대상은 바닥에 무방비로 눕게 되며 다시 일어서는 데 시간이 소요됩니다.\n"
+"\n"
+"공황: 대상은 공격을 멈추고 전장을 무작위로 돌아다닙니다. 피해를 입으면 효과가 종료됩니다.\n"
+"\n"
+"충격: 대상의 마법 저항력이 감소합니다. 추가 마법 피해를 입습니다.\n"
+"\n"
+"둔화: 대상의 이동 속도가 감소합니다.\n"
+"\n"
+"휩싸임: 대상이 벌떼에 휩싸입니다. 벌에 쏘여 지속적인 피해를 입으며 공황 상태에 빠질 수도 있습니다.\n"
+"\n"
+"찢김: 대상의 방어력이 감소합니다. 추가 물리 피해를 입습니다.\n"
+"\n"
+"도발: 대상은 도발을 사용한 주체만을 공격하며 나머지를 무시합니다. 공격을 위해 이동도 감행합니다.\n"
+"\n"
+"쇠약: 대상의 공격이 피해를 덜 입힙니다.\n"
+"\n"
+"취약 (계열): 대상은 해당 계열 (화염, 냉기, 영혼 등)에 추가 피해를 입습니다.\n"
+"\n"
+"{i}이로운 효과{/i}\n"
+"\n"
+"보호막: 마법이 대상을 보호합니다. 들어오는 공격은 먼저 보호막을 고갈시키지 못한다면 대상에게 피해를 입힐 수 없습니다. 특정 능력이나 "
+"마법, 무기는 보호막에 추가 피해를 입힙니다.\n"
+"\n"
+"방어: 대상을 피해로부터 보호하는 전투 기술입니다. 들어오는 공격은 먼저 방어도를 고갈시키지 못한다면 대상에게 피해를 입힐 수 없습니다. "
+"특정 능력이나 마법, 무기는 방어도에 추가 피해를 입힙니다. 방어도가 남아있는 대상은 비틀대거나 쓰러지지 않습니다.\n"
+"\n"
+"저항 (계열): 대상은 해당 계열 (화염, 냉기, 영혼 등)에 감소된 피해를 입습니다.\n"
+"\n"
+"향상된 저항 (계열): 대상은 해당 계열에 거의 피해를 입지 않습니다.\n"
+"\n"
+"면역 (효과): 대상은 해당 효과(화상이나 수면 등)에 완전히 면역입니다. \n"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1885]/JournalTextData/TextReference
@@ -20837,6 +20999,7 @@ msgstr ""
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1951]/JournalTextData/TextReference
+#, fuzzy
 msgctxt "0x00041866"
 msgid ""
 "Inquisitor,\n"
@@ -20848,18 +21011,31 @@ msgid ""
 "Cassandra\n"
 "{blank}"
 msgstr ""
+"인퀴지터께,\n"
+"\n"
+"이 “콜”이라는 자가 진정으로 인퀴지션을 돕고자 한다고 믿으신다면, 저 또한 이를 증명할 기회를 주도록 하겠습니다. 솔라스도 콜이 무고한 "
+"자에 빙의한 악마가 아니라 그저 젊은 청년의 형상을 띈 영혼이라고 하니, 사악한 존재가 아닐 수도 있다는 데에 동의합니다.\n"
+"\n"
+"허나 콜의 능력이 걱정스럽습니다. 렐리아나에게 콜을 주시하라고 해두었으나 스카이홀드 사람들 대부분은 콜을 보지도 못하고, 그 존재조차도 "
+"기억하지 못하는 것 같습니다. 관리인들은 물건이 이상하게 없어지거나 다른 곳에 놓이는 일이 있다고 불평하는데, 누가 그랬는 지 전혀 "
+"보지도 기억하지도 못합니다. 아직까지는 별 문제가 없어 보이나, 항상 지켜보겠습니다.\n"
+"\n"
+"카산드라 올림\n"
+"{blank}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1952]/JournalTextData/TextReference
+#, fuzzy
 msgctxt "0x00044964"
 msgid "Cole appreciates the Inquisition helping those who are hurting and in need."
-msgstr ""
+msgstr "콜은 다치고 어려운 자를 돕는 인퀴지션에 흡족해한다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1953]/JournalTextData/TextReference
+#, fuzzy
 msgctxt "0x00041867"
 msgid "The Inquisition knows of no one by this name."
-msgstr ""
+msgstr "인퀴지션은 이런 자를 알지 못한다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1954]/JournalTextData/TextReference

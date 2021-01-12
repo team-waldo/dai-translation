@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-10 18:28+0000\n"
+"PO-Revision-Date: 2021-01-12 10:01+0000\n"
 "Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
@@ -1390,9 +1390,10 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_collection_stables.xml
 #. PATH: JournalEntry/TitleReference
+#, fuzzy
 msgctxt "0x00042a9f"
 msgid "Mounts"
-msgstr ""
+msgstr "탈것"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_collection_thrones.xml
 #. PATH: JournalEntry/TitleReference
@@ -4888,9 +4889,10 @@ msgstr ""
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/ProgressiveTaskData/member[1]/ProgressiveTaskData/TextReference
+#, fuzzy
 msgctxt "0x000450cc"
 msgid "Fade rifts closed"
-msgstr ""
+msgstr "영계 균열 닫힘"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/ProgressiveTaskData/member[2]/ProgressiveTaskData/TextReference
@@ -4906,15 +4908,17 @@ msgstr ""
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/ProgressiveTaskData/member[4]/ProgressiveTaskData/TextReference
+#, fuzzy
 msgctxt "0x000450c8"
 msgid "Fade rifts closed"
-msgstr ""
+msgstr "영계 균열 닫힘"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/ProgressiveTaskData/member[5]/ProgressiveTaskData/TextReference
+#, fuzzy
 msgctxt "0x00045de7"
 msgid "Fade rifts closed"
-msgstr ""
+msgstr "영계 균열 닫힘"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/ProgressiveTaskData/member[6]/ProgressiveTaskData/TextReference
@@ -5000,9 +5004,10 @@ msgstr ""
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/ProgressiveTaskData/member[19]/ProgressiveTaskData/TextReference
+#, fuzzy
 msgctxt "0x000450cf"
 msgid "Fade rifts closed"
-msgstr ""
+msgstr "영계 균열 닫힘"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/ProgressiveTaskData/member[20]/ProgressiveTaskData/TextReference
@@ -7108,6 +7113,7 @@ msgstr ""
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[164]/JournalTextData/TextReference
+#, fuzzy
 msgctxt "0x00048a4c"
 msgid ""
 "{i}Correspondence found in the Inquisition's files, dated more than two years ago:{/i}\n"
@@ -7132,6 +7138,30 @@ msgid ""
 "\n"
 "Charter"
 msgstr ""
+"{/i}인퀴지션 내 문건 중 2년이 넘은 서신에서:{/i}\n"
+"\n"
+"챠터,\n"
+"\n"
+"부가적으로 부탁드릴 일이 있어요. 아시다시피 블랙월 감시자은 더 이상 우리와 함께하지 않아요. 조세핀이 공식적인 방법으로 연락을 해 "
+"보았지만, 감시단은 블랙월이 실종되었고, 아마 사망했을 거라고만 하네요. 견고한 요새의 전투 이후로는 블랙월을 본 적이 없대요.\n"
+"\n"
+"뭔가 잘못됐어요. 조금 더 알아봐 줄래요? 시간이 남으면요.\n"
+"\n"
+"-L\n"
+"\n"
+"{linebreak}\n"
+"\n"
+"나이팅게일님께:\n"
+"\n"
+"“블랙월 감시자”는 알고 보니 전혀 블랙월이 아니었습니다. 토마스 레니어, 흔히 톰 레니어라 불리는 자였습니다. 한 때 올레이 군의 "
+"지휘관이었는데, 알 수 없는 이유로 선량한 감시자 행세를 하며 모두를 속였습니다. 다른 감시자도 속아넘어간 것 같습니다.\n"
+"\n"
+"이 톰 레니어라는 자는 우리가 코리피우스를 물리치고 6개월쯤 후에 올레이 당국에 오래 전의 범죄로 자수했습니다. 그 후로는 아무도 본 "
+"사람이 없다 합니다.\n"
+"\n"
+"배릭이 늘 말하듯이, “이런 건 지어내지도 못합니다.”\n"
+"\n"
+"챠터 드림"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[165]/JournalTextData/TextReference
@@ -7152,7 +7182,26 @@ msgid ""
 "\n"
 "Yours, \n"
 "Thom Rainier"
-msgstr "인퀴지터께,  이 편지가 잘 닿기를 바라오. 오랜 기간 자리를 비워 송구스럽소. 나는 내 이전 동료 하나를 수소문한 끝에 커크월에 도착하여 이 편지를 쓴다오.  니콜라우스 로리 일병. 요즘은 스스로를 클라우스라 한다 하오. 내가 저버린 수많은 자들과는 달리 클라우스는 범죄가 아닌 새로운 삶을 택했소. 그로써 내 끔찍한 과거가 더 나아질 수는 없겠으나, 누군가만은 나의 행동에 완전히 무너져버리지 않았다는 사실이 작은 위안이 되오.  클라우스는 사랑스러운 여인과 혼인하여 자그마한 빵집을 운영하오. 곧장 날 알아보았소. 두 개의 고기 파이가 내 머리로 날아들었소. 갓 오븐에서 꺼낸 파이가 말이오. 내가 때맞춰 숙였기에 망정이지.  그에게 사과를 했소. 수 개월동안 그를 찾아 헤매며 그토록 많은 준비를 했건만… 여전히 어려웠소. 고맙게도 클라우스가 내게 말을 할 기회를 주었고, 우리는 행드 맨에서 한 잔 걸치었소.  이제 몇 달 안으로 돌아가겠소. 나에게 시간을 주어 감사하오. 인퀴지터.  톰 레니어 드림"
+msgstr ""
+"인퀴지터께, \n"
+"\n"
+"이 편지가 잘 닿기를 바라오. 오랜 기간 자리를 비워 송구스럽소. 나는 내 이전 동료 하나를 수소문한 끝에 커크월에 도착하여 이 편지를 "
+"쓴다오. \n"
+"\n"
+"니콜라우스 로리 일병. 요즘은 스스로를 클라우스라 한다 하오. 내가 저버린 수많은 자들과는 달리 클라우스는 범죄가 아닌 새로운 삶을 "
+"택했소. 그로써 내 끔찍한 과거가 더 나아질 수는 없겠으나, 누군가만은 나의 행동에 완전히 무너져버리지 않았다는 사실이 작은 위안이 "
+"되오. \n"
+"\n"
+"클라우스는 사랑스러운 여인과 혼인하여 자그마한 빵집을 운영하오. 곧장 날 알아보았소. 두 개의 고기 파이가 내 머리로 날아들었소. 갓 "
+"오븐에서 꺼낸 파이가 말이오. 내가 때맞춰 숙였기에 망정이지. \n"
+"\n"
+"그에게 사과를 했소. 수 개월동안 그를 찾아 헤매며 그토록 많은 준비를 했건만… 여전히 어려웠소. 고맙게도 클라우스가 내게 말을 할 "
+"기회를 주었고, 우리는 행드 맨에서 한 잔 걸치었소. \n"
+"\n"
+"이제 몇 달 안으로 돌아가겠소. 나에게 시간을 주어 감사하오. 인퀴지터. \n"
+"\n"
+"감사하오.\n"
+"톰 레니어 드림"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[166]/JournalTextData/TextReference
@@ -7264,6 +7313,7 @@ msgstr ""
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[176]/JournalTextData/TextReference
+#, fuzzy
 msgctxt "0x0004ae34"
 msgid ""
 "Inquisitor,\n"
@@ -7277,9 +7327,23 @@ msgid ""
 "Yours,\n"
 "Charter"
 msgstr ""
+"인퀴지터님께,\n"
+"\n"
+"젊은 콜을 추천해주신 바 깊이 감사드립니다. 실종자들을 찾아내는 데 어마어마한 능력을 보이고 있습니다. 우리 요원들이 적에게 생포되어 "
+"섣불리 접근했다간 죽임을 당할 것 같은 상황에서도 콜은 전혀 눈에 띄지 않고 요원들을 구해냅니다. 정보원으로써는 그 정도의 실력은 "
+"아니지만, 누구를 믿어도 좋을 지는 본능적으로 잘 알아냅니다. \n"
+"\n"
+"요청하신 바에 따라 콜의 임무는 명백한 적대세력에 대한 전투 및 구출 정도로 제한하였습니다. 머리 속에 어떤 마법이 들어있는 지는 "
+"모르겠지만, 더 더러운 일들을 해서는 좋아하지 않을 듯 합니다.\n"
+"\n"
+"제 가족에 대한 얘기도 하던데, 임무와 전혀 관련은 없지만 감사하게 듣고 있습니다.\n"
+"\n"
+"감사합니다.\n"
+"차터 올림"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[177]/JournalTextData/TextReference
+#, fuzzy
 msgctxt "0x0004ae35"
 msgid ""
 "Inquisitor,\n"
@@ -7309,6 +7373,33 @@ msgid ""
 "\n"
 "Why did I write this?"
 msgstr ""
+"인퀴지터님께,\n"
+"\n"
+"이게 장난인지, 시험인지, 아니면 무슨 마법 같은 건지 몰라 인퀴지터님께 보내드립니다. 만약 마법이라면 매우 불편하다고 말씀드리고 "
+"싶지만, 결과가 너무 좋아 그러기 어렵습니다. 일이 이토록 성공적인 적이 또 없습니다.\n"
+"\n"
+"저는 이런 것을 쓴 기억이 없습니다. 하지만 확실히 제 글씨체고, 제 의지로 썼다는 서명까지 붙어있습니다. 저보다는 더 잘 아시겠죠.\n"
+"\n"
+"감사합니다.\n"
+"차터 올림\n"
+"\n"
+"{linebreak}\n"
+"\n"
+"인퀴지터님께 보내기 회신 콜:\n"
+"\n"
+"분기 보고:\n"
+"\n"
+"구출: 6 (예상보다 좋음)\n"
+"\n"
+"습격: 4 (심문하기 전 1명은 사망—\"감옥은 안돼\"?)\n"
+"\n"
+"요원 사기: 높음 (우는 사람들? 모두 \"좋은 눈물\"이라 함, 많이 감정적, 임무와 연관 없음, 보통 과거 트라우마와 관련)\n"
+"\n"
+"특이사항: 물건들이 옮겨짐, 예상 밖. 격앙된 감정과 관련됨. 적대적인 혈법사가 악마와 엮이는 것이 걱정. V. 화남.\n"
+"\n"
+"내 손가락에 밀랍, 벌집을 씹자 뒤에서 벌이 윙윙댐, 언제나 날 자랑스럽댔지.\n"
+"\n"
+"내가 이걸 왜 쓴거지?"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[178]/JournalTextData/TextReference
@@ -7386,6 +7477,7 @@ msgstr ""
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[186]/JournalTextData/TextReference
+#, fuzzy
 msgctxt "0x0004ad33"
 msgid ""
 "Inquisitor,\n"
@@ -7399,6 +7491,20 @@ msgid ""
 "With the Grace and Benediction of the Maker,\n"
 "Divine Victoria"
 msgstr ""
+"인퀴지터께,\n"
+"\n"
+"단어 하나 하나를 다 써 놓을 필요는 없겠죠? 디바인이 되긴 했지만 글솜씨는 영 아니잖습니까. 시작은 뭐 농담이라도 해야 합니까? "
+"대성직자들과 몇 시간씩이나 회의하는 게 미치도록 지루하지 않을 방법이 있긴 합니까? 어차피 농담은 생각도 안 납니다. 모자 가지고 해야 "
+"합니까? 이런 건 배릭에게 여쭤보셔야겠습니다.\n"
+"\n"
+"제가 든든한 모습을 보여야합니다. 인퀴지터님께서는 안 그래도 바쁘실텐데 거기에다 챈트리 사안까지 얹어드릴 수는 없습니다. 뭐 붉은 리륨 "
+"제거가 잘 되고 있다 이런 얘기나 하시겠습니까? 아니면 템플러와 마법사 간의 전… 아니 이건 이미 너무 많이 언급이 됐죠. 아니면 발 "
+"로요에서 인퀴지터를 영웅시하는 연극 얘기는 어떻습니까? 그거면 괜찮을 것 같습니다.\n"
+"\n"
+"아! 네바라에서 존경받는다는 어머니들과 회의가 있었는데 늦었습니다. 적당히 괜찮은 말로 마무리하십시오.\n"
+"\n"
+"창조주의 은총과 축복을 담아,\n"
+"디바인 빅토리아 드림"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[187]/JournalTextData/TextReference
@@ -7417,6 +7523,7 @@ msgstr ""
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[188]/JournalTextData/TextReference
+#, fuzzy
 msgctxt "0x0004ad37"
 msgid ""
 "Inquisitor,\n"
@@ -7429,9 +7536,23 @@ msgid ""
 "\n"
 "Cassandra"
 msgstr ""
+"인퀴지터님께,\n"
+"\n"
+"안티바 시의 항구를 모두 조사했습니다. 영계의 에너지나 악마는 인퀴지터님께서 지난 봄 균열을 닫으신 이후 찾아볼 수 없었습니다. 우리 "
+"마법사들은 이 지역의 장막이 안정화되었다고 합니다. 일단은요. 하지만 아무리 얘기해도 상인 나으리들께서는 듣지를 않습니다. 창조주님께서 "
+"직접 행차라도 하시면 들으려나 모르겠습니다.\n"
+"\n"
+"이제 모든 균열을 닫았다니, 꿈만 같습니다. 이제는 뭘 해야 할지 감도 오지 않습니다.\n"
+"\n"
+"아 그리고 이베트 몽티예가 인퀴지터님께 상자 하나를 보냈는데, 차 같기도…하고 향신료인가… 하여튼 비누 냄새나는 갈색 가루 머시기입니다. "
+"비누일 지도 모르겠습니다. 쪽지에다가 “잘 쓰세요!!!!”하고는 동그란 거랑 꽃 그림도 그려놨습니다. 복귀하면 조세핀에게 이걸 "
+"해석해내라고 하겠습니다.\n"
+"\n"
+"카산드라 드림"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[189]/JournalTextData/TextReference
+#, fuzzy
 msgctxt "0x0004b373"
 msgid ""
 "{blank}\n"
@@ -7442,6 +7563,14 @@ msgid ""
 "\n"
 "Be well and safe, my love."
 msgstr ""
+"{blank}\n"
+"\n"
+"{i}편지에는 급히 휘갈긴 추신이 덧붙여져있다:{/i}\n"
+"\n"
+"추신. 어서 복귀하여 함께 시간을 보내고 싶습니다. 얼른 그 때가 왔으면 좋겠습니다. 하지만 저에게도, 당신에게도 주어진 의무가 있죠. "
+"그러니까, 어서 당신 곁에 있고 싶다는 얘기입니다. 으, 배릭은 도대체 이런 걸 어떻게 능청스럽게 말하는 거죠?\n"
+"\n"
+"언제나 몸조심하세요, 내 사랑."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[190]/JournalTextData/TextReference

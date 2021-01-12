@@ -1,14 +1,14 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-10 19:46+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-01-12 10:01+0000\n"
+"Last-Translator: 불타는 수염 <brng_beard@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/unknown/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.1.1\n"
-"Content-Transfer-Encoding: 8bit\n"
 
 msgctxt "0x00000277"
 msgid "This is a multiline string test"
@@ -16,7 +16,7 @@ msgstr ""
 
 msgctxt "0x00000278"
 msgid "south"
-msgstr ""
+msgstr "남쪽"
 
 msgctxt "0x00000279"
 msgid "You are strong"
@@ -24,11 +24,11 @@ msgstr ""
 
 msgctxt "0x0000027a"
 msgid "north"
-msgstr ""
+msgstr "북쪽"
 
 msgctxt "0x0000027b"
 msgid "east"
-msgstr ""
+msgstr "동쪽"
 
 msgctxt "0x0000027c"
 msgid "This string contains <characters> \\ that must be escaped."
@@ -36,7 +36,7 @@ msgstr ""
 
 msgctxt "0x0000027d"
 msgid "west"
-msgstr ""
+msgstr "서쪽"
 
 msgctxt "0x00000426"
 msgid "I am a yes response"
@@ -48,11 +48,11 @@ msgstr ""
 
 msgctxt "0x00000428"
 msgid "Yes Response"
-msgstr ""
+msgstr "긍정적인 대답"
 
 msgctxt "0x00000429"
 msgid "No Response"
-msgstr ""
+msgstr "부정적인 대답"
 
 msgctxt "0x0000042a"
 msgid "Hello, this is a test line.  You should try responding to me!"
@@ -60,7 +60,7 @@ msgstr ""
 
 msgctxt "0x0000042b"
 msgid "Excellent"
-msgstr ""
+msgstr "휼륭하다"
 
 msgctxt "0x0000042c"
 msgid "Nice"
@@ -4447,7 +4447,7 @@ msgstr ""
 
 msgctxt "0x000185f5"
 msgid "Blackwall"
-msgstr ""
+msgstr "블랙월"
 
 msgctxt "0x000185fb"
 msgid "Magistrate"
@@ -10589,9 +10589,10 @@ msgctxt "0x0002681a"
 msgid "{CUSTOM0} incapacitated"
 msgstr ""
 
+#, fuzzy
 msgctxt "0x0002685b"
 msgid "{CUSTOM0} was revived"
-msgstr ""
+msgstr "{CUSTOM0}이/가 되살아났습니다"
 
 msgctxt "0x0002685e"
 msgid "Setting barrier breakdown flags"
@@ -18997,6 +18998,7 @@ msgid ""
 "Press {StringBtnB} at any time to leave the conversation.{/controller}"
 msgstr ""
 
+#, fuzzy
 msgctxt "0x0003351a"
 msgid ""
 "Press {controller}{StringBtnSTART} and select Character "
@@ -19004,6 +19006,9 @@ msgid ""
 "character record{/notcontroller} to find abilities to improve your "
 "character."
 msgstr ""
+"{controller}{StringBtnSTART}를 누르고 캐릭터 기록지를 "
+"선택해{/controller}{notcontroller}{ConceptQuickShowCharRec}를 눌러 캐릭터 기록지를 "
+"열고{/notcontroller} 캐릭터를 강화시킬 능력을 확인하세요."
 
 msgctxt "0x00033524"
 msgid "Regions"
@@ -35477,9 +35482,10 @@ msgctxt "0x00041f6c"
 msgid "Cabin Key"
 msgstr ""
 
+#, fuzzy
 msgctxt "0x00041f8f"
 msgid "Chain Lightning"
-msgstr ""
+msgstr "연쇄 번개"
 
 msgctxt "0x00041fe2"
 msgid "Researched: Damage Against Beasts Increased"
@@ -36756,9 +36762,10 @@ msgctxt "0x00042764"
 msgid "Improved Disruption Field"
 msgstr ""
 
+#, fuzzy
 msgctxt "0x00042765"
 msgid "Improved Mind Blast"
-msgstr ""
+msgstr "향상된 정신 폭발"
 
 msgctxt "0x00042766"
 msgid "Improved Revival"
@@ -36768,9 +36775,10 @@ msgctxt "0x00042767"
 msgid "Improved Exploding Bolt"
 msgstr ""
 
+#, fuzzy
 msgctxt "0x00042768"
 msgid "Improved Chain Lightning"
-msgstr ""
+msgstr "향상된 연쇄 번개"
 
 msgctxt "0x0004276a"
 msgid "Improved Static Cage"
@@ -39115,9 +39123,10 @@ msgctxt "0x00043109"
 msgid "Unlock new characters by finding or crafting armor for them."
 msgstr ""
 
+#, fuzzy
 msgctxt "0x0004310a"
 msgid "Revive incapacitated friends to keep them from bleeding out."
-msgstr ""
+msgstr "전투 불능인 아군을 되살려 과다출혈을 막으세요."
 
 msgctxt "0x0004310b"
 msgid "Complete challenges to unlock new schematics, banners, and titles."
@@ -39718,11 +39727,12 @@ msgid ""
 "Some abilities have prerequisites that you must learn first."
 msgstr ""
 
+#, fuzzy
 msgctxt "0x00043689"
 msgid ""
 "Select the Tactics tab from the character record to see a complete list of "
 "your learned abilities."
-msgstr ""
+msgstr "캐릭터 기록지 내 전술 탭에서 습득한 모든 능력을 확인하세요."
 
 msgctxt "0x0004368c"
 msgid "1000<br><i><font color=\"#e4bf76\">+25 bonus</font></i>"
@@ -39798,11 +39808,12 @@ msgid ""
 "armors, pommels and more to weapons."
 msgstr ""
 
+#, fuzzy
 msgctxt "0x0004369e"
 msgid ""
 "Target enemies in Tactical Camera mode to view more details about their "
 "strengths and weaknesses."
-msgstr ""
+msgstr "전술 시점에서 적을 선택하여 강점과 약점을 더 자세히 파악하세요."
 
 msgctxt "0x0004369f"
 msgid ""
@@ -39863,17 +39874,19 @@ msgctxt "0x00043730"
 msgid "Tactical Expert"
 msgstr ""
 
+#, fuzzy
 msgctxt "0x00043732"
 msgid ""
 "When the Tactical Camera is not in use, the actively controlled character "
 "gains a bonus to mana or stamina regeneration."
-msgstr ""
+msgstr "전술 시점을 사용하지 않을 때에는, 조종 중인 캐릭터의 마나 및 스태미너 재생력이 증가합니다."
 
+#, fuzzy
 msgctxt "0x00043733"
 msgid ""
 "All party members gain a bonus to mana or stamina regeneration when the "
 "Tactical Camera is in use."
-msgstr ""
+msgstr "전술 시점 중에는 모든 파티원의 마나 및 스태미너 재생력이 증가합니다."
 
 msgctxt "0x0004375f"
 msgid ""
@@ -40038,11 +40051,12 @@ msgid ""
 "armor and guard abilities."
 msgstr ""
 
+#, fuzzy
 msgctxt "0x00043783"
 msgid ""
 "Use the mage's Chain Lightning ability against isolated pairs of enemies to "
 "paralyze them."
-msgstr ""
+msgstr "동떨어진 적들에게 마법사의 연쇄 번개 능력을 사용하여 적들을 마비시키세요."
 
 msgctxt "0x00043784"
 msgid ""
@@ -40124,17 +40138,19 @@ msgid ""
 "abilities list."
 msgstr ""
 
+#, fuzzy
 msgctxt "0x000437a2"
 msgid ""
 "Use Tactical Camera to set targets for each of your party members, or to "
 "control the precise ability you want them to use."
-msgstr ""
+msgstr "전술 시점을 활용해 각 파티원에게 대상을 할당하거나, 능력을 정확하게 사용하세요."
 
+#, fuzzy
 msgctxt "0x000437a3"
 msgid ""
 "To protect your more vulnerable party members, use Tactical Camera to "
 "highlight an ally and set them as your target."
-msgstr ""
+msgstr "취약한 파티원을 보호하려면, 전술 시점에서 아군을 선택하여 대상으로 지정하세요."
 
 msgctxt "0x000437a4"
 msgid ""
@@ -40142,11 +40158,12 @@ msgid ""
 "abilities easily for your character's battle menu."
 msgstr ""
 
+#, fuzzy
 msgctxt "0x000437a5"
 msgid ""
 "Use Tactical Camera to focus your party's attacks automatically. Set "
 "Targeting to Follow another party member in the Tactics screen."
-msgstr ""
+msgstr "전술 시점에서 파티원들의 공격을 자동으로 집중시킬 수 있습니다. 전술 화면에서 대상 설정을 다른 파티원을 따름으로 설정하세요."
 
 msgctxt "0x000437a6"
 msgid ""
@@ -40461,19 +40478,27 @@ msgctxt "0x0004382b"
 msgid "Finish"
 msgstr ""
 
+#, fuzzy
 msgctxt "0x00043830"
 msgid ""
 "Press {controller}{StringBtnSTART} to open the hero menu and select "
 "Character Record{/controller}{notcontroller}{ConceptQuickShowCharRec} to "
 "open the character record{/notcontroller} to use your ability point."
 msgstr ""
+"{controller}{StringBtnSTART}를 눌러 영웅 메뉴를 열고 캐릭터 기록지를 "
+"선택해{/controller}{notcontroller}{ConceptQuickShowCharRec}을 눌러 캐릭터 기록지를 "
+"열고{/notcontroller} 능력 포인트를 사용하세요."
 
+#, fuzzy
 msgctxt "0x00043832"
 msgid ""
 "{controller}Switch between screens in the character record by pressing {StringBtnRB} or {StringBtnLB}.\n"
 "\n"
 "Press {StringBtnDpadUpDown} to change the party member being examined.{/controller}"
 msgstr ""
+"{controller}캐릭터 기록지에서 {StringBtnRB}와 {StringBtnLB}를 눌러 화면을 전환하세요.\n"
+"\n"
+"{StringBtnDpadUpDown}을 눌러 파티원을 전환하세요.{/controller}"
 
 msgctxt "0x00043833"
 msgid ""
@@ -40492,9 +40517,10 @@ msgid ""
 "{controller}Press the hotkey you want your ability mapped to.{/controller}"
 msgstr ""
 
+#, fuzzy
 msgctxt "0x00043844"
 msgid "Item Value"
-msgstr ""
+msgstr "아이템 희귀도"
 
 msgctxt "0x00043845"
 msgid ""
@@ -40505,7 +40531,7 @@ msgstr ""
 
 msgctxt "0x00043847"
 msgid "You have ability points to use in the Character Record."
-msgstr ""
+msgstr "캐릭터 기록지에서 사용 가능한 능력 포인트가 남아있습니다."
 
 msgctxt "0x00043853"
 msgid "Advance Time"
@@ -41076,10 +41102,11 @@ msgctxt "0x00043959"
 msgid "zz_pro_induction_03"
 msgstr ""
 
+#, fuzzy
 msgctxt "0x0004397b"
 msgid ""
 "Different mounts can take different amounts of damage before you are thrown."
-msgstr ""
+msgstr "탈것은 낙마하기 전 받을 수 있는 피해량이 각기 다릅니다."
 
 msgctxt "0x0004397c"
 msgid ""
@@ -41088,9 +41115,10 @@ msgid ""
 " receive a combat bonus against them."
 msgstr ""
 
+#, fuzzy
 msgctxt "0x0004397d"
 msgid "Mounts are the fastest way to travel across the land."
-msgstr ""
+msgstr "가장 빠른 이동법은 탈것을 이용하는 방법입니다."
 
 msgctxt "0x0004397e"
 msgid ""
@@ -41996,9 +42024,10 @@ msgctxt "0x00043e00"
 msgid "Saving the game is not permitted while you are under attack."
 msgstr ""
 
+#, fuzzy
 msgctxt "0x00043e01"
 msgid "The Character Record is not available while you are under attack."
-msgstr ""
+msgstr "전투 중에는 캐릭터 기록지를 열람할 수 없습니다."
 
 msgctxt "0x00043e02"
 msgid "Unavailable while you are under attack."
@@ -43827,9 +43856,10 @@ msgctxt "0x00044ed9"
 msgid "Min FPS: {CUSTOM0}"
 msgstr ""
 
+#, fuzzy
 msgctxt "0x00044ee2"
 msgid "Exit Tactical Camera"
-msgstr ""
+msgstr "전술 시점 종료"
 
 msgctxt "0x00044ee8"
 msgid ""
@@ -45347,6 +45377,8 @@ msgid ""
 "Chain Lightning deals significantly more damage but never strikes the same target more than once.\n"
 "\n"
 msgstr ""
+"연쇄 번개의 피해량이 크게 증가하지만 같은 대상을 여러 번 타격하지 않습니다.\n"
+"\n"
 
 msgctxt "0x000495dd"
 msgid "Endless Step"
@@ -45701,9 +45733,10 @@ msgctxt "0x0004a19e"
 msgid "Enhanced Livid Ring"
 msgstr ""
 
+#, fuzzy
 msgctxt "0x0004a1a1"
 msgid "Enhanced Mind Blast Ring"
-msgstr ""
+msgstr "증진된 정신 폭발의 반지"
 
 msgctxt "0x0004a1a4"
 msgid "Complete an operation with the Avvar."

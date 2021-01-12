@@ -1,8 +1,14 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2021-01-12 10:01+0000\n"
+"Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 #. FILE: DA3\Party\Archived\party_warrior_twohanded_basic_defensiveattackrandom_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -1235,21 +1241,24 @@ msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_chainlightning_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
+#, fuzzy
 msgctxt "0x00044833"
 msgid "10% chance to inflict Chain Lightning damage at 50% weapon power"
-msgstr ""
+msgstr "10% 확률로 무기 성능의 50% 피해량으로 연쇄 번개 시전"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_chainlightning_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
+#, fuzzy
 msgctxt "0x00044834"
 msgid "10% chance to inflict Chain Lightning damage at 75% weapon power"
-msgstr ""
+msgstr "10% 확률로 무기 성능의 75% 피해량으로 연쇄 번개 시전"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_chainlightning_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
+#, fuzzy
 msgctxt "0x00044835"
 msgid "10% chance to inflict Chain Lightning damage at 100% weapon power"
-msgstr ""
+msgstr "10% 확률로 무기 성능의 100% 피해량으로 연쇄 번개 시전"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_coldsnap_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -1379,21 +1388,24 @@ msgstr ""
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_mindblast_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
+#, fuzzy
 msgctxt "0x00044845"
 msgid "2% chance to cast Mind Blast on a hit"
-msgstr ""
+msgstr "적중 시 2% 확룔로 정신 폭발 시전"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_mindblast_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
+#, fuzzy
 msgctxt "0x00044846"
 msgid "5% chance to cast Mind Blast on a hit"
-msgstr ""
+msgstr "적중 시 5% 확률로 정신 폭발 시전"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_mindblast_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
+#, fuzzy
 msgctxt "0x00044847"
 msgid "10% chance to cast Mind Blast on a hit"
-msgstr ""
+msgstr "적중 시 10% 확률로 정신 폭발 시전"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_pulloftheabyss_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -2872,11 +2884,14 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\ElementalWard\party_mage_passive_elementalward_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0003e273"
 msgid ""
 "When you or your allies have an active barrier, the beneficial energy invigorates them and helps them recover mana or stamina more quickly.\n"
 "\n"
 msgstr ""
+"보호막 효과를 받는 아군의 마나와 스태미너가 더 빠르게 회복됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Passives\ElementalWard\party_mage_passive_elementalward_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -2960,11 +2975,14 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\Innocence\party_mage_passive_innocence_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0003e275"
 msgid ""
 "Your aura of tranquility makes enemies less likely to attack you in battle, even when you damage them.\n"
 "\n"
 msgstr ""
+"평온한 기운을 내뿜습니다. 적에게 공격을 가하더라도 적의 공격을 덜 받습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Passives\Innocence\party_mage_passive_innocence_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -3022,11 +3040,14 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\Manic\party_mage_passive_manic_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0003f75a"
 msgid ""
 "The more magical energy you expend, the more damage your spells do.\n"
 "\n"
 msgstr ""
+"마법 에너지를 사용할 수록 가하는 마법 피해량이 증가합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Passives\Manic\party_mage_passive_manic_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -3056,11 +3077,14 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\ShimmeringShield\party_mage_passive_shimmeringshield_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0003e274"
 msgid ""
 "A protective barrier springs into place around you automatically when you are badly injured.\n"
 "\n"
 msgstr ""
+"큰 부상을 입었다면 자동으로 보호막 효과가 적용됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Passives\ShimmeringShield\party_mage_passive_shimmeringshield_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -3070,9 +3094,10 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\ShimmeringShield\party_mage_passive_shimmeringshield_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
+#, fuzzy
 msgctxt "0x0004490a"
 msgid "A barrier provides an additional health bar that must be destroyed before the target will take any damage. Barrier is vulnerable to dispel effects."
-msgstr ""
+msgstr "보호막이 대상을 보호합니다. 보호막이 파괴되기 전에는 대상이 피해를 입지 않습니다. 보호막은 마법 해제 효과에 영향을 받습니다."
 
 #. FILE: DA3\Party\mage\Passives\Shroud\party_mage_passive_shroud_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -3102,11 +3127,14 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Passives\Spirit\party_mage_passive_spirit_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0003e2c6"
 msgid ""
 "Your barriers draw on the magic of the Fade to absorb more energy before depleting.\n"
 "\n"
 msgstr ""
+"보호막이 영계에서 더 많은 에너지를 흡수한 후 감퇴합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Passives\SpiritVeil\party_mage_passive_spiritveil_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -3150,11 +3178,14 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\AblativeArmor\party_mage_staff_ablativearmor_aoe_abilitydata.xml
 #. PATH: BWAoEAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00026f05"
 msgid ""
 "You create a shimmering protective barrier that acts as temporary additional health. The barrier decays naturally over time.\n"
 "\n"
 msgstr ""
+"빛나는 보호막을 형성합니다. 보호막은 일시적으로 추가 체력을 제공하며, 시간이 지나면 자연스럽게 감퇴합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\AblativeArmor\party_mage_staff_ablativearmor_aoe_abilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -3170,11 +3201,14 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\AblativeArmor\party_mage_staff_ablativearmor_aoe_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x000404a3"
 msgid ""
 "You have learned to cast Barrier with a more stable magical pattern. Each time a barrier you have cast expires, the ability's cooldown time is reduced.\n"
 "\n"
 msgstr ""
+"더 안정적인 마법으로 보호막을 시전합니다. 시전한 보호막이 종료될 때마다, 능력의 재사용 대기시간이 감소합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\AblativeArmor\party_mage_staff_ablativearmor_aoe_upgrade3_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -3184,11 +3218,14 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\AblativeArmor\party_mage_staff_ablativearmor_aoe_upgrade3_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00049521"
 msgid ""
 "Your barrier holds its full strength for longer before it begins to decay.\n"
 "\n"
 msgstr ""
+"보호막이 더 오랫동안 최대 출력을 유지하다가 감퇴합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\AblativeArmor\party_mage_staff_ablativearmor_aoe_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -3617,11 +3654,14 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\Dispel\party_mage_staff_dispel_abilitydata.xml
 #. PATH: BWAoEAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0002e441"
 msgid ""
 "You remove hostile magic and status effects from allies while stripping beneficial effects from enemies.\n"
 "\n"
 msgstr ""
+"아군에 가해진 적대적인 마법이나 상태 효과를, 아니면 적에게 가해진 이로운 효과를 제거합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\Dispel\party_mage_staff_dispel_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -3644,6 +3684,8 @@ msgid ""
 "Dispelling magic and status effects increases your own spells' damage and barrier generation for a brief duration.\n"
 "\n"
 msgstr ""
+"마법이나 상태 효과를 제거하면 잠시동안 가하는 마법 피해와 보호막 재생을 증가시킵니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\DoomBlade\party_mage_doomblade_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -3824,11 +3866,14 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\MindBlast\party_mage_staff_mindblast_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x000495ad"
 msgid ""
 "You can now use Mind Blast to remove all negative status effects from yourself.\n"
 "\n"
 msgstr ""
+"정신 폭발을 사용하면 모든 해로운 효과가 제거됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\MindBlast\party_mage_staff_mindblast_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -3838,11 +3883,14 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\MindBlast\party_mage_staff_mindblast_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x000432e8"
 msgid ""
 "Each enemy you strike with Mind Blast increases your protective barrier as you turn their pain into your power.\n"
 "\n"
 msgstr ""
+"적의 고통은 나의 힘입니다. 적에게 정신 폭발을 가할 때마다 보호막 수치를 증가시킵니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\Phantasm\party_mage_staff_phantasm_abilitydata.xml
 #. PATH: BWAoEAbility/AbilityNameReference
@@ -3900,11 +3948,14 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\Resurrect\party_mage_staff_resurrect_aoeabilitydata.xml
 #. PATH: BWAoEAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0003e31d"
 msgid ""
 "You summon spirits to heal fallen allies in the area, getting them back on their feet and fighting again.\n"
 "\n"
 msgstr ""
+"해당 영역에 영혼을 소환해 쓰러진 아군을 치유합니다. 일어난 아군은 전투에 다시 참여합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\Resurrect\party_mage_staff_resurrect_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -3914,11 +3965,15 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\Resurrect\party_mage_staff_resurrect_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x000497b4"
 msgid ""
 "Revival is easier to cast, but no longer revives allies permanently. Instead, allies who are already unconscious fight with great power for a few seconds before falling again.\n"
 "\n"
 msgstr ""
+"부활 시전이 더 쉬워지지만, 영구적으로 아군을 되살리지는 못합니다. 대신 쓰러졌던 아군이 잠시동안 크게 강해진 상태로 전투를 하다가 다시 "
+"쓰러집니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\Resurrect\party_mage_staff_resurrect_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -3928,11 +3983,14 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\Resurrect\party_mage_staff_resurrect_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0003e2c7"
 msgid ""
 "Spirits now protect your allies for a short time, reducing incoming damage and reviving them if they fall unconscious.\n"
 "\n"
 msgstr ""
+"영혼이 잠시동안 아군을 보호합니다. 받는 피해를 감소시키고 쓰러졌다면 다시 소생시킵니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -3942,11 +4000,14 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00026ff7"
 msgid ""
 "You launch a salvo of elemental blasts from your staff that homes in on targets ahead of you.\n"
 "\n"
 msgstr ""
+"지팡이에서 원소를 연속으로 방출합니다. 원소는 대상을 따라가 타격합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -3962,11 +4023,14 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0004abf5"
 msgid ""
 "Energy Barrage now deals additional damage, but all targets are selected at random.\n"
 "\n"
 msgstr ""
+"에너지 포화가 가하는 피해량이 증가하지만, 무작위 대상을 가격합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -3976,11 +4040,14 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x000432e6"
 msgid ""
 "Each hit from Energy Barrage lowers the target's resistance to your staff's magic type for a short time.\n"
 "\n"
 msgstr ""
+"에너지 포화가 적중할 때 마다 잠시동안 시전자의 지팡이 계열에 대한 대상의 마법 저항력을 낮춥니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
@@ -4060,17 +4127,21 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Support\ChainLightning\party_mage_support_chainlightning_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
+#, fuzzy
 msgctxt "0x00026eda"
 msgid "Chain Lightning"
-msgstr ""
+msgstr "연쇄 번개"
 
 #. FILE: DA3\Party\mage\Support\ChainLightning\party_mage_support_chainlightning_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0003f701"
 msgid ""
 "You unleash a blast of lightning that shocks one target and arcs to nearby enemies.\n"
 "\n"
 msgstr ""
+"번개를 방출합니다. 번개는 적 하나를 감전시키고 근처 적으로 전이됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Support\ChainLightning\party_mage_support_chainlightning_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -4080,11 +4151,14 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Support\ChainLightning\party_mage_support_chainlightning_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0004b20f"
 msgid ""
 "Chain Lightning never strikes the same target more than once, but it deals more damage with each new target it reaches.\n"
 "\n"
 msgstr ""
+"연쇄 번개가 같은 대상을 여러 번 타격하지 않습니다. 대신 대상을 옮겨갈 때마다 가하는 피해량이 증가합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Support\ChainLightning\party_mage_support_chainlightning_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -4094,11 +4168,14 @@ msgstr ""
 
 #. FILE: DA3\Party\mage\Support\ChainLightning\party_mage_support_chainlightning_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0003f702"
 msgid ""
 "Chain Lightning arcs farther and hits more targets.\n"
 "\n"
 msgstr ""
+"연쇄 번개가 더 멀리까지 퍼지고, 더 많은 대상을 타격합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Support\ChainLightning\party_mage_support_chainlightning_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
