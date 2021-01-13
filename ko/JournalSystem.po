@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-12 10:01+0000\n"
+"PO-Revision-Date: 2021-01-13 07:55+0000\n"
 "Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journalsystem/"
 "ko/>\n"
@@ -5132,6 +5132,7 @@ msgstr ""
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[710]/JournalTextData/TextReference
+#, fuzzy
 msgctxt "0x000429a5"
 msgid ""
 "It is simple to say that the laws of nature do not apply in the Fade, but while traveling in the Fade is often confusing for mages, it is rarely so chaotic as to defy description. In fact, while the placement of items may seem random, those items usually operate as we would expect them to in the real world. A book opens to show pages, although the pages may be blank or lined with gibberish. A pen and inkwell let a user write, though the pen may write on its own, and the inkwell never runs dry. Those items that float usually hover at the relative height where they would have sat had the objects meant to support them existed—candles suspended in the air as though held by a phantom candlestick, for example.\n"
@@ -5142,6 +5143,20 @@ msgid ""
 "\n"
 "—From {i}The Shape of the Fade{/i} by Enchanter Ephineas Aserathan"
 msgstr ""
+"자연의 법칙이 영계 안에서는 적용되지 않는다고 단언하기 쉽다. 하지만 영계 내부를 탐험하는 일은, 종종 혼란스러울지언정 묘사하기 "
+"어려울정도의 혼돈으로 차있지는 않다. 사실, 물건이 무작위로 배치된것처럼 보이지만, 그런 물건들은 보통 현실세계와 유사하게 동작한다. "
+"비록 비어있거나 헛소리들로 차있지만 책을 열면 한 페이지를 보여주고, 펜은 스스로 움직이며 잉크통에는 잉크가 마르지 않지만 펜과 잉크통을 "
+"사용하여 글자를 쓸수있다. 공중을 떠다니는 물건들은 일반적으로 보통 자리해있을만한 높이 근처를 떠다니며 아래를 받쳐주는 존재가 있다. "
+"예를들어 떠다니는 촛불은 유령 촛대 위에 있다.\n"
+"\n"
+"왜 창조주의 법칙이 왜곡되지만 완전히 파괴되진 않는가? 책이 드래곤으로 변하거나, 조각상이 셀수없는 에너지의 조각들로 폭발하지는 않는 "
+"이유는 무엇일까? 나는 영계에 있는 물건 대부분이 사람의 손으로 만들어진 물건이라는 사실에 답이 있다고 믿는다. 조각상은 필멸자의 손이 "
+"만들고 목적을 준, 창조된 물건이다. 조각상은 자신이 만들어진 의의를 알고있다. 자연의 법칙에 반하여 변형된 물체는 모순적이게도 더욱 "
+"자연스러운 형태를 취한다. 예를들어 하늘에 떠있는 거석에는 필멸자들의 손길도, 목적도 담겨있지않다. \n"
+"\n"
+"모를일이지만 만약 드워프들이 그들의 통찰로 영계를 상상하고 만들었다면, 떠있는 돌은 없었을것이다.\n"
+"\n"
+"— 영계의 형태, Enchanter Ephineas Aserathan 저"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[711]/JournalTextData/TextReference
@@ -20129,8 +20144,8 @@ msgstr ""
 "보호막: 마법이 대상을 보호합니다. 들어오는 공격은 먼저 보호막을 고갈시키지 못한다면 대상에게 피해를 입힐 수 없습니다. 특정 능력이나 "
 "마법, 무기는 보호막에 추가 피해를 입힙니다.\n"
 "\n"
-"방어: 대상을 피해로부터 보호하는 전투 기술입니다. 들어오는 공격은 먼저 방어도를 고갈시키지 못한다면 대상에게 피해를 입힐 수 없습니다. "
-"특정 능력이나 마법, 무기는 방어도에 추가 피해를 입힙니다. 방어도가 남아있는 대상은 비틀대거나 쓰러지지 않습니다.\n"
+"방어도: 대상을 피해로부터 보호하는 전투 기술입니다. 들어오는 공격은 먼저 방어도를 고갈시키지 못한다면 대상에게 피해를 입힐 수 "
+"없습니다. 특정 능력이나 마법, 무기는 방어도에 추가 피해를 입힙니다. 방어도가 남아있는 대상은 비틀대거나 쓰러지지 않습니다.\n"
 "\n"
 "저항 (계열): 대상은 해당 계열 (화염, 냉기, 영혼 등)에 감소된 피해를 입습니다.\n"
 "\n"

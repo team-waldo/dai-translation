@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-12 10:01+0000\n"
-"Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
+"PO-Revision-Date: 2021-01-13 07:55+0000\n"
+"Last-Translator: GameSlot <gamehdhdhdjdjdjd@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
 "Language: ko\n"
@@ -37,12 +37,13 @@ msgstr ""
 #. PATH: EquipItemAsset/DisplayName
 msgctxt "0x00041315"
 msgid "Hissing Wastes Geological Survey"
-msgstr ""
+msgstr "칼바람 황무지 지질 조사"
 
 #. FILE: DA3\Equipment\Crafting\equip_template_Desert_Ruins_Geo_02.xml
 #. PATH: EquipItemAsset/Description
 #. 
 #. STRING 277941(0x00043db5) : Reward: +1 Power
+#, fuzzy
 msgctxt "0x0004262d"
 msgid "Several dwarven academics at the University of Orlais have requested samples of ore from the Hissing Wastes. {string}277941{/string}"
 msgstr "오를레앙 대학의 몇몇 난쟁이 학자들은 히싱 폐기물에서 광석의 샘플을 요청했다. {string}277941{/string}"
@@ -73,9 +74,12 @@ msgstr ""
 #. PATH: EquipItemAsset/Description
 #. 
 #. STRING 277941(0x00043db5) : Reward: +1 Power
+#, fuzzy
 msgctxt "0x00041340"
 msgid "The wastelands make creating proper shelter difficult for our forces. Scouts recommend gathering supplies common in the area to sand-proof Inquisition shelters. {string}277941{/string}"
-msgstr "모래 대피소"
+msgstr ""
+"황무지의 극악한 환경 속에서는 전초기지를 세우기 어렵습니다. 정찰병들로 해당 지역에서 흔히 볼 수 있는 물품들을 모래막이\n"
+"심문회 전초 기지에 모아두는 것을 추천합니다. {string}277941{/string}"
 
 #. FILE: DA3\Equipment\Crafting\equip_template_Western_Approach_Geo_Survey_01.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -1968,6 +1972,9 @@ msgid ""
 "{string}278921{/string}\n"
 "{string}280648{/string}"
 msgstr ""
+"{string}262100{/string}\n"
+"{string}278921{/string}\n"
+"{string}280648{/string}"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Metal\crafting_masterwork_Obsidian.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
@@ -1995,6 +2002,9 @@ msgid ""
 "{string}278921{/string}\n"
 "{string}278151{/string}"
 msgstr ""
+"{string}262093{/string}\n"
+"{string}278921{/string}\n"
+"{string}278151{/string}"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Metal\crafting_masterwork_Obsidian_3.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -2010,6 +2020,9 @@ msgid ""
 "{string}278921{/string}\n"
 "{string}280628{/string}"
 msgstr ""
+"{string}262093{/string}\n"
+"{string}278921{/string}\n"
+"{string}280628{/string}"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Metal\crafting_masterwork_Onyx.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
@@ -2455,9 +2468,10 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\recipe_material_rune_arcane_horror_heart.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0003ffc2"
 msgid "Tier 2 <font color=\"#2E9AFE\">Rare</font> Rune Material"
-msgstr ""
+msgstr "2등급 <font color=\"#2E9AFE\">희귀</font> 룬 재료"
 
 #. FILE: DA3\Equipment\Crafting\Materials\recipe_material_rune_blank_runestone.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -2467,9 +2481,10 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\recipe_material_rune_blank_runestone.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0003ffc1"
 msgid "Tier 1 <font color=\"#2E9AFE\">Rare</font> Rune Material"
-msgstr ""
+msgstr "1등급 <font color=\"#2E9AFE\">희귀</font> 룬 재료"
 
 #. FILE: DA3\Equipment\Crafting\Materials\recipe_material_rune_blank_runestone_master.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -2485,9 +2500,10 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\recipe_material_rune_blank_runestone_superb.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0003ffc3"
 msgid "Tier 3 <font color=\"#2E9AFE\">Rare</font> Rune Material"
-msgstr ""
+msgstr "3등급 <font color=\"#2E9AFE\">희귀</font> 룬 재료"
 
 #. FILE: DA3\Equipment\Crafting\Materials\recipe_material_rune_corpse_heart.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -2635,6 +2651,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Cotton.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000386ec"
 msgid ""
 "Tier 1 <font color=\"#848484\">Common</font> Cloth\n"
@@ -2643,6 +2660,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1.5% chance to heal on kill\n"
 "<font color=\"#F3F781\">Defense slot:</font> +2% healing bonus from all sources"
 msgstr ""
+"1등급 <font color=\"#848484\">일반</font> 옷감\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 정신력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.5% 처치 시 회복 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +2% 받는 모든 회복량"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Dales_Loden_Wool.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -2652,6 +2674,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Dales_Loden_Wool.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000386fb"
 msgid ""
 "Tier 3 <font color=\"#2E9AFE\">Rare</font> Cloth (no class restriction for armors)\n"
@@ -2660,6 +2683,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +3% barrier damage bonus\n"
 "<font color=\"#F3F781\">Defense slot:</font> +1.75% magic defense"
 msgstr ""
+"3등급 <font color=\"#2E9AFE\">희귀</font> 옷감 (방어구는 직업 제한 없음)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.75 마력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +3% 보호막 추가 피해\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1.75% 마법 방어력"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Darkened_Samite.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -2669,6 +2697,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Darkened_Samite.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000386f5"
 msgid ""
 "Tier 2 <font color=\"#848484\">Common</font> Cloth\n"
@@ -2677,6 +2706,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1.75% chance to heal on kill\n"
 "<font color=\"#F3F781\">Defense slot:</font> +3% spirit damage resistance"
 msgstr ""
+"2등급 <font color=\"#848484\">일반</font> 옷감\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 보통의 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.5 정신력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.75% 처치 시 회복 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +3% 영혼 피해 저항"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_dragon_webbing.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -2686,6 +2720,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_dragon_webbing.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0003fa6c"
 msgid ""
 "Tier 4 <font color=\"#2E9AFE\">Rare</font> Cloth\n"
@@ -2694,6 +2729,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +3.5% critical damage\n"
 "<font color=\"#F3F781\">Defense slot:</font> +4% fire damage resistance"
 msgstr ""
+"4등급 <font color=\"#2E9AFE\">희귀</font> 옷감\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 매우 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 정신력 / +1 마력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +3.5% 치명타 피해량\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +4% 화염 피해 저항"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Everknit_Wool.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -2703,6 +2743,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Everknit_Wool.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000386f7"
 msgid ""
 "Tier 2 <font color=\"#848484\">Common</font> Cloth\n"
@@ -2711,6 +2752,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +2.5% barrier damage bonus\n"
 "<font color=\"#F3F781\">Defense slot:</font> +1.5% magic defense"
 msgstr ""
+"2등급 <font color=\"#848484\">일반</font> 옷감\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 보통의 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.5 마력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2.5% 보호막 추가 피해\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1.5% 마법 방어력"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Highever_Weave.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -2720,6 +2766,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Highever_Weave.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000386f6"
 msgid ""
 "Tier 2 <font color=\"#848484\">Common</font> Cloth\n"
@@ -2728,6 +2775,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1.5% attack\n"
 "<font color=\"#F3F781\">Defense slot:</font> +3% electric damage resistance"
 msgstr ""
+"2등급 <font color=\"#848484\">일반</font> 옷감\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 보통의 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 마력 / +0.5 정신력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.5% 공격력\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +3% 전기 피해 저항"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Imperial_Vestment_Cotton.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -2737,6 +2789,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Imperial_Vestment_Cotton.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000386f8"
 msgid ""
 "Tier 3 <font color=\"#848484\">Common</font> Cloth\n"
@@ -2745,6 +2798,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +2% chance to heal on kill\n"
 "<font color=\"#F3F781\">Defense slot:</font> +3% healing from all sources"
 msgstr ""
+"3등급 <font color=\"#848484\">일반</font> 옷감\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.75 정신력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2% 처치 시 회복 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +3% 받는 모든 회복량"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Infused_Vyrantium_Samite.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -2754,6 +2812,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Infused_Vyrantium_Samite.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000386f9"
 msgid ""
 "Tier 3 <font color=\"#848484\">Common</font> Cloth\n"
@@ -2762,6 +2821,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> + 2% chance to heal on kill\n"
 "<font color=\"#F3F781\">Defense slot:</font> +3.5% spirit damage resistance"
 msgstr ""
+"3등급 <font color=\"#848484\">일반</font> 옷감\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.75 정신력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2% 처치 시 회복 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +3.5% 영혼 피해 저항"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Kings_Willow_Weave.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -2771,6 +2835,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Kings_Willow_Weave.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000386fa"
 msgid ""
 "Tier 3 <font color=\"#848484\">Common</font> Cloth\n"
@@ -2779,6 +2844,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1.75% attack\n"
 "<font color=\"#F3F781\">Defense slot:</font> +3.5% electric damage resistance"
 msgstr ""
+"3등급 <font color=\"#848484\">일반</font> 옷감\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 마력 / +0.75 정신력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.75% 공격력\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +3.5% 전기 피해 저항"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Lambswool.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -2788,6 +2858,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Lambswool.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000386ee"
 msgid ""
 "Tier 1 <font color=\"#848484\">Common</font> Cloth\n"
@@ -2796,6 +2867,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +2% barrier damage bonus\n"
 "<font color=\"#F3F781\">Defense slot:</font> +1% magic defense"
 msgstr ""
+"1등급 <font color=\"#848484\">일반</font> 옷감\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 마력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2% 보호막 추가 피해\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1% 마법 방어력"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Lostrous_Cotton.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -2805,6 +2881,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Lostrous_Cotton.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000386f1"
 msgid ""
 "Tier 2 <font color=\"#848484\">Common</font> Cloth\n"
@@ -2813,6 +2890,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1.75% chance to heal on kill\n"
 "<font color=\"#F3F781\">Defense slot:</font> +2.5% healing from all sources"
 msgstr ""
+"2등급 <font color=\"#848484\">일반</font> 옷감\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 보통의 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.5 정신력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.75% 처치 시 회복 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +2.5% 받는 모든 회복량"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Plaideweave.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -2822,6 +2904,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Plaideweave.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000386ef"
 msgid ""
 "Tier 1 <font color=\"#848484\">Common</font> Cloth\n"
@@ -2830,6 +2913,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1% attack\n"
 "<font color=\"#F3F781\">Defense slot:</font> +2.5% electric damage resistance"
 msgstr ""
+"1등급 <font color=\"#848484\">일반</font> 옷감\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 마력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1% 공격력\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +2.5% 전기 피해 저항"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Plush_Fustian_Velvet.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -2851,6 +2939,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Royale_Sea_Silk.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0004345d"
 msgid ""
 "Tier 3 <font color=\"#848484\">Common</font> Cloth\n"
@@ -2859,6 +2948,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +3% barrier damage bonus\n"
 "<font color=\"#F3F781\">Defense slot:</font> +1.75% magic defense"
 msgstr ""
+"3등급 <font color=\"#848484\">일반</font> 옷감\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.75 마력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +3% 보호막 추가 피해\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1.75% 마법 방어력"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Samite.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -2868,6 +2962,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Samite.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000386ed"
 msgid ""
 "Tier 1 <font color=\"#848484\">Common</font> Cloth\n"
@@ -2876,6 +2971,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1.5% chance to heal on kill\n"
 "<font color=\"#F3F781\">Defense slot:</font> +2.5% spirit damage resistance"
 msgstr ""
+"1등급 <font color=\"#848484\">일반</font> 옷감\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 정신력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.5% 처치 시 회복 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +2.5% 영혼 피해 저항"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Silk.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -2897,27 +2997,31 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Herbs\crafting_herbs_AmritaVein.xml
 #. PATH: StackedItemAsset/Description
+#, fuzzy
 msgctxt "0x000404c0"
 msgid "Tier 3 <font color=\"#2E9AFE\">Rare</font> Herb"
-msgstr ""
+msgstr "3등급 <font color=\"#2E9AFE\">희귀</font> 악초"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Herbs\crafting_herbs_ArborBlessing.xml
 #. PATH: StackedItemAsset/Description
+#, fuzzy
 msgctxt "0x000404c2"
 msgid "Tier 3 <font color=\"#848484\">Common</font> Herb"
-msgstr ""
+msgstr "3등급 <font color=\"#848484\">일반</font> 약초"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Herbs\crafting_herbs_BlackLotus.xml
 #. PATH: StackedItemAsset/Description
+#, fuzzy
 msgctxt "0x000404be"
 msgid "Tier 1 <font color=\"#2E9AFE\">Rare</font> Herb"
-msgstr ""
+msgstr "1등급 <font color=\"#2E9AFE\">희귀</font> 악초"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Herbs\crafting_herbs_BloodLotus.xml
 #. PATH: StackedItemAsset/Description
+#, fuzzy
 msgctxt "0x000404c1"
 msgid "Tier 1 <font color=\"#848484\">Common</font> Herb"
-msgstr ""
+msgstr "1등급 <font color=\"#848484\">일반</font> 약초"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Herbs\crafting_herbs_deathroot.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -2927,9 +3031,10 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Herbs\crafting_herbs_deathroot.xml
 #. PATH: StackedItemAsset/Description
+#, fuzzy
 msgctxt "0x000404c3"
 msgid "Tier 2 <font color=\"#848484\">Common</font> Herb"
-msgstr ""
+msgstr "2등급 <font color=\"#848484\">일반</font> 약초"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Herbs\crafting_herbs_deep_mushroom.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -2957,9 +3062,10 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Herbs\crafting_herbs_GhoulsBeard.xml
 #. PATH: StackedItemAsset/Description
+#, fuzzy
 msgctxt "0x000404bf"
 msgid "Tier 2 <font color=\"#2E9AFE\">Rare</font> Herb"
-msgstr ""
+msgstr "2등급 <font color=\"#2E9AFE\">희귀</font> 악초"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Herbs\crafting_herbs_royal_elfroot.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -2981,6 +3087,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_August_Ram_Fur.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x00038794"
 msgid ""
 "Tier 2 <font color=\"#848484\">Common</font> Leather\n"
@@ -2989,6 +3096,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +2.5% flanking damage bonus\n"
 "<font color=\"#F3F781\">Defense slot:</font> +3% cold damage resistance"
 msgstr ""
+"2등급 <font color=\"#848484\">일반</font> 가죽\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 보통의 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.5 민첩\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2.5% 측후방 공격 추가 피해\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +3% 냉기 피해 저항"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Bear_Fur.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -2998,6 +3110,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Bear_Fur.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x00038793"
 msgid ""
 "Tier 2 <font color=\"#848484\">Common</font> Leather\n"
@@ -3006,6 +3119,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1.5% critical chance\n"
 "<font color=\"#F3F781\">Defense slot:</font> +3% cold damage resistance"
 msgstr ""
+"2등급 <font color=\"#848484\">일반</font> 가죽\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 보통의 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.5 민첩\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.5% 치명타 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +3% 냉기 피해 저항"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Bronto_Hide.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3015,6 +3133,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Bronto_Hide.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x00038789"
 msgid ""
 "Tier 1 <font color=\"#848484\">Common</font> Leather\n"
@@ -3023,6 +3142,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +2% critical damage\n"
 "<font color=\"#F3F781\">Defense slot:</font> +1% ranged defense"
 msgstr ""
+"1등급 <font color=\"#848484\">일반</font> 가죽\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 교활\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2% 치명타 피해량\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1% 원거리 방어력"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Buzzard_Hide.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3032,6 +3156,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Buzzard_Hide.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x00038797"
 msgid ""
 "Tier 2 <font color=\"#848484\">Common</font> Leather\n"
@@ -3040,6 +3165,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +2.5% critical damage\n"
 "<font color=\"#F3F781\">Defense slot:</font> +1.5% ranged defense"
 msgstr ""
+"2등급 <font color=\"#848484\">일반</font> 가죽\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 보통의 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.5 교확\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2.5% 치명타 피해량\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1.5% 원거리 방어력"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Craggy_Skin.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3049,6 +3179,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Craggy_Skin.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x00038798"
 msgid ""
 "Tier 3 <font color=\"#848484\">Common</font> Leather\n"
@@ -3057,6 +3188,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +3% critical damage\n"
 "<font color=\"#F3F781\">Defense slot:</font> +1.75% ranged defense"
 msgstr ""
+"3등급 <font color=\"#848484\">일반</font> 가죽\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.75 교활\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +3% 치명타 피해량\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1.75% 원거리 방어력"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Deedstalker_Webbing.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3066,6 +3202,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Deedstalker_Webbing.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x00038772"
 msgid ""
 "Tier 1 <font color=\"#848484\">Common</font> Leather\n"
@@ -3074,6 +3211,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1% chance to bleed target on hit\n"
 "<font color=\"#F3F781\">Defense slot:</font> +1% chance to bleed attacker on being hit"
 msgstr ""
+"1등급 <font color=\"#848484\">일반</font> 가죽\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 민첩\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1% 적중 시 출혈 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1% 피격 시 공격자 출혈 확률"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Dragonling_Webbing.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3083,6 +3225,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Dragonling_Webbing.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x00038788"
 msgid ""
 "Tier 1 <font color=\"#848484\">Common</font> Leather\n"
@@ -3091,6 +3234,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1% chance to bleed target on hit\n"
 "<font color=\"#F3F781\">Defense slot:</font> +2.5% fire damage resistance"
 msgstr ""
+"1등급 <font color=\"#848484\">일반</font> 가죽\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 민첩\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1% 적중 시 출혈 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +2.5% 화염 피해 저항"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_dragon_scales.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3100,6 +3248,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_dragon_scales.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0003fa6f"
 msgid ""
 "Tier 4 <font color=\"#2E9AFE\">Rare</font> Leather\n"
@@ -3108,6 +3257,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +3.5% armor penetration\n"
 "<font color=\"#F3F781\">Defense slot:</font> +4% fire damage resistance"
 msgstr ""
+"4등급 <font color=\"#848484\">희귀</font> 가죽\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 매우 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 교활 / +1 민첩\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +3.5% 방어 관통력\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +4% 화염 피해 저항"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Druffalo_Fur.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3117,6 +3271,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Druffalo_Fur.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0003878f"
 msgid ""
 "Tier 1 <font color=\"#848484\">Common</font> Leather\n"
@@ -3125,6 +3280,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1% critical chance\n"
 "<font color=\"#F3F781\">Defense slot:</font> +2.5% cold damage resistance"
 msgstr ""
+"1등급 <font color=\"#848484\">일반</font> 가죽\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 민첩\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1% 치명타 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +2.5% 냉기 피해 저항"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Great_Bear_Fur.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3134,6 +3294,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Great_Bear_Fur.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x00038799"
 msgid ""
 "Tier 3 <font color=\"#848484\">Common</font> Leather\n"
@@ -3142,6 +3303,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1.75% critical chance\n"
 "<font color=\"#F3F781\">Defense slot:</font> +3.5% cold damage resistance"
 msgstr ""
+"3등급 <font color=\"#848484\">일반</font> 가죽\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.75 민첩\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.75% 치명타 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +3.5% 냉기 피해 저항"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Gurgut_Skin.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3151,6 +3317,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Gurgut_Skin.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x00038795"
 msgid ""
 "Tier 2 <font color=\"#848484\">Common</font> Leather\n"
@@ -3159,6 +3326,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1.5% chance to bleed target on hit\n"
 "<font color=\"#F3F781\">Defense slot:</font> +3% fire damage resistance"
 msgstr ""
+"2등급 <font color=\"#848484\">일반</font> 가죽\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 보통의 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 민첩 / +0.5 교활\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.5% 적중 시 출혈 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +3% 화염 피해 저항"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Halla_Fur.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3174,6 +3346,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_HardenedGurn_Hide.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0003879c"
 msgid ""
 "Tier 3 <font color=\"#848484\">Common</font> Leather\n"
@@ -3182,6 +3355,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1.75% chance to bleed target on hit\n"
 "<font color=\"#F3F781\">Defense slot:</font> +1.75% chance to bleed attacker on being hit"
 msgstr ""
+"3등급 <font color=\"#848484\">일반</font> 가죽\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 민첩 / +0.75 교활\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.75% 적중 시 출혈 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1.75% 피격 시 공격자 출혈 확률"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Hound_Fur.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3191,6 +3369,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Hound_Fur.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x00038790"
 msgid ""
 "Tier 1 <font color=\"#848484\">Common</font> Leather\n"
@@ -3199,6 +3378,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +2% flanking damage bonus\n"
 "<font color=\"#F3F781\">Defense slot:</font> +2.5% cold damage resistance"
 msgstr ""
+"1등급 <font color=\"#848484\">일반</font> 가죽\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 민첩\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2% 측후방 공격 추가 피해\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +2.5% 냉기 피해 저항"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Lurker_Scales.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3220,6 +3404,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Phoenix_Scaless.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x00038796"
 msgid ""
 "Tier 2 <font color=\"#848484\">Common</font> Leather\n"
@@ -3228,6 +3413,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1.5% chance to bleed target on hit\n"
 "<font color=\"#F3F781\">Defense slot:</font> +1.5% chance to bleed attacker on being hit"
 msgstr ""
+"2등급 <font color=\"#848484\">일반</font> 가죽\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 보통의 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 민첩 / +0.5 교활\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.5% 적중 시 출혈 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1.5% 피격 시 공격자 출혈 확률"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Ram_Leather.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3243,6 +3433,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Red_Hart_Fur.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0003879a"
 msgid ""
 "Tier 3 <font color=\"#2E9AFE\">Rare</font> Leather (no class restriction for armors)\n"
@@ -3251,6 +3442,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +3% flanking damage bonus\n"
 "<font color=\"#F3F781\">Defense slot:</font> +3.5% cold damage resistance"
 msgstr ""
+"4등급 <font color=\"#848484\">희귀</font> 가죽 (방어구는 직업 제한 없음)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.75 민첩\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +3% 측후방 공격 추가 피해\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +3.5% 냉기 피해 저항"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Rough_Hide.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3278,6 +3474,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Wyvern_Webbing.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0003879b"
 msgid ""
 "Tier 3 <font color=\"#848484\">Common</font> Leather\n"
@@ -3286,6 +3483,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1.75% chance to bleed target on hit\n"
 "<font color=\"#F3F781\">Defense slot:</font> +3.5% fire damage resistance"
 msgstr ""
+"3등급 <font color=\"#848484\">일반</font> 가죽\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 민첩 / +0.75 교활\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.75% 적중 시 출혈 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +3.5% 화염 피해 저항"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Zangolia_Scales.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3301,6 +3503,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Blood_Stone.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000387c4"
 msgid ""
 "Tier 2 <font color=\"#848484\">Common</font> Metal\n"
@@ -3309,6 +3512,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +2.5% armor penetration\n"
 "<font color=\"#F3F781\">Defense slot:</font> +13 health"
 msgstr ""
+"2등급 <font color=\"#848484\">일반</font> 금속\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 보통의 방어 수치 / 피해량 (지팡이류 피해 계열: 화염)\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.5 건강\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2.5% 방어 관통력\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +13 체력"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Blue_Vitriols.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3318,6 +3526,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Blue_Vitriols.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000387b2"
 msgid ""
 "Tier 1 <font color=\"#848484\">Common</font> Metal\n"
@@ -3326,6 +3535,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1% chance to stagger target on hit\n"
 "<font color=\"#F3F781\">Defense slot:</font> +1% chance to stagger attacker on being hit"
 msgstr ""
+"1등급 <font color=\"#848484\">일반</font> 금속\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치 / 피해량 (지팡이류 피해 계열: 냉기)\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 근력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1% 적중 시 기절 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1% 피격 시 공격자 기절 확률"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Dawnstone.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3335,6 +3549,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Dawnstone.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000387cf"
 msgid ""
 "Tier 3 <font color=\"#848484\">Common</font> Metal\n"
@@ -3343,6 +3558,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +3% armor penetration\n"
 "<font color=\"#F3F781\">Defense slot:</font> +15 health"
 msgstr ""
+"3등급 <font color=\"#848484\">일반</font> 금속\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 계열: 화염)\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.75 건강\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +3% 방어 관통력\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +15 체력"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_dragon_bone.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3352,6 +3572,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_dragon_bone.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0003fa71"
 msgid ""
 "Tier 4 <font color=\"#2E9AFE\">Rare</font> Metal\n"
@@ -3360,6 +3581,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +2% chance to bleed target on hit\n"
 "<font color=\"#F3F781\">Defense slot:</font> +4% fire damage resistance"
 msgstr ""
+"4등급 <font color=\"#848484\">희귀</font> 금속\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 매우 높은 방어 수치 / 피해량 (지팡이류 피해 계열: 화염)\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 건강 / +1 근력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2% 적중 시 출혈 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +4% 화염 피해 저항"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Drakestone.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3369,6 +3595,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Drakestone.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000387b4"
 msgid ""
 "Tier 1 <font color=\"#848484\">Common</font> Metal\n"
@@ -3377,6 +3604,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +2% armor penetration\n"
 "<font color=\"#F3F781\">Defense slot:</font> +10 health"
 msgstr ""
+"1등급 <font color=\"#848484\">일반</font> 금속\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치 / 피해량 (지팡이류 피해 계열: 화염)\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 건강\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2% 방어 관통력\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +10 체력"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Everite.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3386,6 +3618,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Everite.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000387c6"
 msgid ""
 "Tier 3 <font color=\"#848484\">Common</font> Metal\n"
@@ -3394,6 +3627,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1.75% attack\n"
 "<font color=\"#F3F781\">Defense slot:</font> +1.75% melee defense"
 msgstr ""
+"3등급 <font color=\"#848484\">일반</font> 금속\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 계열: 전기)\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.75 근력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.75% 공격력\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1.75% 근거리 방어력"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Iron.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3403,6 +3641,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Iron.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0003879e"
 msgid ""
 "Tier 1 <font color=\"#848484\">Common</font> Metal\n"
@@ -3411,6 +3650,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1% attack\n"
 "<font color=\"#F3F781\">Defense slot:</font> +1% melee defense"
 msgstr ""
+"1등급 <font color=\"#848484\">일반</font> 금속\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치 / 피해량 (지팡이류 피해 계열: 전기)\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 근력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1% 공격력\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1% 근거리 방어력"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Lazurites.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3420,6 +3664,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Lazurites.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000387b5"
 msgid ""
 "Tier 2 <font color=\"#848484\">Common</font> Metal\n"
@@ -3428,6 +3673,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1.5% chance to stagger target on hit\n"
 "<font color=\"#F3F781\">Defense slot:</font> +1.5% chance to stagger attacker on being hit"
 msgstr ""
+"2등급 <font color=\"#848484\">일반</font> 금속\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 보통의 방어 수치 / 피해량 (지팡이류 피해 계열: 냉기)\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 근력 / +0.5 건강\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.5% 적중 시 기절 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1.5% 피격 시 공격자 기절 확률"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Nevarrite.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3437,6 +3687,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Nevarrite.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0004345b"
 msgid ""
 "Tier 3 <font color=\"#848484\">Common</font> Metal\n"
@@ -3445,6 +3696,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1.75% chance to stagger target on hit\n"
 "<font color=\"#F3F781\">Defense slot:</font> +1.75% chance to stagger attacker on being hit"
 msgstr ""
+"3등급 <font color=\"#848484\">일반</font> 금속\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 계열: 냉기)\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 근력 / +0.75 건강\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.75% 적중 시 기절 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1.75% 피격 시 공격자 기절 확률"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Obsidian.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3466,6 +3722,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Paragons_Luster.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000387bd"
 msgid ""
 "Tier 2 <font color=\"#848484\">Common</font> Metal\n"
@@ -3474,6 +3731,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1.5% attack\n"
 "<font color=\"#F3F781\">Defense slot:</font> +1.5% melee defense"
 msgstr ""
+"2등급 <font color=\"#848484\">일반</font> 금속\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 보통의 방어 수치 / 피해량 (지팡이류 피해 계열: 전기)\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.5 근력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.5% 공격력\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1.5% 근거리 방어력"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Pyrophite.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3483,6 +3745,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Pyrophite.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000387bf"
 msgid ""
 "Tier 2 <font color=\"#848484\">Common</font> Metal\n"
@@ -3491,6 +3754,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +2.5% damage to guard\n"
 "<font color=\"#F3F781\">Defense slot:</font> +13 health"
 msgstr ""
+"2등급 <font color=\"#848484\">일반</font> 금속\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 보통의 방어 수치 / 피해량 (지팡이류 피해 계열: 화염)\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.5 건강\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2.5% 방어도 추가 피해\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +13 체력"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Serpentstone.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3506,6 +3774,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Silverite.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000387c8"
 msgid ""
 "Tier 3 <font color=\"#2E9AFE\">Rare</font> Metal (no class restriction for armors)\n"
@@ -3514,6 +3783,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +1.75% chance to stagger target on hit\n"
 "<font color=\"#F3F781\">Defense slot:</font> +1.75% chance to stagger attacker on being hit"
 msgstr ""
+"3등급 <font color=\"#848484\">희귀</font> 금속 (방어구는 직업 제한 없음)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 계열: 냉기)\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 근력 / +0.75 건강\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.75% 적중 시 기절 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1.75% 피격 시 공격자 기절 확률"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Stormheart.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3529,6 +3803,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Summer_Stone.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000387b3"
 msgid ""
 "Tier 1 <font color=\"#848484\">Common</font> Metal\n"
@@ -3537,6 +3812,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +2% damage to guard\n"
 "<font color=\"#F3F781\">Defense slot:</font> +10 health"
 msgstr ""
+"1등급 <font color=\"#848484\">일반</font> 금속\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치 / 피해량 (지팡이 피해 계열: 화염)\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 건강\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2% 방어도 추가 피해\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +10 체력"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Veridium.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3552,6 +3832,7 @@ msgstr ""
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Volcanic_Aurum.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x000387ce"
 msgid ""
 "Tier 3 <font color=\"#848484\">Common</font> Metal\n"
@@ -3560,6 +3841,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +3% damage to guard\n"
 "<font color=\"#F3F781\">Defense slot:</font> +15 health"
 msgstr ""
+"3등급 <font color=\"#848484\">일반</font> 금속\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이 피해 계열: 화염)\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.75 건강\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +3% 방어도 추가 피해\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +15 체력"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Special\recipe_material_ancient_writings.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -12628,9 +12914,10 @@ msgstr "증진된 연쇄 번개의 반지"
 
 #. FILE: DA3\Equipment\Items\Accessories\Rings\equip_ring_upgrade_mage_cold_snap.xml
 #. PATH: EquipItemAsset/DisplayName
+#, fuzzy
 msgctxt "0x00042799"
 msgid "Enhanced Winter's Grasp Ring"
-msgstr ""
+msgstr "증진된 겨울의 손아귀의 반지"
 
 #. FILE: DA3\Equipment\Items\Accessories\Rings\equip_ring_upgrade_mage_dispel.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -20597,6 +20884,7 @@ msgstr ""
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Cloth\dlc1_recipe_material_Avvar_Cotton.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x00046e47"
 msgid ""
 "Tier 3 <font color=\"#848484\">Common</font> Cloth\n"
@@ -20605,6 +20893,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +3% flanking damage bonus\n"
 "<font color=\"#F3F781\">Defense slot:</font> +3.5% cold damage resistance"
 msgstr ""
+"3등급 <font color=\"#848484\">일반</font> 옷감\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1.75 민첩\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +3% 측후방 공격 추가 피해\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +3.5% 냉기 피해 저항"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Cloth\dlc1_recipe_material_dlc1_cloth_1.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -20614,6 +20907,7 @@ msgstr ""
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Cloth\dlc1_recipe_material_dlc1_cloth_1.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0004579d"
 msgid ""
 "Tier 4 <font color=\"#2E9AFE\">Rare</font> Cloth\n"
@@ -20622,6 +20916,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +3.5% barrier damage bonus\n"
 "<font color=\"#F3F781\">Defense slot:</font> +2% magic defense"
 msgstr ""
+"4등급 <font color=\"#848484\">희귀</font> 옷감\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +2 마력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +3.5% 보호막 추가 피해\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +2% 마법 방어력"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Cloth\dlc1_recipe_material_dlc1_cloth_2.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -20631,6 +20930,7 @@ msgstr ""
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Cloth\dlc1_recipe_material_dlc1_cloth_2.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0004578e"
 msgid ""
 "Tier 4 <font color=\"#2E9AFE\">Rare</font> Cloth\n"
@@ -20639,9 +20939,15 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +2.25% chance to heal on kill\n"
 "<font color=\"#F3F781\">Defense slot:</font> +4% spirit damage resistance"
 msgstr ""
+"4등급 <font color=\"#848484\">희귀</font> 옷감\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 매우 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +2 정신력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2.25% 처치 시 회복 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +4% 영혼 피해 저항"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Cloth\dlc1_recipe_material_dlc1_cloth_3.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0004578f"
 msgid ""
 "Tier 4 <font color=\"#848484\">Common</font> Cloth\n"
@@ -20650,6 +20956,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +2% attack\n"
 "<font color=\"#F3F781\">Defense slot:</font> +4% electricity damage resistance"
 msgstr ""
+"4등급 <font color=\"#848484\">일반</font> 옷감\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 마력 / +1 정신력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2% 공격력\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +4% 전기 피해 저항"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Leather\dlc1_recipe_material_dlc1_leather_1.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -20659,6 +20970,7 @@ msgstr ""
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Leather\dlc1_recipe_material_dlc1_leather_1.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x00045791"
 msgid ""
 "Tier 4 <font color=\"#2E9AFE\">Rare</font> Leather\n"
@@ -20667,6 +20979,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +2% critical chance\n"
 "<font color=\"#F3F781\">Defense slot:</font> +4% cold damage resistance"
 msgstr ""
+"4등급 <font color=\"#848484\">희귀</font> 가죽\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +2 민첩\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2% 치명타 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +4% 냉기 피해 저항"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Leather\dlc1_recipe_material_dlc1_leather_2.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -20676,6 +20993,7 @@ msgstr ""
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Leather\dlc1_recipe_material_dlc1_leather_2.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x00045790"
 msgid ""
 "Tier 4 <font color=\"#2E9AFE\">Rare</font> Leather\n"
@@ -20684,6 +21002,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +3.5% critical damage\n"
 "<font color=\"#F3F781\">Defense slot:</font> +2% ranged defense"
 msgstr ""
+"4등급 <font color=\"#848484\">희귀</font> 가죽\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +2 교활\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +3.5% 치명타 피해량\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +2% 원거리 방어력"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Leather\dlc1_recipe_material_dlc1_leather_3.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -20693,6 +21016,7 @@ msgstr ""
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Leather\dlc1_recipe_material_dlc1_leather_3.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x00045792"
 msgid ""
 "Tier 4 <font color=\"#848484\">Common</font> Leather\n"
@@ -20701,6 +21025,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +2% chance to bleed target on hit\n"
 "<font color=\"#F3F781\">Defense slot:</font> +4% fire damage resistance"
 msgstr ""
+"4등급 <font color=\"#848484\">일반</font> 가죽\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 민첩 / +1 교활\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2% 적중 시 출혈 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +4% 화염 피해 저항"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Leather\dlc1_recipe_material_HardenedGurgut_Skin.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -20716,6 +21045,7 @@ msgstr ""
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Metal\dlc1_recipe_material_dlc1_metal_1.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0004579a"
 msgid ""
 "Tier 4 <font color=\"#2E9AFE\">Rare</font> Metal\n"
@@ -20724,6 +21054,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +2% attack\n"
 "<font color=\"#F3F781\">Defense slot:</font> +2% melee defense"
 msgstr ""
+"4등급 <font color=\"#848484\">희귀</font> 금속\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 계열: 냉기)\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +2 근력\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2% 공격력\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +2% 근거리 방어력"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Metal\dlc1_recipe_material_dlc1_metal_2.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -20733,6 +21068,7 @@ msgstr ""
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Metal\dlc1_recipe_material_dlc1_metal_2.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0004579b"
 msgid ""
 "Tier 4 <font color=\"#2E9AFE\">Rare</font> Metal\n"
@@ -20741,9 +21077,15 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +3.5% armor penetration\n"
 "<font color=\"#F3F781\">Defense slot:</font> +16 health"
 msgstr ""
+"4등급 <font color=\"#848484\">희귀</font> 금속\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 계열: 화염)\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +2 건강\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +3.5% 방어 관통력\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +16 체력"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Metal\dlc1_recipe_material_dlc1_metal_3.xml
 #. PATH: RecipeMaterial/Description
+#, fuzzy
 msgctxt "0x0004579c"
 msgid ""
 "Tier 4 <font color=\"#2E9AFE\">Rare</font> Metal\n"
@@ -20752,6 +21094,11 @@ msgid ""
 "<font color=\"#F3F781\">Offense slot:</font> +2% chance to stagger target on hit\n"
 "<font color=\"#F3F781\">Defense slot:</font> +2% chance to stagger attacker on being hit"
 msgstr ""
+"4등급 <font color=\"#848484\">희귀</font> 금속\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 계열: 냉기)\n"
+"<font color=\"#F3F781\">다목적 슬롯:</font> +1 근력 / +1 건강\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2% 적중 시 기절 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +2% 피격 시 공격자 기절 확률"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Recipes\Armors\Heavy\Chest\dlc1_recipe_dlc1_heavy_1.xml
 #. PATH: Recipe/DisplayName

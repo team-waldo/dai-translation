@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-12 10:01+0000\n"
+"PO-Revision-Date: 2021-01-13 07:55+0000\n"
 "Last-Translator: 불타는 수염 <brng_beard@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/unknown/ko/>\n"
 "Language: ko\n"
@@ -160,7 +160,7 @@ msgstr ""
 
 msgctxt "0x00001f51"
 msgid "Noble"
-msgstr ""
+msgstr "귀족"
 
 msgctxt "0x00001f54"
 msgid "Initiate"
@@ -1905,7 +1905,7 @@ msgstr ""
 
 msgctxt "0x000138e0"
 msgid "Noble"
-msgstr ""
+msgstr "귀족"
 
 msgctxt "0x000138e1"
 msgid "Black Sheep"
@@ -1929,7 +1929,7 @@ msgstr ""
 
 msgctxt "0x000138e6"
 msgid "Noble"
-msgstr ""
+msgstr "귀족"
 
 msgctxt "0x000138e7"
 msgid "Male"
@@ -6146,7 +6146,7 @@ msgstr ""
 
 msgctxt "0x00018c2e"
 msgid "Read"
-msgstr ""
+msgstr "읽기"
 
 msgctxt "0x00018c2f"
 msgid "Potion Z"
@@ -7041,7 +7041,7 @@ msgstr ""
 
 msgctxt "0x0001e2dc"
 msgid "Altar"
-msgstr ""
+msgstr "제단"
 
 msgctxt "0x0001e2e0"
 msgid "MEGA LUTZ!"
@@ -7365,7 +7365,7 @@ msgstr ""
 
 msgctxt "0x0001e47f"
 msgid "Altar"
-msgstr ""
+msgstr "제단"
 
 msgctxt "0x0001e480"
 msgid "Guard Corpse"
@@ -13566,7 +13566,7 @@ msgstr ""
 
 msgctxt "0x00029da0"
 msgid "Cave"
-msgstr ""
+msgstr "동굴"
 
 msgctxt "0x00029da1"
 msgid "Kings Highway South"
@@ -13626,7 +13626,7 @@ msgstr ""
 
 msgctxt "0x00029daf"
 msgid "Cave"
-msgstr ""
+msgstr "동굴"
 
 msgctxt "0x00029db0"
 msgid "Merchant"
@@ -13658,7 +13658,7 @@ msgstr ""
 
 msgctxt "0x00029db7"
 msgid "Cave"
-msgstr ""
+msgstr "동굴"
 
 msgctxt "0x00029db8"
 msgid "Dalish Tomb"
@@ -13774,7 +13774,7 @@ msgstr ""
 
 msgctxt "0x00029e5c"
 msgid "Cave"
-msgstr ""
+msgstr "동굴"
 
 msgctxt "0x00029e74"
 msgid "World Map Location"
@@ -14319,7 +14319,7 @@ msgstr ""
 
 msgctxt "0x0002b3dc"
 msgid "Book"
-msgstr ""
+msgstr "책"
 
 msgctxt "0x0002b3dd"
 msgid "Grave"
@@ -14709,7 +14709,7 @@ msgstr ""
 
 msgctxt "0x0002b9a8"
 msgid "Key"
-msgstr ""
+msgstr "열쇠"
 
 msgctxt "0x0002ba35"
 msgid "The Portent"
@@ -15458,7 +15458,7 @@ msgstr ""
 
 msgctxt "0x0002cbfa"
 msgid "Courtyard"
-msgstr ""
+msgstr "안뜰"
 
 msgctxt "0x0002cbfb"
 msgid "Gallery"
@@ -17611,7 +17611,7 @@ msgstr ""
 
 msgctxt "0x000317b0"
 msgid "Courtyard"
-msgstr ""
+msgstr "안뜰"
 
 msgctxt "0x000317b1"
 msgid "Ruined Passage"
@@ -34650,7 +34650,7 @@ msgstr ""
 
 msgctxt "0x000408d6"
 msgid "Book"
-msgstr ""
+msgstr "책"
 
 msgctxt "0x00040942"
 msgid " --"
@@ -35032,7 +35032,7 @@ msgstr ""
 
 msgctxt "0x00041ab1"
 msgid "Altar"
-msgstr ""
+msgstr "제단"
 
 msgctxt "0x00041ab4"
 msgid "Investigate the Area"
@@ -35768,11 +35768,14 @@ msgctxt "0x000424c5"
 msgid "Playing Campaign"
 msgstr ""
 
+#, fuzzy
 msgctxt "0x000424cc"
 msgid ""
 "You lash out with a set of slashing blows that bring you in and drive your target back.\n"
 "\n"
 msgstr ""
+"달려들어 난도질을 시작해 적을 몰아냅니다.\n"
+"\n"
 
 msgctxt "0x0004255d"
 msgid "Sword of the Righteous"
@@ -35852,11 +35855,14 @@ msgid ""
 "color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
 
+#, fuzzy
 msgctxt "0x00042638"
 msgid ""
 "<font color=\"#BAAB7B\">Damage per Hit: </font><font "
 "color=\"#F5ECCE\">{CUSTOM0}</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">타격 당 피해량: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}</font>\n"
 
 msgctxt "0x0004264f"
 msgid ""
@@ -36808,9 +36814,10 @@ msgctxt "0x00042772"
 msgid "Improved Firestorm"
 msgstr ""
 
+#, fuzzy
 msgctxt "0x00042773"
 msgid "Improved Winter's Grasp"
-msgstr ""
+msgstr "향상된 겨울의 손아귀"
 
 msgctxt "0x00042774"
 msgid "Improved Wall of Ice"
@@ -38691,7 +38698,7 @@ msgstr ""
 
 msgctxt "0x00042cac"
 msgid "Read"
-msgstr ""
+msgstr "읽기"
 
 msgctxt "0x00042cad"
 msgid "Take Weapons"
@@ -42041,11 +42048,14 @@ msgctxt "0x00043e04"
 msgid "The Inventory is not available while you are under attack."
 msgstr ""
 
+#, fuzzy
 msgctxt "0x00043e05"
 msgid ""
 "<font color=\"#BAAB7B\">Damage Bonus per Hit: </font><font "
 "color=\"#F5ECCE\">{CUSTOM0}% Weapon Damage</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">타격 당 추가 피해량: </font><font color=\"#F5ECCE\">무기 공격력의 "
+"{CUSTOM0}%</font>\n"
 
 msgctxt "0x00043e06"
 msgid ""

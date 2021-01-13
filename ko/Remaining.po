@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-12 10:01+0000\n"
-"Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
+"PO-Revision-Date: 2021-01-13 07:55+0000\n"
+"Last-Translator: 불타는 수염 <brng_beard@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -2788,9 +2788,12 @@ msgstr ""
 
 #. FILE: DA3\Configurations\Online\Multiplayer\Abilities\Actives\Mage\ChargedBurst_Fire\MP_mage_staff_chargedburst_fire_abilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
+#, fuzzy
 msgctxt "0x00042636"
 msgid "<font color=\"#BAAB7B\">Number of Hits: </font><font color=\"#F5ECCE\">{CUSTOM0}</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">타격 횟수: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}</font>\n"
 
 #. FILE: DA3\Configurations\Online\Multiplayer\Abilities\Actives\Mage\ChargedBurst_Fire\MP_mage_staff_chargedburst_fire_abilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -3042,9 +3045,12 @@ msgstr ""
 
 #. FILE: DA3\Configurations\Online\Multiplayer\Abilities\Actives\Warrior\Avvar\EarthShakingStrike\mp_avvar_earthshakingstrike_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
+#, fuzzy
 msgctxt "0x00042e67"
 msgid "<font color=\"#BAAB7B\">Damage per Hit: </font><font color=\"#F5ECCE\">{CUSTOM0}% weapon damage</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">타격 당 피해량: </font><font color=\"#F5ECCE\">무기 공격력의 "
+"{CUSTOM0}%</font>\n"
 
 #. FILE: DA3\Configurations\Online\Multiplayer\Abilities\Actives\Warrior\Avvar\ElementalWhirlwind\MP_avvar_elemental_whirlwind_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -3769,11 +3775,14 @@ msgstr ""
 
 #. FILE: DA3\Configurations\Online\Multiplayer\Abilities\Passives\KitUnique\Necromancer\Virulence\MP_necromancer_passive_virulence_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00042d68"
 msgid ""
 "Killing an enemy causes any elemental status effects on it to spread to nearby targets: burning, chilled, frozen, panicked, paralyzed, poisoned, shocked, and weakened.\n"
 "\n"
 msgstr ""
+"적을 처치하면 적이 갖고 있던 상태 효과(화상, 서리, 빙결, 혼란, 마비, 중독, 감전, 약화)가 주변으로 전이됩니다.\n"
+"\n"
 
 #. FILE: DA3\Configurations\Online\Multiplayer\Abilities\Passives\KitUnique\Necromancer\Virulence\MP_necromancer_passive_virulence_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -5362,11 +5371,14 @@ msgstr ""
 
 #. FILE: DA3\Creatures\Faction\Biotic\Human\Prowler\Abilities\Heartseeker\human_prowler_heartseeker_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x000424d2"
 msgid ""
 "You lash out hard with swift and deadly skill and then again against a wounded foe.\n"
 "\n"
 msgstr ""
+"재빠르고 살인적인 공격을 가합니다. 상처입은 대상은 한 번 더 공격합니다.\n"
+"\n"
 
 #. FILE: DA3\Creatures\Faction\Biotic\Human\Prowler\Abilities\Heartseeker\human_prowler_heartseeker_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -12359,7 +12371,7 @@ msgstr ""
 #. PATH: GetLocalizedStringIDData/Text
 msgctxt "0x0002be11"
 msgid "Read"
-msgstr ""
+msgstr "읽기"
 
 #. FILE: DA3\DesignContent\PrefabComponents\Placeables\CMP_PlaceableStateControl.xml
 #. PATH: GetLocalizedStringIDData/Text
@@ -14937,9 +14949,13 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[29]/Text
+#, fuzzy
 msgctxt "0x000475ff"
 msgid "Winter's Grasp {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: Use this ability to freeze your target and inflict moderate cold damage. While frozen, enemies cannot move or attack and are susceptible to combo attacks from Rogues and Warriors."
 msgstr ""
+"겨울의 손아귀 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInv"
+"entoryItem1}{/notcontroller}: 이 능력을 사용하여 대상을 빙결시키고 냉기 피해를 입히세요. 빙결된 적은 움직이거나 "
+"공격할 수 없고, 도적이나 전사가 콤보 공격을 가할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[30]/Text
@@ -15028,9 +15044,13 @@ msgstr ""
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[43]/Text
+#, fuzzy
 msgctxt "0x000475f8"
 msgid "Winter's Grasp {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: Use this ability to freeze your target and inflict moderate cold damage. While frozen, enemies cannot move or attack and are susceptible to combo attacks from Rogues and Warriors."
 msgstr ""
+"겨울의 손아귀 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInv"
+"entoryItem1}{/notcontroller}: 이 능력을 사용하여 대상을 빙결시키고 냉기 피해를 입히세요. 빙결된 적은 움직이거나 "
+"공격할 수 없고, 도적이나 전사가 콤보 공격을 가할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[45]/Text
@@ -17845,7 +17865,7 @@ msgstr ""
 #. PATH: CreatureEntityData/CharacterNameReference
 msgctxt "0x00049ac6"
 msgid "Librarian"
-msgstr ""
+msgstr "사서"
 
 #. FILE: da3_dlc_blue\Creatures\Factions\draconic\dragon\creature_boss_highdragon_dlcblue.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -19020,9 +19040,12 @@ msgstr ""
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\ABC_\party_mage_mp2_bard_abc_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
+#, fuzzy
 msgctxt "0x00047067"
 msgid "<font color=\"#BAAB7B\">Damage Bonus per Hit: </font><font color=\"#F5ECCE\">{CUSTOM0} elemental damage</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">타격 당 추가 피해량: </font><font color=\"#F5ECCE\">{CUSTOM0}"
+" 원소 피해</font>\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\ABC_\party_mage_mp2_bard_abc_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -19826,9 +19849,12 @@ msgstr ""
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\Reckless\combat_kits_isabela_reckless_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
+#, fuzzy
 msgctxt "0x0004710f"
 msgid "<font color=\"#BAAB7B\">Number of Hits: </font><font color=\"#F5ECCE\">{CUSTOM0}-{CUSTOM1}</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">타격 횟수: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}-{CUSTOM1}</font>\n"
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\Reckless\combat_kits_isabela_reckless_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
