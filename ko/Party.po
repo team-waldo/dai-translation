@@ -1,6 +1,14 @@
 #
 msgid ""
-msgstr "Language: ko\n"
+msgstr ""
+"PO-Revision-Date: 2021-01-13 18:11+0000\n"
+"Last-Translator: 큡수뎃 <quoobt@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FILE:
 #. DA3\Party\Archived\Rogue\General\PartyStealth\party_rogue_general_partystealth_abilitydata.xml
@@ -66,21 +74,21 @@ msgstr "기본 공격"
 #: DA3\Party\Mount\Ability\dismount_abilitydata.xml:BWActivatedAbility/AbilityNameReference
 msgctxt "0x00044c31"
 msgid "Dismount"
-msgstr ""
+msgstr "말에서 내림"
 
 #. FILE: DA3\Party\Mount\Ability\summon_mount_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Mount\Ability\summon_mount_abilitydata.xml:BWActivatedAbility/AbilityNameReference
 msgctxt "0x00043e20"
 msgid "Call Mount / Dismount"
-msgstr ""
+msgstr "말 부르기/말 내리기"
 
 #. FILE: DA3\Party\Mount\CreatureData\gen_mount_dracolisk.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 #: DA3\Party\Mount\CreatureData\gen_mount_dracolisk.xml:CreatureEntityData/CharacterNameReference
 msgctxt "0x0002c0a7"
 msgid "Mount"
-msgstr ""
+msgstr "말 타기"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\ArrowAmmo\party_rogue_archery_arrrowammo_abilitydata.xml
@@ -98,7 +106,7 @@ msgstr ""
 #: DA3\Party\Rogue\Archery\ArrowAmmo\party_rogue_archery_arrrowammo_abilitydata.xml:BWActivatedAbility/AbilityNameReference
 msgctxt "0x00042565"
 msgid "Hail of Arrows"
-msgstr ""
+msgstr "빗발치는 화살"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\ArrowAmmo\party_rogue_archery_arrrowammo_abilitydata.xml
@@ -121,6 +129,8 @@ msgid ""
 "You fire a powerful single shot that delivers more damage the farther you are from the target.\n"
 "\n"
 msgstr ""
+"당신은 대상에서 멀어 질수록 더 많은 피해를 주는 강력한 한 발을 발사합니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\ArrowOfSlaying\party_rogue_archery_arrowofslaying_abilitydata.xml
@@ -128,7 +138,7 @@ msgstr ""
 #: DA3\Party\Rogue\Archery\ArrowOfSlaying\party_rogue_archery_arrowofslaying_abilitydata.xml:BWActivatedAbility/AbilityNameReference
 msgctxt "0x00042552"
 msgid "Long Shot"
-msgstr ""
+msgstr "장거리 사격"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\ArrowOfSlaying\party_rogue_archery_arrowofslaying_abilitydata.xml
@@ -137,7 +147,7 @@ msgstr ""
 #: DA3\Party\Rogue\Archery\ArrowOfSlaying\party_rogue_archery_arrowofslaying_abilitydata.xml:BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 msgctxt "0x00042ab8"
 msgid "<font color=\"#BAAB7B\">Requires a bow</font>\n"
-msgstr ""
+msgstr "<font color=\"#BAAB7B\">활 필요</font>\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\ArrowOfSlaying\party_rogue_archery_arrowofslaying_abilitydata.xml
@@ -168,6 +178,8 @@ msgid ""
 "Long Shot now rips through every enemy along its path, doing bonus damage for each extra target it hits.\n"
 "\n"
 msgstr ""
+"장거리 사격은 이제 경로에 있는 모든 적을 찢어 적중 할 때마다 추가 피해를 입힙니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\ArrowOfSlaying\party_rogue_archery_arrowofslaying_upgrade1_abilitydata.xml
@@ -175,7 +187,7 @@ msgstr ""
 #: DA3\Party\Rogue\Archery\ArrowOfSlaying\party_rogue_archery_arrowofslaying_upgrade1_abilitydata.xml:BWAbilityUpgrade/AbilityNameReference
 msgctxt "0x00042554"
 msgid "Archer's Lance"
-msgstr ""
+msgstr "궁수의 랜스"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\ArrowOfSlaying\party_rogue_archery_arrowofslaying_upgrade2_abilitydata.xml
@@ -186,6 +198,8 @@ msgid ""
 "Long Shot now deals even more damage at greater ranges.\n"
 "\n"
 msgstr ""
+"장거리 사격은 이제 더 먼 사거리에서 더 많은 피해를 줍니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\ArrowOfSlaying\party_rogue_archery_arrowofslaying_upgrade2_abilitydata.xml
@@ -193,7 +207,7 @@ msgstr ""
 #: DA3\Party\Rogue\Archery\ArrowOfSlaying\party_rogue_archery_arrowofslaying_upgrade2_abilitydata.xml:BWAbilityUpgrade/AbilityNameReference
 msgctxt "0x000474d0"
 msgid "Eagle Eye"
-msgstr ""
+msgstr "독수리의 눈"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\Basic\party_rogue_archery_basic_bianca_abilitydata.xml
@@ -201,7 +215,7 @@ msgstr ""
 #: DA3\Party\Rogue\Archery\Basic\party_rogue_archery_basic_bianca_abilitydata.xml:BWActivatedAbility/AbilityDescriptionReference
 msgctxt "0x00026f57"
 msgid "Basic ranged attack."
-msgstr ""
+msgstr "기본 원거리 공격."
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\Basic\party_rogue_archery_basic_bianca_abilitydata.xml
@@ -209,7 +223,7 @@ msgstr ""
 #: DA3\Party\Rogue\Archery\Basic\party_rogue_archery_basic_bianca_abilitydata.xml:BWActivatedAbility/AbilityNameReference
 msgctxt "0x00026fcf"
 msgid "Basic Attack"
-msgstr ""
+msgstr "기본 공격"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\Basic\party_rogue_archery_stance_power_attacks_abilitydata.xml
@@ -217,7 +231,7 @@ msgstr ""
 #: DA3\Party\Rogue\Archery\Basic\party_rogue_archery_stance_power_attacks_abilitydata.xml:BWActivatedAbility/AbilityDescriptionReference
 msgctxt "0x00026fc5"
 msgid "Basic ranged attack."
-msgstr ""
+msgstr "기본 원거리 공격."
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\Basic\party_rogue_archery_stance_power_attacks_abilitydata.xml
@@ -225,7 +239,7 @@ msgstr ""
 #: DA3\Party\Rogue\Archery\Basic\party_rogue_archery_stance_power_attacks_abilitydata.xml:BWActivatedAbility/AbilityNameReference
 msgctxt "0x00026fa9"
 msgid "Basic Attack"
-msgstr ""
+msgstr "기본 공격"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\ExplosiveShot\party_rogue_archery_explosiveshot_abilitydata.xml
@@ -236,6 +250,8 @@ msgid ""
 "You fire a powerful shot that explodes on impact, damaging enemies around your target.\n"
 "\n"
 msgstr ""
+"충격을 받으면 폭발하는 강력한 탄환을 발사하여 대상 주변의 적에게 피해를 줍니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\ExplosiveShot\party_rogue_archery_explosiveshot_abilitydata.xml
@@ -243,7 +259,7 @@ msgstr ""
 #: DA3\Party\Rogue\Archery\ExplosiveShot\party_rogue_archery_explosiveshot_abilitydata.xml:BWActivatedAbility/AbilityNameReference
 msgctxt "0x00042556"
 msgid "Explosive Shot"
-msgstr ""
+msgstr "폭발 사격"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\ExplosiveShot\party_rogue_archery_explosiveshot_abilitydata.xml
@@ -255,6 +271,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Impact Radius: </font><font "
 "color=\"#F5ECCE\">{CUSTOM0} meters</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">폭발 범위: </font><font color=\"#F5ECCE\">{CUSTOM0} "
+"미터</font>\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\ExplosiveShot\party_rogue_archery_explosiveshot_upgrade1_abilitydata.xml
@@ -265,6 +283,8 @@ msgid ""
 "Shrapnel from Explosive Shot fills the air and sets off deadly reactions that do more damage the more enemies are nearby. \n"
 "\n"
 msgstr ""
+"폭발 사격의 파편으로 주변을 가득 채워 더 많은 적들이 근처에 있을수록 더 많은 피해를 주는 치명적인 반응을 일으킵니다. \n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\ExplosiveShot\party_rogue_archery_explosiveshot_upgrade1_abilitydata.xml
@@ -272,7 +292,7 @@ msgstr ""
 #: DA3\Party\Rogue\Archery\ExplosiveShot\party_rogue_archery_explosiveshot_upgrade1_abilitydata.xml:BWAbilityUpgrade/AbilityNameReference
 msgctxt "0x00042558"
 msgid "Chain Reaction"
-msgstr ""
+msgstr "연쇄 반응"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\ExplosiveShot\party_rogue_archery_explosiveshot_upgrade1_abilitydata.xml
@@ -295,6 +315,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Maximum Bonus Damage: </font><font "
 "color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">최대 추가 피해: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}%</font>\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\ExplosiveShot\party_rogue_archery_explosiveshot_upgrade2_abilitydata.xml
@@ -305,6 +327,8 @@ msgid ""
 "Explosive Shot now knocks back your main target several meters upon detonation.\n"
 "\n"
 msgstr ""
+"폭발 사격이 폭발할 때 주 대상을 몇 미터 뒤로 밀쳐냅니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\ExplosiveShot\party_rogue_archery_explosiveshot_upgrade2_abilitydata.xml
@@ -312,7 +336,7 @@ msgstr ""
 #: DA3\Party\Rogue\Archery\ExplosiveShot\party_rogue_archery_explosiveshot_upgrade2_abilitydata.xml:BWAbilityUpgrade/AbilityNameReference
 msgctxt "0x000474dd"
 msgid "Shockwave"
-msgstr ""
+msgstr "충격파"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\JumpShot\party_rogue_archery_jumpshot_abilitydata.xml
@@ -323,6 +347,8 @@ msgid ""
 "You dive out of trouble and fire a hail of arrows at the enemies that were trying to close with you.\n"
 "\n"
 msgstr ""
+"당신에게 접근하려는 적들에게 화살비를 쏟아부으며 어려운 상황에서 빠져나옵니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\JumpShot\party_rogue_archery_jumpshot_abilitydata.xml
@@ -330,17 +356,20 @@ msgstr ""
 #: DA3\Party\Rogue\Archery\JumpShot\party_rogue_archery_jumpshot_abilitydata.xml:BWActivatedAbility/AbilityNameReference
 msgctxt "0x0004254b"
 msgid "Leaping Shot"
-msgstr ""
+msgstr "도약 사격"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\JumpShot\party_rogue_archery_jumpshot_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\Archery\JumpShot\party_rogue_archery_jumpshot_upgrade1_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00043322"
 msgid ""
 "If Leaping Shot hits, you can use the momentum of your leap to do a stronger draw as you come back to your feet. Your next attack, whenever you make it, will knock down its target.\n"
 "\n"
 msgstr ""
+"도약 사격이 명중하면 그 관성으로 활시위를 더 강하게 당깁니다. 다음 번 명중하는 공격은 대상을 쓰러트립니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\JumpShot\party_rogue_archery_jumpshot_upgrade1_abilitydata.xml
@@ -354,11 +383,14 @@ msgstr ""
 #. DA3\Party\Rogue\Archery\JumpShot\party_rogue_archery_jumpshot_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\Archery\JumpShot\party_rogue_archery_jumpshot_upgrade2_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x000474d4"
 msgid ""
 "After striking a target with Leaping Shot, you retreat safely into the shadows, disappearing into stealth.\n"
 "\n"
 msgstr ""
+"도약 사격으로 대상을 공격하면 그림자 속으로 안전히 후퇴하여 은신합니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\JumpShot\party_rogue_archery_jumpshot_upgrade2_abilitydata.xml
@@ -372,11 +404,14 @@ msgstr ""
 #. DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_abilitydata.xml:BWActivatedAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00042532"
 msgid ""
 "It takes a moment to line up the perfect shot, but it pays off with a devastating hit that bites even deeper against enemies who aren't injured yet.\n"
 "\n"
 msgstr ""
+"약간 시간이 걸리지만, 완벽한 사격을 가해 압도적인 피해를 입힙니다. 아직 다치지 않은 적에게는 더욱 큰 피해를 가합니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_abilitydata.xml
@@ -401,19 +436,23 @@ msgstr ""
 #. DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade1_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00043212"
 msgid ""
 "Enemies hit by Full Draw are knocked briefly unconscious by the power of your shot.\n"
 "\n"
 msgstr ""
+"만궁에 피격당한 적은 그 힘에 나가떨어져 잠시 의식을 잃습니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade1_abilitydata.xml:BWAbilityUpgrade/AbilityNameReference
+#, fuzzy
 msgctxt "0x00043211"
 msgid "Stunning Shot"
-msgstr ""
+msgstr "기절 사격"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade1_abilitydata.xml
@@ -430,19 +469,23 @@ msgstr ""
 #. DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade2_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x000474e0"
 msgid ""
 "Enemies hit by Full Draw are immobilized.\n"
 "\n"
 msgstr ""
+"만궁에 피격당한 적은 움직임이 봉쇄됩니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade2_abilitydata.xml:BWAbilityUpgrade/AbilityNameReference
+#, fuzzy
 msgctxt "0x000474df"
 msgid "Pinning Shot"
-msgstr ""
+msgstr "부동 사격"
 
 #. FILE:
 #. DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade2_abilitydata.xml
@@ -472,9 +515,10 @@ msgstr ""
 #. DA3\Party\Rogue\Assassin\HeartSeeker\party_rogue_assassin_heartseeker_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Rogue\Assassin\HeartSeeker\party_rogue_assassin_heartseeker_abilitydata.xml:BWActivatedAbility/AbilityNameReference
+#, fuzzy
 msgctxt "0x000424d1"
 msgid "Deathblow"
-msgstr ""
+msgstr "마무리 일격"
 
 #. FILE:
 #. DA3\Party\Rogue\Assassin\HeartSeeker\party_rogue_assassin_heartseeker_abilitydata.xml
@@ -513,9 +557,10 @@ msgstr ""
 #. DA3\Party\Rogue\Assassin\HeartSeeker\party_rogue_assassin_heartseeker_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Rogue\Assassin\HeartSeeker\party_rogue_assassin_heartseeker_upgrade1_abilitydata.xml:BWAbilityUpgrade/AbilityNameReference
+#, fuzzy
 msgctxt "0x000424da"
 msgid "Thrill of Victory"
-msgstr ""
+msgstr "승리의 희열"
 
 #. FILE:
 #. DA3\Party\Rogue\Assassin\HeartSeeker\party_rogue_assassin_heartseeker_upgrade2_abilitydata.xml
@@ -534,9 +579,10 @@ msgstr ""
 #. DA3\Party\Rogue\Assassin\HeartSeeker\party_rogue_assassin_heartseeker_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Rogue\Assassin\HeartSeeker\party_rogue_assassin_heartseeker_upgrade2_abilitydata.xml:BWAbilityUpgrade/AbilityNameReference
+#, fuzzy
 msgctxt "0x00047e93"
 msgid "Surprise Attack"
-msgstr ""
+msgstr "기습 공격"
 
 #. FILE:
 #. DA3\Party\Rogue\Assassin\MarkOfDeath\party_rogue_assassin_markofdeath_abilitydata.xml
@@ -552,9 +598,10 @@ msgstr ""
 #. DA3\Party\Rogue\Assassin\MarkOfDeath\party_rogue_assassin_markofdeath_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Rogue\Assassin\MarkOfDeath\party_rogue_assassin_markofdeath_abilitydata.xml:BWActivatedAbility/AbilityNameReference
+#, fuzzy
 msgctxt "0x000425d3"
 msgid "Mark of Death"
-msgstr ""
+msgstr "죽음의 표식"
 
 #. FILE:
 #. DA3\Party\Rogue\Assassin\MarkOfDeath\party_rogue_assassin_markofdeath_abilitydata.xml
@@ -581,9 +628,10 @@ msgstr ""
 #. DA3\Party\Rogue\Assassin\MarkOfDeath\party_rogue_assassin_markofdeath_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Rogue\Assassin\MarkOfDeath\party_rogue_assassin_markofdeath_upgrade1_abilitydata.xml:BWAbilityUpgrade/AbilityNameReference
+#, fuzzy
 msgctxt "0x00048174"
 msgid "Lasting Mark"
-msgstr ""
+msgstr "지속되는 표식"
 
 #. FILE:
 #. DA3\Party\Rogue\Assassin\MarkOfDeath\party_rogue_assassin_markofdeath_upgrade1_abilitydata.xml
@@ -610,9 +658,10 @@ msgstr ""
 #. DA3\Party\Rogue\Assassin\MarkOfDeath\party_rogue_assassin_markofdeath_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Rogue\Assassin\MarkOfDeath\party_rogue_assassin_markofdeath_upgrade2_abilitydata.xml:BWAbilityUpgrade/AbilityNameReference
+#, fuzzy
 msgctxt "0x00048172"
 msgid "Mark of Doom"
-msgstr ""
+msgstr "파멸의 표식"
 
 #. FILE:
 #. DA3\Party\Rogue\Assassin\PathOfShadows\party_rogue_assassin_pathofshadows_abilitydata.xml
@@ -1121,11 +1170,14 @@ msgstr ""
 #. DA3\Party\Rogue\FieldControl\CorrosiveWeapons\party_rogue_fieldcontrol_corrosiveweapons_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\FieldControl\CorrosiveWeapons\party_rogue_fieldcontrol_corrosiveweapons_abilitydata.xml:BWActivatedAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00042569"
 msgid ""
 "You coat your weapons in a deadly toxin, making every attack poison enemies for a short time.\n"
 "\n"
 msgstr ""
+"무기에 치명적인 맹독을 바릅니다. 잠시동안 가하는 모든 공격이 적을 중독시킵니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\FieldControl\CorrosiveWeapons\party_rogue_fieldcontrol_corrosiveweapons_abilitydata.xml
@@ -1161,11 +1213,14 @@ msgstr ""
 #. DA3\Party\Rogue\FieldControl\CorrosiveWeapons\party_rogue_fieldcontrol_corrosiveweapons_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\FieldControl\CorrosiveWeapons\party_rogue_fieldcontrol_corrosiveweapons_upgrade1_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0004256b"
 msgid ""
 "Your poison helps your blades and arrows bite deeper. You do more damage with your weapons while Poisoned Weapons is active. \n"
 "\n"
 msgstr ""
+"독이 발린 칼날과 화살이 더 깊은 상처를 냅니다. 독 바른 무기가 활성화된 동안 더 큰 피해를 입힙니다. \n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\FieldControl\CorrosiveWeapons\party_rogue_fieldcontrol_corrosiveweapons_upgrade1_abilitydata.xml
@@ -1179,11 +1234,14 @@ msgstr ""
 #. DA3\Party\Rogue\FieldControl\CorrosiveWeapons\party_rogue_fieldcontrol_corrosiveweapons_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\FieldControl\CorrosiveWeapons\party_rogue_fieldcontrol_corrosiveweapons_upgrade2_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0004b214"
 msgid ""
 "You gain health when you attack enemies with Poisoned Weapons active.\n"
 "\n"
 msgstr ""
+"독 바른 무기가 활성화된 동안에 적을 공격하면 체력을 회복합니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\FieldControl\CorrosiveWeapons\party_rogue_fieldcontrol_corrosiveweapons_upgrade2_abilitydata.xml
@@ -1197,11 +1255,14 @@ msgstr ""
 #. DA3\Party\Rogue\FieldControl\Hookshot\Upgrade1\party_rogue_fieldcontrol_hookshot_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\FieldControl\Hookshot\Upgrade1\party_rogue_fieldcontrol_hookshot_upgrade1_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x000432d3"
 msgid ""
 "You can use Hook and Tackle with no stamina cost or cooldown time.\n"
 "\n"
 msgstr ""
+"걸어 달려들기의 지구력 소모와 재사용 대기시간이 사라집니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\FieldControl\Hookshot\Upgrade1\party_rogue_fieldcontrol_hookshot_upgrade1_abilitydata.xml
@@ -1215,11 +1276,14 @@ msgstr ""
 #. DA3\Party\Rogue\FieldControl\Hookshot\Upgrade1\party_rogue_fieldcontrol_hookshot_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\FieldControl\Hookshot\Upgrade1\party_rogue_fieldcontrol_hookshot_upgrade2_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00047569"
 msgid ""
 "You chain yourself to your target upon arrival, making it impossible for them to escape you. You can free yourself by reactivating the ability.\n"
 "\n"
 msgstr ""
+"대상에게 도착하면 본인과 대상을 묶어버립니다. 능력을 한 번 더 시전하면 풀려납니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\FieldControl\Hookshot\Upgrade1\party_rogue_fieldcontrol_hookshot_upgrade2_abilitydata.xml
@@ -1233,11 +1297,14 @@ msgstr ""
 #. DA3\Party\Rogue\FieldControl\Hookshot\party_rogue_fieldcontrol_hookshot_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\FieldControl\Hookshot\party_rogue_fieldcontrol_hookshot_abilitydata.xml:BWActivatedAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0004259f"
 msgid ""
 "You hurl a light grappling hook at a target, then yank hard as you leap to pull yourself to it.\n"
 "\n"
 msgstr ""
+"대상에게 갈고리를 던져 걸어 적에게 뛰어듭니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\FieldControl\Hookshot\party_rogue_fieldcontrol_hookshot_abilitydata.xml
@@ -1327,11 +1394,14 @@ msgstr ""
 #. DA3\Party\Rogue\General\Caltrops\party_rogue_general_caltrops_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\General\Caltrops\party_rogue_general_caltrops_abilitydata.xml:BWActivatedAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0004256d"
 msgid ""
 "You scatter spikes behind you, hurting and slowing down enemies who come after you. This ability is considered a trap for any abilities that enhance or affect traps.\n"
 "\n"
 msgstr ""
+"시전자 뒤에 압정을 뿌려 추격하는 적을 공격하고 늦춥니다. 해당 능력은 함정으로 취급됩니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\General\Caltrops\party_rogue_general_caltrops_abilitydata.xml
@@ -1345,11 +1415,14 @@ msgstr ""
 #. DA3\Party\Rogue\General\Caltrops\party_rogue_general_caltrops_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\General\Caltrops\party_rogue_general_caltrops_upgrade1_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0004a95e"
 msgid ""
 "Your caltrops cover a wider area and cause enemies to bleed over several seconds.\n"
 "\n"
 msgstr ""
+"압정이 더 넓은 범위에 뿌려지고, 적을 수 초동안 출혈시킵니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\General\Caltrops\party_rogue_general_caltrops_upgrade1_abilitydata.xml
@@ -1363,11 +1436,14 @@ msgstr ""
 #. DA3\Party\Rogue\General\Caltrops\party_rogue_general_caltrops_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\General\Caltrops\party_rogue_general_caltrops_upgrade2_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00048860"
 msgid ""
 "Enemies that tread upon your caltrops are briefly immobilized.\n"
 "\n"
 msgstr ""
+"압정을 밟은 적은 잠시동안 발이 묶입니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\General\Caltrops\party_rogue_general_caltrops_upgrade2_abilitydata.xml
@@ -1405,11 +1481,14 @@ msgstr ""
 #. DA3\Party\Rogue\General\Knives\party_rogue_general_knives_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\General\Knives\party_rogue_general_knives_abilitydata.xml:BWActivatedAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00042583"
 msgid ""
 "You hurl a group of knives at all nearby targets, ripping through their armor and leaving it sundered.\n"
 "\n"
 msgstr ""
+"주위 모든 대상에게 칼을 던집니다. 대상은 찢김 효과를 입습니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\General\Knives\party_rogue_general_knives_abilitydata.xml
@@ -1441,11 +1520,14 @@ msgstr ""
 #. DA3\Party\Rogue\General\Knives\party_rogue_general_knives_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\General\Knives\party_rogue_general_knives_upgrade2_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00042587"
 msgid ""
 "When facing fewer targets, you group your knives so that the more blades that hit a single target, the more damage they inflict.\n"
 "\n"
 msgstr ""
+"대상의 수가 적다면, 하나의 대상에 여러 개의 칼을 던져 더 큰 피해를 입힙니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\General\Knives\party_rogue_general_knives_upgrade2_abilitydata.xml
@@ -1468,11 +1550,14 @@ msgstr ""
 #. DA3\Party\Rogue\General\Knives\party_rogue_general_knives_upgrade3_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\General\Knives\party_rogue_general_knives_upgrade3_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0004b094"
 msgid ""
 "You throw several daggers in an arc before you, hitting all enemies in front of you and increasing the duration for which their armor is sundered.\n"
 "\n"
 msgstr ""
+"부채꼴 모양으로 단검을 던져 전방의 모든 적을 타격하고 방어력을 더 오래 찢어놓습니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\General\Knives\party_rogue_general_knives_upgrade3_abilitydata.xml
@@ -1489,11 +1574,14 @@ msgstr ""
 #. DA3\Party\Rogue\General\Miasma\party_rogue_general_miasma_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\General\Miasma\party_rogue_general_miasma_abilitydata.xml:BWActivatedAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00042575"
 msgid ""
 "You unleash a cloud of toxic dust that damages all enemies that remain in the area.\n"
 "\n"
 msgstr ""
+"주위의 모든 적에 피해를 입히는 독성 가루를 뿌립니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\General\Miasma\party_rogue_general_miasma_abilitydata.xml
@@ -1507,11 +1595,14 @@ msgstr ""
 #. DA3\Party\Rogue\General\Miasma\party_rogue_general_miasma_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\General\Miasma\party_rogue_general_miasma_upgrade1_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00042577"
 msgid ""
 "Toxic Cloud has a shorter cooldown time and now also poisons enemies in the area.\n"
 "\n"
 msgstr ""
+"독안개의 재사용 대기시간이 감소하고, 범위 내 적들을 중독시킵니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\General\Miasma\party_rogue_general_miasma_upgrade1_abilitydata.xml
@@ -1597,11 +1688,14 @@ msgstr ""
 #. DA3\Party\Rogue\General\SleepDust\party_rogue_general_sleepdust_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\General\SleepDust\party_rogue_general_sleepdust_abilitydata.xml:BWActivatedAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0004259b"
 msgid ""
 "You throw a handful of dosed dust into an enemy's face, putting them to sleep for a short time.\n"
 "\n"
 msgstr ""
+"약 가루 한 웅큼을 적의 얼굴에 던져버립니다. 적은 잠시동안 수면 상태에 빠집니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\General\SleepDust\party_rogue_general_sleepdust_abilitydata.xml
@@ -1615,11 +1709,14 @@ msgstr ""
 #. DA3\Party\Rogue\General\SleepDust\party_rogue_general_sleepdust_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\General\SleepDust\party_rogue_general_sleepdust_upgrade1_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0004259d"
 msgid ""
 "Enemies affected by Knockout Powder sleep longer and are slow to wake up after being damaged.\n"
 "\n"
 msgstr ""
+"수면 가루에 맞은 적은 더 오래 잠들고, 피해를 입어도 일어나지 않습니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\General\SleepDust\party_rogue_general_sleepdust_upgrade1_abilitydata.xml
@@ -1644,11 +1741,14 @@ msgstr ""
 #. DA3\Party\Rogue\General\SleepDust\party_rogue_general_sleepdust_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\General\SleepDust\party_rogue_general_sleepdust_upgrade2_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0004764d"
 msgid ""
 "Knockout Powder does not last as long, but enemies take massive damage if they wake up naturally.\n"
 "\n"
 msgstr ""
+"수면 가루의 지속 시간이 더 짧아지지만, 스스로 깨어난 적은 엄청난 피해를 입습니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\General\SleepDust\party_rogue_general_sleepdust_upgrade2_abilitydata.xml
@@ -1736,11 +1836,14 @@ msgstr "은신"
 #. DA3\Party\Rogue\General\Stealth\party_rogue_general_stealth_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\General\Stealth\party_rogue_general_stealth_upgrade1_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00042590"
 msgid ""
 "You live in the darkness. Entering stealth is now instant and removes all debilitating effects on you. While in stealth, you can even pass through enemies without being detected.\n"
 "\n"
 msgstr ""
+"어둠이 곧 집입니다. 즉시 은신에 돌입하며 모든 해로운 효과가 제거됩니다. 은신 중에는 들키지 않고 적을 통과해 지나갈 수도 있습니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\General\Stealth\party_rogue_general_stealth_upgrade1_abilitydata.xml
@@ -1754,11 +1857,14 @@ msgstr ""
 #. DA3\Party\Rogue\General\Stealth\party_rogue_general_stealth_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\General\Stealth\party_rogue_general_stealth_upgrade2_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00047644"
 msgid ""
 "You remain in stealth for a short time after attacking or taking damage.\n"
 "\n"
 msgstr ""
+"공격하거나 피해를 입어도 잠시동안 은신이 풀리지 않습니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\General\Stealth\party_rogue_general_stealth_upgrade2_abilitydata.xml
@@ -1772,19 +1878,23 @@ msgstr ""
 #. DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_abilitydata.xml:BWActivatedAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00047684"
 msgid ""
 "You launch a surprise attack on your target. If you strike an enemy that did not have you targeted, you regain stamina.\n"
 "\n"
 msgstr ""
+"적을 기습합니다. 다른 대상을 공격 중인 적을 타격했다면, 지구력을 회복합니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_abilitydata.xml:BWActivatedAbility/AbilityNameReference
+#, fuzzy
 msgctxt "0x000425a6"
 msgid "Shadow Strike"
-msgstr ""
+msgstr "그림자 강타"
 
 #. FILE:
 #. DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_abilitydata.xml
@@ -1830,11 +1940,14 @@ msgstr ""
 #. DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_upgrade2_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00047686"
 msgid ""
 "You know how to strike without being seen, even at a distance. You can now use Shadow Strike against ranged targets.\n"
 "\n"
 msgstr ""
+"멀리서도 보이지 않고 공격하는 법을 알아냅니다. 멀리 떨어진 적에게 그림자 강타를 사용할 수 있습니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_upgrade2_abilitydata.xml
@@ -1848,11 +1961,14 @@ msgstr ""
 #. DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_upgrade_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00047687"
 msgid ""
 "Shadow Strike now hits harder if you are in stealth or haven't taken damage recently.\n"
 "\n"
 msgstr ""
+"은신 중이거나 최근 피해를 입지 않았다면 그림자 강타가 더 강력해집니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_upgrade_abilitydata.xml
@@ -1939,11 +2055,14 @@ msgstr ""
 #. DA3\Party\Rogue\Passives\Ambush\party_rogue_passive_ambush_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Passives\Ambush\party_rogue_passive_ambush_abilitydata.xml:BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x000425a1"
 msgid ""
 "While you're in stealth and shortly after leaving it, your attacks ignore some of your target's armor.\n"
 "\n"
 msgstr ""
+"은신 중이거나 갓 은신에서 벗어났다면, 가하는 공격이 대상의 방어력을 약간 무시합니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Passives\Ambush\party_rogue_passive_ambush_abilitydata.xml
@@ -2079,11 +2198,14 @@ msgstr ""
 #. DA3\Party\Rogue\Passives\Evasion\party_rogue_passive_evasion_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Passives\Evasion\party_rogue_passive_evasion_abilitydata.xml:BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00042599"
 msgid ""
 "They can't hit what they can't see. Your deceptive fighting style gives you a chance to dodge enemy attacks, taking no damage.\n"
 "\n"
 msgstr ""
+"보이지 않으면 때릴 수도 없습니다. 교묘하게 전투하며 때로는 적의 공격을 회피합니다. 회피한 공격에는 피해를 입지 않습니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Passives\Evasion\party_rogue_passive_evasion_abilitydata.xml
@@ -2097,11 +2219,14 @@ msgstr ""
 #. DA3\Party\Rogue\Passives\FocusFire\party_rogue_passive_focusfire_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Passives\FocusFire\party_rogue_passive_focusfire_abilitydata.xml:BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0004254e"
 msgid ""
 "If the first arrow doesn't kill them, the tenth might. Each consecutive hit with a bow attack does progressively more damage to the target.\n"
 "\n"
 msgstr ""
+"화살 한 발에 쓰러지지 않는다면, 열 발을 쏘면 되죠. 연속해서 활 공격을 가하면 점점 더 많은 피해를 입힙니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Passives\FocusFire\party_rogue_passive_focusfire_abilitydata.xml
@@ -2126,11 +2251,14 @@ msgstr ""
 #. DA3\Party\Rogue\Passives\Focus\party_rogue_passive_focus_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Passives\Focus\party_rogue_passive_focus_abilitydata.xml:BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00042581"
 msgid ""
 "The worst mistake your enemies can make is to let you see them flinch. Whenever you score a critical hit, you regenerate stamina.\n"
 "\n"
 msgstr ""
+"당신 앞에서 움찔하는 건 크나큰 실수입니다. 치명타를 가할 때마다 지구력을 회복합니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Passives\Focus\party_rogue_passive_focus_abilitydata.xml
@@ -2162,11 +2290,14 @@ msgstr ""
 #. DA3\Party\Rogue\Passives\HighGround\party_rogue_passive_highground_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Passives\HighGround\party_rogue_passive_highground_abilitydata.xml:BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00042561"
 msgid ""
 "You do more damage when firing from elevation.\n"
 "\n"
 msgstr ""
+"높은 곳에서는 가하는 피해량이 증가합니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Passives\HighGround\party_rogue_passive_highground_abilitydata.xml
@@ -2191,11 +2322,14 @@ msgstr ""
 #. DA3\Party\Rogue\Passives\Mobility\party_rogue_passive_mobility_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Passives\Mobility\party_rogue_passive_mobility_abilitydata.xml:BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00042551"
 msgid ""
 "You can move faster while firing without sacrificing accuracy.\n"
 "\n"
 msgstr ""
+"사격 중에 정확도를 잃지 않으면서 더 빠르게 움직일 수 있습니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Passives\Mobility\party_rogue_passive_mobility_abilitydata.xml
@@ -2238,11 +2372,14 @@ msgstr ""
 #. DA3\Party\Rogue\Passives\PoisonousMist\party_rogue_passive_poisonousmist_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Passives\PoisonousMist\party_rogue_passive_poisonousmist_abilitydata.xml:BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0004257f"
 msgid ""
 "Your poisons curdle the blood of your targets. Enemies that die while poisoned explode in a shower of toxic mist.\n"
 "\n"
 msgstr ""
+"독이 대상의 피를 응고시킵니다. 중독된 상태로 죽는 적은 폭발하여 맹독성 안개를 뿌립니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Passives\PoisonousMist\party_rogue_passive_poisonousmist_abilitydata.xml
@@ -2256,11 +2393,14 @@ msgstr ""
 #. DA3\Party\Rogue\Passives\Precision\party_rogue_passive_precision_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Passives\Precision\party_rogue_passive_precision_abilitydata.xml:BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00042564"
 msgid ""
 "You've learned to pick apart enemies that are still unwounded and unwary. You do more damage to enemies that are only lightly injured.\n"
 "\n"
 msgstr ""
+"다치지 않은 적들을 골라내는 능력을 기릅니다. 심하게 다치지 않은 적에게 가하는 피해량이 증가합니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Passives\Precision\party_rogue_passive_precision_abilitydata.xml
@@ -2324,11 +2464,14 @@ msgstr ""
 #. DA3\Party\Rogue\Passives\SharpenedWeaponry\party_rogue_passive_sharpenedweaponry_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Passives\SharpenedWeaponry\party_rogue_passive_sharpenedweaponry_abilitydata.xml:BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00042573"
 msgid ""
 "Your critical hits tear through enemy armor, leaving it sundered for a short time.\n"
 "\n"
 msgstr ""
+"치명타가 적의 방어력을 갈라냅니다. 적은 잠시동안 찢김 효과를 입습니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Passives\SharpenedWeaponry\party_rogue_passive_sharpenedweaponry_abilitydata.xml
@@ -2381,11 +2524,14 @@ msgstr ""
 #. DA3\Party\Rogue\Passives\Subtlety\party_rogue_passive_subtlety_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Passives\Subtlety\party_rogue_passive_subtlety_abilitydata.xml:BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00042596"
 msgid ""
 "Enemies are likely to overlook you in combat, much to their regret. This is especially true if you're flanking them.\n"
 "\n"
 msgstr ""
+"애석하게도 전투 중인 적이 당신을 간과하는군요. 측후방에서 공격한다면 더더욱 그러합니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Passives\Subtlety\party_rogue_passive_subtlety_abilitydata.xml
@@ -2457,11 +2603,14 @@ msgstr ""
 #. DA3\Party\Rogue\Passives\Toxicity\party_rogue_passive_toxicity_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Passives\Toxicity\party_rogue_passive_toxicity_abilitydata.xml:BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00042571"
 msgid ""
 "All of your sunder and poison effects last longer as you make more potent toxins and uglier wounds.\n"
 "\n"
 msgstr ""
+"더 강력한 독을 제조하고 더 심각한 상처를 남깁니다. 가하는 찢음 효과와 중독 효과가 더 오래 지속됩니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Passives\Toxicity\party_rogue_passive_toxicity_abilitydata.xml
@@ -2522,11 +2671,14 @@ msgstr ""
 #. DA3\Party\Rogue\Passives\TwistTheKnife\party_rogue_passive_twisttheknife_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Passives\TwistTheKnife\party_rogue_passive_twisttheknife_abilitydata.xml:BWPassiveAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x000424e4"
 msgid ""
 "When their hearts aren't in the fight, it's almost too easy. Your attacks on panicked or sleeping enemies are automatically critical hits.\n"
 "\n"
 msgstr ""
+"되받아치지 않는 적은 재미도 없습니다. 공황 상태이거나 수면 중인 적에게는 반드시 치명타를 가합니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Passives\TwistTheKnife\party_rogue_passive_twisttheknife_abilitydata.xml
@@ -2731,11 +2883,14 @@ msgstr ""
 #. DA3\Party\Rogue\Support\Evade\Upgrade1\party_rogue_support_evade_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\Support\Evade\Upgrade1\party_rogue_support_evade_upgrade1_abilitydata.xml:BWAbilityUpgrade/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00042594"
 msgid ""
 "Enemies will swear you're still there, attacking empty air and hurting nobody but themselves as you leap away.\n"
 "\n"
 msgstr ""
+"적은 아직도 당신이 거기 있는 줄 압니다. 허공에 대고 공격을 가해 스스로에게 피해를 입힙니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Support\Evade\Upgrade1\party_rogue_support_evade_upgrade1_abilitydata.xml
@@ -2767,11 +2922,14 @@ msgstr ""
 #. DA3\Party\Rogue\Support\Evade\party_rogue_support_evade_dir_abilitydata.xml
 #. PATH: BWDirectionalAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Support\Evade\party_rogue_support_evade_dir_abilitydata.xml:BWDirectionalAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x00042592"
 msgid ""
 "You leap away from incoming attacks, putting yourself where you need to be to win this fight.\n"
 "\n"
 msgstr ""
+"뛰어올라 적의 공격을 피하고 공격적인 위치를 선정합니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Rogue\Support\Evade\party_rogue_support_evade_dir_abilitydata.xml
@@ -5340,9 +5498,10 @@ msgstr ""
 #. DA3\Party\Warrior\WeaponShield\Revenge\party_warrior_weaponshield_revenge_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\WeaponShield\Revenge\party_warrior_weaponshield_revenge_upgrade1_abilitydata.xml:BWAbilityUpgrade/AbilityNameReference
+#, fuzzy
 msgctxt "0x00042821"
 msgid "Sweet Revenge"
-msgstr ""
+msgstr "달콤한 복수"
 
 #. FILE:
 #. DA3\Party\Warrior\WeaponShield\Revenge\party_warrior_weaponshield_revenge_upgrade2_abilitydata.xml
@@ -5358,27 +5517,33 @@ msgstr ""
 #. DA3\Party\Warrior\WeaponShield\Revenge\party_warrior_weaponshield_revenge_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\WeaponShield\Revenge\party_warrior_weaponshield_revenge_upgrade2_abilitydata.xml:BWAbilityUpgrade/AbilityNameReference
+#, fuzzy
 msgctxt "0x00048255"
 msgid "Cruel Revenge"
-msgstr ""
+msgstr "잔혹한 복수"
 
 #. FILE:
 #. DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_abilitydata.xml:BWActivatedAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x0004280b"
 msgid ""
 "You stand firm and block incoming attacks at the cost of stamina. Each block adds to your guard. You move much more slowly while sustaining this ability.\n"
 "\n"
 msgstr ""
+"지구력을 소비해 공격을 막아내며 굳세게 버팁니다. 공격을 막아낼 때마다 방어도가 누적됩니다. 방패의 벽을 유지할 동안 이동 속도가 크게 "
+"감소합니다.\n"
+"\n"
 
 #. FILE:
 #. DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_abilitydata.xml:BWActivatedAbility/AbilityNameReference
+#, fuzzy
 msgctxt "0x0004280a"
 msgid "Shield Wall"
-msgstr ""
+msgstr "방패의 벽"
 
 #. FILE:
 #. DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_upgrade1_abilitydata.xml
@@ -5394,9 +5559,10 @@ msgstr ""
 #. DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_upgrade1_abilitydata.xml:BWAbilityUpgrade/AbilityNameReference
+#, fuzzy
 msgctxt "0x0004280c"
 msgid "Chevalier's Step"
-msgstr ""
+msgstr "기사의 발걸음"
 
 #. FILE:
 #. DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_upgrade2_abilitydata.xml
@@ -5412,9 +5578,10 @@ msgstr ""
 #. DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_upgrade2_abilitydata.xml:BWAbilityUpgrade/AbilityNameReference
+#, fuzzy
 msgctxt "0x0004824d"
 msgid "Immovable Object"
-msgstr ""
+msgstr "부동의 물체"
 
 #. FILE:
 #. DA3\Party\general\AI\BehaviorSettings\party_behavior_enabletactics.xml
@@ -5756,7 +5923,6 @@ msgstr "폭풍"
 #. DA3\Party\general\AbilityTrees\Mage_KnightEnchanter_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 #: DA3\Party\general\AbilityTrees\Mage_KnightEnchanter_Spec_AbilityTree.xml:BWAbilityTree/TreeDescriptionReference
-#, fuzzy
 msgctxt "0x00043aca"
 msgid ""
 "These rare mages received special dispensation from the Chantry to serve in "
@@ -5776,7 +5942,6 @@ msgstr ""
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Primal_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 #: DA3\Party\general\AbilityTrees\Mage_Primal_AbilityTree.xml:BWAbilityTree/TreeDescriptionReference
-#, fuzzy
 msgctxt "0x00043ac7"
 msgid ""
 "Masters of this school of magic summon cold that bites deeper than the "
@@ -5801,6 +5966,8 @@ msgid ""
 " energies in unpredictable ways. He can pull matter from the Fade and even "
 "twist the Veil into a weapon to hamper his opponents."
 msgstr ""
+"영계에 대한 수년간의 연구 끝에 솔라스에게 생각지도 못한 방식으로 영계의 힘을 다룰 수 있는 능력을 얻게 됐습니다. 솔라스는 영계에서 "
+"물질을 끌어낼 수 있고 심지어 장막을 무기로 변위 시켜 상대방을 방해할 수 있습니다."
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Solas_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeNameReference
@@ -5818,6 +5985,8 @@ msgid ""
 " the essence of the Fade itself. Their spells disrupt hostile magic, create "
 "defensive barriers, and even heal injuries."
 msgstr ""
+"영혼 학파에 통달한 마법사들은 영계 자체의 본질과 영혼을 불러내 수호할 수 있는 마법을 사용합니다. 이 마법사들은 공격 마법을 분산시키고 "
+"방어막을 만들 수 있으며 부상 또한 치료할 수 있습니다."
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Spirit_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeNameReference
@@ -5834,7 +6003,7 @@ msgid ""
 "These mages draw upon the force of the Fade, either pulling matter from the "
 "Fade to attack or twisting the Veil itself into a weapon to stagger or crush"
 " their enemies."
-msgstr ""
+msgstr "이 마법사들은 영계로부터 물질을 끌어와 공격하거나 장막을 비틀어 무기로 활용해 적을 쓸어버리거나 비틀거리게 할 수 있습니다."
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Vivienne_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
@@ -5855,13 +6024,15 @@ msgid ""
 "wreathe them in frost or flame. Fast, chaotic, and possibly mad, they wade "
 "into the fight and dare enemies to face the storm. "
 msgstr ""
+"이 예측불허의 달인들은 연금술 화학 혼합물을 싸늘한 냉기나 타오르는 불꽃으로 변화시키는데 능통합니다. 혼란, 신속함, 약간의 광기, 이 "
+"전문가들은 싸움에 뛰어들어 적들에게 폭풍을 선사해줍니다. "
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Alchemist_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeNameReference
 #: DA3\Party\general\AbilityTrees\Rogue_Alchemist_Spec_AbilityTree.xml:BWAbilityTree/TreeNameReference
 msgctxt "0x00042389"
 msgid "Tempest"
-msgstr ""
+msgstr "돌풍"
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Archery_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
@@ -5872,13 +6043,15 @@ msgid ""
 "that attempt to close, put arrows or bolts through multiple foes, and even "
 "unleash explosive shots to devastating effect."
 msgstr ""
+"원거리 교전에 통달한 전문가입니다. 가까이 붙으려는 적을 떨쳐내거나, 화살이나 볼트를 다수의 적에게 꽂아줄 수 있습니다, 심지어 엄청난 "
+"피해를 주기 위해 폭발물을 쏠 수도 있습니다."
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Archery_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeNameReference
 #: DA3\Party\general\AbilityTrees\Rogue_Archery_AbilityTree.xml:BWAbilityTree/TreeNameReference
 msgctxt "0x0002caf3"
 msgid "Archery"
-msgstr ""
+msgstr "궁수"
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Assassin_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
@@ -5890,13 +6063,15 @@ msgid ""
 " undetected, or indirect kills that eliminate targets while the assassin is "
 "safely away."
 msgstr ""
+"어떤 도적이든 목표를 죽일 수는 있습니다, 하지만 암살자들은 죽음을 예술의 형태로 승화해냅니다. 치명적이고, 신속하게 목표를 죽이고 "
+"아무도 눈치채지 못한 채 그림자 속으로 유유히 빠져나가거나, 간접적인 방식으로 목표를 제거하는 법을 통달했습니다."
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Assassin_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeNameReference
 #: DA3\Party\general\AbilityTrees\Rogue_Assassin_Spec_AbilityTree.xml:BWAbilityTree/TreeNameReference
 msgctxt "0x0002caf2"
 msgid "Assassin"
-msgstr ""
+msgstr "암살자"
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Cole_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
@@ -5916,30 +6091,32 @@ msgid ""
 "Experts in this style are fast and deadly, their blades slicing through "
 "enemies' defenses—and throats—before they have time to react."
 msgstr ""
+"신속함과 치명적인 형태의 전투에 통달한 전문가입니다, 이들의 칼날들은 적이 반응하기도 전에 방어를 뚫고 목을 썰어 버릴 수 있습니다."
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_DualWeapon_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeNameReference
 #: DA3\Party\general\AbilityTrees\Rogue_DualWeapon_AbilityTree.xml:BWAbilityTree/TreeNameReference
 msgctxt "0x0002caf1"
 msgid "Double Daggers"
-msgstr ""
+msgstr "쌍수 단검"
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_FieldControl_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 #: DA3\Party\general\AbilityTrees\Rogue_FieldControl_AbilityTree.xml:BWAbilityTree/TreeDescriptionReference
+#, fuzzy
 msgctxt "0x00043acf"
 msgid ""
 "Experts in these talents specialize in poisons and traps. Their dirty tricks"
 " leave enemies sick and limping, easy pickings for a sharp blade or a barbed"
 " arrow."
-msgstr ""
+msgstr "독과 함정에 능통한 전문가들입니다. 치사한 속임수로 적들을 약화시키거나 불구로 만듭니다, 또한"
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_FieldControl_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeNameReference
 #: DA3\Party\general\AbilityTrees\Rogue_FieldControl_AbilityTree.xml:BWAbilityTree/TreeNameReference
 msgctxt "0x0002caf0"
 msgid "Sabotage"
-msgstr ""
+msgstr "사보타주"
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Sera_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
@@ -5960,13 +6137,15 @@ msgid ""
 "safety, disappearing into the shadows, or tricking enemies into slashing at "
 "empty air, they are never where anyone expects them to be."
 msgstr ""
+"적을 교란하는 데 능통한 전문가입니다. 어떤 상황이든 안전한 곳으로 도약해 그림자 속으로 사라질 수 있으며, 적을 속여 허공이나 베게 할 "
+"수 있습니다, 누구도 전장 속에 이 전문가들이 어디에 있는지 예상할 수 없습니다."
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Support_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeNameReference
 #: DA3\Party\general\AbilityTrees\Rogue_Support_AbilityTree.xml:BWAbilityTree/TreeNameReference
 msgctxt "0x0002caef"
 msgid "Subterfuge"
-msgstr ""
+msgstr "속임수"
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Tinker_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
