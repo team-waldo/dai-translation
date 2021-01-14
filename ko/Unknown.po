@@ -1,6 +1,14 @@
 #
 msgid ""
-msgstr "Language: ko\n"
+msgstr ""
+"PO-Revision-Date: 2021-01-14 17:02+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/dai/unknown/ko/>\n"
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgctxt "0x00000277"
 msgid "This is a multiline string test"
@@ -23906,7 +23914,7 @@ msgstr ""
 
 msgctxt "0x00044189"
 msgid "Applies the following to any crafted weapon or armor:"
-msgstr ""
+msgstr "제작한 무기 혹은 방어구에 다음 효과 적용:"
 
 #. STRING 262098(0x0003ffd2) : Tier 2 <font color="#2E9AFE">Masterwork</font> Leather
 #. STRING 278921(0x00044189) : Applies the following to any crafted weapon or armor:
@@ -23917,6 +23925,9 @@ msgid ""
 "{string}278921{/string}\n"
 "{string}278188{/string}"
 msgstr ""
+"{string}262098{/string}\n"
+"{string}278921{/string}\n"
+"{string}278188{/string}"
 
 #. STRING 262097(0x0003ffd1) : Tier 1 <font color="#2E9AFE">Masterwork</font> Metal
 #. STRING 278921(0x00044189) : Applies the following to any crafted weapon or armor:
@@ -23927,6 +23938,9 @@ msgid ""
 "{string}278921{/string}\n"
 "{string}278187{/string}"
 msgstr ""
+"{string}262097{/string}\n"
+"{string}278921{/string}\n"
+"{string}278187{/string}"
 
 #. STRING 262093(0x0003ffcd) : Tier 2 <font color="#2E9AFE">Masterwork</font> Metal
 #. STRING 278921(0x00044189) : Applies the following to any crafted weapon or armor:
@@ -23937,6 +23951,9 @@ msgid ""
 "{string}278921{/string}\n"
 "{string}278188{/string}"
 msgstr ""
+"{string}262093{/string}\n"
+"{string}278921{/string}\n"
+"{string}278188{/string}"
 
 #. STRING 262100(0x0003ffd4) : Tier 3 <font color="#2E9AFE">Masterwork</font> Metal
 #. STRING 278921(0x00044189) : Applies the following to any crafted weapon or armor:
@@ -23947,6 +23964,9 @@ msgid ""
 "{string}278921{/string}\n"
 "{string}278189{/string}"
 msgstr ""
+"{string}262100{/string}\n"
+"{string}278921{/string}\n"
+"{string}278189{/string}"
 
 msgctxt "0x0004420b"
 msgid "{CUSTOM0} {CUSTOM1}"
