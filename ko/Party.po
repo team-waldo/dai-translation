@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-14 17:02+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-01-16 12:12+0000\n"
+"Last-Translator: 큡수뎃 <quoobt@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -33,7 +33,7 @@ msgstr ""
 #: DA3\Party\Archived\Rogue\General\PartyStealth\party_rogue_general_partystealth_abilitydata.xml:18
 msgctxt "0x00042ab0"
 msgid "<font color=\"#BAAB7B\">This ability consumes and is powered by focus.</font>\n"
-msgstr ""
+msgstr "<font color=\"#BAAB7B\">이 능력은 집중도를 소모하여 발동됩니다.</font>\n"
 
 #. FILE: DA3\Party\Archived\Rogue\General\PartyStealth\party_rogue_general_partystealth_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -140,6 +140,8 @@ msgstr "<font color=\"#BAAB7B\">활 필요</font>\n"
 msgctxt "0x00042632"
 msgid "<font color=\"#BAAB7B\">Damage Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}% at {CUSTOM1} meters</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">추가 공격력: </font><font color=\"#F5ECCE\">{CUSTOM1} "
+"미터에서 {CUSTOM0}%</font>\n"
 
 #. FILE: DA3\Party\Rogue\Archery\ArrowOfSlaying\party_rogue_archery_arrowofslaying_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
@@ -151,6 +153,7 @@ msgstr "정밀한 기폭 능력 : 무능력한 적에게 콤보를 위해 사용
 #. FILE: DA3\Party\Rogue\Archery\ArrowOfSlaying\party_rogue_archery_arrowofslaying_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Rogue\Archery\ArrowOfSlaying\party_rogue_archery_arrowofslaying_upgrade1_abilitydata.xml:5
+#, fuzzy
 msgctxt "0x00042554"
 msgid "Archer's Lance"
 msgstr "궁수의 랜스"
@@ -196,7 +199,7 @@ msgstr "기본 공격"
 #: DA3\Party\Rogue\Archery\Basic\party_rogue_archery_basic_bianca_abilitydata.xml:10
 msgctxt "0x00026f57"
 msgid "Basic ranged attack."
-msgstr "기본 원거리 공격."
+msgstr "기본 원거리 공격입니다."
 
 #. FILE: DA3\Party\Rogue\Archery\Basic\party_rogue_archery_stance_power_attacks_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -210,7 +213,7 @@ msgstr "기본 공격"
 #: DA3\Party\Rogue\Archery\Basic\party_rogue_archery_stance_power_attacks_abilitydata.xml:10
 msgctxt "0x00026fc5"
 msgid "Basic ranged attack."
-msgstr "기본 원거리 공격."
+msgstr "기본 원거리 공격입니다."
 
 #. FILE: DA3\Party\Rogue\Archery\ExplosiveShot\party_rogue_archery_explosiveshot_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -261,6 +264,8 @@ msgstr ""
 msgctxt "0x00042633"
 msgid "<font color=\"#BAAB7B\">Damage Bonus per Target: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">대상 당 추가 피해량: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}%</font>\n"
 
 #. FILE: DA3\Party\Rogue\Archery\ExplosiveShot\party_rogue_archery_explosiveshot_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -368,6 +373,8 @@ msgstr ""
 msgctxt "0x0004383d"
 msgid "<font color=\"#BAAB7B\">Damage Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}% at full health</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">추가 피해량: </font><font color=\"#F5ECCE\">최대 체력일 시 "
+"{CUSTOM0}%</font>\n"
 
 #. FILE: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -456,6 +463,8 @@ msgstr ""
 msgctxt "0x0004268a"
 msgid "<font color=\"#BAAB7B\">Bonus Damage: </font><font color=\"#F5ECCE\">{CUSTOM0}% for every {CUSTOM1}% missing health</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">추가 피해: </font><font color=\"#F5ECCE\">{CUSTOM1}%의 잃은 "
+"체력 당 {CUSTOM0}%</font>\n"
 
 #. FILE: DA3\Party\Rogue\Assassin\HeartSeeker\party_rogue_assassin_heartseeker_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -513,8 +522,8 @@ msgid ""
 "You mark your enemy, and every hit on them adds part of its power to the mark's damage. Trigger your mark when you are ready, and watch them fall from injuries they never even noticed. You can manually trigger the mark early for bonus damage.\n"
 "\n"
 msgstr ""
-"당신의 적을 표식하고, 적중 할 때마다 표식의 피해에 힘의 일부를 추가합니다. 준비가 되었을 때 당신의 표식를 촉발하고 적들이 알아 "
-"차리지 못했던 부상으로 인해 나가떨어지는 것을 지켜보십시오.  추가 피해를 위해 표식을 수동으로 조기에 발동시킬 수 있습니다.\n"
+"당신의 적에게 표식을 남기고, 공격할 때마다 그 위력의 일부를 표식의 피해에 추가합니다. 원할 때 표식을 발동하여 적들이 알아차리지도 "
+"못했던 부상으로 인해 나가떨어지는 것을 지켜보십시오. 추가 피해를 위해 표식을 수동으로 조기에 발동시킬 수 있습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\Assassin\MarkOfDeath\party_rogue_assassin_markofdeath_abilitydata.xml
@@ -540,7 +549,7 @@ msgid ""
 "Mark of Death lasts even longer, but can no longer be manually triggered early for bonus damage.\n"
 "\n"
 msgstr ""
-"죽음의 징표는 더 오래 지속되지만 더 이상 추가 피해를 위해 조기에 수동으로 발동 할 수 없습니다.\n"
+"죽음의 징표가 더 오래 지속되지만, 더 이상 추가 피해를 위해 조기에 수동으로 발동할 수 없습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\Assassin\MarkOfDeath\party_rogue_assassin_markofdeath_upgrade1_abilitydata.xml
@@ -549,6 +558,8 @@ msgstr ""
 msgctxt "0x00042660"
 msgid "<font color=\"#BAAB7B\">Duration Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">추가 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
+"초</font>\n"
 
 #. FILE: DA3\Party\Rogue\Assassin\MarkOfDeath\party_rogue_assassin_markofdeath_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -1284,7 +1295,7 @@ msgstr ""
 #: DA3\Party\Rogue\General\ClassBonus\party_rogue_general_classbonus_abilitydata.xml:5
 msgctxt "0x00026ec2"
 msgid "Rogue Class Bonus"
-msgstr "로그 직업 보너스"
+msgstr "도적 직업 보너스"
 
 #. FILE: DA3\Party\Rogue\General\ClassBonus\party_rogue_general_classbonus_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -1361,7 +1372,7 @@ msgstr ""
 #: DA3\Party\Rogue\General\Knives\party_rogue_general_knives_upgrade2_abilitydata.xml:31
 msgctxt "0x00042d38"
 msgid "<font color=\"#BAAB7B\">This bonus stacks.</font>\n"
-msgstr ""
+msgstr "<font color=\"#BAAB7B\">이 보너스는 중첩됩니다.</font>\n"
 
 #. FILE: DA3\Party\Rogue\General\Knives\party_rogue_general_knives_upgrade3_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -1699,6 +1710,8 @@ msgid ""
 "If you hit an enemy with Shadow Strike and have not taken damage recently, you gain a major bonus to your guard.\n"
 "\n"
 msgstr ""
+"적을 그림자 강타로 공격했고 최근 피해를 입지 않았다면, 추가 방어도를 대량 획득합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_skirmisher_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
@@ -3439,7 +3452,7 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\RangedProtection\party_warrior_passive_rangedprotection_abilitydata.xml:5
 msgctxt "0x0004282e"
 msgid "Turn the Bolt"
-msgstr ""
+msgstr "화살 흘리기"
 
 #. FILE: DA3\Party\Warrior\Passives\RangedProtection\party_warrior_passive_rangedprotection_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3449,13 +3462,15 @@ msgid ""
 "Your expertise with the shield protects you against ranged attacks from the front.\n"
 "\n"
 msgstr ""
+"방패를 다루는 숙련도가 빛을 발해 정면에서 들어오는 원거리 공격의 피해량이 감소합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\Reaver\party_warrior_passive_reaver_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\Warrior\Passives\Reaver\party_warrior_passive_reaver_abilitydata.xml:5
 msgctxt "0x000428e2"
 msgid "Blood Frenzy"
-msgstr ""
+msgstr "피의 광란"
 
 #. FILE: DA3\Party\Warrior\Passives\Reaver\party_warrior_passive_reaver_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3465,29 +3480,34 @@ msgid ""
 "They thought you'd get weaker once they'd wounded you. They were very wrong.\n"
 "\n"
 msgstr ""
+"적들은 당신이 상처를 입으면 주춤하리라 생각했습니다. 이제 틀린 대가를 치러야죠.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\Savagery\party_warrior_passive_savagery_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\Warrior\Passives\Savagery\party_warrior_passive_savagery_abilitydata.xml:5
 msgctxt "0x0004287a"
 msgid "Coup de Grace"
-msgstr ""
+msgstr "최후의 일격"
 
 #. FILE: DA3\Party\Warrior\Passives\Savagery\party_warrior_passive_savagery_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\Warrior\Passives\Savagery\party_warrior_passive_savagery_abilitydata.xml:10
+#, fuzzy
 msgctxt "0x0004287b"
 msgid ""
 "You deal more damage against enemies that are stunned or knocked down. Better them than you.\n"
 "\n"
 msgstr ""
+"기절했거나 쓰러진 적들이 추가 피해를 받습니다. 당하는 입장보다는 훨씬 낫죠.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\ShieldSpecialization\party_warrior_passive_shieldspecialization_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\Warrior\Passives\ShieldSpecialization\party_warrior_passive_shieldspecialization_abilitydata.xml:5
 msgctxt "0x00042830"
 msgid "Turn the Blade"
-msgstr ""
+msgstr "칼날 흘리기"
 
 #. FILE: DA3\Party\Warrior\Passives\ShieldSpecialization\party_warrior_passive_shieldspecialization_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3497,13 +3517,15 @@ msgid ""
 "Any blow you can see, you can turn aside. All damage coming from the front is reduced.\n"
 "\n"
 msgstr ""
+"시야에 포착되는 일격들을 흘려냅니다. 정면에서 들어오는 공격의 피해량이 감소합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\Sunder\party_warrior_passive_sunder_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\Warrior\Passives\Sunder\party_warrior_passive_sunder_abilitydata.xml:5
 msgctxt "0x0004284d"
 msgid "Guard-Smasher"
-msgstr ""
+msgstr "방어 격파"
 
 #. FILE: DA3\Party\Warrior\Passives\Sunder\party_warrior_passive_sunder_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -4028,7 +4050,7 @@ msgstr ""
 #: DA3\Party\Warrior\TwoHanded\Counter\party_warrior_twohanded_counter_abilitydata.xml:5
 msgctxt "0x00042848"
 msgid "Block and Slash"
-msgstr ""
+msgstr "막고 가르기"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Counter\party_warrior_twohanded_counter_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -4051,7 +4073,7 @@ msgstr ""
 #: DA3\Party\Warrior\TwoHanded\Counter\party_warrior_twohanded_counter_upgrade1_abilitydata.xml:5
 msgctxt "0x0004284b"
 msgid "Flawless Defense"
-msgstr ""
+msgstr "완벽한 방어"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Counter\party_warrior_twohanded_counter_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4480,6 +4502,8 @@ msgid ""
 "After Grappling Chain drags an opponent to you, you stun them with a hard kick.\n"
 "\n"
 msgstr ""
+"갈고리 사슬로 대상을 끌어온 후, 적을 세게 걷어차 기절시킵니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Vanguard\GetOverHere\Upgrade1\party_warrior_vanguard_getoverhere_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -4496,13 +4520,15 @@ msgid ""
 "Grappling Chain now pulls in all enemies near your target.\n"
 "\n"
 msgstr ""
+"갈고리 사슬이 대상 주변의 적들까지 끌어옵니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Vanguard\GetOverHere\party_warrior_vanguard_getoverhere_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\Vanguard\GetOverHere\party_warrior_vanguard_getoverhere_abilitydata.xml:5
 msgctxt "0x00042876"
 msgid "Grappling Chain"
-msgstr ""
+msgstr "갈고리 사슬"
 
 #. FILE: DA3\Party\Warrior\Vanguard\GetOverHere\party_warrior_vanguard_getoverhere_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -4512,6 +4538,8 @@ msgid ""
 "With a hooked chain and a lot of muscle, you drag your target into arm's reach.\n"
 "\n"
 msgstr ""
+"힘껏 갈고리 사슬을 던져 지정 대상을 근거리로 낚아채 옵니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\ArmorBreak\party_warrior_weaponshield_armorbreak_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -4696,7 +4724,7 @@ msgstr ""
 #: DA3\Party\Warrior\WeaponShield\Revenge\party_warrior_weaponshield_revenge_abilitydata.xml:5
 msgctxt "0x0004280e"
 msgid "Payback Strike"
-msgstr ""
+msgstr "앙갚음"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\Revenge\party_warrior_weaponshield_revenge_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -4706,6 +4734,9 @@ msgid ""
 "You recover from any disabled condition and lash out with a great blow against nearby enemies. If you've recently taken damage, you hit that much harder and stagger your foes.\n"
 "\n"
 msgstr ""
+"모든 상태 이상에서 벗어나 가까운 적들을 향해 큰 일격을 가합니다. 최근에 받은 피해가 있다면, 피해량이 증가하고 피격된 적들을 "
+"경직시킵니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\Revenge\party_warrior_weaponshield_revenge_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
@@ -4730,6 +4761,8 @@ msgid ""
 "You do more damage with Payback Strike, and if you've recently taken damage, you also stun taunted enemies.\n"
 "\n"
 msgstr ""
+"앙갚음의 피해량이 증가합니다. 최근에 받은 피해가 있다면, 도발에 걸린 적들을 기절시킵니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\Revenge\party_warrior_weaponshield_revenge_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -4747,31 +4780,31 @@ msgid ""
 "Payback Strike now taunts enemies.\n"
 "\n"
 msgstr ""
+"앙갚음이 추가로 적들을 도발합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_abilitydata.xml:5
-#, fuzzy
 msgctxt "0x0004280a"
 msgid "Shield Wall"
-msgstr "방패의 벽"
+msgstr "방패 벽"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x0004280b"
 msgid ""
 "You stand firm and block incoming attacks at the cost of stamina. Each block adds to your guard. You move much more slowly while sustaining this ability.\n"
 "\n"
 msgstr ""
-"지구력을 소비해 공격을 막아내며 굳세게 버팁니다. 공격을 막아낼 때마다 방어도가 누적됩니다. 방패의 벽을 유지할 동안 이동 속도가 크게 감소합니다.\n"
+"지구력을 소비해 공격을 막아내며 굳세게 버팁니다. 공격을 막아낼 때마다 방어도가 누적됩니다. 방패 벽을 유지할 동안 이동 속도가 크게 "
+"감소합니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_upgrade1_abilitydata.xml:5
-#, fuzzy
 msgctxt "0x0004280c"
 msgid "Chevalier's Step"
 msgstr "기사의 발걸음"
@@ -4784,11 +4817,12 @@ msgid ""
 "When you use Shield Wall, your movement is not slowed as much. You also protect nearby allies by giving them improved armor.\n"
 "\n"
 msgstr ""
+"방패 벽을 유지할 때의 이동 속도가 완화됩니다. 추가로 아군의 방어력을 강화해 주변을 보호합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_upgrade2_abilitydata.xml:5
-#, fuzzy
 msgctxt "0x0004824d"
 msgid "Immovable Object"
 msgstr "부동의 물체"
@@ -4801,6 +4835,8 @@ msgid ""
 "Blocking with Shield Wall costs less stamina and generates more guard, but you cannot move while blocking.\n"
 "\n"
 msgstr ""
+"방패 벽으로 공격을 방어할 때 얻는 방어도가 증가하고 지구력 소비가 감소하지만, 방어 자세로 움직일 수 없습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\general\AI\BehaviorSettings\party_behavior_enabletactics.xml
 #. PATH: CharacterBehaviorSetting/SettingName
@@ -4828,7 +4864,7 @@ msgstr "꺼짐"
 #: DA3\Party\general\AI\BehaviorSettings\party_behavior_enabletactics.xml:36
 msgctxt "0x0004034f"
 msgid "Not in Tactical Camera"
-msgstr ""
+msgstr "전술 시점에서 적용 안됨"
 
 #. FILE: DA3\Party\general\AI\BehaviorSettings\party_behavior_enabletactics.xml
 #. PATH: CharacterBehaviorSetting/Description
@@ -5010,7 +5046,7 @@ msgstr "다른 파티원의 표적을 따르거나 다른 파티원에 대한 �
 #: DA3\Party\general\AbilityTrees\General_Inquisitor_AbilityTree.xml:5
 msgctxt "0x00043726"
 msgid "Inquisitor"
-msgstr ""
+msgstr "인퀴지터"
 
 #. FILE: DA3\Party\general\AbilityTrees\General_Inquisitor_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
@@ -5018,6 +5054,8 @@ msgstr ""
 msgctxt "0x00043727"
 msgid "In addition to sealing and controlling rifts, your mark makes you a leader in the eyes of the people, improving your ability to command the party and help allies work together as a team."
 msgstr ""
+"균열을 봉쇄하고 제어하는 것 외에도, 당신의 표식은 당신을 사람들의 눈에 리더로 만들어 파티를 지휘하고 동맹군이 팀으로 함께 일할 수 "
+"있도록 도와줍니다."
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Bloodmage_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeNameReference
@@ -5040,6 +5078,8 @@ msgstr "이 마법사들은 죽은 자들의 영혼을 끌어내 활용합니다
 msgctxt "0x00044825"
 msgid "Dorian is well-versed in spells that bind and manipulate Fade spirits, a practice that does not have the same stigma in the Tevinter Imperium as it does elsewhere in Thedas."
 msgstr ""
+"도리안은 테다스의 그 어떤 다른 곳과 같이 티빈테 제국에서 낙인이 없는 관행이라 할 수 있는 영계의 영혼을 봉인하고 조종하는 주문에 "
+"능숙합니다."
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Elemental_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeNameReference
@@ -5074,7 +5114,7 @@ msgstr "폭풍 학파를 통달한 마법사는 천둥과 번개의 힘을 부�
 #: DA3\Party\general\AbilityTrees\Mage_KnightEnchanter_Spec_AbilityTree.xml:5
 msgctxt "0x0002b8af"
 msgid "Knight-Enchanter"
-msgstr ""
+msgstr "마법 기사"
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_KnightEnchanter_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
@@ -5140,6 +5180,8 @@ msgstr "이 마법사들은 영계로부터 물질을 끌어와 공격하거나 
 msgctxt "0x00044828"
 msgid "Whether it's high fashion or the battlefield, Vivienne prefers to be at the forefront and in control of everything around her. She will personally see order restored—by the blade, if necessary."
 msgstr ""
+"하이 패션이든 전장이든 비비엔은 가장 앞장서서 주변의 모든 것을 제어하는 것을 선호합니다. 그녀는 필요하다면, 직접 질서가 회복되는 것을 "
+"바라볼 것 입니다—그녀의 검에 의해서 말이죠."
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Alchemist_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeNameReference
@@ -5189,6 +5231,8 @@ msgstr "어떤 도적이든 목표를 죽일 수는 있습니다, 하지만 암�
 msgctxt "0x00044823"
 msgid "As a spirit dedicated to mercy, Cole is oddly suited to killing enemies with speed and precision. He can eliminate targets too dangerous to face directly with strikes they never even notice."
 msgstr ""
+"자비로움에 헌신하는 영혼으로서 콜은 이상하게도 빠르고 정확하게 적을 죽이는 데 적합합니다. 그는 직접 상대하기엔 너무 위험한 대상을 "
+"아무도 눈치채지 못하게 제거 할 수 있습니다."
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_DualWeapon_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeNameReference
@@ -5359,7 +5403,7 @@ msgctxt "0x00042ea8"
 msgid "Experts in this style are still on their feet after punishment that would kill their allies. They use their shield to protect themselves and stagger their enemies."
 msgstr ""
 "이 스타일의 전문가들은 전우들이 죽어나가는 고통 속에도 여전히 굳건하게 버티고 있습니다. 그들은 방패를 사용하여 스스로를 보호하고 적을 "
-"비틀거리게 합니다."
+"경직시킵니다."
 
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_Templar_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
@@ -5413,7 +5457,7 @@ msgstr ""
 #: DA3\Party\general\Passive\party_general_give_ability_point_passive_abilitydata.xml:5
 msgctxt "0x000426a4"
 msgid "Gain an ability point when equipped"
-msgstr ""
+msgstr "장비 할 때 하나의 능력 점수를 얻습니다"
 
 #. FILE: DA3\Party\general\Passive\party_general_respec_passive_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -5518,14 +5562,14 @@ msgstr "관통 화살"
 #: DA3\Party\general\Passive\unique_item_passive_chivalry_abilitydata.xml:5
 msgctxt "0x0004acec"
 msgid "Chivalry: you can deal damage only to enemies attacking you, but you deal more damage to them"
-msgstr ""
+msgstr "기사도: 자신을 공격하는 적에게만 피해를 줄 수 있지만 더 많은 피해를 줍니다"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_coldboost_t1_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_coldboost_t1_abilitydata.xml:5
 msgctxt "0x0004b24c"
 msgid "Cold-based abilities are slightly more powerful at the cost of a small amount of health."
-msgstr ""
+msgstr "냉기 기반 능력은 적은 양의 체력을 희생하면서 약간 더 강력합니다."
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_coldboost_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -5714,21 +5758,21 @@ msgstr ""
 #: DA3\Party\general\Passive\unique_item_passive_faststealth_abilitydata.xml:5
 msgctxt "0x00043e80"
 msgid "+25% faster movement speed when in stealth"
-msgstr ""
+msgstr "은신 상태에서 이동 속도 25% 증가"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_faststealth_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_faststealth_t2_abilitydata.xml:5
 msgctxt "0x00043e81"
 msgid "+50% faster movement speed when in stealth"
-msgstr ""
+msgstr "은신 상태에서 이동 속도 50% 증가"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_faststealth_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_faststealth_t3_abilitydata.xml:5
 msgctxt "0x00043e82"
 msgid "+75% faster movement speed when in stealth"
-msgstr ""
+msgstr "은신 상태에서 이동 속도 75% 증가"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_fireboost_t1_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -5763,294 +5807,294 @@ msgstr ""
 #: DA3\Party\general\Passive\unique_item_passive_focusgenerator_abilitydata.xml:5
 msgctxt "0x00043e83"
 msgid "+10% focus gain"
-msgstr ""
+msgstr "+10% 집중도 획득"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_focusgenerator_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_focusgenerator_t2_abilitydata.xml:5
 msgctxt "0x00043e84"
 msgid "+20% focus gain"
-msgstr ""
+msgstr "+20% 집중도 획득"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_focusgenerator_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_focusgenerator_t3_abilitydata.xml:5
 msgctxt "0x00043e85"
 msgid "+30% focus gain"
-msgstr ""
+msgstr "+30% 집중도 획득"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_genbarrier_t1_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_genbarrier_t1_abilitydata.xml:5
 msgctxt "0x0004b233"
 msgid "The wearer of this amulet receives a small amount of barrier when hit."
-msgstr ""
+msgstr "이 목걸이를 착용한 사람은 때릴 때 소량의 방어막을 얻습니다."
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_genbarrier_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_genbarrier_t2_abilitydata.xml:5
 msgctxt "0x0004b235"
 msgid "The wearer of this amulet receives a moderate amount of barrier when hit."
-msgstr ""
+msgstr "이 목걸이를 착용한 사람은 때릴 때 적당량의 방어막을 얻습니다."
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_genbarrier_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_genbarrier_t3_abilitydata.xml:5
 msgctxt "0x0004b237"
 msgid "The wearer of this amulet receives a large amount of barrier when hit."
-msgstr ""
+msgstr "이 목걸이를 착용한 사람은 때릴 때 대량의 방어막을 얻습니다."
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_genthreat_t1_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_genthreat_t1_abilitydata.xml:5
 msgctxt "0x0004b239"
 msgid "The wearer of this amulet generates a small amount of threat when attacking."
-msgstr ""
+msgstr "이 목걸이의 착용자는 공격 중일때 소량의 위협을 생성합니다."
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_genthreat_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_genthreat_t2_abilitydata.xml:5
 msgctxt "0x0004b23b"
 msgid "The wearer of this amulet generates a moderate amount of threat when attacking."
-msgstr ""
+msgstr "이 목걸이의 착용자는 공격 중일때 적당량의 위협을 생성합니다."
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_genthreat_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_genthreat_t3_abilitydata.xml:5
 msgctxt "0x0004b23d"
 msgid "The wearer of this amulet generates a large amount of threat when attacking."
-msgstr ""
+msgstr "이 목걸이의 착용자는 공격 중일때 대량의 위협을 생성합니다."
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_guardgenerator_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_guardgenerator_abilitydata.xml:5
 msgctxt "0x00043e86"
 msgid "On hit: gain 2 guard"
-msgstr ""
+msgstr "적중시: 2 방어도 증가"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_guardgenerator_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_guardgenerator_t2_abilitydata.xml:5
 msgctxt "0x00043e87"
 msgid "On hit: gain 3 guard"
-msgstr ""
+msgstr "적중시: 3 방어도 증가"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_guardgenerator_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_guardgenerator_t3_abilitydata.xml:5
 msgctxt "0x00043e88"
 msgid "On hit: gain 5 guard"
-msgstr ""
+msgstr "적중시: 5 방어도 증가"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_hideinplainsight_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_hideinplainsight_abilitydata.xml:5
 msgctxt "0x00043e89"
 msgid "Enter stealth when not attacking during combat"
-msgstr ""
+msgstr "전투 중 공격하지 않을 때 은신 상태로 전환"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_highdamagecrowd_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_highdamagecrowd_abilitydata.xml:5
 msgctxt "0x00043e8b"
 msgid "+5% extra damage for each enemy within 8 meters"
-msgstr ""
+msgstr "8 미터 이내의 적 하나당 + 5% 추가 피해"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_highdamagecrowd_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_highdamagecrowd_t2_abilitydata.xml:5
 msgctxt "0x00043e8c"
 msgid "+7.5% extra damage for each enemy within 8 meters"
-msgstr ""
+msgstr "8 미터 이내의 적 하나당 + 7.5% 추가 피해"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_highdamagecrowd_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_highdamagecrowd_t3_abilitydata.xml:5
 msgctxt "0x00043e8d"
 msgid "+10% extra damage for each enemy within 8 meters"
-msgstr ""
+msgstr "8 미터 이내의 적 하나당 + 10% 추가 피해"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_highdamagenodamage_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_highdamagenodamage_abilitydata.xml:5
 msgctxt "0x00043e9c"
 msgid "+10% damage bonus if not being hit for 5 seconds"
-msgstr ""
+msgstr "5초 동안 맞지 않으면 피해 보너스 +10%"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_highdamagenodamage_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_highdamagenodamage_t2_abilitydata.xml:5
 msgctxt "0x00043e9d"
 msgid "+20% damage bonus if not being hit for 5 seconds"
-msgstr ""
+msgstr "5초 동안 맞지 않으면 피해 보너스 +20%"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_highdamagenodamage_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_highdamagenodamage_t3_abilitydata.xml:5
 msgctxt "0x00043e9e"
 msgid "+30% damage bonus if not being hit for 5 seconds"
-msgstr ""
+msgstr "5초 동안 맞지 않으면 피해 보너스 +30%"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_highfocusgencrowd_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_highfocusgencrowd_abilitydata.xml:5
 msgctxt "0x00043e9f"
 msgid "+5% extra focus for each enemy within 8 meters"
-msgstr ""
+msgstr "8 미터 이내의 적 한 명당 5% 추가 집중도"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_highfocusgencrowd_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_highfocusgencrowd_t2_abilitydata.xml:5
 msgctxt "0x00043ea0"
 msgid "+7.5% extra focus for each enemy within 8 meters"
-msgstr ""
+msgstr "8 미터 이내의 적 한 명당 7.5% 추가 집중도"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_highfocusgencrowd_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_highfocusgencrowd_t3_abilitydata.xml:5
 msgctxt "0x00043ea1"
 msgid "+10% extra focus for each enemy within 8 meters"
-msgstr ""
+msgstr "8 미터 이내의 적 한 명당 10% 추가 집중도"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_ironconstitution_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_ironconstitution_abilitydata.xml:5
 msgctxt "0x00043ea2"
 msgid "Heal 15% of damage taken over 10 seconds"
-msgstr ""
+msgstr "10초 동안 받은 피해의 15%를 치유합니다"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_ironconstitution_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_ironconstitution_t2_abilitydata.xml:5
 msgctxt "0x00043ea3"
 msgid "Heal 20% of damage taken over 10 seconds"
-msgstr ""
+msgstr "10초 동안 받은 피해의 20%를 치유합니다"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_ironconstitution_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_ironconstitution_t3_abilitydata.xml:5
 msgctxt "0x00043ea4"
 msgid "Heal 25% of damage taken over 10 seconds"
-msgstr ""
+msgstr "10초 동안 받은 피해의 25%를 치유합니다"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowcostnodamage_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowcostnodamage_abilitydata.xml:5
 msgctxt "0x00043ea5"
 msgid "Abilities cost 10% less mana/stamina if not being hit for 5 seconds"
-msgstr ""
+msgstr "5초 동안 맞지 않으면 능력의 마나/지구력 비용이 10% 감소합니다"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowcostnodamage_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowcostnodamage_t2_abilitydata.xml:5
 msgctxt "0x00043ea6"
 msgid "Abilities cost 15% less mana/stamina if not being hit for 5 seconds"
-msgstr ""
+msgstr "5초 동안 맞지 않으면 능력의 마나/지구력 비용이 15% 감소합니다"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowcostnodamage_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowcostnodamage_t3_abilitydata.xml:5
 msgctxt "0x00043ea7"
 msgid "Abilities cost 20% less mana/stamina if not being hit for 5 seconds"
-msgstr ""
+msgstr "5초 동안 맞지 않으면 능력의 마나/지구력 비용이 20% 감소합니다"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowerabilitycost_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowerabilitycost_abilitydata.xml:5
 msgctxt "0x00043ea8"
 msgid "Abilities cost 5% less mana/stamina"
-msgstr ""
+msgstr "마나/지구력 능력 비용이 5% 감소"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowerabilitycost_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowerabilitycost_t2_abilitydata.xml:5
 msgctxt "0x00043ea9"
 msgid "Abilities cost 7.5% less mana/stamina"
-msgstr ""
+msgstr "마나/지구력 능력 비용이 7.5% 감소"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowerabilitycost_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowerabilitycost_t3_abilitydata.xml:5
 msgctxt "0x00043eaa"
 msgid "Abilities cost 10% less mana/stamina"
-msgstr ""
+msgstr "마나/지구력 능력 비용이 10% 감소"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowhplowdamage_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowhplowdamage_abilitydata.xml:5
 msgctxt "0x00043eab"
 msgid "Take only 1 damage from all attacks, but health lowered to 8"
-msgstr ""
+msgstr "모든 공격으로부터 단 1의 피해를 받지만 체력이 8로 낮아집니다"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowhplowdamage_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowhplowdamage_t2_abilitydata.xml:5
 msgctxt "0x00043eac"
 msgid "Take only 1 damage from all attacks, but health lowered to 12"
-msgstr ""
+msgstr "모든 공격으로부터 단 1의 피해를 받지만 체력이 12로 낮아집니다"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowhplowdamage_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowhplowdamage_t3_abilitydata.xml:5
 msgctxt "0x00043ead"
 msgid "Take only 1 damage from all attacks, but health lowered to 16"
-msgstr ""
+msgstr "모든 공격으로부터 단 1의 피해를 받지만 체력이 16로 낮아집니다"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_manaleech_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_manaleech_abilitydata.xml:5
 msgctxt "0x0004409f"
 msgid "On kill: +10 to Magic for 10 seconds"
-msgstr ""
+msgstr "처치시 : 10초 동안 마력 +10"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_manaleech_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_manaleech_t2_abilitydata.xml:5
 msgctxt "0x000440a0"
 msgid "On kill: +20 to Magic for 10 seconds"
-msgstr ""
+msgstr "처치시 : 10초 동안 마력 +20"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_manaleech_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_manaleech_t3_abilitydata.xml:5
 msgctxt "0x000440a1"
 msgid "On kill: +30 to Magic for 10 seconds"
-msgstr ""
+msgstr "처치시 : 10초 동안 마력 +30"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_multishot_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_multishot_abilitydata.xml:5
 msgctxt "0x000448ba"
 msgid "Weapon fires 3 shots when attacking"
-msgstr ""
+msgstr "공격시 3발씩 발사"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_nophys_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_nophys_abilitydata.xml:5
 msgctxt "0x0004b231"
 msgid "The wearer of this amulet suffers no physical effects in combat."
-msgstr ""
+msgstr "이 목걸이의 착용자는 전투 중에 신체적 효과를 받지 않습니다."
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_nothreat_t1_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_nothreat_t1_abilitydata.xml:5
 msgctxt "0x0004b240"
 msgid "The wearer of this amulet generates slightly less threat than normal when attacking."
-msgstr ""
+msgstr "이 목걸이를 착용한 사람은 공격 할 때 평소보다 약간 덜 위협을 생성합니다."
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_nothreat_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_nothreat_t2_abilitydata.xml:5
 msgctxt "0x0004b242"
 msgid "The wearer of this amulet generates moderately less threat than normal when attacking."
-msgstr ""
+msgstr "이 목걸이를 착용한 사람은 공격 할 때 평소보다 적당히 덜 위협을 생성합니다."
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_nothreat_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_nothreat_t3_abilitydata.xml:5
 msgctxt "0x0004b244"
 msgid "The wearer of this amulet generates much less threat than normal when attacking."
-msgstr ""
+msgstr "이 목걸이를 착용한 사람은 공격 할 때 평소보다 훨씬 덜 위협을 생성합니다."
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_permafire_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -7519,7 +7563,7 @@ msgstr ""
 #: DA3\Party\general\abilities\InquisiteAbility\party_general_inquisitorammo_abilitydata.xml:5
 msgctxt "0x000352cf"
 msgid "Mark of the Rift"
-msgstr ""
+msgstr "균열의 징표"
 
 #. FILE: DA3\Party\general\abilities\InquisiteAbility\party_general_inquisitorammo_active_abilitydata.xml
 #. PATH: BWAoEAbility/AbilityDescriptionReference
@@ -7535,7 +7579,7 @@ msgstr ""
 #: DA3\Party\general\abilities\ProjectileBubble\party_general_inquisitor_projectilebubble_abilitydata.xml:5
 msgctxt "0x000466b1"
 msgid "Aegis of the Rift"
-msgstr ""
+msgstr "균열의 이지스"
 
 #. FILE: DA3\Party\general\abilities\ProjectileBubble\party_general_inquisitor_projectilebubble_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -7570,7 +7614,7 @@ msgstr ""
 #: DA3\Party\general\abilities\ProjectileBubble\party_general_inquisitor_projectilebubble_upgrade1.xml:5
 msgctxt "0x0004702d"
 msgid "Retributive Strike"
-msgstr ""
+msgstr "보복 공격"
 
 #. FILE: DA3\Party\general\abilities\ProjectileBubble\party_general_inquisitor_projectilebubble_upgrade1.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -7827,13 +7871,12 @@ msgstr ""
 #. FILE: DA3\Party\mage\FireIce\FireMine\party_mage_fireice_firemine_aoeabilitydata.xml
 #. PATH: BWAoEAbility/AbilityDescriptionReference
 #: DA3\Party\mage\FireIce\FireMine\party_mage_fireice_firemine_aoeabilitydata.xml:10
-#, fuzzy
 msgctxt "0x0003f7fc"
 msgid ""
 "You mark the ground with a glyph that takes a short time to prime. Once it is ready, it will erupt into flame when an enemy crosses it, damaging and staggering the target.\n"
 "\n"
 msgstr ""
-"잠시 후에 무장되는 문양을 지면에 생성합니다. 적이 지나가면 문양이 폭발하여 불길로 감싸 피해를 입히고 균형을 잃게 만듭니다.\n"
+"잠시 후에 발동 준비되는 문양을 지면에 생성합니다. 준비된 후 적이 지나가면 문양이 폭발하여 불길로 감싸 피해를 입히고 경직시킵니다.\n"
 "\n"
 
 #. FILE: DA3\Party\mage\FireIce\FireMine\party_mage_fireice_firemine_aoeabilitydata.xml
@@ -9725,13 +9768,12 @@ msgstr "정신 폭발"
 #. FILE: DA3\Party\mage\Staff\MindBlast\party_mage_staff_mindblast_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\mage\Staff\MindBlast\party_mage_staff_mindblast_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x0002e442"
 msgid ""
 "You send enemies staggering with an explosion of willpower that drives them back and makes them less likely to target you again.\n"
 "\n"
 msgstr ""
-"적의 정신력을 폭발시켜 균형을 잃게 만들고 물리칩니다. 적은 다른 공격 대상을 찾습니다.\n"
+"정신력을 폭발시켜 적들을 경직시키고 밀쳐냅니다. 적은 다른 공격 대상을 찾습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\mage\Staff\MindBlast\party_mage_staff_mindblast_upgrade2_abilitydata.xml
@@ -10044,7 +10086,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\StoneFist\party_mage_staff_stonefist_abilitydata.xml:5
 msgctxt "0x0002ce35"
 msgid "Stonefist"
-msgstr ""
+msgstr "바위주먹"
 
 #. FILE: DA3\Party\mage\Staff\StoneFist\party_mage_staff_stonefist_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -10077,6 +10119,8 @@ msgid ""
 "Stonefist now deals additional damage against enemies with guard.\n"
 "\n"
 msgstr ""
+"바위주먹이 방어도를 가진 적들에게 추가 피해를 입힙니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\StoneFist\party_mage_staff_stonefist_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -10093,6 +10137,8 @@ msgid ""
 "The boulder summoned by Stonefist now explodes on impact, weakening and staggering nearby enemies.\n"
 "\n"
 msgstr ""
+"바위주먹이 소환하는 바위가 충돌 시 폭발해 근처의 적들을 약화시키고 경직시킵니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\basic\party_mage_staff_basic_defensiveattack_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -10106,21 +10152,21 @@ msgstr ""
 #: DA3\Party\mage\Staff\basic\party_mage_staff_basic_defensiveattack_abilitydata.xml:10
 msgctxt "0x00026ee8"
 msgid "Basic ranged attack."
-msgstr ""
+msgstr "기본 원거리 공격입니다."
 
 #. FILE: DA3\Party\mage\Staff\basic\party_mage_staff_basic_offensiveattack_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\mage\Staff\basic\party_mage_staff_basic_offensiveattack_abilitydata.xml:5
 msgctxt "0x00026f0d"
 msgid "Basic Attack"
-msgstr ""
+msgstr "기본 공격"
 
 #. FILE: DA3\Party\mage\Staff\basic\party_mage_staff_basic_offensiveattack_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\mage\Staff\basic\party_mage_staff_basic_offensiveattack_abilitydata.xml:10
 msgctxt "0x00026ecb"
 msgid "Basic ranged attack."
-msgstr ""
+msgstr "기본 원거리 공격입니다."
 
 #. FILE: DA3\Party\mage\Support\ChainLightning\party_mage_support_chainlightning_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -10174,7 +10220,7 @@ msgstr ""
 #: DA3\Party\mage\Support\ChainLightning\party_mage_support_chainlightning_upgrade_abilitydata.xml:5
 msgctxt "0x0003f703"
 msgid "Arcing Surge"
-msgstr ""
+msgstr "전광 쇄도"
 
 #. FILE: DA3\Party\mage\Support\ChainLightning\party_mage_support_chainlightning_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -10971,9 +11017,10 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Collateral\saarebas_passive_collateral_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Collateral\saarebas_passive_collateral_abilitydata.xml:5
+#, fuzzy
 msgctxt "0x0004b3ed"
 msgid "In Stillness, Knowledge"
-msgstr ""
+msgstr "지식은 고요 속에 자리하느니"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Collateral\saarebas_passive_collateral_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -10989,7 +11036,7 @@ msgstr ""
 #: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Consumption\saarebas_passive_consumption_abilitydata.xml:5
 msgctxt "0x0004b3f7"
 msgid "From Knowledge, Strength"
-msgstr ""
+msgstr "힘은 지식에서 비롯되니"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Consumption\saarebas_passive_consumption_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -11012,7 +11059,7 @@ msgstr ""
 #: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\FreeMotion\saarebas_passive_freemotion_abilitydata.xml:5
 msgctxt "0x0004b3f1"
 msgid "With Balance, Stillness"
-msgstr ""
+msgstr "정형은 균형에서 오나니"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\FreeMotion\saarebas_passive_freemotion_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -11028,7 +11075,7 @@ msgstr ""
 #: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\FreeThought\saarebas_passive_freethought_abilitydata.xml:5
 msgctxt "0x0004b3f3"
 msgid "In Ignorance, Weakness"
-msgstr ""
+msgstr "약점은 무지에서 드러나니"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\FreeThought\saarebas_passive_freethought_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -11038,13 +11085,16 @@ msgid ""
 "You are immune to being interrupted while casting spells in the finishing stance.\n"
 "\n"
 msgstr ""
+"마무리 자세에서 주문을 시전하는 동안 방해를 받지 않습니다.\n"
+"\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Overload\saarebas_passive_overload_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Overload\saarebas_passive_overload_abilitydata.xml:5
+#, fuzzy
 msgctxt "0x0004b3ef"
 msgid "From Power, Mastery"
-msgstr ""
+msgstr "통달함은 힘에서 비롯되니"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Overload\saarebas_passive_overload_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -11054,13 +11104,15 @@ msgid ""
 "Killing an enemy creates an explosion of spirit energy that damages enemies in the area.\n"
 "\n"
 msgstr ""
+"적을 죽이면 해당 지역의 적에게 피해를 주는 영혼 에너지 폭발이 발생합니다.\n"
+"\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Perseverance\saarebas_passive_perseverance_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Perseverance\saarebas_passive_perseverance_abilitydata.xml:5
 msgctxt "0x0004b3f5"
 msgid "With Strength, Endurance"
-msgstr ""
+msgstr "인내는 힘에 좌우되니"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Perseverance\saarebas_passive_perseverance_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -11070,13 +11122,15 @@ msgid ""
 "You take less damage while you are casting spells.\n"
 "\n"
 msgstr ""
+"주문을 시전하는 동안 피해를 덜 받습니다.\n"
+"\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Precision\saarebas_passive_precision_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Precision\saarebas_passive_precision_abilitydata.xml:5
 msgctxt "0x0004b3eb"
 msgid "In Knowledge, Power"
-msgstr ""
+msgstr "힘은 지식에 깃드니"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Precision\saarebas_passive_precision_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -11086,13 +11140,15 @@ msgid ""
 "You draw upon your staff's elemental charge to deal more damage with spells of that same element.\n"
 "\n"
 msgstr ""
+"지팡이의 원소 충전을 잘 이용하면 같은 원소 속성의 주문 피해를 더 증가시킬 수 있습니다.\n"
+"\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Stats\saarebas_passive_stats_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Stats\saarebas_passive_stats_abilitydata.xml:5
 msgctxt "0x0004b4ca"
 msgid "Mastery"
-msgstr ""
+msgstr "전문화"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Stats\saarebas_passive_stats_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -11102,3 +11158,5 @@ msgid ""
 "You have faced many trials and tribulations in your journey. You've become more attuned with your heritage and have become stronger.\n"
 "\n"
 msgstr ""
+"당신은 여정 중에 많은 시련과 고난을 겪었습니다. 당신은 더 강해졌고 당신의 유산에 잘 적응 할 수 있게 되었습니다.\n"
+"\n"

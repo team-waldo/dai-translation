@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-14 17:02+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-01-16 12:12+0000\n"
+"Last-Translator: 인생도리롤이되나요 <parkyung1@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/codex/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,7 +29,7 @@ msgstr "알리스터"
 #: DA3\DesignContent\Codex\Lore\Characters\cod_cha_anora.xml:30
 msgctxt "0x0004230f"
 msgid "Queen Anora Mac Tir"
-msgstr ""
+msgstr "여왕 아노라 맥 티르"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_blackwall.xml
 #. PATH: CodexEntry/TitleReference
@@ -50,7 +50,7 @@ msgstr "브리알라"
 #: DA3\DesignContent\Codex\Lore\Characters\cod_cha_cassandra.xml:30
 msgctxt "0x0004152e"
 msgid "Cassandra Pentaghast"
-msgstr "카산드라 펜타거스트"
+msgstr "카산드라 펜타가스트"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_celene.xml
 #. PATH: CodexEntry/TitleReference
@@ -99,21 +99,21 @@ msgstr "성황 저스티니아5세"
 #: DA3\DesignContent\Codex\Lore\Characters\cod_cha_dorian.xml:30
 msgctxt "0x00041543"
 msgid "Dorian Pavus"
-msgstr ""
+msgstr "도리안 파부스"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_erimond.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Characters\cod_cha_erimond.xml:13
 msgctxt "0x00041d6b"
 msgid "Magister Erimond"
-msgstr ""
+msgstr "마지스터 에리몬드"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_fiona.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Characters\cod_cha_fiona.xml:30
 msgctxt "0x00042333"
 msgid "Grand Enchanter Fiona"
-msgstr ""
+msgstr "대마도사 피오나"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_florianne.xml
 #. PATH: CodexEntry/TitleReference
@@ -141,28 +141,29 @@ msgstr "커크월의 수호자"
 #: DA3\DesignContent\Codex\Lore\Characters\cod_cha_hero_of_ferelden.xml:30
 msgctxt "0x00041e38"
 msgid "Hero of Ferelden"
-msgstr ""
+msgstr "페렐던의 영웅"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_iron_bull.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Characters\cod_cha_iron_bull.xml:30
 msgctxt "0x00041864"
 msgid "Iron Bull"
-msgstr ""
+msgstr "아이언 불"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_loghain.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Characters\cod_cha_loghain.xml:30
 msgctxt "0x00041e1f"
 msgid "Loghain Mac Tir"
-msgstr ""
+msgstr "로게인 맥 티르"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_lucius.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Characters\cod_cha_lucius.xml:30
+#, fuzzy
 msgctxt "0x00042329"
 msgid "Lord Seeker Lucius Corin"
-msgstr ""
+msgstr "로드 시커 루시우스 코린"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_morrigan.xml
 #. PATH: CodexEntry/TitleReference
@@ -198,7 +199,7 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Characters\cod_cha_player_human.xml:30
 msgctxt "0x000420b2"
 msgid "Trevelyan, the Free Marcher"
-msgstr ""
+msgstr "자유 동맹의 트레벨리안"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_player_quanari.xml
 #. PATH: CodexEntry/TitleReference
@@ -234,14 +235,14 @@ msgstr "스트라우드 경"
 #: DA3\DesignContent\Codex\Lore\Characters\cod_cha_varric.xml:30
 msgctxt "0x0004163e"
 msgid "Varric Tethras"
-msgstr ""
+msgstr "배릭 테트라스"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_vivienne.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Characters\cod_cha_vivienne.xml:30
 msgctxt "0x0004169f"
 msgid "Vivienne: Madame de Fer"
-msgstr ""
+msgstr "비비엔: 철의 여인"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_char_calpernia.xml
 #. PATH: CodexEntry/TitleReference
@@ -283,7 +284,7 @@ msgstr "샘슨"
 #: DA3\DesignContent\Codex\Lore\Characters\dlc_cod_char_Xenon.xml:13
 msgctxt "0x00046111"
 msgid "Xenon the Antiquarian\n"
-msgstr ""
+msgstr "골동품 수집가 제논\n"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\let_ada_hero_of_ferelden_to_inq.xml
 #. PATH: CodexEntry/TitleReference
@@ -297,21 +298,21 @@ msgstr "Hero of Ferelden에게서 온 편지"
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_cre_envy.xml:30
 msgctxt "0x00041a6a"
 msgid "Envy"
-msgstr ""
+msgstr "질투"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_cre_nightmare.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_cre_nightmare.xml:30
 msgctxt "0x0004214e"
 msgid "Nightmare"
-msgstr ""
+msgstr "악몽"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_cre_wisdom_spirit.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_cre_wisdom_spirit.xml:30
 msgctxt "0x0004184e"
 msgid "Spirit of Wisdom"
-msgstr ""
+msgstr "지혜의 영혼"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_arcane_horror.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -325,7 +326,7 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_archer.xml:13
 msgctxt "0x00041602"
 msgid "Archers"
-msgstr ""
+msgstr "궁수"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_august_ram.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -339,21 +340,21 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_bear.xml:13
 msgctxt "0x00041b28"
 msgid "Bear"
-msgstr ""
+msgstr "곰"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_behemoth.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_behemoth.xml:13
 msgctxt "0x000419b1"
 msgid "Behemoth"
-msgstr ""
+msgstr "거수"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_black_wolf.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_black_wolf.xml:13
 msgctxt "0x00041b20"
 msgid "Black Wolf"
-msgstr ""
+msgstr "검은 늑대"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_bogfisher.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -367,7 +368,7 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_bronto.xml:30
 msgctxt "0x00041b35"
 msgid "Bronto"
-msgstr ""
+msgstr "브론토"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_bruiser.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -388,42 +389,42 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_corpse.xml:13
 msgctxt "0x00041a61"
 msgid "Corpse"
-msgstr ""
+msgstr "시체"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_darkspawns.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_darkspawns.xml:13
 msgctxt "0x00041b75"
 msgid "Darkspawn"
-msgstr ""
+msgstr "어둠의 피조물"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_deepstalker.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_deepstalker.xml:13
 msgctxt "0x00041b41"
 msgid "Deepstalker"
-msgstr ""
+msgstr "지하사냥꾼"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_despair_demon.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_despair_demon.xml:13
 msgctxt "0x00041a17"
 msgid "Despair Demon"
-msgstr ""
+msgstr "절망의 악마"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_dragon.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_dragon.xml:13
 msgctxt "0x00041a81"
 msgid "Dragon"
-msgstr ""
+msgstr "드래곤"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_dragonling.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_dragonling.xml:13
 msgctxt "0x00041b43"
 msgid "Dragonling"
-msgstr ""
+msgstr "드래곤링"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_dreamer.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -437,56 +438,56 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_druffalo.xml:13
 msgctxt "0x00041b1d"
 msgid "Druffalo"
-msgstr ""
+msgstr "드루팔로"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_enchanter.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_enchanter.xml:13
 msgctxt "0x0004199f"
 msgid "Spellbinder"
-msgstr ""
+msgstr "결속술사"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_fear.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_fear.xml:13
 msgctxt "0x00041a3b"
 msgid "Fear"
-msgstr ""
+msgstr "공포"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_footsoldier.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_footsoldier.xml:13
 msgctxt "0x00041919"
 msgid "Foot Soldier"
-msgstr ""
+msgstr "보병"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_ghoul.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_ghoul.xml:30
 msgctxt "0x00043a53"
 msgid "Ghoul"
-msgstr ""
+msgstr "구울"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_giant.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_giant.xml:13
 msgctxt "0x00041a85"
 msgid "Giant"
-msgstr ""
+msgstr "거인"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_giant_spider.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_giant_spider.xml:13
 msgctxt "0x00041b15"
 msgid "Giant Spider"
-msgstr ""
+msgstr "거대 거미"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_great_bear.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_great_bear.xml:30
 msgctxt "0x00041b2c"
 msgid "Great Bear"
-msgstr ""
+msgstr "거대한 곰"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_guardsman.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -500,28 +501,28 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_gurgut.xml:13
 msgctxt "0x00041b3c"
 msgid "Gurgut"
-msgstr ""
+msgstr "걸것"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_gurn.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_gurn.xml:13
 msgctxt "0x00041b38"
 msgid "Gurn"
-msgstr ""
+msgstr "거른"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_halla.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_halla.xml:13
 msgctxt "0x00041b2b"
 msgid "Halla"
-msgstr ""
+msgstr "할라"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_heyana.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_heyana.xml:13
 msgctxt "0x00041b23"
 msgid "Hyena"
-msgstr ""
+msgstr "하이에나"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_horror.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -535,14 +536,14 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_hurlock.xml:30
 msgctxt "0x00043a58"
 msgid "Hurlock"
-msgstr ""
+msgstr "헐록"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_hurlock_alpha.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_hurlock_alpha.xml:13
 msgctxt "0x00043a5c"
 msgid "Hurlock Alpha"
-msgstr ""
+msgstr "헐록 우두머리"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_knight.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -563,14 +564,14 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_mabari.xml:13
 msgctxt "0x00041b1f"
 msgid "Mabari"
-msgstr ""
+msgstr "마바리 사냥개"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_mage.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_mage.xml:13
 msgctxt "0x000419ac"
 msgid "Mage"
-msgstr ""
+msgstr "마법사"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_nightmare.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -584,7 +585,7 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_nug.xml:13
 msgctxt "0x00041b30"
 msgid "Nug"
-msgstr ""
+msgstr "너그"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_pheonix.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -598,14 +599,14 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_poison_spider.xml:13
 msgctxt "0x00041b19"
 msgid "Poison Spider"
-msgstr ""
+msgstr "독거미"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_pride_demon.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_pride_demon.xml:13
 msgctxt "0x00041a59"
 msgid "Pride Demon"
-msgstr ""
+msgstr "교만의 악마"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_prowler.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -1039,49 +1040,49 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\History\cod_exalted_march_dales.xml:30
 msgctxt "0x00041813"
 msgid "The Exalted March of the Dales"
-msgstr ""
+msgstr "데일즈의 숭고한 행진"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_fifth_blight_1.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_fifth_blight_1.xml:30
 msgctxt "0x00040ea5"
 msgid "A Study of the Fifth Blight, Vol. One"
-msgstr ""
+msgstr "다섯 번째 대재앙에 대한 연구, 제 1권"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_fifth_blight_2.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_fifth_blight_2.xml:30
 msgctxt "0x00040eaa"
 msgid "A Study of the Fifth Blight, Vol. Two"
-msgstr ""
+msgstr "다섯 번째 대재앙에 대한 연구, 제 2권"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_first_blight_1.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_first_blight_1.xml:13
 msgctxt "0x000417f1"
 msgid "The First Blight: Chapter One"
-msgstr ""
+msgstr "최초의 대재앙: 제 1장"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_first_blight_2.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_first_blight_2.xml:30
 msgctxt "0x000417f2"
 msgid "The First Blight: Chapter Two"
-msgstr ""
+msgstr "최초의 대재앙: 제 2장"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_first_blight_3.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_first_blight_3.xml:30
 msgctxt "0x000417f7"
 msgid "The First Blight: Chapter Three"
-msgstr ""
+msgstr "최초의 대재앙: 제 3장"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_first_blight_4.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_first_blight_4.xml:30
 msgctxt "0x000417f9"
 msgid "The First Blight: Chapter Four"
-msgstr ""
+msgstr "최초의 대재앙: 제 4장"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_first_inquisition.xml
 #. PATH: CodexEntry/TitleReference
@@ -1501,7 +1502,7 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Places\cod_place_ferelden.xml:30
 msgctxt "0x000420ee"
 msgid "Ferelden After the Blight"
-msgstr ""
+msgstr "대재앙 이후의 페렐던"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Places\cod_place_ferelden_culture.xml
 #. PATH: CodexEntry/TitleReference
@@ -4595,7 +4596,7 @@ msgstr ""
 #: DA3\DesignContent\Codex\Plot\Redcliffe\let_red_alexius_felix_journal.xml:30
 msgctxt "0x00041623"
 msgid "Studies on the Blight"
-msgstr ""
+msgstr "대재앙에 관한 연구"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Redcliffe\let_red_felix_warning.xml
 #. PATH: CodexEntry/TitleReference

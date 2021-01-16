@@ -1,13 +1,21 @@
 #
 msgid ""
-msgstr "Language: ko\n"
+msgstr ""
+"PO-Revision-Date: 2021-01-16 12:12+0000\n"
+"Last-Translator: 큡수뎃 <quoobt@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FILE: DA3\Layouts\ArborWilds\ArborWilds_Main\ArborWilds_Main.xml
 #. PATH: UILevelDescriptionComponent/LocationName
 #: DA3\Layouts\ArborWilds\ArborWilds_Main\ArborWilds_Main.xml:9674
 msgctxt "0x00029d69"
 msgid "Arbor Wilds"
-msgstr ""
+msgstr "수목 야생지"
 
 #. FILE: DA3\Layouts\ArborWilds\ArborWilds_Main\design\layer6_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -21,7 +29,7 @@ msgstr "신전 입구"
 #: DA3\Layouts\ArborWilds\ArborWilds_Main\design\layer6_dsg_regions_schematic.xml:146
 msgctxt "0x00043023"
 msgid "Great Waterfall"
-msgstr ""
+msgstr "대폭포"
 
 #. FILE: DA3\Layouts\ArborWilds\ArborWilds_Main\design\layer6_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[4]/Text
@@ -70,14 +78,14 @@ msgstr ""
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\design\layer3_dsg_banter_schematic.xml:1069
 msgctxt "0x0004302d"
 msgid "The Well of Sorrows"
-msgstr ""
+msgstr "비탄의 우물"
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\design\layer5_dsg_doors_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\design\layer5_dsg_doors_schematic.xml:127
 msgctxt "0x00044164"
 msgid "Open this door by completing the rituals."
-msgstr ""
+msgstr "의식을 마치고 이 문을 여십시오."
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\design\layer7_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -273,7 +281,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml:204
 msgctxt "0x0003fd99"
 msgid "Redcliffe Windmill"
-msgstr ""
+msgstr "레드클리프 풍차"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml
 #. PATH: GetLocalizedStringIDData[5]/Text
@@ -301,7 +309,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml:267
 msgctxt "0x0002bc15"
 msgid "Dragon Nest"
-msgstr ""
+msgstr "드래곤 둥지"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml
 #. PATH: GetLocalizedStringIDData[9]/Text
@@ -371,7 +379,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer3_dsg_interactiveart_schematic.xml:94
 msgctxt "0x00029b46"
 msgid "Redcliffe Village"
-msgstr ""
+msgstr "레드클리프 마을"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer3_dsg_interactiveart_schematic.xml
 #. PATH: GetLocalizedStringIDData[2]/Text
@@ -392,7 +400,7 @@ msgstr "조타실"
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer3_dsg_interactiveart_schematic.xml:218
 msgctxt "0x00029b44"
 msgid "Redcliffe Farms"
-msgstr ""
+msgstr "레드클리프 농가"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer3_dsg_interactiveart_schematic.xml
 #. PATH: GetLocalizedStringIDData[5]/Text
@@ -687,7 +695,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\dsg_lightquests_q08_encounter\layer1_dsg_lightquests_q08_encounter_general_schematic.xml:546
 msgctxt "0x0002a1a4"
 msgid "Investigate"
-msgstr ""
+msgstr "조사하기"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\dsg_lightquests_q09_ritual\layer1_dsg_lightquests_q09_ritual_general_schematic.xml
 #. PATH: GetLocalizedStringIDData/Text
@@ -749,6 +757,12 @@ msgid ""
 "\n"
 "Gaining enough Influence increases the rank of your Inquisition and grants you access to unique perks."
 msgstr ""
+"영계 균열을 닫아 일대를 안정화하세요. 새로운 진지를 구축하여 인퀴지션의 활동 반경을 넓히고, 퀘스트를 수행하여 역량과 영향력을 "
+"증가시키세요.\n"
+"\n"
+"작전 지도에서 수색 임무에 역량을 사용하여 새로운 기회를 발견하세요.\n"
+"\n"
+"영향력을 충분히 얻으면 인퀴지션의 등급이 향상되어 유용한 특전을 얻게 됩니다."
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\map\Ferelden_Wilderness_Main_floor0.xml
 #. PATH: BWMapPinLocation[5]/TitleReference
@@ -909,7 +923,7 @@ msgstr "템플러 막사"
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\qst_blackwallacquisitionfarmer\layer0_qst_blackwallacquisitionfarmer_general.xml:231
 msgctxt "0x00037b41"
 msgid "Giles"
-msgstr ""
+msgstr "가일스"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\qst_cassandraromquest\layer1_qst_cassandraromquest_bandits_schematic.xml
 #. PATH: GetLocalizedStringIDData/Text
@@ -951,14 +965,14 @@ msgstr "크레스트우드 언덕"
 #: DA3\Layouts\Ferelden\dgn_l_010\design\layer1_dsg_exploration_schematic.xml:36
 msgctxt "0x000415fd"
 msgid "Loot"
-msgstr ""
+msgstr "줍기"
 
 #. FILE: DA3\Layouts\Ferelden\dgn_l_010\design\layer5_dsg_zonenotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[2]/Text
 #: DA3\Layouts\Ferelden\dgn_l_010\design\layer5_dsg_zonenotifications_schematic.xml:82
 msgctxt "0x00020f08"
 msgid "Dwarven Ruins"
-msgstr ""
+msgstr "드워프 유적"
 
 #. FILE: DA3\Layouts\Ferelden\dgn_l_010\dgn_l_010.xml
 #. PATH: UILevelDescriptionComponent/LocationName
@@ -1742,7 +1756,7 @@ msgstr ""
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0101_wartable\layer3_dsg_0101_wartable_main_schematic.xml:1881
 msgctxt "0x0003266e"
 msgid "War Table"
-msgstr "작전 테이블"
+msgstr "작전 지도"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0101_wartable\layer3_dsg_0101_wartable_main_schematic.xml
 #. PATH: BWPopUpEntityData[4]/Text
@@ -1792,7 +1806,7 @@ msgstr "적들은 고유한 수집품을 드랍합니다. 이를 연구원에게
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0120_chantry_exterior\layer1_dsg_0120_chantry_exterior_main_schematic.xml:1078
 msgctxt "0x00033476"
 msgid "Quartermaster"
-msgstr ""
+msgstr "병참 장교"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0120_chantry_exterior\layer1_dsg_0120_chantry_exterior_main_schematic.xml
 #. PATH: BWPopUpEntityData/Text
@@ -1905,7 +1919,7 @@ msgstr ""
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_set_0400_trebuchetmages\layer1_dsg_set_0400_trebuchetmages_default.xml:1319
 msgctxt "0x00042954"
 msgid "Spellbinder"
-msgstr ""
+msgstr "달변가"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_set_0600_retreattohaven\layer3_qst_137_set_retreat_blacksmith_schematic.xml
 #. PATH: GetLocalizedStringIDData/Text
@@ -2345,7 +2359,7 @@ msgstr ""
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml:1150
 msgctxt "0x00041f93"
 msgid "Payback Strike"
-msgstr "반격"
+msgstr "앙갚음"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml
 #. PATH: BWPopUpEntityData[8]/Text
@@ -2801,7 +2815,7 @@ msgstr "본관"
 #: DA3\Layouts\InquisitorBase2\MainBase\design\layer0_zon_dsg_streaming.xml:2993
 msgctxt "0x00043436"
 msgid "Quarters"
-msgstr ""
+msgstr "막사"
 
 #. FILE: DA3\Layouts\InquisitorBase2\MainBase\design\layer0_zon_dsg_streaming.xml
 #. PATH: BWGameInteractionEntityData[4]/InteractionTextReference

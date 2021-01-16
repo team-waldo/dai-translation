@@ -1,6 +1,15 @@
 #
 msgid ""
-msgstr "Language: ko\n"
+msgstr ""
+"PO-Revision-Date: 2021-01-16 12:12+0000\n"
+"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
+"\n"
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FILE: DA3\Actors\PartySpawnPrefab.xml
 #. PATH: BWPopUpEntityData/Title
@@ -13,10 +22,12 @@ msgstr "되살리기"
 #. FILE: DA3\Actors\PartySpawnPrefab.xml
 #. PATH: BWPopUpEntityData/Text
 #: DA3\Actors\PartySpawnPrefab.xml:5863
-#, fuzzy
 msgctxt "0x00043846"
 msgid "{controller}Revive fallen party members by targeting them and holding {StringBtnA}.{/controller}{notcontroller}Hold {StringBtnMouseRight} fallen party members to revive them.{/notcontroller}"
-msgstr "{controller}쓰러진 파티원에 다가가 대상으로 지정하고 {StringBtnA}를 꾹 눌러 되살리세요.{/controller}{notcontroller}{StringBtnMounseRight}을 꾹 눌러 쓸진 파티원을 되살리세요.{/notcontroller}"
+msgstr ""
+"{controller}쓰러진 파티원에 다가가 대상으로 지정하고 {StringBtnA}를 꾹 눌러 "
+"되살리세요.{/controller}{notcontroller}{StringBtnMounseRight}을 꾹 눌러 쓰러진 파티원을 "
+"되살리세요.{/notcontroller}"
 
 #. FILE: DA3\Actors\party\Specializations\Follower\gen_partymember_plot_warden_alistair.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -1455,7 +1466,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_OnBeingHit_StunChance.xml:5
 msgctxt "0x00018207"
 msgid "Stagger on Being Hit"
-msgstr ""
+msgstr "적중 시 경직"
 
 #. FILE: DA3\Combat\Stats\Stat_OnBeingHit_StunChance.xml
 #. PATH: BWModifiableStat/StatDescription
@@ -1483,7 +1494,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_OnHit_StunChance.xml:5
 msgctxt "0x0001820b"
 msgid "Stagger on Hit"
-msgstr ""
+msgstr "적중 시 경직"
 
 #. FILE: DA3\Combat\Stats\Stat_OnHit_StunChance.xml
 #. PATH: BWModifiableStat/StatDescription
@@ -3532,6 +3543,8 @@ msgid ""
 "You are immune to flanking from enemies and have less chance of being staggered when hit from the front.\n"
 "\n"
 msgstr ""
+"배후 공격에 대해 면역을 얻고 정면에서 공격당할 시 경직 확률이 줄어듭니다.\n"
+"\n"
 
 #. FILE: DA3\Configurations\Online\Multiplayer\Abilities\Passives\Mage\NaturesShield\MP_mage_passive_naturesshield_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -5149,7 +5162,7 @@ msgstr ""
 #: DA3\Creatures\Multiplayer\Wilderness\mp_wilderness_wilderness_bear_mp.xml:5446
 msgctxt "0x00018829"
 msgid "Bear"
-msgstr ""
+msgstr "곰"
 
 #. FILE: DA3\Creatures\Multiplayer\Wilderness\mp_wilderness_wilderness_black_wolf_mp.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -13582,6 +13595,9 @@ msgstr ""
 msgctxt "0x000475f6"
 msgid "Payback Strike {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: You will recover from any disabled condition while lashing out with a great blow against nearby enemies. If you've recently taken damage, you hit that much harder and stagger your foes."
 msgstr ""
+"앙갚음 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInvento"
+"ryItem1}{/notcontroller}: 상태 이상을 회복하고 근처 적들을 강하게 타격합니다. 최근 피해를 입었다면 그만큼 더 "
+"위력이 늘어나고 적들을 경직시킵니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[10]/Text

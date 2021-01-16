@@ -1,18 +1,19 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-14 17:02+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-01-16 12:12+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/unknown/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.1.1\n"
-"Content-Transfer-Encoding: 8bit\n"
 
+#, fuzzy
 msgctxt "0x00000277"
 msgid "This is a multiline string test"
-msgstr ""
+msgstr "This is a multiline string test"
 
 msgctxt "0x00000278"
 msgid "south"
@@ -32,7 +33,7 @@ msgstr "동쪽"
 
 msgctxt "0x0000027c"
 msgid "This string contains <characters> \\ that must be escaped."
-msgstr ""
+msgstr "This string contains <characters> \\ that must be escaped."
 
 msgctxt "0x0000027d"
 msgid "west"
@@ -40,11 +41,11 @@ msgstr "서쪽"
 
 msgctxt "0x00000426"
 msgid "I am a yes response"
-msgstr ""
+msgstr "I am a yes response"
 
 msgctxt "0x00000427"
 msgid "I am a no response"
-msgstr ""
+msgstr "I am a no response"
 
 msgctxt "0x00000428"
 msgid "Yes Response"
@@ -3649,11 +3650,11 @@ msgstr ""
 
 msgctxt "0x00018bf6"
 msgid "Bear"
-msgstr ""
+msgstr "곰"
 
 msgctxt "0x00018bf7"
 msgid "Spider"
-msgstr ""
+msgstr "거미"
 
 msgctxt "0x00018bf8"
 msgid "Phoenix"

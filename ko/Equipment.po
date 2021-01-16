@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-14 17:02+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-01-16 12:12+0000\n"
+"Last-Translator: morri64 <morri64@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.1.1\n"
-"Content-Transfer-Encoding: 8bit\n"
 
 #. FILE: DA3\Equipment\Crafting\DA3CraftingSettings.xml
 #. PATH: CraftingSettings/RecipeRequiresText
@@ -30,7 +30,7 @@ msgstr "명품 면"
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Cotton_2.xml:6
 msgctxt "0x00044878"
 msgid "Fade-Touched Cotton"
-msgstr ""
+msgstr "영계 접촉된 면"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Cotton_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -69,14 +69,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_DalesLodenWool.xml:6
 msgctxt "0x00024af9"
 msgid "Masterwork Dales Loden Wool"
-msgstr ""
+msgstr "걸작의 데일스 로덴 양모"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_DalesLodenWool_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_DalesLodenWool_2.xml:6
 msgctxt "0x00044889"
 msgid "Fade-Touched Dales Loden Wool"
-msgstr ""
+msgstr "영계 접촉된 데일스 로덴 양모"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_DalesLodenWool_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -115,14 +115,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_DarkenedSamite.xml:6
 msgctxt "0x00024afe"
 msgid "Masterwork Darkened Samite"
-msgstr ""
+msgstr "걸작의 어두워진 사마이트"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_DarkenedSamite_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_DarkenedSamite_2.xml:6
 msgctxt "0x00044881"
 msgid "Fade-Touched Darkened Samite"
-msgstr ""
+msgstr "영계 접촉된 어두워진 사마이트"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_DarkenedSamite_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -161,14 +161,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_EverknitWool.xml:6
 msgctxt "0x00024af6"
 msgid "Masterwork Everknit Wool"
-msgstr ""
+msgstr "걸작의 에버니트 양모"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_EverknitWool_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_EverknitWool_2.xml:6
 msgctxt "0x00044883"
 msgid "Fade-Touched Everknit Wool"
-msgstr ""
+msgstr "영계 접촉된 에버니트 양모"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_EverknitWool_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -207,14 +207,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_HigheverWeave.xml:6
 msgctxt "0x00024b02"
 msgid "Masterwork Highever Weave"
-msgstr ""
+msgstr "걸작의 하이에버 직조"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_HigheverWeave_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_HigheverWeave_2.xml:6
 msgctxt "0x00044885"
 msgid "Fade-Touched Highever Weave"
-msgstr ""
+msgstr "영계 접촉된 하이에버 직조"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_HigheverWeave_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -237,14 +237,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_ImperialVestmentCotton.xml:6
 msgctxt "0x00024b03"
 msgid "Masterwork Imperial Vestment Cotton"
-msgstr ""
+msgstr "걸작의 제국 제의 면"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_ImperialVestmentCotton_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_ImperialVestmentCotton_2.xml:6
 msgctxt "0x0004488a"
 msgid "Fade-Touched Imperial Vestment Cotton"
-msgstr ""
+msgstr "영계 접촉된 제국 제의 면"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_ImperialVestmentCotton_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -283,7 +283,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_InfusedVyranriumSamite_2.xml:6
 msgctxt "0x0004488b"
 msgid "Fade-Touched Infused Vyrantium Samite"
-msgstr ""
+msgstr "영계 접촉된 주입된 비란티움 사마이트"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_InfusedVyranriumSamite_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -322,21 +322,21 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_InfusedVyrantiumSamite.xml:6
 msgctxt "0x00024b01"
 msgid "Masterwork Infused Vyrantium Samite"
-msgstr ""
+msgstr "걸작의 주입된 비란티움 사마이트"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_KingsWillowWeave.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_KingsWillowWeave.xml:6
 msgctxt "0x00024adc"
 msgid "Masterwork King's Willow Weave"
-msgstr ""
+msgstr "걸작의 왕의 버드나무 직조"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_KingsWillowWeave_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_KingsWillowWeave_2.xml:6
 msgctxt "0x0004488c"
 msgid "Fade-Touched King's Willow Weave"
-msgstr ""
+msgstr "영계 접촉된 왕의 버드나무 직조"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_KingsWillowWeave_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -359,14 +359,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Lambswool.xml:6
 msgctxt "0x00024adb"
 msgid "Masterwork Lambswool"
-msgstr ""
+msgstr "걸작의 새끼양모"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Lambswool_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Lambswool_2.xml:6
 msgctxt "0x0004487c"
 msgid "Fade-Touched Lambswool"
-msgstr ""
+msgstr "영계 접촉된 새끼양모"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Lambswool_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -405,14 +405,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_LustrousCotton.xml:6
 msgctxt "0x00024aea"
 msgid "Masterwork Lustrous Cotton"
-msgstr ""
+msgstr "걸작의 윤이 나는 양모"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_LustrousCotton_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_LustrousCotton_2.xml:6
 msgctxt "0x00044886"
 msgid "Fade-Touched Lustrous Cotton"
-msgstr ""
+msgstr "영계 접촉된 윤이 나는 양모"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_LustrousCotton_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -451,14 +451,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Plaideweave.xml:6
 msgctxt "0x00024b04"
 msgid "Masterwork Plaideweave"
-msgstr ""
+msgstr "걸작의 격자무늬직조"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Plaideweave_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Plaideweave_2.xml:6
 msgctxt "0x0004487d"
 msgid "Fade-Touched Plaideweave"
-msgstr ""
+msgstr "영계 접촉된 격자무늬직조"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Plaideweave_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -481,7 +481,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_PlushFustianVelvelt_2.xml:6
 msgctxt "0x0004488d"
 msgid "Fade-Touched Plush Fustian Velvet"
-msgstr ""
+msgstr "영계 접촉된 고급 퍼스티언 벨벳"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_PlushFustianVelvelt_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -520,14 +520,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_PlushFustianVelvet.xml:6
 msgctxt "0x00024b06"
 msgid "Masterwork Plush Fustian Velvet"
-msgstr ""
+msgstr "걸작의 고급 퍼스티언 벨벳"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_RingVelvelt_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_RingVelvelt_2.xml:6
 msgctxt "0x00044887"
 msgid "Fade-Touched Ring Velvet"
-msgstr ""
+msgstr "영계 접촉된 반지무늬 벨벳"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_RingVelvelt_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -550,7 +550,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_RingVelvet.xml:6
 msgctxt "0x00024af4"
 msgid "Masterwork Ring Velvet"
-msgstr ""
+msgstr "걸작의 반지무늬 벨벳"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_RingVelvet_3.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -573,7 +573,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_RoyalSeaSilk_2.xml:6
 msgctxt "0x0004488e"
 msgid "Fade-Touched Royale Sea Silk"
-msgstr ""
+msgstr "영계 접촉된 르와이얄 바다색 비단"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_RoyalSeaSilk_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -612,21 +612,21 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_RoyaleSeaSilk.xml:6
 msgctxt "0x00024ad9"
 msgid "Masterwork Royale Sea Silk"
-msgstr ""
+msgstr "거장의 르와이얄 바다색 비단"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Samite.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Samite.xml:6
 msgctxt "0x00024b0a"
 msgid "Masterwork Samite"
-msgstr ""
+msgstr "거장의 사마이트"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Samite_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Samite_2.xml:6
 msgctxt "0x0004487e"
 msgid "Fade-Touched Samite"
-msgstr ""
+msgstr "영계 접촉된 사마이트"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Samite_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -665,21 +665,21 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Silk.xml:6
 msgctxt "0x00024adf"
 msgid "Masterwork Silk"
-msgstr ""
+msgstr "거장의 비단"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_SilkBrocade.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_SilkBrocade.xml:6
 msgctxt "0x00024ae8"
 msgid "Masterwork Silk Brocade"
-msgstr ""
+msgstr "거장의 브로케이드 비단"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_SilkBrocade_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_SilkBrocade_2.xml:6
 msgctxt "0x00044888"
 msgid "Fade-Touched Silk Brocade"
-msgstr ""
+msgstr "영계 접촉된 브로케이드 비단"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_SilkBrocade_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -718,7 +718,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Silk_2.xml:6
 msgctxt "0x0004487f"
 msgid "Fade-Touched Silk"
-msgstr ""
+msgstr "영계 접촉된 비단"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Silk_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -757,14 +757,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Velveteen.xml:6
 msgctxt "0x00024aee"
 msgid "Masterwork Velveteen"
-msgstr ""
+msgstr "거장의 면벨벳"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Velveteen_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Velveteen_2.xml:6
 msgctxt "0x00044880"
 msgid "Fade-Touched Velveteen"
-msgstr ""
+msgstr "영계 접촉된 면벨벳"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_Velveteen_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -803,14 +803,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Bear.xml:6
 msgctxt "0x00024ae5"
 msgid "Masterwork Bear Hide"
-msgstr ""
+msgstr "거장의 곰 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Bear_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Bear_2.xml:6
 msgctxt "0x00044898"
 msgid "Fade-Touched Bear Hide"
-msgstr ""
+msgstr "영계 접촉된 곰 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Bear_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -849,14 +849,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Bronto.xml:6
 msgctxt "0x00024af3"
 msgid "Masterwork Bronto Hide"
-msgstr ""
+msgstr "거장의 브론토 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Bronto_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Bronto_2.xml:6
 msgctxt "0x00044890"
 msgid "Fade-Touched Bronto Hide"
-msgstr ""
+msgstr "영계 접촉된 브론토 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Bronto_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -895,14 +895,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Buzzard.xml:6
 msgctxt "0x00024aff"
 msgid "Masterwork Quillback Leather"
-msgstr ""
+msgstr "거장의 퀼백 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Buzzard_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Buzzard_2.xml:6
 msgctxt "0x00044899"
 msgid "Fade-Touched Quillback Leather"
-msgstr ""
+msgstr "영계 접촉된 퀼백 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Buzzard_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -925,14 +925,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Craggy_Skin.xml:6
 msgctxt "0x00038358"
 msgid "Masterwork Craggy Skin"
-msgstr ""
+msgstr "거장의 쭈글쭈글한 피부"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Craggy_Skin_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Craggy_Skin_2.xml:6
 msgctxt "0x0004489f"
 msgid "Fade-Touched Craggy Skin"
-msgstr ""
+msgstr "영계 접촉된 쭈글쭈글한 피부"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Craggy_Skin_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -971,14 +971,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Deepstalker.xml:6
 msgctxt "0x00024b07"
 msgid "Masterwork Deepstalker Hide"
-msgstr ""
+msgstr "거장의 지하사냥꾼 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Deepstalker_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Deepstalker_2.xml:6
 msgctxt "0x00044891"
 msgid "Fade-Touched Deepstalker Hide"
-msgstr ""
+msgstr "영계 접촉된 지하사냥꾼 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Deepstalker_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -1017,7 +1017,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Dragonling.xml:6
 msgctxt "0x00024af7"
 msgid "Masterwork Dragonling Scales"
-msgstr ""
+msgstr "거장의 드래곤링 비늘"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Dragonling.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -1040,7 +1040,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Dragonling_2.xml:6
 msgctxt "0x00044892"
 msgid "Fade-Touched Dragonling Scales"
-msgstr ""
+msgstr "영계 접촉된 드래곤링 비늘"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Dragonling_3.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -1063,14 +1063,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Druffalo.xml:6
 msgctxt "0x00024aec"
 msgid "Masterwork Druffalo Hide"
-msgstr ""
+msgstr "거장의 드루팔로 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Druffalo_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Druffalo_2.xml:6
 msgctxt "0x00044893"
 msgid "Fade-Touched Druffalo Hide"
-msgstr ""
+msgstr "영계 접촉된 드루팔로 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Druffalo_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -1093,7 +1093,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Golden_Halla_Hide.xml:6
 msgctxt "0x0003b8bc"
 msgid "Golden Halla Hide"
-msgstr ""
+msgstr "금빛 할라 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Golden_Halla_Hide.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -1116,14 +1116,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_GreatBear.xml:6
 msgctxt "0x00024b0b"
 msgid "Masterwork Great Bear Hide"
-msgstr ""
+msgstr "거장의 거대한 곰 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_GreatBear_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_GreatBear_2.xml:6
 msgctxt "0x000448a0"
 msgid "Fade-Touched Great Bear Hide"
-msgstr ""
+msgstr "영계 접촉된 거대한 곰 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_GreatBear_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description

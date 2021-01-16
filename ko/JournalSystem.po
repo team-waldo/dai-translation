@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-14 17:02+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-01-16 12:12+0000\n"
+"Last-Translator: 박성범 <psb3421@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journalsystem/"
 "ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.1.1\n"
-"Content-Transfer-Encoding: 8bit\n"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1]/JournalTextData/TextReference
@@ -33,21 +33,21 @@ msgstr "이 지도에 표시된 지점을 팔을 뻗은 거인이 지키고있�
 #: Systems\JournalSystem\JournalSystem.xml:1808
 msgctxt "0x00043f66"
 msgid "The University of Orlais has requested nevarrite and volcanic aurum samples for a geological survey of the Hissing Wastes."
-msgstr ""
+msgstr "올레이 대학 측에서 칼바람 황무지의 지질 조사를 위해 화산암 표본을 채취해오길 부탁했습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[5]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:1821
 msgctxt "0x00040026"
 msgid "Active Fade rifts have been spotted on Morrin's Outlook and near Morrin's Steps on the coast."
-msgstr ""
+msgstr "해안에 있는 모린 전망대와 모린의 발자취 근처 에서 열려있는 영계 균열이 발견되었습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[6]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:1851
 msgctxt "0x00043ffb"
 msgid "The University of Orlais has requested summer stone and blue vitriol samples for a geological survey of the Fallow Mire."
-msgstr ""
+msgstr "올레이 대학이 고요한 늪지 지질 조사를 위해 소환석과 푸른 황산석 표본을 채취해오길 요청했습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[7]/JournalTextData/TextReference
@@ -75,14 +75,14 @@ msgstr "붉은 리륨에 감염되어 걸을 수 없는 한 여성이 남편에�
 #: Systems\JournalSystem\JournalSystem.xml:1967
 msgctxt "0x00043f1a"
 msgid "The University of Orlais has requested silverite and dawnstone samples for a geological survey of the Emprise du Lion."
-msgstr ""
+msgstr "올레이 대학이 사자의 용맹 지역 지질 조사를 위해 여명석과 은석 표본을 채취해오길 요청했습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[12]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:1980
 msgctxt "0x00036f97"
 msgid "Active Fade rifts have been spotted in Dwarfson's Pass and at Winterwatch Tower."
-msgstr ""
+msgstr "겨울 관측자 성채에 있는 드워프 자손의 길에서 열려있는 영계 균열이 발견되었습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[13]/JournalTextData/TextReference
@@ -187,28 +187,28 @@ msgstr "감시자들은 숲의 거인들을 뒤로 물러나게 하기 위해 �
 #: Systems\JournalSystem\JournalSystem.xml:2382
 msgctxt "0x00040394"
 msgid "Active Fade rifts have been spotted in the area around the Sunstop Mountain camp."
-msgstr "태양이 멈추는 산의 캠프 주변 지역에서 활동중인 균열이 발견되었습니다."
+msgstr "태양이 멈추는 산의 야영지 주변 지역에서 열린 균열이 발견되었습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[31]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:2395
 msgctxt "0x000303fa"
 msgid "Establish camps to hold the Hissing Wastes and support Inquisition activity in the region."
-msgstr ""
+msgstr "칼바람 황무지에서 활동하기 위해 야영지를 세우고 이 지역에서 심문회 활동을 지원하세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[32]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:2408
 msgctxt "0x00042dbf"
 msgid "There are reports of red lyrium and potential red templar activity in the hills of Emprise du Lion. A local baron has petitioned the Inquisition for aid."
-msgstr ""
+msgstr "사자의 용맹 지역에서 붉은 리륨과 붉은 기사단 활동 정황 가능성이 보고되었습니다. 지역의 남작이 사문회의 지원을 요청했습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[33]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:2421
 msgctxt "0x0003fdf1"
 msgid "Play the Grand Game and impress the palace guests by tossing Caprice coins into a fountain."
-msgstr ""
+msgstr "대무술 대회에 참가하고 카프리스 동전을 분수대에 던져 궁에 초대받은 연회객들에게 깊은 인상을 남기십시오."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[34]/JournalTextData/TextReference
@@ -223,6 +223,8 @@ msgstr ""
 msgctxt "0x0001c3e6"
 msgid "A shipment of goods, destined for a University of Orlais researcher named Frederic, appears to have been waylaid by bandits. The shipping label suggests his camp is somewhere in Nazaire's Pass."
 msgstr ""
+"강도들이 올레이 대학 연구원 프레데릭 앞으로 선적된 화물을 약탈한 것으로 보입니다. 화물에 붙어있는 선적표로 보건대 프레데릭은 나지르 "
+"고개 어딘가에 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[36]/JournalTextData/TextReference
@@ -236,14 +238,14 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:2473
 msgctxt "0x0002fc1f"
 msgid "A storyteller mentioned a spirit in a nearby lake. If offered a blood lotus, the spirit apparently gives a favor in return."
-msgstr ""
+msgstr "이야기꾼이 강의 영혼에 대해 말하길, 혈연꽃을 영혼에게 바치면 영혼은 반드시 뭔가 보답해 준다고 했습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[38]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:2486
 msgctxt "0x000383c9"
 msgid "An active Fade rift has been spotted near the north gate camp."
-msgstr ""
+msgstr "북쪽 통로 야영지 근처에서 열려있는 영계 균열이 발견되었습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[39]/JournalTextData/TextReference
@@ -251,6 +253,8 @@ msgstr ""
 msgctxt "0x0003fbd1"
 msgid "Scandalous secrets are everywhere at the Grand Masquerade. Listen in on conversations to gather gossip and scour the palace for incriminating items and notes. The secrets learned could be used to gain Power for the Inquisition and the upper hand in the Grand Game of Orlesian society."
 msgstr ""
+"추잡한 비밀이 가장무도회 곳곳에 은밀히 가려져 있습니다. 다른 사람들의 대화를 엿들어 소문을 알아내고 궁을 돌아다니며 뭔가 뒤가 켕기는 "
+"물건이나 기록을 찾아내세요. 알아낸 진실은 사문회의 힘이 되거나 올레이 상류사회에서 열리는 무술 대회에서 이점을 가져다줄 수도 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[40]/JournalTextData/TextReference
@@ -383,7 +387,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:2959
 msgctxt "0x00040392"
 msgid "Active Fade rifts have been spotted in the area around the canyon camp."
-msgstr ""
+msgstr "협곡 야영지 근처에서 열려있는 영계 균열이 발견되었습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[61]/JournalTextData/TextReference
@@ -418,7 +422,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:3071
 msgctxt "0x0004038b"
 msgid "Active Fade rifts have been spotted in the area near the cove camp."
-msgstr ""
+msgstr "작은 만 야영지에서 열려있는 영계 균열이 발견되었습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[67]/JournalTextData/TextReference
@@ -607,7 +611,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:3897
 msgctxt "0x000383cb"
 msgid "Active Fade rifts have been spotted near Three Trout Farm."
-msgstr ""
+msgstr "세 마리 송어 양식장 근처에서 열려있는 영계 균열이 발견되었습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[97]/JournalTextData/TextReference
@@ -663,7 +667,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:4035
 msgctxt "0x0003faa1"
 msgid "Active Fade rifts have been spotted in the Pools of the Sun."
-msgstr ""
+msgstr "태양의 웅덩이 지역에서 열려있는 영계 균열이 발견되었습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[105]/JournalTextData/TextReference
@@ -845,7 +849,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:4756
 msgctxt "0x000369f1"
 msgid "An active Fade rift has been spotted on Elfsblood River just outside Sahrnia."
-msgstr ""
+msgstr "사르니아 외곽 엘프블러드 강에서 열려있는 영계 균열이 발견되었습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[131]/JournalTextData/TextReference
@@ -859,7 +863,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:4782
 msgctxt "0x00038109"
 msgid "Active Fade rifts have been spotted in the Sand Flats, Dust Plains, and at Giant's Staircase."
-msgstr ""
+msgstr "모래 평원, 먼지 평야 그리고 거인의 계단에서 열려있는 영계 균열이 발견되었습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[133]/JournalTextData/TextReference
@@ -4000,6 +4004,28 @@ msgid ""
 "\n"
 "—From the hunting log of Kerr of West Hill, dated 17 Solace"
 msgstr ""
+"동행이 한 명 늘었다. 이름은 마르찬드, 셀레스틴 강까지 동행해주는 대가로 3 올레이스 로얄(골드)을 지불해주기로 했다. 내 두 다리를 "
+"거는데 활을 보더니, 우리를 호위군으로 삼을 생각이었던 것 같다. 반대로 우리가 그에게 무기를 겨눌 생각은 미처 못했나 보지. 창조주 "
+"맙소사, 라이디스에 도착할즘에는 정말 그러고 싶었다. 키도 난쟁이 같은 놈이 어디 높은 귀족 아들의 지도 교사가 될 거라고 끊임없이 "
+"자랑을 해댔다. 말끝마다 “실크속옷 영주님, 실크속옷 영주님”.\n"
+"\n"
+"우리에게 그놈의 실크속옷 영주와 그의 부인의 초상화를 보여준 적도 있었다. 영주는 얼굴 한 대 쳐버리고 싶었고, 부인 쪽은—내가 밤에 "
+"따로 지도 좀 해주고 싶었다.\n"
+"\n"
+"그리고 데일즈를 지나갈 때, 코가 기-다랗고 짤막한 다리를 지닌 돼지와 마주쳤다. 항상 그렇듯 바보같이 큰 뱃살을 바닥에 질질 끌면서 "
+"도로를 건너고 있었다. 전지전능하신 창조주도, 저걸 창조할 때만큼은 그의 거룩한 황금 잔에 취해있었던 듯하다.\n"
+"\n"
+"어찌 됐든 난 로키에게 고개 돌려 말했다, “이봐, 앞에 스너플러가 있어.”\n"
+"\n"
+"마르찬드가 낄낄거리기 시작했다. 로키와 나는 그를 바라보았다.\n"
+"\n"
+"“스너플러!” 마치 내가 발가벗은 채로 그의 엄마와 함께 있는 걸 발견한 듯 소리쳤다. “아니지 스나우플러라고 말해야지’” 올레이스인께선 "
+"“스너플러”가 천박하게 들렸나 보다. 그래서 나는 그가 말한 대로 따라 말했다: 스놔아우우우-프르르르러. 웃음을 참기 힘들었다. "
+"마르찬드의 얼굴이 치마가 바람에 뒤집어진 처녀마냥 새빨개졌다. 로키는 로키답게 도로를 킁킁거리는 돼지를 화살로 쏴버렸다.\n"
+"\n"
+"“이제 죽었으니, 그냥 '죽은 것'이라고 칭하지,” 로키가 말했다. 그렇게 일단락이 났다.\n"
+"\n"
+"—서쪽 언덕의 커얼의 사냥일지, 솔리스 17날에서 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[610]/JournalTextData/TextReference
@@ -8443,6 +8469,42 @@ msgid ""
 "\n"
 "—From {i}The Word and Challenge of the Chant{/i} by Revered Mother Hevara"
 msgstr ""
+"그러자 창조주가 말하길,\n"
+"\n"
+"내 두 번째 자손인 너에게, 이러한 재능을 주겠노라\n"
+"\n"
+"네 마음 속은 억누를 수 없는 불꽃으로 타올라\n"
+"모든 것을 삼키고, 결코 만족하지 않으리.\n"
+"\n"
+"영계로부터 내가 너를 만들었으니,\n"
+"영계로 너는 다시 돌아올지어다\n"
+"매일 밤 꿈 속에서\n"
+"나를 항상 명심할지니.\n"
+"\n"
+"ㅡ애가의 찬송가 5 : 7\n"
+"\n"
+"1절부터 6절까지, 그 분의 첫 번째 자손들은 아무것도 원하지 않았습니다.\n"
+"욕구에서 자유로워, 그저 찬송만 할 수 있었습니다.\n"
+"이것은 그저 희생없는 허상일 뿐입니다.\n"
+"우리는, 이 모든 육신이, 투쟁이라는 과업을 위해 불변하게 되었습니다.\n"
+"나무와 돌로 만들어진 경이로움은 영계의 그 어떤 소망보다 더 많은 것을 증명합니다.\n"
+"\n"
+"이 성가의 부드럽디 부드러운 구절에서,\n"
+"우리는 그 분의 은총이, 심판이 얼마나 위대한 지 알 수 있습니다.\n"
+"깨달음을 위해, 그 분은 우리에게 꿈을 주셨으니, 우리는 이 정해진 세계에\n"
+"그 분의 영광을 투영시키기 위해 투쟁해야 할 것 입니다.\n"
+"어떤 이들은 밤마다 기억을 들여다보며 욕망만을 느끼지만, 그 분의 광휘를 짊어진 것 같았습니다.\n"
+"우리, 두 번째 자손들은, 원한을 고집하고 감정을 죽이고 유치한걸 쫓으며 명예에서 멀어져 그 분과 멀어졌습니다.\n"
+"우리는 실패했습니다. 우리 중 가장 나약한 이가 그 분의 시선을 간신히 되찾자 심술부리는 아기처럼 대했습니다.\n"
+"우리는 욕망을 극복하지 못했고, 한심하게 본능으로 행동했고, 그 분이 아닌 우리의 욕구를 채우기 위해 {i}감히{/i} 창조주를 우러러 "
+"보았으니\n"
+"그 분은 우리를 저버렸습니다.\n"
+"\n"
+"하지만 그 분은 엄하신 만큼 자비로우십니다. 우리가 길 잃었음을 우리도 알지요\n"
+"그 분의 두 번째 자손들은 배우고, 자라고, 변화 할 수 있습니다.\n"
+"그러하지 않는다면, 그 분의 첫 번째 자손보다 낫지도 낮지도 않은 겁니다.\n"
+"\n"
+"ㅡ {i}단어와 성가의 도전{/i}, 존경받는 어머니 헤베라"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[909]/JournalTextData/TextReference
@@ -12095,6 +12157,7 @@ msgstr ""
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1168]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:35569
+#, fuzzy
 msgctxt "0x00041946"
 msgid ""
 "In Tevinter, a slave is invisible, even though the entire empire rests on our backs. Our hands built the walls of Minrathous and carry its wealth along the crumbling roads. Scribes like myself take dictation and write letters that shift the balance of power. My daughter, Leonora, a kitchen slave, works night and day so Magister Delphine isn't troubled by a torn robe or a cold supper. \n"
@@ -12111,6 +12174,21 @@ msgid ""
 "\n"
 "—Written in secret by slave scribe Solvarin Brann, 8:65 Blessed"
 msgstr ""
+"테빈터에서는 노예가 보이지 않는다. 비록 제국 전체가 우리의 등에 업혀 쉬고 있음에도 말이다. 미느라소스의 성벽은 우리의 손에 의해 "
+"건설되었고 울퉁불퉁한 길을 따라 부를 가져왔다. 나와 같은 서기관들은 힘의 균형을 바꿀 수 있는 말과 편지를 받아 적는다. 내 딸, "
+"레오노라는 가정부 노예로서 밤낮으로 일한다. 그 덕에 매지스터 델핀은 옷이 찢어지거나 식은 음식을 먹게 될 염려가 없다.\n"
+" 보통, 나는 레오노라와 부엌에서 만난다. 하지만 마지막으로 만난 뒤로 며칠째 그러지 못하고 있다. 누구도 그녀를 보지 못했다.\n"
+" 난 도움을 줄 수는 없었지만 노예 시장에 관한 옛 이야기가 번뜩이며 떠올랐다. 몇 백 년 전, 조상들은 피의 마법으로 그들의 도시를 "
+"지었고 탑과 성벽을 쌓기 위해 끔찍한 의식을 행하며 살아있는 것들을 제물로 삼았다. 몇 천 명의 노예들이 고대신을 위한 제단에서 강제로 "
+"희생되었다. 매지스터 델핀의 완벽한 대리석 저택은 아마도 100명의 소리없는 엘프들 뒤에 서있을 것이다.\n"
+" 하지만 그것은 이미 지난얘기다. 안드라스테가 피의 마법에 대항하여 그것들 대부분을 금지시키고 멀리하는 관행을 만들어냈다. 비록 우리가 "
+"벌을 받는다고 해도 최소한의 문책 없이 제단으로 끌려가거나 피를 흘리는 노예는 거의 없을 것이다.\n"
+" 여전히 레오노라는 실종된 상태이고 매지스터 델핀은 평소와 달라 보인다. 그녀는 이전까지 없었던 기운을 뿜고 있다. 그리고 라이벌과의 "
+"마법 대결에서 공개적으로 망신을 당했다는 소문이 파다하게 퍼졌다. 나는 나의 슬픔을 두려워하고 있다. 사실 알고 있다, 레오노라의 목숨이 "
+"대결의 대가였다는 것을.\n"
+" 나는 매지스터 델핀에게 당당히 말해 진실을 받아내고 싶은 마음이 굴뚝같다. 하지만 그 말을 들은 그녀는 농담이나 하나 뱉을 것이 "
+"틀림없다. 누구도 그 노예를 보지 못했다는.\n"
+"-노예 서기관 솔바린 브란에 의해 비밀리에 작성됨, 8:65신성력"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1169]/JournalTextData/TextReference
@@ -20774,6 +20852,23 @@ msgid ""
 "\n"
 "{blank}"
 msgstr ""
+"안드라스테의 사도들은 역사적으로 독특한 위치를 차지하고 있다. 이 이교도 집단은 챈트리보다도 먼저 생겨나 너무도 외딴 곳에 숨어 있던 "
+"나머지 오늘날까지 존속하는 데 성공했다. 사도들은 프로스트백 산 높은 곳, 현재는 챈트리의 순례자들을 위한 성소가 된 헤이븐이라는 마을에 "
+"터를 잡았다. 안드라스테의 최초의 추종자들은 그녀의 유골을 페렐던으로 가져와서 그것을 안치할 성전을 건설하였고, 그 후손들이 안드라스테의 "
+"사도들로 알려져 있다. 안드라스테의 사도들은 성스러운 재의 성전을 보호하기로 맹세하였기에 프로스트백 산을 떠날 수 없었다. 구백 년 동안 "
+"그들은 접근하는 모든 이들을 죽이며 외부인의 침입을 방지했고, 그 보금자리의 경계 바깥에 펼쳐진 세상에 대해서는 완전히 무지한 채로 "
+"지냈다.\n"
+"\n"
+"안드라스테파 챈트리의 전통과 분리되어 발전해온 안드라스테의 사도들은 ‘존경받는 신부’가 이끌어 왔다. 그러나 그 외에는 사도들의 원래 "
+"교리에 관해서 알려진 바가 없는데, 이는 그들이 발견되었을 무렵에 이미 그 고귀한 혈통을 버렸기 때문이다. 거의 모든 학자들은 수 세기에 "
+"걸쳐 고립된 마을에서 자연히 근친 교배가 이루어 졌을 것이라고 믿고 있다. 이 관습은 아마도 더 큰 광기를 불러왔을 것이며, 9:30에 "
+"이 집단이 발견되었을 때 고위 드래곤을 숭배하고 있었던 이유일 수도 있을 것이다.\n"
+"\n"
+"헤이븐에서 발견된 문서에 따르면, 안드라스테의 사도들은 드래곤을 선지자의 환생으로 믿고 숭배하고 있었다. 용의 알무더기와 드래곤링들은 “"
+"안드라스테의 자손”이라는 이유로 경외와 보살핌을 받았다. 드래곤은 이러한 상황이 자신에게 유리하다는 것을 파악할 만한 지성을 갖추고 "
+"있었기에 그들을 공격하지 않았다.\n"
+"\n"
+"{blank}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1848]/JournalTextData/TextReference
@@ -44137,7 +44232,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystemCategories.xml:328
 msgctxt "0x00035bbc"
 msgid "Emprise du Lion"
-msgstr ""
+msgstr "사자의 용맹"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[17]/DescriptionReference
@@ -44151,49 +44246,53 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystemCategories.xml:345
 msgctxt "0x00042410"
 msgid "Skyhold Customizations"
-msgstr ""
+msgstr "스카이홀드 커스터마이즈"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[18]/DescriptionReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:350
 msgctxt "0x0004240f"
 msgid "Many aspects of Skyhold can be tailored to match the style and function of the Inquisitor's particular brand of leadership."
-msgstr ""
+msgstr "스카이홀드는 인퀴지터가 선호하는 방식에 따라 다양한 양식과 기능으로 변경할 수 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[19]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:362
 msgctxt "0x00042fdc"
 msgid "Bottles"
-msgstr ""
+msgstr "병"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[19]/DescriptionReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:367
+#, fuzzy
 msgctxt "0x00042fd9"
 msgid "With so much out to kill the people of Thedas, a good drink isn't so hard to find."
-msgstr ""
+msgstr "테다스 사람들이 왜그렇게 많이 죽어나가는지에 대해서는, 좋은 술이 어디에든 있기 때문입니다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[20]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:379
 msgctxt "0x00019c87"
 msgid "Crestwood"
-msgstr ""
+msgstr "크레스트우드"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[20]/DescriptionReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:384
+#, fuzzy
 msgctxt "0x00019c61"
 msgid "The village of Crestwood rests on the road between Val Royeaux and Denerim. Its villagers make their livings growing crops, keeping animals, and trading with travelers. And while wyverns and bandits complicate what might otherwise be a peaceful life here, most concerning is the dragon that's made its nest nearby."
 msgstr ""
+"크레스트우드 마을은 발 르와이요와 데나림 사이에 위치하는 마을입니다. 주민들은 농사를 짓거나 가축을 키우고 여행자들과 거래를 하며 생계를 "
+"유지합니다. 그리고 와이번들과 도적들이 이곳의 평화로운 삶을 어지럽히기도 하지만 가장 큰 걱정거리는 근처에 둥지를 튼 드래곤입니다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[21]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:396
 msgctxt "0x000435fb"
 msgid "The Winter Palace"
-msgstr ""
+msgstr "겨울궁전"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[21]/DescriptionReference
@@ -44201,13 +44300,15 @@ msgstr ""
 msgctxt "0x000435f7"
 msgid "The legendary getaway of Orlesian emperors and empresses is the finest building in all Halamshiral—and a symbolic seat of authority in a city once proudly held by the elves."
 msgstr ""
+"올레이 제국 황제와 여제의 전설적인 관문은 할람시랄에서 가장 훌륭한 건축물입니다 - 또한 엘프들에 의해 세워진 영광스런 도시의 권위를 "
+"나타내는 상징적인 자리이기도 합니다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[22]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:413
 msgctxt "0x00019c70"
 msgid "Exalted Plains"
-msgstr ""
+msgstr "승임의 평야"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[22]/DescriptionReference
@@ -44215,27 +44316,30 @@ msgstr ""
 msgctxt "0x00019c66"
 msgid "The Exalted Plains are steeped in conflict. Centuries ago, the elves of the Dales made their last stand here. More recently, the plains played host to some of the most heated conflicts of the Orlesian civil war. Somehow, despite ages of unrest, the lands the elves call \"Dirthavaren\" retain a fragile beauty."
 msgstr ""
+"승임의 평야는 갈등으로 둘러쌓인 곳입니다. 몇 세기전, 데일즈의 엘프들이 마지막 거처를 만들었습니다. 최근에 이 평원은 올레이 내전에서 "
+"가장 격렬한 분쟁의 주요 무대였습니다. 그러나 지속되는 불화에도 불구하고 엘프들은 이 땅을 'Dirthavaren' 즉 섬세한 아름다움을 "
+"간직한 땅이라고 부릅니다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[23]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:430
 msgctxt "0x00019c92"
 msgid "Arbor Wilds"
-msgstr ""
+msgstr "수목 야생지"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[23]/DescriptionReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:435
 msgctxt "0x00019c6b"
 msgid "The ancient Arbor Wilds protect many secrets deep within the overgrowth."
-msgstr ""
+msgstr "과도하게 성장한 고대의 수목 야생지는 많은 비밀들을 깊숙히 품고 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[24]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:447
 msgctxt "0x000303e9"
 msgid "Hissing Wastes"
-msgstr ""
+msgstr "칼바람 황무지"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[24]/DescriptionReference
@@ -44243,13 +44347,16 @@ msgstr ""
 msgctxt "0x000303ea"
 msgid "The Hissing Wastes is a stretch of sandy desert north of the Western Approach, a lonely place where the wildlife is hungry and hostile. Among the hungriest and most hostile are the dragons that make their nests here. The rare person wandering into the wastes is either hunting prized beasts or hoping to uncover evidence of a long-vanished civilization in the dunes."
 msgstr ""
+"칼바람 황부지는 서부 접근지역 북부에 위치한 사막지대로서 이곳의 야생동물들은 고립되어 굶주리고 적대적입니다. 특히 가장 굶주리고 적대적인 "
+"드래곤들이 이곳에 둥지를 틀었습니다. 가끔씩 보이는 방랑자들은 현상금이 걸린 야수들을 잡거나 사구에 묻혀 오랜 시간 보이지 않던 문명의 "
+"단서를 밝혀내려는 사람들입니다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[25]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:464
 msgctxt "0x00019c5e"
 msgid "The Hinterlands"
-msgstr ""
+msgstr "내륙지역"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[25]/DescriptionReference
@@ -44257,13 +44364,16 @@ msgstr ""
 msgctxt "0x00019c72"
 msgid "Nestled in the heart of Ferelden are the old forests and farmsteads of the Hinterlands. This rocky, rolling gateway to Redcliffe has now fallen into chaos. The conflict between mages and templars forced many off their lands, demons stalk the hills, and reports of strange magic abound near Redcliffe."
 msgstr ""
+"페렐덴 중심부에 자리잡고 있는 것은 오래된 숲과 내륙지역의 농장들입니다. 레드클리프로 이르는 울퉁불퉁하고 완만한 관문은 현재 혼란에 빠져 "
+"있습니다. 마법사와 템플러들의 다툼은 주민들을 그들의 땅에서 몰아냈고 언덕에선 악마들이 돌아다니며, 레드클리프 근처에서는 이상한 마법을 "
+"쓴다는 소문이 무성히 들려오고 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[26]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:481
 msgctxt "0x0002bbc5"
 msgid "Lost Temple of Dirthamen"
-msgstr ""
+msgstr "더터멘의 잃어버린 사원"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[26]/DescriptionReference
@@ -44271,13 +44381,15 @@ msgstr ""
 msgctxt "0x0002bbc8"
 msgid "Hidden off the southern coast of the Waking Sea, the Lost Temple of Dirthamen protects an ancient elven artifact of impossible value. Crumbling and flooded after ages of neglect, it is a dark, dangerous place full of despair."
 msgstr ""
+"깨어나는 바다 남쪽 해안에 숨겨진 더타멘의 잃어버린 사원은 어마어마한 가치의 고대 엘프 유물을 지키고 있습니다. 오랜 기간 방치 속에 "
+"무너지고 물이 들어 차, 어둠과 절망으로 가득한 장소입니다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[27]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:498
 msgctxt "0x00040c7d"
 msgid "Orphans and Junk"
-msgstr ""
+msgstr "고아들과 쓰레기"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[27]/DescriptionReference
@@ -44285,13 +44397,15 @@ msgstr ""
 msgctxt "0x00019c91"
 msgid "These journals and codex entries are orphans. They need a home. Maybe they are ghosts of journals that should not actually exist. If this is the case, they need closure."
 msgstr ""
+"이 일지와 문서에 나오는 것은 고아들이다. 그들은 집이 필요하다. 어쩌면 그들은 실제로는 존재하지 않는 일지의 유령들일지도 모른다. 만약 "
+"그것이 사실일 경우 문서를 처분하길 바란다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[28]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:515
 msgctxt "0x00019c8e"
 msgid "Inquisitor's Path"
-msgstr ""
+msgstr "인퀴지터의 길"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[28]/DescriptionReference
@@ -44299,27 +44413,29 @@ msgstr ""
 msgctxt "0x00019c7e"
 msgid "As the Inquisition's power grows, it gains enemies in equal measure. It will take an iron will to bring Thedas back from the brink of chaos, but that is precisely what must be done."
 msgstr ""
+"인퀴지션 역량이 성장함에 따라 적들도 그 만큼 강해집니다. 테다스를 혼돈의 끝에서 다시 끌어올리는 일은 반드시 이루어져야 하는 일이며 "
+"이를 위해서는 강철같은 의지가 필요로 합니다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[29]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:532
 msgctxt "0x00019c6d"
 msgid "History"
-msgstr ""
+msgstr "역사"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[29]/DescriptionReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:537
 msgctxt "0x00019c6f"
 msgid "Only fools ignore the history of the ground they walk and the people they meet."
-msgstr ""
+msgstr "오로지 바보만이 그들이 걷는 길과 만나는 사람들에 관한 역사를 무시한다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[30]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:549
 msgctxt "0x00041614"
 msgid "Skyhold"
-msgstr ""
+msgstr "스카이홀드"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[30]/DescriptionReference
@@ -44327,55 +44443,57 @@ msgstr ""
 msgctxt "0x00041615"
 msgid "Following the destruction of Haven, an abandoned castle in the Dales known as Skyhold now houses the only thing keeping Thedas from its darkest hour. Skyhold is larger and significantly more defensible. It should serve the Inquisition well."
 msgstr ""
+"헤이븐이 파괴됨에 따라, 데일즈의 스카이홀드라고 알려진 버려진 성만이 이제는 테다스를 가장 암울한 시기에서 지킬 수 있는 유일한 것을 "
+"보관하고 있다. 스카이홀드는 거대해졌으며 더욱 튼튼해졌다. 인퀴지션에 큰 도움이 될 것이다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[31]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:566
 msgctxt "0x000423fa"
 msgid "Landmarks"
-msgstr ""
+msgstr "지표"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[31]/DescriptionReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:571
 msgctxt "0x000423fc"
 msgid "Any navigator worth following will look out for distinctive landmarks that provide bearings and define regions."
-msgstr ""
+msgstr "길잡이를 따라가다 보면 지역을 밝히고 영향력을 제공할 수 있을만한 독특한 지표를 찾아줄 것입니다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[32]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:583
 msgctxt "0x00042416"
 msgid "Astrariums"
-msgstr ""
+msgstr "천체 투영관"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[32]/DescriptionReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:588
 msgctxt "0x00042417"
 msgid "The astrarium is a curious device of ancient Tevinter origin that allows the viewing of constellations in the stars."
-msgstr ""
+msgstr "천체 투영관은 고대 테빈터에서 만들어진 별자리와 별들을 볼 수 있게 해주는 흥미로운 장치 입니다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[33]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:600
 msgctxt "0x00040c80"
 msgid "Maps"
-msgstr ""
+msgstr "지도"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[33]/DescriptionReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:605
 msgctxt "0x00040c7f"
 msgid "Not all treasure is stumbled upon. Sometimes there's a map."
-msgstr ""
+msgstr "모든 보물들이 탐색으로 찾아지는 것은 아닙니다. 가끔은 지도에 나와있는 것도 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[34]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:617
 msgctxt "0x00019c7a"
 msgid "The Western Approach"
-msgstr ""
+msgstr "서부 접근지역"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[34]/DescriptionReference
@@ -44383,27 +44501,30 @@ msgstr ""
 msgctxt "0x00019c68"
 msgid "The desolate badlands known as the Western Approach are as massive as they are barren. Bordered to the west by steppes and crawling with monsters, the approach is a place from which few explorers return and most avoid. The Grey Warden fortress Adamant sits on the edge of a great chasm on the approach's southern reaches, one of the few remaining signs that the greatest battles of the Second Blight were fought here."
 msgstr ""
+"황폐한 불모지로 알려진 서부 진입로는 황량한 만큼이나 거대하다. 서쪽으로는 괴물들이 어슬렁거리는 초원지대와 맞닿아있어 진입로로 향한 "
+"모험가들 중 되돌아오는 자는 소수이며 대부분이 기피하는 지역이다. 두 번째 대재앙 때 일어난 가장 격렬한 전투의 흔적이 남아있는 얼마 "
+"되지 않는 장소 중 하나인 회색 감시자들의 견고한 요새는 진입로 남부의 거대한 협곡 끄트머리에 있다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[35]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:634
 msgctxt "0x00042fda"
 msgid "Songs"
-msgstr ""
+msgstr "노래"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[35]/DescriptionReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:639
 msgctxt "0x00042fd7"
 msgid "Songs chronicle the history and cultural experience of life in Thedas."
-msgstr ""
+msgstr "노래는 테다스에서의 삶의 경험과 그들의 역사를 그리고 있다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[36]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:651
 msgctxt "0x00019c8f"
 msgid "Creatures"
-msgstr ""
+msgstr "생물"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[36]/DescriptionReference
@@ -44411,6 +44532,8 @@ msgstr ""
 msgctxt "0x00019c63"
 msgid "Thedas is full of weird and wild creatures. Some are dangerous. Some are harmless. It's important to be able to tell the difference."
 msgstr ""
+"테다스는 신비한 야생의 생물들로 가득 차 있다. 어떤 것들은 위험하며 어떤 것은 무해하다. 그 차이를 이해하는 것이 중요하다고 볼 수 "
+"있다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[37]/TitleReference
@@ -44431,7 +44554,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystemCategories.xml:685
 msgctxt "0x00043890"
 msgid "Crafting Materials"
-msgstr ""
+msgstr "제작 재료"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[38]/DescriptionReference
@@ -44439,13 +44562,15 @@ msgstr ""
 msgctxt "0x0004388f"
 msgid "An army is only as good as its equipment. Fortunately, the landscape is filled with natural resources that can be crafted into items that will give troops an edge."
 msgstr ""
+"부대는 그들의 장비에 의해 성능이 좌우됩니다. 다행스럽게도 세상은 자원들로 가득 차 있고 이를 통해 아이템을 제작하여 부대를 강화시킬 수 "
+"있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[39]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:702
 msgctxt "0x00019c6a"
 msgid "Val Royeaux"
-msgstr ""
+msgstr "발 르와이요"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[39]/DescriptionReference
@@ -44453,27 +44578,29 @@ msgstr ""
 msgctxt "0x00019c82"
 msgid "Val Royeaux is the capital of Orlais and the largest city in the empire. It is also by far its most cosmopolitan—the saying goes that sooner or later, everyone passes through its gates."
 msgstr ""
+"발 르와이요는 올레이의 수도이자 제국에서 가장 큰 도시이다. 또한 가장 국제적인 도시이기도 하다 - 이 곳 문을 들어서는 모든 사람들이 "
+"일찍이든 나중에든 꼭 남기는 말이다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[40]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:719
 msgctxt "0x00040c7a"
 msgid "Groups"
-msgstr ""
+msgstr "집단"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[40]/DescriptionReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:724
 msgctxt "0x00019c7f"
 msgid "The organizations and peoples of Thedas are numerous and often draw hard lines to stand behind."
-msgstr ""
+msgstr "테다스에는 수 많은 사람들과 기관들이 존재하며, 그들은 종종 강경한 태도를 취하기도 합니다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[41]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:736
 msgctxt "0x0003fd3c"
 msgid "The Storm Coast"
-msgstr ""
+msgstr "폭풍 해안"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[41]/DescriptionReference
@@ -44481,13 +44608,15 @@ msgstr ""
 msgctxt "0x0003fd3b"
 msgid "The Storm Coast is a sparsely-populated stretch of shoreline along the Waking Sea. Ancient dwarven ruins—abandoned since the Divine Age—still line the coast, their architects long forgotten."
 msgstr ""
+"폭풍해안은 인적이 거의 없는 해안가가 깨어나는 바다를 따라 있는 곳이다. 고대 드워프의 폐허 - 교황시대 부터 버려진 장소- 들이 여전히 "
+"해안에 늘어져 있으며 그들의 건축물들은 오랜기간 잊혀진 채로 있다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[42]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:753
 msgctxt "0x000435f8"
 msgid "The Fade"
-msgstr ""
+msgstr "영계"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[42]/DescriptionReference
@@ -44495,41 +44624,43 @@ msgstr ""
 msgctxt "0x000435f9"
 msgid "The Fade is a realm of dreamers, shaped by the spirits who call it home. Though it may at times resemble the waking world, it is more like a bent reflection, crafted by the spirits with great interest but little understanding of the way the world works."
 msgstr ""
+"영계는 홈이라고 불리는 영혼들로 구성된 몽상가들의 왕국이다. 깨어있는 세계와 닮아있는 때가 많지만 그것은 왜곡된 상에 가깝다, 영혼들이 "
+"큰 흥미를 들여 만들었지만 세계가 어떤 원리로 작동하는지에 대해서는 큰 이해가 없었던 탓이다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[43]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:770
 msgctxt "0x00040c7c"
 msgid "Tales"
-msgstr ""
+msgstr "이야기"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[43]/DescriptionReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:775
 msgctxt "0x00040c7b"
 msgid "Stories and songs are windows into the minds of the people."
-msgstr ""
+msgstr "이야기와 노래를 통해 사람들의 속마음을 알아 낼 수 도 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[44]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:787
 msgctxt "0x00041f50"
 msgid "Multiplayer"
-msgstr ""
+msgstr "멀티플레이어"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[44]/DescriptionReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:792
 msgctxt "0x00041f53"
 msgid "All journals related to multiplayer quests."
-msgstr ""
+msgstr "모든 저널은 멀티플레이어 퀘스트와 연관되어 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[45]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:804
 msgctxt "0x000423f5"
 msgid "Regions"
-msgstr ""
+msgstr "지역"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[45]/DescriptionReference
@@ -44537,41 +44668,45 @@ msgstr ""
 msgctxt "0x000423f8"
 msgid "The unique and wondrous corners of southern Thedas are often best explored with a sword in hand, but that's not to say they aren't worth exploring."
 msgstr ""
+"신비하고도 멋진 테다스 남부지역의 구석진 부분은 대체로 검을 가지고 탐험해야 하는 곳이지만 그렇다고 탐험할 가치가 없다는 뜻은 아니다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[46]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:821
 msgctxt "0x0003a0aa"
 msgid "The Fallow Mire"
-msgstr ""
+msgstr "고요한 늪지"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[46]/DescriptionReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:826
+#, fuzzy
 msgctxt "0x0003a0a8"
 msgid "The Fallow Mire is a sprawling stretch of isolated marshland in southwestern Ferelden. The muggy, treacherous bog was once home to a small fishing community called Fisher's End, which was wiped out by a plague that swept through a few years ago."
 msgstr ""
+"고요한 늪지는 남부 페렐든에 위치한 고립된 습지대에서 끊임없이 뻗어나가고 있는 중이다. 이 후텁지근하고 위험한 습지는 한 때 어부의 "
+"끄트머리라고 불리는 어부들의 작은 거처였다. 그러나 이들은 몇 년전 불어닥친 전염병에 의해 모두 몰살당했다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[47]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:838
 msgctxt "0x00042fdb"
 msgid "High Dragons"
-msgstr ""
+msgstr "고위 드래곤"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[47]/DescriptionReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:843
 msgctxt "0x00042fd8"
 msgid "High dragons stalk the lands and own the skies of Thedas. When chaos is near commonplace, taking down these beasts can only help."
-msgstr ""
+msgstr "고위 드래곤은 테다스의 하늘과 대지에 군림한다. 혼돈이 찾아올 때면 이 괴수를 쓰러뜨리는 것만이 유일한 구원이 될 것이다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[48]/TitleReference
 #: Systems\JournalSystem\JournalSystemCategories.xml:855
 msgctxt "0x00019c75"
 msgid "Magic"
-msgstr ""
+msgstr "마력"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[48]/DescriptionReference
@@ -44579,3 +44714,5 @@ msgstr ""
 msgctxt "0x00019c5c"
 msgid "Across much of Thedas, magic is a power that is feared or reviled. But it often proves useful. The more magic is studied, the better off the people wielding or running from it."
 msgstr ""
+"테다스 거의 모든 지역에서 마력은 두려움이자 멸시의 대상이다. 하지만 종종 쓸모있을 때가 있다. 더 많은 마법이 연구될 수록 이용하거나 "
+"그것으로부터 도망치는 사람이 더 많아질 것이다."
