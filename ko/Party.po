@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-16 12:12+0000\n"
+"PO-Revision-Date: 2021-01-17 14:01+0000\n"
 "Last-Translator: 큡수뎃 <quoobt@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -44,6 +44,12 @@ msgid ""
 "<font color=\"#BAAB7B\">Tier 2: </font><font color=\"#F5ECCE\">Duration: {CUSTOM1} seconds</font>\n"
 "<font color=\"#BAAB7B\">Tier 3: </font><font color=\"#F5ECCE\">Duration: {CUSTOM2} seconds</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">1단계: </font><font color=\"#F5ECCE\">지속시간: {CUSTOM0} "
+"초</font>\n"
+"<font color=\"#BAAB7B\">2단계: </font><font color=\"#F5ECCE\">지속시간: {CUSTOM1} "
+"초</font>\n"
+"<font color=\"#BAAB7B\">3단계: </font><font color=\"#F5ECCE\">지속시간: {CUSTOM2} "
+"초</font>\n"
 
 #. FILE: DA3\Party\Archived\party_warrior_twohanded_basic_defensiveattackrandom_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -108,6 +114,12 @@ msgid ""
 "<font color=\"#BAAB7B\">Tier 2: </font><font color=\"#F5ECCE\">Duration: {CUSTOM1} seconds</font>\n"
 "<font color=\"#BAAB7B\">Tier 3: </font><font color=\"#F5ECCE\">Duration: {CUSTOM2} seconds</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">1단계: </font><font color=\"#F5ECCE\">지속시간: {CUSTOM0} "
+"초</font>\n"
+"<font color=\"#BAAB7B\">2단계: </font><font color=\"#F5ECCE\">지속시간: {CUSTOM1} "
+"초</font>\n"
+"<font color=\"#BAAB7B\">3단계: </font><font color=\"#F5ECCE\">지속시간: {CUSTOM2} "
+"초</font>\n"
 
 #. FILE: DA3\Party\Rogue\Archery\ArrowOfSlaying\party_rogue_archery_arrowofslaying_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -387,13 +399,12 @@ msgstr "기절 사격"
 #. FILE: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade1_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x00043212"
 msgid ""
 "Enemies hit by Full Draw are knocked briefly unconscious by the power of your shot.\n"
 "\n"
 msgstr ""
-"만궁에 피격당한 적은 그 힘에 나가떨어져 잠시 의식을 잃습니다.\n"
+"정조준 사격에 피격당한 적은 그 힘에 나가떨어져 잠시 의식을 잃습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade1_abilitydata.xml
@@ -4060,6 +4071,8 @@ msgid ""
 "You stand ready to deflect the next incoming attack and deliver a punishing counter to your attacker.\n"
 "\n"
 msgstr ""
+"자세를 가다듬어 적의 다음 공격을 막고 뼈아픈 일격으로 되돌려줍니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Counter\party_warrior_twohanded_counter_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -4083,13 +4096,15 @@ msgid ""
 "Countering an enemy's attack now does bonus damage and adds to your guard.\n"
 "\n"
 msgstr ""
+"맞받아치는 공격의 피해량이 증가하고, 새롭게 방어도를 얻을 수 있습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Counter\party_warrior_twohanded_counter_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\TwoHanded\Counter\party_warrior_twohanded_counter_upgrade2_abilitydata.xml:5
 msgctxt "0x0004b2c1"
 msgid "Spinning Defense"
-msgstr ""
+msgstr "회전 방어"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Counter\party_warrior_twohanded_counter_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4099,13 +4114,15 @@ msgid ""
 "Your counterattack does more damage and now slashes in a full circle.\n"
 "\n"
 msgstr ""
+"받아치는 공격의 형태가 원형으로 바뀌고, 피해량이 증가합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\MightyBlow\party_warrior_twohanded_mightyblow_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\TwoHanded\MightyBlow\party_warrior_twohanded_mightyblow_abilitydata.xml:5
 msgctxt "0x00042837"
 msgid "Earthshaking Strike"
-msgstr ""
+msgstr "대지 분쇄"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\MightyBlow\party_warrior_twohanded_mightyblow_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -4115,13 +4132,15 @@ msgid ""
 "Your great blow tears open the ground with a shockwave that batters enemies caught in its path.\n"
 "\n"
 msgstr ""
+"대지를 찢어발기는 일격으로 지면을 강타합니다. 땅에서 터져 나오는 충격파가 휘말린 적들에게 지속해서 피해를 줍니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\MightyBlow\party_warrior_twohanded_mightyblow_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\TwoHanded\MightyBlow\party_warrior_twohanded_mightyblow_upgrade1_abilitydata.xml:5
 msgctxt "0x00043a89"
 msgid "Shattered Ground"
-msgstr ""
+msgstr "갈라진 대지"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\MightyBlow\party_warrior_twohanded_mightyblow_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4131,13 +4150,15 @@ msgid ""
 "Flames erupt from the fissure left by Earthshaking Strike, damaging enemies that cross it.\n"
 "\n"
 msgstr ""
+"대지 분쇄로 갈라진 지면의 틈에서 불길이 솟아올라, 지나가는 적에게 피해를 줍니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\MightyBlow\party_warrior_twohanded_mightyblow_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\TwoHanded\MightyBlow\party_warrior_twohanded_mightyblow_upgrade2_abilitydata.xml:5
 msgctxt "0x000483e7"
 msgid "Tremor"
-msgstr ""
+msgstr "지진"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\MightyBlow\party_warrior_twohanded_mightyblow_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4147,6 +4168,8 @@ msgid ""
 "Earthshaking Strike now immobilizes enemies struck by the second blast.\n"
 "\n"
 msgstr ""
+"대지 분쇄의 후속 피해에 휘말린 적들을 이동 불가 상태로 만듭니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\PommelStrike\party_warrior_twohanded_pommelstrike_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -4201,7 +4224,7 @@ msgstr ""
 #: DA3\Party\Warrior\TwoHanded\Pound\party_warrior_twohanded_pound_abilitydata.xml:5
 msgctxt "0x00042839"
 msgid "Mighty Blow"
-msgstr ""
+msgstr "호쾌한 강타"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Pound\party_warrior_twohanded_pound_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -4211,13 +4234,15 @@ msgid ""
 "You deliver a powerful attack that crumples foes, leaving them knocked down for a short time. You do more damage to targets that are already knocked down.\n"
 "\n"
 msgstr ""
+"적들에게 강력한 공격을 날려 짧은 시간 동안 바닥에 쓰러트립니다. 이미 바닥에 쓰러진 적들에게는 더 큰 피해를 줍니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Pound\party_warrior_twohanded_pound_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\TwoHanded\Pound\party_warrior_twohanded_pound_upgrade1_abilitydata.xml:5
 msgctxt "0x0004283b"
 msgid "Easy Target"
-msgstr ""
+msgstr "쉬운 먹잇감"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Pound\party_warrior_twohanded_pound_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4227,6 +4252,8 @@ msgid ""
 "Mighty Blow costs less stamina and deals increased damage against targets that have been knocked down.\n"
 "\n"
 msgstr ""
+"호쾌한 강타가 지구력을 덜 소모하고, 이미 바닥에 쓰러진 적들에게는 매우 큰 피해를 줍니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Pound\party_warrior_twohanded_pound_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -4240,7 +4267,7 @@ msgstr ""
 #: DA3\Party\Warrior\TwoHanded\Pound\party_warrior_twohanded_pound_upgrade2_abilitydata.xml:5
 msgctxt "0x00048263"
 msgid "Stay Down"
-msgstr ""
+msgstr "누워 있어"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Pound\party_warrior_twohanded_pound_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4250,13 +4277,15 @@ msgid ""
 "Enemies knocked down by Mighty Blow are slower to get back to their feet.\n"
 "\n"
 msgstr ""
+"호쾌한 강타로 쓰러진 적들이 일어나기까지 걸리는 시간이 증가합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Whirlwind\party_warrior_twohanded_whirlwind_ability.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\TwoHanded\Whirlwind\party_warrior_twohanded_whirlwind_ability.xml:5
 msgctxt "0x00042855"
 msgid "Whirlwind"
-msgstr ""
+msgstr "소용돌이"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Whirlwind\party_warrior_twohanded_whirlwind_ability.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -4266,13 +4295,16 @@ msgid ""
 "You spin with your weapon outstretched, cutting through any enemies in your path.\n"
 "\n"
 msgstr ""
+"무기를 들고 회전하며 적들을 공격합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Whirlwind\party_warrior_twohanded_whirlwind_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\TwoHanded\Whirlwind\party_warrior_twohanded_whirlwind_upgrade1_abilitydata.xml:5
+#, fuzzy
 msgctxt "0x00042857"
 msgid "Rising Winds"
-msgstr ""
+msgstr "상승기류"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Whirlwind\party_warrior_twohanded_whirlwind_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4282,6 +4314,8 @@ msgid ""
 "Whirlwind becomes more effective the longer you sustain it.\n"
 "\n"
 msgstr ""
+"소용돌이를 오래 유지할수록 더 강력해집니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Whirlwind\party_warrior_twohanded_whirlwind_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
@@ -4289,13 +4323,15 @@ msgstr ""
 msgctxt "0x00042933"
 msgid "<font color=\"#BAAB7B\">Damage Bonus per Rotation: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">회전 횟수 당 피해량 증가: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}%</font>\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Whirlwind\party_warrior_twohanded_whirlwind_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\TwoHanded\Whirlwind\party_warrior_twohanded_whirlwind_upgrade2_abilitydata.xml:5
 msgctxt "0x0004285b"
 msgid "Gale Force"
-msgstr ""
+msgstr "돌풍"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Whirlwind\party_warrior_twohanded_whirlwind_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4305,13 +4341,15 @@ msgid ""
 "Whirlwind has a reduced cooldown time, deals more damage, and delivers heavier hits, knocking enemies back.\n"
 "\n"
 msgstr ""
+"소용돌이의 재사용 대기 시간이 감소하고, 더 큰 피해를 입히며, 강한 충격으로 적들을 밀어냅니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Whirlwind\party_warrior_twohanded_whirlwind_upgrade3_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\TwoHanded\Whirlwind\party_warrior_twohanded_whirlwind_upgrade3_abilitydata.xml:5
 msgctxt "0x00048265"
 msgid "Vortex of Steel"
-msgstr ""
+msgstr "강철의 폭풍"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Whirlwind\party_warrior_twohanded_whirlwind_upgrade3_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4321,13 +4359,15 @@ msgid ""
 "Whirlwind strikes pull nearby enemies toward you.\n"
 "\n"
 msgstr ""
+"소용돌이에 적중당한 적들을 끌어모읍니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Vanguard\ArmorUp\party_warrior_vanguard_armorup_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\Vanguard\ArmorUp\party_warrior_vanguard_armorup_abilitydata.xml:5
 msgctxt "0x0004847e"
 msgid "Livid"
-msgstr ""
+msgstr "격노"
 
 #. FILE: DA3\Party\Warrior\Vanguard\ArmorUp\party_warrior_vanguard_armorup_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -4337,6 +4377,8 @@ msgid ""
 "The more foes nearby, the harder you fight and the tougher you get.\n"
 "\n"
 msgstr ""
+"근처에 있는 적들의 수가 많을수록 공격력과 방어력이 증가합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Vanguard\ArmorUp\party_warrior_vanguard_armorup_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
@@ -4344,6 +4386,8 @@ msgstr ""
 msgctxt "0x00042916"
 msgid "<font color=\"#BAAB7B\">Maximum Stacks: </font><font color=\"#F5ECCE\">{CUSTOM0}</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">최대 중첩: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}</font>\n"
 
 #. FILE: DA3\Party\Warrior\Vanguard\ArmorUp\party_warrior_vanguard_armorup_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
@@ -4351,6 +4395,8 @@ msgstr ""
 msgctxt "0x0004712d"
 msgid "<font color=\"#BAAB7B\">Damage Reduction: </font><font color=\"#F5ECCE\">{CUSTOM0}% per enemy</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">받는 피해 감소: </font><font color=\"#F5ECCE\">적 한명 당 "
+"{CUSTOM0}%</font>\n"
 
 #. FILE: DA3\Party\Warrior\Vanguard\ArmorUp\party_warrior_vanguard_armorup_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[5]/FloatProviderTokenizedString/StringReference
@@ -4358,6 +4404,8 @@ msgstr ""
 msgctxt "0x0004714b"
 msgid "<font color=\"#BAAB7B\">Damage Bonus Increased By: </font><font color=\"#F5ECCE\">{CUSTOM0}% per enemy hit</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">가하는 피해 증가: </font><font color=\"#F5ECCE\">적 적중 횟수 "
+"당{CUSTOM0}%</font>\n"
 
 #. FILE: DA3\Party\Warrior\Vanguard\ArmorUp\party_warrior_vanguard_armorup_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -4374,13 +4422,15 @@ msgid ""
 "When you use Livid, you gain guard for each nearby enemy.\n"
 "\n"
 msgstr ""
+"격노를 사용하면 근처에 있는 적의 수에 비례해 방어도를 얻습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Vanguard\ArmorUp\party_warrior_vanguard_armorup_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\Vanguard\ArmorUp\party_warrior_vanguard_armorup_upgrade2_abilitydata.xml:5
 msgctxt "0x00048481"
 msgid "Endless Strength"
-msgstr ""
+msgstr "끝없는 힘"
 
 #. FILE: DA3\Party\Warrior\Vanguard\ArmorUp\party_warrior_vanguard_armorup_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4390,6 +4440,8 @@ msgid ""
 "Striking a killing blow with Livid active resets its duration.\n"
 "\n"
 msgstr ""
+"격노 중에 적을 처치하면 지속 시간이 초기화됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Vanguard\ArmyRoll\Upgrade1\party_warrior_vanguard_armyroll_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -4718,6 +4770,12 @@ msgid ""
 "<font color=\"#BAAB7B\">Tier 2: </font><font color=\"#F5ECCE\">Duration: {CUSTOM1} seconds</font>\n"
 "<font color=\"#BAAB7B\">Tier 3: </font><font color=\"#F5ECCE\">Duration: {CUSTOM2} seconds</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">1단계: </font><font color=\"#F5ECCE\">지속시간: {CUSTOM0} "
+"초</font>\n"
+"<font color=\"#BAAB7B\">2단계: </font><font color=\"#F5ECCE\">지속시간: {CUSTOM1} "
+"초</font>\n"
+"<font color=\"#BAAB7B\">3단계: </font><font color=\"#F5ECCE\">지속시간: {CUSTOM2} "
+"초</font>\n"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\Revenge\party_warrior_weaponshield_revenge_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -5067,10 +5125,11 @@ msgstr "사령술사"
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Bloodmage_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 #: DA3\Party\general\AbilityTrees\Mage_Bloodmage_Spec_AbilityTree.xml:10
-#, fuzzy
 msgctxt "0x00043acb"
 msgid "These mages specialize in binding the spirits that are drawn to death. They can put the fear of death into enemies, bring spirits to fight on their behalf, and even cause devastating explosions when their enemies die."
-msgstr "이 마법사들은 죽은 자들의 영혼을 끌어내 활용합니다. 사령술사들은 적에게 공포를 심어주며 그들을 대신해 싸울 영혼들을 불러올 수 있습니다, 또 적이 사망했을 때 파괴적인 위력의 시체폭발을 일으킬 수 있습니다."
+msgstr ""
+"이 마법사들은 죽은 자들의 영혼을 끌어내 활용합니다. 사령술사들은 적에게 공포를 심어주며 그들을 대신해 싸울 영혼들을 불러올 수 "
+"있습니다, 또 적이 사망했을 때 파괴적인 위력의 시체 폭발을 일으킬 수 있습니다."
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Dorian_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
@@ -5114,14 +5173,15 @@ msgstr "폭풍 학파를 통달한 마법사는 천둥과 번개의 힘을 부�
 #: DA3\Party\general\AbilityTrees\Mage_KnightEnchanter_Spec_AbilityTree.xml:5
 msgctxt "0x0002b8af"
 msgid "Knight-Enchanter"
-msgstr "마법 기사"
+msgstr "기사-마도사"
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_KnightEnchanter_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 #: DA3\Party\general\AbilityTrees\Mage_KnightEnchanter_Spec_AbilityTree.xml:10
 msgctxt "0x00043aca"
 msgid "These rare mages received special dispensation from the Chantry to serve in battle. They summon blades from the Fade and are experts in protection and defense."
-msgstr "챈트리에서 전장에서 싸울 수 있는 특별 허가권을 내려받은 특별한 마법사들입니다. 영계로부터 검을 소환해 싸우며 보호와 방어의 달인입니다."
+msgstr ""
+"챈트리에서 전장에서 싸울 수 있도록 특별히 허가받은 희귀한 마법사들입니다. 영계로부터 검을 소환해 싸우며, 보호와 방어의 달인입니다."
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_Primal_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeNameReference
@@ -5258,10 +5318,11 @@ msgstr "사보타주"
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_FieldControl_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
 #: DA3\Party\general\AbilityTrees\Rogue_FieldControl_AbilityTree.xml:10
-#, fuzzy
 msgctxt "0x00043acf"
 msgid "Experts in these talents specialize in poisons and traps. Their dirty tricks leave enemies sick and limping, easy pickings for a sharp blade or a barbed arrow."
-msgstr "독과 함정에 능통한 전문가들입니다. 치사한 속임수로 적들을 약화시키거나 불구로 만듭니다, 또한"
+msgstr ""
+"이러한 재능의 전문가는 독과 함정을 전문으로합니다. 그들의 더러운 속임수는 적을 아프게하고 절뚝 거리게하며 날카로운 칼날이나 가시 화살을 "
+"쉽게 뽑습니다."
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Sera_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
@@ -7653,7 +7714,7 @@ msgstr ""
 #: DA3\Party\general\party_general_jump_abilitydata.xml:5
 msgctxt "0x00035245"
 msgid "Jump"
-msgstr ""
+msgstr "점프"
 
 #. FILE: DA3\Party\general\party_general_mp_sprint_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference

@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-16 12:12+0000\n"
-"Last-Translator: 박성범 <psb3421@naver.com>\n"
+"PO-Revision-Date: 2021-01-17 14:01+0000\n"
+"Last-Translator: 전진 <vanishintoair@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journalsystem/"
 "ko/>\n"
 "Language: ko\n"
@@ -54,7 +54,7 @@ msgstr "올레이 대학이 고요한 늪지 지질 조사를 위해 소환석�
 #: Systems\JournalSystem\JournalSystem.xml:1864
 msgctxt "0x000300df"
 msgid "A persistent messenger wants to have a word."
-msgstr ""
+msgstr "전할 말이 있어보이는 배달부가 당신에게 끈질기게 다가옵니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[8]/JournalTextData/TextReference
@@ -146,6 +146,8 @@ msgstr "사원의 잠긴 문에서 흙냄새가 납니다."
 msgctxt "0x00041f65"
 msgid "Vivienne wishes to undo the damage done to her beloved Circle of Magi and hopefully restore it to its former relevance. Recovering phylacteries and tomes lost with the fall of the Circles will help."
 msgstr ""
+"비비엔은 자신이 사랑했던 마법사 협회에 끼친 피해를 되돌리고, 이전의 위용을 복원하고자 합니다. 협회의 몰락과 함께 잃어버린 서적들과 "
+"성물함을 되찾는 것이 도움 될 겁니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[25]/JournalTextData/TextReference
@@ -208,7 +210,7 @@ msgstr "사자의 용맹 지역에서 붉은 리륨과 붉은 기사단 활동 �
 #: Systems\JournalSystem\JournalSystem.xml:2421
 msgctxt "0x0003fdf1"
 msgid "Play the Grand Game and impress the palace guests by tossing Caprice coins into a fountain."
-msgstr "대무술 대회에 참가하고 카프리스 동전을 분수대에 던져 궁에 초대받은 연회객들에게 깊은 인상을 남기십시오."
+msgstr "대무술 대회에 참가하고 카프리스 동전을 분수대에 던져 궁에 초대받은 연회객들에게 깊은 인상을 남기세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[34]/JournalTextData/TextReference
@@ -231,7 +233,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:2460
 msgctxt "0x000393b4"
 msgid "Marshal Proulx sent a patrol out in the hopes reclaiming Riverside Garrison. No word has been heard since."
-msgstr ""
+msgstr "프룩스 장군은 강가 수비대를 찾기를 바라며 순찰대를 보냈습니다. 그 이후로 아무 소식도 없습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[37]/JournalTextData/TextReference
@@ -262,27 +264,29 @@ msgstr ""
 msgctxt "0x0003191d"
 msgid "Troilus Hertubise is researching Fade rifts for what he calls his \"Great Mission.\" He appears to have camped at a safe distance from each rift for a time, observing its behavior."
 msgstr ""
+"트로일로스 허트비즈는 자신이 \"위대한 작업\"이라고 부르는 일을 위해 영계 균열을 연구했습니다. 각 영계 균열에서 떨어진 안전한 거리에 "
+"한동안 자리를 잡고, 균열을 관찰했던 것 같습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[41]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:2559
 msgctxt "0x00017068"
 msgid "It is time to prepare for the final confrontation with Corypheus."
-msgstr ""
+msgstr "코리피우스와의 최후의 결전을 준비해야 할 때입니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[42]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:2589
 msgctxt "0x00040d6f"
 msgid "Corypheus has reopened the Breach. You must stop him."
-msgstr ""
+msgstr "코리피우스가 대균열을 다시 열고 있습니다. 반드시 막아야 합니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[43]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:2619
 msgctxt "0x0002e20d"
 msgid "The Breach is sealed and Corypheus defeated. You may celebrate, briefly."
-msgstr ""
+msgstr "대균열은 봉인되었고 코리피우스는 패배했습니다. 간단하게 축하 정도는 해도 되겠죠."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[44]/JournalTextData/TextReference
@@ -290,20 +294,22 @@ msgstr ""
 msgctxt "0x000421da"
 msgid "A letter, written by Divine Justinia and posthumously delivered to Leliana, directed Leliana to visit Valence, a small village on the Waking Sea. The Divine left something in the chantry that Leliana must see."
 msgstr ""
+"교황 저스티니아가 쓰고 사후 렐리아나에게 발신되도록 한 편지입니다, 편지에 렐리아나에게 발렌스로 가서 일깨우는 바다에 있는 작은 마을에 "
+"방문하라 적혀있습니다. 예베당에 렐리아나가 반드시 봐야 할 걸 남겼다고 합니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[46]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:2709
 msgctxt "0x000320c0"
 msgid "One of Cullen's runners said he is discussing something with Cassandra."
-msgstr ""
+msgstr "컬렌의 전령이 말하길, 그는 카산드라와 함께 무언가에 대해 논의하고 있다고 합니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[47]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:2739
 msgctxt "0x000320cd"
 msgid "Cullen is suffering the effects of lyrium withdrawal. Cassandra wonders if now is the best time for Cullen to stop taking it."
-msgstr ""
+msgstr "컬렌은 리륨 금단 증상으로 고통을 겪고 있습니다. 카산드라는 컬렌이 지금 리륨을 끊는 것이 과연 좋은 선택인지 의문을 표합니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[49]/JournalTextData/TextReference
@@ -311,20 +317,22 @@ msgstr ""
 msgctxt "0x00039c0c"
 msgid "A strange shard has been discovered. It appears to be of ancient origin and may be part of a larger set. Further study could reveal more."
 msgstr ""
+"기묘한 편린을 찾아냈습니다. 원래는 더 큰 무언가의 일부 같으며 고대 유물과 관련이 있는 것 같습니다. 더 연구해보면 뭔가 알아낼 수 "
+"있을 겁니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[50]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:2795
 msgctxt "0x00037fe5"
 msgid "Search for any shards scattered around the Exalted Plains."
-msgstr ""
+msgstr "승임의 평야 지역에 흩어져있는 편린을 찾아보세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[51]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:2808
 msgctxt "0x0002f7ef"
 msgid "A wealthy young landowner's daughter, Seanna, has built a course for racing horses."
-msgstr ""
+msgstr "부유한 젊은 지주의 딸인 시안나가 경주로를 만들어놨습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[52]/JournalTextData/TextReference
@@ -332,6 +340,7 @@ msgstr ""
 msgctxt "0x0003193a"
 msgid "Someone or something has stirred inside the tiniest mouth of the tiniest cave in the Emerald Graves. It now demands crystal grace."
 msgstr ""
+"누군가 아니면 뭔가가 에메랄드 무덤에 있는 쬐끄만 동굴의 쬐끄만 입구에서 움직였습니다. 이제 그 뭔가가 품위의 결정체를 달라고 합니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[53]/JournalTextData/TextReference
@@ -339,48 +348,50 @@ msgstr ""
 msgctxt "0x00032f26"
 msgid "Documents found in Costeau's camp mention a commander for the Freemen named Duhaime. He is among peers holding a deserted villa in the Emerald Graves."
 msgstr ""
+"코스투의 야영지에서 발견된 문서에 두하임이라는 자유인들의 지휘관이 언급되어 있습니다. 그는 에메랄드 무덤에 버려진 별장을 소유하고 있는 "
+"동료들 중 한 명 입니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[54]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:2864
 msgctxt "0x00033034"
 msgid "This map depicts a farmhouse near a cave."
-msgstr ""
+msgstr "이 지도는 동굴 근처의 농가를 묘사하고 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[55]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:2877
 msgctxt "0x0002b589"
 msgid "Discover all landmarks in the Hinterlands."
-msgstr ""
+msgstr "내륙지역에 있는 모든 지형지물을 발견해내세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[56]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:2890
 msgctxt "0x0003baaf"
 msgid "Search for any shards scattered around the Forbidden Oasis."
-msgstr ""
+msgstr "금지된 오아시스 지역에 흩어져있는 편린을 찾아보세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[57]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:2903
 msgctxt "0x0003970f"
 msgid "The astrarium pedestals have revealed a cave."
-msgstr ""
+msgstr "천체 투영관의 별자리가 숨어있던 동굴을 밝혀냅니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[58]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:2916
 msgctxt "0x0003a25e"
 msgid "Find and complete all astrarium pedestals in Crestwood."
-msgstr ""
+msgstr "크레스트우드에 존재하는 모든 천체 투영관을 찾고 별자리를 완성하십시오."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[59]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:2946
 msgctxt "0x00043795"
 msgid "With the right materials, improvements can be made to Skyhold's garden."
-msgstr ""
+msgstr "적당한 식물들을 모아오면, 스카이 홀드 정원을 개선할 수 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[60]/JournalTextData/TextReference
@@ -394,28 +405,28 @@ msgstr "협곡 야영지 근처에서 열려있는 영계 균열이 발견되었
 #: Systems\JournalSystem\JournalSystem.xml:2972
 msgctxt "0x000323df"
 msgid "When there's time, Cullen wishes to be accompanied somewhere in the Fereldan interior."
-msgstr ""
+msgstr "시간에 여유가 생긴다면 컬렌은 당신이 페렐던 내부 어딘가에 동행해 줬으면 한다고 합니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[63]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3032
 msgctxt "0x00016ff8"
 msgid "Find echoes to learn what happened at the time of the blast."
-msgstr ""
+msgstr "폭발 당시 상황에 단서가 되는 메아리를 찾으세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[64]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3045
 msgctxt "0x0003b902"
 msgid "With all the Freemen leaders dead, Fairbanks and his people should feel a lot safer in the Emerald Graves."
-msgstr ""
+msgstr "자유인들의 지도자가 죽으면, 페어뱅크스와 피난민들은 에메랄드 무덤이 더 안전해졌다고 느낄 겁니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[65]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3058
 msgctxt "0x00032c9a"
 msgid "Now that the undead trouble has been dealt with at the Western Ramparts, it would be wise to meet with Gaspard's marshal, who is holding Fort Revasan in the name of the usurper."
-msgstr ""
+msgstr "서부 램파트 지역의 언데드 문제가 처리되었으니, 레바산 요새를 강제로 점령하고 있는 가스파드의 장군을 만나보는 게 좋습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[66]/JournalTextData/TextReference
@@ -430,6 +441,7 @@ msgstr "작은 만 야영지에서 열려있는 영계 균열이 발견되었습
 msgctxt "0x0004227e"
 msgid "Varric's writing is more popular than he lets on. Find all 48 copies of <i>Hard in Hightown</i> in Skyhold."
 msgstr ""
+"배릭의 작품은 그가 말한 것 보다 훨씬 더 인기 많습니다. 스카이홀드에서 <i>하드 인 하이타운</i> 48부를 전부 찾아보세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[68]/JournalTextData/TextReference
@@ -1084,7 +1096,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:5563
 msgctxt "0x0004010a"
 msgid "Search for any shards scattered around Emprise du Lion."
-msgstr ""
+msgstr "사자의 용맹 지역에 흩어져 있는 편린을 찾아보세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[166]/JournalTextData/TextReference
@@ -1119,7 +1131,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:5679
 msgctxt "0x00041582"
 msgid "Search for any shards scattered around the Emerald Graves."
-msgstr ""
+msgstr "에메랄드 무덤 지역에 흩어져있는 편린을 찾아보세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[171]/JournalTextData/TextReference
@@ -1453,35 +1465,35 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:6912
 msgctxt "0x0003fdb7"
 msgid "Find and complete all astrarium pedestals in the Storm Coast."
-msgstr ""
+msgstr "폭풍 해안에 존재하는 모든 천체 투영관을 찾고 별자리를 완성하십시오."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[223]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:6942
 msgctxt "0x0003fdba"
 msgid "The astrarium pedestals have revealed a cave."
-msgstr ""
+msgstr "천체 투영관의 별자리가 숨어있던 동굴을 밝혀냅니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[224]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:6955
 msgctxt "0x00038f68"
 msgid "With the right materials, Haven's blacksmith can craft some pretty decent armor."
-msgstr ""
+msgstr "적절한 재료만 있다면 헤이븐의 대장장이들은 상당히 뛰어난 방어구를 제작할 수 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[225]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:6968
 msgctxt "0x00039831"
 msgid "Find and complete all astrarium pedestals in the Western Approach."
-msgstr ""
+msgstr "서부 진입로에 존재하는 모든 천체 투영관을 찾고 별자리를 완성하십시오."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[226]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:6981
 msgctxt "0x00039835"
 msgid "The astrarium pedestals have revealed a cave."
-msgstr ""
+msgstr "천체 투영관의 별자리가 숨어있던 동굴을 밝혀냅니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[227]/JournalTextData/TextReference
@@ -1801,7 +1813,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:8130
 msgctxt "0x00038dcb"
 msgid "Search for any shards scattered around the Hinterlands."
-msgstr ""
+msgstr "내륙지역에 흩어져있는 편린을 찾아보세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[279]/JournalTextData/TextReference
@@ -2021,7 +2033,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:9066
 msgctxt "0x000405a4"
 msgid "Search for any shards scattered around the Hissing Wastes."
-msgstr ""
+msgstr "칼바람 황무지 지역에 흩어져있는 편린을 찾아보세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[312]/JournalTextData/TextReference
@@ -2360,14 +2372,14 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:10442
 msgctxt "0x00042391"
 msgid "Find and complete all astrarium pedestals in the Hinterlands."
-msgstr ""
+msgstr "내륙지역에 존재하는 모든 천체 투영관을 찾고 별자리를 완성하십시오."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[367]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:10472
 msgctxt "0x00042392"
 msgid "The astrarium pedestals have revealed a cave."
-msgstr ""
+msgstr "천체 투영관의 별자리가 숨어있던 동굴을 밝혀냅니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[368]/JournalTextData/TextReference
@@ -3059,14 +3071,14 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:13102
 msgctxt "0x0003b0cb"
 msgid "Find and complete all astrarium pedestals in the Emerald Graves."
-msgstr ""
+msgstr "에메랄드 무덤에 존재하는 모든 천체 투영관을 찾고 별자리를 완성하십시오."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[473]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:13132
 msgctxt "0x0003b0c8"
 msgid "The astrarium pedestals have revealed a cave."
-msgstr ""
+msgstr "천체 투영관의 별자리가 숨어있던 동굴을 밝혀냅니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[474]/JournalTextData/TextReference
@@ -3661,7 +3673,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:15360
 msgctxt "0x0003fdb4"
 msgid "Search for any shards scattered around the Storm Coast."
-msgstr ""
+msgstr "폭풍 해안 지역에 흩어져있는 편린을 찾아보세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[563]/JournalTextData/TextReference
@@ -3682,7 +3694,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:15416
 msgctxt "0x00038128"
 msgid "Search for any shards scattered around the Western Approach."
-msgstr ""
+msgstr "서부 진입로 지역에 흩어져있는 편린을 찾아보세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[566]/JournalTextData/TextReference
@@ -19693,6 +19705,22 @@ msgid ""
 "\n"
 "—Transcript of a conversation with a member of the dwarven Mining Caste, 8:90 Blessed"
 msgstr ""
+"깊은 길이 있다는 것을 알고 있는 드워프는 없어. 깊은 길은 타이그들을 하나로 연결해주는 터널이었지. 솔직히 말하자면 ‘터널’이라는 "
+"명칭을 붙이는 게 맞는 것인지 잘 모르겠어.\n"
+"수 백년에 걸쳐 계획된 기하학적인 장벽과 여행가들을 지켜주는 파라곤 조각상 그리고 깊은 길을 밝혀주고 덥혀주는 용암까지 하나의 예술 "
+"작품이라 할 수 있지.\n"
+"지상의 인간들은 선대의 패자들이 지은 길이자 수천 마일을 가로지르는 통로 그리고 마법으로만 지어졌다고 여겨지는 황제의 길에 대해 이야기를 "
+"하곤 하면서 깊은 길과 비교를 하는 것 같지만, 우리 드워프들은 그런 것을 짓는데 마법 따위는 사용하지 않지.\n"
+"\n"
+"허나, 이런 말을 이제 해서 무엇하나. 이제는 어둠의 피조물이 깊은 길을 장악했어. 오자마가 저 밖의 모든 걸 버리고 깊은 길 문들을 "
+"봉쇄해버리면서, 우리는 왕국이었던 것을 저 어둠의 피좆물들한테 영원히 넘기게 되었지. 그러고 보니까 젠록들은 아직도 저기 보나마르를 "
+"기어다니고 있겠지… 우리의 조각상들과 위대한 작품들을 부수고 더럽히면서 말이지! 타락이 우리 손으로 지은 것들을 모두 뒤덮었지. 밖에 "
+"나갔다 돌아온 모든 드워프들이 하나같이 하는 말이 해가 갈수록 더 심해진다는 거야. 불결함이 점점 더 멀리 퍼진다는 거지.\n"
+"\n"
+"그리고 인간들은 어둠의 피조물들이 지상으로 안 나오니까 사라진 줄 알고 있다고? 참 나. 언젠가 오자마가 영영 사라지면, 생각이 "
+"바뀌겠지. 어둠의 피조물은 갈 곳이 없어지면 위로 올라가겠지, 그러고 말고 말야. 지상 친구들에게 어둠의 그림자가 드리겠지, 영원히.\n"
+"\n"
+"- 한 드워프 광부 계급과의 대화록 중, 8:90 축복의 시대"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1747]/JournalTextData/TextReference
@@ -20679,6 +20707,9 @@ msgid ""
 "\n"
 "—From a letter written by Magister Pelidanus, head of the Corial Order, 5:12 Exalted"
 msgstr ""
+"당신이 의문을 가지고 있는 \"천체 투영관\"은 안드라시아 시대 이전에 존재했던 테빈터 제국의 한 종교 집단에서 나온 유물로 추정하고 "
+"있습니다. 하지만, 지금 존재하는 종교집단이 옛날에 존재하던 신을 숭배하면 어떻겠습니까? 마지스터리움의 몰락을 믿는 마지스터들이 모인, "
+"//01.17~~ 진행중"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1836]/JournalTextData/TextReference
