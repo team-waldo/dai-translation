@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-17 14:01+0000\n"
-"Last-Translator: 전진 <vanishintoair@gmail.com>\n"
+"PO-Revision-Date: 2021-01-19 14:01+0000\n"
+"Last-Translator: 불타는 수염 <brng_beard@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journalsystem/"
 "ko/>\n"
 "Language: ko\n"
@@ -18,7 +18,7 @@ msgstr ""
 msgctxt "0x0001708a"
 msgid "One of Leliana's agents reported a man, calling himself Blackwall, dressed in full Grey Warden regalia and last seen travelling through the Fereldan Hinterlands. With so many Wardens disappearing in the wake of the Divine's death, this Blackwall should be questioned."
 msgstr ""
-"렐리아나의 요원 중 한 명이 회색 감시자의 복장을 입고 자신을 \"블랙월\" 이라고 말하는 여행자를 페렐던 의 힌터랜드에서 목격했다고 "
+"렐리아나의 요원 중 한 명이 회색 감시자의 복장을 입고 자신을 \"블랙월\" 이라고 말하는 여행자를 페렐던 의 내륙지역에서 목격했다고 "
 "보고했습니다. \"신성한 죽음\" 으로 인해 수많은 감시자가 사라지고 있는 상황에서, 우리는 \"블랙월\"을 만나 의문을 제기해야합니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
@@ -33,7 +33,7 @@ msgstr "이 지도에 표시된 지점을 팔을 뻗은 거인이 지키고있�
 #: Systems\JournalSystem\JournalSystem.xml:1808
 msgctxt "0x00043f66"
 msgid "The University of Orlais has requested nevarrite and volcanic aurum samples for a geological survey of the Hissing Wastes."
-msgstr "올레이 대학 측에서 칼바람 황무지의 지질 조사를 위해 화산암 표본을 채취해오길 부탁했습니다."
+msgstr "올레이 대학이 칼바람 황무지의 지질 조사를 위해 화산암 표본을 요청했습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[5]/JournalTextData/TextReference
@@ -47,7 +47,7 @@ msgstr "해안에 있는 모린 전망대와 모린의 발자취 근처 에서 �
 #: Systems\JournalSystem\JournalSystem.xml:1851
 msgctxt "0x00043ffb"
 msgid "The University of Orlais has requested summer stone and blue vitriol samples for a geological survey of the Fallow Mire."
-msgstr "올레이 대학이 고요한 늪지 지질 조사를 위해 소환석과 푸른 황산석 표본을 채취해오길 요청했습니다."
+msgstr "올레이 대학이 고요한 늪지 지질 조사를 위해 여름석과 담반석 표본을 요청했습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[7]/JournalTextData/TextReference
@@ -75,7 +75,7 @@ msgstr "붉은 리륨에 감염되어 걸을 수 없는 한 여성이 남편에�
 #: Systems\JournalSystem\JournalSystem.xml:1967
 msgctxt "0x00043f1a"
 msgid "The University of Orlais has requested silverite and dawnstone samples for a geological survey of the Emprise du Lion."
-msgstr "올레이 대학이 사자의 용맹 지역 지질 조사를 위해 여명석과 은석 표본을 채취해오길 요청했습니다."
+msgstr "올레이 대학이 사자의 용맹 지역 지질 조사를 위해 여명석과 은석 표본을 요청했습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[12]/JournalTextData/TextReference
@@ -129,9 +129,12 @@ msgstr "금단의 오아시스에 있는 모든 랜드마크를 찾아보세요.
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[20]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:2184
+#, fuzzy
 msgctxt "0x00041666"
 msgid "A small group of Inquisition soldiers were dispatched to investigate a dwarven port on the Storm Coast that is currently being held by red templars. The port gives the red templars a foothold in the region. The soldiers have cleared the way to storm the port."
 msgstr ""
+"스톰코스트 지역, red templar에게 점거된 드워프 항구에  소규모의 인퀴지션 병사들이 파견되었습니다.  항구는 red "
+"templar들에게 지역 기반이 되었습니다. 병사들이 항구까지 가는 길목을 확보했습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[21]/JournalTextData/TextReference
@@ -240,7 +243,7 @@ msgstr "프룩스 장군은 강가 수비대를 찾기를 바라며 순찰대를
 #: Systems\JournalSystem\JournalSystem.xml:2473
 msgctxt "0x0002fc1f"
 msgid "A storyteller mentioned a spirit in a nearby lake. If offered a blood lotus, the spirit apparently gives a favor in return."
-msgstr "이야기꾼이 강의 영혼에 대해 말하길, 혈연꽃을 영혼에게 바치면 영혼은 반드시 뭔가 보답해 준다고 했습니다."
+msgstr "이야기꾼이 강의 정령에 대해 말하길, 혈연꽃을 정령에게 바치면 반드시 뭔가 보답해 준다고 했습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[38]/JournalTextData/TextReference
@@ -426,7 +429,7 @@ msgstr "자유인들의 지도자가 죽으면, 페어뱅크스와 피난민들�
 #: Systems\JournalSystem\JournalSystem.xml:3058
 msgctxt "0x00032c9a"
 msgid "Now that the undead trouble has been dealt with at the Western Ramparts, it would be wise to meet with Gaspard's marshal, who is holding Fort Revasan in the name of the usurper."
-msgstr "서부 램파트 지역의 언데드 문제가 처리되었으니, 레바산 요새를 강제로 점령하고 있는 가스파드의 장군을 만나보는 게 좋습니다."
+msgstr "서쪽 성곽의 살아있는 시체 문제가 처리되었으니, 레바산 요새를 강제로 점령하고 있는 가스파드의 장군을 만나보는 게 좋습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[66]/JournalTextData/TextReference
@@ -449,76 +452,78 @@ msgstr ""
 msgctxt "0x00043ee6"
 msgid "Scribes can produce fine books telling the truth about the Herald of Andraste. Some people may call it Inquisition propaganda, but few will deny its value in furthering the cause."
 msgstr ""
+"필경사들은 안드라스테의 전령에 관한 진실을 담은 좋은 책을 낼 수 있습니다. 누군가는 인퀴지션 선전물이라 하겠지만, 가치가 있다는걸 "
+"부정할 사람은 거의 없습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[69]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3127
 msgctxt "0x00041b94"
 msgid "The blacksmith can also improve existing armor."
-msgstr ""
+msgstr "대장장이는 기존 갑옷 또한 향상 시킬 수 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[70]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3140
 msgctxt "0x0003f9ad"
 msgid "There's a veritable herd of halla statuettes scattered around the Winter Palace. They stand out a little too much to be simply decorative."
-msgstr ""
+msgstr "겨울 궁전 주변에 할라 조각상이 흩어져 있습니다. 단순한 장식으로 두기엔 너무 눈에 띄네요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[71]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3153
 msgctxt "0x00041acf"
 msgid "Someone being held in Skyhold awaits judgment."
-msgstr ""
+msgstr "스카이홀드에 붙잡힌 누군가가 재판을 기다리고 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[72]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3200
 msgctxt "0x00022c62"
 msgid "A noblewoman has lost a ring of great value to her. She would be grateful for any help in finding it."
-msgstr ""
+msgstr "고귀한 여인이 그녀에게 큰 가치를 지닌 반지를 잃어버렸습니다. 이걸 찾아준다면 고마워 할 것 입니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[73]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3213
 msgctxt "0x000383d0"
 msgid "Explore all corners of Crestwood."
-msgstr ""
+msgstr "크레스트우드 구석구석 둘러보아요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[74]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3226
 msgctxt "0x00032f38"
 msgid "This map depicts a bridge with four pillars and a waterfall under a tree."
-msgstr ""
+msgstr "이 지도에는 나무 아래 4 개의 기둥과 폭포가 있는 다리가 그려져 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[75]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3239
 msgctxt "0x00042a9c"
 msgid "Collect all seeds available for the nursery."
-msgstr ""
+msgstr "유치원에서 쓸 수 있는 모든 씨앗들을 수집합니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[76]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3252
 msgctxt "0x0003fc18"
 msgid "Judicael's Crossing has been destroyed, presumably by the red templars, to restrict access into the region."
-msgstr ""
+msgstr "주디카엘의 교차로는 저 지역 접근을 막기 위해 파괴되었습니다. 아마 붉은 템플러들이 그랬겠죠."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[77]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3282
 msgctxt "0x00043ef6"
 msgid "The University of Orlais has requested obsidian and iron samples for a geological survey of Crestwood."
-msgstr ""
+msgstr "올레이 대학은 크레스트우드의 지질 조사를 위해 철과 흑요석 표본을 요청했습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[78]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3328
 msgctxt "0x000438b9"
 msgid "The entrance to an abandoned Grey Warden outpost known as Valeska's Watch is locked."
-msgstr ""
+msgstr "발레카스의 감시라 알려진 버려진 회색 감시자 전초기지 입구가 잠겨 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[79]/JournalTextData/TextReference
@@ -526,20 +531,21 @@ msgstr ""
 msgctxt "0x000438ba"
 msgid "An old key, found in Emprise du Lion and shaped vaguely like a griffon, has the words \"Valeska's Watch\" scratched into its face."
 msgstr ""
+"사자의 용맹에서 발견된 이 낡은 열쇠는, 엉성하게 그리폰 처럼 생겼고 얼굴쪽에 \"발레카스의 감시\"라고 긁어낸 자국이 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[81]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3417
 msgctxt "0x00043757"
 msgid "The door to Valammar is locked."
-msgstr ""
+msgstr "발라마르로 향하는 문이 잠겨있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[82]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3447
 msgctxt "0x0003247b"
 msgid "The Carta are setting up a red lyrium mining operation in the Hinterlands with the help of local mercenaries."
-msgstr ""
+msgstr "카르타는 지역 용병들을 이용해 내륙지역에 있는 붉은 리륨 채광 작전을 세우고 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[83]/JournalTextData/TextReference
@@ -547,6 +553,8 @@ msgstr ""
 msgctxt "0x00041d7d"
 msgid "They may come from the same place, but there's a world of difference between the Venatori and most people from Tevinter. Dorian wants a particular group of Venatori mages dead."
 msgstr ""
+"고향이 같을지라도, 베나토리에서 온 사람과 테빈터 출신 사이에는 엄청난 차이가 있습니다. 도리안은 특정 베나토리 그룹의 마법사들의 영면을 "
+"원합니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[85]/JournalTextData/TextReference
@@ -554,6 +562,9 @@ msgstr ""
 msgctxt "0x00041cab"
 msgid "Varric saw enough red lyrium in Kirkwall for one lifetime. Now it's everywhere, and the worst of it \"sings\" like the shard that drove his brother mad. Varric would take no small pleasure in destroying those. Locate and destroy Primeval Red Lyrium nodes."
 msgstr ""
+"배릭은 일생 동안 붉은리륨을 지긋지긋할 정도로 봐왔습니다. 이제 그건 어디에도 있죠, 그리고 가장 최악인 점은 이게 형을 미치게 했던 그 "
+"파편같이 \"노래\"한다는 점입니다. 배릭은 이 혐오스러운 것들을 없애는데 아무런 감정조차 들지 않을 것입니다. 원시 붉은 리륨 결절지를 "
+"찾아 파괴하세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[87]/JournalTextData/TextReference
@@ -561,34 +572,40 @@ msgstr ""
 msgctxt "0x00039367"
 msgid "Pits are piled with bodies, attracting spirits and causing undead to rise. To make matters worse, the pits are protected by magical barriers, preventing anyone from reaching the dead to burn the remains. Once all the bodies are burned, a signaling horn will alert Gaspard's troops that the undead threat to the ramparts has been dealt with."
 msgstr ""
+"구덩이에 버려진 시체들이 영혼들을 끌어들여 죽은 자들을 다시 움직이게 하고 있습니다. 설상가상으로, 구덩이가 마법 보호벽으로 차단되어 "
+"있어 아무도 시체들을 태울 수가 없습니다. 모든 시체가 불길 속에 잿더미로 타버린다면 뿔나팔의 신호가 가스파드의 병사들에게 성곽의 "
+"살아있는 시체 문제가 해결됐다는 것을 알릴 것입니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[88]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3593
+#, fuzzy
 msgctxt "0x0003fb35"
 msgid "The Fallow Mire is plagued with demons. Lighting veilfire beacons should draw them out. Defeat the demons to make the area safer."
 msgstr ""
+"악마들이 고요한 늪지 지역에서 들끓고 있습니다. 장막의 불길 봉화를 올리면 악마들을 물러나게 할 수 있습니다. 이 지역을 안전하게 하기 "
+"위해 악마를 처리하세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[89]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3623
 msgctxt "0x00043fe7"
 msgid "The University of Orlais has requested iron and serpentstone samples for a geological survey of the Storm Coast."
-msgstr ""
+msgstr "올레이 대학이 폭풍 해안 지역의 지질 조사를 위해 뱀석과 철광석 표본을 요청했습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[90]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3636
 msgctxt "0x0002e3cf"
 msgid "Bandits are attacking refugees along the King's Highway east of the crossroads."
-msgstr ""
+msgstr "교차로 동쪽의 왕의 대로에서 노상강도들이 피난민을 공격하고 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[91]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3699
 msgctxt "0x00034890"
 msgid "A message has been delivered—via arrow."
-msgstr ""
+msgstr "화살에 묶여서 전달된 메시지 입니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[92]/JournalTextData/TextReference
@@ -596,27 +613,32 @@ msgstr ""
 msgctxt "0x00034836"
 msgid "The strange message, delivered via arrow, said there is an enemy of the Inquisition waiting to strike in Val Royeaux. It said to search the market, cafe, and docks for things that are red. The upper market can be reached by way of the Quest Map."
 msgstr ""
+"화살에 묶여있는 희한한 메시지에 적혀있는 내용은, 사문회의 적이 발 르와이요에서 공격할 준비를 하고 있다는 내용입니다, 그리고 시장, "
+"카페, 부두에서 붉은색 물건을 찾아보라고 합니다. 퀘스트 지도에서 위쪽 시장으로 갈 수 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[93]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3808
 msgctxt "0x0003484d"
 msgid "A location near Val Royeaux was revealed by the clues left by these \"Friends of Red Jenny.\""
-msgstr ""
+msgstr "\"레드 제니의 친구들\"이 남긴 단서들로 추정해 발 르와이요 근처의 위치를 특정해냈습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[94]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3838
 msgctxt "0x00034d8a"
 msgid "The guards, whoever they are, were taken by surprise."
-msgstr ""
+msgstr "경비병들은, 그들이 누구던지간에, 기습당했습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[95]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3884
+#, fuzzy
 msgctxt "0x00042a1f"
 msgid "An elf named Sera took down a noble who was apparently working against the Inquisition. He had reinforcements, but she made sure they were caught with their pants down."
 msgstr ""
+"세라는 엘프가 명백히 사문회에 반하는 행위를 하던 귀족을 죽였습니다. 귀족이 경비를 부르긴 했지만, 바지도 못 챙겨입은 경비병들은 "
+"세라에게 완벽하게 허를 찔렸습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[96]/JournalTextData/TextReference
@@ -630,49 +652,53 @@ msgstr "세 마리 송어 양식장 근처에서 열려있는 영계 균열이 �
 #: Systems\JournalSystem\JournalSystem.xml:3910
 msgctxt "0x0003febf"
 msgid "Mercenaries are stirring unrest in the Hinterlands. They have occupied an old fort in the woods."
-msgstr ""
+msgstr "숲속에 있는 오래된 요새를 점유하고 있는 용병들이 내륙지역에서 문제를 일삼고 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[98]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3923
 msgctxt "0x0002bdc2"
 msgid "An old dwarven gear found in Valammar seems to be part of a larger mechanism. Perhaps there are others."
-msgstr ""
+msgstr "발라마르에서 찾아낸 이 오래돼 보이는 드워프 부품은 어디 큰 장치에 일부 같습니다. 아마도 다른 부품이 더 있을 것 같습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[99]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3936
 msgctxt "0x0002bdc0"
 msgid "These gears should fit the lock on a large door clearly made to keep out thieves."
-msgstr ""
+msgstr "이 부품들은 거대한 문의 자물쇠에 꼭 들어맞습니다. 분명 도둑들을 얼씬 못하게 하려는 거겠죠."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[100]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3949
+#, fuzzy
 msgctxt "0x00042da9"
 msgid "Inquisition agents have lured Carroll, the red templar responsible for manipulating the Freemen of the Dales, to the Lion's Pavilion in the Emerald Graves. It's time to finish this."
 msgstr ""
+"인퀴지션의 요원들은 데일즈스의 자유인들을 조종한 책임이 있는 붉은 템플러, 캐롤을 에메랄드 무덤의 사자의 누각으로 유인해냈습니다. "
+"끝내버릴 시간이군요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[101]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3962
 msgctxt "0x0004227a"
 msgid "Pieces of an old Tevinter mosaic are scattered across the Hinterlands. If recovered, they could be reassembled."
-msgstr ""
+msgstr "오래된 티빈터 모자이크가 내륙지역 전역에 흩어져 있습니다. 되찾게 된다면, 다시 맞춰볼 수 있을겁니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[102]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:3992
+#, fuzzy
 msgctxt "0x00043fe2"
 msgid "Inquisition forces on the coast need antivenom to cope with a persistent spider infestation."
-msgstr ""
+msgstr "해안가의 인퀴지션 병력은 지속적인 거미 침입에 대처하기 위해 해독제가 필요할 겁니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[103]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:4022
 msgctxt "0x00043f04"
 msgid "The quartermaster requested materials to make additional heavy coats for Inquisition forces."
-msgstr ""
+msgstr "병참장교는 인퀴지션 세력을 위한 두터운 외투를 더 만들려고 직물을 요구 했습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[104]/JournalTextData/TextReference
@@ -687,13 +713,18 @@ msgstr "태양의 웅덩이 지역에서 열려있는 영계 균열이 발견되
 msgctxt "0x0002fc0b"
 msgid "Templars killed an elven farmer, suspecting he was an apostate, and took his wedding ring as a prize. The farmer's widow wants them killed and the ring returned."
 msgstr ""
+"템플러들은 엘프 농부를 배교자로 의심하고 살해했고, 그의 결혼 반지를 전리품으로 가져갔다.농부의 미망인은 그들이 죽고 반지를 돌려받기 "
+"원했다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[106]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:4094
+#, fuzzy
 msgctxt "0x0001cfd9"
 msgid "Varric has a friend named Hawke, who fought Corypheus once before and now fears Grey Wardens are under the influence of the ancient darkspawn. Hawke has a Warden contact who may be able to say more."
 msgstr ""
+"배릭에게는 이전에 코리피우스와 싸웠고 지금은 고대 어둠의 피조물의 영향 아래 놓인 회색 감시단을 두려워하는 호크라는 친구가 있다. 호크는 "
+"더 많은 걸 말해줄 수도 있는 감시자 연락책이 있다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[107]/JournalTextData/TextReference
@@ -715,6 +746,8 @@ msgstr ""
 msgctxt "0x00004bc8"
 msgid "As the ledge collapsed under the dragon's weight, the mark opened a rift, transporting the party into the Fade. The real Fade. This is no place for non-spirits. Escape as soon as possible."
 msgstr ""
+"드래곤의 무게로 절벽이 무너지자, 표식이 균열을 열어 일행을 영계로 이동시켰습니다. 진짜 영계로. 이곳은 살아있는 자가 있을 곳이 못 "
+"됩니다. 서둘러 탈출하세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[110]/JournalTextData/TextReference
@@ -733,9 +766,10 @@ msgstr ""
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[112]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:4240
+#, fuzzy
 msgctxt "0x00004be5"
 msgid "The templars have left Val Royeaux and refuse to negotiate with anyone. Gather enough Power, then work with the advisors to make contact with the templars."
-msgstr ""
+msgstr "템플러들은 발 로이요를 떠났고 누구와도 협상하길 거절했다. 템플러들과 접촉하려면 충분한 영향력을 모아 고문들과 협력해야 한다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[113]/JournalTextData/TextReference
@@ -749,7 +783,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:4332
 msgctxt "0x00004be4"
 msgid "Half the templars are corrupted. Fight to the Lord Seeker and find out what's going on."
-msgstr ""
+msgstr "템플러의 절반은 부패했습니다. Lord Seeker와 싸우고 무슨 일이 벌어지고 있는지 알아내십시오."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[115]/JournalTextData/TextReference
@@ -778,6 +812,8 @@ msgstr ""
 msgctxt "0x00004be6"
 msgid "The templars can break through the demon's magic barrier, but they need lyrium and their fellow veterans back at the Great Hall to do it. Hold the Great Hall and help the templars."
 msgstr ""
+"템플러들이 악마의 마법 장벽을 허물 수 있지만, 이를 위해선 리륨과 Great Hall에 있는 동료 베테랑들이 필요합니다. Great "
+"Hall을 방어하여 템플러를 도우십시오."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[119]/JournalTextData/TextReference
@@ -4053,6 +4089,7 @@ msgstr ""
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[611]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:16403
+#, fuzzy
 msgctxt "0x0004203f"
 msgid ""
 "The most unusual part of Orlesian theater, appropriately enough, revolves around our southern neighbor's love of masks. Every actor wears a mask, and every mask follows a hierarchy of shape and colors that indicates to the audience the character's importance. Half-face green masks indicate a leading male role, for example, while half-face purple masks are for primary female characters. Full white masks are reserved for roles of no clear gender, such as spirits, except for demons, whose masks must always be black and red. Further complicating matters for those new to Orlesian theater, an actor's race or sex has no bearing on the parts they can play. \n"
@@ -4066,6 +4103,25 @@ msgid ""
 "{linebreak}\n"
 "{blank}"
 msgstr ""
+"올레이 연극의 가장 특이한 부분은, 매우 적절하게도, 우리의 남부 이웃의 가면에 대한 사랑으로 이루어져 있다는 것이다. 모든 배우들은 "
+"가면을 쓰고, 모든 가면은 등장인물의 중요성을 관객들에게 나타내는 모양과 색상의 체계를 따른다. 예를 들면, 얼굴의 반이 초록색인 가면은 "
+"남성 주연 역할을 나타내는 반면, 얼굴의 반이 보라색인 가면은 여성 주요 등장인물임을 나타낸다. 전체가 하얀색인 가면은 항상 반드시 "
+"검정과 빨강색의 가면을 쓰는 악마들을 제외하고, 영혼 같이, 성별이 확실하지 않은 역을 위해 남겨져있다. 올레이 연극에 처음인 이들에게 "
+"더 복잡한 문제는, 배우의 인종이나 성별은 그들이 맡은 역할과 아무런 관계가 없다.\n"
+"\n"
+"연출가가 그들이 역할을 납득시킬 수 있다고 믿는다면, 남자들은 하녀를 연기할 수 있고, 여자들은 공작을 연기할 수 있으며, 심지어 "
+"엘프조차 왕을 연기할 수 있다. 일단 착용하고 나면, 가면은 완전히 그들로 이해된다. 내가 대화한 그 어떤 배우도 이런 전통 뒤의 역사를 "
+"설명할 수 없었지만, 다른 나라에서 그 전통을 이상하다고 생각한다는 점을 내비치자 신경을 곤두세웠다. 올레이 극단과 그들의 관객 사이에는 "
+"강한 믿음의 유대가 있다. 사실, 나는 발 로이요보다 그렇게 주의 깊은 관객들을 좀처럼 보지 못했다. 내 추측에는 올레이인들은, "
+"일상생활에서 가면에 둘러싸여 있고, 물건들이 강하게 그들의 변화를 위한 의도를 나타내는 것을 필요로 하고 완전히 존중해야 할 것이다.\n"
+"\n"
+"이 책 뒷부분에 있는 부록은 올레이의 연극 가면들의 외형과 의미가 언급되어 있다. 이러한 관습들은 역사상 가장 훌륭한 연극을 이해하는데 "
+"필수적이니, 이 여정을 내가 그랬던 것처럼 여러분 또한 보람을 느끼길 바란다.\n"
+"\n"
+"― {i}올레이 연극의 개요, 제 1권: 소개 에서{/i} 매지스터 펠리날\n"
+"\n"
+"{linebreak}\n"
+"{blank}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[612]/JournalTextData/TextReference
@@ -12189,17 +12245,23 @@ msgstr ""
 "테빈터에서는 노예가 보이지 않는다. 비록 제국 전체가 우리의 등에 업혀 쉬고 있음에도 말이다. 미느라소스의 성벽은 우리의 손에 의해 "
 "건설되었고 울퉁불퉁한 길을 따라 부를 가져왔다. 나와 같은 서기관들은 힘의 균형을 바꿀 수 있는 말과 편지를 받아 적는다. 내 딸, "
 "레오노라는 가정부 노예로서 밤낮으로 일한다. 그 덕에 매지스터 델핀은 옷이 찢어지거나 식은 음식을 먹게 될 염려가 없다.\n"
+"\n"
 " 보통, 나는 레오노라와 부엌에서 만난다. 하지만 마지막으로 만난 뒤로 며칠째 그러지 못하고 있다. 누구도 그녀를 보지 못했다.\n"
+"\n"
 " 난 도움을 줄 수는 없었지만 노예 시장에 관한 옛 이야기가 번뜩이며 떠올랐다. 몇 백 년 전, 조상들은 피의 마법으로 그들의 도시를 "
 "지었고 탑과 성벽을 쌓기 위해 끔찍한 의식을 행하며 살아있는 것들을 제물로 삼았다. 몇 천 명의 노예들이 고대신을 위한 제단에서 강제로 "
 "희생되었다. 매지스터 델핀의 완벽한 대리석 저택은 아마도 100명의 소리없는 엘프들 뒤에 서있을 것이다.\n"
+"\n"
 " 하지만 그것은 이미 지난얘기다. 안드라스테가 피의 마법에 대항하여 그것들 대부분을 금지시키고 멀리하는 관행을 만들어냈다. 비록 우리가 "
 "벌을 받는다고 해도 최소한의 문책 없이 제단으로 끌려가거나 피를 흘리는 노예는 거의 없을 것이다.\n"
+"\n"
 " 여전히 레오노라는 실종된 상태이고 매지스터 델핀은 평소와 달라 보인다. 그녀는 이전까지 없었던 기운을 뿜고 있다. 그리고 라이벌과의 "
 "마법 대결에서 공개적으로 망신을 당했다는 소문이 파다하게 퍼졌다. 나는 나의 슬픔을 두려워하고 있다. 사실 알고 있다, 레오노라의 목숨이 "
 "대결의 대가였다는 것을.\n"
+"\n"
 " 나는 매지스터 델핀에게 당당히 말해 진실을 받아내고 싶은 마음이 굴뚝같다. 하지만 그 말을 들은 그녀는 농담이나 하나 뱉을 것이 "
 "틀림없다. 누구도 그 노예를 보지 못했다는.\n"
+"\n"
 "-노예 서기관 솔바린 브란에 의해 비밀리에 작성됨, 8:65신성력"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
@@ -12680,6 +12742,7 @@ msgstr ""
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1204]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:36713
+#, fuzzy
 msgctxt "0x00043049"
 msgid ""
 "{i}From \"A Path of Warning and Harsh Promise.\" Breaker Thram's words make one passage stand out:{/i}\n"
@@ -12692,6 +12755,22 @@ msgid ""
 "\n"
 "{i}Several mixtures are detailed, each contributing to the final.{/i}"
 msgstr ""
+"{i}\"위험하고 가혹한 서약의 길\" 중 파괴자 쓰람의 발언이 돋보인 문단.{/i}\n"
+"\n"
+"혈전사 개개인의 기질에 따라 그 동기는 다르지만, 드래곤의 피는 어두운 의도의 목소리로 간주된다. 우리 모두는 가혹한 행위의 유혹에 빠질 "
+"수 있다. 다른 존재들 이상으로 무자비한 힘을 부여하는 대가가 그것들인 것은 혈전사의 숙명이다. 그것들은 내면에서부터 파멸을 불러오기에, "
+"손쉬운 타락과 끝없이 위협하는 악마의 의지가 뒤따르는 혈마법사의 순간의 불신을 덜어주기 위해선 헌신과 시련이 필요하다.\n"
+"\n"
+"{i}기록{/i}\n"
+"\n"
+"난 짐승을 베었다. 화상을 입었지만, 드래곤의 피를 발랐기에 가라앉을 것이다. 이후 난 피를 조금 덜어, 이전에 배운 의식의 제물에 섞은 "
+"후, 망설임 없이 들이켰다. 그 맛은 상처의 맛과 패배의 풍미만 아는 신참들이 기억하는 피의 맛과는 달랐다. 몸에 깃들어 있음에도 삼킬 "
+"수 없는 불을 지닌 태고의 생명 안에 흐르는 피의 맛이었다. 그런 짐승의 피와 생명에 물드는 것은 마음가짐부터 바뀌는 것이다. 몇몇은 "
+"내가 예전의 나를 뛰어넘었음을 볼 수 있었고, 알고 있었다. 몇몇은 경고를 할 수도, 하지도 않았다. 몇몇은 어떻게 휘두를 것인가의 "
+"선택은 오로지 나의 것임을 알고 있었으나, 말하려 하지 않았다. 변화하는 것은 모든 기대를 저버리는 것이다. 나는 우월하다. 내 칼날이 "
+"어디를 향해야 하는지 눈에 보인다. 나는 그대를 꿰뚫어 본다.\n"
+"\n"
+"{i}각 혼합물의 자세한 사항은 맨 뒷장에 기술.{/i}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1205]/JournalTextData/TextReference
@@ -20708,8 +20787,10 @@ msgid ""
 "—From a letter written by Magister Pelidanus, head of the Corial Order, 5:12 Exalted"
 msgstr ""
 "당신이 의문을 가지고 있는 \"천체 투영관\"은 안드라시아 시대 이전에 존재했던 테빈터 제국의 한 종교 집단에서 나온 유물로 추정하고 "
-"있습니다. 하지만, 지금 존재하는 종교집단이 옛날에 존재하던 신을 숭배하면 어떻겠습니까? 마지스터리움의 몰락을 믿는 마지스터들이 모인, "
-"//01.17~~ 진행중"
+"있습니다. 하지만, 지금 존재하는 종교집단이 옛날에 존재하던 신을 숭배하면 어떻겠습니까? 마법사에게 \"마지스터\"의 직위를 수여할지 "
+"결정하던 제국의 중심부였던 곳에서, 마지스터리움이 몰락할 것이라 믿던 마지스터들이 모인 집단이 있었습니다. 이 집단은 드리머가 지배를 "
+"하던 그 시기로 되돌아가길 바랬으며, 그 흔적은 주로 국경 근처에서 발견되었으며, 테빈터 시대 전체를 통틀어 활동했습니다. //01.18 "
+"진행 중"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1836]/JournalTextData/TextReference
@@ -35813,6 +35894,14 @@ msgid ""
 "\n"
 "Commander Cullen"
 msgstr ""
+"인퀴지터:\n"
+"\n"
+"우리는 샘슨의 붉은 템플러 잔존병들이 황야의 숨겨진 장소로 호송하는 보급 캐러밴을 추적했습니다. 그의 본부가 될 수도 있습니다. 시간이 "
+"남지 않기 전에 확인이 필요합니다. 전 이미 중대의 병사들을 우리와 동행하도록 준비시키기 시작했습니다.\n"
+"\n"
+"당신이 허가해주신다면 직접 만나 보고 드리도록 하겠습니다.\n"
+"\n"
+"컬렌 지휘관"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[3131]/JournalTextData/TextReference
@@ -36040,6 +36129,10 @@ msgid ""
 "\n"
 "Josephine"
 msgstr ""
+"분명히 많은 귀족 모두가 우리가 제공한 호의를 무시하거나 심지어 노골적으로 우리가 그들에게 해준 일들을 '잊어버리려고' 합니다. 미래를 "
+"위해 그들의 이름을 적어 내리고 있습니다. 그동안, 우리는 다시 시도 해봐야 할 거예요.\n"
+"\n"
+"조세핀"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[3151]/JournalTextData/TextReference
@@ -36050,6 +36143,9 @@ msgid ""
 "\n"
 "Leliana"
 msgstr ""
+"제 요원들이 많은 정보를 찾아냈지만, 그 어떤 정보도 우리에게 유용한 이익을 주지 않을 겁니다. 계속 찾아봐야겠군요.\n"
+"\n"
+"렐리아나"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[1]/JournalTaskData/TextReference
@@ -37050,7 +37146,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:139849
 msgctxt "0x00004bf1"
 msgid "Head to the Inquisition's war room."
-msgstr ""
+msgstr "인퀴지션 작전실로 향하십시오."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[159]/JournalTaskData/TextReference
@@ -37337,7 +37433,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:142372
 msgctxt "0x00032be4"
 msgid "Complete the \"Watchtowers in the Farms\" operation at the war table."
-msgstr ""
+msgstr "작전 지도에서 \"농장의 감시탑들\" 작전을 완료하세요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[203]/JournalTaskData/TextReference
@@ -44200,7 +44296,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystemCategories.xml:248
 msgctxt "0x00019c76"
 msgid "Nations and regions. Cities and villages. Landmarks and empty expanses. There are many places in Thedas to call home."
-msgstr ""
+msgstr "국가와 지역들. 도시와 마을들. 명소들과 빈 지역들. 테다스에 집이라 부를 만한 곳들은 많다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[13]/TitleReference
@@ -44242,7 +44338,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystemCategories.xml:299
 msgctxt "0x000423fd"
 msgid "Ancient Tevinter mosaics, long ago destroyed and scattered, may be reassembled to shed light upon the continent's rich history."
-msgstr ""
+msgstr "오래전 파괴되고 흩어진 고대 티빈터 모자이크들은 대륙의 풍부한 역사를 밝히기 위해 다시 맞춰질지도 모른다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[16]/TitleReference
@@ -44271,6 +44367,8 @@ msgstr "사자의 용맹"
 msgctxt "0x00035bba"
 msgid "The ancient and the modern co-exist in the highlands of Emprise du Lion, where relics of the lost elven nation are scattered among bustling human villages. These hills are home to the village of Sahrnia, known throughout Orlais for its quarry, which produces azure granite of remarkable quality."
 msgstr ""
+"잃어버린 엘프 왕국의 유물이 부산스러운 인간 마을들 사이에 흩어져 있는, 사자의 용맹 고원에서 고대와 현대는 공존하고 있다. 이 언덕들은 "
+"사르니아 마을의 발상지이며, 뛰어난 품질의 푸른 화강암을 생산하는 채석장으로 올레이 전역에 알려져 있다."
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[18]/TitleReference
@@ -44404,7 +44502,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystemCategories.xml:481
 msgctxt "0x0002bbc5"
 msgid "Lost Temple of Dirthamen"
-msgstr "더터멘의 잃어버린 사원"
+msgstr "더타멘의 잃어버린 사원"
 
 #. FILE: Systems\JournalSystem\JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[26]/DescriptionReference

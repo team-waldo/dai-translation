@@ -1,48 +1,57 @@
 #
 msgid ""
-msgstr "Language: ko\n"
+msgstr ""
+"PO-Revision-Date: 2021-01-19 14:01+0000\n"
+"Last-Translator: Pureun Kim <sky4bluebird@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
+"\n"
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\Crestwood_Secrets_Keep_starting_op.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\Crestwood_Secrets_Keep_starting_op.xml:10
 msgctxt "0x00040bd4"
 msgid "Opening these secret tunnels will let us evade any prying eyes that turn toward Caer Bronach."
-msgstr ""
+msgstr "이 비밀 터널들을 개방하면 우리는 브로나크 성을 향한 감시를 피할 수 있을 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\Crestwood_Secrets_Keep_starting_op.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\Crestwood_Secrets_Keep_starting_op.xml:37
 msgctxt "0x00040bd5"
 msgid "Escape Routes for Agents in Crestwood"
-msgstr ""
+msgstr "크레스트우드의 요원들을 위한 탈출 경로"
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_find_the_mole.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_find_the_mole.xml:13
 msgctxt "0x0003fd77"
 msgid "Expose the Double Agent"
-msgstr ""
+msgstr "이중간첩 밝혀내기"
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_find_the_mole.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_find_the_mole.xml:84
 msgctxt "0x0003fdde"
 msgid "We must move carefully. This traitor is a master of the craft to escape my detection for so long."
-msgstr ""
+msgstr "우린 조심스럽게 이동해야 합니다. 이 배신자는 저의 감시를 오랜 시간 피해다닌 제작의 달인이에요."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml:10
 msgctxt "0x0003fe25"
 msgid "Our hand must not be seen in this. I can send Miller tools to escape, but she must leave on her own. "
-msgstr ""
+msgstr "우리의 손길이 남아서는 안 됩니다. 밀러에게 도주에 필요한 장비를 제가 줄 수 있지만, 그녀는 본인의 힘으로 떠나야만 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml:37
 msgctxt "0x0003fe18"
 msgid "Rescue the Spy"
-msgstr ""
+msgstr "간첩 구출"
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -50,41 +59,42 @@ msgstr ""
 msgctxt "0x0003fe1b"
 msgid "I can dispatch armed guards claiming Miller is wanted by the Inquisition. I doubt anyone will contest us."
 msgstr ""
+"저는 인퀴지션에게 수배된 밀러를 노리고 있는 무장한 근위대를 파견할 수 있습니다. 누구도 우리에게 이의를 제기하지 않을 것입니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml:138
 msgctxt "0x0003fe26"
 msgid "A countess in Val Chevin is sympathetic to the Inquisition. She's willing to negotiate the spy's release for us."
-msgstr ""
+msgstr "발 셰빈의 백작 부인은 인퀴지션에 호의적입니다. 그녀는 우리에게 첩자를 석방하는 협상에 응할 여지가 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml:10
 msgctxt "0x0003fe93"
 msgid "Crestwood's mayor will have to stop for supplies. I'll have my agents inquire."
-msgstr ""
+msgstr "크레스트우드의 재상은 물자 공급을 멈춰야 할 겁니다. 제 요원들을 보내죠."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml:34
 msgctxt "0x0003fe92"
 msgid "I can ask the crown to post a warrant for the mayor's arrest."
-msgstr ""
+msgstr "제가 왕실에 시장의 체포 영장을 발행해 달라고 요청할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml:63
 msgctxt "0x0003adff"
 msgid "We already have soldiers on the road in that area. They'll hunt down the mayor."
-msgstr ""
+msgstr "이미 그 지역에 우리 군사들이 배치되어 있습니다. 그들이 재상을 사냥할 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml:90
 msgctxt "0x0003adfe"
 msgid "Find Crestwood's Mayor"
-msgstr ""
+msgstr "크레스트우드의 재상을 찾아라"
 
 #. FILE: DA3\DesignContent\Operations\Debug\zz_debug_agents.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -105,161 +115,161 @@ msgstr ""
 #: DA3\DesignContent\Operations\DesertRuins\ops_help_freed_slaves.xml:10
 msgctxt "0x0003feaf"
 msgid "Many of these people are skilled craftsmen. Our army could always use more engineers."
-msgstr ""
+msgstr "이들 중 상당수가 숙련된 대장장이입니다. 우리 군대에 기술자가 많을수록 좋죠."
 
 #. FILE: DA3\DesignContent\Operations\DesertRuins\ops_help_freed_slaves.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\DesertRuins\ops_help_freed_slaves.xml:42
 msgctxt "0x0003feae"
 msgid "Hire Former Slaves as Paid Workers"
-msgstr ""
+msgstr "노예였던 자들을 유급 노동자로 고용하라"
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\FereldenArea\fer_area_watchtowers.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\FereldenArea\fer_area_watchtowers.xml:10
 msgctxt "0x0002ebc8"
 msgid "My soldiers will have those towers up in short order."
-msgstr ""
+msgstr "명령만 내리시면 제 병사들이 저 감시탑들을 건축할 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\FereldenArea\fer_area_watchtowers.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Ferelden\FereldenArea\fer_area_watchtowers.xml:35
 msgctxt "0x0002ebcb"
 msgid "Build Watchtowers"
-msgstr ""
+msgstr "감시탑을 건축하라"
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\FereldenArea\fer_area_watchtowers.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\FereldenArea\fer_area_watchtowers.xml:107
 msgctxt "0x0002ebc9"
 msgid "There are nobles near Redcliffe who will gladly help the Inquisition if we make them an offer."
-msgstr ""
+msgstr "레드클리프 근방엔 우리가 제안을 한다면 기꺼이 인퀴지션을 도울 귀족들이 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml:10
 msgctxt "0x000422c5"
 msgid "If it's worth our time, I can provide this scholar with soldiers to protect her."
-msgstr ""
+msgstr "가치가 충분히 있다면, 제가 이 학자를 보호할 군사들을 제공할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml:44
 msgctxt "0x000422c6"
 msgid "The Avvar tribes are not friendly. My scouts can get Sister Dorcas in and out of the mountains safely."
-msgstr ""
+msgstr "아바르 부족들은 우호적이지 않습니다. 제 정찰병들이 도카스 자매님을 안전하게 산맥을 출입하도록 할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml:71
 msgctxt "0x000422c9"
 msgid "Locate Weapon of Tyrdda Bright-Axe"
-msgstr ""
+msgstr "티르다의 빛나는 도끼를 찾아라"
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml:147
 msgctxt "0x000422c8"
 msgid "Sister Dorcas has distant ties to Fereldan nobility. There are nobles who would happily gain favor with Arl Eamon by helping her."
-msgstr ""
+msgstr "도르카스 자매님은 페렐던의 귀족과 먼 친척 관계입니다. 그녀를 도와 알 이먼의 호의를 얻으려는 귀족들이 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\fer_royal1_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\fer_royal1_op.xml:10
 msgctxt "0x000408f5"
 msgid "Send forces to aid in the manhunt. Not only should we help, but everyone should see us doing it."
-msgstr ""
+msgstr "추적대를 치료할 사람들을 보내세요. 단순히 도와주는 것 뿐만 아니라, 모두가 우리가 도움을 줬다는 걸 알아야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\fer_royal1_op.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Ferelden\fer_royal1_op.xml:37
 msgctxt "0x000408f3"
 msgid "Shadows over Denerim"
-msgstr ""
+msgstr "데너림을 덮은 그림자"
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\fer_royal1_op.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\fer_royal1_op.xml:127
 msgctxt "0x000408f4"
 msgid "I have just the agent in mind for this. Allow me to send her to Denerim to quietly hunt down the Venatori spies."
-msgstr ""
+msgstr "딱 생각해 놓은 요원이 있습니다. 제가 그녀를 베나토리 첩자들을 조용히 추적하게 데너림으로 보내게 해주세요."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\fer_royal2_op.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Ferelden\fer_royal2_op.xml:13
 msgctxt "0x0004091e"
 msgid "Delicate Negotiations"
-msgstr ""
+msgstr "우아한 협상"
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\fer_royal2_op.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\fer_royal2_op.xml:93
 msgctxt "0x0004091d"
 msgid "There is a great deal of bad blood between these nations, but I will do my best to facilitate their talks."
-msgstr ""
+msgstr "이 나라들 사이엔 엄청난 앙금이 존재합니다, 하지만 대화 조율에 최선을 다해보죠."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\gen_teagan_op1.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Ferelden\gen_teagan_op1.xml:13
 msgctxt "0x00040ad1"
 msgid "The Arl's Invitation"
-msgstr ""
+msgstr "백작의 초대"
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\gen_teagan_op1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\gen_teagan_op1.xml:85
 msgctxt "0x00040b51"
 msgid "We can't truly run a bannorn. But a well-chosen envoy could win us Fereldan allies."
-msgstr ""
+msgstr "우린 바논을 완전히 지배할 수는 없습니다. 대신 사절을 잘 골라 보내면 페렐던에서 지원군을 얻을 수 있습니다. "
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\gen_teagan_op1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\gen_teagan_op1.xml:109
 msgctxt "0x00040b50"
 msgid "We could send a champion. It may not be wise to win, however. Fereldans hold grudges."
-msgstr ""
+msgstr "챔피언을 보낼 수는 있습니다. 다만, 현명한 방법은 아닐 겁니다. 페렐던인들이 원한을 가질 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\gen_teagan_op2.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Ferelden\gen_teagan_op2.xml:13
 msgctxt "0x00040b6e"
 msgid "The Arl of Redcliffe"
-msgstr ""
+msgstr "레드클리프의 백작"
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\gen_teagan_op2.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\gen_teagan_op2.xml:89
 msgctxt "0x00040b85"
 msgid "I know the mine he's talking about. We should deploy troops at once."
-msgstr ""
+msgstr "그가 말한 광산을 알고 있습니다. 당장 병력을 보내도록 합시다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\ger_fergus_op1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\ger_fergus_op1.xml:10
 msgctxt "0x000409b3"
 msgid "I know Teyrn Cousland, and I knew Justinia. I can't attend, but I could write to him."
-msgstr ""
+msgstr "전 쿠슬란드 공작과 친분이 있고, 저스티니아와도 친분이 있었습니다. 참여는 못 하지만, 편지를 써드릴 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\ger_fergus_op1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\ger_fergus_op1.xml:34
 msgctxt "0x000409b4"
 msgid "We should send a diplomatic attaché and some of the templars who knew the Divine."
-msgstr ""
+msgstr "대사와 그를 수행할 템플러 중 교황과 친분이 있던 몇 명을 보내도록 합시다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\ger_fergus_op1.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\ger_fergus_op1.xml:73
 msgctxt "0x000409b5"
 msgid "We have a number of Fereldan officers. We could send an honor guard to Highever."
-msgstr ""
+msgstr "우리에겐 다수의 페렐던 장교가 있습니다. 하이에버로 의장대를 보낼 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\ger_fergus_op1.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Ferelden\ger_fergus_op1.xml:100
 msgctxt "0x000409af"
 msgid "The Teyrn of Highever"
-msgstr ""
+msgstr "하이에버의 공작"
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -267,20 +277,21 @@ msgstr ""
 msgctxt "0x000403ca"
 msgid "I can smooth things over so the Ben-Hassrath can investigate openly. The time this takes will be saved if they can operate freely."
 msgstr ""
+"벤-하스라쓰가 자유롭게 조사할 수 있도록 제가 잘 말해둘 수 있습니다. 준비에 걸린 시간은 자유롭게 조사하는 것으로 만회될 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml:27
 msgctxt "0x000403d0"
 msgid "Follow Venatori Assassins"
-msgstr ""
+msgstr "베나토리 암살자를 추적하라"
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml:37
 msgctxt "0x000403c9"
 msgid "Failed Assassination Attempt Inquiry"
-msgstr ""
+msgstr "암살 미수 조사"
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
