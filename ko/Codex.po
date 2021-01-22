@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-19 14:01+0000\n"
-"Last-Translator: DTD <deertodear@gmail.com>\n"
+"PO-Revision-Date: 2021-01-22 06:01+0000\n"
+"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/codex/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,10 +13,9 @@ msgstr ""
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_alexius.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Characters\cod_cha_alexius.xml:30
-#, fuzzy
 msgctxt "0x00041841"
 msgid "Magister Gereon Alexius"
-msgstr "매지스터 게레온 알렉시우스"
+msgstr "마지스터 게레온 알렉시우스"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_alistair.xml
 #. PATH: CodexEntry/TitleReference
@@ -205,7 +204,6 @@ msgstr "자유 동맹의 트레벨리안"
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_player_quanari.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Characters\cod_cha_player_quanari.xml:30
-#, fuzzy
 msgctxt "0x000420b6"
 msgid "Adaar, the Vashoth"
 msgstr "바쇼스 아다르"
@@ -628,7 +626,7 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_ram.xml:13
 msgctxt "0x00041b25"
 msgid "Ram"
-msgstr ""
+msgstr "숫양"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_revenent.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -677,7 +675,7 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_snoufleur.xml:13
 msgctxt "0x00041b32"
 msgid "Snoufleur"
-msgstr ""
+msgstr "스노우플뢰르"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_tusket.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -691,21 +689,21 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_white_fox.xml:13
 msgctxt "0x00041b1b"
 msgid "Fennec"
-msgstr ""
+msgstr "페넥"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_wyvern.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_wyvern.xml:13
 msgctxt "0x00041b48"
 msgid "Wyvern"
-msgstr ""
+msgstr "와이번"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_zangolia.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_zangolia.xml:13
 msgctxt "0x00041b4a"
 msgid "Varghest"
-msgstr ""
+msgstr "바게스트"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cas_mainplot_Seekers.xml
 #. PATH: CodexEntry/TitleReference
@@ -761,7 +759,7 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_circle_of_magi.xml:30
 msgctxt "0x000418ea"
 msgid "The Circle of Magi"
-msgstr ""
+msgstr "마법사 협회"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_dalish.xml
 #. PATH: CodexEntry/TitleReference
@@ -796,21 +794,21 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_merchants_guild.xml:30
 msgctxt "0x00040e6b"
 msgid "The Dwarven Merchants Guild"
-msgstr ""
+msgstr "드워프 상인 조합"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_pentaghast.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_pentaghast.xml:30
 msgctxt "0x00041b5b"
 msgid "The Pentaghasts"
-msgstr ""
+msgstr "펜타가스트"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_qunari.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_qunari.xml:30
 msgctxt "0x00040e5f"
 msgid "The Qunari"
-msgstr ""
+msgstr "쿠나리"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_qunari_dreadnought.xml
 #. PATH: CodexEntry/TitleReference
@@ -852,7 +850,7 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_tal_vashoth.xml:30
 msgctxt "0x00041862"
 msgid "Tal-Vashoth"
-msgstr ""
+msgstr "탈-바쇼스"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_templars_now.xml
 #. PATH: CodexEntry/TitleReference
@@ -873,7 +871,7 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_tevinter_society.xml:30
 msgctxt "0x00041c4d"
 msgid "Tevinter Society"
-msgstr ""
+msgstr "테빈터 사회"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_vashoth.xml
 #. PATH: CodexEntry/TitleReference
@@ -887,28 +885,28 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_venatori.xml:30
 msgctxt "0x00041870"
 msgid "The Venatori"
-msgstr ""
+msgstr "베나토리"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_groups_ben_hassrath.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Groups\cod_groups_ben_hassrath.xml:30
 msgctxt "0x0004186a"
 msgid "Qunari: Ben-Hassrath"
-msgstr ""
+msgstr "쿠나리: 벤-하스라쓰"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_groups_imperial_chantry.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Groups\cod_groups_imperial_chantry.xml:30
 msgctxt "0x00040e6f"
 msgid "The Imperial Chantry"
-msgstr ""
+msgstr "제국 챈트리"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_groups_orlesian_civil_war.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Groups\cod_groups_orlesian_civil_war.xml:30
 msgctxt "0x00041855"
 msgid "The Orlesian Civil War"
-msgstr ""
+msgstr "올레이 내전"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_groups_rebel_mages.xml
 #. PATH: CodexEntry/TitleReference
@@ -929,7 +927,7 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\History\cod_andraste.xml:30
 msgctxt "0x00040e94"
 msgid "Andraste: Bride of the Maker"
-msgstr ""
+msgstr "안드라스테: 창조주의 아내"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_chant_mythal.xml
 #. PATH: CodexEntry/TitleReference
@@ -950,14 +948,14 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\History\cod_conclave.xml:30
 msgctxt "0x00041bc3"
 msgid "The Conclave"
-msgstr ""
+msgstr "콘클라베"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_dalish_andruil.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_dalish_andruil.xml:30
 msgctxt "0x00040e29"
 msgid "Andruil: Goddess of the Hunt"
-msgstr ""
+msgstr "안드루일: 사냥의 여신"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_dalish_arlathan_1.xml
 #. PATH: CodexEntry/TitleReference
@@ -1118,14 +1116,14 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\History\cod_maker.xml:30
 msgctxt "0x00040e73"
 msgid "The Maker"
-msgstr ""
+msgstr "창조주"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_qun.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_qun.xml:30
 msgctxt "0x00040e1c"
 msgid "The Qun"
-msgstr ""
+msgstr "쿤"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_qunari_par_vollen.xml
 #. PATH: CodexEntry/TitleReference
@@ -1174,7 +1172,7 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Magic\cod_black_city.xml:30
 msgctxt "0x000415ca"
 msgid "The Black City"
-msgstr ""
+msgstr "검은 도시"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Magic\cod_craft_amrita_vein.xml
 #. PATH: CodexEntry/TitleReference
@@ -1293,7 +1291,7 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Magic\cod_lyrium.xml:13
 msgctxt "0x00041552"
 msgid "Lyrium"
-msgstr ""
+msgstr "리륨"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Magic\cod_mag_breach.xml
 #. PATH: CodexEntry/TitleReference
@@ -1349,7 +1347,7 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Magic\cod_mag_red_lyrium.xml:30
 msgctxt "0x000417a8"
 msgid "Red Lyrium"
-msgstr ""
+msgstr "붉은 리륨"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Magic\cod_mag_spirit_v_demon.xml
 #. PATH: CodexEntry/TitleReference
@@ -3911,7 +3909,7 @@ msgstr ""
 #: DA3\DesignContent\Codex\Plot\Global\TreasureMaps\cod_Hinterlands_TreasureMap_02.xml:30
 msgctxt "0x00032f3a"
 msgid "Map to a Waterfall"
-msgstr ""
+msgstr "폭포로 가는 지도"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Global\TreasureMaps\cod_Hinterlands_TreasureMap_03.xml
 #. PATH: CodexPuzzle/TitleReference
@@ -4464,7 +4462,7 @@ msgstr ""
 #: DA3\DesignContent\Codex\Plot\Nemesis\Samson\let_nem_sam_quest2lyrium.xml:30
 msgctxt "0x00017106"
 msgid "Letter About Lyrium"
-msgstr ""
+msgstr "리륨에 대한 편지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Nemesis\Samson\let_nem_sam_quest2orders.xml
 #. PATH: CodexEntry/TitleReference

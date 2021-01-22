@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-19 14:01+0000\n"
-"Last-Translator: Pureun Kim <sky4bluebird@gmail.com>\n"
+"PO-Revision-Date: 2021-01-22 06:02+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
 "Language: ko\n"
@@ -37,14 +37,14 @@ msgstr "이중간첩 밝혀내기"
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_find_the_mole.xml:84
 msgctxt "0x0003fdde"
 msgid "We must move carefully. This traitor is a master of the craft to escape my detection for so long."
-msgstr "우린 조심스럽게 이동해야 합니다. 이 배신자는 저의 감시를 오랜 시간 피해다닌 제작의 달인이에요."
+msgstr "조심스럽게 움직여야 합니다. 이 배신자는 오랫동안 내 탐지로부터 벗어나는데 도가 튼 놈입니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml:10
 msgctxt "0x0003fe25"
 msgid "Our hand must not be seen in this. I can send Miller tools to escape, but she must leave on her own. "
-msgstr "우리의 손길이 남아서는 안 됩니다. 밀러에게 도주에 필요한 장비를 제가 줄 수 있지만, 그녀는 본인의 힘으로 떠나야만 합니다."
+msgstr "우리의 손길이 남아서는 안 됩니다. 밀러에게 도주에 필요한 장비를 제가 줄 수 있지만, 그녀는 본인의 힘으로 떠나야만 합니다. "
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml
 #. PATH: WarTableEntry/TitleReference
@@ -58,8 +58,7 @@ msgstr "간첩 구출"
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml:114
 msgctxt "0x0003fe1b"
 msgid "I can dispatch armed guards claiming Miller is wanted by the Inquisition. I doubt anyone will contest us."
-msgstr ""
-"저는 인퀴지션에게 수배된 밀러를 노리고 있는 무장한 근위대를 파견할 수 있습니다. 누구도 우리에게 이의를 제기하지 않을 것입니다."
+msgstr "저는 무장한 근위대를 파견해 인퀴지션이 밀러를 필요하다고 요구하겠습니다. 누구도 우리에게 이의를 제기하지 않을 것입니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -73,49 +72,49 @@ msgstr "발 셰빈의 백작 부인은 인퀴지션에 호의적입니다. 그�
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml:10
 msgctxt "0x0003fe93"
 msgid "Crestwood's mayor will have to stop for supplies. I'll have my agents inquire."
-msgstr "크레스트우드의 재상은 물자 공급을 멈춰야 할 겁니다. 제 요원들을 보내죠."
+msgstr "크레스트우드의 시장은 공급을 멈춰야 할 겁니다. 제 요원들을 보내죠."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml:34
 msgctxt "0x0003fe92"
 msgid "I can ask the crown to post a warrant for the mayor's arrest."
-msgstr "제가 왕실에 시장의 체포 영장을 발행해 달라고 요청할 수 있습니다."
+msgstr "제가 왕실에 시장의 체포 영장을 게시해 달라고 요청 할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml:63
 msgctxt "0x0003adff"
 msgid "We already have soldiers on the road in that area. They'll hunt down the mayor."
-msgstr "이미 그 지역에 우리 군사들이 배치되어 있습니다. 그들이 재상을 사냥할 겁니다."
+msgstr "이미 그 지역에 우리 군사들이 깔려있습니다. 그들에게 시장을 뒤쫓게 하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml:90
 msgctxt "0x0003adfe"
 msgid "Find Crestwood's Mayor"
-msgstr "크레스트우드의 재상을 찾아라"
+msgstr "크레스트우드 시장 수색"
 
 #. FILE: DA3\DesignContent\Operations\Debug\zz_debug_agents.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3\DesignContent\Operations\Debug\zz_debug_agents.xml:10
 msgctxt "0x00032843"
 msgid "DEBUG OPERATION TO GET MORE AGENTS"
-msgstr ""
+msgstr "DEBUG OPERATION TO GET MORE AGENTS"
 
 #. FILE: DA3\DesignContent\Operations\Debug\zz_debug_agents.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Debug\zz_debug_agents.xml:37
 msgctxt "0x00032844"
 msgid "DEBUG Get More Power"
-msgstr ""
+msgstr "DEBUG Get More Power"
 
 #. FILE: DA3\DesignContent\Operations\DesertRuins\ops_help_freed_slaves.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3\DesignContent\Operations\DesertRuins\ops_help_freed_slaves.xml:10
 msgctxt "0x0003feaf"
 msgid "Many of these people are skilled craftsmen. Our army could always use more engineers."
-msgstr "이들 중 상당수가 숙련된 대장장이입니다. 우리 군대에 기술자가 많을수록 좋죠."
+msgstr "이들 중 상당수가 숙련공들입니다. 우리 군에 기술자는 언제나 많을수록 좋죠."
 
 #. FILE: DA3\DesignContent\Operations\DesertRuins\ops_help_freed_slaves.xml
 #. PATH: WarTableEntry/TitleReference
@@ -129,7 +128,7 @@ msgstr "노예였던 자들을 유급 노동자로 고용하라"
 #: DA3\DesignContent\Operations\Ferelden\FereldenArea\fer_area_watchtowers.xml:10
 msgctxt "0x0002ebc8"
 msgid "My soldiers will have those towers up in short order."
-msgstr "명령만 내리시면 제 병사들이 저 감시탑들을 건축할 겁니다."
+msgstr "명령만 내리시면 제 병사들이 저 탑들을 세워 올리겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\FereldenArea\fer_area_watchtowers.xml
 #. PATH: WarTableEntry/TitleReference
@@ -157,7 +156,7 @@ msgstr "가치가 충분히 있다면, 제가 이 학자를 보호할 군사들�
 #: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml:44
 msgctxt "0x000422c6"
 msgid "The Avvar tribes are not friendly. My scouts can get Sister Dorcas in and out of the mountains safely."
-msgstr "아바르 부족들은 우호적이지 않습니다. 제 정찰병들이 도카스 자매님을 안전하게 산맥을 출입하도록 할 수 있습니다."
+msgstr "아바르 부족은 우호적이지 않습니다. 제 정찰병들이 도르카스 자매님을 안전히 산맥을 오갈 수 있게 할 것입니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml
 #. PATH: WarTableEntry/TitleReference
@@ -171,28 +170,28 @@ msgstr "티르다의 빛나는 도끼를 찾아라"
 #: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml:147
 msgctxt "0x000422c8"
 msgid "Sister Dorcas has distant ties to Fereldan nobility. There are nobles who would happily gain favor with Arl Eamon by helping her."
-msgstr "도르카스 자매님은 페렐던의 귀족과 먼 친척 관계입니다. 그녀를 도와 알 이먼의 호의를 얻으려는 귀족들이 있습니다."
+msgstr "도르카스 자매님은 페렐던의 귀족사회와 관계가 있습니다. 기꺼이 그녀를 도와 알 아몬의 호의를 얻으려는 귀족들이 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\fer_royal1_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\fer_royal1_op.xml:10
 msgctxt "0x000408f5"
 msgid "Send forces to aid in the manhunt. Not only should we help, but everyone should see us doing it."
-msgstr "추적대를 치료할 사람들을 보내세요. 단순히 도와주는 것 뿐만 아니라, 모두가 우리가 도움을 줬다는 걸 알아야 합니다."
+msgstr "군대를 보내 수사를 도와줘야 합니다. 단순히 도와주는 것 뿐만 아니라, 모든 사람이 우리의 도움을 알 수 있게 해야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\fer_royal1_op.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Ferelden\fer_royal1_op.xml:37
 msgctxt "0x000408f3"
 msgid "Shadows over Denerim"
-msgstr "데너림을 덮은 그림자"
+msgstr "데너림에 드리운 그림자"
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\fer_royal1_op.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\fer_royal1_op.xml:127
 msgctxt "0x000408f4"
 msgid "I have just the agent in mind for this. Allow me to send her to Denerim to quietly hunt down the Venatori spies."
-msgstr "딱 생각해 놓은 요원이 있습니다. 제가 그녀를 베나토리 첩자들을 조용히 추적하게 데너림으로 보내게 해주세요."
+msgstr "딱 생각해 놓은 요원이 있습니다. 제가 그녀를 데너림으로 보내 베나토리 첩자들을 조용히 추적 할 수 있도록 허락해주세요."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\fer_royal2_op.xml
 #. PATH: WarTableEntry/TitleReference
@@ -206,7 +205,7 @@ msgstr "우아한 협상"
 #: DA3\DesignContent\Operations\Ferelden\fer_royal2_op.xml:93
 msgctxt "0x0004091d"
 msgid "There is a great deal of bad blood between these nations, but I will do my best to facilitate their talks."
-msgstr "이 나라들 사이엔 엄청난 앙금이 존재합니다, 하지만 대화 조율에 최선을 다해보죠."
+msgstr "이 두 나라 사이엔 엄청난 앙금이 존재합니다, 하지만 회담을 조율하는데 최선을 다하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\gen_teagan_op1.xml
 #. PATH: WarTableEntry/TitleReference
@@ -220,14 +219,14 @@ msgstr "백작의 초대"
 #: DA3\DesignContent\Operations\Ferelden\gen_teagan_op1.xml:85
 msgctxt "0x00040b51"
 msgid "We can't truly run a bannorn. But a well-chosen envoy could win us Fereldan allies."
-msgstr "우린 바논을 완전히 지배할 수는 없습니다. 대신 사절을 잘 골라 보내면 페렐던에서 지원군을 얻을 수 있습니다. "
+msgstr "우린 바논을 완전히 지배할 수는 없습니다. 대신 사절을 잘 골라 보내면 페렐던에서 지원군을 얻을 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\gen_teagan_op1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\gen_teagan_op1.xml:109
 msgctxt "0x00040b50"
 msgid "We could send a champion. It may not be wise to win, however. Fereldans hold grudges."
-msgstr "챔피언을 보낼 수는 있습니다. 다만, 현명한 방법은 아닐 겁니다. 페렐던인들이 원한을 가질 겁니다."
+msgstr "챔피언을 보낼 수는 있습니다. 하지만 이기는 것은 현명하지 못할 겁니다. 페렐던인들의 원한을 살테니까요."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\gen_teagan_op2.xml
 #. PATH: WarTableEntry/TitleReference
@@ -248,7 +247,7 @@ msgstr "그가 말한 광산을 알고 있습니다. 당장 병력을 보내도�
 #: DA3\DesignContent\Operations\Ferelden\ger_fergus_op1.xml:10
 msgctxt "0x000409b3"
 msgid "I know Teyrn Cousland, and I knew Justinia. I can't attend, but I could write to him."
-msgstr "전 쿠슬란드 공작과 친분이 있고, 저스티니아와도 친분이 있었습니다. 참여는 못 하지만, 편지를 써드릴 수 있습니다."
+msgstr "전 쿠슬란드 공작과 친분이 있고, 저스티니아와도 친분이 있었습니다. 참여는 못 하지만, 서신을 보낼 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\ger_fergus_op1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -277,7 +276,7 @@ msgstr "하이에버의 공작"
 msgctxt "0x000403ca"
 msgid "I can smooth things over so the Ben-Hassrath can investigate openly. The time this takes will be saved if they can operate freely."
 msgstr ""
-"벤-하스라쓰가 자유롭게 조사할 수 있도록 제가 잘 말해둘 수 있습니다. 준비에 걸린 시간은 자유롭게 조사하는 것으로 만회될 겁니다."
+"벤-하스라쓰가 자유롭게 조사할 수 있도록 제가 유연하게 조치하겠습니다. 준비에 걸린 시간은 자유롭게 조사하는 것으로 만회될 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
@@ -298,21 +297,21 @@ msgstr "암살 미수 조사"
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml:157
 msgctxt "0x000403c8"
 msgid "We should order the Ben-Hassrath to investigate immediately. We can always apologize to Ferelden later."
-msgstr ""
+msgstr "벤-헤스라스에게 즉시 조사하라고 명령해야 합니다. 페럴든에는 언제든지 사과 할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml:181
 msgctxt "0x000403c7"
 msgid "We do not have time to gain the Fereldans' trust. The Ben-Hassrath must act in secret."
-msgstr ""
+msgstr "우리는 페럴던의 신뢰를 얻을 시간이 없습니다. 벤-하스라쓰는 비밀리에 행동해야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_2.xml:15
 msgctxt "0x000403d5"
 msgid "The Ben-Hassrath must travel through the Brecilian Forest. It is the only way they will reach Gwaren without alerting those they pursue."
-msgstr ""
+msgstr "벤-하스라쓰는 브레실리안 숲을 통과해야 합니다. 그 방법이 경계를 피해 뒤쫓아 그와렌에 도달 할 수 있는 유일한 방법입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_2.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -320,27 +319,28 @@ msgstr ""
 msgctxt "0x000403d2"
 msgid "They should kill the agents in South Reach before leaving. We cannot risk these agents warning the assassins of their pursuit."
 msgstr ""
+"그들은 떠나기 전에 사우스 리치의 요원들을 죽여야합니다. 우리는 이 요원들이 경고하는 암살자들의 추적이라는 위험을 감수 할 수 없습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_2.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_2.xml:179
 msgctxt "0x000403d4"
 msgid "I can get the Ben-Hassrath passage on a ship that will take them most of the way to Gwaren."
-msgstr ""
+msgstr "전 벤-하스라쓰들을 태우고 그와렌으로 향하는 대부분의 길을 통과 할 수 있는 배를 구할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml:15
 msgctxt "0x000403d9"
 msgid "The Qunari have the best ships on the seas. A dreadnought could blow that Venatori fire ship out of the water."
-msgstr ""
+msgstr "쿠나리는 바다에서 가장 좋은 배를 가지고 있습니다. 드레드노트 한 척은 베나토리 화공선을 물 밖으로 날려 버릴 수도 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml:42
 msgctxt "0x000403da"
 msgid "Stop Venatori Fire Ship"
-msgstr ""
+msgstr "베나토리 화공선을 막아라"
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -348,34 +348,35 @@ msgstr ""
 msgctxt "0x000403dc"
 msgid "We must warn Ferelden. I can have the ships of three arls ready to stop the fire ship from reaching the harbor."
 msgstr ""
+"페렐던에게 경고해야합니다. 저는 화공선이 항구에 도달하는 것을 막을 준비를 하기 위해 세명의 백작으로 부터 배를 확보 할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml:179
 msgctxt "0x000403dd"
 msgid "I have agents in the city who can try to take the fire ship before it reaches the city, although odds are against us."
-msgstr ""
+msgstr "확률이 우리에게 조금 불리하지만, 저는 화공선이 도시에 도착하기 전에 승선 시도 할 수 있는 요원들을 도시 안에 뒀습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_1.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_1.xml:23
 msgctxt "0x00040daa"
 msgid "Find Spies in Skyhold"
-msgstr ""
+msgstr "스카이홀드 안에 있는 첩자를 찾아라"
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_1.xml:110
 msgctxt "0x00040dab"
 msgid "Tallis has a good plan. Let us use these spies against the Venatori and trace them back to their spymasters."
-msgstr ""
+msgstr "탈리스는 좋은 계획을 가지고 있습니다. 베나토리를 상대로 이 첩자들을 사용하여 그들의 스파이 마스터를 추적해 보겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_1.xml:127
 msgctxt "0x00040db1"
 msgid "Track Spies in Val Royeaux"
-msgstr ""
+msgstr "발 로요 안의 첩자들을 추적하라"
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -383,69 +384,70 @@ msgstr ""
 msgctxt "0x00040dac"
 msgid "It is dangerous to play games with Venatori agents in our ranks. Let me arrest these spies and have them publicly executed as an example."
 msgstr ""
+"우리쪽에서 베네토리 요원들과 게임을 하는 것은 위험합니다. 이 첩자들을 체포하고 본보기로 한 명을 공개 처형하도록 허락해 주십시오."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_2.xml:115
 msgctxt "0x00040db3"
 msgid "If you wish, we can move a smaller group with more discretion."
-msgstr ""
+msgstr "원하신다면, 더 작은 그룹으로 더 신중히 움직일 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_2.xml:132
 msgctxt "0x00040dc8"
 msgid "Track Spies in Val Chevin"
-msgstr ""
+msgstr "발 셰빈에서 첩자 추적"
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_2.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_2.xml:144
 msgctxt "0x00040db2"
 msgid "You heard Tallis. We should move our operatives in force."
-msgstr ""
+msgstr "탈리스에게 들으셨죠. 우리는 요원들을 대거 움직여야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_3.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_3.xml:125
 msgctxt "0x00040dcc"
 msgid "We should send agents in force to ensure we have enough manpower."
-msgstr ""
+msgstr "충분한 인력을 확보하기 위해 요원들을 대거 파견해야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_3.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_3.xml:149
 msgctxt "0x00040dcb"
 msgid "Tallis recommends caution. I can slip a few agents quietly into the city."
-msgstr ""
+msgstr "탈리스는 주의하라고 권하고 있어요. 전 몇 명의 요원을 도시로 조용히 둘 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_4.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_4.xml:15
 msgctxt "0x00040dd8"
 msgid "If Tallis says we need more agents, we must listen to her and send our spies in."
-msgstr ""
+msgstr "탈리스가 더 많은 요원이 필요하다고 말하면, 그녀의 말대로 첩자들을 보내야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_4.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_4.xml:32
 msgctxt "0x00040ddb"
 msgid "Track Spies in Vyrantium"
-msgstr ""
+msgstr "뷔란티움에서 첩자 추적"
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_4.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_4.xml:44
 msgctxt "0x00040dd9"
 msgid "Nevarra is crawling with Venatori agents. I can get a few of my best spies into place undetected, but no more."
-msgstr ""
+msgstr "네바라는 베네토리 요원들이 가득 득실댑니다. 전 제 최고의 첩자들을 발견되지 않고 그 자리에 투입 할 수 있지만, 그게 다에요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_4.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_4.xml:71
 msgctxt "0x00040dd7"
 msgid "Track Spies in Nevarra"
-msgstr ""
+msgstr "네바라에서 첩자 추적"
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_5.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -453,55 +455,56 @@ msgstr ""
 msgctxt "0x00040ddd"
 msgid "I can have my diplomats cause scandals in Tevinter. It won't add to our strength in the area, but it might draw attention away from the Ben-Hassrath."
 msgstr ""
+"제 외교관으로 하여 티빈터에서 스캔들을 일으킬 수 있습니다. 우리의 힘을 늘릴 순 없겠지만, 벤-하스라쓰의 관심을 돌릴 순 있겠지요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_5.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_5.xml:152
 msgctxt "0x00040dde"
 msgid "I suggest we get as many agents in to help Tallis as possible."
-msgstr ""
+msgstr "탈리스를 돕기 위해 가능한 많은 요원을 모으는 것을 추천합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_5.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_5.xml:181
 msgctxt "0x00040de3"
 msgid "We can move a few agents with minimal risk of alerting the Venatori."
-msgstr ""
+msgstr "베나토리에 경고 할 위험을 최소화하면서 몇 명의 요원을 움직일 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_6.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_6.xml:13
 msgctxt "0x00040de4"
 msgid "Destroy Venatori Spy Network"
-msgstr ""
+msgstr "베나토리 첩자들의 연락망 파괴"
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_6.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_6.xml:120
 msgctxt "0x00040de6"
 msgid "We can move in a few more agents to help Tallis without raising any alarms."
-msgstr ""
+msgstr "몇명의 요원을 경보를 울리지 않고 탈리스를 돕기 위해 움직일 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_6.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_6.xml:159
 msgctxt "0x00040de9"
 msgid "We should bring in as many agents as possible to maximize our chances of victory."
-msgstr ""
+msgstr "승리의 기회를 극대화하려면 가능한 한 많은 요원들을 불러와야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_6.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_6.xml:183
 msgctxt "0x00040deb"
 msgid "My diplomats can occupy the Tevinter magisters and draw attention away from the Ben-Hassrath."
-msgstr ""
+msgstr "제 외교관은 그 티빈터 마지스터들을 바쁘게 만들어 벤-하스라쓰로부터 주의를 끌 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_adamant.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_adamant.xml:18
 msgctxt "0x0003fe20"
 msgid "Destroy Adamant Fortress"
-msgstr ""
+msgstr "아다만트 요새 파괴"
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_adamant.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -509,76 +512,77 @@ msgstr ""
 msgctxt "0x0003fe22"
 msgid "It took all our forces to break Adamant. I'd happily spare some men to ensure the safety of the Chargers."
 msgstr ""
+"아다만트를 무너뜨리는 데 우리의 모든 힘이 필요했습니다. 나는 기마대의 안전을 보장하기 위해 병력의 일부를 기꺼이 남겨두고 싶습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_adamant.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_adamant.xml:138
 msgctxt "0x0003fe2b"
 msgid "Claim Grey Warden Cache"
-msgstr ""
+msgstr "회색 감시자 은닉처 확보"
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_adamant.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_adamant.xml:150
 msgctxt "0x0003fe1e"
 msgid "Many Orlesian nobles would love the reputation of having aided in the destruction of Adamant fortress."
-msgstr ""
+msgstr "많은 올레이 귀족들이 아다만트 요새의 파괴를 도왔다는 명성을 대단히 기뻐할 것 입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_adamant_bonus.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_adamant_bonus.xml:15
 msgctxt "0x0003fe2a"
 msgid "The area is dangerous. We'll need a heavily armed force to reach the supply cache."
-msgstr ""
+msgstr "이 지역은 위험합니다. 보급품 은닉처에 도달하려면 중무장한 부대 하나는 필요할 것 입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_adamant_bonus.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_adamant_bonus.xml:39
 msgctxt "0x0003fe28"
 msgid "A small team could be in and out of the area with no one the wiser."
-msgstr ""
+msgstr "작은 팀이 이해 하는 이가 없어도 이곳을 들락거릴 수 있을 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_halam.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_halam.xml:18
 msgctxt "0x0003fe3c"
 msgid "Meet Orlesian Mercenaries"
-msgstr ""
+msgstr "올레이 용병들과의 만남"
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_halam.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_halam.xml:121
 msgctxt "0x0003fe37"
 msgid "While the Chargers lean on the mercenaries, I can lean on the nobles. Between us, we can subvert any possible rebels."
-msgstr ""
+msgstr "돌격대가 용병들을 압박하는 동안 전 귀족들을 압박 할 수 있습니다. 그 사이에, 우린 그 어떤 반란이라도 전복시킬 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_halam.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_halam.xml:138
 msgctxt "0x0003fe3f"
 msgid "Press Orlesian Nobles"
-msgstr ""
+msgstr "올레이 귀족 압박"
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_halam.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_halam.xml:150
 msgctxt "0x0003fe3b"
 msgid "A few drops of poison in the right wineglass, and some of these mercenaries will be looking for a new employer."
-msgstr ""
+msgstr "멀쩡한 와인잔에 독을 몇방울 떨어트리면, 이 용병들 중 일부는 새로운 고용주를 찾기 시작할 것 입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_halam_bonus.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_halam_bonus.xml:15
 msgctxt "0x0003fe40"
 msgid "I know which nobles are willing to help us, and how far they can be pushed. "
-msgstr ""
+msgstr "귀족들이 얼마나 궁지에 몰릴지, 그리고 어떤 귀족들이 우리를 기꺼이 도와줄 것인지 전 알고 있습니다. "
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_halam_bonus.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_halam_bonus.xml:118
 msgctxt "0x0003fe3e"
 msgid "The right word whispered at the right time is more effective than an afternoon of pleasantries."
-msgstr ""
+msgstr "적절한 시간에 속삭이는 적절한 한 마디는 오후의 만담보다 효과적인 법이죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_haven.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -586,27 +590,28 @@ msgstr ""
 msgctxt "0x0003fe0b"
 msgid "The only way we will bring in refugees is through our allies in Ferelden. After Haven, they are more than willing to help."
 msgstr ""
+"페렐던의 우리 동맹을 통하는 방법만이 난민을 데려오는 유일한 방법입니다. 헤이븐 사건에도 불구하고, 그들은 기꺼이 도움을 줄 것입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_haven.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_haven.xml:37
 msgctxt "0x0003fe0f"
 msgid "Locate Heretic Sister"
-msgstr ""
+msgstr "이교도 수녀 찾기"
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_haven.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_haven.xml:47
 msgctxt "0x0003fe05"
 msgid "Scout Haven Ruins"
-msgstr ""
+msgstr "헤이븐 폐허 정찰"
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_haven.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_haven.xml:150
 msgctxt "0x0003fe09"
 msgid "We have no idea how many enemies remain at Haven. The Chargers had best go in numbers."
-msgstr ""
+msgstr "얼마나 많은 적이 헤이븐에 남아있는지 우린 아무도 모릅니다. 돌격대의 인원이면 딱 적당합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_haven_bonus.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -614,55 +619,57 @@ msgstr ""
 msgctxt "0x0003fe0d"
 msgid "Regardless of what the Chantry thinks of the Inquisition, they will be eager to stamp out this heresy if we ask for assistance finding this rogue sister."
 msgstr ""
+"챈트리가 인퀴지션에 대해 어떻게 생각하든, 우리가이 사기꾼 같은 수녀의 수색에 도움을 요청하면 그들은 이단을 박멸하는데 열렬히 반응할 것 "
+"입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_haven_bonus.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_haven_bonus.xml:118
 msgctxt "0x0003fe10"
 msgid "We will easily track down a Chantry sister saying such things in public."
-msgstr ""
+msgstr "우리는 공개적으로 그런 말을 하고 다니는 챈트리 수녀를 쉽게 추적 할 것입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal.xml:13
 msgctxt "0x0003fe53"
 msgid "Inflate Inquisition Numbers"
-msgstr ""
+msgstr "심문단 숫자 부풀리기"
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal.xml:116
 msgctxt "0x0003fe50"
 msgid "My scouts have done similar work. They may even be able to ambush enemy forces."
-msgstr ""
+msgstr "제 정찰병들도 비슷한 일을 했었습니다. 심지어 그들은 적군에게 매복 공격을 할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal.xml:133
 msgctxt "0x0003fe57"
 msgid "Follow Venatori Map"
-msgstr ""
+msgstr "베나토리 지도를 따라가다"
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal.xml:145
 msgctxt "0x0003fe4f"
 msgid "It's a good idea. We don't have the manpower to do much more at the moment."
-msgstr ""
+msgstr "좋은 생각입니다. 현재로서는 더 많은 걸 할 수 있는 인력이 없습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal_bonus.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal_bonus.xml:10
 msgctxt "0x0003fe5a"
 msgid "My soldiers can get to the destination on the map and strike down whatever threatens us there."
-msgstr ""
+msgstr "제 병사들은 지도의 목적지에 도착해 우리를 위협하는 그 어떤 것도 쓰러뜨릴 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal_bonus.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal_bonus.xml:118
 msgctxt "0x0003fe59"
 msgid "If we do not think it too dangerous, my scouts could get in and out quickly."
-msgstr ""
+msgstr "너무 위험하다 여겨지지 않는다면, 제 정찰병들은 재빠르게 들어갔다 나올 수 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -670,69 +677,71 @@ msgstr ""
 msgctxt "0x0003fde6"
 msgid "There is more than one way into Redcliffe Castle. With the right information, the Chargers can get inside with no one the wiser."
 msgstr ""
+"레드 클리프 성으로 진입하는 방법은 한두가지가 아니죠. 상황을 다 이해하는 사람이 없어도 올바른 정보만 있으면 돌격대는 진입 할 수 "
+"있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe.xml:42
 msgctxt "0x0003fde2"
 msgid "Investigate Redcliffe Castle"
-msgstr ""
+msgstr "레드클리프 성 조사"
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe.xml:146
 msgctxt "0x0003fde8"
 msgid "There are Fereldan nobles who would support any effort to retake Redcliffe Castle from the mages."
-msgstr ""
+msgstr "마법사들로부터 레드 클리프 성을 되찾기 위한 그 어떤 노력도 아끼지 않고 지원할 페렐던 귀족들이 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe_bonus.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe_bonus.xml:10
 msgctxt "0x0003fdf7"
 msgid "The arl does not know what we know. He could easily pass along misinformation in good faith."
-msgstr ""
+msgstr "백작은 우리가 아는 것을 모릅니다. 그는 선의로 잘못된 정보를 쉽사리 전달 할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe_bonus.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe_bonus.xml:37
 msgctxt "0x0003fdfb"
 msgid "Deal with Venatori Ally"
-msgstr ""
+msgstr "베나토리 동맹과 협상"
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe_bonus.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe_bonus.xml:115
 msgctxt "0x0003fdf6"
 msgid "Arl Wulff is a good man. If we approach him, he will make amends."
-msgstr ""
+msgstr "율리프 백작은 좋은 사람입니다. 우리가 그와 교섭 한다면 보상을 할 것입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe_bonus.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe_bonus.xml:144
 msgctxt "0x0003fdf9"
 msgid "Arl Wulff should be tried and executed. This is the price of doing business with the Venatori."
-msgstr ""
+msgstr "베나토리와 거래를 했던 대가로 율리프 백작은 처형되야 마땅합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal.xml:13
 msgctxt "0x0003fdbd"
 msgid "Investigate Therinfal Redoubt"
-msgstr ""
+msgstr "세린팔 보루 조사"
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal.xml:117
 msgctxt "0x0003fdd1"
 msgid "This calls for a light touch. My scouts can make a distraction, letting the Chargers sneak in close."
-msgstr ""
+msgstr "날렵한 접근이 필요합니다. 돌격대가 은밀하게 진입하도록 제 정찰병들이 주의를 끌 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal.xml:146
 msgctxt "0x0003fdd0"
 msgid "I can send the Chargers in with Inquisition troops to bolster their numbers."
-msgstr ""
+msgstr "전 돌격대의 인원을 강화하기 위해 심문회의 병력들을 함께 보낼 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal_bonus.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference

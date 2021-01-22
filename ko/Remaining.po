@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-16 12:12+0000\n"
-"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
+"PO-Revision-Date: 2021-01-22 06:02+0000\n"
+"Last-Translator: GameSlot <gamehdhdhdjdjdjd@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -48,14 +48,14 @@ msgstr "스트라우드"
 #: DA3\Actors\party\Specializations\Plot\gen_partymember_plot_hawke_mage_f.xml:8242
 msgctxt "0x00018652"
 msgid "Hawke"
-msgstr ""
+msgstr "호크"
 
 #. FILE: DA3\Actors\party\Specializations\Plot\gen_partymember_plot_warden_loghain.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 #: DA3\Actors\party\Specializations\Plot\gen_partymember_plot_warden_loghain.xml:7233
 msgctxt "0x00018695"
 msgid "Loghain"
-msgstr ""
+msgstr "로게인"
 
 #. FILE: DA3\Actors\party\Specializations\gen_partymember_mp2_mp_bard.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -76,7 +76,7 @@ msgstr ""
 #: DA3\Actors\party\Specializations\gen_partymember_mp2_mp_skywatcher.xml:7280
 msgctxt "0x00046a1c"
 msgid "Avvar"
-msgstr ""
+msgstr "아바르"
 
 #. FILE: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_mp_saarebas.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -160,7 +160,7 @@ msgstr ""
 #: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_necromancer.xml:7313
 msgctxt "0x0003f948"
 msgid "Necromancer"
-msgstr ""
+msgstr "사령술사"
 
 #. FILE: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_reaver.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -174,7 +174,7 @@ msgstr ""
 #: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_templar.xml:7950
 msgctxt "0x0003f952"
 msgid "Templar"
-msgstr ""
+msgstr "템플러"
 
 #. FILE: DA3\Actors\party\gen_partymember.xml
 #. PATH: InteractableComponentData[1]/InteractionTextReference
@@ -5554,7 +5554,7 @@ msgstr ""
 #: DA3\DesignContent\CreatureProfiles\Ferelden\Hinterlands\fer_com_scout_fearful_creatureprofile.xml:24
 msgctxt "0x00042456"
 msgid "Ritts"
-msgstr ""
+msgstr "리츠"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\Ferelden\Hinterlands\fer_npc_angry_widow_creatureprofile.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -5631,7 +5631,7 @@ msgstr ""
 #: DA3\DesignContent\CreatureProfiles\Ferelden\Hinterlands\fer_npc_horse_master_wife_creatureprofile.xml:24
 msgctxt "0x000346db"
 msgid "Elaina"
-msgstr ""
+msgstr "엘레이나"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\Ferelden\Hinterlands\fer_npc_hunter_contact_creatureprofile.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName

@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-19 14:01+0000\n"
-"Last-Translator: morri64 <morri64@naver.com>\n"
+"PO-Revision-Date: 2021-01-22 06:02+0000\n"
+"Last-Translator: GameSlot <gamehdhdhdjdjdjd@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
 "Language: ko\n"
@@ -6209,63 +6209,66 @@ msgstr "정찰병 갑옷"
 #: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var1_0411b.xml:6
 msgctxt "0x0001a2b4"
 msgid "Hunter Armor"
-msgstr ""
+msgstr "사냥꾼 갑옷"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var1_0411b.xml
 #. PATH: Recipe/CraftingName
 #: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var1_0411b.xml:39
 msgctxt "0x00042352"
 msgid "Hunter Armor"
-msgstr ""
+msgstr "사냥꾼 갑옷"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var1_0411c.xml
 #. PATH: Recipe/DisplayName
 #: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var1_0411c.xml:6
 msgctxt "0x0001a2a6"
 msgid "Prowler Armor"
-msgstr ""
+msgstr "배회자 갑옷"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var1_0411c.xml
 #. PATH: Recipe/CraftingName
 #: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var1_0411c.xml:39
 msgctxt "0x00042354"
 msgid "Prowler Armor"
-msgstr ""
+msgstr "배회자 갑옷"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0211a.xml
 #. PATH: Recipe/DisplayName
 #: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0211a.xml:6
+#, fuzzy
 msgctxt "0x0001a2ac"
 msgid "Sturdy Scout Coat"
-msgstr ""
+msgstr "견고한 정찰병 외투"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0211b.xml
 #. PATH: Recipe/DisplayName
 #: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0211b.xml:6
 msgctxt "0x0001a2b2"
 msgid "Sturdy Hunter Coat"
-msgstr ""
+msgstr "견고한 사냥꾼 코트"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0211b_rare.xml
 #. PATH: Recipe/DisplayName
 #: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0211b_rare.xml:6
+#, fuzzy
 msgctxt "0x0001a2b3"
 msgid "Superior Hunter Coat"
-msgstr ""
+msgstr "성능 좋은 사냥꾼 코트"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0211c.xml
 #. PATH: Recipe/DisplayName
 #: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0211c.xml:6
 msgctxt "0x0001a2b5"
 msgid "Sturdy Prowler Coat"
-msgstr ""
+msgstr "견고한 도둑 코트"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0211c_rare.xml
 #. PATH: Recipe/DisplayName
 #: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0211c_rare.xml:6
+#, fuzzy
 msgctxt "0x0001a2ae"
 msgid "Superior Prowler Coat"
-msgstr ""
+msgstr "성능 좋은 도둑 코트"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0311a.xml
 #. PATH: Recipe/DisplayName
@@ -6307,42 +6310,44 @@ msgstr "훌륭한 배회자 사슬옷"
 #: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0411a.xml:6
 msgctxt "0x0001a2bf"
 msgid "Sturdy Scout Armor"
-msgstr ""
+msgstr "견고한 정찰 갑옷"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0411b.xml
 #. PATH: Recipe/DisplayName
 #: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0411b.xml:6
 msgctxt "0x0001a2a9"
 msgid "Sturdy Hunter Armor"
-msgstr ""
+msgstr "견고한 사냥꾼 갑옷"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0411b_rare.xml
 #. PATH: Recipe/DisplayName
 #: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0411b_rare.xml:6
+#, fuzzy
 msgctxt "0x0001a2c7"
 msgid "Superior Hunter Armor"
-msgstr ""
+msgstr "성능 좋은 사냥꾼 갑옷"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0411c.xml
 #. PATH: Recipe/DisplayName
 #: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0411c.xml:6
 msgctxt "0x0001a2c9"
 msgid "Sturdy Prowler Armor"
-msgstr ""
+msgstr "견고한 도둑 갑옷"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0411c_rare.xml
 #. PATH: Recipe/DisplayName
 #: DA3\Equipment\Crafting\Recipes\Armors\Medium\Chest\recipe_medium_var2_0411c_rare.xml:6
+#, fuzzy
 msgctxt "0x0001a2a2"
 msgid "Superior Prowler Armor"
-msgstr ""
+msgstr "성능 좋은 도둑 갑옷"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Armors\Medium\Helmets\recipe_medium_helmet_1.xml
 #. PATH: Recipe/DisplayName
 #: DA3\Equipment\Crafting\Recipes\Armors\Medium\Helmets\recipe_medium_helmet_1.xml:6
 msgctxt "0x00035c75"
 msgid "Scout Hat"
-msgstr ""
+msgstr "정찰병 모자"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Armors\Medium\Helmets\recipe_medium_helmet_1.xml
 #. PATH: Recipe/Description
@@ -24110,7 +24115,7 @@ msgstr ""
 #: DA3_DLC1\Equipment\Crafting\Materials\Metal\dlc1_recipe_material_dlc1_metal_2.xml:6
 msgctxt "0x0004571b"
 msgid "Veil Quartz"
-msgstr ""
+msgstr "장막 석영"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Metal\dlc1_recipe_material_dlc1_metal_2.xml
 #. PATH: RecipeMaterial/Description

@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-17 14:01+0000\n"
-"Last-Translator: 큡수뎃 <quoobt@gmail.com>\n"
+"PO-Revision-Date: 2021-01-22 06:02+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -988,12 +988,11 @@ msgstr ""
 #: DA3\Party\Rogue\DualWeapon\Parry\party_rogue_dualweapon_parry_abilitydata.xml:5
 msgctxt "0x000424cd"
 msgid "Parry"
-msgstr "반격"
+msgstr "응수"
 
 #. FILE: DA3\Party\Rogue\DualWeapon\Parry\party_rogue_dualweapon_parry_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\DualWeapon\Parry\party_rogue_dualweapon_parry_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x000424ce"
 msgid ""
 "You quickly block a strike made by your foe, then counter as their own defenses fall.\n"
@@ -1007,18 +1006,17 @@ msgstr ""
 #: DA3\Party\Rogue\DualWeapon\Parry\party_rogue_dualweapon_parry_upgrade1_abilitydata.xml:5
 msgctxt "0x000424e5"
 msgid "Effortless Riposte"
-msgstr ""
+msgstr "손쉬운 응수"
 
 #. FILE: DA3\Party\Rogue\DualWeapon\Parry\party_rogue_dualweapon_parry_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\DualWeapon\Parry\party_rogue_dualweapon_parry_upgrade1_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x000424e6"
 msgid ""
 "If you succeed in countering a blow, your parry costs no stamina at all.\n"
 "\n"
 msgstr ""
-"공격을 막는 데에 성공하면, 튕겨내기가 스태미너를 소모하지 않습니다.\n"
+"공격을 막는 데에 성공하면, 응수가 기력을 소모하지 않습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\DualWeapon\Parry\party_rogue_dualweapon_parry_upgrade2_abilitydata.xml
@@ -1026,18 +1024,17 @@ msgstr ""
 #: DA3\Party\Rogue\DualWeapon\Parry\party_rogue_dualweapon_parry_upgrade2_abilitydata.xml:5
 msgctxt "0x00047e2b"
 msgid "Patient Riposte"
-msgstr ""
+msgstr "침착한 응수"
 
 #. FILE: DA3\Party\Rogue\DualWeapon\Parry\party_rogue_dualweapon_parry_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\DualWeapon\Parry\party_rogue_dualweapon_parry_upgrade2_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x00047e2c"
 msgid ""
 "You wait, prepared to knock away the blow, as long as stamina remains at all.\n"
 "\n"
 msgstr ""
-"스태미너가 남아있는 한 계속해서 반격할 자세를 취합니다.\n"
+"기력이 남아있는 한 계속해서 반격할 자세를 취합니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\DualWeapon\Parry\party_rogue_dualweapon_parry_upgrade2_abilitydata.xml
@@ -1128,13 +1125,12 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\FieldControl\Hookshot\Upgrade1\party_rogue_fieldcontrol_hookshot_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\FieldControl\Hookshot\Upgrade1\party_rogue_fieldcontrol_hookshot_upgrade1_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x000432d3"
 msgid ""
 "You can use Hook and Tackle with no stamina cost or cooldown time.\n"
 "\n"
 msgstr ""
-"걸어 달려들기의 지구력 소모와 재사용 대기시간이 사라집니다.\n"
+"걸어 달려들기의 기력 소모와 재사용 대기시간이 사라집니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\FieldControl\Hookshot\Upgrade1\party_rogue_fieldcontrol_hookshot_upgrade2_abilitydata.xml
@@ -1690,13 +1686,12 @@ msgstr "그림자 강타"
 #. FILE: DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x00047684"
 msgid ""
 "You launch a surprise attack on your target. If you strike an enemy that did not have you targeted, you regain stamina.\n"
 "\n"
 msgstr ""
-"적을 기습합니다. 다른 대상을 공격 중인 적을 타격했다면, 지구력을 회복합니다.\n"
+"적을 기습합니다. 다른 대상을 공격 중인 적을 타격했다면, 기력을 회복합니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\General\SuckerPunch\party_rogue_general_suckerpunch_abilitydata.xml
@@ -1872,13 +1867,12 @@ msgstr "죽음의 무도"
 #. FILE: DA3\Party\Rogue\Passives\Bloodlust\party_rogue_passive_bloodlust_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Passives\Bloodlust\party_rogue_passive_bloodlust_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x000424de"
 msgid ""
 "You regain stamina with every kill, the better to continue your assault.\n"
 "\n"
 msgstr ""
-"처치 시마다 지구력을 회복합니다. 공격을 멈추지 마세요.\n"
+"처치 시마다 기력을 회복합니다. 공격을 멈추지 마세요.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\Passives\Cutthroat\party_rogue_passive_cutthroat_abilitydata.xml
@@ -1992,13 +1986,12 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\Passives\Focus\party_rogue_passive_focus_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Passives\Focus\party_rogue_passive_focus_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x00042581"
 msgid ""
 "The worst mistake your enemies can make is to let you see them flinch. Whenever you score a critical hit, you regenerate stamina.\n"
 "\n"
 msgstr ""
-"당신 앞에서 움찔하는 건 크나큰 실수입니다. 치명타를 가할 때마다 지구력을 회복합니다.\n"
+"당신 앞에서 움찔하는 건 크나큰 실수입니다. 치명타를 가할 때마다 기력을 회복합니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\Passives\Forsaken\party_rogue_passive_forsaken_abilitydata.xml
@@ -3233,7 +3226,7 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\CriticalPriority\party_warrior_passive_criticalpriority_abilitydata.xml:5
 msgctxt "0x0004283d"
 msgid "Flow of Battle"
-msgstr ""
+msgstr "전투의 흐름"
 
 #. FILE: DA3\Party\Warrior\Passives\CriticalPriority\party_warrior_passive_criticalpriority_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3252,7 +3245,7 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\Crusader\party_warrior_passive_crusader_abilitydata.xml:5
 msgctxt "0x000428c3"
 msgid "Maker's Will"
-msgstr ""
+msgstr "창조주의 의지"
 
 #. FILE: DA3\Party\Warrior\Passives\Crusader\party_warrior_passive_crusader_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3856,7 +3849,7 @@ msgstr ""
 #: DA3\Party\Warrior\Templar\Dispel\party_warrior_templar_dispel_abilitydata.xml:5
 msgctxt "0x000428c5"
 msgid "Spell Purge"
-msgstr ""
+msgstr "주문 해제"
 
 #. FILE: DA3\Party\Warrior\Templar\Dispel\party_warrior_templar_dispel_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -3866,13 +3859,15 @@ msgid ""
 "Through faith and will, you dispel all hostile magic from the area around you.\n"
 "\n"
 msgstr ""
+"믿음와 의지를 통해 주변의 적대적인 마법 효과를 모두 해제합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Templar\Dispel\party_warrior_templar_dispel_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\Templar\Dispel\party_warrior_templar_dispel_upgrade1_abilitydata.xml:5
 msgctxt "0x000428c7"
 msgid "Spell Shatter"
-msgstr ""
+msgstr "주문 파괴"
 
 #. FILE: DA3\Party\Warrior\Templar\Dispel\party_warrior_templar_dispel_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -3882,13 +3877,15 @@ msgid ""
 "Spell Purge now deals massive area damage when dispelling barriers and other beneficial effects on enemies.\n"
 "\n"
 msgstr ""
+"적에게 이로운 효과나 방어막을 해제해면 주변에 큰 광역 피해를 줍니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Templar\Dispel\party_warrior_templar_dispel_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\Templar\Dispel\party_warrior_templar_dispel_upgrade2_abilitydata.xml:5
 msgctxt "0x0004b2bb"
 msgid "Annulment"
-msgstr ""
+msgstr "퇴마"
 
 #. FILE: DA3\Party\Warrior\Templar\Dispel\party_warrior_templar_dispel_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -3898,13 +3895,15 @@ msgid ""
 "All of your templar abilities now affect magic-using enemies as well as demons.\n"
 "\n"
 msgstr ""
+"악마뿐만 아니라 마법을 쓰는 적을 상대로도 템플러 능력들이 발동합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Templar\MakersWrath\party_warrior_templar_makerswrath_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\Templar\MakersWrath\party_warrior_templar_makerswrath_abilitydata.xml:5
 msgctxt "0x000428d3"
 msgid "Wrath of Heaven"
-msgstr ""
+msgstr "천상의 분노"
 
 #. FILE: DA3\Party\Warrior\Templar\MakersWrath\party_warrior_templar_makerswrath_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -3914,13 +3913,15 @@ msgid ""
 "You summon a blinding pillar of light that stuns nearby enemies and damages demons.\n"
 "\n"
 msgstr ""
+"눈부신 빛의 기둥을 소환해 주변의 적들을 기절시키고 악마에게 피해를 줍니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Templar\MakersWrath\party_warrior_templar_makerswrath_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\Templar\MakersWrath\party_warrior_templar_makerswrath_upgrade1_abilitydata.xml:5
 msgctxt "0x000428d5"
 msgid "Embrace the Light"
-msgstr ""
+msgstr "빛의 포옹"
 
 #. FILE: DA3\Party\Warrior\Templar\MakersWrath\party_warrior_templar_makerswrath_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -3930,6 +3931,8 @@ msgid ""
 "Wrath of Heaven does even more damage to demons and leaves enemies stunned longer.\n"
 "\n"
 msgstr ""
+"천상의 분노로 적들이 기절하는 시간이 증가하고 악마들에게는 더 큰 피해를 줍니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Templar\MakersWrath\party_warrior_templar_makerswrath_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -3943,7 +3946,7 @@ msgstr ""
 #: DA3\Party\Warrior\Templar\MakersWrath\party_warrior_templar_makerswrath_upgrade2_abilitydata.xml:5
 msgctxt "0x00048a64"
 msgid "Breath of Light"
-msgstr ""
+msgstr "빛의 숨결"
 
 #. FILE: DA3\Party\Warrior\Templar\MakersWrath\party_warrior_templar_makerswrath_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -3953,13 +3956,15 @@ msgid ""
 "You are healed for each enemy you strike with Wrath of Heaven.\n"
 "\n"
 msgstr ""
+"천상의 분노에 적중당한 적의 수에 비례해 체력을 회복합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Templar\RighteousBlows\party_warrior_templar_righteousblows_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\Templar\RighteousBlows\party_warrior_templar_righteousblows_abilitydata.xml:5
 msgctxt "0x000428c9"
 msgid "Blessed Blades"
-msgstr ""
+msgstr "신성한 칼날"
 
 #. FILE: DA3\Party\Warrior\Templar\RighteousBlows\party_warrior_templar_righteousblows_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -3969,13 +3974,15 @@ msgid ""
 "You rally all of your nearby allies to fight with greater strength, especially when facing demons.\n"
 "\n"
 msgstr ""
+"아군을 단결시켜 더욱 강력한 힘으로 싸우게 합니다. 악마를 상대할 때 효과가 증가합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Templar\RighteousBlows\party_warrior_templar_righteousblows_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\Templar\RighteousBlows\party_warrior_templar_righteousblows_upgrade1_abilitydata.xml:5
 msgctxt "0x000428cb"
 msgid "Lights in the Shadow"
-msgstr ""
+msgstr "어둠 속의 광명"
 
 #. FILE: DA3\Party\Warrior\Templar\RighteousBlows\party_warrior_templar_righteousblows_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -3985,13 +3992,15 @@ msgid ""
 "Attacking enemies while you're affected by Blessed Blades reduces the cooldown times of Spell Purge and Wrath of Heaven.\n"
 "\n"
 msgstr ""
+"신성한 칼날의 효과를 받는 동안 적을 공격하면 천상의 분노와 주문 해제의 재사용 대기시간이 감소합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Templar\RighteousBlows\party_warrior_templar_righteousblows_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\Templar\RighteousBlows\party_warrior_templar_righteousblows_upgrade2_abilitydata.xml:5
 msgctxt "0x000489b1"
 msgid "In Their Blood"
-msgstr ""
+msgstr "혈관을 타고"
 
 #. FILE: DA3\Party\Warrior\Templar\RighteousBlows\party_warrior_templar_righteousblows_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4001,13 +4010,15 @@ msgid ""
 "Allies retain the effects of Blessed Blades for a short time after leaving the area of effect.\n"
 "\n"
 msgstr ""
+"신성한 칼날에 영향을 받은 아군은 효과 범위를 이탈해도 잠시 동안 효과를 유지합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Ammo\party_warrior_twohanded_ammo_ability.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\TwoHanded\Ammo\party_warrior_twohanded_ammo_ability.xml:5
 msgctxt "0x00042853"
 msgid "Rampage"
-msgstr ""
+msgstr "광란"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Ammo\party_warrior_twohanded_ammo_ability.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -4176,7 +4187,7 @@ msgstr ""
 #: DA3\Party\Warrior\TwoHanded\PommelStrike\party_warrior_twohanded_pommelstrike_abilitydata.xml:5
 msgctxt "0x00042843"
 msgid "Pommel Strike"
-msgstr ""
+msgstr "자루 치기"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\PommelStrike\party_warrior_twohanded_pommelstrike_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -4186,13 +4197,15 @@ msgid ""
 "You lash out with a fast strike that briefly stuns your target.\n"
 "\n"
 msgstr ""
+"재빠른 일격으로 대상을 강타해 잠시 기절시킵니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\PommelStrike\party_warrior_twohanded_pommelstrike_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\TwoHanded\PommelStrike\party_warrior_twohanded_pommelstrike_upgrade1_abilitydata.xml:5
 msgctxt "0x00042845"
 msgid "Lightning Jab"
-msgstr ""
+msgstr "번개같은 찌르기"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\PommelStrike\party_warrior_twohanded_pommelstrike_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4202,13 +4215,15 @@ msgid ""
 "Pommel Strike hits harder and faster.\n"
 "\n"
 msgstr ""
+"자루 치기가 더욱 빠르고 강해집니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\PommelStrike\party_warrior_twohanded_pommelstrike_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\TwoHanded\PommelStrike\party_warrior_twohanded_pommelstrike_upgrade2_abilitydata.xml:5
 msgctxt "0x000483e5"
 msgid "Staggering Strike"
-msgstr ""
+msgstr "뒤흔드는 일격"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\PommelStrike\party_warrior_twohanded_pommelstrike_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4218,6 +4233,8 @@ msgid ""
 "Pommel Strike stuns enemies longer if they are already suffering from a negative status effect.\n"
 "\n"
 msgstr ""
+"적이 해로운 상태 이상에 걸려 있다면, 자루 치기로 기절시키는 시간이 늘어납니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Pound\party_warrior_twohanded_pound_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -4252,7 +4269,7 @@ msgid ""
 "Mighty Blow costs less stamina and deals increased damage against targets that have been knocked down.\n"
 "\n"
 msgstr ""
-"호쾌한 강타가 지구력을 덜 소모하고, 이미 바닥에 쓰러진 적들에게는 매우 큰 피해를 줍니다.\n"
+"호쾌한 강타가 기력을 덜 소모하고, 이미 바닥에 쓰러진 적들에게는 매우 큰 피해를 줍니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Pound\party_warrior_twohanded_pound_upgrade1_abilitydata.xml
@@ -4448,7 +4465,7 @@ msgstr ""
 #: DA3\Party\Warrior\Vanguard\ArmyRoll\Upgrade1\party_warrior_vanguard_armyroll_upgrade1_abilitydata.xml:5
 msgctxt "0x00042874"
 msgid "Roll with It"
-msgstr ""
+msgstr "흐름에 맞겨"
 
 #. FILE: DA3\Party\Warrior\Vanguard\ArmyRoll\Upgrade1\party_warrior_vanguard_armyroll_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4458,13 +4475,15 @@ msgid ""
 "You can now use Combat Roll to recover from most disabling conditions.\n"
 "\n"
 msgstr ""
+"전투 구르기가 대부분의 상태 이상을 제거합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Vanguard\ArmyRoll\Upgrade1\party_warrior_vanguard_armyroll_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\Vanguard\ArmyRoll\Upgrade1\party_warrior_vanguard_armyroll_upgrade2_abilitydata.xml:5
 msgctxt "0x0004841e"
 msgid "Coming Through"
-msgstr ""
+msgstr "모두 비켜"
 
 #. FILE: DA3\Party\Warrior\Vanguard\ArmyRoll\Upgrade1\party_warrior_vanguard_armyroll_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4474,13 +4493,15 @@ msgid ""
 "You now use Combat Roll to damage enemies as you knock them aside.\n"
 "\n"
 msgstr ""
+"전투 구르기가 적들을 밀어내며 피해를 줍니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Vanguard\ArmyRoll\party_warrior_vanguard_armyroll_dir_abilitydata.xml
 #. PATH: BWDirectionalAbility/AbilityNameReference
 #: DA3\Party\Warrior\Vanguard\ArmyRoll\party_warrior_vanguard_armyroll_dir_abilitydata.xml:5
 msgctxt "0x00042872"
 msgid "Combat Roll"
-msgstr ""
+msgstr "전투 구르기"
 
 #. FILE: DA3\Party\Warrior\Vanguard\ArmyRoll\party_warrior_vanguard_armyroll_dir_abilitydata.xml
 #. PATH: BWDirectionalAbility/AbilityDescriptionReference
@@ -4490,13 +4511,15 @@ msgid ""
 "You dive and roll to where the battle needs you to be, whether it's escaping from a group or moving to flank an opponent.\n"
 "\n"
 msgstr ""
+"무리에게서 피신하거나, 적의 뒤를 잡는 등, 전투에 적합한 위치로 몸을 날려 구릅니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Vanguard\Charge\party_warrior_vanguard_charge_dir_abilitydata.xml
 #. PATH: BWDirectionalAbility/AbilityNameReference
 #: DA3\Party\Warrior\Vanguard\Charge\party_warrior_vanguard_charge_dir_abilitydata.xml:5
 msgctxt "0x0004289a"
 msgid "Charging Bull"
-msgstr ""
+msgstr "황소 돌진"
 
 #. FILE: DA3\Party\Warrior\Vanguard\Charge\party_warrior_vanguard_charge_dir_abilitydata.xml
 #. PATH: BWDirectionalAbility/AbilityDescriptionReference
@@ -4506,13 +4529,15 @@ msgid ""
 "You slam into your enemies, increasing your guard and knocking them down as you break through their lines.\n"
 "\n"
 msgstr ""
+"앞으로 돌격하며 진영을 무너트립니다. 돌진으로 적이 쓰러질 때마다 방어도를 얻습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Vanguard\Charge\party_warrior_vanguard_charge_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\Vanguard\Charge\party_warrior_vanguard_charge_upgrade1_abilitydata.xml:5
 msgctxt "0x0004289c"
 msgid "Gore and Trample"
-msgstr ""
+msgstr "꿰뚫고 짓밟기"
 
 #. FILE: DA3\Party\Warrior\Vanguard\Charge\party_warrior_vanguard_charge_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4522,13 +4547,15 @@ msgid ""
 "After you finish your charge, your next ability costs no stamina.\n"
 "\n"
 msgstr ""
+"돌진이 종료된 후 다음 능력은 기력을 소모하지 않습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Vanguard\Charge\party_warrior_vanguard_charge_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\Vanguard\Charge\party_warrior_vanguard_charge_upgrade2_abilitydata.xml:5
 msgctxt "0x0004844b"
 msgid "Light on Your Feet"
-msgstr ""
+msgstr "가벼운 발걸음"
 
 #. FILE: DA3\Party\Warrior\Vanguard\Charge\party_warrior_vanguard_charge_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4538,6 +4565,8 @@ msgid ""
 "Charging Bull is faster and gives you more control.\n"
 "\n"
 msgstr ""
+"돌진 속도가 증가하고, 조종이 더욱 쉬워집니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Vanguard\GetOverHere\Upgrade1\party_warrior_vanguard_getoverhere_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -4598,7 +4627,7 @@ msgstr ""
 #: DA3\Party\Warrior\WeaponShield\ArmorBreak\party_warrior_weaponshield_armorbreak_abilitydata.xml:5
 msgctxt "0x00042835"
 msgid "Shield Bash"
-msgstr ""
+msgstr "방패 강타"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\ArmorBreak\party_warrior_weaponshield_armorbreak_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -4608,13 +4637,15 @@ msgid ""
 "Many foes think a shield is just for defense. You correct that mistake with a brutal slam that does bonus damage to an enemy's guard.\n"
 "\n"
 msgstr ""
+"방패로 적을 무참히 강타해, 방패는 수비용이라는 적들의 편견을 바로잡습니다. 상대의 방어도는 추가 피해를 입습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\ArmorBreak\party_warrior_weaponshield_armorbreak_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 #: DA3\Party\Warrior\WeaponShield\ArmorBreak\party_warrior_weaponshield_armorbreak_abilitydata.xml:18
 msgctxt "0x00042ab5"
 msgid "<font color=\"#BAAB7B\">Requires a shield</font>\n"
-msgstr ""
+msgstr "<font color=\"#BAAB7B\">방패 필요</font>\n"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\ArmorBreak\party_warrior_weaponshield_armorbreak_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -4631,13 +4662,15 @@ msgid ""
 "You now lunge forward with Shield Bash, and you do even greater damage to an enemy's guard.\n"
 "\n"
 msgstr ""
+"돌진하며 방패를 휘둘러, 상대의 방어도에 더 큰 피해를 줍니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\ArmorBreak\party_warrior_weaponshield_armorbreak_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\WeaponShield\ArmorBreak\party_warrior_weaponshield_armorbreak_upgrade2_abilitydata.xml:5
 msgctxt "0x0004ac90"
 msgid "Crippling Smash"
-msgstr ""
+msgstr "무력화"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\ArmorBreak\party_warrior_weaponshield_armorbreak_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4647,62 +4680,64 @@ msgid ""
 "An enemy struck by Shield Bash now does no damage with its next attack.\n"
 "\n"
 msgstr ""
+"방패 강타에 피격당한 적은 다음 공격에 피해를 주지 못합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\Basic\party_warrior_weaponshield_basic_defensiveattack_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\WeaponShield\Basic\party_warrior_weaponshield_basic_defensiveattack_abilitydata.xml:5
 msgctxt "0x00026eb2"
 msgid "Basic Attack"
-msgstr ""
+msgstr "기본 공격"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\Basic\party_warrior_weaponshield_basic_defensiveattack_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\Warrior\WeaponShield\Basic\party_warrior_weaponshield_basic_defensiveattack_abilitydata.xml:10
 msgctxt "0x00026fd3"
 msgid "Basic melee strikes."
-msgstr ""
+msgstr "기본 근접 공격입니다."
 
 #. FILE: DA3\Party\Warrior\WeaponShield\Basic\party_warrior_weaponshield_basic_defensiveattackrandom_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\WeaponShield\Basic\party_warrior_weaponshield_basic_defensiveattackrandom_abilitydata.xml:5
 msgctxt "0x00027002"
 msgid "Basic Attack"
-msgstr ""
+msgstr "기본 공격"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\Basic\party_warrior_weaponshield_basic_defensiveattackrandom_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\Warrior\WeaponShield\Basic\party_warrior_weaponshield_basic_defensiveattackrandom_abilitydata.xml:10
 msgctxt "0x00026f9e"
 msgid "Basic melee strikes."
-msgstr ""
+msgstr "기본 근접 공격입니다."
 
 #. FILE: DA3\Party\Warrior\WeaponShield\Basic\party_warrior_weaponshield_basic_offensiveattack_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\WeaponShield\Basic\party_warrior_weaponshield_basic_offensiveattack_abilitydata.xml:5
 msgctxt "0x00026f4a"
 msgid "Basic Attack"
-msgstr ""
+msgstr "기본 공격"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\Basic\party_warrior_weaponshield_basic_offensiveattack_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\Warrior\WeaponShield\Basic\party_warrior_weaponshield_basic_offensiveattack_abilitydata.xml:10
 msgctxt "0x00026fe1"
 msgid "Basic melee strikes."
-msgstr ""
+msgstr "기본 근접 공격입니다."
 
 #. FILE: DA3\Party\Warrior\WeaponShield\Basic\party_warrior_weaponshield_basic_offensiveattackrandom_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\WeaponShield\Basic\party_warrior_weaponshield_basic_offensiveattackrandom_abilitydata.xml:5
 msgctxt "0x00026f92"
 msgid "Basic Attack"
-msgstr ""
+msgstr "기본 공격"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\DashingStrike\party_warrior_weaponshield_dashingstrike_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\WeaponShield\DashingStrike\party_warrior_weaponshield_dashingstrike_abilitydata.xml:5
 msgctxt "0x0004282a"
 msgid "Lunge and Slash"
-msgstr ""
+msgstr "돌진 가르기"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\DashingStrike\party_warrior_weaponshield_dashingstrike_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -4712,13 +4747,15 @@ msgid ""
 "You lunge forward, then spin with a slashing strike if your first blow connects. You can use this attack to close with opponents.\n"
 "\n"
 msgstr ""
+"전진하며 찌르고, 타격에 성공했다면 원형으로 주변을 벱니다. 적과의 교전 거리를 좁힐 때도 사용할 수 있습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\DashingStrike\party_warrior_weaponshield_dashingstrike_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\WeaponShield\DashingStrike\party_warrior_weaponshield_dashingstrike_upgrade1_abilitydata.xml:5
 msgctxt "0x0004282c"
 msgid "Great Lunge"
-msgstr ""
+msgstr "강대한 돌진"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\DashingStrike\party_warrior_weaponshield_dashingstrike_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4728,13 +4765,15 @@ msgid ""
 "The farther you lunge before striking your target, the more damage you do to them.\n"
 "\n"
 msgstr ""
+"찌르기 이전 돌진하는 거리에 비례해 피해량이 증가합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\DashingStrike\party_warrior_weaponshield_dashingstrike_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\WeaponShield\DashingStrike\party_warrior_weaponshield_dashingstrike_upgrade2_abilitydata.xml:5
 msgctxt "0x0004ac8e"
 msgid "Effortless Lunge"
-msgstr ""
+msgstr "손쉬운 돌진"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\DashingStrike\party_warrior_weaponshield_dashingstrike_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -4744,13 +4783,15 @@ msgid ""
 "If Lunge and Slash strikes an enemy that was not attacking you, the ability refunds the cost and cooldown.\n"
 "\n"
 msgstr ""
+"당신을 공격하고 있지 않던 적에게 돌진 가르기를 적중시키면, 소모한 지구력을 돌려받고 재사용 대기시간을 초기화합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\Retaliation\party_warrior_weaponshield_retaliation_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\WeaponShield\Retaliation\party_warrior_weaponshield_retaliation_abilitydata.xml:5
 msgctxt "0x00042833"
 msgid "Counterstrike"
-msgstr ""
+msgstr "반격"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\Retaliation\party_warrior_weaponshield_retaliation_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -4760,6 +4801,9 @@ msgid ""
 "You push yourself to the limit, gaining full guard and taunting all nearby enemies. While the ability is active, you automatically counter all melee attacks.\n"
 "\n"
 msgstr ""
+"자신을 한계까지 몰아붙여, 방어도를 최대로 얻고 주변의 적들을 전부 도발합니다. 이 능력이 발동 중일 때, 모든 근접 공격을 자동으로 "
+"반격합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\Retaliation\party_warrior_weaponshield_retaliation_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -4856,7 +4900,7 @@ msgid ""
 "You stand firm and block incoming attacks at the cost of stamina. Each block adds to your guard. You move much more slowly while sustaining this ability.\n"
 "\n"
 msgstr ""
-"지구력을 소비해 공격을 막아내며 굳세게 버팁니다. 공격을 막아낼 때마다 방어도가 누적됩니다. 방패 벽을 유지할 동안 이동 속도가 크게 "
+"기력을 소비해 공격을 막아내며 굳세게 버팁니다. 공격을 막아낼 때마다 방어도가 누적됩니다. 방패 벽을 유지할 동안 이동 속도가 크게 "
 "감소합니다.\n"
 "\n"
 
@@ -4893,7 +4937,7 @@ msgid ""
 "Blocking with Shield Wall costs less stamina and generates more guard, but you cannot move while blocking.\n"
 "\n"
 msgstr ""
-"방패 벽으로 공격을 방어할 때 얻는 방어도가 증가하고 지구력 소비가 감소하지만, 방어 자세로 움직일 수 없습니다.\n"
+"방패 벽으로 공격을 방어할 때 얻는 방어도가 증가하고 기력 소비가 감소하지만, 방어 자세로 움직일 수 없습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\general\AI\BehaviorSettings\party_behavior_enabletactics.xml
@@ -6043,42 +6087,42 @@ msgstr "10초 동안 받은 피해의 25%를 치유합니다"
 #: DA3\Party\general\Passive\unique_item_passive_lowcostnodamage_abilitydata.xml:5
 msgctxt "0x00043ea5"
 msgid "Abilities cost 10% less mana/stamina if not being hit for 5 seconds"
-msgstr "5초 동안 맞지 않으면 능력의 마나/지구력 비용이 10% 감소합니다"
+msgstr "5초 동안 맞지 않으면 능력의 마나/기력 비용이 10% 감소합니다"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowcostnodamage_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowcostnodamage_t2_abilitydata.xml:5
 msgctxt "0x00043ea6"
 msgid "Abilities cost 15% less mana/stamina if not being hit for 5 seconds"
-msgstr "5초 동안 맞지 않으면 능력의 마나/지구력 비용이 15% 감소합니다"
+msgstr "5초 동안 맞지 않으면 능력의 마나/기력 비용이 15% 감소합니다"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowcostnodamage_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowcostnodamage_t3_abilitydata.xml:5
 msgctxt "0x00043ea7"
 msgid "Abilities cost 20% less mana/stamina if not being hit for 5 seconds"
-msgstr "5초 동안 맞지 않으면 능력의 마나/지구력 비용이 20% 감소합니다"
+msgstr "5초 동안 맞지 않으면 능력의 마나/기력 비용이 20% 감소합니다"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowerabilitycost_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowerabilitycost_abilitydata.xml:5
 msgctxt "0x00043ea8"
 msgid "Abilities cost 5% less mana/stamina"
-msgstr "마나/지구력 능력 비용이 5% 감소"
+msgstr "마나/기력 능력 비용이 5% 감소"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowerabilitycost_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowerabilitycost_t2_abilitydata.xml:5
 msgctxt "0x00043ea9"
 msgid "Abilities cost 7.5% less mana/stamina"
-msgstr "마나/지구력 능력 비용이 7.5% 감소"
+msgstr "마나/기력 능력 비용이 7.5% 감소"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowerabilitycost_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowerabilitycost_t3_abilitydata.xml:5
 msgctxt "0x00043eaa"
 msgid "Abilities cost 10% less mana/stamina"
-msgstr "마나/지구력 능력 비용이 10% 감소"
+msgstr "마나/기력 능력 비용이 10% 감소"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowhplowdamage_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -8539,13 +8583,12 @@ msgstr ""
 #. FILE: DA3\Party\mage\Passives\ElementalWard\party_mage_passive_elementalward_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\mage\Passives\ElementalWard\party_mage_passive_elementalward_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x0003e273"
 msgid ""
 "When you or your allies have an active barrier, the beneficial energy invigorates them and helps them recover mana or stamina more quickly.\n"
 "\n"
 msgstr ""
-"보호막 효과를 받는 아군의 마나와 스태미너가 더 빠르게 회복됩니다.\n"
+"보호막 효과를 받는 아군의 마나와 기력이 더 빠르게 회복됩니다.\n"
 "\n"
 
 #. FILE: DA3\Party\mage\Passives\ElementalWard\party_mage_passive_elementalward_abilitydata.xml
