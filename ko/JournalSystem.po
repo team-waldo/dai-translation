@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-22 06:01+0000\n"
+"PO-Revision-Date: 2021-01-22 19:55+0000\n"
 "Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journalsystem/"
 "ko/>\n"
@@ -981,7 +981,7 @@ msgstr ""
 "해골에 보석을 박아 준비하고, 강령술의 과정을 연구하면, 위우스 아낙사스가 네바라 마법사들이 사용하던 죽음을 이용한 마법을 알려줄 "
 "것이다. {string}280945{/string} {string}281404{/string} \n"
 "\n"
-"마법사는 주로 한가지의 특화기술을 갈고 닦는 편이지만, 다른 계열의 마법을 배우고자 함도 상당한 이점을 가지고 있다."
+"마법사는 주로 한가지의 특화 계열을 갈고 닦는 편이지만, 다른 계열의 마법을 배우고자 함 또한 상당한 이점 가진다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[140]/JournalTextData/TextReference
@@ -1035,14 +1035,17 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:5049
 msgctxt "0x00031931"
 msgid "An elderly woman left an heirloom ring behind when she was forced out of her home by the red templars."
-msgstr ""
+msgstr "노파가 붉은 템플러들이 자신을 집에서 강제로 내쫓아냈을 때 가문의 가보인 귀걸이를 그대로 두고 왔다고 한다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[147]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:5079
+#, fuzzy
 msgctxt "0x0003225e"
 msgid "This map, found in a bunker of Celene's Victory Rise ramparts, depicts a spot visible through three tall windows."
 msgstr ""
+"Victory Rise 성벽 근처 셀린느 황제의 bunker 안에서 찾아낸 지도에는, 세 개의 커다란 창문이 그려져 있는 그림 사이로 "
+"무언가를 표시해둔 흔적이 보인다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[148]/JournalTextData/TextReference
@@ -1063,7 +1066,7 @@ msgstr "인퀴지션 병사들이 남부 페렐던의 미지의 늪지대에서 
 #: Systems\JournalSystem\JournalSystem.xml:5118
 msgctxt "0x0002b840"
 msgid "Supply caches belonging to the Imperial Army have gone missing in Lake Town. Mark the crates so they can be collected."
-msgstr ""
+msgstr "호수 마을에 있던 제국군의 은닉 보급물자가 사라졌다고 한다. 물자를 찾으면 회수할 수 있도록 표시하자."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[151]/JournalTextData/TextReference
@@ -1133,6 +1136,8 @@ msgstr ""
 msgctxt "0x00041ba8"
 msgid "Mother Giselle passed along the letter written by Dorian's father. Dorian may wish to read it, but it may be best just to take him to the tavern to sort this out in person."
 msgstr ""
+"지젤수녀님이 도리안의 아버지가 남기신 편지를 주셨다. 도리안이 직접 이 편지를 읽게 놔둘 수도 있지만, 그냥 도리안을 술집으로 데려가 "
+"직접 해결하게 하는 게 가장 나은 방법일지도 모른다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[161]/JournalTextData/TextReference
@@ -1140,25 +1145,32 @@ msgstr ""
 msgctxt "0x0004249b"
 msgid "Sera's contacts have tipped her off about the locations of various stashes, hidden around the palace by nobles for other nobles. They're ripe for the picking."
 msgstr ""
+"세라가 말하길, 귀족들이 비밀스럽게 사용하던 은닉처가 있는데, 그 은닉처의 위치를 알려주면서 이건 실하게 뜯어낼 좋은 기회라고 덧붙였다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[162]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:5490
+#, fuzzy
 msgctxt "0x00042a8c"
 msgid "Collect all banner variations."
-msgstr ""
+msgstr "모든 종류의 깃발을 수집하십시오."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[163]/JournalTextData/TextReference
 #. STRING 280946(0x00044972) : Reclaim the philters of fallen templars from demons at Witchwood, West Road, and Lady Shayna's Valley in the Hinterlands.
 #. STRING 281404(0x00044b3c) : Readings can be found among the belongings of followers who share this discipline. Or, if unavailable, among the wares of the book merchant in Val Royeaux.
 #: Systems\JournalSystem\JournalSystem.xml:5520
+#, fuzzy
 msgctxt "0x00040bc4"
 msgid ""
 "Construct a philter, study the methods of the templars, and Ser will reveal the secrets of this legendary specialization. {string}280946{/string} {string}281404{/string} \n"
 "\n"
 "While a warrior can only truly specialize in one style, studying others can still be of considerable benefit."
 msgstr ""
+"미약을 제조하고, 템플러들의 방식을 연구하면, 교관 '경'이 전설적인 전문 계열에 관한 비밀을 밝혀줄 것이다. "
+"{string}280946{/string} {string}281404{/string} \n"
+"\n"
+"전사는 주로 한가지의 특화 계열을 갈고 닦는 편이지만, 다른 계열의 기술을 배우고자 함 또한 상당한 이점 가진다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[165]/JournalTextData/TextReference
@@ -1693,8 +1705,8 @@ msgstr ""
 msgctxt "0x0002fbf3"
 msgid "A phylactery found on a dead templar belongs to his mage lover, Ellendra. The phylactery could point other templars to Ellendra, and she may welcome its safe return, along with news of her lover."
 msgstr ""
-"죽은 템플러의 시신에서 그의 마법사 연인 엘렌드라의 부적이 발견되었습니다. 템플러들이 이 부적을 발견하게 되면 분명 엘란드라를 추적할 "
-"것입니다. 이 부적을 전해주면 엘렌드라는 연인에 대한 소식과 함께 부적을 무사히 돌려받은 것에 대해 매우 기뻐할 것입니다."
+"죽은 템플러의 시신에서 그의 마법사 연인 엘렌드라의 속박패가 발견되었다. 템플러들이 이 속박패를 발견하게 되면 엘란드라는 추적당할 것이 "
+"분명하다. 엘렌드라에게 이 속박패를 전해주면 연인에 대한 소식과 함께 속박패를 무사히 돌려받은 것에 대해 매우 기뻐할 것이다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[246]/JournalTextData/TextReference
@@ -3869,7 +3881,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:15576
 msgctxt "0x0002fc1b"
 msgid "A scout on duty is worried something's happened to a fellow scout named Ritts, who was tasked with investigating apostates in the area."
-msgstr "한 정찰병이 이 지역의 이단마법사에 대해 조사하러 간 동료, 리츠에게 무슨 일이 생긴 것은 아닌지 걱정하고 있습니다."
+msgstr "한 정찰병이 이 지역의 배교자에 대해 조사하러 간 동료, 리츠에게 무슨 일이 생긴 것은 아닌지 걱정하고 있다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[577]/JournalTextData/TextReference
@@ -10024,9 +10036,9 @@ msgid ""
 "Yven"
 msgstr ""
 "브리디스, 네가 다른 마법사들과 탈출해서 여길 찾아올거란 걸 알고 있다. 아버지께서 네가 길을 벗어나면 당신께서 직접 널 처리하겠다고 "
-"하신 말씀을 기억할거다.  여길 왔다면 아버지께선 이미 돌아가셨다는 건 알고 있겠지. 하지만 난 아직 죽지 않았다. 이단 마법사들을 "
-"죽이면서 북쪽에 있는 옛 페닉 지역에서 기다리고 있겠다. 내겐 아버지의 검과 진정한 형제인 템플러들이 있다. 네가 남자라고 생각한다면 날 "
-"찾아와라.\n"
+"하신 말씀을 기억할거다.  여길 왔다면 아버지께선 이미 돌아가셨다는 건 알고 있겠지. 하지만 난 아직 죽지 않았다. 배교자들을 죽이면서 "
+"북쪽에 있는 옛 페닉 지역에서 기다리고 있겠다. 내겐 아버지의 검과 진정한 형제인 템플러들이 있다. 네가 남자라고 생각한다면 날 찾아와라."
+"\n"
 "\n"
 "이븐"
 

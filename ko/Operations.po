@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-22 06:02+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-01-22 19:55+0000\n"
+"Last-Translator: GameSlot <gamehdhdhdjdjdjd@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
 "Language: ko\n"
@@ -16,7 +16,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\Crestwood_Secrets_Keep_starting_op.xml:10
 msgctxt "0x00040bd4"
 msgid "Opening these secret tunnels will let us evade any prying eyes that turn toward Caer Bronach."
-msgstr "이 비밀 터널들을 개방하면 우리는 브로나크 성을 향한 감시를 피할 수 있을 겁니다."
+msgstr "이 비밀 터널들을 개방하면 브로나크 성을 향한 감시를 피할 수 있을 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\Crestwood_Secrets_Keep_starting_op.xml
 #. PATH: WarTableEntry/TitleReference
@@ -30,7 +30,7 @@ msgstr "크레스트우드의 요원들을 위한 탈출 경로"
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_find_the_mole.xml:13
 msgctxt "0x0003fd77"
 msgid "Expose the Double Agent"
-msgstr "이중간첩 밝혀내기"
+msgstr "이중간첩 폭로"
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_find_the_mole.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -44,7 +44,7 @@ msgstr "조심스럽게 움직여야 합니다. 이 배신자는 오랫동안 �
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml:10
 msgctxt "0x0003fe25"
 msgid "Our hand must not be seen in this. I can send Miller tools to escape, but she must leave on her own. "
-msgstr "우리의 손길이 남아서는 안 됩니다. 밀러에게 도주에 필요한 장비를 제가 줄 수 있지만, 그녀는 본인의 힘으로 떠나야만 합니다. "
+msgstr "흔적이 남아서는 안 됩니다. 밀러에게 도주에 필요한 장비를 지원 할 수 있지만, 자기 스스로 탈출해야 합니다. "
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml
 #. PATH: WarTableEntry/TitleReference
@@ -58,14 +58,14 @@ msgstr "간첩 구출"
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml:114
 msgctxt "0x0003fe1b"
 msgid "I can dispatch armed guards claiming Miller is wanted by the Inquisition. I doubt anyone will contest us."
-msgstr "저는 무장한 근위대를 파견해 인퀴지션이 밀러를 필요하다고 요구하겠습니다. 누구도 우리에게 이의를 제기하지 않을 것입니다."
+msgstr "근위대를 파견해 심문회가 밀러의 신병을 요구한다 하겠습니다. 누구도 이의를 제기하지 못할겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml:138
 msgctxt "0x0003fe26"
 msgid "A countess in Val Chevin is sympathetic to the Inquisition. She's willing to negotiate the spy's release for us."
-msgstr "발 셰빈의 백작 부인은 인퀴지션에 호의적입니다. 그녀는 우리에게 첩자를 석방하는 협상에 응할 여지가 있습니다."
+msgstr "발 셰빈의 백작 부인은 심문회에 호의적입니다. 첩자의 석방 협상에 응할 여지가 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -79,14 +79,14 @@ msgstr "크레스트우드의 시장은 공급을 멈춰야 할 겁니다. 제 �
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml:34
 msgctxt "0x0003fe92"
 msgid "I can ask the crown to post a warrant for the mayor's arrest."
-msgstr "제가 왕실에 시장의 체포 영장을 게시해 달라고 요청 할 수 있습니다."
+msgstr "왕실에 시장의 체포 영장의 게시를 요청 할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml:63
 msgctxt "0x0003adff"
 msgid "We already have soldiers on the road in that area. They'll hunt down the mayor."
-msgstr "이미 그 지역에 우리 군사들이 깔려있습니다. 그들에게 시장을 뒤쫓게 하겠습니다."
+msgstr "이미 그 지역엔 우리 군사들이 깔려있습니다. 시장을 뒤쫓게 하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml
 #. PATH: WarTableEntry/TitleReference
@@ -121,42 +121,42 @@ msgstr "이들 중 상당수가 숙련공들입니다. 우리 군에 기술자�
 #: DA3\DesignContent\Operations\DesertRuins\ops_help_freed_slaves.xml:42
 msgctxt "0x0003feae"
 msgid "Hire Former Slaves as Paid Workers"
-msgstr "노예였던 자들을 유급 노동자로 고용하라"
+msgstr "해방된 노예들을 유급 노동자로 고용"
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\FereldenArea\fer_area_watchtowers.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\FereldenArea\fer_area_watchtowers.xml:10
 msgctxt "0x0002ebc8"
 msgid "My soldiers will have those towers up in short order."
-msgstr "명령만 내리시면 제 병사들이 저 탑들을 세워 올리겠습니다."
+msgstr "명령만 내리시면 병사들로 하여금 탑을 세우겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\FereldenArea\fer_area_watchtowers.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Ferelden\FereldenArea\fer_area_watchtowers.xml:35
 msgctxt "0x0002ebcb"
 msgid "Build Watchtowers"
-msgstr "감시탑을 건축하라"
+msgstr "감시탑 건축"
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\FereldenArea\fer_area_watchtowers.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\FereldenArea\fer_area_watchtowers.xml:107
 msgctxt "0x0002ebc9"
 msgid "There are nobles near Redcliffe who will gladly help the Inquisition if we make them an offer."
-msgstr "레드클리프 근방엔 우리가 제안을 한다면 기꺼이 인퀴지션을 도울 귀족들이 있습니다."
+msgstr "레드클리프 근방엔 제안을 한다면 기꺼이 심문회를 도울 귀족들이 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml:10
 msgctxt "0x000422c5"
 msgid "If it's worth our time, I can provide this scholar with soldiers to protect her."
-msgstr "가치가 충분히 있다면, 제가 이 학자를 보호할 군사들을 제공할 수 있습니다."
+msgstr "가치가 충분히 있다면, 이 학자를 보호 할 군사들을 제공 할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml:44
 msgctxt "0x000422c6"
 msgid "The Avvar tribes are not friendly. My scouts can get Sister Dorcas in and out of the mountains safely."
-msgstr "아바르 부족은 우호적이지 않습니다. 제 정찰병들이 도르카스 자매님을 안전히 산맥을 오갈 수 있게 할 것입니다."
+msgstr "아바르 부족은 우호적이지 않습니다. 정찰병들이 도르카스 수녀님을 산맥을 안전히 오갈 수 있게 하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml
 #. PATH: WarTableEntry/TitleReference
@@ -170,7 +170,7 @@ msgstr "티르다의 빛나는 도끼를 찾아라"
 #: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml:147
 msgctxt "0x000422c8"
 msgid "Sister Dorcas has distant ties to Fereldan nobility. There are nobles who would happily gain favor with Arl Eamon by helping her."
-msgstr "도르카스 자매님은 페렐던의 귀족사회와 관계가 있습니다. 기꺼이 그녀를 도와 알 아몬의 호의를 얻으려는 귀족들이 있을겁니다."
+msgstr "도르카스 수녀님은 페렐던의 귀족들과 관계가 있습니다. 기꺼이 그녀를 도와 아몬 백작의 호의를 얻으려는 귀족들이 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\fer_royal1_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -191,7 +191,7 @@ msgstr "데너림에 드리운 그림자"
 #: DA3\DesignContent\Operations\Ferelden\fer_royal1_op.xml:127
 msgctxt "0x000408f4"
 msgid "I have just the agent in mind for this. Allow me to send her to Denerim to quietly hunt down the Venatori spies."
-msgstr "딱 생각해 놓은 요원이 있습니다. 제가 그녀를 데너림으로 보내 베나토리 첩자들을 조용히 추적 할 수 있도록 허락해주세요."
+msgstr "딱 생각해 놓은 요원이 있습니다. 그녀를 데너림으로 보내 베나토리 첩자들을 은밀히 추적 할 수 있도록 허락해 주세요."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\fer_royal2_op.xml
 #. PATH: WarTableEntry/TitleReference
@@ -219,7 +219,7 @@ msgstr "백작의 초대"
 #: DA3\DesignContent\Operations\Ferelden\gen_teagan_op1.xml:85
 msgctxt "0x00040b51"
 msgid "We can't truly run a bannorn. But a well-chosen envoy could win us Fereldan allies."
-msgstr "우린 바논을 완전히 지배할 수는 없습니다. 대신 사절을 잘 골라 보내면 페렐던에서 지원군을 얻을 수 있습니다."
+msgstr "우린 바논을 완전히 지배할 수 없습니다. 대신 사절을 잘 골라 보내면 페렐던 지원군을 얻을 수 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\gen_teagan_op1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -275,8 +275,7 @@ msgstr "하이에버의 공작"
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml:10
 msgctxt "0x000403ca"
 msgid "I can smooth things over so the Ben-Hassrath can investigate openly. The time this takes will be saved if they can operate freely."
-msgstr ""
-"벤-하스라쓰가 자유롭게 조사할 수 있도록 제가 유연하게 조치하겠습니다. 준비에 걸린 시간은 자유롭게 조사하는 것으로 만회될 겁니다."
+msgstr "벤-하스라쓰가 자유롭게 조사할 수 있도록 유연하게 조치하겠습니다. 준비에 걸린 시간은 자유롭게 조사하는 것으로 만회될 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
@@ -311,22 +310,21 @@ msgstr "우리는 페럴던의 신뢰를 얻을 시간이 없습니다. 벤-하�
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_2.xml:15
 msgctxt "0x000403d5"
 msgid "The Ben-Hassrath must travel through the Brecilian Forest. It is the only way they will reach Gwaren without alerting those they pursue."
-msgstr "벤-하스라쓰는 브레실리안 숲을 통과해야 합니다. 그 방법이 경계를 피해 뒤쫓아 그와렌에 도달 할 수 있는 유일한 방법입니다."
+msgstr "벤-하스라쓰는 브레실리안 숲을 통과해야 합니다. 그 방법이 경계를 피해 쫓아가면서 그와렌에 도달 할 수 있는 유일한 방법입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_2.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_2.xml:49
 msgctxt "0x000403d2"
 msgid "They should kill the agents in South Reach before leaving. We cannot risk these agents warning the assassins of their pursuit."
-msgstr ""
-"그들은 떠나기 전에 사우스 리치의 요원들을 죽여야합니다. 우리는 이 요원들이 경고하는 암살자들의 추적이라는 위험을 감수 할 수 없습니다."
+msgstr "물러나기 전에 사우스 리치의 요원들을 죽여야합니다. 이 요원들이 경고하는 암살자들의 위협을 감수 할 수 없습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_2.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_2.xml:179
 msgctxt "0x000403d4"
 msgid "I can get the Ben-Hassrath passage on a ship that will take them most of the way to Gwaren."
-msgstr "전 벤-하스라쓰들을 태우고 그와렌으로 향하는 대부분의 길을 통과 할 수 있는 배를 구할 수 있습니다."
+msgstr "벤-하스라쓰들을 태우고 그와렌으로 통하는 대부분의 방법이 가능한 배를 구할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -340,29 +338,28 @@ msgstr "쿠나리는 바다에서 가장 좋은 배를 가지고 있습니다. �
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml:42
 msgctxt "0x000403da"
 msgid "Stop Venatori Fire Ship"
-msgstr "베나토리 화공선을 막아라"
+msgstr "베나토리 화공선 막기"
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml:150
 msgctxt "0x000403dc"
 msgid "We must warn Ferelden. I can have the ships of three arls ready to stop the fire ship from reaching the harbor."
-msgstr ""
-"페렐던에게 경고해야합니다. 저는 화공선이 항구에 도달하는 것을 막을 준비를 하기 위해 세명의 백작으로 부터 배를 확보 할 수 있습니다."
+msgstr "페렐던에게 경고해야합니다. 화공선이 항구에 도달하는 것을 막기 위해 세명의 백작으로 부터 배를 확보 할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml:179
 msgctxt "0x000403dd"
 msgid "I have agents in the city who can try to take the fire ship before it reaches the city, although odds are against us."
-msgstr "확률이 우리에게 조금 불리하지만, 저는 화공선이 도시에 도착하기 전에 승선 시도 할 수 있는 요원들을 도시 안에 뒀습니다."
+msgstr "확률이 우리에게 조금 불리하지만, 화공선이 도시에 도착하기 전에 승선을 시도 할 수 있는 요원들이 도시 안에 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_1.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_1.xml:23
 msgctxt "0x00040daa"
 msgid "Find Spies in Skyhold"
-msgstr "스카이홀드 안에 있는 첩자를 찾아라"
+msgstr "스카이홀드 내부의 첩자 수색"
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -512,7 +509,7 @@ msgstr "아다만트 요새 파괴"
 msgctxt "0x0003fe22"
 msgid "It took all our forces to break Adamant. I'd happily spare some men to ensure the safety of the Chargers."
 msgstr ""
-"아다만트를 무너뜨리는 데 우리의 모든 힘이 필요했습니다. 나는 기마대의 안전을 보장하기 위해 병력의 일부를 기꺼이 남겨두고 싶습니다."
+"아다만트를 무너뜨리는 데 우리의 모든 힘이 필요했습니다. 저는 돌격대의 안전을 보장하기 위해 병력의 일부를 기꺼이 남겨두고 싶습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_adamant.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
@@ -748,245 +745,245 @@ msgstr "전 돌격대의 인원을 강화하기 위해 심문회의 병력들을
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal_bonus.xml:10
 msgctxt "0x0003fdd6"
 msgid "The Chargers know what they're doing. I can pass them information and send them off hunting."
-msgstr ""
+msgstr "돌격대는 충분한 실력이 있습니다. 전 그들에게 정보를 지닌 채 사냥에 참여 할 수 있게 하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal_bonus.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal_bonus.xml:42
 msgctxt "0x0003fdd8"
 msgid "Hunt Therinfal Redoubt Demon"
-msgstr ""
+msgstr "세린팔 보루의 악마 사냥"
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal_bonus.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal_bonus.xml:119
 msgctxt "0x0003fdd7"
 msgid "A few well-placed words will have the nobility on guard for imposters. The hunt should be much easier."
-msgstr ""
+msgstr "적절한 소문을 흘리면 귀족 사회에서 이 흉내술사에 대한 경계가 높아질 겁니다. 그럼 사냥이 훨씬 쉬워지겠죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\bog_repeatable_op_collect.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\bog_repeatable_op_collect.xml:10
 msgctxt "0x00040269"
 msgid "Elfroot is particularly plentiful in the bog. We should focus on that."
-msgstr ""
+msgstr "엘프뿌리는 슾지에 특히 풍부합니다. 그 식물에 집중해야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\bog_repeatable_op_collect.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crafting\bog_repeatable_op_collect.xml:37
 msgctxt "0x0004026a"
 msgid "Fallow Mire Resources"
-msgstr ""
+msgstr "고요한 늪지의 자원"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\bog_repeatable_op_collect.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\bog_repeatable_op_collect.xml:163
 msgctxt "0x00040267"
 msgid "Our men should concentrate on finding stone and metals."
-msgstr ""
+msgstr "우리 병사들은 돌과 금속을 찾는데 주력해야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\bog_repeatable_op_collect.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\bog_repeatable_op_collect.xml:187
 msgctxt "0x00040265"
 msgid "Let our forces collect whatever they can, where it's safe."
-msgstr ""
+msgstr "우리 군대가 안전한 곳에서 얻을 수 있는 건 뭐든지 보내게 합시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\crs_repeatable_op_collect.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crafting\crs_repeatable_op_collect.xml:18
 msgctxt "0x0004026d"
 msgid "Crestwood Resources"
-msgstr ""
+msgstr "크레스트우드의 자원"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\crs_repeatable_op_collect.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\crs_repeatable_op_collect.xml:134
 msgctxt "0x00040271"
 msgid "We should look for whatever's easiest to collect."
-msgstr ""
+msgstr "뭐든 가장 얻기 쉬운 것을 찾도록 합시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\crs_repeatable_op_collect.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\crs_repeatable_op_collect.xml:158
 msgctxt "0x00040272"
 msgid "Obsidian is rare. If there's any to be found, we should be looking for it."
-msgstr ""
+msgstr "흑요석은 희귀합니다. 얻을 수만 있다면 꼭 찾아봐야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\crs_repeatable_op_collect.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\crs_repeatable_op_collect.xml:192
 msgctxt "0x00040270"
 msgid "We could use embrium. Concentrate on gathering that."
-msgstr ""
+msgstr "우린 엠브리움이 필요합니다. 그것을 모으는 데 주력합시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\dal_forest_repeatable_collect.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\dal_forest_repeatable_collect.xml:10
 msgctxt "0x00040275"
 msgid "Our forces should take whatever resources are easiest to collect."
-msgstr ""
+msgstr "우리 군대는 얻기 가장 무난한 자원을 가져와야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\dal_forest_repeatable_collect.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\dal_forest_repeatable_collect.xml:34
 msgctxt "0x00040276"
 msgid "Pyrophite is incredibly useful. Let's concentrate on looking for it."
-msgstr ""
+msgstr "발화석은 매우 유용합니다. 그것을 찾는데 주력합시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\dal_forest_repeatable_collect.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\dal_forest_repeatable_collect.xml:68
 msgctxt "0x00040273"
 msgid "The forest has rare herbs that we should focus on finding."
-msgstr ""
+msgstr "숲에는 희귀한 약초가 많으니 그것을 찾는데 집중해야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\dal_forest_repeatable_collect.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crafting\dal_forest_repeatable_collect.xml:95
 msgctxt "0x00040274"
 msgid "Emerald Graves Resources"
-msgstr ""
+msgstr "에메랄드 무덤의 자원"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\dal_highlands_repeatable_collect.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crafting\dal_highlands_repeatable_collect.xml:13
 msgctxt "0x00040279"
 msgid "Emprise du Lion Resources"
-msgstr ""
+msgstr "사자의 용맹의 자원"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\dal_highlands_repeatable_collect.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\dal_highlands_repeatable_collect.xml:134
 msgctxt "0x0004027b"
 msgid "Felandaris and other local herbs would be of most use."
-msgstr ""
+msgstr "펠란다리스와 다른 현지 약초들은 매우 유용할 것입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\dal_highlands_repeatable_collect.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\dal_highlands_repeatable_collect.xml:158
 msgctxt "0x0004027a"
 msgid "We should look for both metals and herbs, whatever is safe to collect."
-msgstr ""
+msgstr "얻는 데 지장이 없다면, 우리는 금속과 약초 모두를 찾아야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\dal_highlands_repeatable_collect.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\dal_highlands_repeatable_collect.xml:192
 msgctxt "0x0004027d"
 msgid "We should search the silverite mines and look for other metals in the area."
-msgstr ""
+msgstr "우리는 은석 광산을 탐색해 이곳에 다른 금속이 있는지 찾아야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\dal_plains_repeatable_collect.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\dal_plains_repeatable_collect.xml:20
 msgctxt "0x00040281"
 msgid "Send our forces to find whatever is safest to collect."
-msgstr ""
+msgstr "얻기 쉬운 자원이라면 뭐든 찾을 수 있도록 우리 군대를 보내십시오."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\dal_plains_repeatable_collect.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\dal_plains_repeatable_collect.xml:44
 msgctxt "0x00040282"
 msgid "Let our forces focus on finding veridium."
-msgstr ""
+msgstr "우리 군대에게 베리듐을 찾는데 집중하라고 하십시오."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\dal_plains_repeatable_collect.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\dal_plains_repeatable_collect.xml:68
 msgctxt "0x0004027f"
 msgid "Rashvine is common but useful. We should gather what we can."
-msgstr ""
+msgstr "래쉬바인은 흔하지만 유용합니다. 여건이 된다면 모아야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\dal_plains_repeatable_collect.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crafting\dal_plains_repeatable_collect.xml:95
 msgctxt "0x00040280"
 msgid "Exalted Plains Resources"
-msgstr ""
+msgstr "승임의 평야의 자원"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\des_ruins_repeatable_collect.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\des_ruins_repeatable_collect.xml:10
 msgctxt "0x0004028a"
 msgid "Let our forces concentrate on gathering what herbs they can find."
-msgstr ""
+msgstr "우리 군대는 찾을 수 있는 약초를 모으는데 집중하도록 합시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\des_ruins_repeatable_collect.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\des_ruins_repeatable_collect.xml:34
 msgctxt "0x00040286"
 msgid "The metals will be of most interest to us. We should focus on them."
-msgstr ""
+msgstr "우리에겐 금속이 가장 필요할 겁니다. 금속에 집중하도록 합시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\des_ruins_repeatable_collect.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crafting\des_ruins_repeatable_collect.xml:61
 msgctxt "0x00040287"
 msgid "Hissing Wastes Resources"
-msgstr ""
+msgstr "칼바람 황무지의 자원"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\des_ruins_repeatable_collect.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\des_ruins_repeatable_collect.xml:182
 msgctxt "0x00040289"
 msgid "Our people should collect whatever they can find, no matter what it is."
-msgstr ""
+msgstr "우리 구성원들은 찾을 수 있는 건 뭐든지 얻어와야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\fer_repeatable_op_collect.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\fer_repeatable_op_collect.xml:10
 msgctxt "0x0004025f"
 msgid "Anything can be useful. Let them take whatever they can find."
-msgstr ""
+msgstr "어떤 것이든 쓰임새가 있습니다. 찾은 것이면 무엇이든지 가져오도록 합시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\fer_repeatable_op_collect.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crafting\fer_repeatable_op_collect.xml:52
 msgctxt "0x00040262"
 msgid "Hinterland Resources"
-msgstr ""
+msgstr "내륙지역의 자원"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\fer_repeatable_op_collect.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\fer_repeatable_op_collect.xml:168
 msgctxt "0x00040260"
 msgid "We should focus on finding new sources of healing herbs."
-msgstr ""
+msgstr "우리는 치유 약초의 새로운 공급원을 찾는 데 주력해야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\fer_repeatable_op_collect.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\fer_repeatable_op_collect.xml:192
 msgctxt "0x00040264"
 msgid "Our men should focus on gathering the onyx and drakestone."
-msgstr ""
+msgstr "우리 병사들은 오닉스와 용석을 모으는 데 주력해야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_crestwood_op.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_crestwood_op.xml:15
 msgctxt "0x0004052a"
 msgid "With your permission, I'll send agents to \"secure\" these men straight away."
-msgstr ""
+msgstr "허가만 내려주신다면, 이들을 곧바로 \"확보\"할 요원들을 보내겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_crestwood_op.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_crestwood_op.xml:42
 msgctxt "0x0004052b"
 msgid "To Serve Any Master"
-msgstr ""
+msgstr "누구든지 주군으로 섬기도록"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_dales_op.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_dales_op.xml:10
 msgctxt "0x0004052f"
 msgid "Allow me to send the ambassadors, and I shall begin the arrangements for this consortium."
-msgstr ""
+msgstr "제가 대사를 파견할 수 있게 허가해 주시면, 제가 consortium을 위한 협정을 준비하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_dales_op.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_dales_op.xml:37
 msgctxt "0x0004052e"
 msgid "A Golden Opportunity"
-msgstr ""
+msgstr "황금빛 기회"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_haven_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference

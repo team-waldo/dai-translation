@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-22 06:02+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-01-22 19:55+0000\n"
+"Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -101,8 +101,8 @@ msgid ""
 "You fire so quickly that enemies will swear there are at least two of you putting arrows into their ranks. While this ability is active, any archery ability you use is duplicated.\n"
 "\n"
 msgstr ""
-"당신의 너무 빠른 사격으로 인해 적들이 상대편에서적어도 두 사람이 화살을 당기고 있다고 확신 할 것입니다.  이 능력이 활성화 되어있는 "
-"동안에 사용하는 모든 궁술 능력은 중복됩니다.\n"
+"어찌나 빠르게 화살을 쏴대는지 적들은 두 명이 활을 쏘고 있다고 확신할 겁니다. 이 능력이 활성화된 동안 사용하는 모든 궁술 능력이 두 "
+"번 발동됩니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\Archery\ArrowAmmo\party_rogue_archery_arrrowammo_abilitydata.xml
@@ -596,7 +596,7 @@ msgstr ""
 #: DA3\Party\Rogue\Assassin\PathOfShadows\party_rogue_assassin_pathofshadows_abilitydata.xml:5
 msgctxt "0x000425c5"
 msgid "Fallback Plan"
-msgstr "대체 계획"
+msgstr "후퇴 계획"
 
 #. FILE: DA3\Party\Rogue\Assassin\PathOfShadows\party_rogue_assassin_pathofshadows_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -606,8 +606,7 @@ msgid ""
 "You place a thieves' lantern to mark a fallback location before heading into battle. When the fight gets ugly, you leap back to safety, as healthy as you were when you placed your marker.\n"
 "\n"
 msgstr ""
-"전투에 들어가기 전에 도둑의 등불을 놓아 대체 위치를 표시합니다. 전투가 험악해질 때 마커를 두었던 자리에 마커를 두었을 때의 건강한 "
-"상태로 안전하게 되돌아갑니다.\n"
+"전투에 들어가기 전에 도둑의 등불을 놓아 퇴각 위치를 표시합니다. 전투가 험악해지면 등불을 놓았을 때의 체력과 위치로 되돌아갑니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\Assassin\PathOfShadows\party_rogue_assassin_pathofshadows_upgrade1_abilitydata.xml
@@ -625,7 +624,7 @@ msgid ""
 "You can fight for a longer time before leaping back, and you pull your closest enemy back with you.\n"
 "\n"
 msgstr ""
-"뒤로 도약하기 전에 좀 더 오래 싸울 수 있으며 가장 가까운 적을 뒤로 끌어 당깁니다.\n"
+"등불로 돌아가기 전 더 오래 전투할 수 있고, 돌아갈 때 가장 가까운 적을 함께 데려갑니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\Assassin\PathOfShadows\party_rogue_assassin_pathofshadows_upgrade2_abilitydata.xml
@@ -643,7 +642,7 @@ msgid ""
 "Using Fallback Plan resets all of your cooldowns.\n"
 "\n"
 msgstr ""
-"대체 계획을 사용 할 때 모든 재사용 대기시간을 되돌립니다.\n"
+"후퇴 계획을 사용할 때 모든 재사용 대기시간을 되돌립니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\Assassin\SleepBomb\party_rogue_assassin_sleepbomb2_abilitydata.xml
@@ -1210,8 +1209,7 @@ msgid ""
 "It's now or never. You use every ounce of stamina you've got to litter the battlefield with traps. The more stamina you use, the more traps you throw.\n"
 "\n"
 msgstr ""
-"지금이 아니면 안됩니다. 당신은 함정으로 전장을 뒤덮는 데 필요한 모든 기력을 사용합니다.  더 많은 기력을 사용할수록 더 많은 함정을 "
-"던집니다.\n"
+"지금이 아니면 안 됩니다. 남은 기력을 쥐어짜내 전장을 함정으로 뒤덮습니다. 더 많은 기력을 사용할수록 더 많은 함정을 던집니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\General\Artifice\party_rogue_general_artifice_upgrade1_abilitydata.xml
@@ -1236,7 +1234,7 @@ msgid ""
 "You now throw only one elemental mine at a time, to significantly greater effect. Each throw changes the element of the next mine.\n"
 "\n"
 msgstr ""
-"이제 한 번에 하나의 더 큰 효과를 가진 원소 지뢰를 던집니다. 던질 때마다 다음 지뢰의 원소 속성이 변경됩니다.\n"
+"원소 지뢰를 하나밖에 던질 수 없지만, 그 효과가 더욱 커집니다. 던질 때마다 다음 지뢰의 속성이 변경됩니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\General\Caltrops\party_rogue_general_caltrops_abilitydata.xml
@@ -1469,8 +1467,7 @@ msgid ""
 "They'll swear you leapt from the shadows like a thrown blade and hit your target with a flurry of strikes from every angle… but it's obvious that you were nowhere near them at the time.\n"
 "\n"
 msgstr ""
-"그들은 당신이 사방팔방에서 그림자로부터 던져진 칼날처럼 흩날리듯 대상을 공격했다 믿어 의심치 않지만... 당시에는 당신이 그들 근처에 "
-"없었던 것이 분명합니다.\n"
+"당신이 그림자로부터 던져진 칼날처럼 달려들어 사방에서 공격했다고 적들은 생각하겠지만... 사실 당신은 그 자리에 없었습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\General\ShadowStrikes\party_rogue_general_shadowstrikes_upgrade1_abilitydata.xml
@@ -1506,6 +1503,8 @@ msgid ""
 "Hidden Blades now also damages enemies near the primary target.\n"
 "\n"
 msgstr ""
+"숨겨진 칼날이 주 대상 주위의 적도 함께 타격합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\General\SleepDust\party_rogue_general_sleepdust_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -1576,16 +1575,19 @@ msgstr ""
 #: DA3\Party\Rogue\General\SpikeTrap\party_rogue_general_spiketrap_abilitydata.xml:5
 msgctxt "0x00042578"
 msgid "Spike Trap"
-msgstr ""
+msgstr "가시 함정"
 
 #. FILE: DA3\Party\Rogue\General\SpikeTrap\party_rogue_general_spiketrap_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\General\SpikeTrap\party_rogue_general_spiketrap_abilitydata.xml:10
+#, fuzzy
 msgctxt "0x00042579"
 msgid ""
 "You set a trap that, when an enemy approaches, detonates and flings enemies into the air.\n"
 "\n"
 msgstr ""
+"함정을 설치합니다. 적이 접근하면 함정이 폭발하여 적을 하늘 높이 날려버립니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\General\SpikeTrap\party_rogue_general_spiketrap_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -1602,6 +1604,8 @@ msgid ""
 "Spike Trap leaves your enemies bleeding for several seconds.\n"
 "\n"
 msgstr ""
+"가시 함정이 적을 몇 초동안 출혈시킵니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\General\SpikeTrap\party_rogue_general_spiketrap_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -1618,6 +1622,8 @@ msgid ""
 "Spike Trap creates an even larger detonation.\n"
 "\n"
 msgstr ""
+"가시 함정의 폭발 범위가 더 넓어집니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\General\Stealth2\party_rogue_general_stealth2_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -1849,6 +1855,8 @@ msgid ""
 "You are a deadly threat to any enemy that can't see you coming. When you attack from stealth, you automatically critically hit.\n"
 "\n"
 msgstr ""
+"적이 볼 수 없을 때 더욱 치명적입니다. 은신 상태에서 공격하면 반드시 치명타를 가합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\Passives\Assassin\party_rogue_passive_assassin_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -2148,6 +2156,8 @@ msgid ""
 "A wounded enemy is the perfect target. Your attacks are even deadlier against targets that are close to death already.\n"
 "\n"
 msgstr ""
+"상처입은 적은 군침도는 먹잇감입니다. 죽음에 가까운 적에게 더 치명적인 공격을 가합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\Passives\Ravager\party_rogue_passive_ravager_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -2190,6 +2200,8 @@ msgid ""
 "You have learned to use the distraction of an enemy's death to slip silently into the shadows. Killing a target removes any cooldown on stealth.\n"
 "\n"
 msgstr ""
+"적의 죽음을 연막삼아 그림자 속으로 자취를 감추는 법을 터득했습니다. 대상을 처치하면 은신의 재사용 대기시간이 초기화됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\Passives\SinisterTeamwork\party_rogue_passive_sinisterteamwork_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -2267,6 +2279,8 @@ msgid ""
 "Your experience with finding and pointing out enemy vulnerabilities gives the entire party a better chance to land a critical hit.\n"
 "\n"
 msgstr ""
+"적의 약점을 파악하고 알리는 데에 숙련되었습니다. 파티원 전체의 치명타 확률이 증가합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\Passives\ThiefsHonor\party_rogue_passive_thiefshonor_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -2316,6 +2330,8 @@ msgid ""
 "You've mastered the proper placement of spikes and levers. When you spring any kind of trap, your enemies feel it.\n"
 "\n"
 msgstr ""
+"가시와 지렛대를 설치하는 데에 통달하였습니다. 모든 종류의 함정이 적들에게 제대로 한 방 먹일 것입니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\Passives\TricksOfTheTrade\party_rogue_passive_tricksofthetrade_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -2332,6 +2348,8 @@ msgid ""
 "You help the team make the most of its abilities, increasing the damage and duration of all status effects anyone in the party applies.\n"
 "\n"
 msgstr ""
+"팀원들의 최상의 전력을 이끌어냅니다. 모든 파티원이 가하는 피해량이 증가하고, 가하는 상태 이상의 지속시간이 증가합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\Passives\TwistTheKnife\party_rogue_passive_twisttheknife_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -3545,7 +3563,7 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\Templar\party_warrior_passive_templar_abilitydata.xml:5
 msgctxt "0x000428cf"
 msgid "Champions of the Just"
-msgstr ""
+msgstr "정의의 투사"
 
 #. FILE: DA3\Party\Warrior\Passives\Templar\party_warrior_passive_templar_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -6422,21 +6440,21 @@ msgstr ""
 #: DA3\Party\general\Passive\unique_item_passive_proc_hiddenblades_abilitydata.xml:5
 msgctxt "0x0004483f"
 msgid "10% chance to use Hidden Blades on a hit, with 3 added hits"
-msgstr ""
+msgstr "적중 시 10% 확률로 추가 타격 3회의 숨겨진 칼날을 시전"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_hiddenblades_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_proc_hiddenblades_t2_abilitydata.xml:5
 msgctxt "0x00044840"
 msgid "10% chance to use Hidden Blades on a hit, with 4 added hits"
-msgstr ""
+msgstr "적중 시 10% 확률로 추가 타격 4회의 숨겨진 칼날을 시전"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_hiddenblades_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_proc_hiddenblades_t3_abilitydata.xml:5
 msgctxt "0x00044841"
 msgid "10% chance to use Hidden Blades on a hit, with 5 added hits"
-msgstr ""
+msgstr "적중 시 10% 확률로 추가 타격 5회의 숨겨진 칼날을 시전"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_proc_hornofvalor_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
