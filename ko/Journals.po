@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-22 19:55+0000\n"
-"Last-Translator: 전진 <vanishintoair@gmail.com>\n"
+"PO-Revision-Date: 2021-01-23 15:27+0000\n"
+"Last-Translator: gosusam <gosusam@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -324,7 +324,7 @@ msgstr "조마 장인"
 #: DA3\DesignContent\Journals\Ferelden\Fer_Wilderness_Main\fer_wild_horses_inquisition_horses.xml:13
 msgctxt "0x00032bf2"
 msgid "Horses for the Inquisition"
-msgstr ""
+msgstr "심문회를 위한 군마"
 
 #. FILE: DA3\DesignContent\Journals\Ferelden\Fer_Wilderness_Main\fer_wild_horses_watchtowers.xml
 #. PATH: JournalEntry/TitleReference
@@ -534,7 +534,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\Finale\fin_the_final_piece_journal.xml:13
 msgctxt "0x000315ec"
 msgid "The Final Piece"
-msgstr ""
+msgstr "마지막 조각"
 
 #. FILE: DA3\DesignContent\Journals\Global\Collections\cqu_FadeShards_journal.xml
 #. PATH: JournalEntry/TitleReference
@@ -632,7 +632,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\Global\Followers\Cole\col_acquisition_journal.xml:46
 msgctxt "0x00041c9e"
 msgid "The Forgotten Boy"
-msgstr ""
+msgstr "잊혀진 소년"
 
 #. FILE: DA3\DesignContent\Journals\Global\Followers\Cole\col_personalplot_journal.xml
 #. PATH: JournalEntry/TitleReference
@@ -667,7 +667,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\Global\Followers\IronBull\bul_acquisition_journal.xml:13
 msgctxt "0x000300de"
 msgid "The Captain of the Chargers"
-msgstr ""
+msgstr "돌격대의 대장"
 
 #. FILE: DA3\DesignContent\Journals\Global\Followers\IronBull\bul_followerplot_journal.xml
 #. PATH: JournalEntry/TitleReference
@@ -737,7 +737,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\Global\Followers\Solas\sol_ApprovalGrind_journal.xml:13
 msgctxt "0x00041b9b"
 msgid "Measuring the Veil"
-msgstr ""
+msgstr "장막 측정"
 
 #. FILE: DA3\DesignContent\Journals\Global\Followers\Solas\sol_SpecialRift_journal.xml
 #. PATH: JournalEntry/TitleReference
@@ -1501,7 +1501,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\Nemesis\Sam_main_journal.xml:30
 msgctxt "0x00018e5f"
 msgid "Before the Dawn"
-msgstr ""
+msgstr "동트기 전에"
 
 #. FILE: DA3\DesignContent\Journals\Prologue\pro_dogtags_collection.xml
 #. PATH: JournalEntry/TitleReference
@@ -1733,7 +1733,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_op_final_boss.xml:13
 msgctxt "0x00042dab"
 msgid "A Puppet Master"
-msgstr ""
+msgstr "인형사"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_angrybear.xml
 #. PATH: JournalEntry/TitleReference
@@ -1761,7 +1761,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_defeat_costeau.xml:13
 msgctxt "0x00032f25"
 msgid "A Fallen Sister"
-msgstr ""
+msgstr "타락한 수녀"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_defeat_duhaime.xml
 #. PATH: JournalEntry/TitleReference
@@ -1852,21 +1852,21 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_lq06.xml:13
 msgctxt "0x00031918"
 msgid "Last Wishes"
-msgstr ""
+msgstr "마지막 소원"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_lq07.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_lq07.xml:13
 msgctxt "0x0003191b"
 msgid "A Lover's Promise"
-msgstr ""
+msgstr "연인의 약속"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_lq08.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_lq08.xml:13
 msgctxt "0x0003191e"
 msgid "Observing the Menace"
-msgstr ""
+msgstr "위협 관찰"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_lq10.xml
 #. PATH: JournalEntry/TitleReference
@@ -1971,7 +1971,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_free_slaves.xml:13
 msgctxt "0x00036f56"
 msgid "Rocky Rescue"
-msgstr ""
+msgstr "험난한 구출"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_imshael.xml
 #. PATH: JournalEntry/TitleReference
@@ -1985,14 +1985,14 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_inquisition_camps.xml:13
 msgctxt "0x000364a2"
 msgid "Take Back the Lion"
-msgstr ""
+msgstr "사자 되찾기"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_investigatequarry.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_investigatequarry.xml:13
 msgctxt "0x0003fb60"
 msgid "Quarry Quandary"
-msgstr ""
+msgstr "진퇴양난의 채석장"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_investigatetown.xml
 #. PATH: JournalEntry/TitleReference
@@ -2034,7 +2034,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_lq14.xml:13
 msgctxt "0x00031930"
 msgid "Mama's Ring"
-msgstr ""
+msgstr "엄마의 반지"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_lq15.xml
 #. PATH: JournalEntry/TitleReference
@@ -2062,7 +2062,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_redtemplar_slavers.xml:13
 msgctxt "0x00036f5b"
 msgid "Red Captors"
-msgstr ""
+msgstr "붉은 포획자"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_regions.xml
 #. PATH: JournalEntry/TitleReference
@@ -2083,14 +2083,14 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_towers.xml:13
 msgctxt "0x0003fb8e"
 msgid "Securing Safe Passage"
-msgstr ""
+msgstr "안전로 확보"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_unlock.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_unlock.xml:13
 msgctxt "0x00042dbe"
 msgid "A Timely Intervention"
-msgstr ""
+msgstr "시기적절한 개입"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_wardenfort.xml
 #. PATH: JournalEntry/TitleReference

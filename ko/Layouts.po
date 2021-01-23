@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-22 19:55+0000\n"
+"PO-Revision-Date: 2021-01-23 15:27+0000\n"
 "Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
 "Language: ko\n"
@@ -344,7 +344,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml:417
 msgctxt "0x0002bc05"
 msgid "Lornan's Exile"
-msgstr ""
+msgstr "추방당한 로난"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml
 #. PATH: GetLocalizedStringIDData[14]/Text
@@ -776,7 +776,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\map\Ferelden_Wilderness_Main_floor0.xml:1147
 msgctxt "0x00029dea"
 msgid "Ocularum"
-msgstr ""
+msgstr "오쿨라룸"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\map\Ferelden_Wilderness_Main_floor0.xml
 #. PATH: BWMapPinLocation[16]/TitleReference
@@ -2613,6 +2613,15 @@ msgid ""
 "\n"
 "{controller}Use {StringBtnLStick}{/controller}{notcontroller}Drag with {StringBtnMouseLeft}{/notcontroller} to navigate the trees and {controller}inspect an ability's details{/controller}{notcontroller}hover over an ability to inspect its details{/notcontroller}."
 msgstr ""
+"각각의 기술 트리에는 액티브 기술, 패시브 기술, 업그레이드가 존재합니다.\n"
+"\n"
+"액티브 기술은 마름모꼴의 아이콘입니다. 이 기술은 단축키를 지정하여 전투시에 사용할 수 있습니다.\n"
+"\n"
+"패시브 기술은 원형의 아이콘입니다. 이 기술은 습득 후 따로 사용할 필요 없이 캐릭터를 영구적으로 강화시켜 줍니다.\n"
+"\n"
+"업그레이드는 기술에 덧붙여져 있으며 해당 기술을 강화시켜 줍니다.\n"
+"\n"
+"기술 트리를 둘러보고, 각 기술의 자세한 설명을 확인하세요."
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0330_pro_firstrift\layer2_dsg_0330_pro_charrec_tutorial.xml
 #. PATH: BWPopUpEntityData[7]/Text
@@ -2822,7 +2831,7 @@ msgstr "막사"
 #: DA3\Layouts\InquisitorBase2\MainBase\design\layer0_zon_dsg_streaming.xml:3104
 msgctxt "0x00043439"
 msgid "Undercroft"
-msgstr ""
+msgstr "지하실"
 
 #. FILE: DA3\Layouts\InquisitorBase2\MainBase\design\layer29_dsg_boundaries_schematic.xml
 #. PATH: GetLocalizedStringIDData/Text
@@ -2948,7 +2957,7 @@ msgstr "작전실"
 #: DA3\Layouts\InquisitorBase2\MainBase\map\MainBase_floor5.xml:982
 msgctxt "0x00034eee"
 msgid "Undercroft"
-msgstr ""
+msgstr "지하실"
 
 #. FILE: DA3\Layouts\InquisitorBase2\MainBase\map\MainBase_floor5.xml
 #. PATH: BWMapPinLocation[20]/TitleReference

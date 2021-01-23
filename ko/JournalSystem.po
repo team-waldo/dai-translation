@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-22 19:55+0000\n"
-"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
+"PO-Revision-Date: 2021-01-23 15:27+0000\n"
+"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journalsystem/"
 "ko/>\n"
 "Language: ko\n"
@@ -613,8 +613,8 @@ msgstr "화살에 묶여서 전달된 메시지 입니다."
 msgctxt "0x00034836"
 msgid "The strange message, delivered via arrow, said there is an enemy of the Inquisition waiting to strike in Val Royeaux. It said to search the market, cafe, and docks for things that are red. The upper market can be reached by way of the Quest Map."
 msgstr ""
-"화살에 묶여있는 희한한 메시지에 적혀있는 내용은, 사문회의 적이 발 르와이요에서 공격할 준비를 하고 있다는 내용입니다, 그리고 시장, "
-"카페, 부두에서 붉은색 물건을 찾아보라고 합니다. 퀘스트 지도에서 위쪽 시장으로 갈 수 있습니다."
+"수상한 편지가 화살에 묶여 날아왔습니다. 편지에는 사문회의 적이 발 르와이요에서 공격할 준비를 하고 있다는 말과 함께 시장, 카페, "
+"부두에서 붉은색 물건을 찾아보라는 내용이 적혀있습니다. 시장의 상층은 퀘스트 지도를 통해 갈 수 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[93]/JournalTextData/TextReference
@@ -713,8 +713,8 @@ msgstr "태양의 웅덩이 지역에서 열려있는 영계 균열이 발견되
 msgctxt "0x0002fc0b"
 msgid "Templars killed an elven farmer, suspecting he was an apostate, and took his wedding ring as a prize. The farmer's widow wants them killed and the ring returned."
 msgstr ""
-"템플러들은 엘프 농부를 배교자로 의심하고 살해했고, 그의 결혼 반지를 전리품으로 가져갔다.농부의 미망인은 그들이 죽고 반지를 돌려받기 "
-"원했다."
+"템플러들은 어느 엘프 농부를 이단마법사로 의심하여 살해한 뒤, 그의 결혼 반지를 전리품으로 가져가 버렸다. 농부의 아내는 남편을 살해한 "
+"템플러들을 죽인 뒤 반지를 돌려받길 원하고 있다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[106]/JournalTextData/TextReference
@@ -1177,45 +1177,42 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:5563
 msgctxt "0x0004010a"
 msgid "Search for any shards scattered around Emprise du Lion."
-msgstr "사자의 용맹 지역에 흩어져있는 편린을 찾아보세요."
+msgstr "사자의 용맹 지역에 흩어져있는 편린을 찾아보자."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[166]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:5593
 msgctxt "0x0004401a"
 msgid "The University of Orlais has requested lazurite and Paragon's Luster samples for a geological survey of the Western Approach."
-msgstr "올레이의 대학에서 서부 진입로의 지질학 조사를 위해 청금석과 파라곤의 광채 표본을 요청했습니다."
+msgstr "올레이의 대학에서 서부 진입로의 지질 조사를 위해 청금석과 파라곤의 영광석 표본을 요청했다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[167]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:5623
 msgctxt "0x0002df8c"
 msgid "There is a legendary elven sword rumored to be found within an overgrown ruin on the edge of the Arbor Wilds."
-msgstr "수목 야생지 가장자리의 무성한 유적 안에서 전설적인 엘프 칼이 발견되었다는 소문이 있습니다."
+msgstr "수목 야생지 안쪽, 풀숲이 우거진 유적에 전설적인 엘프 유물 검이 있다고 한다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[168]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:5636
-#, fuzzy
 msgctxt "0x0002ddc9"
 msgid "High dragon hunting patterns are largely undocumented. Frederic is interested in the location of any dead gurn showing signs that it was killed by a dragon."
-msgstr ""
-"고위 드래곤의 사냥 패턴은 많은 부분이 문서화되지 않았습니다. 프레드릭은 드래곤에게 죽은 징후를 보여주는 죽은 거른의 장소에 관심이 "
-"있습니다."
+msgstr "고위 드래곤의 사냥법은 대부분 기록되어 있지 않다. 프레데릭은 드래곤에게 사냥당한 거른의 사체가 있는 곳을 알고 싶어 한다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[169]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:5666
 msgctxt "0x00043f7a"
 msgid "The University of Orlais has requested pyrophite and everite samples for a geological survey of the Emerald Graves."
-msgstr "올레이 대학에서 에메랄드 무덤의 지질학 조사를 위해 파이로파이트와 에버라이트 표본을 요청했습니다."
+msgstr "올레이 대학에서 에메랄드 무덤의 지질 조사를 위해 발화석과 영원석 표본을 요청했다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[170]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:5679
 msgctxt "0x00041582"
 msgid "Search for any shards scattered around the Emerald Graves."
-msgstr "에메랄드 무덤 지역에 흩어져있는 편린을 찾아보세요."
+msgstr "에메랄드 무덤 지역에 흩어져있는 편린을 찾아보자."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[171]/JournalTextData/TextReference
@@ -1229,9 +1226,11 @@ msgstr ""
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[172]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:5739
+#, fuzzy
 msgctxt "0x000418cb"
 msgid "\"Show me that this world survives,\" the freeholder said. \"Show me that the poison does not take everything.\""
 msgstr ""
+"\"제게 이 세상이 살아남았다는 걸 보여줘요,\" freeholder가 말했다. \"그 독이 모든 걸 가져가지 않았다는 걸 보여주세요.\""
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[173]/JournalTextData/TextReference
@@ -7018,6 +7017,19 @@ msgid ""
 "\n"
 "According to gossip in Val Royeaux, the chamberlain did succeed in convincing Grand Gardener Vauclain to provide four hundred and twenty lotus plants. The party was considered by most to be a roaring success, even though the evening concluded with at least twelve guests asleep on the lawn, three in the pool, and one lady losing several teeth trying to take a bite out of a marble statue of the comtesse's father, which she was convinced was made of cake."
 msgstr ""
+"책임을 회피할 생각일랑 말게. 자네야말로 이 일의 적임자일세. 그리고 이게 우리가 자네와 계약한 이유지. 작년 여제의 겨울 무도회 당시에 "
+"흰 장미 200송이를 가져온게 자네 아닌가? 백작부인께서 아직까진 참아주고 계시지만 정원 연못을 꽃으로 채우는게 왜 어려운 일인지에 "
+"대해선 이해하지 못하시네. 이제 부인에게 더이상의 변명은 통하지 않아. 부인께서는 여명련으로는 타협하지 않으실거야. 그 꽃은 흰색이지 "
+"않나! 꽃 색깔은 실크 차양과 색이 맞아야 해. 이게 제일 중요하네! 암자색, 암적색으로 말야. 손님들은 완벽하게 안정감을 느낄걸세. "
+"연꽃 향이 공기중으로 퍼져나가 환각을 보게 되면 더없이 황홀한 저녁 식사가 될 거라고.\n"
+"\n"
+"그 꽃을 가져오기 위해 퍼렐던 습지로 사람을 보내야 한다고 해도 상관하지 않겠네. 그냥 빨리 뭐라도 좀 하란 말이야!\n"
+"\n"
+"—아르네 백작 부인의 여름 정원 파티의 장식에 대해 시종 루렌트가 정원사 움베르트 바우클린에게 보낸 쪽지\n"
+"\n"
+"발 르와이요에 있는 소문에 따르면 이 시종은 정원사 바우클린에게 420송이의 연꽃을 가져오도록 설득하는데 성공했다고 한다. 저녁식사 때 "
+"잔디밭에서 12명, 연못가에서 3명이 잠 들었고 한 여성은 백작부인 선친의 대리석상을 케이크인줄 착각하고 깨물었다가 이가 몇 개 빠지긴 "
+"했지만 파티는 성황리에 끝났다고 한다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[805]/JournalTextData/TextReference
@@ -12052,6 +12064,17 @@ msgid ""
 "\n"
 "—An excerpt from {i}The Botanical Compendium{/i} by Ines Arancia, botanist"
 msgstr ""
+"엠브리움은 난초과에 속하는 꽃으로, 이 식물의 치유 효과가 알려진 계기는 이 꽃이 지닌 빼어난 아름다움 때문이었다.\n"
+"\n"
+"올레이의 군주 Ignace Poulenc의 가 가장 아끼던 딸이 치유사들조차 손쓸 수 없는 끔찍한 폐 질환에 걸렸을 때의 일이다. 딸이 "
+"살 날이 얼마 남지 않았다고 생각한 소녀의 부모는 딸이 남은 시간동안만이라도 따뜻하고 활기찬 분위기 속에서 지낼 수 있기를 바라며 밝고 "
+"아름다운 색의 꽃들로 딸의 침대를 꾸며주었다. 그랬더니 이상한 일이 벌어졌다. 딸의 병세가 날이 갈수록 좋아지는 것이었다. 소녀의 부모는 "
+"예상치 못한 결과에 다소 당황했지만 이내 크게 기뻐했다. 치유사들은 결국 침대의 꽃들 중 하나가 가진 향이 소녀의 호흡 기능을 "
+"안정시키는데 도움을 주었다는 사실을 밝혀냈는데 그 꽃이 바로 엠브리움이었다고 한다. \n"
+"\n"
+"이 꽃에는 특정한 마법 성질을 지닌 변종이 있는데 이를 다크 엠브리움이라고 한다.\n"
+"\n"
+"—식물학자 아이네스 아란시아의 식물학 개론 중 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1142]/JournalTextData/TextReference
@@ -13505,6 +13528,12 @@ msgid ""
 "\n"
 "—An excerpt from {i}The Botanical Compendium{/i} by Ines Arancia, botanist"
 msgstr ""
+"옛 속담에 의하면 회전초가 가장 잘 자라는 곳은 슬픔에 빠진 사람의 옆이라고 한다. 일반적인 가정집의 정원에 파릇파릇한 회전초가 있으면  "
+"종종 이웃들이 위로의 말을 건네기도 한다. 대개는 무슨 일인지 묻지 않는다.\n"
+"회전초의 쓰임은 병자의 회복을 촉진시키기 위한 요리의 양념으로 사용한데서 비롯되었다. 회전초를 많이 재배하는 사람은 중병을 가진 환자를 "
+"치료하고 있을 가능성이 높다.\n"
+"\n"
+"식물학자 아이네스 아란시아의 식물학 개론 중 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1249]/JournalTextData/TextReference
@@ -16526,6 +16555,18 @@ msgid ""
 "\n"
 "—An excerpt from {i}The Botanical Compendium{/i} by Ines Arancia, botanist"
 msgstr ""
+"엘프 뿌리는 알라산의 엘프들에 의해 최초로 사용되었고, 이름도 그들로부터 유래되었다.  이 뿌리는 엘프들이 사용하는 약에 쓰이면서 뛰어난 "
+"효과를 나타내었기 때문에  테빈테르 제국이 엘프들을 지배했을때 마기스테르들은 이 뿌리의 효능을  알게 되었고, 엘프뿌리는 곧 제국의 "
+"곳곳에서 널리 사용되었다.\n"
+"\n"
+"커다란 녹색 잎을 가지고 있는 엘프 뿌리는 매우 튼튼한 식물이며  대부분의 야생에서 쉽게 자란다. 이 식물은 마치 잡초처럼 정원과 "
+"들판에서 매우 흔하게  발견할 수 있다. 하지만 잡초와 다른 점이 있다면, 많은 이들이 이 작지만 유용한 식물을 사용할 수 있다는 것을 "
+"감사히 여긴다는 점이다. 이 뿌리의 사용법은 매우 간단하다. 예를 들어 상처 부위에 이 식물의 즙을 약간만 발라주면 통증을 줄여주고 "
+"회복속도를 높일 수 있다. 소화불량이나 복통, 목이 쉬는것과 같은 경증에 이 뿌리의 조각을 씹는것도 효과가 있다.\n"
+"\n"
+"엘프 뿌리는 몇 가지 변종이 있는데 그중에서도 약초사들에게 가장 유용하게 쓰이는 것은 씀바귀, 고삼, 그리고 royal엘프 뿌리이다.\n"
+"\n"
+"—식물학자 아이네스 아란시아의 식물학 개론 중 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1490]/JournalTextData/TextReference
@@ -19972,6 +20013,21 @@ msgid ""
 "\n"
 "—From {i}The Wilds of Thedas: Volume Two{/i}, by Stephan d'Eroin"
 msgstr ""
+"우리는 마을 사람들의 두려움의 대상인 거대 갈색 곰을 찾기 위해 발 포하이 근처 숲 안으로 향했다. 곰은 서쪽 관문에서 수마일 떨어진 "
+"곳의 시냇가와 가까운 언덕 쪽 동굴 안에 서식지를 꾸려두고 있었다. 우리는 어느정도 떨어진 거리에서 대기하며 곰을 관찰하기로 했다. "
+"엘드윈이 우리의 모습이 곰에게 발각되지 않도록 주문을 걸어주었다. 참으로 유용한 마법이다.\n"
+"\n"
+"몇 시간이 흐르고, 거대 갈색 곰이 동굴 안에서 모습을 드러냈다. 모피에는 아름다운 적갈색 윤기가 흐르고 있었다. 그야말로 경이로운 "
+"야수다. 세마리의 새끼 곰이 어미의 뒤를 바짝 쫓고 있었다. 보송보송한 갈색 털뭉치에 조그만한 눈알을 박아놓은 듯 하다. 참으로 놀라운 "
+"작은 생명체다.\n"
+"\n"
+"나는 이 작은 곰 가족이 시냇가에서 노니는 모습을 하루종일 지켜보고 싶었지만 이윽고 바람이 바뀌면서 엘드윈의 마법에도 불구하고 어미곰이 "
+"우리의 냄새를 맡고 말았다. 어미곰은 우리가 있는 방향으로 뛰어올랐지만 아무것도 발견하지 못하자 두 발로 서서 울부짖었다.  그야말로 "
+"엄청난 광경이었다! 그 키는 족히 나의 1.5배는 되어 보였다. 어미곰은 우리를 향해 나뭇가지를 부러뜨리며 전속력으로 돌진했다. 나는 "
+"다급히 그 곳에서 벗어났지만 안타깝게도 엘드윈은 너무 늦고 말았다. 거대한 앞발이 그의 가슴을 내려쳤고 그는 그 자리에서 절명하고 "
+"말았다. 가엾은 에드윈. 자연은 무자비한 동시에 경이롭다.\n"
+"\n"
+"—스테판 데로인 저 테다스의 야생 제 2권에서 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1745]/JournalTextData/TextReference
@@ -21147,6 +21203,14 @@ msgid ""
 "\n"
 "—An excerpt from {i}The Botanical Compendium{/i} by Ines Arancia, botanist"
 msgstr ""
+"품위의 결정체라는 꽃은 의학적인 가치 뿐 아니라 아름다움으로도 그 가치를 인정받고 있다. 연한 푸른빛의 섬세한 크리스탈 종처럼 생긴 이 "
+"꽃은 바람에 흔들리면 딸랑거리는 소리를 낸다. 실은 품위의 결정체를 주문하여 온 정자에 심고 백색 첨탑에서 마법사를 고용하여  마법을 건 "
+"올레이 여인의 이야기를 들은적이 있다. 결국 꽃이 딸랑대는 소리에 싫증이 난 여인은 홧김에 잔디밭에 불을 질러 버렸다.\n"
+"\n"
+"우리는 이 이야기에서 교훈을 얻을 수 있다.  이 꽃은 정확히 창조주께서 의도하신대로 만들어졌으며 우리의 힘으로는 간섭할 수 없다는 것을 "
+"말이다.\n"
+"\n"
+"—아이네스 아란시아의 저서 식물학 개론 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1844]/JournalTextData/TextReference
@@ -22546,6 +22610,15 @@ msgid ""
 "\n"
 "—Excerpt from {i}Living Redcliffe{/i}, by Sister Dorcas Guerrin"
 msgstr ""
+"티라논 구란틴 백작은 늙은 나이에 장남 로난을 얻었다. 어린 아들이 성공한 자신의 뒤를 잇기를 바랐기에 그의 기대는 컸지만 안타깝게도 "
+"로난 구에린은 어렸을 때부터 매우 게을렀고 영토를 관리하는 일보다 아버지의 재산을 사용하기 급급하였다. 이를 못마땅하게 여긴 백작은 "
+"아들을 산으로 보내 요새를 건설할 것을 지시하였고 레드클리프로 돌아오고 싶다면 산에 숨어있는 도적떼를 소탕하고 오라고 단단히 일렀다.\n"
+"\n"
+"전해내려오는 역사에 따르면 로난은 개과천선하여 도적때를 몰아냈으며 다른 사람이 되어 레드클리프로 돌아왔다고 한다. 하지만 도적떼를 상대로 "
+"선전하여 레드클리프로 돌아온 남자는 사실 로난과 닮은 병사였다는 이야기가 가문 내에서 은밀히 전해지고 있다. 한편 진짜 로난은 산에서 "
+"편안한 여생을 보냈다고 한다.\n"
+"\n"
+"—도르카스 구에린 수녀의 저서 레드클리프의 삶 에서 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1950]/JournalTextData/TextReference
@@ -22919,6 +22992,14 @@ msgid ""
 "\n"
 "—An excerpt from {i}The Botanical Compendium{/i} by Ines Arancia, botanist"
 msgstr ""
+"오를레의 민속 설화에 따르면, 안드라스테의 추종자들과 지지자들은 화형장으로 끌려가는 안드라스테의 뒤를 따르며 월계수의 가지를 바닥에 "
+"던졌다고 한다. 안드라스테가 화형당하고 타고 남은 재가 땅 위에 떨어진 나뭇잎 위로 내려앉자, 그 잎에는 뛰어난 정화 작용이 생겼다고 "
+"한다. 물론 이것은 설화에 지나지 않는다. 월계수는 안드라스테 시대 훨씬 이전부터 치료용 약초로 알려져 있었다. 고대 테빈테르 문헌에서는 "
+"습포제, 팅크제, 심지어 향료에도 월계수를 사용했다는 기록이 남아있다. 이 설화는 순전히 만들어진 것일지 모른다. 하지만 월계수가 "
+"안드라스테의 희생에 대한 상징이라는 사실은 변함없을 것이다. 이 식물의 윤기가 흐르는 어두운 빛깔을 띄는 잎은 자비의 검을 나타내고, "
+"붉은 열매는 검 위로 떨어진 안드라스테의 피를 상징한다.\n"
+"\n"
+"—식물학자 이네스 아란시아의 저서 '식물학 개요' 중 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1979]/JournalTextData/TextReference
@@ -40038,7 +40119,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:163096
 msgctxt "0x00043d2f"
 msgid "Go to the Undercroft."
-msgstr ""
+msgstr "지하실로 가자."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[545]/JournalTaskData/TextReference
@@ -42615,7 +42696,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:187730
 msgctxt "0x00043793"
 msgid "Blood Lotus"
-msgstr ""
+msgstr "혈련"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/ProgressiveTaskData/member[38]/ProgressiveTaskData/TextReference
@@ -43231,7 +43312,7 @@ msgstr "회전초"
 #: Systems\JournalSystem\JournalSystem.xml:196014
 msgctxt "0x00042470"
 msgid "Crystal Grace"
-msgstr ""
+msgstr "품위의 결정체"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/ProgressiveTaskData/member[148]/ProgressiveTaskData/TextReference
@@ -43448,7 +43529,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:199095
 msgctxt "0x000437b4"
 msgid "Elfroot"
-msgstr ""
+msgstr "엘프 뿌리"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/ProgressiveTaskData/member[192]/ProgressiveTaskData/TextReference
@@ -43875,7 +43956,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:204876
 msgctxt "0x00043fa7"
 msgid "Crystal Grace"
-msgstr ""
+msgstr "품위의 결정체"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/ProgressiveTaskData/member[272]/ProgressiveTaskData/TextReference
@@ -44330,7 +44411,7 @@ msgstr "엘프뿌리"
 #: Systems\JournalSystem\JournalSystem.xml:210863
 msgctxt "0x00042a41"
 msgid "Blood Lotus"
-msgstr ""
+msgstr "혈련"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/ProgressiveTaskData/member[350]/ProgressiveTaskData/TextReference

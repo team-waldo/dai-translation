@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-22 19:55+0000\n"
+"PO-Revision-Date: 2021-01-23 15:27+0000\n"
 "Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
@@ -8836,7 +8836,7 @@ msgstr ""
 #: DA3\DesignContent\Items\Skyhold\sky_seeds_bloodlotus.xml:6
 msgctxt "0x00042b09"
 msgid "Blood Lotus Seeds"
-msgstr ""
+msgstr "혈련 씨앗"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_bloodlotus.xml
 #. PATH: StackedItemAsset/Description
@@ -8850,7 +8850,7 @@ msgstr ""
 #: DA3\DesignContent\Items\Skyhold\sky_seeds_crystalgrace.xml:6
 msgctxt "0x00042b0a"
 msgid "Crystal Grace Seeds"
-msgstr ""
+msgstr "품위의 결정체 씨앗"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_crystalgrace.xml
 #. PATH: StackedItemAsset/Description
@@ -8920,7 +8920,7 @@ msgstr ""
 #: DA3\DesignContent\Items\Skyhold\sky_seeds_elfroot.xml:6
 msgctxt "0x00042b0f"
 msgid "Elfroot Seeds"
-msgstr ""
+msgstr "엘프 뿌리 씨앗"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_elfroot.xml
 #. PATH: StackedItemAsset/Description
@@ -8934,7 +8934,7 @@ msgstr ""
 #: DA3\DesignContent\Items\Skyhold\sky_seeds_embrium.xml:6
 msgctxt "0x00042b10"
 msgid "Embrium Seeds"
-msgstr ""
+msgstr "엠브리움 씨앗"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_embrium.xml
 #. PATH: StackedItemAsset/Description
@@ -9032,7 +9032,7 @@ msgstr ""
 #: DA3\DesignContent\Items\Skyhold\sky_seeds_spindleweed.xml:6
 msgctxt "0x00042b19"
 msgid "Spindleweed Seeds"
-msgstr ""
+msgstr "회전초 씨앗"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_spindleweed.xml
 #. PATH: StackedItemAsset/Description
@@ -11377,7 +11377,7 @@ msgstr ""
 #: DA3\DesignContent\Prefabs\Crafting\Garden\Garden_Herb_Elfroot.xml:403
 msgctxt "0x0001862b"
 msgid "Elfroot"
-msgstr ""
+msgstr "엘프 뿌리"
 
 #. FILE: DA3\DesignContent\Prefabs\Crafting\Garden\Garden_Herb_Elfroot.xml
 #. PATH: NotificationEntityData/TitleTextReference
@@ -11440,7 +11440,7 @@ msgstr ""
 #: DA3\DesignContent\Prefabs\Crafting\Garden\Garden_Herb_Spindleweed.xml:403
 msgctxt "0x00018607"
 msgid "Spindleweed"
-msgstr ""
+msgstr "Spindleweed"
 
 #. FILE: DA3\DesignContent\Prefabs\Crafting\Garden\Garden_Herb_Spindleweed.xml
 #. PATH: NotificationEntityData/TitleTextReference
@@ -12424,6 +12424,10 @@ msgid ""
 "\n"
 "Using any combat ability will cause you to drop a carried veilfire torch."
 msgstr ""
+"장막의 불길은 마법사만이 소환할 수 있는 특수한 불빛이지만, 일단 켜진 횃불은 누구든 들고 다닐 수 있습니다. 장막의 불길을 비춰야만 볼 "
+"수 있는 고대의 룬이나 장치들을 찾아보세요.\n"
+"\n"
+"전투행동을 하게 되면, 들고 있던 장막의 불길은 바닥에 떨어집니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Interactions\ViewSkull\ViewSkull.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
@@ -12437,7 +12441,7 @@ msgstr ""
 #: DA3\DesignContent\Prefabs\Interactions\ViewSkull\ViewSkull.xml:3241
 msgctxt "0x0001b896"
 msgid "Ocularum"
-msgstr ""
+msgstr "오쿨라룸"
 
 #. FILE: DA3\DesignContent\Prefabs\Interactions\ViewSkull\ViewSkull.xml
 #. PATH: BWPopUpEntityData[1]/Text
@@ -12448,6 +12452,9 @@ msgid ""
 "\n"
 "{controller}Use {StringBtnRStick}{/controller}{notcontroller}Move the mouse{/notcontroller} to look around. Focusing on a shard will mark it on your map."
 msgstr ""
+"오쿨라룸은 세상에 흩어져 있는 편린을 찾아낼 수 있습니다. 근방에 있는 편린을 모두 찾아낸 오쿨라룸은 더 이상 빛을 발하지 않습니다.\n"
+"\n"
+"마우스를 이동시켜 주위를 둘러보세요. 편린에 초점을 맞추면 해당 편린이 지도에 표시됩니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Interactions\ViewSkull\ViewSkull.xml
 #. PATH: ViewSkullHUDEntityData/CountStringId
