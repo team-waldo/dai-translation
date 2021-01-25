@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-23 15:27+0000\n"
-"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
+"PO-Revision-Date: 2021-01-25 15:02+0000\n"
+"Last-Translator: 불타는 수염 <brng_beard@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -4308,7 +4308,7 @@ msgstr ""
 #: DA3\Creatures\Boss\creature_boss_abelas.xml:5518
 msgctxt "0x000188a1"
 msgid "Abelas"
-msgstr ""
+msgstr "아벨라스"
 
 #. FILE: DA3\Creatures\Boss\creature_boss_alexius.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -4441,7 +4441,7 @@ msgstr ""
 #: DA3\Creatures\Boss\creature_boss_highdragon_westernapproach.xml:4539
 msgctxt "0x00042dd0"
 msgid "Abyssal High Dragon"
-msgstr ""
+msgstr "심연의 고룡"
 
 #. FILE: DA3\Creatures\Boss\creature_boss_prologue.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -5414,7 +5414,7 @@ msgstr ""
 #: DA3\Creatures\Wilderness\creature_wilderness_white_fox.xml:4046
 msgctxt "0x00042958"
 msgid "Fennec"
-msgstr ""
+msgstr "사막여우"
 
 #. FILE: DA3\DA3_DLC_Shared\factions\Qunari\Props\Models\prp_qun_Qunari_Gaatlok_main.xml
 #. PATH: InspectableComponentData/DisplayName
@@ -5736,7 +5736,7 @@ msgstr ""
 #: DA3\DesignContent\CreatureProfiles\Ferelden\dragon_crestwood_creatureprofile.xml:24
 msgctxt "0x00044708"
 msgid "Northern Hunter"
-msgstr ""
+msgstr "북부 사냥꾼"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\Ferelden\fer010__footsoldier_bandit_creatureprofile.xml
 #. PATH: CreatureProfile/AppearanceOverride/member[1]/CreatureAppearanceCustomizations/OverrideName
@@ -5792,7 +5792,7 @@ msgstr ""
 #: DA3\DesignContent\CreatureProfiles\FollowerPlots\Krem_IRO_creatureprofile.xml:24
 msgctxt "0x00030082"
 msgid "Krem"
-msgstr ""
+msgstr "크렘"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\FollowerPlots\Solas\Summoning_Ring.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -10716,7 +10716,7 @@ msgstr ""
 #: DA3\DesignContent\PrefabComponents\Notifications\CMP_RegionNotification.xml:631
 msgctxt "0x0003a611"
 msgid "Discovered: {CUSTOM0}"
-msgstr ""
+msgstr "발견: {CUSTOM0}"
 
 #. FILE: DA3\DesignContent\PrefabComponents\Notifications\CMP_RegionNotification.xml
 #. PATH: GetLocalizedStringIDData[2]/Text
@@ -11545,7 +11545,7 @@ msgstr ""
 #: DA3\DesignContent\Prefabs\Crafting\Metal\Crafting_Metal_ParagonsLuster.xml:502
 msgctxt "0x000216bb"
 msgid "Paragon's Luster"
-msgstr ""
+msgstr "파라곤의 영광석"
 
 #. FILE: DA3\DesignContent\Prefabs\Crafting\Metal\Crafting_Metal_Pyrophite.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
@@ -13146,7 +13146,7 @@ msgstr ""
 #: DA3\DesignContent\Prefabs\Levels\Skyhold\WarTable\WT_InvestigationLocator_ValRoyeaux.xml:1752
 msgctxt "0x000342ee"
 msgid "Address the Chantry in Val Royeaux"
-msgstr ""
+msgstr "발 로요에서의 챈트리 접선"
 
 #. FILE: DA3\DesignContent\Prefabs\Levels\Skyhold\WarTable\WT_InvestigationLocator_ValRoyeaux.xml
 #. PATH: CritPathWarTableLocatorData/CritPathDescription
@@ -13159,6 +13159,11 @@ msgid ""
 "\n"
 "{string}281195{/string}: {string}281191{/string}"
 msgstr ""
+"남아있는 챈트리 주교들이 사문회를 이단으로 선언하였다. 대균열에 맞서기 위한 동맹을 모으려는 시도는 묵살당했고, 현재 군중들에게 "
+"공격당하거나 체포되는 일 없이 수도에 발을 들이는 것은 불가능하다. \"안드라스테의 전령\"은 그들이 생각하는 괴물이 아니라는 것을 "
+"증명하려면 챈트리를 설득하여 도시 출입을 허락받아야 한다.\n"
+"\n"
+"{string}281195{/string}: {string}281191{/string}"
 
 #. FILE: DA3\DesignContent\Prefabs\Levels\Wilderness\Crestwood\CrestwoodDam_FloorWheel.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference

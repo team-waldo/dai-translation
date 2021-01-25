@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-22 19:55+0000\n"
-"Last-Translator: GameSlot <gamehdhdhdjdjdjd@gmail.com>\n"
+"PO-Revision-Date: 2021-01-25 15:02+0000\n"
+"Last-Translator: morri64 <morri64@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
 "Language: ko\n"
@@ -37,7 +37,7 @@ msgstr "이중간첩 폭로"
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_find_the_mole.xml:84
 msgctxt "0x0003fdde"
 msgid "We must move carefully. This traitor is a master of the craft to escape my detection for so long."
-msgstr "조심스럽게 움직여야 합니다. 이 배신자는 오랫동안 내 탐지로부터 벗어나는데 도가 튼 놈입니다."
+msgstr "조심스럽게 움직여야 합니다. 이 배신자는 오랫동안 제 탐지로부터 벗어나는데 도가 튼 놈입니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -72,28 +72,28 @@ msgstr "발 셰빈의 백작 부인은 심문회에 호의적입니다. 첩자�
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml:10
 msgctxt "0x0003fe93"
 msgid "Crestwood's mayor will have to stop for supplies. I'll have my agents inquire."
-msgstr "크레스트우드의 시장은 공급을 멈춰야 할 겁니다. 제 요원들을 보내죠."
+msgstr "산마루숲의 이장도 장을 볼 때가 반드시 있을 겁니다. 제 요원들을 보내죠."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml:34
 msgctxt "0x0003fe92"
 msgid "I can ask the crown to post a warrant for the mayor's arrest."
-msgstr "왕실에 시장의 체포 영장의 게시를 요청 할 수 있습니다."
+msgstr "왕실에 요청해 이장의 체포 영장을 게시할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml:63
 msgctxt "0x0003adff"
 msgid "We already have soldiers on the road in that area. They'll hunt down the mayor."
-msgstr "이미 그 지역엔 우리 군사들이 깔려있습니다. 시장을 뒤쫓게 하겠습니다."
+msgstr "이미 그 지역엔 우리 군사들이 깔려있습니다. 이장을 잡아내겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml:90
 msgctxt "0x0003adfe"
 msgid "Find Crestwood's Mayor"
-msgstr "크레스트우드 시장 수색"
+msgstr "산마루숲 이장 수색"
 
 #. FILE: DA3\DesignContent\Operations\Debug\zz_debug_agents.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -156,7 +156,7 @@ msgstr "가치가 충분히 있다면, 이 학자를 보호 할 군사들을 제
 #: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml:44
 msgctxt "0x000422c6"
 msgid "The Avvar tribes are not friendly. My scouts can get Sister Dorcas in and out of the mountains safely."
-msgstr "아바르 부족은 우호적이지 않습니다. 정찰병들이 도르카스 수녀님을 산맥을 안전히 오갈 수 있게 하겠습니다."
+msgstr "아바르 부족은 우호적이지 않습니다. 정찰병들이 도르카스 수녀님을 도와 산맥을 안전히 오갈 수 있게 하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml
 #. PATH: WarTableEntry/TitleReference
@@ -177,7 +177,7 @@ msgstr "도르카스 수녀님은 페렐던의 귀족들과 관계가 있습니�
 #: DA3\DesignContent\Operations\Ferelden\fer_royal1_op.xml:10
 msgctxt "0x000408f5"
 msgid "Send forces to aid in the manhunt. Not only should we help, but everyone should see us doing it."
-msgstr "군대를 보내 수사를 도와줘야 합니다. 단순히 도와주는 것 뿐만 아니라, 모든 사람이 우리의 도움을 알 수 있게 해야 합니다."
+msgstr "군대를 보내 수사를 도와줘야 합니다. 단순히 도와주는 것 뿐만 아니라, 모든이가 우리의 도움을 알 수 있게 해야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\fer_royal1_op.xml
 #. PATH: WarTableEntry/TitleReference
@@ -275,14 +275,14 @@ msgstr "하이에버의 공작"
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml:10
 msgctxt "0x000403ca"
 msgid "I can smooth things over so the Ben-Hassrath can investigate openly. The time this takes will be saved if they can operate freely."
-msgstr "벤-하스라쓰가 자유롭게 조사할 수 있도록 유연하게 조치하겠습니다. 준비에 걸린 시간은 자유롭게 조사하는 것으로 만회될 겁니다."
+msgstr "벤-하스라쓰가 자유롭게 조사할 수 있도록 유연하게 조치하겠습니다. 준비에 걸린 시간은 자유로운 조사로 만회될 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml:27
 msgctxt "0x000403d0"
 msgid "Follow Venatori Assassins"
-msgstr "베나토리 암살자를 추적하라"
+msgstr "베나토리 암살자 추적"
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml
 #. PATH: WarTableEntry/TitleReference
@@ -303,7 +303,7 @@ msgstr "벤-헤스라스에게 즉시 조사하라고 명령해야 합니다. �
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml:181
 msgctxt "0x000403c7"
 msgid "We do not have time to gain the Fereldans' trust. The Ben-Hassrath must act in secret."
-msgstr "우리는 페럴던의 신뢰를 얻을 시간이 없습니다. 벤-하스라쓰는 비밀리에 행동해야 합니다."
+msgstr "페럴던의 신뢰를 얻을 시간이 없습니다. 벤-하스라쓰는 비밀리에 행동해야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -331,7 +331,7 @@ msgstr "벤-하스라쓰들을 태우고 그와렌으로 통하는 대부분의 
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml:15
 msgctxt "0x000403d9"
 msgid "The Qunari have the best ships on the seas. A dreadnought could blow that Venatori fire ship out of the water."
-msgstr "쿠나리는 바다에서 가장 좋은 배를 가지고 있습니다. 드레드노트 한 척은 베나토리 화공선을 물 밖으로 날려 버릴 수도 있습니다."
+msgstr "쿠나리는 바다에서 최강의 배를 가지고 있습니다. 드레드노트 한 척으로 충분히 베나토리 화공선을 박살내 버릴 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml
 #. PATH: WarTableEntry/TitleReference
@@ -366,14 +366,14 @@ msgstr "스카이홀드 내부의 첩자 수색"
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_1.xml:110
 msgctxt "0x00040dab"
 msgid "Tallis has a good plan. Let us use these spies against the Venatori and trace them back to their spymasters."
-msgstr "탈리스는 좋은 계획을 가지고 있습니다. 베나토리를 상대로 이 첩자들을 사용하여 그들의 스파이 마스터를 추적해 보겠습니다."
+msgstr "탈리스는 좋은 계획을 가지고 있습니다. 베나토리를 상대로 이 첩자들을 사용하여 그들의 첩자장을 추적해 보겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_1.xml:127
 msgctxt "0x00040db1"
 msgid "Track Spies in Val Royeaux"
-msgstr "발 로요 안의 첩자들을 추적하라"
+msgstr "발 로요의 첩자 추적"
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -395,14 +395,14 @@ msgstr "원하신다면, 더 작은 그룹으로 더 신중히 움직일 수 있
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_2.xml:132
 msgctxt "0x00040dc8"
 msgid "Track Spies in Val Chevin"
-msgstr "발 셰빈에서 첩자 추적"
+msgstr "발 셰빈의 첩자 추적"
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_2.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_2.xml:144
 msgctxt "0x00040db2"
 msgid "You heard Tallis. We should move our operatives in force."
-msgstr "탈리스에게 들으셨죠. 우리는 요원들을 대거 움직여야 합니다."
+msgstr "탈리스에게 들으셨죠. 요원들을 대거 움직여야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_3.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -423,28 +423,28 @@ msgstr "탈리스는 주의하라고 권하고 있어요. 전 몇 명의 요원�
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_4.xml:15
 msgctxt "0x00040dd8"
 msgid "If Tallis says we need more agents, we must listen to her and send our spies in."
-msgstr "탈리스가 더 많은 요원이 필요하다고 말하면, 그녀의 말대로 첩자들을 보내야 합니다."
+msgstr "탈리스가 더 많은 요원이 필요하다고 말하면, 그 말대로 첩자들을 보내야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_4.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_4.xml:32
 msgctxt "0x00040ddb"
 msgid "Track Spies in Vyrantium"
-msgstr "뷔란티움에서 첩자 추적"
+msgstr "뷔란티움의 첩자 추적"
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_4.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_4.xml:44
 msgctxt "0x00040dd9"
 msgid "Nevarra is crawling with Venatori agents. I can get a few of my best spies into place undetected, but no more."
-msgstr "네바라는 베네토리 요원들이 가득 득실댑니다. 전 제 최고의 첩자들을 발견되지 않고 그 자리에 투입 할 수 있지만, 그게 다에요."
+msgstr "네바라는 베네토리 요원들이 득실댑니다. 전 제 최고의 첩자들을 발견되지 않게 투입 할 수 있지만, 활동은 무리입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_4.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_4.xml:71
 msgctxt "0x00040dd7"
 msgid "Track Spies in Nevarra"
-msgstr "네바라에서 첩자 추적"
+msgstr "네바라의 첩자 추적"
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_5.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -452,7 +452,7 @@ msgstr "네바라에서 첩자 추적"
 msgctxt "0x00040ddd"
 msgid "I can have my diplomats cause scandals in Tevinter. It won't add to our strength in the area, but it might draw attention away from the Ben-Hassrath."
 msgstr ""
-"제 외교관으로 하여 티빈터에서 스캔들을 일으킬 수 있습니다. 우리의 힘을 늘릴 순 없겠지만, 벤-하스라쓰의 관심을 돌릴 순 있겠지요."
+"외교관으로 하여 티빈터에서 스캔들을 일으킬 수 있습니다. 영향력을 늘릴 순 없겠지만, 벤-하스라쓰에 대한 관심을 돌릴 순 있겠지요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_5.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -990,28 +990,28 @@ msgstr "황금빛 기회"
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_haven_op.xml:10
 msgctxt "0x0004046f"
 msgid "It would be a simple matter to collect secrets and sell them, with nothing traceable back to the Inquisition."
-msgstr ""
+msgstr "사문회를 추적할만한 흔적을 남기지 않고 비밀 정보를 수집하고 파는 것 쯤은 간단합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_haven_op.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_haven_op.xml:39
 msgctxt "0x00040472"
 msgid "We have soldiers—let them protect caravans and do other honest work for coin."
-msgstr ""
+msgstr "우리에게는 병사들이 있습니다. 상단을 보호하게 하여 정직한 방법으로 돈을 법시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_haven_op.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_haven_op.xml:68
 msgctxt "0x00040470"
 msgid "Trading in favors with merchants and the nobility is my specialty. It could earn us a great deal if we're careful."
-msgstr ""
+msgstr "상인과 귀족의 호의를 이용해서 교역하는 일은 제 전문이죠. 조금만 주의를 기울이면 큰 금전을 얻을 수 있을거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_haven_op.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_haven_op.xml:95
 msgctxt "0x00040473"
 msgid "Gather Coin"
-msgstr ""
+msgstr "자금 모으기"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -1032,7 +1032,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_op.xml:71
 msgctxt "0x000404b8"
 msgid "Gather Coin"
-msgstr ""
+msgstr "자금 모으기"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_op.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -1515,14 +1515,14 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\CritPathReactivity\SeekerFortress\Seeker_Fortress_Underworld_op.xml:15
 msgctxt "0x0004079d"
 msgid "You have some knowledge of the black market? Give me no details; I will inquire where you say. Discreetly."
-msgstr ""
+msgstr "암시장에 대해 아는 게 있으시다고요? 그 장소는 제가 신중히 조사할테니 자세한 건 말하지 마세요."
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\SeekerFortress\Seeker_Fortress_Underworld_op.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\CritPathReactivity\SeekerFortress\Seeker_Fortress_Underworld_op.xml:42
 msgctxt "0x0004079a"
 msgid "Secure More Lyrium for the Templars"
-msgstr ""
+msgstr "템플러를 위해 더 많은 리륨을 확보하라"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_antiva.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -1705,27 +1705,29 @@ msgstr ""
 msgctxt "0x000400b9"
 msgid "Your people must be approached carefully. One of our elven scribes could deliver a message and share news of the Inquisition's fair treatment."
 msgstr ""
+"당신쪽 사람들에겐 신중하게 접근할 필요가 있어요. 우리 엘프 필경사 중 하나가 메시지를 통해 당신이 사문회에서 공정한 처우를 받고 있다는 "
+"사실을 전달할 수 있을거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\DalishPlayerClan\wycome1.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\DalishPlayerClan\wycome1.xml:42
 msgctxt "0x000400c0"
 msgid "Contact Clan Lavellan"
-msgstr ""
+msgstr "라벨란 부족으로부터의 연락"
 
 #. FILE: DA3\DesignContent\Operations\Global\DalishPlayerClan\wycome1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\DalishPlayerClan\wycome1.xml:131
 msgctxt "0x000400bf"
 msgid "My troops can deliver news of your safety and make it clear that the Inquisition should be taken seriously."
-msgstr ""
+msgstr "제 병사들이 당신이 안전하다는 소식과 함께 사문회가 이 일을 진지하게 생각하고 있다는 것을 분명히 알리겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\DalishPlayerClan\wycome1.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\DalishPlayerClan\wycome1.xml:165
 msgctxt "0x000400bc"
 msgid "The Dalish respect deeds, not words. Let my elven agents deliver something the clan needs as a show of good faith."
-msgstr ""
+msgstr "데일스는 말이 아닌 행동을 중시합니다. 제 엘프 요원들에게 부족이 필요로 하는 것을 전달시켜 성의를 표시하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\DalishPlayerClan\wycome2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -2600,28 +2602,28 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric1.xml:15
 msgctxt "0x00040413"
 msgid "I could ask a friend in Antiva City to look into this matter, I suppose."
-msgstr ""
+msgstr "제가 안티바에 있는 친구에게 이 일에 대해 알아봐 달라고 부탁할 수 있을 것 같아요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric1.xml:44
 msgctxt "0x00040412"
 msgid "If this author has evaded the Merchants Guild, the Crows might be a better choice for investigating him."
-msgstr ""
+msgstr "이 작가가 상인 조합을 따돌렸다면, 이 자를 조사하는 데에는 까마귀를 이용하는 쪽이 더 나을 수도 있을 것 같군요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric1.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric1.xml:71
 msgctxt "0x000403d8"
 msgid "Hard in Hightown 3: Varric's Revenge"
-msgstr ""
+msgstr "하드 인 하이타운 3: 배릭의 복수"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric2.xml:10
 msgctxt "0x0004049e"
 msgid "I have a friend in the Kirkwall guard. She might be willing to talk to this magistrate."
-msgstr ""
+msgstr "커크월의 경비대에 친구가 있습니다. 그녀라면 기꺼이 이 치안판사와 대화를 나누려 할 겁니다 ."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
@@ -2635,28 +2637,28 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric2.xml:44
 msgctxt "0x0004049f"
 msgid "I'm owed a few favors in the viscount's office. I could call one in."
-msgstr ""
+msgstr "자작의 사무실에서 제게 몇 가지 신세진 일이 있습니다. 제가 연락해보도록 하죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric2.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric2.xml:68
 msgctxt "0x0004049d"
 msgid "A magistrate courier? He has to be involved in something else. Let's find out what."
-msgstr ""
+msgstr "치안 판사가 배달을 한다고요? 분명 뭔가 다른 일에 연루되어 있을 겁니다. 제가 그게 뭔지 알아 보겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric2.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric2.xml:100
 msgctxt "0x00040446"
 msgid "The Search for the Hack Writer"
-msgstr ""
+msgstr "엉터리 표절 작가 찾기 대작전"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric3.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric3.xml:15
 msgctxt "0x000404a6"
 msgid "We should support the official Kirkwall guard investigation into this murder."
-msgstr ""
+msgstr "이 살인사건에 관한 커크월 경비대의 수사를 공식적으로 지지해야 해요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric3.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -2664,13 +2666,15 @@ msgstr ""
 msgctxt "0x000404a8"
 msgid "If an assassin killed the magistrate, a word to the Crows might tell us who it was. They watch rivals carefully."
 msgstr ""
+"치안판사가 암살자에게 살해당한 거라면. 까마귀들에게 말을 전해서 그게 누구인지 알아낼 수 있을 겁니다. 그들은 경쟁자들을 눈여겨 보고 "
+"있거든요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric4.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric4.xml:10
 msgctxt "0x000404c5"
 msgid "We should follow up on the murder investigation. The book is just a work of fiction."
-msgstr ""
+msgstr "살인사건을 끝까지 조사해야 합니다. 소설책은 소설책일 뿐입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric4.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
@@ -2684,42 +2688,42 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric4.xml:34
 msgctxt "0x000404c6"
 msgid "Someone got in and out of Skyhold without being seen. The cipher in the book might lead us to them."
-msgstr ""
+msgstr "누군가 아무에게도 들키지 않고 스카이홀드에 들어왔다가 빠져나갔습니다. 책의 암호를 풀면 놈들을 찾을 수 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric4.xml
 #. PATH: SpecialistMissionInfo[2]/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric4.xml:51
 msgctxt "0x000404e0"
 msgid "Revenge of the Merchants Guild"
-msgstr ""
+msgstr "상인조합의 복수"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric4.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric4.xml:71
 msgctxt "0x000404b3"
 msgid "Hard in Hightown: Trouble in Skyhold"
-msgstr ""
+msgstr "하드 인 하이타운: 스카이홀드에서의 소동"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric5.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric5.xml:15
 msgctxt "0x00040502"
 msgid "Send the letter to Denerim. Getting this cipher will help Leliana find the killer."
-msgstr ""
+msgstr "데너림으로 편지를 보내세요. 렐리아나가 살인자를 찾는데 이 암호가 도움이 될 거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric5.xml
 #. PATH: SpecialistMissionInfo/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric5.xml:32
 msgctxt "0x00040559"
 msgid "Hard in Hightown: A Worthy Dwarf"
-msgstr ""
+msgstr "하드 인 하이타운: 드워프 워디"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric6.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric6.xml:110
 msgctxt "0x0004054f"
 msgid "We don't know if the guard was involved in the crime. Our agents can track down the knife's source."
-msgstr ""
+msgstr "경비대가 이 범죄에 연루되었는지 여부가 아직 밝혀지지 않았어요. 칼의 출처는 우리 요원들이 추척하게 합시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric6.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
@@ -2733,35 +2737,35 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric6.xml:134
 msgctxt "0x00040550"
 msgid "Our men can return the murder weapon to the city guard."
-msgstr ""
+msgstr "살해 흉기를 커크월 경비대에 돌려주겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric8.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric8.xml:100
 msgctxt "0x00040592"
 msgid "We want to question Worthy ourselves. Forget the guard; we'll catch him."
-msgstr ""
+msgstr "워디를 직접 심문하고 싶네요. 경비대는 신경쓰지 마세요. 그 자는 우리가 잡습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric8.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric8.xml:124
 msgctxt "0x00040594"
 msgid "We can help the city guard bring Worthy in."
-msgstr ""
+msgstr "경비대가 워디를 체포할 수 있도록 우리가 도움을 줄 수있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric_7.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric_7.xml:105
 msgctxt "0x0004055b"
 msgid "We should give this information to the Kirkwall guard. They'll want to arrest Worthy."
-msgstr ""
+msgstr "커크월의 경비대에게 이 정보를 전해야해요. 그들이 워디를 체포하게 합시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric_7.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric_7.xml:134
 msgctxt "0x0004055c"
 msgid "We should capture Worthy ourselves and question him about how he infiltrated Skyhold."
-msgstr ""
+msgstr "우리가 직접 워디를 붙잡아서 어떻게 스카이홀드에 잠입한 건지 알아내야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Vivienne\gen_ops_viv1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -3573,14 +3577,14 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_activation_armored_horse.xml:42
 msgctxt "0x00041d37"
 msgid "Flames of the Inquisition Charger"
-msgstr ""
+msgstr "심문회의 불꽃 군마"
 
 #. FILE: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_activation_bog_uni.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_activation_bog_uni.xml:90
 msgctxt "0x00041d3b"
 msgid "The \"Bog Unicorn\""
-msgstr ""
+msgstr "\"습지 유니콘\""
 
 #. FILE: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_activation_marketing_01_low.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -3594,7 +3598,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_activation_marketing_01_low.xml:32
 msgctxt "0x00041d49"
 msgid "Our soldiers will ensure the creature arrives safely."
-msgstr ""
+msgstr "우리 병사들이 그 생물체가 안전하게 도착하게 하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_activation_marketing_01_low.xml
 #. PATH: WarTableEntry/TitleReference
@@ -3608,7 +3612,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_activation_marketing_01_low.xml:128
 msgctxt "0x00041d48"
 msgid "I'll quietly make certain nothing interferes with the arrival."
-msgstr ""
+msgstr "제가 그 생물체가 도착하는데 지장이 없도록 조용히 확인하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_activation_marketing_02_low.xml
 #. PATH: WarTableEntry/TitleReference
@@ -3678,7 +3682,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_activation_red_hart.xml:61
 msgctxt "0x00041d42"
 msgid "The Red Hart"
-msgstr ""
+msgstr "붉은 숫사슴"
 
 #. FILE: DA3\DesignContent\Operations\Global\Nemesis\Calpernia\sec_nem_DumatShrine.xml
 #. PATH: WarTableEntry/TitleReference
@@ -3888,7 +3892,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Paranoid_nobleman_op.xml:13
 msgctxt "0x000402bd"
 msgid "Address a Nobleman's Concerns"
-msgstr ""
+msgstr "어느 귀족의 걱정거리"
 
 #. FILE: DA3\DesignContent\Operations\Global\Paranoid_nobleman_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -3896,34 +3900,36 @@ msgstr ""
 msgctxt "0x000402c0"
 msgid "We can take advantage of his raving. My spies can harass the refugees into moving somewhere else, to win Lord Kildarn's favor."
 msgstr ""
+"이 자의 분노를 이용해서 이득을 얻을 수 있을 것 같군요. 제 첩보원들을 보내 난민들을 괴롭혀서 다른곳으로 떠나게 하면 킬단 영주의 "
+"호의를 얻을 수 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Paranoid_nobleman_op.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Paranoid_nobleman_op.xml:110
 msgctxt "0x000402c2"
 msgid "We could send a few patrols, but I would prefer they help the refugees, not this Lord Kildarn."
-msgstr ""
+msgstr "순찰대를 좀 보낼 순 있습니다. 하지만 킬단 영주가 아니라 난민들을 돕는 편이 좋겠군요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Paranoid_nobleman_op.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Paranoid_nobleman_op.xml:139
 msgctxt "0x000402c1"
 msgid "Ah, yes, Lord Kildarn. A pariah even among his peers. Let us send a polite refusal and nothing more."
-msgstr ""
+msgstr "아, 맞네요, 킬단 영주. 같은 귀족들 사이에서도 외면받는 자입니다. 요청을 정중히 거절하고 그걸로 끝내죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_1.xml:10
 msgctxt "0x0003fbc1"
 msgid "This Carta clan could be useful to us. We should arrange a payoff."
-msgstr ""
+msgstr "이 카르타 집단은 쓸모있을 겁니다. 저들에게 보수를 지불하도록 하죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_1.xml:39
 msgctxt "0x0003fbe6"
 msgid "We can subdue this branch of the Carta with little difficulty."
-msgstr ""
+msgstr "제가 어렵지 않게 이 카르타 지부를 진압할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_1.xml
 #. PATH: WarTableEntry/TitleReference
@@ -3937,7 +3943,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_1.xml:149
 msgctxt "0x0003fbc2"
 msgid "We can't openly negotiate with the Carta, but we might get Orzammar's ambassador to do so on our behalf."
-msgstr ""
+msgstr "카르타와 직접적으로 협상할 수는 없지만, 우리를 대신해서 오즈마의 대사를 보낼 수는 있어요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -3993,7 +3999,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Race\gen_race_human_1.xml:20
 msgctxt "0x000408e4"
 msgid "The Inquisition isn't a name to throw around lightly. We should openly denounce these people."
-msgstr ""
+msgstr "사문회는 가볍게 들먹일 수 있는 이름이 아닙니다. 우리는 이런 자들을 공개적으로 비난 할 필요가 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_human_1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -4001,20 +4007,22 @@ msgstr ""
 msgctxt "0x000408e3"
 msgid "There are ways to indicate our displeasure without tipping our hand. I am not saying we send assassins, but the <i>rumor</i> of assassins…"
 msgstr ""
+"속내를 드러내 보이지 않고도 우리의 불쾌함을 표현할 수 있는 방법은 얼마든지 있습니다. 암살자를 보내자는 얘기가 아닙니다. 암살자에 대한 "
+"<i>소문</i>이라면 모를까…"
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_human_1.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Race\gen_race_human_1.xml:76
 msgctxt "0x000408cb"
 msgid "Deal with Relatives of the Trevelyans"
-msgstr ""
+msgstr "트레벨리안 가문의 친척 문제를 처리하라"
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_human_1.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Race\gen_race_human_1.xml:149
 msgctxt "0x000408e5"
 msgid "This sort of thing is inevitable. Your relations may become much more circumspect if we promise them future favors."
-msgstr ""
+msgstr "이건 불가피한 문제예요. 친척들에게 앞으로의 호의를 약속한다면, 훨씬 신중하게 행동할 거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_human_2_connections.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -6457,7 +6465,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\TheDales\Forest\dal_forest_emerald_tomb_ops.xml:13
 msgctxt "0x00043639"
 msgid "Investigate Elven Ruins"
-msgstr ""
+msgstr "엘프 유적 조사"
 
 #. FILE: DA3\DesignContent\Operations\TheDales\Forest\dal_forest_emerald_tomb_ops.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -6954,35 +6962,35 @@ msgstr ""
 #: DA3\DesignContent\Operations\WorldUnlocks\Wld_region_bog.xml:13
 msgctxt "0x0003fd39"
 msgid "Rescue Soldiers Missing in Ferelden"
-msgstr ""
+msgstr "페렐던 실종 병사 구출"
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\Wld_region_bog.xml
 #. PATH: WarTableEntry/LevelNameLocalizedString
 #: DA3\DesignContent\Operations\WorldUnlocks\Wld_region_bog.xml:33
 msgctxt "0x00029d7d"
 msgid "The Fallow Mire"
-msgstr ""
+msgstr "고요한 늪지"
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\Wld_region_bog.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\WorldUnlocks\Wld_region_bog.xml:99
 msgctxt "0x0003fd52"
 msgid "Other soldiers are volunteering to search for their lost comrades. They won't rest until they've found them."
-msgstr ""
+msgstr "병사들이 잃어버린 동료들을 찾는 일에 자원하고 있습니다. 동료를 찾기 전까지는 그만 둘 생각이 없어 보이는군요."
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\Wld_region_bog.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\WorldUnlocks\Wld_region_bog.xml:121
 msgctxt "0x0003fd4f"
 msgid "Send my people. A few scouts will move more quickly than a larger group could."
-msgstr ""
+msgstr "제 요원들을 보내도록 하죠. 다인원보다는 소수의 요원들을 보내는 편이 훨씬 빠르게 움직일 수 있을거예요."
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\Wld_region_bog.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\WorldUnlocks\Wld_region_bog.xml:143
 msgctxt "0x0003fd50"
 msgid "If I contact the local bann, she can send out search parties for the missing soldiers right away."
-msgstr ""
+msgstr "현지의 반에게 연락하면 그녀가 실종된 병사들을 수색할 대원들을 즉시 파견해 줄거예요."
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\dlc_region_blackemporium.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -7248,7 +7256,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\WorldUnlocks\wld_region_hinterlands.xml:13
 msgctxt "0x00035d4b"
 msgid "Scout the Hinterlands"
-msgstr ""
+msgstr "내륙지역 정찰"
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\wld_region_hinterlands.xml
 #. PATH: WarTableEntry/LevelNameLocalizedString
@@ -7269,7 +7277,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\WorldUnlocks\wld_region_stormcoast.xml:13
 msgctxt "0x00035d4d"
 msgid "Scout the Storm Coast"
-msgstr ""
+msgstr "폭풍우 해안 정찰"
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\wld_region_stormcoast.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -7277,6 +7285,8 @@ msgstr ""
 msgctxt "0x00035d4c"
 msgid "The Wardens are reclusive—but not untraceable. If there are signs of their passage on the Storm Coast, my agents will find them."
 msgstr ""
+"감시자들은 세상과 동떨어져 있는 자들이지만 추적이 불가능하지는 않습니다. 그들이 폭풍우 해안을 지나간 흔적이 있다면 제 요원들이 "
+"찾아내도록 하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\wld_region_westernapproach.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference

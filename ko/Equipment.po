@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-22 19:55+0000\n"
-"Last-Translator: 전진 <vanishintoair@gmail.com>\n"
+"PO-Revision-Date: 2021-01-25 15:02+0000\n"
+"Last-Translator: 불타는 수염 <brng_beard@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
 "Language: ko\n"
@@ -1510,14 +1510,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_WhiteFox.xml:6
 msgctxt "0x00024b09"
 msgid "Masterwork Fennec Fur"
-msgstr "명품 페넥 털가죽"
+msgstr "명품 사막여우 털가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Whitefox_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Whitefox_2.xml:6
 msgctxt "0x00044897"
 msgid "Fade-Touched Fennec Fur"
-msgstr "영계 접촉된 페넥 털가죽"
+msgstr "영계 접촉된 사막여우 털가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Whitefox_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -3594,7 +3594,7 @@ msgstr "스노우플뢰르 가죽"
 #: DA3\Equipment\Crafting\Materials\Leather\recipe_material_White_Fox_Fur.xml:6
 msgctxt "0x0001faa9"
 msgid "Fennec Fur"
-msgstr "페넥 털가죽"
+msgstr "사막여우 털가죽"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Wyvern_Webbing.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3872,7 +3872,7 @@ msgstr "오닉스"
 #: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Paragons_Luster.xml:6
 msgctxt "0x000185d4"
 msgid "Paragon's Luster"
-msgstr "파라곤의 광택"
+msgstr "파라곤의 영광석"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Paragons_Luster.xml
 #. PATH: RecipeMaterial/Description
@@ -15232,7 +15232,7 @@ msgstr ""
 #: DA3\Equipment\Items\Armors\Helms\Heavy\equip_helmet_heavy_t1_2.xml:6
 msgctxt "0x0001c38c"
 msgid "Free Marches Helmet"
-msgstr ""
+msgstr "자유동맹 투구"
 
 #. FILE: DA3\Equipment\Items\Armors\Helms\Heavy\equip_helmet_heavy_t1_3.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -18991,7 +18991,7 @@ msgstr ""
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Spider_eggs.xml:6
 msgctxt "0x00040c8d"
 msgid "Spider Eggs"
-msgstr ""
+msgstr "거미 알"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_The_Paragon_Aeducan.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -22314,9 +22314,10 @@ msgstr ""
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_maul_t2_7_unique.xml
 #. PATH: EquipItemAsset/DisplayName
 #: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_maul_t2_7_unique.xml:6
+#, fuzzy
 msgctxt "0x0004255b"
 msgid "The Last Stand"
-msgstr ""
+msgstr "최후의 저항"
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_maul_t2_7_unique.xml
 #. PATH: EquipItemAsset/Description

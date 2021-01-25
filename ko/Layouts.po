@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-23 15:27+0000\n"
-"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
+"PO-Revision-Date: 2021-01-25 15:02+0000\n"
+"Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1049,7 +1049,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\chr_mayor\layer0_chr_mayor_main.xml:441
 msgctxt "0x00026c5d"
 msgid "Mayor"
-msgstr ""
+msgstr "이장"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\chr_naturalist\layer0_chr_naturalist_main.xml
 #. PATH: AppearanceOverrideSpawnData/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
@@ -1070,7 +1070,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer1_dsg_global_schematic.xml:59
 msgctxt "0x0001e4fd"
 msgid "Village of Crestwood"
-msgstr ""
+msgstr "산마루숲 민가"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer1_dsg_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[2]/Text
@@ -1105,7 +1105,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer1_dsg_global_schematic.xml:580
 msgctxt "0x000391f5"
 msgid "Caer Bronach"
-msgstr ""
+msgstr "브로나크 성채"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer1_dsg_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[10]/Text
@@ -1119,7 +1119,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer1_dsg_global_schematic.xml:621
 msgctxt "0x00042413"
 msgid "The Rusted Horn"
-msgstr ""
+msgstr "녹슨 뿔"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -1140,7 +1140,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml:122
 msgctxt "0x0001e4de"
 msgid "Dead Man's Pass"
-msgstr ""
+msgstr "죽은 자의 고갯길"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[5]/Text
@@ -1161,7 +1161,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml:155
 msgctxt "0x0001e4d6"
 msgid "Old Market Road"
-msgstr ""
+msgstr "구 저잣거리"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[8]/Text
@@ -1217,14 +1217,14 @@ msgstr ""
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml:265
 msgctxt "0x0001e4ef"
 msgid "Caer Bronach"
-msgstr ""
+msgstr "브로나크 성채"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[18]/Text
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml:276
 msgctxt "0x0001e50c"
 msgid "The Flats"
-msgstr ""
+msgstr "평지"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[19]/Text
@@ -1259,14 +1259,14 @@ msgstr "읽기"
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_floodedvillage\layer1_dsg_floodedvillage_global_schematic.xml:53
 msgctxt "0x000303cf"
 msgid "Mayor's House"
-msgstr ""
+msgstr "이장의 자택"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_floodedvillage\layer1_dsg_floodedvillage_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[3]/Text
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_floodedvillage\layer1_dsg_floodedvillage_global_schematic.xml:79
 msgctxt "0x0001861b"
 msgid "Enter Flooded Caves"
-msgstr ""
+msgstr "범람한 동굴로 들어가기"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_keep\layer4_dsg_keep_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -1308,7 +1308,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_landmark_d\layer1_dsg_landmark_d_content_schematic.xml:43
 msgctxt "0x0002c275"
 msgid "Mayor's Old Home"
-msgstr ""
+msgstr "이장의 옛 자택"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_landmark_e\layer1_dsg_landmark_e_content_schematic.xml
 #. PATH: GetLocalizedStringIDData/Text
@@ -1371,7 +1371,7 @@ msgstr "여관 들어가기"
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_tavern\layer3_dsg_tavern_global_schematic.xml:186
 msgctxt "0x000419aa"
 msgid "Crestwood Mayor's Key Required"
-msgstr ""
+msgstr "산마루숲 이장의 열쇠가 필요함"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_tavern\layer3_dsg_tavern_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[3]/Text
@@ -1399,7 +1399,7 @@ msgstr "동굴"
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\map\fer_Wilderness_010_floor0.xml:832
 msgctxt "0x00037f6c"
 msgid "Caer Bronach"
-msgstr ""
+msgstr "브로나크 성채"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\map\fer_Wilderness_010_floor0.xml
 #. PATH: BWMapPinLocation[27]/TitleReference
@@ -1420,7 +1420,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\map\fer_Wilderness_010_floor0.xml:1968
 msgctxt "0x00029e67"
 msgid "Village of Crestwood"
-msgstr ""
+msgstr "산마루숲 민가"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\map\fer_Wilderness_010_floor0.xml
 #. PATH: BWMapPinLocation[42]/TitleReference
@@ -1455,7 +1455,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\map\fer_Wilderness_010_floor1.xml:25
 msgctxt "0x00040145"
 msgid "The Rusted Horn"
-msgstr ""
+msgstr "녹슨 뿔"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\qst_0650_adamant\layer5_qst_0650_adamant_meetwarden_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -3006,7 +3006,7 @@ msgstr "잠긴 상자"
 #: DA3\Layouts\Multiplayer\MPElvahn\MP2_Elvahn10\MP2_Elvahn10.xml:8289
 msgctxt "0x00043198"
 msgid "Elven Ruins"
-msgstr ""
+msgstr "엘프 유적"
 
 #. FILE: DA3\Layouts\Multiplayer\MPOrlais\MP2_Orlais10\MP2_Orlais10.xml
 #. PATH: BWMultiplayerLevelDescription/DisplayableName
@@ -6540,7 +6540,7 @@ msgstr ""
 #: DA3\Layouts\TheWesternApproach\dgn_l_120\design\layer1_dsg_regions_schematic.xml:162
 msgctxt "0x00036257"
 msgid "Coracavus"
-msgstr ""
+msgstr "코라카부스"
 
 #. FILE: DA3\Layouts\TheWesternApproach\dgn_l_120\design\layer6_dsg_codex_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -6568,7 +6568,7 @@ msgstr ""
 #: DA3\Layouts\TheWesternApproach\dgn_l_120\dgn_l_120.xml:5559
 msgctxt "0x00029d79"
 msgid "Coracavus"
-msgstr ""
+msgstr "코라카부스"
 
 #. FILE: DA3\Layouts\TheWesternApproach\dgn_l_120\dgn_l_120\layer12_dsg_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -6778,7 +6778,7 @@ msgstr ""
 #: DA3\Layouts\ThematicLevels\the_Bog_530\the_Bog_530.xml:8258
 msgctxt "0x000272fa"
 msgid "The Fallow Mire"
-msgstr ""
+msgstr "고요한 늪지"
 
 #. FILE: DA3\Layouts\ThematicLevels\the_DeepRoads\the_DeepRoads\dsg\layer5_dsg_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -7548,7 +7548,7 @@ msgstr ""
 #: DA3\Layouts\ThematicLevels\the_StormCoast_540\design\layer28_dsg_regions_schematic.xml:35
 msgctxt "0x00039657"
 msgid "Dragon Island"
-msgstr ""
+msgstr "용의 섬"
 
 #. FILE: DA3\Layouts\ThematicLevels\the_StormCoast_540\design\layer28_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[2]/Text
@@ -7583,7 +7583,7 @@ msgstr ""
 #: DA3\Layouts\ThematicLevels\the_StormCoast_540\design\layer28_dsg_regions_schematic.xml:112
 msgctxt "0x0003fab4"
 msgid "Apostate's Landing"
-msgstr ""
+msgstr "배교자의 상륙지"
 
 #. FILE: DA3\Layouts\ThematicLevels\the_StormCoast_540\design\layer28_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[9]/Text
@@ -8487,7 +8487,7 @@ msgstr ""
 #: DA3\Layouts\WorldMap\gen_da3_world_map\map\gen_da3_world_map_floor0.xml:533
 msgctxt "0x00029ed9"
 msgid "The Fallow Mire"
-msgstr ""
+msgstr "고요한 늪지"
 
 #. FILE: DA3\Layouts\WorldMap\gen_da3_world_map\map\gen_da3_world_map_floor0.xml
 #. PATH: BWMapPinArea[5]/TitleReference
@@ -9217,7 +9217,7 @@ msgstr ""
 #: da3_dlc_blue\Layouts\DLCBlue_Elven_Dungeon\design\layer14_dsg_regions_schematic.xml:131
 msgctxt "0x0004a2f2"
 msgid "Hidden Armory"
-msgstr ""
+msgstr "숨겨진 무기고"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_Elven_Dungeon\design\layer14_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[7]/Text
@@ -9469,7 +9469,7 @@ msgstr ""
 #: da3_dlc_blue\Layouts\DLCBlue_Solas_Dungeon\DLCBlue_Solas_Dungeon.xml:5962
 msgctxt "0x00049281"
 msgid "Elven Ruins"
-msgstr ""
+msgstr "엘프 유적"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_Solas_Dungeon\design\layer13_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text

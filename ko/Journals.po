@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-23 15:27+0000\n"
-"Last-Translator: gosusam <gosusam@gmail.com>\n"
+"PO-Revision-Date: 2021-01-25 15:02+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -387,7 +387,7 @@ msgstr "용병 요새"
 #: DA3\DesignContent\Journals\Ferelden\Fer_Wilderness_Main\fer_wild_regions.xml:30
 msgctxt "0x00038dc8"
 msgid "Regions in the Hinterlands"
-msgstr ""
+msgstr "힌터랜드 내 지역"
 
 #. FILE: DA3\DesignContent\Journals\Ferelden\Fer_Wilderness_Main\fer_wild_shards.xml
 #. PATH: JournalEntry/TitleReference
@@ -492,7 +492,7 @@ msgstr "박물학자"
 #: DA3\DesignContent\Journals\Ferelden\fer_Wilderness_010\fer010_regions.xml:13
 msgctxt "0x000383d1"
 msgid "Regions in Crestwood"
-msgstr ""
+msgstr "산마루숲 내 지역"
 
 #. FILE: DA3\DesignContent\Journals\Ferelden\fer_Wilderness_010\fer_010_OldCrestwoodFetch_journal.xml
 #. PATH: JournalEntry/TitleReference
@@ -1901,7 +1901,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_regions.xml:13
 msgctxt "0x000411bb"
 msgid "Regions in the Graves"
-msgstr ""
+msgstr "무덤지 내 지역"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_returntofairbanks.xml
 #. PATH: JournalEntry/TitleReference
@@ -2055,7 +2055,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_lq20.xml:13
 msgctxt "0x00031942"
 msgid "Caged Confession"
-msgstr ""
+msgstr "옥중 자백"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_redtemplar_slavers.xml
 #. PATH: JournalEntry/TitleReference
@@ -2272,7 +2272,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_regions.xml:13
 msgctxt "0x00037fe1"
 msgid "Regions in the Plains"
-msgstr ""
+msgstr "평야 내 지역"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_shards.xml
 #. PATH: JournalEntry/TitleReference
@@ -2475,7 +2475,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_regions.xml:13
 msgctxt "0x00038121"
 msgid "Regions in the Approach"
-msgstr ""
+msgstr "진입로 내 지역"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_researcher_find_dragon.xml
 #. PATH: JournalEntry/TitleReference
@@ -2489,7 +2489,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_researcher_high_dragon.xml:13
 msgctxt "0x0002e158"
 msgid "The Abyssal High Dragon"
-msgstr ""
+msgstr "심연의 고룡"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_researcher_ingredients1.xml
 #. PATH: JournalEntry/TitleReference
@@ -2594,7 +2594,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\ThematicLevels\Bog\the_bog_regions.xml:13
 msgctxt "0x00043b80"
 msgid "Regions in the Mire"
-msgstr ""
+msgstr "늪지 내 지역"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\DeepRoads\the_DeepRoads_Main.xml
 #. PATH: JournalEntry/TitleReference
@@ -2692,7 +2692,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_desertruins_regions.xml:13
 msgctxt "0x00041c84"
 msgid "Regions in the Wastes"
-msgstr ""
+msgstr "황무지 내 지역"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_camps.xml
 #. PATH: JournalEntry/TitleReference
@@ -2762,7 +2762,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_regions.xml:13
 msgctxt "0x0003a0b5"
 msgid "Regions in the Oasis"
-msgstr ""
+msgstr "오아시스 내 지역"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_shard_collection.xml
 #. PATH: JournalEntry/TitleReference
@@ -3056,7 +3056,7 @@ msgstr ""
 #: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_regions.xml:30
 msgctxt "0x000450ae"
 msgid "Regions in Frostback Basin"
-msgstr ""
+msgstr "프로스트백 분지 내 지역"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_shards.xml
 #. PATH: JournalEntry/TitleReference
@@ -3800,7 +3800,7 @@ msgstr ""
 "가지지 않고, 나는 손님으로서 풍족한 접대를 받았었지만, 이렇게나 실용적인 아바족이 좋은 음식 재료들을 밖에 방치해두고 있는 풍경은 "
 "끝까지 적응하기 힘든 부분이었다.\n"
 "\n"
-"—작가가 그린 그림이 참조된, 음식과 음료 위주의 마르키 드루사의 추가 여행일지에서 발췌"
+"—{i}작가가 직접 그린 삽화가 포함된, 음식과 음료 위주의 마르키 드루사의 추가 여행일지{/i}에서 발췌"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[60]/JournalTextData/TextReference
@@ -5818,7 +5818,7 @@ msgstr "영계 균열 닫힘"
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:10340
 msgctxt "0x000450b0"
 msgid "Regions discovered"
-msgstr ""
+msgstr "발견한 지역"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/ProgressiveTaskData/member[3]/ProgressiveTaskData/TextReference
@@ -11711,7 +11711,7 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Journals\JournalSystem\DLC_Red_JournalSystem.xml:14648
 msgctxt "0x00049c20"
 msgid "Regions discovered"
-msgstr ""
+msgstr "발견한 지역"
 
 #. FILE: da3_dlc_red\DesignContent\Journals\JournalSystem\DLC_Red_JournalSystem.xml
 #. PATH: JournalSystem/ProgressiveTaskData/member[42]/ProgressiveTaskData/TextReference
@@ -11914,7 +11914,7 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Journals\dlcred_regions_journal.xml:13
 msgctxt "0x00049c21"
 msgid "Regions in the Deep Roads"
-msgstr ""
+msgstr "깊은 길 내 지역"
 
 #. FILE: da3_dlc_red\DesignContent\Journals\level_3_wave_event\dlcred_level3WaveEvent.xml
 #. PATH: JournalEntry/TitleReference
