@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-25 15:02+0000\n"
-"Last-Translator: morri64 <morri64@naver.com>\n"
+"PO-Revision-Date: 2021-01-27 22:01+0000\n"
+"Last-Translator: Pureun Kim <sky4bluebird@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
 "Language: ko\n"
@@ -674,8 +674,7 @@ msgstr "너무 위험하다 여겨지지 않는다면, 제 정찰병들은 재�
 msgctxt "0x0003fde6"
 msgid "There is more than one way into Redcliffe Castle. With the right information, the Chargers can get inside with no one the wiser."
 msgstr ""
-"레드 클리프 성으로 진입하는 방법은 한두가지가 아니죠. 상황을 다 이해하는 사람이 없어도 올바른 정보만 있으면 돌격대는 진입 할 수 "
-"있습니다."
+"레드 클리프 성으로 진입하는 방법은 하나뿐이 아닙니다. 제대로 된 정보만 있다면 돌격대를 아무도 모르게 성 안으로 진입시킬 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe.xml
 #. PATH: WarTableEntry/TitleReference
@@ -689,7 +688,7 @@ msgstr "레드클리프 성 조사"
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe.xml:146
 msgctxt "0x0003fde8"
 msgid "There are Fereldan nobles who would support any effort to retake Redcliffe Castle from the mages."
-msgstr "마법사들로부터 레드 클리프 성을 되찾기 위한 그 어떤 노력도 아끼지 않고 지원할 페렐던 귀족들이 있습니다."
+msgstr "마법사들로부터 레드 클리프 성을 되찾기 위해서라면 그 어떤 노력도 아끼지 않고 지원해 줄만한 페렐던 귀족들이 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe_bonus.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -731,14 +730,14 @@ msgstr "세린팔 보루 조사"
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal.xml:117
 msgctxt "0x0003fdd1"
 msgid "This calls for a light touch. My scouts can make a distraction, letting the Chargers sneak in close."
-msgstr "날렵한 접근이 필요합니다. 돌격대가 은밀하게 진입하도록 제 정찰병들이 주의를 끌 수 있습니다."
+msgstr "이 일에는 조심스러운 접근이 필요합니다. 돌격대가 더 가까이 잠입할 수 있도록 제 정찰병들이 주의를 끌게 할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal.xml:146
 msgctxt "0x0003fdd0"
 msgid "I can send the Chargers in with Inquisition troops to bolster their numbers."
-msgstr "전 돌격대의 인원을 강화하기 위해 심문회의 병력들을 함께 보낼 수 있습니다."
+msgstr "돌격대의 인원을 강화하기 위해 심문회 병력을 함께 보낼 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal_bonus.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -974,6 +973,7 @@ msgstr "누구든지 주군으로 섬기도록"
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_dales_op.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_dales_op.xml:10
+#, fuzzy
 msgctxt "0x0004052f"
 msgid "Allow me to send the ambassadors, and I shall begin the arrangements for this consortium."
 msgstr "제가 대사를 파견할 수 있게 허가해 주시면, 제가 consortium을 위한 협정을 준비하겠습니다."
@@ -990,7 +990,7 @@ msgstr "황금빛 기회"
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_haven_op.xml:10
 msgctxt "0x0004046f"
 msgid "It would be a simple matter to collect secrets and sell them, with nothing traceable back to the Inquisition."
-msgstr "사문회를 추적할만한 흔적을 남기지 않고 비밀 정보를 수집하고 파는 것 쯤은 간단합니다."
+msgstr "심문회를 추적할만한 흔적을 남기지 않고 비밀 정보를 수집하고 파는 것 쯤은 간단합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_haven_op.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -1011,77 +1011,77 @@ msgstr "상인과 귀족의 호의를 이용해서 교역하는 일은 제 전�
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_haven_op.xml:95
 msgctxt "0x00040473"
 msgid "Gather Coin"
-msgstr "자금 모으기"
+msgstr "돈 모으기"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_op.xml:20
 msgctxt "0x000404b6"
 msgid "My family has earned coin as honest traders for generations. I would be happy to employ my skills on the Inquisition's behalf."
-msgstr ""
+msgstr "제 가문은 대대로 정직한 상인으로서 돈을 모았습니다. 제 기술이 심문회를 위해 쓰인다면 기쁠 것입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_op.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_op.xml:44
 msgctxt "0x000404b5"
 msgid "We have information many would pay dearly for. Let us sell anything that does not harm us in return."
-msgstr ""
+msgstr "우리에겐 많은 이들이 엄청난 대가를 지불할 정보가 있습니다. 우리에게 해가 되지 않는 정보를 팔아넘깁시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_op.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_op.xml:71
 msgctxt "0x000404b8"
 msgid "Gather Coin"
-msgstr "자금 모으기"
+msgstr "돈 모으기"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_op.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_op.xml:210
 msgctxt "0x000404ba"
 msgid "There are many wealthy patrons who would pay for our protection and even our good graces. Let them."
-msgstr ""
+msgstr "우리의 보호, 심지어는 우리와의 좋은 관계를 위해 비용을 댈 부유한 후원자가 많이 있습니다. 그렇게 하라고 합시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_tithe_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_tithe_op.xml:94
 msgctxt "0x00043a0d"
 msgid "Not everyone is open with their belief. But there are ways to reach out to them, if that is your wish."
-msgstr ""
+msgstr "모두가 자신의 신념을 드러내지는 않습니다. 하지만 당신이 원한다면 그것에게 접근할 방법이 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_tithe_op.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_tithe_op.xml:140
 msgctxt "0x00043a0e"
 msgid "It is a small matter to have a brother or sister accompany our recruitment efforts, offering an opportunity for those wishing to contribute."
-msgstr ""
+msgstr "징집 활동에 형제 자매를 동행하게 하는 것은 어려운 일이 아니며, 기부를 원하는 이들에게 기회를 주는 것이기도 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_tithe_op.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_tithe_op.xml:165
 msgctxt "0x00043a0f"
 msgid "The nobility are always willing to prove their faith through the power of their purse. Many know no other way."
-msgstr ""
+msgstr "귀족들은 항상 돈주머니의 힘으로 자신의 믿음을 증명하려고 합니다. 그들 중 다수는 다른 방법을 모르나 봅니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_tithe_op.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_tithe_op.xml:193
 msgctxt "0x00043a0b"
 msgid "Tithe of the Faithful"
-msgstr ""
+msgstr "신념의 십일조"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_western_approach_op.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_western_approach_op.xml:13
 msgctxt "0x00040529"
 msgid "All That Glitters"
-msgstr ""
+msgstr "반짝이는 모든 것들"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_western_approach_op.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_western_approach_op.xml:89
 msgctxt "0x00040526"
 msgid "I can send soldiers to set up a camp at the mine straight away, Inquisitor."
-msgstr ""
+msgstr "지금 바로 병사들이 광산 앞에 야영지를 세우도록 할 수 있습니다, 심문관."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_cloth_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -1089,27 +1089,28 @@ msgstr ""
 msgctxt "0x0004040b"
 msgid "Our agents can comb the black market. We risk finding nothing, but will have the best chance of finding rare cloths."
 msgstr ""
+"우리 요원들이 암시장을 샅샅이 뒤질 수 있습니다. 아무것도 얻지 못할 위험이 있지만, 희귀한 옷감을 찾기에는 가장 좋은 방법입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_cloth_op.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_cloth_op.xml:39
 msgctxt "0x00040409"
 msgid "I have contacts among the Halamshiral merchants. It's not as risky as the black market and should provide good options."
-msgstr ""
+msgstr "저는 할람시랄 상인들과 연줄이 있습니다. 암시장만큼 위험하진 않지만, 좋은 조건을 제시해야 할 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_cloth_op.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_cloth_op.xml:68
 msgctxt "0x0004040c"
 msgid "Send our forces to find or buy what we need directly. It's the least risky option."
-msgstr ""
+msgstr "군대를 보내 우리가 필요한 것을 직접 구하거나 구매하도록 합시다. 이것이 위험부담이 훨씬 적은 방법입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_cloth_op.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_cloth_op.xml:95
 msgctxt "0x0004040a"
 msgid "Gather Cloth"
-msgstr ""
+msgstr "옷감 모으기"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_herbs_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -1117,62 +1118,63 @@ msgstr ""
 msgctxt "0x000403f0"
 msgid "Our agents can comb the black market. We risk finding nothing, but will have the best chance of finding rare herbs."
 msgstr ""
+"우리 요원들이 암시장을 샅샅이 뒤질 수 있습니다. 아무것도 얻지 못할 위험이 있지만, 희귀한 약초을 찾기에는 가장 좋은 방법입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_herbs_op.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_herbs_op.xml:47
 msgctxt "0x000403f1"
 msgid "Gather Herbs"
-msgstr ""
+msgstr "약초 모으기"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_herbs_op.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_herbs_op.xml:182
 msgctxt "0x000403eb"
 msgid "I have contacts among the merchants in Denerim. It's not as risky as the black market and should provide good options."
-msgstr ""
+msgstr "저는 데네림 상인들과 연줄이 있습니다. 암시장만큼 위험하진 않지만, 좋은 조건을 제시해야 할 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_herbs_op.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_herbs_op.xml:211
 msgctxt "0x000403ef"
 msgid "Send our forces to gather what we need. It's the least risky option."
-msgstr ""
+msgstr "군대를 보내 우리가 필요한 것을 직접 모으도록 합시다. 이것이 위험부담이 훨씬 적은 방법입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_leather_op.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_leather_op.xml:13
 msgctxt "0x00040467"
 msgid "Gather Leather"
-msgstr ""
+msgstr "가죽 모으기"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_leather_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_leather_op.xml:158
 msgctxt "0x00040465"
 msgid "We should deal directly with the hunters in the region and merchants in the Emerald Graves."
-msgstr ""
+msgstr "그 지역의 사냥꾼들, 그리고 에메랄드 무덤의 상인들과 직접 거래해야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_leather_op.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_leather_op.xml:182
 msgctxt "0x0004046c"
 msgid "The black market is the best source for rare leathers, if also the riskiest."
-msgstr ""
+msgstr "암시장은 위험부담이 제일 크지만, 희귀한 가죽을 얻기에 가장 좋은 공급처입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_leather_op.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_leather_op.xml:211
 msgctxt "0x00040466"
 msgid "Send our forces to hunt or make the leather themselves. We have the skills, after all."
-msgstr ""
+msgstr "군대를 보내 사냥을 하거나 직접 가죽을 만들게 하십시오. 우리에겐 충분한 기술이 있으니 말입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_metal_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_metal_op.xml:15
 msgctxt "0x0004039a"
 msgid "I have contacts with the dwarves and many merchant houses. It's not as risky as the black market, and should provide good options."
-msgstr ""
+msgstr "저는 드워프 상인들과 연줄이 있습니다. 암시장만큼 위험하진 않지만, 좋은 조건을 제시해야 할 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_metal_op.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -1180,76 +1182,77 @@ msgstr ""
 msgctxt "0x0004039e"
 msgid "Our agents can comb the black market. We risk finding nothing, but will have the best chance of finding rare metals."
 msgstr ""
+"우리 요원들이 암시장을 샅샅이 뒤질 수 있습니다. 아무것도 얻지 못할 위험이 있지만, 희귀한 금속을 찾기에는 가장 좋은 방법입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_metal_op.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_metal_op.xml:63
 msgctxt "0x0004039f"
 msgid "Send our forces out to find what we need and mine it, if necessary. It's the least risky option."
-msgstr ""
+msgstr "군대를 보내 우리가 필요한 것을 찾도록 하고, 필요하다면 직접 채굴하도록 합시다. 이것이 위험부담이 훨씬 적은 방법입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_metal_op.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crafting\gen_repeatable_metal_op.xml:90
 msgctxt "0x0004039d"
 msgid "Gather Metals"
-msgstr ""
+msgstr "금속 모으기"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\wes_region_crafting_gather.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\wes_region_crafting_gather.xml:20
 msgctxt "0x0001cc4e"
 msgid "We should focus on finding metals in the Gamordan Peaks."
-msgstr ""
+msgstr "우린 가모르단 산맥에서 금속을 찾는데 집중해야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\wes_region_crafting_gather.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crafting\wes_region_crafting_gather.xml:47
 msgctxt "0x0001cc50"
 msgid "Western Approach Resources"
-msgstr ""
+msgstr "서부 진입로의 자원"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\wes_region_crafting_gather.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\wes_region_crafting_gather.xml:163
 msgctxt "0x0001cc4c"
 msgid "Send our forces out to look for whatever they can safely recover."
-msgstr ""
+msgstr "군대를 보내 안전히 회수할 수 있는 것이면 뭐든지 구해오도록 합시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\wes_region_crafting_gather.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crafting\wes_region_crafting_gather.xml:192
 msgctxt "0x0001cc4d"
 msgid "Let us concentrate on finding deep mushrooms."
-msgstr ""
+msgstr "지하 버섯을 찾는데 주력합시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\Halamshiral\gen_ham_briala.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\CritPathReactivity\Halamshiral\gen_ham_briala.xml:18
 msgctxt "0x0003fd60"
 msgid "A Whisper from Behind the Throne"
-msgstr ""
+msgstr "왕좌 뒤의 속삭임"
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\Halamshiral\gen_ham_briala.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3\DesignContent\Operations\Global\CritPathReactivity\Halamshiral\gen_ham_briala.xml:89
 msgctxt "0x0003fd8a"
 msgid "A message from Briala. I can send agents to the village. Quietly."
-msgstr ""
+msgstr "브리알라에게 보낼 전갈이 있습니다. 요원을 마을에 조용히 보낼 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\Halamshiral\gen_ham_celene.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\CritPathReactivity\Halamshiral\gen_ham_celene.xml:18
 msgctxt "0x0003fce0"
 msgid "A Favor Returned "
-msgstr ""
+msgstr "돌아온 호의 "
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\Halamshiral\gen_ham_celene.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3\DesignContent\Operations\Global\CritPathReactivity\Halamshiral\gen_ham_celene.xml:89
 msgctxt "0x0003fd2f"
 msgid "I know exactly what to send. We need only a messenger."
-msgstr ""
+msgstr "무엇을 보낼지 제가 정확히 알고 있습니다. 이제 전령만 있으면 됩니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\Halamshiral\gen_ham_gaspard.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -2539,28 +2542,28 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_bees.xml:10
 msgctxt "0x0003fc3f"
 msgid "I can send runners among the banns. If this weapon can help, it will be found."
-msgstr ""
+msgstr "제가 밀수업자를 들여보낼 수 있어요. 이 무기가 우리에게 도움이 된다면 찾아봐야겠죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_bees.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_bees.xml:42
 msgctxt "0x0003fc31"
 msgid "Red Jenny: Inquisition Needs Beeees!"
-msgstr ""
+msgstr "레드 제니: 심문회는 버어어어얼이 필요해!"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_bees.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_bees.xml:138
 msgctxt "0x0003fcdf"
 msgid "If he's peddling them to fighting forces, my people will find the trail."
-msgstr ""
+msgstr "그가 싸움이 벌어지는 곳마다 그 물건을 팔러 다니고 있다면 제 요원들이 그 흔적을 찾아낼 수 있을 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_bees.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_bees.xml:162
 msgctxt "0x0003fcd9"
 msgid "It's too large an area to cover. Bounty hunters are a simpler bet."
-msgstr ""
+msgstr "수색하기엔 지역이 너무 넓습니다. 현상금 사냥꾼을 쓰는 편이 더 간단할 것 같군요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\sera_personal_plot_op.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -2702,7 +2705,7 @@ msgstr "상인조합의 복수"
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric4.xml:71
 msgctxt "0x000404b3"
 msgid "Hard in Hightown: Trouble in Skyhold"
-msgstr "하드 인 하이타운: 스카이홀드에서의 소동"
+msgstr "하드 인 하이타운: 스카이홀드에서 벌어진 소동"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric5.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -3010,49 +3013,49 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_1.xml:13
 msgctxt "0x00040879"
 msgid "The Cult of Andraste"
-msgstr ""
+msgstr "안드라스테의 광신도들"
 
 #. FILE: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_1.xml:89
 msgctxt "0x00040876"
 msgid "This is a task best left to a few select agents knowledgeable regarding dangerous magic. I have just the ones in mind."
-msgstr ""
+msgstr "이번 일은 위험한 마법에 능통한 선택받은 요원들에게 맡기는 편이 좋겠습니다. 염두에 두고 있는 사람이 몇 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_1.xml:113
 msgctxt "0x00040878"
 msgid "I'm leery of what we might find in these passages, but we have enough soldiers for a search. They will simply need to be careful."
-msgstr ""
+msgstr "그 통로에서 뭘 찾게 될지 걱정스럽긴 하지만 수색할만한 병사들은 충분히 있습니다. 다만 조심할 필요는 있을 것 같습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_2.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_2.xml:13
 msgctxt "0x00040882"
 msgid "The Secrets of Andraste"
-msgstr ""
+msgstr "안드라스테의 비밀"
 
 #. FILE: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_2.xml:89
 msgctxt "0x00040885"
 msgid "We have agents with magical knowledge and the means to acquire texts. Let us work on this ourselves."
-msgstr ""
+msgstr "심문회는 마법 지식이 있는 요원들도, 원문을 얻어낼 수 있는 수단도 갖추고 있습니다. 우리가 직접 해보죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_2.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_2.xml:118
 msgctxt "0x00040886"
 msgid "I know of several Antivan scholars who can be discreet. They would happily translate the runes for us."
-msgstr ""
+msgstr "제가 아는 사람 중에 신중한 안티바 학자들이 몇 있어요. 그 사람들이라면 기꺼이 우리를 위해 룬을 해석해 줄 거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_3.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_3.xml:10
 msgctxt "0x00040892"
 msgid "As soon as we show interest in the area, others will follow. So let's go in force and occupy the islands."
-msgstr ""
+msgstr "우리가 그 장소에 관심을 보이는 순간 다른 사람들도 관심을 보일겁니다. 그러니 병사들을 파견하여 섬을 점령합시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_3.xml
 #. PATH: WarTableEntry/TitleReference
@@ -3066,14 +3069,14 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_3.xml:108
 msgctxt "0x0004088f"
 msgid "This requires stealth: a few skilled agents given enough time to quietly search the islands."
-msgstr ""
+msgstr "잠행이 필요합니다. 숙련된 요원들 몇 명을 보내 조용히 섬을 수색시키겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_3.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_3.xml:137
 msgctxt "0x00040890"
 msgid "I know of a few adventurers trustworthy enough to send to the islands. Let them search and report back to us."
-msgstr ""
+msgstr "섬으로 보낼 만큼 믿을만한 모험가 몇 명을 알고 있어요. 그들을 보내 수색시킨 뒤 보고하게 하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\Ops_judgment_Alexius.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -3374,7 +3377,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\KillCollection\dragonkills_op_1.xml:18
 msgctxt "0x00040508"
 msgid "Celebrate the Dragonslaying"
-msgstr ""
+msgstr "용 사냥을 기념하며"
 
 #. FILE: DA3\DesignContent\Operations\Global\KillCollection\dragonkills_op_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -3382,6 +3385,8 @@ msgstr ""
 msgctxt "0x00040507"
 msgid "Let us set up the trophies you've collected and put out the word: we are celebrating our dragonslayer. Fascinated nobles will do anything for an invitation."
 msgstr ""
+"용 사냥을 기념하는 의미로 당신이 모아온 전리품들을 장식해두고 사람들에게 알리겠습니다. 이걸 보려고 안달 난 귀족들은 초대장을 얻기 "
+"위해서라면 무슨 짓이라도 할 거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\KillCollection\dragonkills_op_1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -3389,6 +3394,7 @@ msgstr ""
 msgctxt "0x00040509"
 msgid "Wade and Herren are troublesome, but Wade's talent is undeniable. Send them whatever dragon materials we aren't using ourselves. "
 msgstr ""
+"웨이드와 헤렌은 골칫거리지만 웨이드의 재능은 부정할 수 없습니다. 우리가 쓰지 않는 용과 관련된 재료는 그들에게 보내도록 합시다. "
 
 #. FILE: DA3\DesignContent\Operations\Global\KillCollection\dragonkills_op_2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -3423,14 +3429,14 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\KillCollection\gen_ops_rifts_1.xml:10
 msgctxt "0x000404e9"
 msgid "Local nobility should take an interest in securing their lands. We can appeal to them for assistance."
-msgstr ""
+msgstr "해당 지역의 귀족들이라면 자신들의 땅을 안전하게 지키는데 관심을 가질거예요. 그들에게 도움을 요청하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\KillCollection\gen_ops_rifts_1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\KillCollection\gen_ops_rifts_1.xml:34
 msgctxt "0x000404ea"
 msgid "Our soldiers can do sweeps of areas formerly containing Fade rifts and eliminate any demons."
-msgstr ""
+msgstr "우리 병사들을 보내 이전에 영계 균열이 있던 지역을 쓸어버리고 악마를 한 마리도 남김없이 제거하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\KillCollection\gen_ops_rifts_1.xml
 #. PATH: WarTableEntry/TitleReference
@@ -3529,13 +3535,15 @@ msgstr ""
 msgctxt "0x00040120"
 msgid "I will send emissaries. Though the Free Marches cities have always been independent, earning the support of the most prosperous ones may be to our advantage."
 msgstr ""
+"사절단을 보내겠습니다. 비록 자유 동맹의 도시들은 항상 독립적이지만, 가장 번영한 도시의 자원을 얻을 수 있다면 우리에게 이익이 될 "
+"거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Kirkwall\kirkwall_ops_intro.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Kirkwall\kirkwall_ops_intro.xml:42
 msgctxt "0x0004011f"
 msgid "An Ally from Starkhaven"
-msgstr ""
+msgstr "스탁헤이븐과의 동맹"
 
 #. FILE: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_acquisition_dracolisk.xml
 #. PATH: WarTableEntry/TitleReference
@@ -3549,21 +3557,21 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_acquisition_nuggalope.xml:10
 msgctxt "0x00041e25"
 msgid "Having our soldiers place these lures in the designated areas is simple enough."
-msgstr ""
+msgstr "우리 병사들을 시켜 미끼를 지정 장소에 배치하는 건 아주 간단한 일입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_acquisition_nuggalope.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_acquisition_nuggalope.xml:32
 msgctxt "0x00041e26"
 msgid "If you wish the lures placed, it will be done."
-msgstr ""
+msgstr "미끼를 배치하길 원하신다면, 그렇게 하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_acquisition_nuggalope.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_acquisition_nuggalope.xml:54
 msgctxt "0x00041e27"
 msgid "Our allies will see the lure is properly placed and report well on the results."
-msgstr ""
+msgstr "우리 동료들이 미끼가 제대로 배치되었는지 확인하고 결과를 보고할 거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_acquisition_nuggalope.xml
 #. PATH: WarTableEntry/TitleReference
@@ -5122,6 +5130,8 @@ msgstr ""
 msgctxt "0x0003fbbd"
 msgid "We can divert lyrium sources from Hasmal. Without the Chantry or Order providing for them, the Inquisition will look more promising."
 msgstr ""
+"하스말로 공급되는 리륨을 다른 곳으로 돌릴 겁니다. 리륨을 공급해주는 챈트리나 기사단이 없다면, 심문회 쪽이 더 괜찮은 선택지로 "
+"생각되겠지요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -5129,20 +5139,21 @@ msgstr ""
 msgctxt "0x0003fbbe"
 msgid "They must see we share the same goals. We can spare a small group to assist their relief efforts."
 msgstr ""
+"그들에게 우리가 같은 목표를 가지고 있다는 것을 보여주어야 합니다. 소규모의 집단을 보내 그들의 구호 활동에 도움을 줄 수 있을 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_1.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_1.xml:68
 msgctxt "0x0003fbbf"
 msgid "If Hasmal's leaders put city resources toward the relief effort, the templars would have little reason to stay."
-msgstr ""
+msgstr "하스말의 지도자들이 도시의 자원을 구호 활동에 투입한다면, 템플러들이 그곳에 머무를 이유는 더 이상 없게 되죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_1.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_1.xml:95
 msgctxt "0x0003fba6"
 msgid "Negotiate with Hasmal's Templars"
-msgstr ""
+msgstr "하스말의 템플러들과 협상하라"
 
 #. FILE: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -5150,20 +5161,22 @@ msgstr ""
 msgctxt "0x0003fbf1"
 msgid "We can arrange safe passage from Hasmal—and let the city's leaders believe they owe us a favor."
 msgstr ""
+"하스말로부터 사람들을 안전하게 데리고 올 만한 경로를 마련하게 하겠습니다. 그 도시의 지도자들에게는 그들이 심문회에게 빚을 졌다고 "
+"생각하게 만듭시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_2.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_2.xml:44
 msgctxt "0x0003fbef"
 msgid "Hostility toward mages remains—but there are ways to travel without drawing notice."
-msgstr ""
+msgstr "마법사에 대한 적대심은 여전히 남아 있습니다. 하지만 주의를 끌지 않고 여행할 수 있는 방법이 없지는 않죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_2.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_2.xml:76
 msgctxt "0x0003fba7"
 msgid "Answer a Request from Hasmal"
-msgstr ""
+msgstr "하스말로부터 온 요청에 응답하라"
 
 #. FILE: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_2.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -5171,6 +5184,8 @@ msgstr ""
 msgctxt "0x0003fbee"
 msgid "We have a few templars of our own. Hasmal's templars will be comfortable working with them; they can ensure safe passage for the mages."
 msgstr ""
+"우리에게도 템플러들이 있습니다. 그들과 함께 일을 진행하는 편이 하스말의 템플러들에게도 편할 겁니다. 심문회의 템플러들을 보내 마법사들을 "
+"데려오기 위한 안전한 경로를 마련하게 하죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_3.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -6179,27 +6194,29 @@ msgstr ""
 msgctxt "0x0003fed4"
 msgid "They work for you; let them keep their supplies. We know little of this group. Perhaps instead they have knowledge worth sharing."
 msgstr ""
+"저들은 당신을 위해 일하는 자들이니 그 물자들은 저들이 보관하게 두세요. 우리에겐 아직 저 집단에 대한 정보가 너무 적습니다. 어쩌면 "
+"저들에게서 공유할만한 가치가 있는 지식을 얻을 수 있을지도 모르겠군요."
 
 #. FILE: DA3\DesignContent\Operations\StormCoast\storm_ops_blades_gift.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\StormCoast\storm_ops_blades_gift.xml:42
 msgctxt "0x0003fed0"
 msgid "An Offer from the Blades of Hessarian"
-msgstr ""
+msgstr "Blades of Hessarian으로부터의 제의"
 
 #. FILE: DA3\DesignContent\Operations\StormCoast\storm_ops_blades_gift.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\StormCoast\storm_ops_blades_gift.xml:124
 msgctxt "0x0003fed2"
 msgid "We cannot openly accept stolen goods. Of course, we have no way of returning them, so we may discreetly take found goods."
-msgstr ""
+msgstr "장물을 공개적으로 받을 순 없어요. 물론 다시 돌려줄 방법도 없으니, 그 물건들을 조심스럽게 가져오도록 합시다."
 
 #. FILE: DA3\DesignContent\Operations\StormCoast\storm_ops_blades_gift.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\StormCoast\storm_ops_blades_gift.xml:148
 msgctxt "0x0003fed3"
 msgid "We could use the resources. Our soldiers can deliver them."
-msgstr ""
+msgstr "우리가 그 자원들을 활용할 수 있을 것 같습니다. 병사들을 보내 가져오게 하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\StormCoast\storm_ops_blades_port.xml
 #. PATH: WarTableEntry/TitleReference
@@ -6382,6 +6399,8 @@ msgstr ""
 msgctxt "0x000402b0"
 msgid "We could move troops east to west without risking the mountains? Let's keep this road for our soldiers. They can repair it."
 msgstr ""
+"산을 오르지 않고도 동쪽에서 서쪽으로 병사들을 이동시킬 수 있는 겁니까? 우리 병사들이 이 길을 사용하게 합시다. 병사들에게 보수 작업을 "
+"시키겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\TheBog\Bog_ops_secure_mountain_route.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -6389,6 +6408,7 @@ msgstr ""
 msgctxt "0x000402af"
 msgid "Merchants would give a great deal for this route. They'd reward us handsomely for the location of the road."
 msgstr ""
+"상인들이라면 이 경로를 확보하기 위해 많은 돈을 지불할 거예요. 그들에게 길의 위치를 알려주면 후한 보수를 받을 수 있을 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\TheBog\Bog_ops_secure_mountain_route.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -6396,13 +6416,15 @@ msgstr ""
 msgctxt "0x000402ad"
 msgid "An unknown road? It would be perfect for our spies, if it remains secret. I can have my people clear the way."
 msgstr ""
+"알려지지 않은 길이라고요? 이 길을 계속 비밀로 두면 우리 첩보원들이 사용할만한 완벽한 길이 되겠는데요. 제가 부하들을 시켜 길을 "
+"터놓겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\TheBog\Bog_ops_secure_mountain_route.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\TheBog\Bog_ops_secure_mountain_route.xml:100
 msgctxt "0x000402ac"
 msgid "Secure a Route through the Frostbacks"
-msgstr ""
+msgstr "프로스트백을 통과하는 경로 확보"
 
 #. FILE: DA3\DesignContent\Operations\TheDales\Forest\Fairbanks\dal_fairbanks_agent_ops_brigand_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference

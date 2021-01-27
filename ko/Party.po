@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-22 19:55+0000\n"
-"Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
+"PO-Revision-Date: 2021-01-27 22:01+0000\n"
+"Last-Translator: morri64 <morri64@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -370,14 +370,11 @@ msgstr "정조준 사격"
 #. FILE: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x00042532"
 msgid ""
 "It takes a moment to line up the perfect shot, but it pays off with a devastating hit that bites even deeper against enemies who aren't injured yet.\n"
 "\n"
-msgstr ""
-"약간 시간이 걸리지만, 완벽한 사격을 가해 압도적인 피해를 입힙니다. 아직 다치지 않은 적에게는 더욱 큰 피해를 가합니다.\n"
-"\n"
+msgstr "약간 시간이 걸리지만, 완벽한 사격을 가해 압도적인 피해를 입힙니다. 피해를 입지 않은 적에게 추가 피해를 가합니다."
 
 #. FILE: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
@@ -452,13 +449,12 @@ msgstr "마무리 일격"
 #. FILE: DA3\Party\Rogue\Assassin\HeartSeeker\party_rogue_assassin_heartseeker_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Assassin\HeartSeeker\party_rogue_assassin_heartseeker_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x000424d2"
 msgid ""
 "You lash out hard with swift and deadly skill and then again against a wounded foe.\n"
 "\n"
 msgstr ""
-"재빠르고 살인적인 공격을 가합니다. 상처입은 대상은 한 번 더 공격합니다.\n"
+"재빠르고 치명적인 공격을 가합니다. 상처입은 대상은 한 번 더 공격합니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\Assassin\HeartSeeker\party_rogue_assassin_heartseeker_abilitydata.xml
@@ -543,6 +539,8 @@ msgstr ""
 msgctxt "0x0004268d"
 msgid "<font color=\"#BAAB7B\">Stored Damage: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">축적된 피해: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}%</font>\n"
 
 #. FILE: DA3\Party\Rogue\Assassin\MarkOfDeath\party_rogue_assassin_markofdeath_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -687,6 +685,8 @@ msgstr ""
 msgctxt "0x00042ab2"
 msgid "<font color=\"#BAAB7B\">Bleed Duration: </font><font color=\"#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">출혈 지속: </font><font color=\"#F5ECCE\">{CUSTOM0} "
+"초</font>\n"
 
 #. FILE: DA3\Party\Rogue\Assassin\SleepBomb\party_rogue_assassin_sleepbomb_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -873,13 +873,12 @@ msgstr "날카로운 송곳니"
 #. FILE: DA3\Party\Rogue\DualWeapon\ExplosiveStrike\party_rogue_dualweapon_explosivestrike_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\DualWeapon\ExplosiveStrike\party_rogue_dualweapon_explosivestrike_upgrade1_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x00042a34"
 msgid ""
 "If flanking, your Twin Fangs attack will keep your target's armor sundered from the blow.\n"
 "\n"
 msgstr ""
-"측후방에서 송곳니를 사용하면, 대상의 방어력이 감소합니다.\n"
+"측후방에서 쌍 송곳니를 사용하면, 대상의 방어력이 감소합니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\DualWeapon\ExplosiveStrike\party_rogue_dualweapon_explosivestrike_upgrade2_abilitydata.xml
@@ -946,6 +945,8 @@ msgid ""
 "You move status effects to nearby foes while stripping them from foes your daggers hack.\n"
 "\n"
 msgstr ""
+"단검으로 공격하는 대상에게서 상태 이상 효과를 제거하는 대신 근처의 다른 적들에게 옮깁니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\DualWeapon\Flurry\party_rogue_dualweapon_flurry_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -1039,9 +1040,12 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\DualWeapon\Parry\party_rogue_dualweapon_parry_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 #: DA3\Party\Rogue\DualWeapon\Parry\party_rogue_dualweapon_parry_upgrade2_abilitydata.xml:18
+#, fuzzy
 msgctxt "0x0004265f"
 msgid "<font color=\"#BAAB7B\">Cost: </font><font color=\"#F5ECCE\">{CUSTOM0} stamina per second</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">비용: </font><font color=\"#F5ECCE\">초당 기력 "
+"{CUSTOM0}</font>\n"
 
 #. FILE: DA3\Party\Rogue\FieldControl\CorrosiveWeapons\party_rogue_fieldcontrol_corrosiveweapons_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -3286,7 +3290,7 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\CrushingBlows\party_warrior_passive_crushingblows_abilitydata.xml:5
 msgctxt "0x00042840"
 msgid "Shield-Breaker"
-msgstr ""
+msgstr "방패 파괴자"
 
 #. FILE: DA3\Party\Warrior\Passives\CrushingBlows\party_warrior_passive_crushingblows_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3302,7 +3306,7 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\DeathLaugh\party_warrior_passive_deathlaugh_abilitydata.xml:5
 msgctxt "0x000428e4"
 msgid "Fervor"
-msgstr ""
+msgstr "광열"
 
 #. FILE: DA3\Party\Warrior\Passives\DeathLaugh\party_warrior_passive_deathlaugh_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3312,13 +3316,15 @@ msgid ""
 "When an enemy dies near you, the thrill of death spurs you to hit that much harder.\n"
 "\n"
 msgstr ""
+"적이 당신 근처에서 죽는다면 희열에 물들어 적들을 더 무참하게 공격할 수 있습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\DeathWish\party_warrior_passive_deathwish_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\Warrior\Passives\DeathWish\party_warrior_passive_deathwish_abilitydata.xml:5
 msgctxt "0x00042825"
 msgid "Warrior's Resolve"
-msgstr ""
+msgstr "전사의 결의"
 
 #. FILE: DA3\Party\Warrior\Passives\DeathWish\party_warrior_passive_deathwish_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3328,6 +3334,8 @@ msgid ""
 "You fight all the harder when you're hurting, gaining stamina when you lose health.\n"
 "\n"
 msgstr ""
+"당신은 상처를 입었음에도 더욱 열심히 싸웁니다. 체력을 잃을 때 기력을 회복합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\DeathWish\party_warrior_passive_deathwish_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -3357,7 +3365,7 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\FinalBreath\party_warrior_passive_finalbreath_abilitydata.xml:5
 msgctxt "0x000428cd"
 msgid "The Last Sacrifice"
-msgstr ""
+msgstr "최후 희생"
 
 #. FILE: DA3\Party\Warrior\Passives\FinalBreath\party_warrior_passive_finalbreath_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3367,13 +3375,15 @@ msgid ""
 "Even should you fall, you give your allies the strength to fight on harder in your name.\n"
 "\n"
 msgstr ""
+"쓰러질 때마저도, 당신은 자신을 대신해 동료에게 싸울 힘을 불어넣습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\Fortify\party_warrior_passive_fortify_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\Warrior\Passives\Fortify\party_warrior_passive_fortify_abilitydata.xml:5
 msgctxt "0x00042896"
 msgid "Untouchable Defense"
-msgstr ""
+msgstr "범접불가의 방어"
 
 #. FILE: DA3\Party\Warrior\Passives\Fortify\party_warrior_passive_fortify_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3383,13 +3393,15 @@ msgid ""
 "They can't kill what they can't hit. You get a bonus to your maximum guard.\n"
 "\n"
 msgstr ""
+"타격조차 입힐 수 없으면 죽일 수도 없는 법입니다. 당신의 최대 방어도가 증가합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\Guts\party_warrior_passive_guts_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\Warrior\Passives\Guts\party_warrior_passive_guts_abilitydata.xml:5
 msgctxt "0x000428bd"
 msgid "Unyielding"
-msgstr ""
+msgstr "불굴"
 
 #. FILE: DA3\Party\Warrior\Passives\Guts\party_warrior_passive_guts_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3399,6 +3411,8 @@ msgid ""
 "An attack that would bring you down instead leaves you with a small amount of health, and you are immune to all damage for a short time.\n"
 "\n"
 msgstr ""
+"죽음에 달하는 피해를 받으면, 소량의 체력을 남기고 짧은 시간 동안 무적이 됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\Guts\party_warrior_passive_guts_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -3412,14 +3426,14 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\Guts\unique_item_guts_abilitydata.xml:5
 msgctxt "0x0004b514"
 msgid "Resist a lethal strike once every 60 seconds."
-msgstr ""
+msgstr "60초에 한 번만 치명적인 일격에 저항합니다."
 
 #. FILE: DA3\Party\Warrior\Passives\Hamstring\party_warrior_passive_hamstring_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\Warrior\Passives\Hamstring\party_warrior_passive_hamstring_abilitydata.xml:5
 msgctxt "0x0004287c"
 msgid "Hamstring"
-msgstr ""
+msgstr "슬건"
 
 #. FILE: DA3\Party\Warrior\Passives\Hamstring\party_warrior_passive_hamstring_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3429,13 +3443,15 @@ msgid ""
 "When you attack a target from behind, you leave them slowed.\n"
 "\n"
 msgstr ""
+"대상을 뒤에서 공격하면, 대상이 둔화됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\HardArmor\party_warrior_passive_hardarmor_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\Warrior\Passives\HardArmor\party_warrior_passive_hardarmor_abilitydata.xml:5
 msgctxt "0x000428bb"
 msgid "Adamant"
-msgstr ""
+msgstr "굳건함"
 
 #. FILE: DA3\Party\Warrior\Passives\HardArmor\party_warrior_passive_hardarmor_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3445,13 +3461,15 @@ msgid ""
 "You've trained hard, and you know how to make the most of whatever armor you're wearing.\n"
 "\n"
 msgstr ""
+"부단히 훈련을 거듭해온 당신은 어떠한 방어구를 입던 최대한의 숙련도로 전투에 응용합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\IntimidatingKiller\party_warrior_passive_intimidatingkiller_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\Warrior\Passives\IntimidatingKiller\party_warrior_passive_intimidatingkiller_abilitydata.xml:5
 msgctxt "0x000428e6"
 msgid "Terrifying Fury"
-msgstr ""
+msgstr "귀기서린 분노"
 
 #. FILE: DA3\Party\Warrior\Passives\IntimidatingKiller\party_warrior_passive_intimidatingkiller_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3461,6 +3479,8 @@ msgid ""
 "Your critical strikes have a chance to cause a gory mess and send nearby enemies fleeing in panic.\n"
 "\n"
 msgstr ""
+"당신이 가하는 치명타가 확률적으로 주변에 유혈을 흩뿌려, 적들이 겁에 질려 도망치게 합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\IntimidatingKiller\party_warrior_passive_intimidatingkiller_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -3557,6 +3577,8 @@ msgid ""
 "You've learned how to batter through your enemy's defenses, doing more damage to their guard with every hit.\n"
 "\n"
 msgstr ""
+"당신은 적의 수비를 뚫는 방법에 통달했습니다. 적들의 방어도에 추가 피해를 줍니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\Templar\party_warrior_passive_templar_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -3573,6 +3595,8 @@ msgid ""
 "Your righteous fervor inspires the entire party to fight harder against demons.\n"
 "\n"
 msgstr ""
+"당신의 정의로운 열광이 아군이 악마와 맞설 때 더욱 열심히 싸우도록 독려합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\TurnTheBlade\party_warrior_passive_turntheblade_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
