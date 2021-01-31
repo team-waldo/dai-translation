@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-30 00:01+0000\n"
-"Last-Translator: morri64 <morri64@naver.com>\n"
+"PO-Revision-Date: 2021-01-31 06:01+0000\n"
+"Last-Translator: 큡수뎃 <quoobt@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2410,6 +2410,8 @@ msgid ""
 "Activating Flask of Frost also taunts all nearby foes to attack you.\n"
 "\n"
 msgstr ""
+"서리 비약 발동 시에 주변의 적들을 도발합니다. 도발 당한 적들은 시전자를 공격합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\Stalker\AspectOfDespair\party_rogue_stalker_aspectofdespair_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -2426,6 +2428,8 @@ msgid ""
 "Shattering enemies while Flask of Frost is active deals damage to other nearby enemies.\n"
 "\n"
 msgstr ""
+"서리 비약의 효과를 받고 있을 때 얼어붙은 적을 깨부순다면, 가까이 있던 적들도 피해를 입습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\Stalker\AspectOfPride\party_rogue_stalker_aspectofpride_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -2442,6 +2446,9 @@ msgid ""
 "Flask of Lightning is more concentrated, making time almost stop around you. Each enemy you damage while the effect is active takes additional electricity damage when it ends.\n"
 "\n"
 msgstr ""
+"농축된 번개 비약의 효과로 주변의 시간이 멈춘 듯이 느껴집니다. 이 시간 동안 당신에게 피해를 입은 적들은 효과가 끝날 때 추가 전기 "
+"피해를 입습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\Stalker\AspectOfPride\party_rogue_stalker_aspectofpride_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -2465,6 +2472,8 @@ msgid ""
 "Flask of Lightning lasts longer and knocks back enemies that you strike while it is active.\n"
 "\n"
 msgstr ""
+"번개 비약의 효과가 더 오래 지속됩니다. 번개 비약의 효과 아래서 공격한 적들이 뒤로 밀려납니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\Stalker\AspectOfRage\party_rogue_stalker_aspectofrage_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -2481,6 +2490,8 @@ msgid ""
 "While Flask of Fire is active, all of your abilities have no cooldown.\n"
 "\n"
 msgstr ""
+"화염 비약의 효과를 받고 있을 때, 모든 능력의 재사용 대기 시간이 사라집니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\Stalker\AspectOfRage\party_rogue_stalker_aspectofrage_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -2497,6 +2508,8 @@ msgid ""
 "Each unique ability you use while Flask of Fire is active increases its duration.\n"
 "\n"
 msgstr ""
+"화염 비약의 효과 아래서 발동시키는 모든 고유 능력의 지속 시간이 연장됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\Stalker\FrozenBrew\party_rogue_stalker_frozenbrew_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -2513,6 +2526,9 @@ msgid ""
 "This flask coats you in an icy skin that increases your armor and freezes enemies that strike you in melee range. You can't use this ability while another elixir is active.\n"
 "\n"
 msgstr ""
+"서리 비약이 당신의 피부를 얼음으로 에워싸 방어력을 증가시키고, 당신의 근접 범위에서 공격하는 적들을 빙결시킵니다. 다른 비약의 효과를 "
+"받고 있을 때는 이 능력을 사용할 수 없습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\Stalker\LightningDraught\party_rogue_stalker_lightningdraught_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -2529,6 +2545,9 @@ msgid ""
 "This flask sends you into a heightened state of incredible speed. Everyone on the battlefield except you moves much more slowly for a short time. You can't use this ability while another elixir is active.\n"
 "\n"
 msgstr ""
+"번개 비약이 당신을 엄청난 체감 속도의 고조된 상태로 끌어올립니다. 일정 시간 동안 전장의 다른 대상은 당신보다 훨씬 느리게 움직입니다. "
+"다른 비약의 효과를 받고 있을 때는 이 능력을 사용할 수 없습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\Stalker\RageTonic\party_rogue_stalker_ragetonic_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -2545,6 +2564,9 @@ msgid ""
 "This flask coats you in flames that spur you to frenzied action. For a short time, your abilities cost no stamina, and enemies who attack you are knocked backward. You can't use this ability while another elixir is active.\n"
 "\n"
 msgstr ""
+"화염 비약이 신체를 불로 휩싸 폭발적인 힘을 다루게 합니다. 일정 시간 동안 당신을 공격한 적들이 뒤로 밀려나고, 당신의 모든 능력이 "
+"기력을 소모하지 않습니다. 다른 비약의 효과를 받고 있을 때는 이 능력을 사용할 수 없습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\Support\Evade\Upgrade1\party_rogue_support_evade_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -2638,7 +2660,7 @@ msgstr ""
 #: DA3\Party\Warrior\Battlemaster\InspiringHorn\party_warrior_battlemaster_InspiringHorn_abilitydata.xml:5
 msgctxt "0x00042882"
 msgid "Horn of Valor"
-msgstr ""
+msgstr "용맹의 뿔피리"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\InspiringHorn\party_warrior_battlemaster_InspiringHorn_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -2648,6 +2670,8 @@ msgid ""
 "Your war horn's blast rings across the battlefield, giving allies the strength to fight harder.\n"
 "\n"
 msgstr ""
+"전장에 뿔피리의 경적을 널리 퍼뜨려 전투에서 더욱 힘차게 싸우도록 아군을 북돋습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\InspiringHorn\party_warrior_battlemaster_InspiringHorn_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -2661,7 +2685,7 @@ msgstr ""
 #: DA3\Party\Warrior\Battlemaster\InspiringHorn\party_warrior_battlemaster_inspiringhorn_upgrade1_abilitydata.xml:5
 msgctxt "0x00042884"
 msgid "That's the Spirit"
-msgstr ""
+msgstr "굳센 마음가짐으로"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\InspiringHorn\party_warrior_battlemaster_inspiringhorn_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -2671,6 +2695,8 @@ msgid ""
 "Your horn's blast calls your allies to even greater glory.\n"
 "\n"
 msgstr ""
+"뿔피리의 경적이 아군을 한층 더 힘차게 북돋습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\InspiringHorn\party_warrior_battlemaster_inspiringhorn_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -2684,7 +2710,7 @@ msgstr ""
 #: DA3\Party\Warrior\Battlemaster\InspiringHorn\party_warrior_battlemaster_inspiringhorn_upgrade2_abilitydata.xml:5
 msgctxt "0x0004843f"
 msgid "Fortifying Blast"
-msgstr ""
+msgstr "증강의 진동"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\InspiringHorn\party_warrior_battlemaster_inspiringhorn_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -2694,6 +2720,8 @@ msgid ""
 "Horn of Valor now grants guard to your allies each time they deal damage.\n"
 "\n"
 msgstr ""
+"뿔피리를 들은 아군은 적을 공격할 때마다 방어도를 쌓게 됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\IntimidatingShout\party_warrior_battlemaster_intimidatingshout_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference

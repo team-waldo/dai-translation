@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-30 00:01+0000\n"
+"PO-Revision-Date: 2021-01-31 06:01+0000\n"
 "Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
@@ -709,14 +709,14 @@ msgstr "베나토리 동맹과 협상"
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe_bonus.xml:115
 msgctxt "0x0003fdf6"
 msgid "Arl Wulff is a good man. If we approach him, he will make amends."
-msgstr "율리프 백작은 좋은 사람입니다. 우리가 그와 교섭 한다면 보상을 할 것입니다."
+msgstr "울프 백작은 좋은 사람입니다. 우리가 그와 교섭 한다면 보상을 할 것입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe_bonus.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe_bonus.xml:144
 msgctxt "0x0003fdf9"
 msgid "Arl Wulff should be tried and executed. This is the price of doing business with the Venatori."
-msgstr "베나토리와 거래를 했던 대가로 율리프 백작은 처형되야 마땅합니다."
+msgstr "베나토리와 거래를 했던 대가로 울프 백작은 처형돼야 마땅합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal.xml
 #. PATH: WarTableEntry/TitleReference
@@ -744,7 +744,7 @@ msgstr "돌격대의 인원을 강화하기 위해 심문회 병력을 함께 �
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal_bonus.xml:10
 msgctxt "0x0003fdd6"
 msgid "The Chargers know what they're doing. I can pass them information and send them off hunting."
-msgstr "돌격대는 충분한 실력이 있습니다. 전 그들에게 정보를 지닌 채 사냥에 참여 할 수 있게 하겠습니다."
+msgstr "돌격대는 충분한 실력이 있습니다. 그들에게 정보를 주고 사냥에 참여할 수 있게 하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal_bonus.xml
 #. PATH: WarTableEntry/TitleReference
@@ -3804,21 +3804,21 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\OrlesianNobles\gen_ops_orlais_noble1.xml:18
 msgctxt "0x00040821"
 msgid "A Memorial for Haven"
-msgstr ""
+msgstr "헤이븐을 위한 추모비"
 
 #. FILE: DA3\DesignContent\Operations\Global\OrlesianNobles\gen_ops_orlais_noble1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\OrlesianNobles\gen_ops_orlais_noble1.xml:90
 msgctxt "0x00040867"
 msgid "I can do some fundraising for the project. And we should send a representative for the ribbon-cutting."
-msgstr ""
+msgstr "이 일을 위해 모금을 준비시킬 수 있어요. 그리고 대리인을 보내 준공식을 치르도록 하죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\OrlesianNobles\gen_ops_orlais_noble1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\OrlesianNobles\gen_ops_orlais_noble1.xml:119
 msgctxt "0x00040865"
 msgid "I'm sure I can get some volunteers from our ranks to help with construction."
-msgstr ""
+msgstr "우리 병사들 가운데 지원자를 선발해서 추모비 세우는 일을 돕게 하지요."
 
 #. FILE: DA3\DesignContent\Operations\Global\OrlesianNobles\gen_ops_orlais_noble2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -3960,49 +3960,49 @@ msgstr "카르타와 직접적으로 협상할 수는 없지만, 우리를 대�
 #: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_2.xml:10
 msgctxt "0x0003fc4a"
 msgid "The comte of Jader would be very grateful for warning about a lyrium trade on the Storm Coast."
-msgstr ""
+msgstr "제이더의 백작에게 폭풍 해안의 리륨 거래에 대해 경고해 주면 매우 감사해할 거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_2.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_2.xml:37
 msgctxt "0x0003fbe8"
 msgid "Business with the Carta"
-msgstr ""
+msgstr "카르타와 손잡다"
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_2.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_2.xml:115
 msgctxt "0x0003fc4b"
 msgid "We can put soldiers in place to ambush the buyers."
-msgstr ""
+msgstr "병사들을 배치시켜 리륨을 구매하려는 자들을 기습합시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_2.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_2.xml:149
 msgctxt "0x0003fbf8"
 msgid "I can plant an agent with the Carta and follow the buyer back to their lair."
-msgstr ""
+msgstr "카르타에 요원을 하나 심어두고 리륨을 구매하려는 자들이 은신처로 돌아갈 때 추적하게 하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_3.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_3.xml:10
 msgctxt "0x0003fc7d"
 msgid "Our agents can scout the road to Orzammar and wipe out this ambush before it happens."
-msgstr ""
+msgstr "우리 요원들이 오즈마로 향하는 길을 정찰하고, 일이 벌어지기 전 미리 손을 쓸 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_3.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_3.xml:34
 msgctxt "0x0003fc7e"
 msgid "We should add our own soldiers to the Orzammar ambassador's escort."
-msgstr ""
+msgstr "오즈마의 대사를 호위하는 병사의 수를 늘려야겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_3.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Race\gen_race_dwarf_3.xml:71
 msgctxt "0x0003fc80"
 msgid "The Dasher"
-msgstr ""
+msgstr "대셔"
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_human_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -4388,7 +4388,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\Trainers\gen_ops_trainer_champion.xml:13
 msgctxt "0x000407d9"
 msgid "Inspire"
-msgstr ""
+msgstr "사람들을 고취시켜라"
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\Trainers\gen_ops_trainer_champion.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -4396,20 +4396,22 @@ msgstr ""
 msgctxt "0x000407df"
 msgid "If I know Lord Chancer, he'll want roast boar stuffed with apples. That the guests hunt and kill for themselves."
 msgstr ""
+"제가 챈서 경을 제대로 알고 있는 거라면, 그는 사과를 채운 구운 멧돼지요리를 좋아합니다. 물론 손님들이 직접 사냥해온 것으로 만든 "
+"것이어야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\Trainers\gen_ops_trainer_champion.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\Trainers\gen_ops_trainer_champion.xml:110
 msgctxt "0x000407e0"
 msgid "We're not having a party. There's no time."
-msgstr ""
+msgstr "파티는 열지 않을 겁니다. 그럴 시간도 없고요."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\Trainers\gen_ops_trainer_champion.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\Trainers\gen_ops_trainer_champion.xml:142
 msgctxt "0x0004080f"
 msgid "Or I could arrange for an elegant gathering, with fine food and well-considered party favors."
-msgstr ""
+msgstr "아니면 제가 훌륭한 음식과 정성스럽게 준비한 파티 선물을 곁들인 품격있는 모임을 준비할 수 있어요."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\Trainers\gen_ops_trainer_knight_enchanter.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -4550,13 +4552,14 @@ msgstr ""
 msgctxt "0x000407e5"
 msgid "Do not subject more to this. Men may volunteer but they don't know the truth of it. They won't until it's too late."
 msgstr ""
+"저는 더 많은 자들이 이 길에 들어서게 하고 싶지 않습니다. 많은 자들이 진실을 모른채 자원하겠지요. 그리고 깨달았을 땐 이미 늦습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\Trainers\gen_ops_trainer_templar.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\Trainers\gen_ops_trainer_templar.xml:42
 msgctxt "0x000407dd"
 msgid "Endure"
-msgstr ""
+msgstr "인내"
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\Trainers\gen_ops_trainer_templar.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -4564,6 +4567,8 @@ msgstr ""
 msgctxt "0x000407e4"
 msgid "Ser is right. Can we afford to risk it? The more of our soldiers can stand against magic, the greater our chances of defeating Corypheus and the Venatori."
 msgstr ""
+"서의 말이 맞습니다. 우리에겐 이런저런 위험을 감수할만한 여유가 없어요. 더 많은 병사들이 마법에 저항할 수 있는 능력을 갖게 된다면 "
+"코리피어스와 베나토리를 처리할 수 있는 가능성도 더 올라가는 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_influence_merchant.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -4759,14 +4764,14 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_region_dagna.xml:10
 msgctxt "0x0002b329"
 msgid "A full retinue will secure her safety along the Imperial Highway."
-msgstr ""
+msgstr "수행단을 보내 제국 도로를 따라 그녀를 안전하게 데려오게 하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_region_dagna.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_region_dagna.xml:35
 msgctxt "0x0002b328"
 msgid "Acquire the Arcanist"
-msgstr ""
+msgstr "비전학자를 영입하라"
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_region_dagna.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -4774,6 +4779,8 @@ msgstr ""
 msgctxt "0x0002b32a"
 msgid "To bar passage, they must know she's there. They will not."
 msgstr ""
+"지주들이 비전학자가 자신들의 영지를 가로질러 가지 못하도록 막으려면, 먼저 그녀가 그곳에 있다는 걸 알아내야 가능합니다. 제가 그렇게 "
+"하도록 두지 않겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_region_dagna.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -4781,6 +4788,8 @@ msgstr ""
 msgctxt "0x0002b32b"
 msgid "Alliance can overwhelm any concern. The owners of where she will travel need only be convinced of the worth of pleasing us."
 msgstr ""
+"우리에게 동맹이 있는 한, 아무것도 걱정할 필요 없어요. 그녀가 지나쳐오게 될 영지의 지주들에게 우리를 기쁘게 하는 일이 얼마나 가치 "
+"있는 일인지에 대해 확실히 알려주도록 하죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_region_dagna_into_the_fade.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -5214,7 +5223,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_3.xml:34
 msgctxt "0x0003fc89"
 msgid "The goodwill garnered through this action could reflect well on the Inquisition—if we let the right people hear of it."
-msgstr "적절한 사람들의 귀에 들어가게 할 수만 있다면, 템플러들의 행동을 통해 얻어낸 호의를 심문회를 향해 가져올 수 있을 거예요."
+msgstr "적절한 사람들의 귀에 들어가게 할 수만 있다면, 템플러들의 행동을 통해 얻어낸 호의를 심문회 쪽으로 가져올 수 있을 거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_3.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -5235,21 +5244,21 @@ msgstr "기사단의 의무"
 #: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_4.xml:13
 msgctxt "0x0003fbab"
 msgid "Rumors of Maleficarum"
-msgstr ""
+msgstr "말레피카룸에 대한 소문"
 
 #. FILE: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_4.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_4.xml:85
 msgctxt "0x0003fcff"
 msgid "Blood magic requires a quick, decisive response. Our templars can handle it."
-msgstr ""
+msgstr "혈마법이라면 신속하고 결단력있는 대응이 필요합니다. 우리 템플러들이 처리하게 하죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_4.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_4.xml:102
 msgctxt "0x0003fbad"
 msgid "False Accusations"
-msgstr ""
+msgstr "거짓 비난"
 
 #. FILE: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_4.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -5257,13 +5266,15 @@ msgstr ""
 msgctxt "0x0003fcfe"
 msgid "Nowadays, a mage sneezes and someone cries blood magic. My agents will investigate first—and if necessary, bring in templars."
 msgstr ""
+"요즘은 마법사가 재채기만 해도 누군가가 혈마법이라고 난리를 치잖아요. 제 요원들에게 먼저 조사를 시키고, 필요하다면 그 때 템플러를 "
+"투입하죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_5.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_5.xml:95
 msgctxt "0x0003fd14"
 msgid "Lady Dahlia claims ignorance of her daughter's political leanings. I doubt that's true."
-msgstr ""
+msgstr "레이디 달리아는 딸의 정치적 성향을 모른다고 주장하지만, 전 그게 사실인지 의심스러워요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_5.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
@@ -5277,7 +5288,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_5.xml:119
 msgctxt "0x0003fd15"
 msgid "My agents will infiltrate the mage groups spreading the rumors."
-msgstr ""
+msgstr "소문을 퍼트리고 있는 마법사 집단에 제 요원을 잠입시키겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_6.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -5291,63 +5302,63 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_01.xml:13
 msgctxt "0x0003fdc5"
 msgid "New to the Crew: A Young Hopeful"
-msgstr ""
+msgstr "앞으로가 기대되는 젊은 신참"
 
 #. FILE: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_01.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_01.xml:90
 msgctxt "0x0003fdc7"
 msgid "If the boy knows where they are, outfit him. It is a minor threat."
-msgstr ""
+msgstr "그 소년이 도적 떼의 위치를 알고 있는거라면, 장비를 쥐어주도록 하죠. 그렇게 위험한 일은 아니니까요."
 
 #. FILE: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_01.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_01.xml:114
 msgctxt "0x0003fdca"
 msgid "If we have the location, just eliminate them. Put the boy to work elsewhere."
-msgstr ""
+msgstr "위치만 알면, 우리가 처리하면 됩니다. 그 소년은 다른 곳에서 일하게 하고요."
 
 #. FILE: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_02.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_02.xml:10
 msgctxt "0x0003fe43"
 msgid "I'll notify the Sutherland boy he'll have minor sanction to request resources for patrols."
-msgstr ""
+msgstr "서덜랜드라는 소년에게 순찰을 위해 지원을 요청할 수 있는 약간의 허가가 내려졌다고 통보하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_02.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_02.xml:37
 msgctxt "0x0003fe45"
 msgid "A Patrol for the Crew"
-msgstr ""
+msgstr "신참에게 순찰맡기기"
 
 #. FILE: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_03.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_03.xml:15
 msgctxt "0x0003fe4d"
 msgid "He wishes them formidable, make them formidable. Heavy armor."
-msgstr ""
+msgstr "그들이 강해지길 원한다면, 강하게 만들어 주면 되지요. 중갑옷으로 무장시킵시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_03.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_03.xml:44
 msgctxt "0x0003fe4b"
 msgid "If they represent us, then they should reflect our influence."
-msgstr ""
+msgstr "그들이 우리를 대변한다면, 우리의 영향력을 반영시킬 필요가 있어요."
 
 #. FILE: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_03.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_03.xml:71
 msgctxt "0x0003fe49"
 msgid "Outfitting the Crew"
-msgstr ""
+msgstr "신참을 위한 장비"
 
 #. FILE: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_03.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_03.xml:142
 msgctxt "0x0003fe4c"
 msgid "It would take little to have them look like the hidden arm they could be."
-msgstr ""
+msgstr "그들을 비밀병기처럼 보이게 하는데는 그닥 큰 노력이 들지 않을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_04.xml
 #. PATH: WarTableEntry/TitleReference
@@ -5361,21 +5372,21 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_04.xml:91
 msgctxt "0x0003fe80"
 msgid "Do we need such allies? March."
-msgstr ""
+msgstr "심문회에 이런 동맹이 필요하다 보십니까? 행군하죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_04.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_04.xml:120
 msgctxt "0x0003fe7a"
 msgid "A holdout over negotiations. This offer comes with caveats, but it is valuable."
-msgstr ""
+msgstr "이 협상은 보류하지요. 경고를 동반한 제안이기는 하지만, 분명 가치는 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_04.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_04.xml:149
 msgctxt "0x0003fe7b"
 msgid "Answer with a small group and give this fool no reason to posture. Sutherland and his crew will serve."
-msgstr ""
+msgstr "대답 대신 소규모 집단을 보내서 이 머저리가 더는 허세를 부리지 못하게 하겠습니다. 서덜랜드와 그 동료들만으로도 충분할 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\TheCrew\gen_chain_the_crew_05.xml
 #. PATH: WarTableEntry/TitleReference
@@ -6120,7 +6131,7 @@ msgstr "Lydes의 후계자 선정"
 #: DA3\DesignContent\Operations\Orlais\duke_of_lydes_1.xml:101
 msgctxt "0x000402da"
 msgid "Jean-Gaspard is a chevalier and a capable military leader. If we want him removed, I daresay we might recruit him for ourselves."
-msgstr "장 가스파르는 슈발리에이자 능력있는 군 지도자입니다. 그를 끌어내리고 싶다면, 우리가 그를 영입하는 건 어떨까요."
+msgstr "장 가스파드는 슈발리에이자 능력있는 군 지도자입니다. 그를 끌어내리고 싶다면, 우리가 그를 영입하는 건 어떨까요."
 
 #. FILE: DA3\DesignContent\Operations\Orlais\duke_of_lydes_1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -6192,7 +6203,7 @@ msgstr "잘 고른 말 몇마디로 모네트에게 아무런 피해도 입히�
 #: DA3\DesignContent\Operations\Orlais\duke_of_lydes_4.xml:34
 msgctxt "0x000402ee"
 msgid "I have done some digging, and the rumors about Jean-Gaspard's parentage are true. Shall we make that knowledge public?"
-msgstr "그 소문을 캐보았더니 장 가스파르의 혈통에 대한 소문은 사실이었습니다. 이 정보를 대중에 공표할까요?"
+msgstr "그 소문을 캐보았더니 장 가스파드의 혈통에 대한 소문은 사실이었습니다. 이 정보를 대중에 공표할까요?"
 
 #. FILE: DA3\DesignContent\Operations\Orlais\duke_of_lydes_4.xml
 #. PATH: WarTableEntry/TitleReference
