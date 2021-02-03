@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-01 13:02+0000\n"
-"Last-Translator: Pureun Kim <sky4bluebird@gmail.com>\n"
+"PO-Revision-Date: 2021-02-03 04:02+0000\n"
+"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
 "Language: ko\n"
@@ -587,7 +587,7 @@ msgstr "적절한 시간에 속삭이는 적절한 한 마디는 오후의 만�
 msgctxt "0x0003fe0b"
 msgid "The only way we will bring in refugees is through our allies in Ferelden. After Haven, they are more than willing to help."
 msgstr ""
-"페렐던의 우리 동맹을 통하는 방법만이 난민을 데려오는 유일한 방법입니다. 헤이븐 사건에도 불구하고, 그들은 기꺼이 도움을 줄 것입니다."
+"페렐던의 우리 동맹을 통하는 방법만이 난민을 데려올 수 있는 유일한 방법입니다. 헤이븐 사건이 있었으니, 기꺼이 우리를 도우려 할 거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_haven.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
@@ -608,7 +608,7 @@ msgstr "헤이븐 폐허 정찰"
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_haven.xml:150
 msgctxt "0x0003fe09"
 msgid "We have no idea how many enemies remain at Haven. The Chargers had best go in numbers."
-msgstr "얼마나 많은 적이 헤이븐에 남아있는지 우린 아무도 모릅니다. 돌격대의 인원이면 딱 적당합니다."
+msgstr "헤이븐에 얼마나 많은 적이 남아있는지 우린 모릅니다. 돌격대 인원이면 딱 적당하겠군요."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_haven_bonus.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -616,15 +616,15 @@ msgstr "얼마나 많은 적이 헤이븐에 남아있는지 우린 아무도 �
 msgctxt "0x0003fe0d"
 msgid "Regardless of what the Chantry thinks of the Inquisition, they will be eager to stamp out this heresy if we ask for assistance finding this rogue sister."
 msgstr ""
-"챈트리가 인퀴지션에 대해 어떻게 생각하든, 우리가이 사기꾼 같은 수녀의 수색에 도움을 요청하면 그들은 이단을 박멸하는데 열렬히 반응할 것 "
-"입니다."
+"챈트리가 심문회를 어떻게 생각하든, 이 사기꾼 같은 수녀를 찾는 일에 대해 도움을 요청하면 그들은 이 이단을 박멸하는 일에 기꺼이 도움을 "
+"줄 거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_haven_bonus.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_haven_bonus.xml:118
 msgctxt "0x0003fe10"
 msgid "We will easily track down a Chantry sister saying such things in public."
-msgstr "우리는 공개적으로 그런 말을 하고 다니는 챈트리 수녀를 쉽게 추적 할 것입니다."
+msgstr "공개적으로 그런 말을 하고 다니는 챈트리 수녀라면 쉽게 추적 할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal.xml
 #. PATH: WarTableEntry/TitleReference
@@ -1943,14 +1943,14 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\DwarfCities\orzammar_ops_1.xml:18
 msgctxt "0x00040150"
 msgid "Gain Orzammar's Friendship"
-msgstr ""
+msgstr "오즈마와의 친선 도모"
 
 #. FILE: DA3\DesignContent\Operations\Global\DwarfCities\orzammar_ops_1.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3\DesignContent\Operations\Global\DwarfCities\orzammar_ops_1.xml:90
 msgctxt "0x00040152"
 msgid "I would advise sending a delegation to Orzammar as soon as possible to cement this alliance."
-msgstr ""
+msgstr "이 동맹을 강화하기 위해 가능한 빨리 오즈마에 대표단을 보내는 게 좋겠어요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Blackwall\blackwall_ops_conscription_1.xml
 #. PATH: WarTableEntry/TitleReference
@@ -4056,21 +4056,21 @@ msgstr "이건 불가피한 문제예요. 친척들에게 앞으로의 호의를
 #: DA3\DesignContent\Operations\Global\Race\gen_race_human_2_connections.xml:10
 msgctxt "0x000409b8"
 msgid "We should contain the fighting. We can sit both sides down at a table once they surrender to us."
-msgstr ""
+msgstr "싸움을 억제시켜야 합니다. 일단 그들을 우리에게 항복시키고 나면 양쪽 편 모두를 같은 탁자에 앉히는 것도 가능합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_human_2_connections.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Race\gen_race_human_2_connections.xml:39
 msgctxt "0x000409ba"
 msgid "My spies could try to untangle who's truly at fault, but it may not matter if blood has been spilled."
-msgstr ""
+msgstr "누가 잘못했는지 제 첩보원들이 알아낼수도 있지만, 이미 피를 본 상태라면 소용없는 일일지도 모르겠네요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_human_2_connections.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Race\gen_race_human_2_connections.xml:66
 msgctxt "0x000408cd"
 msgid "Mediate Between Ostwick Noble Families"
-msgstr ""
+msgstr "오스트윅 귀족 가문 사이에서 중재하라"
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_human_2_connections.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -4078,6 +4078,8 @@ msgstr ""
 msgctxt "0x000409b9"
 msgid "Let's hold a talk between the wounded parties in Orlais. It's wise to remove them from their power base for discussions."
 msgstr ""
+"올레이에 싸움의 당사자들끼리 대화를 나눌수 있는 자리를 마련하죠. 논의를 위해 그들이 세력 기반으로부터 떠나있도록 하는 것도 현명한 "
+"방법입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_human_2_secrets.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -4753,14 +4755,14 @@ msgstr " 헬리스마의 연구에 도움이 될 만한 추가 자료가 있는�
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_ops_skyhold_tranquil_1.xml:68
 msgctxt "0x000407c8"
 msgid "Our soldiers can gather any outstanding items. It will double as a training exercise for our newer recruits."
-msgstr "우리 병사들에게 중요한 물건이라면 뭐든 모아들이게 할 수 있습니다. 신병들에게 훈련 연습 겸 수행하게 하면 되겠군요."
+msgstr "우리 병사들을 시켜 중요한 물건이라면 뭐든 모아들이게 할 수 있습니다. 신병들에게 훈련 연습 겸 수행하게 하면 되겠군요."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_ops_skyhold_tranquil_1.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_ops_skyhold_tranquil_1.xml:100
 msgctxt "0x00040784"
 msgid "Continuing Her Predecessor's Work"
-msgstr ""
+msgstr "전임자의 연구 이어받기"
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_ops_skyhold_tranquil_2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference

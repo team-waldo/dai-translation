@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-31 06:01+0000\n"
+"PO-Revision-Date: 2021-02-03 04:02+0000\n"
 "Last-Translator: 큡수뎃 <quoobt@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -2480,7 +2480,7 @@ msgstr ""
 #: DA3\Party\Rogue\Stalker\AspectOfRage\party_rogue_stalker_aspectofrage_upgrade1_abilitydata.xml:5
 msgctxt "0x0004261b"
 msgid "Unquenchable Flames"
-msgstr "멈출 수 없는 화염"
+msgstr "꺼지지 않는 화염"
 
 #. FILE: DA3\Party\Rogue\Stalker\AspectOfRage\party_rogue_stalker_aspectofrage_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -9761,7 +9761,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\DoomBlade\party_mage_staff_doomblade_abilitydata.xml:5
 msgctxt "0x00026eb7"
 msgid "Spirit Blade"
-msgstr ""
+msgstr "영혼 칼날"
 
 #. FILE: DA3\Party\mage\Staff\DoomBlade\party_mage_staff_doomblade_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -9872,7 +9872,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\FlameTongue\party_mage_staff_flametongue_upgrade2_abilitydata.xml:5
 msgctxt "0x000491e4"
 msgid "Blazing Trails"
-msgstr ""
+msgstr "불타는 자국"
 
 #. FILE: DA3\Party\mage\Staff\FlameTongue\party_mage_staff_flametongue_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -9917,7 +9917,7 @@ msgstr "<font color=\"#BAAB7B\">공포 지속 시간 증가: </font><font color=
 #: DA3\Party\mage\Staff\Heal\party_mage_staff_heal_abilitydata.xml:5
 msgctxt "0x0002700a"
 msgid "Resurgence"
-msgstr ""
+msgstr "소생"
 
 #. FILE: DA3\Party\mage\Staff\Heal\party_mage_staff_heal_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -9925,6 +9925,8 @@ msgstr ""
 msgctxt "0x0003e31f"
 msgid "You call on benign spirits to restore you and your allies for continuing the fight. All party members are healed to full health, including those who have fallen unconscious, and a glyph around you provides ongoing healing to the party for the spell's duration.\n"
 msgstr ""
+"전투를 이어나갈 수 있도록 우호적인 정령들의 힘을 빌어 아군 전체를 회복합니다. 의식을 잃어 쓰러진 아군을 포함해 모두가 최대 체력으로 "
+"회복됩니다. 주위에서 흐르는 문양이 주문의 효과가 종료될 때까지 아군의 체력을 지속적으로 회복합니다.\n"
 
 #. FILE: DA3\Party\mage\Staff\Heal\party_mage_staff_heal_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
@@ -9960,7 +9962,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\MindBlast\party_mage_staff_mindblast_upgrade2_abilitydata.xml:5
 msgctxt "0x000495ac"
 msgid "Cleansing Blast"
-msgstr ""
+msgstr "정화 폭발"
 
 #. FILE: DA3\Party\mage\Staff\MindBlast\party_mage_staff_mindblast_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -9979,7 +9981,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\MindBlast\party_mage_staff_mindblast_upgrade_abilitydata.xml:5
 msgctxt "0x000432e7"
 msgid "Fortifying Blast"
-msgstr ""
+msgstr "증강 폭발"
 
 #. FILE: DA3\Party\mage\Staff\MindBlast\party_mage_staff_mindblast_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -9998,7 +10000,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\Phantasm\party_mage_staff_phantasm_abilitydata.xml:5
 msgctxt "0x0003be8c"
 msgid "Horror"
-msgstr ""
+msgstr "공포"
 
 #. FILE: DA3\Party\mage\Staff\Phantasm\party_mage_staff_phantasm_abilitydata.xml
 #. PATH: BWAoEAbility/AbilityDescriptionReference
@@ -10008,6 +10010,8 @@ msgid ""
 "You unleash spirits of fear that terrify all enemies within the area.\n"
 "\n"
 msgstr ""
+"무시무시한 정령을 불러내어 범위 내의 적들을 공포에 빠지게 합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\Phantasm\party_mage_staff_phantasm_abilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -10021,7 +10025,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\Phantasm\party_mage_staff_phantasm_upgrade2_abilitydata.xml:5
 msgctxt "0x000499cf"
 msgid "Terror"
-msgstr ""
+msgstr "두려움"
 
 #. FILE: DA3\Party\mage\Staff\Phantasm\party_mage_staff_phantasm_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -10031,6 +10035,8 @@ msgid ""
 "Enemies struck by Horror cower in place and do not react to attacks until they take significant damage.\n"
 "\n"
 msgstr ""
+"공포에 당한 적들이 두려움에 몸을 웅크리고선 일정 피해량이 누적되기 전까지 자신을 향한 공격에 반응하지 않습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\Phantasm\party_mage_staff_phantasm_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
@@ -10044,7 +10050,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\Phantasm\party_mage_staff_phantasm_upgrade_abilitydata.xml:5
 msgctxt "0x0003eeff"
 msgid "Despair"
-msgstr ""
+msgstr "좌절"
 
 #. FILE: DA3\Party\mage\Staff\Phantasm\party_mage_staff_phantasm_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -10054,13 +10060,15 @@ msgid ""
 "Horror inflicts even deeper terror upon targets and reduces their armor while they are under its effects.\n"
 "\n"
 msgstr ""
+"공포에 걸린 적들은 방어력이 하락합니다. 공포가 적들의 뇌리를 더욱 깊게 파고듭니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\Resurrect\party_mage_staff_resurrect_aoeabilitydata.xml
 #. PATH: BWAoEAbility/AbilityNameReference
 #: DA3\Party\mage\Staff\Resurrect\party_mage_staff_resurrect_aoeabilitydata.xml:5
 msgctxt "0x0002d9c0"
 msgid "Revival"
-msgstr ""
+msgstr "부활"
 
 #. FILE: DA3\Party\mage\Staff\Resurrect\party_mage_staff_resurrect_aoeabilitydata.xml
 #. PATH: BWAoEAbility/AbilityDescriptionReference
@@ -10079,7 +10087,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\Resurrect\party_mage_staff_resurrect_upgrade2_abilitydata.xml:5
 msgctxt "0x000497b3"
 msgid "Desperation"
-msgstr ""
+msgstr "필사항쟁"
 
 #. FILE: DA3\Party\mage\Staff\Resurrect\party_mage_staff_resurrect_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -10131,7 +10139,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_abilitydata.xml:5
 msgctxt "0x00026fcc"
 msgid "Energy Barrage"
-msgstr ""
+msgstr "원소 포화"
 
 #. FILE: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -10165,18 +10173,17 @@ msgstr "<font color=\"#BAAB7B\">타격 당 피해량: </font><font color=\"#F5EC
 #: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_upgrade2_abilitydata.xml:5
 msgctxt "0x0004abf4"
 msgid "Energy Storm"
-msgstr ""
+msgstr "원소 폭풍"
 
 #. FILE: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_upgrade2_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x0004abf5"
 msgid ""
 "Energy Barrage now deals additional damage, but all targets are selected at random.\n"
 "\n"
 msgstr ""
-"에너지 포화가 가하는 피해량이 증가하지만, 무작위 대상을 가격합니다.\n"
+"원소 포화가 가하는 피해량이 증가하지만, 무작위 대상을 가격합니다.\n"
 "\n"
 
 #. FILE: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_upgrade_abilitydata.xml
@@ -10184,18 +10191,17 @@ msgstr ""
 #: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_upgrade_abilitydata.xml:5
 msgctxt "0x000432e5"
 msgid "Energy Bombardment"
-msgstr ""
+msgstr "원소 폭격"
 
 #. FILE: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_upgrade_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x000432e6"
 msgid ""
 "Each hit from Energy Barrage lowers the target's resistance to your staff's magic type for a short time.\n"
 "\n"
 msgstr ""
-"에너지 포화가 적중할 때 마다 잠시동안 시전자의 지팡이 계열에 대한 대상의 마법 저항력을 낮춥니다.\n"
+"원소 포화가 적중할 때 마다 잠시동안 시전자의 지팡이 계열에 대한 대상의 마법 저항력을 낮춥니다.\n"
 "\n"
 
 #. FILE: DA3\Party\mage\Staff\SeekerSwarm\party_mage_staff_seekerswarm_upgrade_abilitydata.xml
@@ -10210,7 +10216,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\SlowBubble\party_mage_staff_slowbubble_inplace_abilitydata.xml:5
 msgctxt "0x00026fa6"
 msgid "Disruption Field"
-msgstr ""
+msgstr "방해장"
 
 #. FILE: DA3\Party\mage\Staff\SlowBubble\party_mage_staff_slowbubble_inplace_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -10220,6 +10226,8 @@ msgid ""
 "You fill an area with magical energy that slows and weakens your enemies. Enemies larger than the field are immune.\n"
 "\n"
 msgstr ""
+"적을 느리고 약하게 하는 마력으로 공간을 가득 채웁니다. 마법이 펼쳐진 구역보다 큰 적들은 효과를 받지 않습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\SlowBubble\party_mage_staff_slowbubble_inplace_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -10233,7 +10241,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\SlowBubble\party_mage_staff_slowbubble_upgrade2_abilitydata.xml:5
 msgctxt "0x0004ac94"
 msgid "Charged Disruption"
-msgstr ""
+msgstr "충전 방해장"
 
 #. FILE: DA3\Party\mage\Staff\SlowBubble\party_mage_staff_slowbubble_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -10243,13 +10251,15 @@ msgid ""
 "When enemies take damage inside the field, Spirit Blade gains power.\n"
 "\n"
 msgstr ""
+"적들이 지대 내부에서 피해를 입으면, 영혼 칼날이 충전됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\SlowBubble\party_mage_staff_slowbubble_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\mage\Staff\SlowBubble\party_mage_staff_slowbubble_upgrade_abilitydata.xml:5
 msgctxt "0x0003e1c4"
 msgid "Stasis Lock"
-msgstr ""
+msgstr "사물 정지"
 
 #. FILE: DA3\Party\mage\Staff\SlowBubble\party_mage_staff_slowbubble_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -10259,6 +10269,8 @@ msgid ""
 "Enemies caught in Disruption Field are slowed to a stop over the course of several seconds. Striking them ends the effect.\n"
 "\n"
 msgstr ""
+"무력화 지대에 휘말린 적이 일정 시간 동안 정지 상태에 가까운 수준으로 느려집니다. 이 상태는 피격 시 해제됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\StoneFist\party_mage_staff_stonefist_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -10275,6 +10287,8 @@ msgid ""
 "You summon a boulder from the Fade and smash it into your target, sending them flying.\n"
 "\n"
 msgstr ""
+"영계에서 바위를 소환하여 대상에게 투척합니다. 직격한 적은 멀리 날아갑니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\StoneFist\party_mage_staff_stonefist_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
@@ -10288,7 +10302,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\StoneFist\party_mage_staff_stonefist_upgrade2_abilitydata.xml:5
 msgctxt "0x000499a9"
 msgid "Unblockable Force"
-msgstr ""
+msgstr "막을 수 없는 힘"
 
 #. FILE: DA3\Party\mage\Staff\StoneFist\party_mage_staff_stonefist_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -10306,7 +10320,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\StoneFist\party_mage_staff_stonefist_upgrade_abilitydata.xml:5
 msgctxt "0x0003f817"
 msgid "Shatterstone"
-msgstr ""
+msgstr "산산조각"
 
 #. FILE: DA3\Party\mage\Staff\StoneFist\party_mage_staff_stonefist_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
