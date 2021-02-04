@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-03 04:02+0000\n"
+"PO-Revision-Date: 2021-02-04 08:02+0000\n"
 "Last-Translator: 큡수뎃 <quoobt@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -9208,7 +9208,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\Blink\party_mage_staff_blink_upgrade2_abilitydata.xml:5
 msgctxt "0x0004b2ad"
 msgid "Energizing Step"
-msgstr ""
+msgstr "활기의 발걸음"
 
 #. FILE: DA3\Party\mage\Staff\Blink\party_mage_staff_blink_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -9218,6 +9218,8 @@ msgid ""
 "Each time you pass through an enemy with Fade Step, you gain mana.\n"
 "\n"
 msgstr ""
+"영계의 발걸음으로 적을 통과할 때마다 마나를 회복합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\Blink\party_mage_staff_blink_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -9243,7 +9245,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\Blur\party_mage_staff_blur_abilitydata.xml:5
 msgctxt "0x0002702d"
 msgid "Fade Cloak"
-msgstr ""
+msgstr "은폐 망토"
 
 #. FILE: DA3\Party\mage\Staff\Blur\party_mage_staff_blur_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -9253,13 +9255,15 @@ msgid ""
 "You surround yourself with the magic of the Veil itself. You are briefly invulnerable and can pass through enemies unharmed.\n"
 "\n"
 msgstr ""
+"장막의 마력을 불러와 신체를 휘감습니다. 잠시 무적 상태가 되며 적들을 통과해 지나갈 수 있습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\Blur\party_mage_staff_blur_upgrade3_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\mage\Staff\Blur\party_mage_staff_blur_upgrade3_abilitydata.xml:5
 msgctxt "0x0004b132"
 msgid "Enduring Cloak"
-msgstr ""
+msgstr "질긴 망토"
 
 #. FILE: DA3\Party\mage\Staff\Blur\party_mage_staff_blur_upgrade3_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -9269,13 +9273,15 @@ msgid ""
 "The lower the charge on your Spirit Blade, the longer Fade Cloak lasts.\n"
 "\n"
 msgstr ""
+"영혼 칼날의 충전 상태가 낮을수록 은폐 망토가 오래 지속됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\Blur\party_mage_staff_blur_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\mage\Staff\Blur\party_mage_staff_blur_upgrade_abilitydata.xml:5
 msgctxt "0x00043744"
 msgid "Decloaking Blast"
-msgstr ""
+msgstr "해제 충격파"
 
 #. FILE: DA3\Party\mage\Staff\Blur\party_mage_staff_blur_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -9285,6 +9291,8 @@ msgid ""
 "If you rematerialize inside an enemy, they're blasted back with massive force.\n"
 "\n"
 msgstr ""
+"적과 겹친 상태로 물질화를 하면 거대한 충격과 함께 적이 튕겨나갑니다.\n"
+"\n"
 
 #. FILE: DA3\Party\mage\Staff\Blur\party_mage_staff_blur_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
@@ -9324,7 +9332,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\BurstFire\party_mage_staff_burst_fire_upgrade2_abilitydata.xml:5
 msgctxt "0x00049209"
 msgid "Consuming Fire"
-msgstr ""
+msgstr "집어삼키는 불"
 
 #. FILE: DA3\Party\mage\Staff\BurstFire\party_mage_staff_burst_fire_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -9342,7 +9350,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\BurstFire\party_mage_staff_burst_fire_upgrade_abilitydata.xml:5
 msgctxt "0x0004061a"
 msgid "Wildfire"
-msgstr ""
+msgstr "들불"
 
 #. FILE: DA3\Party\mage\Staff\BurstFire\party_mage_staff_burst_fire_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference

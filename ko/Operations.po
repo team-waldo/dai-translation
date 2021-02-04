@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-03 04:02+0000\n"
+"PO-Revision-Date: 2021-02-04 08:02+0000\n"
 "Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
@@ -1389,8 +1389,8 @@ msgstr "반란 마법사들은 우리가 템플러가 아니라는걸 믿지 못
 msgctxt "0x0003fe2c"
 msgid "They're likely afraid to come out of hiding. I can send a few non-templar soldiers to protect the mages on their way here."
 msgstr ""
-"마법사들은 숨어있는 곳에서 모습을 드러내는 걸 두려워하고 있습니다. 이곳으로 오는 그들을 보호할 수 있도록 템플러가 아닌 우리 병사들을 "
-"몇 명 보내도록 하죠."
+"마법사들이 숨어있는 곳으로부터 모습을 드러내는 걸 두려워하고 있습니다. 이곳으로 오는 그들을 보호할 수 있도록 템플러가 아닌 우리 "
+"병사들을 몇 명 보내도록 하죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\Redcliffe\gen_ops_red_mage_surrender_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -1538,62 +1538,64 @@ msgstr "템플러를 위해 더 많은 리륨을 확보하라"
 msgctxt "0x00040157"
 msgid "Lord Enzo attends the theatre on the same night each week. His home is empty, save a few servants during that time; my agents could pay a visit."
 msgstr ""
+"엔조 경은 매주 같은 날 밤 공연장을 갑니다. 그동안 하인 몇 명을 제외하면 그의 저택은 비어있습니다. 그 틈에 제 요원들이 방문하게 "
+"하지요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_antiva.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_antiva.xml:32
 msgctxt "0x0004015c"
 msgid "An Offer from the Crows"
-msgstr ""
+msgstr "까마귀단으로부터의 제안"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_antiva.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_antiva.xml:39
 msgctxt "0x00040941"
 msgid "I have a cousin in Rialto. If she threw a soiree and invited Lord Enzo, his house would be clear for Leliana's agents."
-msgstr ""
+msgstr "리알토에 사촌이 살고있어요. 그녀가 파티를 열어 엔조경을 초대한 틈에 렐리아나의 요원들이 그의 저택에 잠입하게 하면 됩니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_antiva.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_antiva.xml:71
 msgctxt "0x00040159"
 msgid "Investigate Lord Enzo of Antiva"
-msgstr ""
+msgstr "안티바의 엔조 경 조사"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_extra.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_extra.xml:10
 msgctxt "0x00040495"
 msgid "I would not turn away information. Let's see what they know."
-msgstr ""
+msgstr "주는 정보를 마다할 필요가 있을까요? 그들이 알고 있는게 뭔지 한번 보지요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_extra.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_extra.xml:34
 msgctxt "0x00040496"
 msgid "I trust Leliana's spy network. There's no need to maintain an alliance with the Crows."
-msgstr ""
+msgstr "저는 렐리아나의 첩보망을 신뢰해요. 까마귀 단과 동맹을 유지할 필요는 없다고 생각합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_extra.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_extra.xml:64
 msgctxt "0x00040164"
 msgid "A Lead from the Crows"
-msgstr ""
+msgstr "까마귀 단으로부터의 단서"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_proceed.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_proceed.xml:13
 msgctxt "0x00040160"
 msgid "Word from the Crows"
-msgstr ""
+msgstr "까마귀 단으로부터의 정보"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_proceed.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_proceed.xml:91
 msgctxt "0x000401cf"
 msgid "We can take no chances attacking a Venatori stronghold. We should send our soldiers."
-msgstr ""
+msgstr "베나토리 본거지를 공격하는 일에 모험을 감수할 필요는 없습니다. 우리 병사들을 보내야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_proceed.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -1601,6 +1603,8 @@ msgstr ""
 msgctxt "0x000401d0"
 msgid "Involving ourselves in the assassination of an Antivan noble is dangerous—and why work with the Crows longer than we have to? We can part ways now, knowing they will finish the job."
 msgstr ""
+"안티바 귀족의 암살에 연루되는 건 우리에게 너무 위험해요. 어째서 필요 이상으로 까마귀 단과 함께 일해야 하죠? 그들이 일을 끝낼 거라는 "
+"걸 알고 있으니, 이제 각자의 길을 가는 게 좋겠어요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_proceed.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -1608,6 +1612,8 @@ msgstr ""
 msgctxt "0x000401d1"
 msgid "The Crows are talented, but outnumbered. My agents can create a distraction. The Crows can eliminate Enzo and the Venatori in the confusion."
 msgstr ""
+"까마귀 단은 능력은 있지만 수적으로 열세해요. 제 요원을 보내 적의 주의를 끌게 하지요. 그 혼란을 틈타 까마귀 단이 엔조와 베나토리를 "
+"제거하면 됩니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_tracking.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -1615,6 +1621,8 @@ msgstr ""
 msgctxt "0x00040192"
 msgid "Cooperating with the Antivan Crows works to our advantage. They have more knowledge of Enzo, and we gain contacts should we need their assistance in the future."
 msgstr ""
+"안티바 까마귀단과 협력하는 건 우리쪽에도 이득인 일입니다. 그들은 엔조에 대해 더 잘 알고 있고, 향후 도움이 필요할 시 그들에게 도움을 "
+"청할 수도 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_tracking.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -1622,13 +1630,15 @@ msgstr ""
 msgctxt "0x00040532"
 msgid "The Crows are an unfortunate reality of Antivan politics. They will pursue the contract regardless; we may as well know where they are."
 msgstr ""
+"까마귀 단은 안티바 정치계의 불운한 현실 그 자체입니다. 우리와 상관없이 한번 의뢰받은 청부는 끝까지 완수할 거예요. 그들의 행적을 알고 "
+"있는 편이 우리에게도 더 나아요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_tracking.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_tracking.xml:143
 msgctxt "0x00040191"
 msgid "Do we really want to get tangled up with the Crows? Our people can handle this."
-msgstr ""
+msgstr "까마귀단과 꼭 엮일 필요가 있습니까? 이 문제는 우리 병력으로도 충분히 처리할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_zevran.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -1636,48 +1646,50 @@ msgstr ""
 msgctxt "0x000401ce"
 msgid "Another assassin wishes to help? After killing one of our <i>other</i> assassins? We're already stuck with the Crows. Why make this more complicated?"
 msgstr ""
+"또 다른 암살자가 우릴 돕겠다고 나섰다는 겁니까? 우리와 동맹관계인 암살자를 죽이고? 우린 이미 까마귀 단과 엮여있습니다. 일을 여기서 "
+"더 복잡하게 만들 필요가 있는 겁니까?"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_zevran.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_zevran.xml:40
 msgctxt "0x0004015f"
 msgid "A Missing Assassin"
-msgstr ""
+msgstr "실종된 암살자"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_zevran.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_zevran.xml:113
 msgctxt "0x000401cd"
 msgid "Zevran would be a useful ally. We can funnel resources to him while nominally maintaining our alliance with the Crows. "
-msgstr ""
+msgstr "제브란은 유용한 동료가 될 수 있어요. 까마귀단과는 명목상 동맹관계만 유지하고, 자원은 제브란에게 보내는 걸로 하죠. "
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_zevran.xml
 #. PATH: SpecialistMissionInfo[2]/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_zevran.xml:130
 msgctxt "0x00040163"
 msgid "Word from Zevran Arainai"
-msgstr ""
+msgstr "제브란 아라이나이로부터의 정보"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_zevran_extra.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crows\gen_ops_zevran_extra.xml:15
 msgctxt "0x00040498"
 msgid "My agents could plant false leads for the Crows."
-msgstr ""
+msgstr "제 요원들이 까마귀 단 내부에 거짓 단서를 심어놓을 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_zevran_extra.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crows\gen_ops_zevran_extra.xml:44
 msgctxt "0x00040497"
 msgid "Hercinia's ambassador is planning a trip to Denerim. I could arrange for Zevran to be in her party."
-msgstr ""
+msgstr "헤르시니아의 대사가 데너림으로 여행할 계획을 하고 있어요. 제브란이 그 무리에 들어갈 수 있게 제가 주선해 줄 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_zevran_extra.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Crows\gen_ops_zevran_extra.xml:71
 msgctxt "0x00040167"
 msgid "Evading the Crows"
-msgstr ""
+msgstr "까마귀 단으로부터 벗어나라"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_zevran_extra.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -1685,6 +1697,8 @@ msgstr ""
 msgctxt "0x00040541"
 msgid "Zevran <i>was</i> helpful. We could send soldiers to sweep Hercinia for any remaining Venatori. If Zevran left with our men, it may go unnoticed."
 msgstr ""
+"제브란은 우리에게 도움이 됐습니다. 남아있는 베나토리를 쓸어버리기 위해 헤르시니아로 병사를 보낼 수 있습니다. 제브란을 우리 병사들과 "
+"함께 떠나보내면 발각되지 않을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_zevran_proceed.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -1692,13 +1706,15 @@ msgstr ""
 msgctxt "0x00040223"
 msgid "Involving ourselves in the assassination of an Antivan noble is dangerous—as is allowing someone to steal the Crows' target. If you trust Zevran to complete the task, let us part ways now."
 msgstr ""
+"안티바 귀족의 암살에 연루되는 건 우리에게 너무 위험해요. 누군가에게 까마귀 단의 목표물을 훔치게 하는 것도 마찬가지고요. 제브란이 "
+"임무를 완수할 수 있다고 생각하신다면, 여기서 각자의 길을 가는 게 좋겠어요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_zevran_proceed.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Crows\gen_ops_zevran_proceed.xml:32
 msgctxt "0x00040224"
 msgid "We take no chances when attacking a Venatori stronghold. We should send our soldiers to assist."
-msgstr ""
+msgstr "베나토리 본거지를 공격하는 일에 모험을 감수할 필요는 없습니다. 우리 병사들을 보내서 그를 도와야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_zevran_proceed.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -1706,6 +1722,8 @@ msgstr ""
 msgctxt "0x00040225"
 msgid "Zevran is talented—but also outnumbered. My agents can create a distraction. He can eliminate Enzo and the Venatori in the confusion."
 msgstr ""
+"제브란은 능력은 있지만 수적으로 열세해요. 제 요원을 보내 적의 주의를 끌게 하지요. 그 혼란을 틈타 제브란이 엔조와 베나토리를 제거하면 "
+"됩니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\DalishPlayerClan\wycome1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -2064,7 +2082,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Cassandra\cas_mainplot_Seeker_operation.xml:30
 msgctxt "0x000354b2"
 msgid "Locate the Missing Seekers"
-msgstr ""
+msgstr "실종된 탐구자들을 찾아라"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Cassandra\cas_mainplot_Seeker_operation.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -2072,13 +2090,14 @@ msgstr ""
 msgctxt "0x000354b6"
 msgid "Someone must have seen these Seekers, or given them safe harbor. Entice them with a reward, and leads will follow."
 msgstr ""
+"누가됐든 이 탐구자들을 목격했거나 피난처를 제공해 준 사람이 분명 있을거예요. 그들에게 보상을 주면 단서를 알아낼 수 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Cassandra\cas_mainplot_Seeker_operation.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Cassandra\cas_mainplot_Seeker_operation.xml:156
 msgctxt "0x000354b4"
 msgid "The Seekers have many secret hideaways, according to Cassandra. These would be the first places agents should search."
-msgstr ""
+msgstr "카산드라는 탐구자들에게 많은 비밀 은신처가 있다고 했어요. 우리 요원들에게 가장 먼저 그곳을 수색시켜야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Cole\cole_personal_plot_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -2253,14 +2272,14 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Josephine\Josephine_mainquest_favor2.xml:13
 msgctxt "0x0001f559"
 msgid "Getting a Judge's Favor"
-msgstr ""
+msgstr "판사의 호의를 얻어내라"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Josephine\Josephine_mainquest_favor2.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Josephine\Josephine_mainquest_favor2.xml:99
 msgctxt "0x0001f65c"
 msgid "The commander has kindly found some soldiers he can spare to accompany Judge Auld's hunting party."
-msgstr ""
+msgstr "친절하게도 사령관이 올드 판사의 사냥에 동행할 병사들을 몇명 보내주었어요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Josephine\Josephine_mainquest_favor3.xml
 #. PATH: WarTableEntry/TitleReference
@@ -2281,14 +2300,14 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Josephine\Josephine_ops_romance_gather_info_on_duelist.xml:13
 msgctxt "0x0003ffc6"
 msgid "Gather Information on Lord Otranto"
-msgstr ""
+msgstr "오트란토 경에 대한 정보를 수집해라"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Josephine\Josephine_ops_romance_gather_info_on_duelist.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Josephine\Josephine_ops_romance_gather_info_on_duelist.xml:84
 msgctxt "0x0003ffc7"
 msgid "Well, well. Is Lord Otranto of interest? I will gather information about his family that may be useful."
-msgstr ""
+msgstr "이런, 이런. 오트란토경에게 관심이 있으시다 이 말씀이지요? 그자의 가문에 대한 쓸만한 정보를 알아오겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Josephine\Josephine_ops_romance_gift_plot.xml
 #. PATH: WarTableEntry/TitleReference
@@ -2309,14 +2328,14 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Josephine\Josephine_ops_romance_the_duel.xml:10
 msgctxt "0x0003ffc4"
 msgid "I… suppose I <i>could</i> send one of my people to issue the challenge to a duel. If that is your command?"
-msgstr ""
+msgstr "제 부하중 하나를 보내 결투를 신청...할 수도 있을 것 같습니다만. 그게 당신의 명령이라면요?"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Josephine\Josephine_ops_romance_the_duel.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Followers\Josephine\Josephine_ops_romance_the_duel.xml:35
 msgctxt "0x0003ff94"
 msgid "Challenge Josephine's Fiancé to a Duel"
-msgstr ""
+msgstr "조세핀의 약혼자에게 결투를 신청해라"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_01.xml
 #. PATH: WarTableEntry/TitleReference
@@ -2330,14 +2349,14 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_01.xml:100
 msgctxt "0x0003fc0b"
 msgid "The Heraldry is of a minor house. Shall we instead see what the surprise might be?"
-msgstr "이건 작은 귀족 가문의 문장이네요. 어디 우리가 대신 깜짝 선물이라는 게 뭔지 확인해볼까요?"
+msgstr "이건 하급 귀족 가문의 문장이네요. 어디 우리가 대신 깜짝 선물이라는 게 뭔지 확인해볼까요?"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_01.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_01.xml:134
 msgctxt "0x00042db7"
 msgid "We require middlemen? Secure the goods and the favor of the noble."
-msgstr "과연 이 일에 중간에서 개입할 사람이 필요할까요? 우리가 직접 물건도 얻고 귀족의 호의도 얻어보죠."
+msgstr "과연 이 일에 중간에서 개입할 사람이 필요한가요? 우리가 직접 물건도 얻고 귀족의 호의도 얻어보죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_01.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -2561,14 +2580,14 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_bees.xml:10
 msgctxt "0x0003fc3f"
 msgid "I can send runners among the banns. If this weapon can help, it will be found."
-msgstr "제가 반들 사이로 밀수업자를 들여보낼 수 있어요. 이 무기가 우리에게 도움이 된다면 찾아봐야겠죠."
+msgstr "제가 반들 사이로 심부름꾼을 들여보낼 수 있어요. 이 무기가 우리에게 도움이 된다면 찾아봐야겠죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_bees.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_bees.xml:42
 msgctxt "0x0003fc31"
 msgid "Red Jenny: Inquisition Needs Beeees!"
-msgstr "레드 제니: 심문회는 버어어어얼이 필요해!"
+msgstr "붉은 암탕나귀: 심문회는 버어어어얼이 필요해!"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_bees.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -2688,7 +2707,7 @@ msgstr "이 살인사건에 관한 커크월 경비대의 수사를 공식적으
 msgctxt "0x000404a8"
 msgid "If an assassin killed the magistrate, a word to the Crows might tell us who it was. They watch rivals carefully."
 msgstr ""
-"치안판사가 암살자에게 살해당한 거라면. 까마귀들에게 말을 전해서 그게 누구인지 알아낼 수 있을 겁니다. 그들은 경쟁자들을 눈여겨 보고 "
+"치안판사가 암살자에게 살해당한 거라면. 까마귀 단에게 말을 전해서 그게 누구인지 알아낼 수 있을 겁니다. 그들은 경쟁자들을 눈여겨 보고 "
 "있거든요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric4.xml
@@ -2703,7 +2722,7 @@ msgstr "살인사건을 끝까지 조사해야 합니다. 소설책은 소설책
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric4.xml:27
 msgctxt "0x00040505"
 msgid "Hard in Hightown: A Dagger in the Back"
-msgstr ""
+msgstr "하드 인 하이타운: 등 뒤의 단검"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric4.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -3341,13 +3360,15 @@ msgstr ""
 msgctxt "0x000408dc"
 msgid "An escort is simple. I could also arrange to note her exact path, should you wish to recover her body for any perceived honors."
 msgstr ""
+"간단하네요. 호위대를 보내죠. 혹시라도 명예를 인정받을 수 있도록 그녀의 시신이 완전한 상태로 돌아오길 원하신다면, 제가 그녀의 경로를 "
+"정확히 기록하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_warden_01.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_warden_01.xml:37
 msgctxt "0x000408d7"
 msgid "Judgment: The Death of Good Ser Ruth"
-msgstr ""
+msgstr "재판: 선한 서 루스의 죽음"
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_warden_01.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -3355,6 +3376,8 @@ msgstr ""
 msgctxt "0x000408da"
 msgid "Many of our soldiers lost family to the Blight. I've no doubt many would volunteer to escort the Warden. My concern is that they would not stop at escorting."
 msgstr ""
+"우리 병사들 중 많은 수가 대재앙에서 가족을 잃었습니다. 분명 많은 병사들이 이 감시자를 호위하기 위해 자원할겁니다. 하지만 호위로 "
+"그치지 않을 것 같다는게 걱정이라면 걱정이로군요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_warden_01.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -3362,20 +3385,22 @@ msgstr ""
 msgctxt "0x000408dd"
 msgid "I suggest an invitation over an escort. Our dwarven contacts would welcome the chance to bolster their forces with a Warden on her Calling."
 msgstr ""
+"호위대를 보내는 대신 드워프 군에게 초청을 부탁하는 건 어떨까요. 부름을 받은 감시자와 함께 자신들의 군대를 강화시킬 수 있다면 우리 "
+"드워프 연락책들도 기쁘게 받아들일 거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_warden_02.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_warden_02.xml:13
 msgctxt "0x00040903"
 msgid "Judgment: The Good Works of Ser Ruth"
-msgstr ""
+msgstr "재판: 서 루스의 선행"
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_warden_02.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_warden_02.xml:86
 msgctxt "0x00040924"
 msgid "Her delayed suicide is no way to speak for Andraste or the Inquisition. I would deny her."
-msgstr ""
+msgstr "그저 자살을 뒤로 미뤄두었을 뿐인 행위로 안드라스테나 심문회를 대변하게 할 순 없습니다. 저라면 이 요청을 거절하겠어요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_warden_02.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -3383,13 +3408,15 @@ msgstr ""
 msgctxt "0x00040922"
 msgid "Perhaps she could be misinformed about the danger of her destinations. It would give her time to hear the word herself."
 msgstr ""
+"그녀로 하여금 자신이 향하게 될 목적지를 위험한 곳으로 착각하게 만드는 건 어떨까요. 그녀에게 스스로의 말을 돌아볼 수 있는 기회를 "
+"주도록 하지요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_warden_02.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_warden_02.xml:144
 msgctxt "0x00040923"
 msgid "If she is determined to do this, equip her to do it. At worst, she strikes a blow in our name in some forgotten corner."
-msgstr ""
+msgstr "그녀의 결심히 확고하다면, 장비를 마련해주도록 합시다. 최악의 경우, 우리의 이름에 타격을 줄 수도 있겠지만요."
 
 #. FILE: DA3\DesignContent\Operations\Global\KillCollection\dragonkills_op_1.xml
 #. PATH: WarTableEntry/TitleReference
@@ -5837,7 +5864,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Orlais\Chantry\chantry_main1_op.xml:71
 msgctxt "0x0004068e"
 msgid "The Chantry Remains"
-msgstr "남아있는 챈트리 사람들"
+msgstr "남아있는 챈트리 성직자들"
 
 #. FILE: DA3\DesignContent\Operations\Orlais\Chantry\chantry_main1_op.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -6277,7 +6304,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\StormCoast\storm_ops_blades_gift.xml:42
 msgctxt "0x0003fed0"
 msgid "An Offer from the Blades of Hessarian"
-msgstr "Blades of Hessarian으로부터의 제의"
+msgstr "헤사리안의 검으로부터의 제의"
 
 #. FILE: DA3\DesignContent\Operations\StormCoast\storm_ops_blades_gift.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference

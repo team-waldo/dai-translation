@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-03 04:02+0000\n"
-"Last-Translator: GameSlot <gamehdhdhdjdjdjd@gmail.com>\n"
+"PO-Revision-Date: 2021-02-04 08:02+0000\n"
+"Last-Translator: 불타는 수염 <brng_beard@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journalsystem/"
 "ko/>\n"
 "Language: ko\n"
@@ -685,7 +685,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:3962
 msgctxt "0x0004227a"
 msgid "Pieces of an old Tevinter mosaic are scattered across the Hinterlands. If recovered, they could be reassembled."
-msgstr "고대 테빈터 모자이크가 내륙지역 전역에 흩어져 있다. 되찾게 된다면, 다시 맞춰볼 수 있을 것 같다."
+msgstr "고대 테빈터 모자이크 조각들이 내륙지역에 흩어져 있다. 회수해온다면, 다시 맞춰볼 수 있을 것 같다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[102]/JournalTextData/TextReference
@@ -964,14 +964,13 @@ msgstr "사막에 있는 심문회 병력의 태양 연고 재고가 빠르게 �
 #: Systems\JournalSystem\JournalSystem.xml:4881
 msgctxt "0x0002fc2b"
 msgid "You found a letter at an abandoned campsite. It instructs a young man to bring felandaris to a tree where a stone lady stands."
-msgstr "버려진 야영지에서 찾은 편지, 편지에는 어떤 남성에게 여인의 석상이 있는 나무에 펠란다리스를 가져와달라고 적혀있다."
+msgstr "버려진 야영지에서 찾은 편지다. 편지에는 어떤 남성에게 여인의 석상이 있는 나무로 펠란다리스를 가져와달라고 적혀있다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[138]/JournalTextData/TextReference
 #. STRING 280945(0x00044971) : Destroy undead to gain Nevarran ceremonial skulls at Apostate's Landing, {string}235093{/string}, and Storm's Solitude in the Storm Coast.
 #. STRING 281404(0x00044b3c) : Readings can be found among the belongings of followers who share this discipline. Or, if unavailable, among the wares of the book merchant in Val Royeaux.
 #: Systems\JournalSystem\JournalSystem.xml:4911
-#, fuzzy
 msgctxt "0x00040bb7"
 msgid ""
 "Adorn a skull in jewels, study the art of necromancy, and Viuus Anaxas will reveal the secrets of Nevarran death mages. {string}280945{/string} {string}281404{/string} \n"
@@ -981,7 +980,7 @@ msgstr ""
 "해골에 보석을 박아 준비하고, 강령술의 과정을 연구하면, 위우스 아낙사스가 네바라 마법사들이 사용하던 죽음을 이용한 마법을 알려줄 "
 "것이다. {string}280945{/string} {string}281404{/string} \n"
 "\n"
-"마법사는 주로 한가지의 특화 계열을 갈고 닦는 편이지만, 다른 계열의 마법을 배우고자 함 또한 상당한 이점 가진다."
+"마법사는 주로 한가지의 특화 계열을 갈고 닦는 편이지만, 다른 계열의 마법을 배우고자 하는 것 또한 상당한 이점을 가진다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[140]/JournalTextData/TextReference
@@ -1277,7 +1276,7 @@ msgstr "동쪽에 있는 창고가 잠겨있다. 아마 뭔가 쓸만한 게 있
 #: Systems\JournalSystem\JournalSystem.xml:5881
 msgctxt "0x00042277"
 msgid "Pieces of an old Tevinter mosaic are scattered across the Dales. If recovered, they could be reassembled."
-msgstr "데일즈 전역에 고대 테빈터 모자이크 조각이 흩어져있다. 회수해온다면 다시 맞춰 볼 수 있을 것 같다."
+msgstr "고대 테빈터 모자이크 조각들이 데일즈에 흩어져 있다. 회수해온다면 다시 맞춰 볼 수 있을 것 같다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[180]/JournalTextData/TextReference
@@ -1382,12 +1381,9 @@ msgstr "심문회의 병력은 별 탈 없이 버셸을 지나는 행진을 끝�
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[194]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:6227
-#, fuzzy
 msgctxt "0x00035328"
 msgid "Sera says the march prompted a tip from one her friends—something about a stash, no doubt some kind of reward for the Inquisition's trouble."
-msgstr ""
-"세라가 말하길 그 행진이 성공해 세라의 친구 중 하나가 뭘 좀 챙겨 주기로 했다고 한다. 숨겨두었던 걸 좀 준다고 했는데, 심문관이 "
-"처리한 문제에 대한 일종의 보상이라고 했다."
+msgstr "세라의 친구들이 행진에 대한 답례로 숨겨뒀던 은닉물을 심문회에게 넘기겠다고 한다, 심문회의 고충에 대한 틀림없는 보상이다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[196]/JournalTextData/TextReference
@@ -1411,7 +1407,7 @@ msgstr "폭풍 해안에 있는 모든 랜드마크를 찾아보자."
 #: Systems\JournalSystem\JournalSystem.xml:6296
 msgctxt "0x0002fc22"
 msgid "An elderly widower visits his wife's shrine each year, but the fighting between the mages and templars has prevented him from making the trip."
-msgstr "매년 나이 든 홀아비가 아내가 있는 성소를 방문하지만, 마법사와 템플러의 전투로 여정이 막혀버렸다."
+msgstr "한 노인이 매해 아내가 묻혀있는 사당에 가곤 했지만, 이제는 마법사들과 성기사들이 싸우는 통에 갈 수 없게 돼버렸다고 한다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[199]/JournalTextData/TextReference
@@ -1522,7 +1518,8 @@ msgstr "올레이 대학에서 에메랄드 무덤의 지질 조사에 필요한
 #: Systems\JournalSystem\JournalSystem.xml:6740
 msgctxt "0x000355cc"
 msgid "Cassandra has reason to believe that Corypheus is behind the disappearance of the Seekers of Truth, but she requires help to prove it."
-msgstr "카산드라는 진리의 탐구자들이 사라진 배후에 코리피우스가 있다고 믿는 이유가 있지만, 증명을 위해 도움이 필요하다."
+msgstr ""
+"카산드라에게는 진리의 탐구자들이 사라진 배후에 코리피우스가 있다고 믿을만한 이유가 있다. 하지만 이를 증명하려면 도움이 필요하다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[215]/JournalTextData/TextReference
@@ -1536,14 +1533,14 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:6813
 msgctxt "0x00032abd"
 msgid "A refugee at the crossroads is having trouble breathing. Without a specific potion, she is likely to die."
-msgstr "교차로에 있는 한 피난민이 호흡곤란 증세를 겪고 있습니다. 증세를 치료할 특정한 물약을 구하지 못하면 목숨을 잃게 될 것입니다."
+msgstr "교차로에 있는 한 피난민이 호흡곤란 증세를 겪고 있다. 증세를 치료할 특정한 물약을 구하지 못하면 목숨을 잃게 될 것이다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[218]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:6843
 msgctxt "0x0002e3b5"
 msgid "The healer needs certain herbs in order to treat injured patients."
-msgstr "치료사는 부상당한 환자를 치료하기 위해서 특정한 약초를 필요로합니다."
+msgstr "치료사는 부상당한 환자를 치료하기 위해서 특정한 약초를 필요로 하고있다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[219]/JournalTextData/TextReference
@@ -1557,7 +1554,7 @@ msgstr "교차로의 난민들은 숙력된 치료사의 도움을 받을 수 �
 #: Systems\JournalSystem\JournalSystem.xml:6869
 msgctxt "0x0002bbc3"
 msgid "Discover all landmarks in the Lost Temple of Dirthamen."
-msgstr "더타멘의 잃어버린 사원에서 모든 랜드마크를 찾아보자."
+msgstr "더타멘의 잃어버린 사원에서 모든 랜드마크를 찾아보아라."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[221]/JournalTextData/TextReference
@@ -1565,15 +1562,16 @@ msgstr "더타멘의 잃어버린 사원에서 모든 랜드마크를 찾아보�
 msgctxt "0x00032ff7"
 msgid "A letter found on a corpse said: \"Three times around the crowned statue, right hand close enough to brush the stone itself, and the spirits will listen.\" Doing so will apparently bring back someone's grandfather. The letter writer must really miss him."
 msgstr ""
-"시신에서 발견 된 편지에는 \"왕관을 쓴 조각상 세 바퀴, 오른손은 돌을 닦을 수 있을 만큼 가까이, 그리하면 영혼들이 귀 기울일 것.\""
-" 듣자하니 이러면 누군가의 할아버지를 불러올 것이라 한다. 글쓴이는 정말 할아버지가 그리웠나 보다."
+"시신에서 발견 된 편지에는 \"오른손은 돌을 닦을 수 있을 만큼 가까이에 두고, 왕관을 쓴 조각상 옆을 세 바퀴 돌아라, 그리하면 "
+"영혼들이 귀 기울일 것이니.\" 이라고 적혀있다. 이렇게 하면 누군가의 할아버지를 불러올 수 있는 듯 하다. 이 글쓴이는 할아버지를 매우 "
+"그리워한 것이 틀림없다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[222]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:6912
 msgctxt "0x0003fdb7"
 msgid "Find and complete all astrarium pedestals in the Storm Coast."
-msgstr "폭풍 해안에 존재하는 모든 천체 투영관을 찾고 별자리를 완성하십시오."
+msgstr "폭풍 해안에 존재하는 모든 천체 투영관을 찾고 별자리를 완성해라."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[223]/JournalTextData/TextReference
@@ -1594,7 +1592,7 @@ msgstr "적절한 재료만 있다면 헤이븐의 대장장이들은 상당히 
 #: Systems\JournalSystem\JournalSystem.xml:6968
 msgctxt "0x00039831"
 msgid "Find and complete all astrarium pedestals in the Western Approach."
-msgstr "서부 진입로에 존재하는 모든 천체 투영관을 찾고 별자리를 완성하십시오."
+msgstr "서부 진입로에 존재하는 모든 천체 투영관을 찾고 별자리를 완성해라."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[226]/JournalTextData/TextReference
@@ -1613,32 +1611,31 @@ msgstr "심문회는 병력을 제대로 무장시킬수 있는 더 많은 무�
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[228]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:7024
-#, fuzzy
 msgctxt "0x0004471a"
 msgid "A mage was carrying a strange, glowing key. Maybe it opens the door to the cabin in Apostate's Landing."
 msgstr ""
-"마법사는 이상하게 빛나는 열쇠를 가지고 있었습니다. 이 열쇠로 Apostate's Landing에 있는 오두막을 열 수 있을지도 모릅니다."
+"마법사가 가지고 있던 이상하고, 반짝거리는 열쇠다. 이 열쇠로 Apostate's Landing에 있는 오두막을 열 수 있을지도 모른다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[229]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:7037
 msgctxt "0x00042274"
 msgid "Pieces of an old Tevinter mosaic are scattered across the Hissing Wastes. If recovered, they could be reassembled."
-msgstr "고대 테빈터 모자이크 조각들이 칼바람 황무지에 흩어져 있다. 회수 해 온다면, 다시 맞춰 볼 수 있을 것 같다."
+msgstr "고대 테빈터 모자이크 조각들이 칼바람 황무지에 흩어져 있다. 이를 회수하면, 다시 맞춰 볼 수 있을 것 같다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[230]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:7067
 msgctxt "0x0002c791"
 msgid "There's an old Warden outpost in the Storm Coast that Blackwall wants to visit. It seems important to him."
-msgstr "블랙월은 폭풍 해안에 위치한 오래된 감시단 전초기지에 가기를 원합니다. 그에게 중요한 일 같아 보입니다."
+msgstr "블랙월이 폭풍 해안에 위치하고 있는 오래된 감시단 전초기지에 방문하고 싶다고 한다. 그에게 있어 중요한 일인 듯 하다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[232]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:7110
 msgctxt "0x00037f8e"
 msgid "Establish camps to hold the Exalted Plains and support Inquisition activity in the region."
-msgstr "승임의 평야에 야영지를 세우고 이 지역에서 활동하는 심문회를 지원한다."
+msgstr "승임의 평야에 야영지를 세우고 이 지역에서 활동하는 심문회를 지원해라."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[233]/JournalTextData/TextReference
@@ -1661,14 +1658,14 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:7149
 msgctxt "0x00042aa9"
 msgid "Collect every style of window."
-msgstr "모든 창문의 스타일을 수집."
+msgstr "모든 스타일의 창문을 수집하자."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[236]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:7179
 msgctxt "0x0003f973"
 msgid "One of Solas's old friends, a spirit, has been summoned against its will and needs his help."
-msgstr "솔라스의 오랜 친구 중 하나인, 한 영혼은, 그것의 의지와 상관없이 소환되었고 그의 도움을 필요로 합니다."
+msgstr "솔라스의 오랜 친구 중 하나인 한 영혼이, 자신의 의지와 상관없이 소환되었다. 영혼은 솔라스의 도움을 필요로 하고 있다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[238]/JournalTextData/TextReference
@@ -1711,7 +1708,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:7304
 msgctxt "0x0002dcf7"
 msgid "Frederic wants to concoct dragon bait. He has almost everything he needs, save for two rather specific ingredients."
-msgstr "프레데릭은 용 미끼를 만들어 내고 싶어한다. 필요한 것 대부분은 준비 됐지만, 특별한 두 가지 재료는 구하지 못했습니다."
+msgstr "프레데릭이 용 미끼를 만들고 싶어한다. 필요한 것의 대부분은 준비됐지만, 두 가지의 특별한 재료를 아직 구하지 못했다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[244]/JournalTextData/TextReference
@@ -11401,6 +11398,40 @@ msgid ""
 "\n"
 "—From {i}The Sermons of Justinia II{/i}"
 msgstr ""
+"테빈터 제국은 한때 일깨우는 바다라고 불리던 작은 어촌을 습격하고서는, 병약하고 노쇠한 자들만 남겨둔 채 마을 주민들을 미누라투스 시장에 "
+"노예로 팔아넘겼다. 그 인질 중 하나가 바로 어린 안드라스테였다.\n"
+"\n"
+"그녀는 이국에서 노예로 자랐다. 그녀는 탈출하여 홀로 모국으로 돌아가는 길고 험난한 여행을 했다. 무에서 피어나 알라마리 사령관의 아내가 "
+"되었다.\n"
+"\n"
+"그녀는 매일 신들에게 노래를 부르며 테빈터에 노예로 남아있는 그녀의 사람들을 도와달라고 청했다. 산과 바람의 거짓된 신들은 그녀에게 "
+"응하지 않았지만, 진실한 신은 달랐다.\n"
+"\n"
+"창조주가 말했다. 그는 그녀에게 그의 손안에 있는 모든 창조물을, 영계, 세계, 그 안의 모든 생물체들을 보여주었다. 그는 인간들이 "
+"침묵하는 신들과 악마를 숭배하며, 어찌하여 그를 잊었는지, 왜 그들을 운명에 맡겨두었는지도 보여주었다. 그러나 그녀의 목소리가 그에게까지 "
+"전해져, 그를 사로잡아 그 곁에 자리를 마련해주었으며, 모든 창조물을 다스릴 수 있게 하였다. \n"
+"\n"
+"그러나 안드라스테는 그녀의 사람들을 저버리지 않았다.\n"
+"\n"
+"그녀는 창조주에게 돌아와 그의 아이들을 제국의 잔인함으로부터 구해달라고 간청했다. 마지못해, 창조주는 인간들에게 다시금 기회를 주기로 "
+"했다. 안드라스테는 남편 마페라스에게 돌아가, 창조주가 자신에게 밝혀준 모든 것을 이야기했다. 그들은 함께 알라마리 군을 집결 시켜 "
+"제국의 마법사 군주를 향해 진군했고, 창조주가 함께였다.\n"
+"\n"
+"창조주의 검은, 창조 그 자체였다. 불과 홍수, 기근과 지진이 일어났다. 그들이 가는 곳마다, 안드라스테는 창조주의 사람들을 불러냈고, "
+"그들은 그 부름을 들었다. 안드라스테를 따르는 이들은 점점 늘어나 제국을 덮치는 파도가 될 때까지 불어났다. 마페라스는 사람들이 그가 "
+"아닌 안드라스테를 사랑하는 모습을 보았고, 가슴 속에서 그를 갉아먹는 벌레 한 마리가 자라났다.\n"
+"\n"
+"마침내, 안드라스테와 마페라스의 군대가 미누라투스 성문 코앞에 다가섰으나, 안드라스테는 그곳에 없었다. 마페라스가 테빈터에게 그녀를 "
+"넘기려고 몰래 모략을 세웠기 때문이었다. 이를 위해 집정관은 일깨우는 바다 남쪽의 모든 땅을 약속했다.\n"
+"\n"
+"그리하여 안드라스테는 알라마리와 테빈터의 군세 앞에서 말뚝에 묶여 화형당하는 동안, 그녀의 세속적인 남편은 군을 물린채  아무것도 하지 "
+"않았다. 그의 심장은 집어삼켜졌기때문이었다. 그러나 장작더미를 보자, 집정관은 마음이 약해졌다. 그는 안드라스테를 가여이 여겨 검을 "
+"뽑아, 그녀에게 지체 없는 죽음을 베풀었다.\n"
+"\n"
+"창조주는 그가 총애하던 자를 위해 눈물을 흘리며, 마페라스를 저주하고, 배신한 인간을 저주하고, 모든 창조물에게 등을 돌리며, 오직 "
+"안드라스테만을 거두어갔다. 우리의 여인은 그의 곁에 고요히 앉아계시는데, 여전히 그의 아이들을 가여이 여겨달라고 말한다.\n"
+"\n"
+"—{i}저스티니아 2세의 설교{/i} 에서"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1087]/JournalTextData/TextReference
@@ -16558,6 +16589,7 @@ msgstr ""
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1477]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:47239
+#, fuzzy
 msgctxt "0x0003244f"
 msgid ""
 "We hired your mercenary organization to facilitate this business venture, not add complications. In order for the Carta to extract the product without attracting undo attention, the area must be free from observation. If the fighting between the apostate mages and the renegade templars is insufficient, your efforts were to dissuade refugees from exploring the area and interfering with our operation.\n"
@@ -16566,6 +16598,14 @@ msgid ""
 "\n"
 "—An unsigned letter found in a remote mountain villa"
 msgstr ""
+"우리가 당신 용병 조직을 고용한 건, 사업 확장을 위해서지 문제를 더하기 위함이 아닙니다. 카르타의 주의를 끌지 않고 제품을 추출하기 "
+"위해서는 반드시 그 지역이 감시에서 벗어나야 합니다. 이단 마법사와 변절한 템플러 간의 교전이 충분하지 않을 경우, 당신들은 난민들이 "
+"지역을 탐험하고 우리의 작전을 방해하지 못하도록 설득해야 했습니다. \n"
+"\n"
+"우리는 다음 행동 방침을 결정하기 위해 발라마르의 주요 작전 기지에서 모일 것입니다. 가능한 한 빨리 대표자를 표시된 위치로 보내, "
+"상황을 설명하고 새 지침을 받으십시오.\n"
+"\n"
+"—외딴 산장에서 발견된 서명되지 않은 편지"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1478]/JournalTextData/TextReference
@@ -16573,6 +16613,8 @@ msgstr ""
 msgctxt "0x00041b42"
 msgid "Newly hatched dragons are roughly the size of a deer and voraciously hungry. They live for a short time in their mother's lair before venturing out on their own. The slender, wingless creatures are born in vast numbers, as only a few survive to adulthood."
 msgstr ""
+"갓 부화한 드래곤은 대략 사슴만 한 크기에 몹시 배고파한다. 그들은 독립하기 전 짧은 시간만을 어미의 은신처에서 보낸다. 늘씬하고 날개가 "
+"없는 이 생물은 아주 많은 수가 태어나는데, 그중 극소수만이 성체가 될 때까지 살아남기 때문이다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1479]/JournalTextData/TextReference
@@ -16614,6 +16656,23 @@ msgid ""
 "\n"
 "—Excerpt from an interview with a Qunari worker in Kirkwall"
 msgstr ""
+"놈들이 마차 위로 떨어졌을 때 우리는 항구 마을에서 대도시로 이동하던 중이었습니다. 그들은 짐승처럼 비명을 내질렀습니다. 얼굴에는 "
+"야만적이고 말도 안 되는 표식이 그려져 있었고, 무기는 부서지고 관리되지 않은 상태에, 돌진하자 씻지 않은 땀의 악취가 났습니다.\n"
+"\n"
+"탈-바쇼스는 으르렁거리며 싸웠습니다. 일꾼 중 한 명은 물렸습니다. 경비병들은 그들이 달아날 때까지 칼로 베고, 나머지는 화살로 "
+"마무리했습니다. 우리는 흔적을 따라 숲으로 들어가 그들의 진영을 찾았습니다. 여자들이 있었습니다. 마치 여자가 있어서는 안 되는 것처럼 "
+"웅크리고 움츠리고 있는 여자들, 더러운 아이들, 마르고 굶주린 아이들, 그리고 시체가 있었습니다. 그 시체를 영원히 잊지 못할 것입니다."
+"\n"
+"\n"
+"역시 탈-바쇼스가 더 있었고, 경비원들이 그들을 진압했습니다. 마지막 탈-바쇼스를 무장해제시키자 한 경비원이 그에게 왜 이렇게 사는지, "
+"왜 이런 행동을 했는지 물었습니다. 그 탈-바쇼스는 그와 눈을 마주치고 \"나는 쿤을 부정한다.\" 라 말하며 경비원의 칼에 몸을 "
+"던졌습니다.\n"
+"\n"
+"나는 쿤에게 의문이 있었습니다. 서로 인정하지는 않지만, 많은 사람이 가지고 있다고 생각합니다. 그러나 탈-바쇼스 전사의 눈에서 그 "
+"분노를 보았을 때, 오로지 쿤만이 억제하고 있는 끔찍한 야만성을 보았을 때, 나는 내가 어디에 속해있는지 알게 되었습니다. 나는 완벽한 "
+"쿠나리는 아니지만, 내 위치를 알고 내 목적을 압니다. 나는 만족합니다.\n"
+"\n"
+"—커크월에서 한 쿠나리 노동자와의 인터뷰 중 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1482]/JournalTextData/TextReference
@@ -17805,12 +17864,22 @@ msgstr ""
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1567]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:50185
+#, fuzzy
 msgctxt "0x00041b16"
 msgid ""
 "Maybe it's meant to be that size, and the regular ones are miniatures. I mean, a just and caring Maker would create them big to start. Then they can't hide. That's what bothers you, isn't it? The hiding? A big one like that, a good twelve-footer, sure, it's all fang and such, but you know where it is: dark places where the Veil is weak. You're never surprised by a giant one because you had to go to their \"house.\" They're not on your face at night or in your boot in the morning. And if their web is thick as rigging, you don't have to worry about that hair on your neck. Or the baby ones on the breeze! You hate that, right? Hitting a cloud of them while you're riding? Could be a dozen, but you only see one, and you try to smash it, but when you look, the thing is gone, and now your arm itches right up to the shoulder, and that hair feels like it's back, but you can't unbuckle your helm because of the gauntlets, and now the hair in your ear is tingly. That's just about the worst, isn't it?\n"
 "\n"
 "—Records of the Redcliffe guard, 14 Guardian 9:39. Witness recounting of provocation and resulting brawl. No jailings. Victim was being an arse."
 msgstr ""
+"아마 저 정도 크기일텐데, 보통은 훨씬 작죠. 제 말은, 정의롭고 자상한 창조주가 그것들을 크게 만들기 시작했죠. 그래서 놈들은 숨을 수 "
+"없게 되었습니다. 그게 괴로운 거죠. 그렇지 않습니까? 은신처요? 그렇게 큰, 12피트는 될, 송곳니 같은 게 온 곳에 달린 그놈이 "
+"어디에 있는지 당신은 이미 압니다. 바로 어둡고 장막이 약해진 곳이죠. 그 거대한 놈을 만나려면 그놈의 \"집\"으로 반드시 가야 하기 "
+"때문에 깜짝 놀랄 일은 없습니다. 놈들은 밤에는 얼굴에, 아침에는 당신의 부츠에 붙어있거나 하지 않습니다. 거미줄이 끈처럼 두꺼워서, "
+"목에 붙은 털을 걱정할 필요도 없습니다. 아니면 뭐, 바람을 타고 있는 조그만 놈들! 싫어하죠? 승마 중에 부딪히고? 열댓 마리일 수도 "
+"있는데, 한 마리 밖에 못 봐서, 때려잡으려 했는데, 다시 보면, 이미 없고, 팔에서부터 어깨까지 가렵다가, 등에 있는 것 같은데, "
+"건틀릿 때문에 투구를 벗을 수도 없고, 이제 귀속이 따끔거리죠. 뭐, 최악의 경우 말입니다.\n"
+"\n"
+"-레드클리프 경비병의 기록, 9:39 수호월 14일. 도발과 그로 인한 싸움에 대한 증언. 징계 없음. 피해자는 엉덩이."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1568]/JournalTextData/TextReference
@@ -19648,6 +19717,42 @@ msgid ""
 "\n"
 "—A tale often told in the Singing Maiden tavern"
 msgstr ""
+"베디비어 왕의 이야기를 들어본 적 있는가? 대게 왕들이 그렇듯, 베디비어는 자신의 백성들로부터 완전한 충성을 바라는 자만심이 가득한 "
+"자였다. 이를 위해서 그는 공포가 가장 좋은 수단이라 여겼고—결국 두려움에 휩싸인 자들은 그를 거스르거나 통치에 의문을 가지려 하지 "
+"않았다. 무엇보다도, 그들은 언제나 왕의 비위를 맞추기 위해 애썼다.\n"
+"\n"
+"베디비어는 \"처녀\"라 불리는 장치로, 희열을 느끼며 거리낌 없이 신하들에게 공포를 심어주었다. 사내처럼 길고, 크고, 깊은 모습의 "
+"처녀는 경첩이 달린 철관이었고, 그 안 갇힌 가여운 영혼을 꿰뚫어버리는 끔찍한 가시들로 가득 차 있었다. 베디비어의 처녀는 귀중한 "
+"물건이어서 왕좌가 있는 방에 영광스럽게 전시되었고, 종종 그 안에서는 비명이 들려왔다. 정적, 수상한 암살자, 반역을 일으킨 장관들—"
+"처녀는 모두 먹어 치웠다. 그러나 시간이 흐르면서, 왕의 식사에 소금간을 짜게 한 요리사, 그의 검을 떨어트린 시동처럼 점점 더 많은 "
+"사람들이 사소한 죄명으로 처녀에게 잡아먹히기 시작했다. 처녀는 왕국 전역에 먹구름을 덮었고, 사람들은 잔혹한 왕으로부터 구원받기를 바랐다."
+"\n"
+"\n"
+"그러던 어느 날, 한 낯선 여자가 도시에 도착했다. 그녀의 이름은 엠버이며, 먼 나라의 사절이라고 말했다. 그녀는 자신의 지도자가 "
+"베디비어의 지혜와 권위에 대해 들었으며, 왕의 조언을 구하러 왔다고 했다. 바다 건너 형제 왕들에게 찬사를 받았다는 생각에 자부심을 느낀 "
+"베디비어는 엠버의 알현을 허가했다.\n"
+"\n"
+"그들은 저녁 식사를 함께하고 춤을 추었는데, 엠버는 왕에게 온갖 아양을 떨었다. 밤의 끝 무렵, 엠버는 베디비어에게 권력을 쥐여준 "
+"악명높은 처녀를 보고 싶다고 했다. 찬양에 아찔해진 왕은 자랑스럽게 엠버에게 텅 빈 장치를 소개해주었다. 처녀를 본 엠버는 실망의 한숨을 "
+"내쉬며, \"하나도 무서워 보이지 않아요. 가시가 좀 더 뾰족할 거라 생각했어야 하나 봐요.\"\n"
+"\n"
+"베디비어는 그녀의 말에 얼굴을 붉히며 대답했다. \"가시는 아주 날카롭다. 아직도 저 끝에 매달려 있는 핏방울을 보아라.\"\n"
+"\n"
+"\"그렇지만 너무 작아요.\" 하고 엠버가 말했다. \"여자와 아이들만이 제물인가요?\"\n"
+"\n"
+"베디비어는 얼굴을 점점 더 붉히며, 대답하길 \"아니다. 처녀는 많은 남자들을 집어삼켰다.\" \n"
+"\n"
+"엠버는 고개를 가로저으며 왕에게 말하였다. \"믿을 수 없네요. 전사라면 이런 걸 두려워하지 않겠죠. 당신처럼 크고 근육질인 사람은 안에 "
+"들어가지도 않을테고요.\"\n"
+"\n"
+"왕은 웃으며, 엠버에게 처녀의 가치를 증명할 방법을 생각했다. \"나 같은 사람이 얼마나 쉽게 이 안에 들어갈 수 있는지 보여주마.\" "
+"그렇게 말하며, 그는 장치 안에 발을 내디뎠다. 그러나 엠버는 그 순간을 기다리고 있었고, 베디비어가 철관에 몸을 쑤셔 넣자마자 문을 쾅 "
+"닫아버렸다.\n"
+"\n"
+"엠버는 비명을 지르는 베디비어를 삼킨 그 처녀를 가지고 성을 지나 도시로 내려갔다. 그리고 마침내 왕의 폭정에서 해방된 사람들은 "
+"베디비어가 죽을 때까지 길거리에 울려 퍼지는 \"노래\"에 맞춰 환호하며 춤을 추었다.\n"
+"\n"
+"—노래하는 처녀 여관에서 자주 들려오는 이야기"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1707]/JournalTextData/TextReference
@@ -20127,6 +20232,7 @@ msgstr ""
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1736]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:55734
+#, fuzzy
 msgctxt "0x00043012"
 msgid ""
 "Seven years ago, my son Tristan was traveling through the Emerald Graves when bandits set upon him. He died at their hands. Since then, every year on the anniversary of his death, I light a candle for him at the Lion's Pavilion, near where they found him.\n"
@@ -20137,6 +20243,16 @@ msgid ""
 "\n"
 "Dolores"
 msgstr ""
+"7년 전, 나의 아들 Tristan이 에메랄드 무덤을 지나다 만난 도적들에게 둘러싸여 공격을 받았다. 그들의 손에서 숨을 거뒀다. 그 "
+"이후, 매년 아들의 기일이 돌아오면, 난 아들이 발견되었던 장소 근처였던 사자의 누각에서 아들을 위해 초에 불을 켜 왔다.\n"
+"\n"
+"이제 그 숲은 폭력적인 반란군 조직이 점령하고 있다. 큰길을 왔다 갔다 돌아다니며, 눈앞에 보이는 걸 마음껏 죽이고 다닌다. 그런 그들과 "
+"마주칠까 두려워하여, 아무도 내게 누각에 가는  길을 호위해주지 않을 것이다. 어느 용감하고 친절한 마음을 가진 사람이 나타나, 이 "
+"어미의 후회스러운 추모를 도와주고, 차갑게 식어버린 그 기억의 초에 다시 불을 붙여주시길.\n"
+"\n"
+"용서해주렴, 내 아들.\n"
+"\n"
+"Dolores"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1737]/JournalTextData/TextReference
@@ -22191,6 +22307,21 @@ msgid ""
 "All my love and prayers,\n"
 "Father"
 msgstr ""
+"{i}수신자에게 닿지 않은 편지이다:{/i}\n"
+"\n"
+"사랑하는 나의 페넬라,\n"
+"\n"
+"잘 지내니? 케이틀린 이모는 잘 계시니? 말썽부리는 건 아니겠지? 공부는 잘 되니? 얼마나 많이 배우는지를 이 편지를 읽어 드려서 "
+"알려드리렴.\n"
+"\n"
+"너무 오랫동안 집을 떠나 미안하다. 할 일이 많아서 그렇단다. 엄마가 아팠을 때 기억하니? 물을 갖다달랬는데, 엄마를 사랑하니까 그렇게 "
+"했었잖니? 그런 거란다. 가끔 우리는 사랑하는 사람을 돕기 위해서 어려운 일을 해야 한단다. 지금은 우리나라가 아파서 내가 도와야 하는 "
+"거야. 걱정하지 마렴. 여기는 아빠 말고도 다른 사람들이 많고, 우리가 더 잘 싸울 수 있게끔 특별한 약도 있단다.\n"
+"\n"
+"이제 곧 마법사들은 모두 사라질 거고 우리는 안전해질 거야. 금방 돌아갈게.\n"
+"\n"
+"모든 사랑과 기도를 담아,\n"
+"아빠가"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1902]/JournalTextData/TextReference
@@ -25524,6 +25655,11 @@ msgid ""
 "\n"
 "Leliana"
 msgstr ""
+"헤이븐을 향한 공격은 코리피우스가 템플러 기사단을 타락시키고 통제했다는 걸 보여주고 있어요. 이는 분명 동료 탐구자들의 주시 하에서는 "
+"불가능한 행동입니다. 하지만 탐구자, 특히 로드시커 루시우스의 모습은 어디에도 보이지 않아요. 사라진 걸까요? 아니면 카산드라가 생각하는 "
+"것처럼 무슨 일이 생긴 걸까요? 이 일에 대한 진실을 밝혀내야 합니다.\n"
+"\n"
+"렐리아나"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2154]/JournalTextData/TextReference
@@ -25531,6 +25667,10 @@ msgstr ""
 msgctxt "0x000354b3"
 msgid "For a time, finding the missing Seekers seemed be impossible. Early indications pointed to these men and women heading, one at a time, into Ferelden—but here their trail went cold. A chance rumor regarding Bann Loren, a Fereldan nobleman who had not been heard from for months, led Inquisition agents to investigate Caer Oswin... and they, too, went silent. These events are connected, and it seems this is where the missing Seekers will be found."
 msgstr ""
+"잠시 동안이지만, 실종된 탐구자들을 찾는 일은 불가능해 보였다. 초기 조사 내용을 보면 이들이 한 명씩 페렐던으로 향한 것은 확인됐지만 "
+"그 후로 행적이 끊겼다. 떠도는 소문으로 수개월간 모습을 드러내지 않고 있는 반 로렌이라는 페렐던의 귀족이 조사를 하기 위해 심문회 "
+"요원들을 데리고 케어 오스윈으로 갔다고 하는데... 그들의 소식 역시 끊겼다고 한다. 이 사건들은 연관이 있다. 그리고 바로 이곳이 "
+"사라진 탐구자들을 찾아낼 수 있는 장소인 듯하다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2155]/JournalTextData/TextReference
@@ -25624,7 +25764,7 @@ msgid ""
 "\n"
 "With Caralina now out of play, either Monette or Jean-Gaspard will be the next Duchess or Duke of Lydes. Jean-Gaspard has made a strong claim with his fellow nobles by attacking Monette's youth and lack of experience in the Game. For her part, Monette relies heavily upon her Chantry tutor, Mother Renette, who has rather desperately attempted to start a rumor that Jean-Gaspard owes his birth to his mother's affair with a traveling Grey Warden."
 msgstr ""
-"<i> 벤-헤스라쓰 정보 보고서의 일부 : </ i>\n"
+"<i> 벤-헤스라쓰 정보 보고서의 일부 : </i>\n"
 "\n"
 "카랄리나가 물러났으니 이제 Lydes의 차기 공작이 되는 것은 모네트나 장 가스파드 둘 중 하나가 됐다. 장 가스파드가 동료 귀족들과 "
 "함께 모네트가 어리다는 점, 그리고 게임에 참여할만한 경험이 부족하다는 점을 들어 거세게 공격해오고 있는 한편, 모네트는 자신의 챈트리 "
@@ -26308,6 +26448,17 @@ msgid ""
 "\n"
 "Ghita"
 msgstr ""
+"<i>스카이홀드로 배달된 편지. 보낸이는 자신이 악명높은 암살자 조합, 안티반 까마귀단의 일원이라고 주장하고 있다</i>\n"
+"\n"
+"헤르시니아에서 당신들의 요원들과 마주쳤습니다. 아무래도 심문회와 까마귀단이 같은 목표를 쫓고 있는 것 같아서 말입니다. 우리 고용주는 "
+"엔조 경을 증오합니다 그 이유는... 글쎄요, 그냥 개인적인 문제라고 칩시다. 물론 당신의 동기는 그 남자의 테빈터 친구들과 더 관계가 "
+"있겠지요?\n"
+"\n"
+"당신은 베나토리를 알고 있습니다. 그리고 우리는 엔조를 알죠. 우리가 어째서 경쟁을 해야 합니까? 우리에게 당신들의 지식을 빌려준다면 "
+"일이 더 빠르게 끝날 텐데요. 당신들은 적을 제거하고, 우리의 고용주는 정치적 경쟁자를 제거하고, 우리는 보수를 받고. 모두에게 행복한 "
+"결말이 아닙니까.\n"
+"\n"
+"기타"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2208]/JournalTextData/TextReference
@@ -26320,6 +26471,13 @@ msgid ""
 "\n"
 "Cullen"
 msgstr ""
+"심문회의 소규모 부대가 베나토리가 점거하고 있던 헤르시니아 외곽에 있는 창고를 찾아냈습니다. 까마귀단의 말대로 이곳은 리륨밀수를 위한 "
+"집결지였던 걸로 보입니다. 베나토리를 처리하고 그들의 보급품도 파괴했습니다.\n"
+"\n"
+"유감스러운 일이지만 그곳에 로드 경은 없었고 행적도 더이상 쫓을 수 없었습니다. 까마귀단에게 제거됐다는 소문도 있지만 확실하진 않습니다."
+"\n"
+"\n"
+"컬렌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2209]/JournalTextData/TextReference
@@ -26332,6 +26490,13 @@ msgid ""
 "\n"
 "Ghita"
 msgstr ""
+"베나토리에 대해 당신들이 가지고 있는 지식과, 까마귀단이 가지고 있는 엔조에 대한 정보 덕분에 도시 밖에 있는 한 창고를 추적했고, "
+"그곳에 있던 베나토리는 한 명도 살려두지 않고 처리했습니다. 안타깝게도 엔조 경은 그곳에 없었지만, 어차피 살날도 며칠 안 남았는데 "
+"그동안 최대한 즐기라고 두십시다.\n"
+"\n"
+"우리 까마귀단은 심문회와의 협력관계를 존중합니다. 그 의미로 베나토리 습격으로부터 얻은 재미있는 물건을 하나 보내지요.\n"
+"\n"
+"기타"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2210]/JournalTextData/TextReference
@@ -27747,6 +27912,10 @@ msgid ""
 "{string}280994{/string}\n"
 "{string}280999{/string}"
 msgstr ""
+"{string}265950{/string}\n"
+"\n"
+"{string}280994{/string}\n"
+"{string}280999{/string}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2317]/JournalTextData/TextReference
@@ -27759,6 +27928,11 @@ msgid ""
 "\n"
 "Zevran Arainai"
 msgstr ""
+"<i>스카이홀드에 전해진 편지:</i>\n"
+"\n"
+"내가 생각한 것보다 훨씬 많은 수의 베나토리와 엔조 경이 있는 곳을 알아냈어. 그럼 이제 귀찮은 친구들과 작별인사를 나누러 떠나볼까?\n"
+"\n"
+"제브란 아라이나이"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2318]/JournalTextData/TextReference
@@ -27771,6 +27945,13 @@ msgid ""
 "\n"
 "Zevran Arainai"
 msgstr ""
+"심문회는 딱히 치밀한 곳은 아니야, 그치? 그래도 정면승부 할때만큼은 피가 끓어오르는게 보이지. 엔조경과 베나토리는 동의하지 않을지도 "
+"모르지만.\n"
+"\n"
+"까마귀단을 위해 힌트를 좀 남겨놓고 왔어. 예를 들면 당신의 병사들이 단서를 쫓다가 어딜 찾아냈는데 어쩌다보니 엔조 경이 그 자리에 "
+"있었다던가 그런 거? 행복한 사고같은거지. 날 믿어. 당신들이 까마귀 단의 심기를 불편하게 만들기라도 하는 날에는 진짜 큰일 나.\n"
+"\n"
+"제브란 아라이나이"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2319]/JournalTextData/TextReference
@@ -27781,6 +27962,11 @@ msgid ""
 "\n"
 "Josephine"
 msgstr ""
+"안티바로부터 엔조 경이 사업을 위해 자유 동맹으로 향했다가 살해당했다는 보고가 들어왔어요. 제브란이나 제브란의 생김새를 묘사한 사람에 "
+"대한 언급은 일체 없었습니다. 제브란은 까마귀 단과 우호적인 관계가 아니예요. 목표물 하나를 제거했으니 아마도 당분간은 조용히 지내지 "
+"않을까 싶네요.\n"
+"\n"
+"조세핀"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2320]/JournalTextData/TextReference
@@ -27791,6 +27977,11 @@ msgid ""
 "\n"
 "Zevran Arainai"
 msgstr ""
+"당신 요원들이 주의를 끌어주겠다고 했을 때 그렇게 큰 화재가 일어날 거라곤 생각도 못 했어. 그때의 혼란스러운 상황이나 사람들이 "
+"빙빙돌면서 뛰어다니는 광경은 상당히 생기가 넘쳤지. 물론, 일이 끝날 무렵 엔조 경과 베나토리의 상태는 그다지 생기 있어 보이지 않았지만."
+"\n"
+"\n"
+"제브란 아라이나이"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2321]/JournalTextData/TextReference
@@ -27876,8 +28067,8 @@ msgid ""
 msgstr ""
 "<i> 백작부인과 함께 기분 좋은 티타임을 가졌다는 보고와 함께 당시 나눈 대화를 글로 적어 보내온 기록 :</i>\n"
 "\n"
-"삼각형모양? 아아, 당연히 기억하죠. 전에 어떤 안티바 상인이 여길 방문했던 적이 있는데 그 상인한테서 배를 한 척 구매하려 했었거든요. "
-"그때 그 사람이 내 미결산 회계장부에다가 그걸 그렸었어요. 거래는 바로 불발됐지만요. 아마 그 삼각형 그림에 대한 내 반응이 그 사람이 "
+"삼각형모양? 아아, 당연히 기억하죠. 전에 어떤 안티바 상인이 여길 방문했던 적이 있는데 그 상인한테서 배를 한 척 구매하려 했었어요. "
+"그때 그 사람이 내 미결산 회계장부에다가 그걸 그렸었죠. 거래는 곧바로 불발됐지만요. 아마 그 삼각형 그림에 대한 내 반응이 그 사람이 "
 "예상한 것과는 달랐나 봐요. 떠나면서 이렇게도 말했어요. \"그렇게 파도를 타려고 애쓰지 마십시오, 부인. 바다 건너편에 있는 자들이 곧 "
 "찾아올 테니까요.\""
 
@@ -27896,8 +28087,8 @@ msgid ""
 msgstr ""
 "<i>첩보원의 보고서</i>\n"
 "\n"
-"무역로를 보호하고 심문회를 위한 물자 수급을 용이하게 하기 위함이라는 표면적인 이유을 내세워서 제국 대로 부근에 기지를 세웠습니다. "
-"접근하는 자들은 모두 감시했고요.\n"
+"무역로를 보호하고 심문회를 위한 물자 수급을 용이하게 하기 위함이라는 표면적인 이유을 들어 제국 대로 부근에 기지를 세웠습니다. 접근하는 "
+"자들은 모두 감시했고요.\n"
 "\n"
 "네 번째 날 밤 : 난민을 태운 caravan이 보호를 위해 인근에 야영지를 꾸렸습니다. 자정이 지나니 목발을 짚은 한 젊은 여자가 "
 "순찰병과 잡담을 나누더군요. 그리고 병사가 지나가자 쭈그리고 앉아서 천막 기둥에 표시를 그리기 시작했죠.\n"
@@ -28798,6 +28989,9 @@ msgstr ""
 msgctxt "0x000408d8"
 msgid "The disgraced Grey Warden Ser Ruth wishes to make good on your judgment, Inquisitor. She has asked for assistance in reaching one of the deeper recesses of the Deep Roads, so that her premature Calling might serve a greater good. Laudable, but any expedition to the Deep Roads comes with considerable risk."
 msgstr ""
+"불명예를 안게 된 회색 감시자 서 워든이 심문관이 내린 판결을 받아들여 도움이 되고자 한다. 그녀는 자신이 받은 예정보다 빠른 부름을 "
+"통해, 모두에게 더 큰 도움이 될 수있도록 딥 로드의 더 깊은 곳으로 탐험하길 원하고 있고 따라서 심문회에게 지원을 요청했다. 이는 물론 "
+"칭찬받아 마땅한 행위이지만, 딥 로드로 향하는 모든 탐험에는 상당한 위험이 따른다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2398]/JournalTextData/TextReference
@@ -28808,6 +29002,12 @@ msgid ""
 "\n"
 "Cullen"
 msgstr ""
+"귀환한 병사는 감시자 루스가 돌격대를 이끌고 딥로드로 향했고 그들의 소리가 먼 곳까지 들렸다고 보고했습니다. 그들은 향후 번식지로 이용될 "
+"소지가 보이는 어둠의 피조물 거주지를 공격했습니다. 루스는 자신을 헐록 밀사라고 주장하는 적을 상대하던 중 전사했으며, 불행하게도 우리 "
+"병사 세명도 그녀와 함께 전사했습니다. 제가 알기로, 세 명 모두 대재앙에서 가족 모두를 잃고 유일하게 살아남은 사람들이었습니다. 그들이 "
+"전사한 곳에 후에 방문할 여행객들이 발견할 수 있도록, 심문회의 휘장을 걸었습니다.\n"
+"\n"
+"컬렌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2399]/JournalTextData/TextReference
@@ -28818,6 +29018,10 @@ msgid ""
 "\n"
 "Josephine"
 msgstr ""
+"드워프 전령에게서 감시자 루스가 망자의 군단 부대로부터 환영받았다는 보고를 받았습니다. 그들은 딥 로드로 내려간 뒤 돌아오지 않았습니다. "
+"군단의 전통에 따라 모두가 떠나기 전에 축하를 받았으며, 심문회는 서 루스의 이름으로 수많은 감사 인사를 받았습니다.\n"
+"\n"
+"조세핀"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2400]/JournalTextData/TextReference
@@ -28828,6 +29032,11 @@ msgid ""
 "\n"
 "Leliana"
 msgstr ""
+"우리의 도움으로 감시자 루스는 특히나 깊은 곳에 있던 어둠의 피조물 거주지를 찾아냈고, 놈들을 뿔뿔이 흩어지게 만들 만큼 충분히 큰 "
+"피해를 입혔습니다. 그녀의 시신은 지금껏 누구도 본 적이 없었던 어둠의 피조물의 시체 옆에서 발견되었다고 합니다. 서 루스의 시신은 "
+"페렐던 전통에 따라 회수된 뒤 화장하였으며 그 재는 챈트리로 보내져 매장되었습니다. 모두가 그녀의 희생을 기릴 것입니다.\n"
+"\n"
+"렐리아나"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2401]/JournalTextData/TextReference
@@ -29889,6 +30098,19 @@ msgid ""
 "\n"
 "Zevran"
 msgstr ""
+"안녕 친구들,\n"
+"\n"
+"우선 당신들과 함께한 작은 모험은 정말 즐거웠어. 귀찮게 하고 싶지는 않지만 부탁 하나만 들어줬으면 해. 어쨌든 엔조 경이 죽은 걸로 "
+"일은 끝났으니까.\n"
+"\n"
+"기억하겠지만 까마귀 단과 나는 관계가 그다지 좋지 않아. 내가 코앞에서 목표물을 훔쳐 간 일로 나에 대한 감정이 좋지 않거든. 그리고 그 "
+"말은 곧 그들이 보수를 받지 못했다는 의미지. 그들이 내가 한 일을 자기들이 한 것처럼 꾸며내서 받을 수도 있었겠지만... 내가 이미 "
+"녀석들의 고용주에게 편지를 보내버렸거든. 그래서 결국 그 보상을 내가 받아버렸지 뭐야.\n"
+"\n"
+"예상할 수 있듯이, 까마귀단이 나와 대화를 나누고 싶어 해. 그리고 헤르시니아로 인원을 더 보냈어. 내가 자유 동맹을 떠날 때가 된 거지."
+"\n"
+"\n"
+"제브란"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2489]/JournalTextData/TextReference
@@ -29901,6 +30123,11 @@ msgid ""
 "\n"
 "Zevran"
 msgstr ""
+"렐리아나,\n"
+"\n"
+"즐거웠어, 안녕.\n"
+"\n"
+"제브란"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2490]/JournalTextData/TextReference
@@ -30415,7 +30642,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:93511
 msgctxt "0x0003ff92"
 msgid "Josephine's parents have betrothed her to a man named Lord Otranto. Challenge him to a duel, where if he loses, he'll break off the engagement."
-msgstr ""
+msgstr "조세핀의 부모는 오트란토 경이라는 남성과 조세핀을 약혼시켰다. 결투를 신청해서 남성을 패배시키면 약혼을 파기시킬 수 있다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2529]/JournalTextData/TextReference
@@ -30426,6 +30653,9 @@ msgid ""
 "\n"
 "An envoy from Lord Otranto just arrived, Inquisitor. He's waiting to speak to you."
 msgstr ""
+"<i>심부름꾼으로부터 배달된 편지:</i>\n"
+"\n"
+"오트란토 경의 사절이 지금 막 도착했습니다, 심문관님. 당신과 대화를 나누기 위해 기다리고 계십니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2530]/JournalTextData/TextReference
@@ -31430,8 +31660,8 @@ msgid ""
 msgstr ""
 "심문관님,\n"
 "\n"
-"회색 감시자들은 훌륭한 기술로 용맹하게 맞서 싸웠습니다. 발 가몬드는 구제되었으며, 감시자 내의 사망자 수 또한 적습니다. 그들은 다음 "
-"명령을 기다리고 있습니다.\n"
+"회색 감시자들은 훌륭한 기술로 용맹하게 맞서 싸웠습니다. Val Gamord는 구제되었으며, 감시자 내의 사망자 수 또한 적습니다. "
+"그들은 다음 명령을 기다리고 있습니다.\n"
 "\n"
 "컬렌 사령관"
 
@@ -31456,6 +31686,7 @@ msgstr ""
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2600]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:97637
+#, fuzzy
 msgctxt "0x0003fc02"
 msgid ""
 "Inquisitor,\n"
@@ -31464,6 +31695,13 @@ msgid ""
 "\n"
 "Josephine"
 msgstr ""
+"심문관님,\n"
+"\n"
+"원조를 약속한 귀족들은 각자 영토에서 발생한 균열로 인해 어려움을 겪었습니다. 어둠의 피조물들은 회색 감시자들의 개입 전에 발 가몬드의 "
+"대부분을 파괴했습니다. 대재앙으로 인한 오염과 마을 방어 시설의 파손은 회색 감시자들 사이에서 많은 사상자를 낳았습니다. 피투성이가 "
+"되었지만, 그들은 여전히 싸울 것을 주장하고 있습니다.\n"
+"\n"
+"조세핀"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2601]/JournalTextData/TextReference
@@ -31502,6 +31740,14 @@ msgid ""
 "\n"
 "Ser Ruth"
 msgstr ""
+"회색 감시자 서 루스는 당신의 용서를 마음에 새기고, 챈트리의 충실한 신도들 사이에서 목적을 찾았다. 그녀는 능력이 부족한 전령이 위협을 "
+"받을 수 있는 지역에 창조주의 말을 전하기 위해 심문회에게 자원을 요청했다:\n"
+"\n"
+"심문관, 당신이 보여준 연민은 나로 하여금 심문회의 이름으로 행동하지 않을 수 없게 만들었습니다. 제가 창조주의 말씀이 닿지 않은 곳에 "
+"그분의 말씀을 전하고, 창조주의 빛이 사라진 곳에 다시 불씨를 틔우겠습니다. 안드라스테를 비난하는 자들에게 맞설 것이고, 그녀의 사람들이 "
+"갈 수 없는 곳에 영감을 불러일으키겠습니다. 창조주의 말씀을 전하던 도중 목숨이 다한다 해도 그것 또한 봉사의 일환이 될 것입니다.\n"
+"\n"
+"서 루스"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2604]/JournalTextData/TextReference
@@ -31512,6 +31758,10 @@ msgid ""
 "\n"
 "Cullen"
 msgstr ""
+"서 루스는 우리가 영향력을 미치고자 하는 경계에 걸쳐있는 여러 지역 사회에서 목격되었으며, 듣자 하니 수많은 우리 신병들에게 영감을 준 "
+"것으로 보입니다. 그 후에는 베나토리 세력권으로 추정되는 북쪽 지역 부근에서 사라졌습니다. 그녀의 생존 여부는 확인하지 못했습니다.\n"
+"\n"
+"컬렌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2605]/JournalTextData/TextReference
@@ -31519,6 +31769,8 @@ msgstr ""
 msgctxt "0x00040920"
 msgid "Ser Ruth took our rebuke to heart and has not pursued her self-destructive plan. It remains to be seen whether she can find a true peace with herself, but at the least she will not be dying in our name."
 msgstr ""
+"서 루스는 우리의 질책을 가슴에 새기고 자살행위나 다름없는 계획을 그만두기로 하였습니다. 그녀가 자신 안에서 진정한 평화를 찾을 수 "
+"있을지는 모르겠지만, 적어도 우리의 이름으로 죽지는 않을 겁니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2606]/JournalTextData/TextReference
@@ -31526,6 +31778,8 @@ msgstr ""
 msgctxt "0x00040921"
 msgid "Ser Ruth was misdirected to areas we have already cleared of factions opposed to us. She disappeared for a time, but reportedly surfaced in the chantry in Val Chevin. She has requested long-term lodging. Perhaps that is a good sign."
 msgstr ""
+"서 루스를 이미 심문회를 반대하는 세력이 정리된 지역으로 보냈습니다. 그곳에서 한동안 모습을 보이지 않다가, 발 셰빈의 챈트리에서 다시 "
+"모습을 드러냈다고 합니다. 또한 그곳에서 장기적으로 머물고 싶다고 요청하였습니다. 좋은 소식이로군요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2609]/JournalTextData/TextReference
@@ -32211,6 +32465,11 @@ msgid ""
 "\n"
 "Ghita"
 msgstr ""
+"<i>말 없는 배달원이 스카이홀드로 배달한 편지</i>\n"
+"\n"
+"엔조 경과 그의 수많은 베나토리 동료들이 있는 위치를 알아냈습니다. 끝낼 시간이군요.\n"
+"\n"
+"기타"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2657]/JournalTextData/TextReference
@@ -32223,6 +32482,12 @@ msgid ""
 "\n"
 "Ghita"
 msgstr ""
+"<i>말 없는 배달원이 스카이홀드로 배달한 편지</i>\n"
+"\n"
+"우리는 친애하는 로드 경을 위해 사고로 위장할 계획이었습니다. 하지만 직접적인 접근 방식도 나쁘진 않군요. 어차피 어느쪽을 선택하든 "
+"우리가 보수를 받을거라는 사실은 변함 없으니까요.\n"
+"\n"
+"기타"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2658]/JournalTextData/TextReference
@@ -32233,6 +32498,10 @@ msgid ""
 "\n"
 "Josephine"
 msgstr ""
+"리알토의 엔조 경의 시신은 화장 절차를 위해 안티바에 있는 그의 가족에게 돌려보내졌습니다. 가족들은 엔조 경이 자유 동맹에서 사업을 하던 "
+"도중 \"사고\"를 당했다고 생각하고 있어요. 까마귀단이 큰 보수를 받은 건 더 말할 것도 없고요.\n"
+"\n"
+"조세핀"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2659]/JournalTextData/TextReference
@@ -32245,6 +32514,12 @@ msgid ""
 "\n"
 "Ghita"
 msgstr ""
+"말 없는 배달원이 스카이홀드로 배달한 편지:\n"
+"\n"
+"그 화재에서... 가엾은 엔조 경을 포함한 많은 사람들이 혼란 속에서 목숨을 잃었습니다. 정말로 끔찍한 사고였지요. 이에 까마귀단은 "
+"심문회에게 안부를 전합니다.\n"
+"\n"
+"기타"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2660]/JournalTextData/TextReference
@@ -35313,6 +35588,15 @@ msgid ""
 "\n"
 "Mason"
 msgstr ""
+"<i>안티바에서 렐리아나에게 전달된 보고서:</i>\n"
+"\n"
+"베나토리가 붉은 리륨을 안티바로 밀반입하고 있음에도 불구하고 지금까지 우리의 통제를 벗어날 수 있었던 건 리알토의 엔조 경이 그들을 돕고 "
+"있기 때문이라고 생각됩니다.\n"
+"\n"
+"엔조는 영리하고 평판이 좋으며 안티바 왕족과 관계가 있는 인물입니다. 증거 없이 접근하면 흔적을 지우고 자신의 협력자들을 우리로부터 등을 "
+"돌리게 만들 수도 있습니다. 이 일은 조심스럽게 접근해야 합니다.\n"
+"\n"
+"석공"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2881]/JournalTextData/TextReference
@@ -35335,6 +35619,25 @@ msgid ""
 "\n"
 "Leliana"
 msgstr ""
+"렐리아나 수녀,\n"
+"\n"
+"우리 요원들이 엔조 경의 저택에 들어가 엔조와 베나토리가 서로 연관되어있음을 보여주는 서신 몇 통을 찾아냈습니다. 더 안 좋은 건 엔조가 "
+"그들의 철학을 받아들이는 것 그 이상의 것을 하고 있는 것 같다는 점입니다 그는 붉은 리륨 광산에 \"자원자\"들을 보내는 일을 주선하고 "
+"있습니다. 하지만 리알토의 가난하고 불행한 삶을 살고 있는 거주민들을 주로 데려갔기 때문에 그들이 실종되었다는 사실을 알아차리는 사람은 "
+"거의 없었습니다.\n"
+"\n"
+"우리 요원들은 이 증거를 가지고 엔조와 정면으로 맞설 준비를 했으나, 그는 돌아오지 않았습니다. 알고보니 자유 동맹의 헤르시니아로 향하는 "
+"배를 빌렸더군요. 그가 우리의 존재를 알아차렸을 가능성은 거의 없지만 무엇인가가 그를 겁먹게 한 것 같습니다.\n"
+"\n"
+"석공\n"
+"\n"
+"<i>렐리아나가 그밑에 남겨놓은 글귀</i>\n"
+"\n"
+"우리 요원들에게 자유 동맹까지 엔조 경을 추적하게 했습니다. 그가 베나토리를 위해 계속 일하도록 그냥 두어선 안됩니다.\n"
+"\n"
+"흔적을 놓치지 않도록 기도해주십시오.\n"
+"\n"
+"렐리아나"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2882]/JournalTextData/TextReference
@@ -35393,7 +35696,7 @@ msgstr ""
 #: Systems\JournalSystem\JournalSystem.xml:114381
 msgctxt "0x0003ffc8"
 msgid "Send agents to find out information about Josephine's arranged finance, Lord Otranto, before dueling him in Val Royeaux."
-msgstr ""
+msgstr "발 르와이요에서 조세핀의 정략 약혼 상대인 오트란토경과 결투하기 전, 요원들을 보내 그에 대해 알아보자."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2885]/JournalTextData/TextReference
@@ -35406,6 +35709,13 @@ msgid ""
 "\n"
 "Although the Otrantos have buried the details, even mentioning the name \"Terraza\" in their presence is ill-advised."
 msgstr ""
+"<i>연 2회 발행되는 다양하고 가치있는 안티바 가문 개요서</i>\n"
+"\n"
+"최근에 벌어진 오트란토 가문 역사상 가장 커다란 추문은, 그들의 재산 몇가지를 두고 테라자 가문을 속인 사건이다. 특히 주목을 끈 부분은 "
+"사기 행위자체가 아니라 그 사기가 어설프게 이루어졌다는 점인데, 이 무례한 행위에 대한 논쟁이 계속되면서 양측 가문 모두가 피를 보았고 "
+"이 사건은 두 가문 모두에게 쓰라린 순간으로 남았다.\n"
+"\n"
+"오트란토 가문은 이 사건의 세부적인 사항을 숨겼으나 그들 앞에서 \"테라자\"라는 이름을 입에 올리는 것은 경솔한 행위가 된다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2886]/JournalTextData/TextReference
@@ -35469,7 +35779,7 @@ msgid ""
 "\n"
 "With Monette removed from play, Caralina and Jean-Gaspard now vie openly for the duchy. Caralina is using her husband's connections to make her claim appear stronger, while Jean-Gaspard rides for Val Firmin to challenge Caralina's husband to a duel in response to the perceived insult."
 msgstr ""
-"<i> 벤-헤스라쓰 정보 보고서의 일부 : </ i>\n"
+"<i> 벤-헤스라쓰 정보 보고서의 일부 : </i>\n"
 "\n"
 "모네트가 물러난 지금, 카랄리나와 장 가스파드는 공작 영지를 두고 공개적으로 경쟁하게 되었다. 카랄리나가 남편의 연줄을 이용해 자신의 "
 "권리를 더 거세게 주장하고 있는 한편, 장 가스파드는 카랄리나의 부군에게 당한 모욕에 대한 대응으로 그에게 결투를 신청하기 위해 발 "
@@ -36024,9 +36334,9 @@ msgid ""
 msgstr ""
 "심문관,\n"
 "\n"
-"당신이 내 나라의 서부 지역에 야영지를 꾸린 걸 보니 진작에 당신을 만났어야 했다는 생각이 드는군요. 누군가 지도에서 헤이븐을 없애버리기 "
-"전에 말입니다. 더 정확히 말하면 <i>내</i> 지도에서요. 내가 짜증나지 않겠습니까? 처음에는 허가도 받지 않은 군대 하나가 페렐던에 "
-"들어서더니, 이젠 두 개랍니다. 이런, 딴 얘기로 샜군요. 요점은 페렐던의 통치자인 나 알리스터 왕이 그 두 번째 군대의 배후에 누가 "
+"당신이 내 나라의 서부 지역에 야영지를 꾸린 걸 보니 진작에 당신을 만났걸 그랬다는 생각이 드는군요. 누군가 지도에서 헤이븐을 없애버리기 "
+"전에 말입니다. 더 정확히 말하면 <i>내</i> 지도에서요. 기분이 언짢습니다. 처음에 허가도 받지 않은 군대 하나가 페렐던에 "
+"들어서더니, 이젠 두 개라니요. 이런, 딴 얘기로 샜군요. 요점은 페렐던의 통치자인 나 알리스터 왕이 그 두 번째 군대의 배후에 누가 "
 "있는지 알아냈다는 겁니다. 그의 테빈터 광신도 집단 신도들이 아마 왕궁 어딘가에 잠입해 있는듯합니다. 분명 잔뜩 신나있겠지요.\n"
 "\n"
 "심문회는 놈들에 대해 더 많은 걸 알고 있지 않습니까. 당신들이 우리를 도와 그 뾰족한 검으로 광신도들을 색출해낸 뒤 이곳에서 떠나달라고 "
@@ -36046,6 +36356,13 @@ msgid ""
 "\n"
 "Queen Anora Theirin"
 msgstr ""
+"심문관,\n"
+"\n"
+"솔직하게 말해서, 일이 제 예상보다 훨씬 잘 해결됐습니다. 당신 부하들의 도움 덕분에 네 명의 첩자를 찾아냈고, 그중 한 명은 부엌에서 "
+"일하고 있었어요. 아마 내 암살 계획을 꾸미고 있었겠지요. 이 광신 집단과 그 지도자들이 페렐던의 적이라는 명백한 증거입니다. 심문관 "
+"당신에게 큰 신세를 졌네요. 어리석은 자들에게 맞서는 당신들에게 나의 지지가 큰 의미가 되기를 바랍니다.\n"
+"\n"
+"여왕 아노라 테이린"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2930]/JournalTextData/TextReference
@@ -36058,11 +36375,17 @@ msgid ""
 "\n"
 "King Alistair Theirin"
 msgstr ""
+"심문관,\n"
+"\n"
+"이야, 진짜 멋졌습니다! 주방 하인으로 위장한 사악한 마법사들과의 한판 싸움이라니! 화염 공이 날아다니고 검이 번쩍이고... 아주 옛 "
+"생각나서 혼났네요. 내 말 들어봐요. 난 한동안 그 주방에서 나오는 음식은 절대로 입에 넣지 않을 겁니다. 날 독살할 생각이었던 걸까요? "
+"역겨운 광신도 집단 같으니. 어쨌든 간에 심문회의 도움은 감사합니다. 당신들이 없었다면 놈들을 찾아내지 못했을 겁니다.\n"
+"\n"
+"국왕 알리스터 테이린"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2931]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:117215
-#, fuzzy
 msgctxt "0x00049f3e"
 msgid "Inquisition scouts supporting Legion of the Dead forces at the ruins of Heidrun Thaig report no contact with—or sightings of—Shaper Valta. However, a strange cry recently emanated from the Titan caverns, loud enough to be heard at the mining lift's campsite above. The cry's source remains unclear, but the voice was described as not belonging to either beast or darkspawn. Shaper Valta may be attempting to reestablish contact with her people—and may require assistance."
 msgstr ""
@@ -36223,6 +36546,15 @@ msgid ""
 "\n"
 "Zevran Arainai"
 msgstr ""
+"친애하는 렐리아나,\n"
+"\n"
+"심문회가 까마귀 단과 손을 잡았다면서? 내가 이걸 묻는 이유는 아무래도 당신이 고용한 암살자 중 하나를 내가 제거해버린 것 같아서야. "
+"그자가 당신 쪽 사람이라는 걸 알았다면 최소한 청부는 끝낼 수 있게 해줬을텐데 말이지.\n"
+"\n"
+"어차피 이미 벌어진 일, 내가 당신한테 보상할 수 있게만 해줘. 당신도 알다시피 내가 까마귀단보단 훨씬 낫잖아. 같이 일하기에도 그렇고 "
+"말이야. 친구를 위한 일이니까 비용은 일부만 받는 걸로 할게.\n"
+"\n"
+"제브란 아라이나이"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2948]/JournalTextData/TextReference
@@ -36247,6 +36579,11 @@ msgid ""
 "\n"
 "Ghita"
 msgstr ""
+"<i>말 없는 배달원이 스카이홀드로 배달한 편지</i>\n"
+"\n"
+"우리 일원 한 명이 실종되는 바람에 추적이 지체됐군요. 하지만 엔조는 더 이상 우릴 피하지 못할 겁니다. 계속해서 알려 드리겠습니다.\n"
+"\n"
+"기타"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2950]/JournalTextData/TextReference
@@ -36257,6 +36594,10 @@ msgid ""
 "\n"
 "Leliana"
 msgstr ""
+"제브란에게 그가 필요한 자원을 제공할겁니다. 물론 까마귀단에게는 비밀입니다. 엔조경은 찾기 어려운 자입니다. 헤르시니아에 더 촛점을 "
+"맞춘다고해서 문제가 되지는 않을겁니다.\n"
+"\n"
+"렐리아나"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2953]/JournalTextData/TextReference
@@ -36674,7 +37015,7 @@ msgid ""
 "\n"
 "Leliana"
 msgstr ""
-"일을 완수했습니다. 제가 필요한 건 몇가지 사례가 다였어요. 심문회를 폄하하고 다니는 동시에 필사적으로 숨기고 싶어하는 비밀을 가지고 "
+"일을 완수했습니다. 제가 필요한 건 몇가지 사례 뿐이었습니다. 심문회를 폄하하고 다니는 동시에 필사적으로 숨기고 싶어하는 비밀을 가지고 "
 "있는 성직자들에 대한 사례 말이죠. 그 중에서는 자신에게 말을 걸고 있는 요원을 죽이려던 자도 있었습니다. 우리 요원은 자기방어를 위해 "
 "그자를 죽여야만 했고요. 이번 일은 제가 기대한것보다 더 성공적이었습니다. 장기적으로 보면 심문회를 배척하려는 챈트리의 결의를 더 굳힌 "
 "셈이 됐을 수도 있지만 현재로선 겁을 먹은 상태기도 하고, 챈트리를 우리의 정치적 동맹으로 생각해도 좋을 것 같습니다.\n"
@@ -36763,6 +37104,11 @@ msgid ""
 "\n"
 "Ghita"
 msgstr ""
+"<i>스카이홀드로 배달된 편지:</i>\n"
+"\n"
+"베나토리와 결탁한 안티바인이 과연 엔조 뿐일까요? 우리 까마귀단은 이에 대해 더 조사할 의향이 있습니다... 물론 유료입니다.\n"
+"\n"
+"기타"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2994]/JournalTextData/TextReference
@@ -36773,6 +37119,9 @@ msgid ""
 "\n"
 "Josephine"
 msgstr ""
+"까마귀 단으로부터는 더 이상 아무 소식도 듣지 못했습니다. 분명히 다음 계약 일을 시작했겠지요.\n"
+"\n"
+"조세핀"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2995]/JournalTextData/TextReference
@@ -36783,6 +37132,9 @@ msgid ""
 "\n"
 "Leliana"
 msgstr ""
+"제 요원들이 까마귀 단이 제공한 수많은 단서를 추적하고 있습니다. 베나토리는 더이상 안티바에는 발 들여놓기 힘들겠군요.\n"
+"\n"
+"렐리아나"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2996]/JournalTextData/TextReference
@@ -36842,6 +37194,15 @@ msgid ""
 "I await your response,\n"
 "Queen Anora Theirin"
 msgstr ""
+"친애하는 심문관,\n"
+"\n"
+"최근 당신으로부터 베나토리에 관한 문제에 도움을 받았었지요. 그리고 이번에도 심문회의 도움이 필요합니다. 올레이가 평화를 되찾은 지금, "
+"저는 여제 셀린과 새로운 회담을 가지고자 합니다. 이유는 설명할 수 없지만, 여제와 나는 그다지 우호적인 관계가 아닙니다. 양국간의 "
+"평화가 모두에게 있어 최고의 관심사인 반면, 현재의 상황은 여전히 미묘합니다. 여제는 당신에게 빚을 졌지요. 당신이라면 누구도 할 수 "
+"없는 방식으로 이 회담을 가능하게 할 수 있습니다.\n"
+"\n"
+"답변 기다리겠습니다.\n"
+"여왕 아노라 테이린"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[3000]/JournalTextData/TextReference
@@ -36854,6 +37215,14 @@ msgid ""
 "\n"
 "King Alistair Theirin"
 msgstr ""
+"심문관,\n"
+"\n"
+"문제가 있습니다. 일단 나는 가면이 없어요. 그러니 올레이 여제가 \"진정한 평화 회담\"에 참여해달라며 날 초대했을때 내가 긴장이 되지 "
+"않았겠습니까? 올레이인들이 그런 말을 할때 뭘 의미하고 말하는지 모르겠지만, 거기에 독이나 춤이 동반될거라는 얘기는 들었습니다. 어쩌면 "
+"둘 다일수도 있겠죠. 어쨌든 당신이 셀린 여제를 알고있다고 들었고, 그녀가 당신 덕분에 목숨을 건졌다는 이야기도 들었습니다. 당신이 내 "
+"목숨 역시 구해준 적이 있다는 점을 생각해 봤을때, 이번에도 심문회가 이 회담이 이뤄질 수 있도록 도움을 줄 수 있지 않을까 싶군요.\n"
+"\n"
+"국왕 알리스터 테이린"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[3001]/JournalTextData/TextReference
@@ -36867,6 +37236,16 @@ msgid ""
 "I await your response,\n"
 "Queen Anora Theirin"
 msgstr ""
+"친애하는 심문관,\n"
+"\n"
+"최근 당신으로부터 베나토리에 관한 문제에 도움을 받았었지요. 그리고 이번에도 심문회의 도움이 필요합니다. 대공작 가스파드는 올레이의 "
+"왕위를 차지할 예정이며, 과거에 페렐던을 침공하겠다고 위협한 전적이 있는 자입니다. 현재 그의 나라는 침공해올만한 상태는 아니지만, "
+"우리를 불안하게 만들고 있습니다. 따라서 저는 그 남자를 회담에 참여시키고 싶습니다. 심문회의 사람들은 그 자를 알고 있고, 그는 "
+"당신에게 빚을 졌지요. 양국 간의 평화는 모든 사람들에게 최선의 이익을 가져다줄 수 있습니다. 해서 심문회가 이 회담이 이뤄질 수 있도록 "
+"도움을 주었으면 합니다.\n"
+"\n"
+"답변 기다리겠습니다.\n"
+"여왕 아노라 테이린"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[3002]/JournalTextData/TextReference
@@ -36879,6 +37258,14 @@ msgid ""
 "\n"
 "King Alistair Theirin"
 msgstr ""
+"심문관,\n"
+"\n"
+"당신이 가스파르라는 자가 올레이 왕좌에 오르는데 큰 역할을 했다고 들었습니다. 그 자가 페렐던을 향해 벌써 수년동안 칼을 휘두르고 있다는 "
+"사실을 알고는 계신건지? 아마 지난 번의 그 침략이라는게 아주 잘 먹혔기 때문이겠죠. 올레이의 상황을 보면 당분간은 침략해 올 것 같지 "
+"않지만 그자에 대한 당신의 영향력을 빌려 평화회담을 이끌어낼 수 있다면 정말 좋을 것 같군요. 나의 춤 실력을 생각해 봤을때, 우연히 "
+"전쟁이 시작되어 버리는 상황이 벌어지지 않으려면 심문회의 존재가 꼭 필요할 것 같아서 말이지요.\n"
+"\n"
+"국왕 알리스터 테이린"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[3003]/JournalTextData/TextReference
@@ -36886,6 +37273,9 @@ msgstr ""
 msgctxt "0x0004091b"
 msgid "The talks between Ferelden and Orlais took place in Jader and went off more or less without incident. Queen Anora is a skilled diplomat, after all, and it was clear that the Orlesians were not interested in more war. This is only the first such meeting, but we've paved the way for a peace treaty. Queen Anora sent her thanks, along with a sword that is said to have belonged to the Fereldan hero King Calenhad. According to her, it is a symbol of her appreciation for the Inquisition's efforts."
 msgstr ""
+"페렐던과 올레이의 회담은 제이더에서 개최되었고, 사고 없이 무사히 진행되었다. 아노라 여왕은 숙련된 외교관이었고, 올레이인들도 더 이상의 "
+"전쟁을 일으키는데 관심이 없음이 분명했다. 이는 단지 첫 번째 회담일 뿐이지만, 평화 협정을 체결할 수 있는 길이 열린 것이나 "
+"마찬가지이다. 아노라 여왕은 심문회의 노력에 대한 감사의 상징이라며, 페렐던의 영웅인 켈렌하드 왕의 검과 함께 우리에게 감사를 전해왔다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[3004]/JournalTextData/TextReference
@@ -36893,6 +37283,10 @@ msgstr ""
 msgctxt "0x0004091c"
 msgid "The talks between Ferelden and Orlais took place in Jader, and it... was not easy to keep matters from spiraling out of control. King Alistair is no diplomat, after all, and had little patience for the endless fanfare. Thankfully, the Orlesians are uninterested in more war, and we were able to smooth the way toward an eventual peace treaty. The king sent along a sword that once belonged to the Fereldan hero King Calenhad, as thanks for what the Inquisition helped create."
 msgstr ""
+"페렐던과 올레이의 회담은 제이더에서 개최되었다. 하지만... 상황이 통제불능으로 빠지지 않게 막는 건 쉬운 일이 아니었다. 알리스터 왕은 "
+"외교관이 아닌 데다가, 그에게는 끝없는 축하 과정을 견딜만한 인내심이 없었다. 다행히도 올레이인들은 더 이상의 전쟁을 일으키는데 관심이 "
+"없었으므로, 궁극적인 평화 협정을 향해 순조롭게 나아갈 수 있었다. 왕은 조약을 맺는 데 있어 심문회가 수고해 준 것에 대한 감사의 "
+"의미로 한때 페렐던의 영웅이었던 켈렌하드왕 소유의 검을 보내왔다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[3007]/JournalTextData/TextReference
@@ -37535,6 +37929,20 @@ msgid ""
 "\n"
 "<i>The location of a freehold follows, and the name \"Isthmus Goodson.\"</i>"
 msgstr ""
+"<i>심문회의 약제사인 엘란 베말이 심문관에게 보낸 편지:</i>\n"
+"\n"
+"심문관,\n"
+"\n"
+"나는 여러 가지 면에서 성격이 그다지 좋은 사람이 아닙니다. \"사람은 과거가 있어야 미래를 개척할 수 있다.\"는 말이 있죠. 사람들이 "
+"그렇게 말한다고요? 분명히 말씀드려야겠군요. 내가 그렇게 말하는 겁니다. 난 내 자신의 의지로 이곳에 머물며 봉사를 하고 있습니다. 난 "
+"당신이 가치를 알고 그것을 보호하기 위해 투자할 줄 아는 사람이라고 믿습니다.\n"
+"\n"
+"나의 어떤 자원들이 다른 사람의 손에 들어갔습니다. 내가 제조법을 만드는 데 도움을 주던 자였죠. 그게 다른 곳에서 복제될 경우 내 "
+"작품의 가치가 떨어집니다. 이것은 \"되찾는\" 문제라기보다 \"거부\"의 문제입니다. 이 약을 달이는 도플갱어로부터 누가 혜택을 누리게 "
+"될지 누가 알겠습니까? 무시하셔도 상관없습니다. 하지만 심문회의 자산은 심문회만의 것으로 남는 게 제일 좋지 않겠습니까? 이 사람을 "
+"단순히 사라지게 만들 수만 있다면? 그건 어떨까요?\n"
+"\n"
+"<i>위치는 아래와 같고, 그 자의 이름은 \"이스머스 굿선\"입니다.</i>"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[3044]/JournalTextData/TextReference
@@ -38048,10 +38456,10 @@ msgid ""
 msgstr ""
 "심문회의 지도자분들께,\n"
 "\n"
-"정말이지, 대단합니다. 헤바라 수녀가 제 사무실을 찾아와 저나 제 동료들이 겪어야 했던 불편에 대해 거듭 사과했습니다. 그녀와 일당들에게 "
-"조롱받은 일을 생각했을 때, 이제부터라도 대학을 향한 어줍잖은 언사들을 강하게 제재시키겠다는 확언을 듣게 된 것은 무척이나 기분좋은 "
-"일이었습니다. 교황이 선출된 후에도 그 말에 변함이 없을지는 두고 봐야겠지요. 심문회에 감사를 표합니다. 저희 교수들이 관심이 있으실만한 "
-"몇가지 물건을 같이 보냈습니다.\n"
+"정말이지, 대단합니다. 헤바라 수녀가 제 사무실을 찾아와 저나 제 동료들이 겪어야 했던 불편에 대해 거듭 <i>사과했습니다.</i> "
+"그녀와 일당들에게 조롱받은 일을 생각했을 때, 이제부터라도 대학을 향한 어줍잖은 언사들을 강하게 제재시키겠다는 확언을 듣게 된 것은 "
+"무척이나 기분좋은 일이었습니다. 교황이 선출된 후에도 그 말에 변함이 없을지는 두고 봐야겠지요. 심문회에 감사를 표합니다. 저희 교수들이 "
+"관심이 있으실만한 몇가지 물건을 같이 보냈습니다.\n"
 "\n"
 "위르겐 훌리스 총장\n"
 "올레이 대학"
@@ -38154,6 +38562,16 @@ msgid ""
 "\n"
 "Josephine"
 msgstr ""
+"심문관:\n"
+"\n"
+"두 파라켓을 귀족으로 승격시켜달라는 공식 요청 문서에 올레이 판사의 서명이 필요해요. 이를 위해 올드 판사에게 부탁했더니 대가로 자신의 "
+"사냥 원정에 동행해 줄 병사들을 서리등선 산맥으로 보내달라고 하네요. 그의 말에 따르면 크기가 말만한 어떤 희귀종 거미가 스카이홀드에서 "
+"서쪽 방향으로 며칠 동안 가다 보면 있는 동굴 안에 살고 있다고 해요. 길을 안내해 줄 수 있도록 산맥의 지리를 잘 아는 의장대면 더 "
+"좋겠다는군요.\n"
+"\n"
+"올드 판사에게 정찰대와 장교들을 동행시켜주면 기꺼이 우리가 필요한 문서에 서명을 해 줄 거예요.\n"
+"\n"
+"조세핀"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[3079]/JournalTextData/TextReference
@@ -38168,6 +38586,15 @@ msgid ""
 "\n"
 "Josephine"
 msgstr ""
+"심문관,\n"
+"\n"
+"두 파라켓을 다시 귀족으로 승격시키기 위해 필요한 서류에 올드 판사의 서명을 받았어요. 이제 그 서류를 여왕의 장관으로부터 승인받기만 "
+"하면 돼요. 시간 되시면 저한테 한번 들러주세요.\n"
+"\n"
+"그건 그렇고 판사가 우리를 향해 찬사를 보내왔어요. 사냥은 경이로웠고, 우리 병사들은 \"비명을 질러대는 식인괴물\"을 상대로 용감하게 "
+"맞섰다고요. 부상자들은 곧 완쾌될거라고 의무실로부터 확답을 받았습니다. 덕분에 안심이네요.\n"
+"\n"
+"조세핀"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[3080]/JournalTextData/TextReference

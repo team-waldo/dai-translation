@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-25 15:01+0000\n"
-"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
+"PO-Revision-Date: 2021-02-04 08:02+0000\n"
+"Last-Translator: 신유순 <zxshinxz@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,7 +15,7 @@ msgstr ""
 #: UI\Flow\Gen3MigrationFlowPrefab.xml:449
 msgctxt "0x0004a03e"
 msgid "Migration Failed"
-msgstr ""
+msgstr "데이터 이전 실패"
 
 #. FILE: UI\Flow\Gen3MigrationFlowPrefab.xml
 #. PATH: BWPopUpEntityData[1]/Text
@@ -23,13 +23,15 @@ msgstr ""
 msgctxt "0x0004a04e"
 msgid "You must be connected to the Dragon Age server to migrate Multiplayer data from your {xboxone}Xbox 360{/xboxone}{ps4}PlayStation®3 system{/ps4}."
 msgstr ""
+"{xboxone}Xbox 360{/xboxone}{ps4}PlayStation®3 기기{/ps4}의 온라인 정보를 불러오기 위해서는 "
+"드래곤 에이지 서버와 연결되어있어야 합니다. "
 
 #. FILE: UI\Flow\Gen3MigrationFlowPrefab.xml
 #. PATH: BWPopUpEntityData[2]/Title
 #: UI\Flow\Gen3MigrationFlowPrefab.xml:492
 msgctxt "0x0004a04f"
 msgid "Migration Successful"
-msgstr ""
+msgstr "데이터 이전 성공"
 
 #. FILE: UI\Flow\Gen3MigrationFlowPrefab.xml
 #. PATH: BWPopUpEntityData[2]/Text
@@ -37,6 +39,8 @@ msgstr ""
 msgctxt "0x0004a01c"
 msgid "Your {xboxone}Xbox 360 {/xboxone}{ps4}PlayStation®3 system {/ps4}Multiplayer data has been successfully migrated."
 msgstr ""
+"{xboxone}Xbox 360 {/xboxone}{ps4}PlayStation®3 기기{/ps4}의 온라인 정보를 성공적으로 "
+"불러왔습니다."
 
 #. FILE: UI\Flow\Gen3MigrationFlowPrefab.xml
 #. PATH: BWPopUpEntityData[3]/Text
