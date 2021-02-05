@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-04 08:02+0000\n"
+"PO-Revision-Date: 2021-02-05 10:01+0000\n"
 "Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
@@ -16,7 +16,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\Crestwood_Secrets_Keep_starting_op.xml:10
 msgctxt "0x00040bd4"
 msgid "Opening these secret tunnels will let us evade any prying eyes that turn toward Caer Bronach."
-msgstr "이 비밀 터널들을 개방하면 브로나크 성을 향한 감시를 피할 수 있을 겁니다."
+msgstr "이 비밀 땅굴들을 개방하면 브로나크 성을 향한 감시의 눈길을 피할 수 있을 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\Crestwood_Secrets_Keep_starting_op.xml
 #. PATH: WarTableEntry/TitleReference
@@ -2153,28 +2153,28 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Cole\cole_rhys_1.xml:95
 msgctxt "0x00040ed5"
 msgid "Locate Rhys and Evangeline"
-msgstr ""
+msgstr "리스와 에반젤린을 찾아서"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Cole\cole_rhys_2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Cole\cole_rhys_2.xml:15
 msgctxt "0x00040ee1"
 msgid "A passionate warrior coming from a good family might bring the Inquisition a great deal of gold."
-msgstr ""
+msgstr "훌륭한 가문에서 온 열정적인 전사라면 심문회에 상당한 양의 금을 가져올 수 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Cole\cole_rhys_2.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Cole\cole_rhys_2.xml:140
 msgctxt "0x00040ee0"
 msgid "The caches Rhys speaks of might yield something of value."
-msgstr ""
+msgstr "리스가 말한 은닉처에 뭔가 가치있는 물건이 있을지도 모릅니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Cole\cole_rhys_2.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Cole\cole_rhys_2.xml:164
 msgctxt "0x00040edd"
 msgid "An experienced templar and a powerful mage would greatly increase our military strength near Val Firmin."
-msgstr ""
+msgstr "숙련된 템플러 기사단과 강력한 마법사라면 발 퍼민 부근의 우리 군사력을 크게 높여줄 수 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Dorian\dor_approval_plot_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -4664,6 +4664,8 @@ msgstr ""
 msgctxt "0x00040a50"
 msgid "We're hardly in a place to be precious about a single life. You decide what serves our cause, and we will see it done."
 msgstr ""
+"지금은 사람 한명의 목숨까지 귀중하게 생각할 수 있는 상황이 아닙니다. 당신이 무엇이 우리의 대의에 도움이 될지 결정하면, 우린 그 "
+"결정에 따르겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_ops_skyhold_apothecary_mess.xml
 #. PATH: WarTableEntry/TitleReference
@@ -4678,6 +4680,7 @@ msgstr ""
 msgctxt "0x00040a51"
 msgid "If we have doubts about this person, it is a simple matter to have a local lord imprison him in relative comfort for the duration of our concern."
 msgstr ""
+"간단합니다. 이 사람이 의심스럽다면, 우리가 걱정되는 기간동안 지역의 영주에게 부탁해서 그를 비교적 편안한 상태로 감금시켜두면 돼요."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_ops_skyhold_apothecary_mess.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -4685,6 +4688,8 @@ msgstr ""
 msgctxt "0x00040a52"
 msgid "The hold is near Tevinter territory that is unknown or in dispute. If we are to hobble this person on a hunch, raze the fields, but do not stoop to outright killing."
 msgstr ""
+"그 지역은 아직 알려지지 않았거나 현재 분쟁중인 테빈터 영토 근처에 있습니다. 우리의 직감대로 이 사람을 방해할 생각이라면 해당 지역을 "
+"파괴하되, 노골적인 살인은 피하도록 합시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_ops_skyhold_merchant_hidden.xml
 #. PATH: WarTableEntry/TitleReference
