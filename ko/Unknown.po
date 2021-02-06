@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-05 10:01+0000\n"
+"PO-Revision-Date: 2021-02-06 18:02+0000\n"
 "Last-Translator: 박성범 <psb3421@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/unknown/ko/>\n"
 "Language: ko\n"
@@ -609,71 +609,72 @@ msgstr "말하기엔 너무 이르구나."
 
 msgctxt "0x0000f46c"
 msgid "If that is all you hope for, may scholars be kind."
-msgstr ""
+msgstr "그게 네가 바라는 전부라면, 학자들이 친절하게 대해줄 지 모르지."
 
 msgctxt "0x0000f46d"
 msgid "That I brought order."
-msgstr ""
+msgstr "내가 기사단을 데려왔다고."
 
 msgctxt "0x0000f46e"
 msgid "What will history say of your conquests, Inquisitor?"
-msgstr ""
+msgstr "당신의 정복에 대해 역사가 뭐라고 말하겠습니까, 인퀴지터시여?"
 
 msgctxt "0x0000f470"
 msgid "History will know I stood with Andraste."
-msgstr ""
+msgstr "역사는 내가 안드라스테 곁에 서 있었노라고 알게 될 것이다."
 
 msgctxt "0x0000f471"
 msgid "<i>(Laughs.)</i>"
-msgstr ""
+msgstr "<i>(웃음)</i>"
 
 msgctxt "0x0000f472"
 msgid "Perhaps. Faith alone cannot promise an exalted legacy."
-msgstr ""
+msgstr "그럴지도. 믿음만으론 숭고한 유산을 약조할 수 없으니."
 
 msgctxt "0x0000f473"
 msgid "I don't care."
-msgstr ""
+msgstr "신경 안쓴다."
 
 msgctxt "0x0000f475"
 msgid "Not now, perhaps. You may find questions of legacy more pressing in years to come."
-msgstr ""
+msgstr "지금은 아닐지 모르지. 몇 년 안에 더 급한 유산 문제를 찾게 될 지 몰라."
 
 msgctxt "0x0000f476"
 msgid "People will know the Inquisition stood against chaos."
-msgstr ""
+msgstr "사람들은 심문회가 혼돈에 맞섯다는걸 알게 되리라."
 
 msgctxt "0x0000f477"
 msgid "That I fought for the Maker."
-msgstr ""
+msgstr "내가 창조주를 위해 싸웠다는 것."
 
 msgctxt "0x0000f479"
 msgid "Take me several ages into the future, and I'll tell you."
-msgstr ""
+msgstr "몇 년 뒤로 생각해 봐, 그러면 말해줄게."
 
 msgctxt "0x0000f52c"
 msgid "Ready on your order."
-msgstr ""
+msgstr "명령을 내리시지요."
 
 msgctxt "0x0000f52f"
 msgid "Sealed for now! I hope Barris can help you make sense of this."
-msgstr ""
+msgstr "일단은 봉쇄 해요! 바리스가 이걸 이해하는데 도움이 되길."
 
 msgctxt "0x0000f531"
 msgid "Your people have the gate, but it's a mess out there. Reach that demon, we can scatter them like they scattered us."
-msgstr ""
+msgstr "당신들이 관문을 지켜냈지만 밖은 엉망진창이에요. 악마 놈들에게 다가가면 우리가 와해 된 것처럼 저들도 무너뜨릴 수 있어요."
 
 msgctxt "0x00010f18"
 msgid "Kill the Archdemon"
-msgstr ""
+msgstr "대악마를 죽여라"
 
+#, fuzzy
 msgctxt "0x00010f19"
 msgid "The Demon Child"
-msgstr ""
+msgstr "악마의 자손"
 
 msgctxt "0x00010f1a"
 msgid "Locate Flemeth's hut"
-msgstr ""
+msgstr "플레메스의 오두막 찾기"
 
 msgctxt "0x00010f1b"
 msgid ""
@@ -683,18 +684,26 @@ msgid ""
 "\n"
 " This is not for all people but it is the way she appears to the Fair Folk. Because she is the pathway, the vast network of reincarnation compressed into a cloudy mirror, she can guide the soul as she chooses. She needs only to change the pathways."
 msgstr ""
+"모리건 자손의 신비를 풀어야 합니다.\n"
+"\n"
+"모리건이 주로 하는 형태는 검은 까마귀 깃털 망토를 두른 늙은 여인의 모습 입니다. 때때로 죽음을 선고하는 갈가마귀나 비명 지르며 죽음을 "
+"예언하는 밴쉬의 형태로도 나타나지요. 죽음을 내리꽂는 먹구름이요, 번개처럼 몸을 찢고 솟아오른 영혼 입니다. 그녀의 육체가 죽음을 "
+"퍼뜨리고 폭풍 치는 영혼 통로가 됩니다.\n"
+"\n"
+"모든 이에게 그런 건 아니지만 그녀가 공정한 사람들에게 선보이는 방법입니다. 그녀는 통로이자, 구름 낀 거울로 눌러 담은 막대한 환생 "
+"망이라 그녀 바람 대로 영혼을 인도할 수 있습니다. 그저 경로를 비틀기만 하면 되지요."
 
 msgctxt "0x0001137c"
 msgid "This is the first ambient conversation"
-msgstr ""
+msgstr "이것이 첫 번째 주변 대화에요"
 
 msgctxt "0x0001137d"
 msgid "This line successfully passed the conditional check."
-msgstr ""
+msgstr "이 줄은 조건부 검사를 성공적으로 통과했어요."
 
 msgctxt "0x0001137e"
 msgid "I am now leaving the conversation.  Wait a few seconds for a second ambient conversation to fire."
-msgstr ""
+msgstr "지금 대화를 그만두고. 두 번째 주변 대화가 시작될 때 까지 몇 초 기다린다."
 
 msgctxt "0x0001137f"
 msgid "THIS IS NOT THE LINE THAT SHOULD BE PLAYED"
@@ -746,31 +755,31 @@ msgstr "Player movement should be restored immediately after the player speaks"
 
 msgctxt "0x00011b27"
 msgid "Everything is thin here. The walls between are easy to slip through."
-msgstr ""
+msgstr "여기 모든게 다 얇아요. 벽 사이는 미끄러지기 일쑤고요."
 
 msgctxt "0x00011b32"
 msgid "The old inhabitants used this place like our chantries?"
-msgstr ""
+msgstr "옛 주민들은 여기를 우리네 예배당처럼 사용했나 본데요?"
 
 msgctxt "0x00011b33"
 msgid "Wonder what their priests would make of us."
-msgstr ""
+msgstr "그들의 사제들이 우리를 어떻게 여길지 궁금하네요."
 
 msgctxt "0x00012d2a"
 msgid "Let us take the path already open, Inquisitor. Do not sully your hands."
-msgstr ""
+msgstr "이미 열려있는 길로 저희를 이끄소서, 인퀴지터시여. 손을 더럽히지 마소서."
 
 msgctxt "0x00012d2b"
 msgid "Maker, guide us past this place."
-msgstr ""
+msgstr "창조주시여, 이곳을 지나게 인도 해 주소서."
 
 msgctxt "0x00012f1e"
 msgid "Someone should. Mock me as you wish."
-msgstr ""
+msgstr "누군가는 해야죠. 마음대로 놀리세요."
 
 msgctxt "0x00012f22"
 msgid "How kind of you to lend your thoughts to those your people slaughtered."
-msgstr ""
+msgstr "당신네 사람들이 학살 당한 사람들에게 생각을 빌려주다니 정말 친절하네요."
 
 msgctxt "0x000131a5"
 msgid "THIS IS A STORE BUY SOME COOL THINGS PLZ."
@@ -778,31 +787,31 @@ msgstr "THIS IS A STORE BUY SOME COOL THINGS PLZ."
 
 msgctxt "0x0001326c"
 msgid "Combo Points"
-msgstr ""
+msgstr "연계 점수"
 
 msgctxt "0x0001326d"
 msgid "Belt Slots"
-msgstr ""
+msgstr "허리띠 칸"
 
 msgctxt "0x00013270"
 msgid "Armor"
-msgstr ""
+msgstr "방어력"
 
 msgctxt "0x0001327d"
 msgid "Creature Health"
-msgstr ""
+msgstr "크리처 체력"
 
 msgctxt "0x00013280"
 msgid "Creature Armor"
-msgstr ""
+msgstr "크리처 방어력"
 
 msgctxt "0x00013281"
 msgid "Attack Percentage"
-msgstr ""
+msgstr "공격 비율"
 
 msgctxt "0x00013284"
 msgid "Defense Percentage"
-msgstr ""
+msgstr "방어 비율"
 
 msgctxt "0x00013315"
 msgid "Attack Abstract"
@@ -810,7 +819,7 @@ msgstr ""
 
 msgctxt "0x0001331d"
 msgid "Ranged Damage Bonus"
-msgstr ""
+msgstr "원거리 공격력 보너스"
 
 msgctxt "0x0001331e"
 msgid "Defense Abstract"
@@ -822,11 +831,11 @@ msgstr ""
 
 msgctxt "0x00013320"
 msgid "Effect Modifier"
-msgstr ""
+msgstr "효과 배율"
 
 msgctxt "0x00013322"
 msgid "Effect Resistance"
-msgstr ""
+msgstr "효과 저항"
 
 msgctxt "0x00013323"
 msgid "Force Modifier"
@@ -838,39 +847,39 @@ msgstr ""
 
 msgctxt "0x00013328"
 msgid "Speed Modifier"
-msgstr ""
+msgstr "속도 배율"
 
 msgctxt "0x00013333"
 msgid "Wood"
-msgstr ""
+msgstr "나무"
 
 msgctxt "0x00013335"
 msgid "Defense"
-msgstr ""
+msgstr "보조 능력"
 
 msgctxt "0x00013336"
 msgid "Core"
-msgstr ""
+msgstr "코어"
 
 msgctxt "0x00013337"
 msgid "Crafting"
-msgstr ""
+msgstr "제작"
 
 msgctxt "0x0001333a"
 msgid "Two-Handed Weapon Upgrades"
-msgstr ""
+msgstr "양손 무기 강화"
 
 msgctxt "0x0001333b"
 msgid "Staff Upgrades"
-msgstr ""
+msgstr "지팡이 강화"
 
 msgctxt "0x0001333d"
 msgid "Dagger Upgrades"
-msgstr ""
+msgstr "단검 강화"
 
 msgctxt "0x0001333e"
 msgid "Armor Upgrades"
-msgstr ""
+msgstr "갑옷 강화"
 
 msgctxt "0x0001333f"
 msgid "One-Handed Weapon Upgrades"
@@ -894,35 +903,35 @@ msgstr "재시작"
 
 msgctxt "0x00013431"
 msgid "(Codex) Crossroads History: Something about the history of the Dalish people"
-msgstr ""
+msgstr "(고문서) 교차로 역사: 데일스 사람들의 역사에 관한 것"
 
 msgctxt "0x00013433"
 msgid "A rusty old key. Might come in handy."
-msgstr ""
+msgstr "녹슨 낡은 열쇠. 도움이 될 지도."
 
 msgctxt "0x00013434"
 msgid "Bandit journal mentions assets gained from an elven merchant, unwary travelers, and various caves in the area."
-msgstr ""
+msgstr "도적들 일지에 엘프 상인, 부주의한 여행자들, 지역 여러 동굴 등 여러 곳에서 얻은 자산에 대해 언급하고 있다."
 
 msgctxt "0x00013435"
 msgid "SW = Road to west exit and Tower of Exile. N = Cave and north exit. E = Tower of Dawn."
-msgstr ""
+msgstr "남서 = 서쪽 출구와 추방의 탑으로 가는 길. 북 = 동굴과 북쪽 출구. 동 = 새벽의 탑."
 
 msgctxt "0x00013436"
 msgid "Notes about communicating with spirits. This is a hint about spirit offerings."
-msgstr ""
+msgstr "정령들과 하는 소통에 대한 쪽지. 정령에 바치는 공물에 대한 참고가 된다."
 
 msgctxt "0x00013437"
 msgid "(Codex) Elven Gravestones: Some hint about a special amulet allows a person to bypass the magical wards."
-msgstr ""
+msgstr "(고문서) 엘프 묘비: 사람들이 마력의 구를 우회할 수 있게 해주는 특별한 부적에 대해 적혀있다."
 
 msgctxt "0x00013438"
 msgid "A journal that gives some info on the bandits in the area."
-msgstr ""
+msgstr "이 지역의 도적들에 대해 적혀있는 일지."
 
 msgctxt "0x00013439"
 msgid "A hint for ruins 1. Enter during the day to find the wisp."
-msgstr ""
+msgstr "폐허 1에 대한 힌트. 낮에 가서 위습을 찾자."
 
 msgctxt "0x0001343a"
 msgid "Some notes about the farmers who used to live here. This also mentions whatever killed them or drove them off."

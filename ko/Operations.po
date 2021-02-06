@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-05 10:01+0000\n"
+"PO-Revision-Date: 2021-02-06 18:02+0000\n"
 "Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
@@ -219,7 +219,8 @@ msgstr "백작의 초대"
 #: DA3\DesignContent\Operations\Ferelden\gen_teagan_op1.xml:85
 msgctxt "0x00040b51"
 msgid "We can't truly run a bannorn. But a well-chosen envoy could win us Fereldan allies."
-msgstr "우린 바논을 완전히 지배할 수 없습니다. 대신 사절을 잘 골라 보내면 페렐던 지원군을 얻을 수 있을겁니다."
+msgstr ""
+"사실 우리는 바논을 손에 넣더라도 제대로 운영할 수 없어요. 하지만 사절을 잘 골라 보낸다면, 페렐던 지원군을 얻는 건 가능합니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\gen_teagan_op1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -317,7 +318,9 @@ msgstr "벤-하스라쓰는 브레실리안 숲을 통과해야 합니다. 그 �
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_2.xml:49
 msgctxt "0x000403d2"
 msgid "They should kill the agents in South Reach before leaving. We cannot risk these agents warning the assassins of their pursuit."
-msgstr "물러나기 전에 사우스 리치의 요원들을 죽여야합니다. 이 요원들이 경고하는 암살자들의 위협을 감수 할 수 없습니다."
+msgstr ""
+"움직이기 전에 사우스 리치에 있는 요원들을 죽여야합니다. 이 요원들이 암살자들에게 자신들의 추적자들에 대해 경고해주는 일이 발생해서는 "
+"안되니까요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_2.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -968,7 +971,7 @@ msgstr "허가만 내려주신다면, 이들을 곧바로 \"확보\"할 요원�
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_crestwood_op.xml:42
 msgctxt "0x0004052b"
 msgid "To Serve Any Master"
-msgstr "누구든지 주군으로 섬기도록"
+msgstr "어떤 주군이라도 섬길 수 있도록"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_dales_op.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -1346,21 +1349,21 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\CritPathReactivity\Redcliffe\gen_ops_red_allies2.xml:10
 msgctxt "0x00040319"
 msgid "We could send people to make repairs. That might satisfy the arl."
-msgstr "수리를 위해 사람을 보낼 수 있습니다. 그럼 백작이 만족할지도 모릅니다."
+msgstr "복구를 위해 사람을 보내면 됩니다. 그거라면 백작을 만족시킬 수 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\Redcliffe\gen_ops_red_allies2.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\CritPathReactivity\Redcliffe\gen_ops_red_allies2.xml:44
 msgctxt "0x00040318"
 msgid "I can arrange to pay reparations. It will require a loan, but we can manage it."
-msgstr "제가 수리비를 준비하겠습니다. 대출이 필요하겠지만, 지불할 능력은 있습니다."
+msgstr "배상금을 준비하겠습니다. 대출이 필요하겠지만, 지불할 능력은 됩니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\Redcliffe\gen_ops_red_allies2.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\CritPathReactivity\Redcliffe\gen_ops_red_allies2.xml:71
 msgctxt "0x0003fe84"
 msgid "Reparations for Redcliffe"
-msgstr "레드클리프 수리"
+msgstr "레드클리프에 대한 배상"
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\Redcliffe\gen_ops_red_mage_allies_1.xml
 #. PATH: WarTableEntry/TitleReference
@@ -1446,7 +1449,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\CritPathReactivity\SeekerFortress\See_ops_barris_01.xml:32
 msgctxt "0x0004029e"
 msgid "Have Ser Barris Lead Against Demons"
-msgstr ""
+msgstr "바리스경이 악마에 맞서 기사단을 이끌게 만들어라"
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\SeekerFortress\See_ops_barris_01.xml
 #. PATH: WarTableEntry/TitleReference
@@ -1475,13 +1478,14 @@ msgstr ""
 msgctxt "0x000402a2"
 msgid "This isn't a battle; it's a siege inside the city. Arm our veterans and give them to Ser Barris. I trust him to lead them."
 msgstr ""
+"이건 전투가 아니라, 도시 내의 포위 작전입니다. 무장한 전문가들을 바리스 경에게 맡기겠습니다. 그가 그들을 이끌 수 있다고 믿습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\SeekerFortress\See_ops_barris_02.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\CritPathReactivity\SeekerFortress\See_ops_barris_02.xml:27
 msgctxt "0x000402a5"
 msgid "Investigate Man Accused of Abomination"
-msgstr ""
+msgstr "어보미네이션 혐의를 받고 있는 남성에 대한 조사"
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\SeekerFortress\See_ops_barris_02.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -1489,13 +1493,14 @@ msgstr ""
 msgctxt "0x000402a3"
 msgid "Are mages calling up these demons, or is the Veil there thin? We should investigate before we send Ser Barris."
 msgstr ""
+"마법사들이 이 악마들을 불러낸 걸까요, 아니면 그곳의 장막이 얇기 때문인 걸까요? 바리스 경을 보내기 전에 조사가 선행되어야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\SeekerFortress\See_ops_barris_02.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\CritPathReactivity\SeekerFortress\See_ops_barris_02.xml:73
 msgctxt "0x000402a1"
 msgid "We must make the countess see reason. Her personal guard could help Ser Barris fight these demons."
-msgstr ""
+msgstr "백작부인을 설득해야 해요. 그녀의 개인 경비원들이라면 바리스경이 이 악마들과 싸우는 데 도움을 줄 수 있을 거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\SeekerFortress\See_ops_barris_03.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -1503,20 +1508,22 @@ msgstr ""
 msgctxt "0x000402aa"
 msgid "We're owed favors in Jader. Local nobility can take the man into protection until Ser Barris arrives, in case a mob transpires."
 msgstr ""
+"제이더는 우리에게 신세진 일이 있습니다. 군중들이 들고 일어설 경우를 대비해서, 바리스 경이 도착할 때까지 현지 귀족들이 그 남성을 "
+"보호하게 할 수 있어요."
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\SeekerFortress\See_ops_barris_03.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\CritPathReactivity\SeekerFortress\See_ops_barris_03.xml:39
 msgctxt "0x000402a8"
 msgid "I can offer Barris an additional brace of troops, in case things turn ugly."
-msgstr ""
+msgstr "상황이 악화될 경우를 대비해서, 바리스 경에게 추가 병력을 지원해 줄 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\SeekerFortress\See_ops_barris_03.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\CritPathReactivity\SeekerFortress\See_ops_barris_03.xml:148
 msgctxt "0x000402a9"
 msgid "My scouts can attempt to sort fact from rumor, although it may be futile."
-msgstr ""
+msgstr "제 요원들을 시켜 소문에서 사실을 가려내기 위해 시도해 볼 순 있습니다. 헛고생일지도 모르겠지만요."
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\SeekerFortress\Seeker_Fortress_Underworld_op.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -3332,13 +3339,15 @@ msgstr ""
 msgctxt "0x00040a71"
 msgid "Our alliances will not risk another mage war. It has been hard enough to aim them at Corypheus. A swift movement of troops will appease onlookers."
 msgstr ""
+"우리 동맹들은 또다른 마법사 전쟁을 일으킬 수도 있는 위험을 무릎쓰고 싶어하지 않을거예요. 그들이 코리피우스를 겨냥하게 만드는 것만으로도 "
+"충분히 힘들었습니다. 병력을 보내 빠르게 대처하면 방관자들을 달랠 수 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_tranquil.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_tranquil.xml:34
 msgctxt "0x00040a74"
 msgid "You have taken a brutal stance. If need be, continue. Key agitators can... disappear."
-msgstr ""
+msgstr "당신은 잔인한 입장을 취했습니다. 필요하다면 계속하세요. 주요 선동가들이... 사라지게 만들도록."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_tranquil.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -3346,13 +3355,15 @@ msgstr ""
 msgctxt "0x00040a75"
 msgid "They're afraid. Send one templar and one mage, Inquisitor. Two veterans, to explain and to remind them that mages created this punishment protect the rest."
 msgstr ""
+"그들은 두려워하고 있습니다. 템플러와 마법사를 한 명씩 보내십시오, 심문관. 이 두 명의 전문가들을 앞세워, 다른 사람들을 보호하기 위해 "
+"이 처벌을 만들어낸 것이 다름 아닌 마법사들이라는 사실을 그들에게 설명하고, 상기시키면 됩니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_tranquil.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_tranquil.xml:95
 msgctxt "0x00040a6f"
 msgid "Judgment: How Could You"
-msgstr ""
+msgstr "재판: 당신이 어떻게 그럴 수가"
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_warden_01.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -3368,7 +3379,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_warden_01.xml:37
 msgctxt "0x000408d7"
 msgid "Judgment: The Death of Good Ser Ruth"
-msgstr "재판: 선한 서 루스의 죽음"
+msgstr "재판: 선한 루스 경의 죽음"
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_warden_01.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -3393,7 +3404,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_warden_02.xml:13
 msgctxt "0x00040903"
 msgid "Judgment: The Good Works of Ser Ruth"
-msgstr "재판: 서 루스의 선행"
+msgstr "재판: 루스 경의 선행"
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_warden_02.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -4724,28 +4735,28 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_ops_skyhold_minstrel.xml:15
 msgctxt "0x000407f6"
 msgid "No. This is ridiculous."
-msgstr ""
+msgstr "아뇨, 이건 바보짓입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_ops_skyhold_minstrel.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_ops_skyhold_minstrel.xml:37
 msgctxt "0x000407f8"
 msgid "Our allies' words will turn the tide for us."
-msgstr ""
+msgstr "우리 동맹들의 말이라면, 우리에게 유리한 쪽으로 상황을 역전시킬 수 있을거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_ops_skyhold_minstrel.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_ops_skyhold_minstrel.xml:66
 msgctxt "0x000407f7"
 msgid "A minstrel with no tongue can tell no lies."
-msgstr ""
+msgstr "허가받지 않은 음유시인은, 거짓을 말할 수도 없는 법이죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_ops_skyhold_minstrel.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_ops_skyhold_minstrel.xml:93
 msgctxt "0x000407f5"
 msgid "Stop the Rumors"
-msgstr ""
+msgstr "소문을 막아라"
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_ops_skyhold_quartermaster.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
