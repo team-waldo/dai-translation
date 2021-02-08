@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-06 18:02+0000\n"
-"Last-Translator: 박성범 <psb3421@naver.com>\n"
+"PO-Revision-Date: 2021-02-08 17:02+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/unknown/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -935,71 +935,72 @@ msgstr "폐허 1에 대한 힌트. 낮에 가서 위습을 찾자."
 
 msgctxt "0x0001343a"
 msgid "Some notes about the farmers who used to live here. This also mentions whatever killed them or drove them off."
-msgstr ""
+msgstr "이곳에 살던 농부들의 일지가 있다. 그들이 죽였거나 쫓아냈던 것에 대한 것이 쓰여있다."
 
 msgctxt "0x0001343b"
 msgid "(Codex) Some text describing the physical appearance of the paintings."
-msgstr ""
+msgstr "(고문서) 어떤 그림의 물리적 형태를 묘사한 글."
 
 msgctxt "0x0001343c"
 msgid "(Codex) Crossroads History: Something about the cultural artifacts in the area."
-msgstr ""
+msgstr "(고문서) 교차로 역사: 이 지역의 문화 유물에 관해."
 
 msgctxt "0x0001343d"
 msgid "Some text describing the clan of Dalish elves found in the Crossroads. (Part 1)"
-msgstr ""
+msgstr "교차로에서 발견 된 데일스 엘프 부족에 대한 글. (1부)"
 
 msgctxt "0x0001343e"
 msgid "(Codex) Elven Gravestones: Something about each of the elven gravestones containing a piece of some larger thing. The description of this larger thing sounds like it could be very useful to the Inquisition."
-msgstr ""
+msgstr "(고문서) 엘프 묘비: 묘비들 중 어떤 것은 더 크다. 큰 묘비에는 심문회에게 매우 유용한 것이 쓰여있다."
 
 msgctxt "0x0001343f"
 msgid "(Codex) Crossroads History: Something about the Crossroads being a good trade route."
-msgstr ""
+msgstr "(고문서) 교차로 역사: 교차로가 좋은 교역로가 되는 것에 관한 것."
 
+#, fuzzy
 msgctxt "0x00013440"
 msgid "E = Exit. NW = Tower of Praeteri and Tower of Dawn. SW = Road to south exit."
-msgstr ""
+msgstr "동 = 출구. 북서 = 새벽의 탑과 Tower of Praeteri. 남서 = 남쪽 출구로 가는 길."
 
 msgctxt "0x00013441"
 msgid "A farmer's journal that hints about the legendary creature."
-msgstr ""
+msgstr "전설적인 생물에 관한 단서가 적혀있는 농부의 일지."
 
 msgctxt "0x00013442"
 msgid "Some text about the farmers who previously inhabited the area. They're gone now for some creepy reason."
-msgstr ""
+msgstr "이전에 거주했던 농부들에 관한 글. 기이한 이유로 모두 떠나버렸다."
 
 msgctxt "0x00013443"
 msgid "Some text describing the clan of Dalish elves found in the Crossroads. (Part 2)"
-msgstr ""
+msgstr "교차로에서 발견 된 데일스 엘프 부족에 관한 글. (2부)"
 
 msgctxt "0x00013444"
 msgid "An old key. Might come in handy."
-msgstr ""
+msgstr "낡은 열쇠. 도움이 될 지도."
 
 msgctxt "0x00013445"
 msgid "A note that hints about a wisp being a key to the underground ruin."
-msgstr ""
+msgstr "지하 폐허의 열쇠가 되는 위습 힌트가 적힌 쪽지."
 
 msgctxt "0x00013446"
 msgid "(Codex) Crossroads History: Something about the ruins in the area"
-msgstr ""
+msgstr "(고문서) 교차로 역사: 이 지역의 폐허에 관한 것"
 
 msgctxt "0x00013447"
 msgid "SW = Exit. NW = Tower of Exile and road to west exit. NE = Road to east exit."
-msgstr ""
+msgstr "남서 = 출구. 북서 = 추방의 탑과 서쪽 출구로 가는 길. 북동 = 동쪽 출구로 가는 길."
 
 msgctxt "0x00013448"
 msgid "A hint about ruins 2. Go at night to find a wisp."
-msgstr ""
+msgstr "폐허 2에 관한 힌트. 밤에 가서 위습을 찾자."
 
 msgctxt "0x00013449"
 msgid "(Codex) Elven Gravestones: Something about a super special amulet that was divided into three pieces, each held by important guy."
-msgstr ""
+msgstr "(고문서) 엘프 묘비: 세 조각으로 나뉘어진 아주 특별한 부적에 관한 것이 쓰여있다. 중요 인물들이 각각 들고 있다."
 
 msgctxt "0x0001344a"
 msgid "Hint about the wisp being a key to a long-sealed door."
-msgstr ""
+msgstr "오랫동안 봉인 된 문의 열쇠가 되는 위습에 대한 힌트."
 
 msgctxt "0x0001344b"
 msgid "(Codex) Elven Gravestones: Something about the magical wards and how they're used to /imprison/ demons."
@@ -1041,11 +1042,11 @@ msgstr ""
 
 msgctxt "0x00013ade"
 msgid "Mage Armor"
-msgstr ""
+msgstr "마법사 갑옷"
 
 msgctxt "0x00013adf"
 msgid "Warrior Armor"
-msgstr ""
+msgstr "전사 갑옷"
 
 msgctxt "0x00013ae0"
 msgid "Rogue Armor"
@@ -1061,11 +1062,13 @@ msgstr ""
 
 msgctxt "0x00013c3d"
 msgid "{e}sydNoteTitle{/errortagtest} {e}e{/e} {d}d{/d}"
-msgstr ""
+msgstr "{e}sydNoteTitle{/errortagtest} {e}e{/e} {d}d{/d}"
 
 msgctxt "0x00013c3e"
 msgid "sydNoteBodyText “” {e}e{/e} {d}d{/d} {GuiInteractionEnter a=\"v\"] FormatTest: {/d}{e}e{/e}E{d}a{/dblah}.{{ab}{c d{ef}"
 msgstr ""
+"sydNoteBodyText “” {e}e{/e} {d}d{/d} {GuiInteractionEnter a=\"v\"] "
+"FormatTest: {/d}{e}e{/e}E{d}a{/dblah}.{{ab}{c d{ef}"
 
 msgctxt "0x0001404e"
 msgid "World Two"
@@ -1109,15 +1112,15 @@ msgstr ""
 
 msgctxt "0x000142de"
 msgid "Bow Grip"
-msgstr ""
+msgstr "활 손잡이"
 
 msgctxt "0x000142df"
 msgid "Mace Handle Upgrade"
-msgstr ""
+msgstr "둔기 손잡이 강화"
 
 msgctxt "0x000142e1"
 msgid "Upgrade Bow Arrow"
-msgstr ""
+msgstr "화살 강화"
 
 msgctxt "0x000142e2"
 msgid "Arms"
@@ -1125,23 +1128,23 @@ msgstr ""
 
 msgctxt "0x000142e3"
 msgid "Longsword Grip"
-msgstr ""
+msgstr "장검 손잡이"
 
 msgctxt "0x000142e4"
 msgid "Blade"
-msgstr ""
+msgstr "칼날"
 
 msgctxt "0x000142e5"
 msgid "Grip"
-msgstr ""
+msgstr "손잡이"
 
 msgctxt "0x000142e7"
 msgid "Staff Grip"
-msgstr ""
+msgstr "지팡이 손잡이"
 
 msgctxt "0x000142e8"
 msgid "Greatsword Grip"
-msgstr ""
+msgstr "대검 손잡이"
 
 msgctxt "0x000143b4"
 msgid "Moon Flower Cactus"
@@ -1157,11 +1160,11 @@ msgstr ""
 
 msgctxt "0x000153b0"
 msgid "Butcher's Axe"
-msgstr ""
+msgstr "도살자의 도끼"
 
 msgctxt "0x000153b1"
 msgid "Dagger of Pain"
-msgstr ""
+msgstr "고통의 단검"
 
 msgctxt "0x000153b2"
 msgid "The Fledgling's Ring"
@@ -1173,15 +1176,15 @@ msgstr ""
 
 msgctxt "0x000153b4"
 msgid "Cassandra's Longsword"
-msgstr ""
+msgstr "카산드라의 장검"
 
 msgctxt "0x000153b6"
 msgid "Heavy Armor 1"
-msgstr ""
+msgstr "중장 갑옷 1"
 
 msgctxt "0x000153b7"
 msgid "Sera's Armor"
-msgstr ""
+msgstr "세라의 갑옷"
 
 msgctxt "0x000153b8"
 msgid "Shield of the Ox"

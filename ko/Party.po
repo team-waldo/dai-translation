@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-04 08:02+0000\n"
-"Last-Translator: 큡수뎃 <quoobt@gmail.com>\n"
+"PO-Revision-Date: 2021-02-08 17:01+0000\n"
+"Last-Translator: halfmango <simpleyeom@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -414,7 +414,6 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Rogue\Archery\Snipe\party_rogue_archery_snipe_upgrade2_abilitydata.xml:5
-#, fuzzy
 msgctxt "0x000474df"
 msgid "Pinning Shot"
 msgstr "부동 사격"
@@ -1600,7 +1599,7 @@ msgstr ""
 #: DA3\Party\Rogue\General\SpikeTrap\party_rogue_general_spiketrap_upgrade1_abilitydata.xml:5
 msgctxt "0x0004aa5b"
 msgid "Shrapnel"
-msgstr ""
+msgstr "파편"
 
 #. FILE: DA3\Party\Rogue\General\SpikeTrap\party_rogue_general_spiketrap_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -1805,6 +1804,9 @@ msgid ""
 "Your experience with elixirs has made you better equipped to handle potions and other consumables, letting you carry more of them at a time and giving you the chance not to use an elixir when you activate an elixir ability. This ability does not apply to healing potions.\n"
 "\n"
 msgstr ""
+"영약에 대한 깊은 조예 덕분에 물약이나 소모품을 능숙하게 다루게 되었습니다. 물약을 더 많이 가지고 다닐 수 있게 되었습니다. 영약 사용 "
+"시에 일정 확률로 영약을 소모하지 않습니다. 회복 물약에는 적용되지 않습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\Passives\Alchemist\party_rogue_passive_alchemist_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -1997,7 +1999,7 @@ msgstr ""
 #: DA3\Party\Rogue\Passives\Focus\party_rogue_passive_focus_abilitydata.xml:5
 msgctxt "0x00042580"
 msgid "Looked Like It Hurt"
-msgstr "간파의 눈썰미"
+msgstr "고통 간파"
 
 #. FILE: DA3\Party\Rogue\Passives\Focus\party_rogue_passive_focus_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -2015,14 +2017,14 @@ msgstr ""
 #: DA3\Party\Rogue\Passives\Forsaken\party_rogue_passive_forsaken_abilitydata.xml:5
 msgctxt "0x00042608"
 msgid "Ride the Storm"
-msgstr ""
+msgstr "폭풍의 기수"
 
 #. FILE: DA3\Party\Rogue\Passives\Forsaken\party_rogue_passive_forsaken_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Passives\Forsaken\party_rogue_passive_forsaken_abilitydata.xml:10
 msgctxt "0x00042609"
 msgid "The effects of your elixirs last longer if you activate one immediately after another expires.\n"
-msgstr ""
+msgstr "영약의 효과가 끝난 직후 다른 영약을 이어 사용하면, 그 영약의 지속 시간이 늘어납니다.\n"
 
 #. FILE: DA3\Party\Rogue\Passives\HighGround\party_rogue_passive_highground_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -2154,7 +2156,7 @@ msgstr ""
 #: DA3\Party\Rogue\Passives\Ravager\party_rogue_passive_ravager_abilitydata.xml:5
 msgctxt "0x000425c1"
 msgid "Throatcutter"
-msgstr "목절단자"
+msgstr "참수자"
 
 #. FILE: DA3\Party\Rogue\Passives\Ravager\party_rogue_passive_ravager_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -2272,13 +2274,16 @@ msgid ""
 "You can use more concentrated elixirs that give you an uncanny edge in battle. You do bonus damage with all attacks for a short time whenever you use an elixir or a potion. The effect stacks.\n"
 "\n"
 msgstr ""
+"농축된 영약을 사용해 전투에서 무시무시한 우위를 가져올 수 있습니다. 영약이나 물약을 사용하면 짧은 시간 동안 당신이 가하는 모든 피해에 "
+"추가 피해가 들어갑니다. 이 효과는 중첩 가능합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Rogue\Passives\ThiefsHonor\party_rogue_passive_thiefshonor_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\Rogue\Passives\ThiefsHonor\party_rogue_passive_thiefshonor_abilitydata.xml:5
 msgctxt "0x000425f1"
 msgid "And Take Them Down"
-msgstr ""
+msgstr "추풍낙엽"
 
 #. FILE: DA3\Party\Rogue\Passives\ThiefsHonor\party_rogue_passive_thiefshonor_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -2564,8 +2569,8 @@ msgid ""
 "This flask coats you in flames that spur you to frenzied action. For a short time, your abilities cost no stamina, and enemies who attack you are knocked backward. You can't use this ability while another elixir is active.\n"
 "\n"
 msgstr ""
-"화염 비약이 신체를 불로 휩싸 폭발적인 힘을 다루게 합니다. 일정 시간 동안 당신을 공격한 적들이 뒤로 밀려나고, 당신의 모든 능력이 "
-"기력을 소모하지 않습니다. 다른 비약의 효과를 받고 있을 때는 이 능력을 사용할 수 없습니다.\n"
+"화염 비약이 당신의 신체를 불로 휩싸 폭발적인 힘을 다루게 합니다. 일정 시간 동안 당신을 공격한 적들이 뒤로 밀려나고, 당신의 모든 "
+"능력이 기력을 소모하지 않습니다. 다른 비약의 효과를 받고 있을 때는 이 능력을 사용할 수 없습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\Support\Evade\Upgrade1\party_rogue_support_evade_upgrade1_abilitydata.xml
@@ -2573,7 +2578,7 @@ msgstr ""
 #: DA3\Party\Rogue\Support\Evade\Upgrade1\party_rogue_support_evade_upgrade1_abilitydata.xml:5
 msgctxt "0x00042593"
 msgid "Hidden Step"
-msgstr ""
+msgstr "숨김걸음"
 
 #. FILE: DA3\Party\Rogue\Support\Evade\Upgrade1\party_rogue_support_evade_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -2592,7 +2597,7 @@ msgstr ""
 #: DA3\Party\Rogue\Support\Evade\Upgrade2\party_rogue_support_evade_upgrade2_abilitydata.xml:5
 msgctxt "0x00047676"
 msgid "Shadow Step"
-msgstr ""
+msgstr "그림자 걸음"
 
 #. FILE: DA3\Party\Rogue\Support\Evade\Upgrade2\party_rogue_support_evade_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -2608,7 +2613,7 @@ msgstr ""
 #: DA3\Party\Rogue\Support\Evade\party_rogue_support_evade_dir_abilitydata.xml:5
 msgctxt "0x00042591"
 msgid "Evade"
-msgstr ""
+msgstr "회피"
 
 #. FILE: DA3\Party\Rogue\Support\Evade\party_rogue_support_evade_dir_abilitydata.xml
 #. PATH: BWDirectionalAbility/AbilityDescriptionReference
@@ -2627,7 +2632,7 @@ msgstr ""
 #: DA3\Party\Warrior\Battlemaster\CallOfTheAncients\party_warrior_battlemaster_calloftheancients_ability.xml:5
 msgctxt "0x0004288a"
 msgid "Rally"
-msgstr ""
+msgstr "결집"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\CallOfTheAncients\party_warrior_battlemaster_calloftheancients_ability.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -2728,7 +2733,7 @@ msgstr ""
 #: DA3\Party\Warrior\Battlemaster\IntimidatingShout\party_warrior_battlemaster_intimidatingshout_abilitydata.xml:5
 msgctxt "0x0004288e"
 msgid "War Cry"
-msgstr ""
+msgstr "전쟁의 함성"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\IntimidatingShout\party_warrior_battlemaster_intimidatingshout_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -2751,7 +2756,7 @@ msgstr ""
 #: DA3\Party\Warrior\Battlemaster\IntimidatingShout\party_warrior_battlemaster_intimidatingshout_upgrade1_abilitydata.xml:5
 msgctxt "0x000432f0"
 msgid "Call to Arms"
-msgstr ""
+msgstr "무장의 부름"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\IntimidatingShout\party_warrior_battlemaster_intimidatingshout_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -2767,7 +2772,7 @@ msgstr ""
 #: DA3\Party\Warrior\Battlemaster\IntimidatingShout\party_warrior_battlemaster_intimidatingshout_upgrade2_abilitydata.xml:5
 msgctxt "0x00048479"
 msgid "Battle Roar"
-msgstr ""
+msgstr "전투의 포효"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\IntimidatingShout\party_warrior_battlemaster_intimidatingshout_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -2783,7 +2788,7 @@ msgstr ""
 #: DA3\Party\Warrior\Battlemaster\WarHorn\Upgrade1\party_warrior_battlemaster_warhorn_upgrade1_abilitydata.xml:5
 msgctxt "0x000432e9"
 msgid "Break Their Spirit"
-msgstr ""
+msgstr "기세꺾기"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\WarHorn\Upgrade1\party_warrior_battlemaster_warhorn_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -2799,7 +2804,7 @@ msgstr ""
 #: DA3\Party\Warrior\Battlemaster\WarHorn\party_warrior_battlemaster_warhorn_abilitydata.xml:5
 msgctxt "0x0004287e"
 msgid "War Horn"
-msgstr ""
+msgstr "전쟁 뿔피리"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\WarHorn\party_warrior_battlemaster_warhorn_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -2836,7 +2841,7 @@ msgstr ""
 #: DA3\Party\Warrior\Battlemaster\WarHorn\party_warrior_battlemaster_warhorn_upgrade2_abilitydata.xml:5
 msgctxt "0x000485e4"
 msgid "Seize the Moment"
-msgstr ""
+msgstr "기회 포착"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\WarHorn\party_warrior_battlemaster_warhorn_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference

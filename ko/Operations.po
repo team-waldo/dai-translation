@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-06 18:02+0000\n"
+"PO-Revision-Date: 2021-02-08 17:02+0000\n"
 "Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
@@ -1653,8 +1653,8 @@ msgstr "까마귀단과 꼭 엮일 필요가 있습니까? 이 문제는 우리 
 msgctxt "0x000401ce"
 msgid "Another assassin wishes to help? After killing one of our <i>other</i> assassins? We're already stuck with the Crows. Why make this more complicated?"
 msgstr ""
-"또 다른 암살자가 우릴 돕겠다고 나섰다는 겁니까? 우리와 동맹관계인 암살자를 죽이고? 우린 이미 까마귀 단과 엮여있습니다. 일을 여기서 "
-"더 복잡하게 만들 필요가 있는 겁니까?"
+"<i>또 다른</i> 암살자가 우릴 돕겠다고 나섰다는 겁니까? 우리와 동맹관계인 암살자를 죽이고? 우린 이미 까마귀 단과 엮여있습니다. "
+"일을 여기서 더 복잡하게 만들 필요가 있는 겁니까?"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_crows_zevran.xml
 #. PATH: WarTableEntry/TitleReference
@@ -1696,7 +1696,7 @@ msgstr "헤르시니아의 대사가 데너림으로 여행할 계획을 하고 
 #: DA3\DesignContent\Operations\Global\Crows\gen_ops_zevran_extra.xml:71
 msgctxt "0x00040167"
 msgid "Evading the Crows"
-msgstr "까마귀 단으로부터 벗어나라"
+msgstr "까마귀 단의 손아귀에서 벗어나라"
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_zevran_extra.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -1704,8 +1704,8 @@ msgstr "까마귀 단으로부터 벗어나라"
 msgctxt "0x00040541"
 msgid "Zevran <i>was</i> helpful. We could send soldiers to sweep Hercinia for any remaining Venatori. If Zevran left with our men, it may go unnoticed."
 msgstr ""
-"제브란은 우리에게 도움이 됐습니다. 남아있는 베나토리를 쓸어버리기 위해 헤르시니아로 병사를 보낼 수 있습니다. 제브란을 우리 병사들과 "
-"함께 떠나보내면 발각되지 않을겁니다."
+"제브란은 우리에게 도움이 됐습니다. 남아있는 베나토리를 쓸어버리기 위해 헤르시니아로 병사를 보냅시다. 제브란을 우리 병사들과 함께 "
+"떠나보내면 발각되지 않을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_zevran_proceed.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -1713,8 +1713,8 @@ msgstr ""
 msgctxt "0x00040223"
 msgid "Involving ourselves in the assassination of an Antivan noble is dangerous—as is allowing someone to steal the Crows' target. If you trust Zevran to complete the task, let us part ways now."
 msgstr ""
-"안티바 귀족의 암살에 연루되는 건 우리에게 너무 위험해요. 누군가에게 까마귀 단의 목표물을 훔치게 하는 것도 마찬가지고요. 제브란이 "
-"임무를 완수할 수 있다고 생각하신다면, 여기서 각자의 길을 가는 게 좋겠어요."
+"안티바 귀족의 암살에 연루되는 건 우리에게 너무 위험해요. 누군가에게 까마귀 단의 목표물을 가로채게 만드는 것도 마찬가지고요. 제브란이 "
+"임무를 완수할 수 있다고 생각하신다면, 여기서 까마귀단과는 각자의 길을 가는 게 좋겠어요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_zevran_proceed.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -1792,7 +1792,9 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\DalishPlayerClan\wycome2.xml:179
 msgctxt "0x000400cd"
 msgid "No simple bandits would attack a Dalish camp with such force. My troops can give the Dalish much-needed support."
-msgstr "단순한 도적 떼는 데일스 야영지를 그런 병력으로 공격할 수 없습니다. 제 병사들을 보내 데일스에게 필요한 자원을 지원하겠습니다."
+msgstr ""
+"그들이 단순한 도적 떼라면 데일스 야영지를 공격할만큼 큰 규모의 병력을 갖추고 있는게 말이 안됩니다. 제 병사들을 보내 데일스에게 필요한 "
+"자원을 지원하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\DalishPlayerClan\wycome3.xml
 #. PATH: WarTableEntry/TitleReference
@@ -2054,7 +2056,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Blackwall\blk_mainplot_prisonbreak_options.xml:35
 msgctxt "0x0001a1bb"
 msgid "Thom Rainier's Fate"
-msgstr ""
+msgstr "톰 레니어의 운명"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Blackwall\blk_mainplot_prisonbreak_options.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -2335,7 +2337,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Josephine\Josephine_ops_romance_the_duel.xml:10
 msgctxt "0x0003ffc4"
 msgid "I… suppose I <i>could</i> send one of my people to issue the challenge to a duel. If that is your command?"
-msgstr "제 부하중 하나를 보내 결투를 신청...할 수도 있을 것 같습니다만. 그게 당신의 명령이라면요?"
+msgstr "제 부하중 하나를 보내 결투를 신청... <i>할 수도</i> 있습니다만. 당신이 그리 명령 하신다면?"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Josephine\Josephine_ops_romance_the_duel.xml
 #. PATH: WarTableEntry/TitleReference
@@ -3311,6 +3313,8 @@ msgstr ""
 msgctxt "0x00040a66"
 msgid "Arrange visitation. Not with you—with the duchess. I dare say that waking to find a boxed traitor on their bed tables will set each straight."
 msgstr ""
+"방문을 준비하죠. 심문관님이 아니라, 여대공의 방문을요. 아침에 일어나자마자 침대맡에 놓인 배신자의 시체를 보게 된다면 다들 정신을 차릴 "
+"거라고 확신해요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_duchess_02.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -3347,7 +3351,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_tranquil.xml:34
 msgctxt "0x00040a74"
 msgid "You have taken a brutal stance. If need be, continue. Key agitators can... disappear."
-msgstr "당신은 잔인한 입장을 취했습니다. 필요하다면 계속하세요. 주요 선동가들이... 사라지게 만들도록."
+msgstr "당신은 잔인한 입장을 취했습니다. 필요하다면 계속 취하세요. 주요 선동가들이... 모습을 감추도록."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_tranquil.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -3621,7 +3625,7 @@ msgstr "우리 병사들을 시켜 미끼를 지정 장소에 두는 건 아주 
 #: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_acquisition_nuggalope.xml:32
 msgctxt "0x00041e26"
 msgid "If you wish the lures placed, it will be done."
-msgstr "미끼를 놓아두길 원하신다면, 그렇게 하겠습니다."
+msgstr "미끼를 놓아두고 싶으시다면, 작업해두겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_acquisition_nuggalope.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
