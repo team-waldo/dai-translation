@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-08 17:02+0000\n"
+"PO-Revision-Date: 2021-02-10 09:41+0000\n"
 "Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
@@ -121,7 +121,7 @@ msgstr "이들 중 상당수가 숙련공들입니다. 우리 군에 기술자�
 #: DA3\DesignContent\Operations\DesertRuins\ops_help_freed_slaves.xml:42
 msgctxt "0x0003feae"
 msgid "Hire Former Slaves as Paid Workers"
-msgstr "해방된 노예들을 유급 노동자로 고용"
+msgstr "해방된 노예들을 유급 노동자로 고용하라"
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\FereldenArea\fer_area_watchtowers.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -641,21 +641,21 @@ msgstr "심문단 숫자 부풀리기"
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal.xml:116
 msgctxt "0x0003fe50"
 msgid "My scouts have done similar work. They may even be able to ambush enemy forces."
-msgstr "제 정찰병들도 비슷한 일을 했었습니다. 심지어 그들은 적군에게 매복 공격을 할 수 있습니다."
+msgstr "제 정찰병들도 비슷한 일을 했었습니다. 그들이라면 매복하여 적군을 기습할 수도 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal.xml:133
 msgctxt "0x0003fe57"
 msgid "Follow Venatori Map"
-msgstr "베나토리 지도를 따라가다"
+msgstr "베나토리 지도를 따라서"
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal.xml:145
 msgctxt "0x0003fe4f"
 msgid "It's a good idea. We don't have the manpower to do much more at the moment."
-msgstr "좋은 생각입니다. 현재로서는 더 많은 걸 할 수 있는 인력이 없습니다."
+msgstr "좋은 생각입니다. 당장 더 많은 걸 할 수 있는 인력이 부족한 상태기도 하니까요."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_mythal_bonus.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -3539,21 +3539,21 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Kirkwall\kirkwall_ops_aid.xml:18
 msgctxt "0x0004012b"
 msgid "Aiding Kirkwall"
-msgstr ""
+msgstr "커크월 지원"
 
 #. FILE: DA3\DesignContent\Operations\Global\Kirkwall\kirkwall_ops_aid.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Kirkwall\kirkwall_ops_aid.xml:96
 msgctxt "0x0004012d"
 msgid "Corypheus is still threatening Thedas. Kirkwall has survived this long; it can do so for a while longer."
-msgstr ""
+msgstr "코리피우스는 여전히 테다스를 위협하고 있습니다. 커크월은 여태껏 살아남았어요. 당분간은 더 버틸 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Kirkwall\kirkwall_ops_aid.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Kirkwall\kirkwall_ops_aid.xml:120
 msgctxt "0x0004012c"
 msgid "Red lyrium may present an obstacle to rebuilding the city. Our soldiers can assist in its removal."
-msgstr ""
+msgstr "도시를 재건하는데 붉은 리륨이 장애물이 될 수도 있습니다. 우리 병사들이 그걸 제거하는데 도움을 줄 수 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Kirkwall\kirkwall_ops_aid.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -3561,6 +3561,8 @@ msgstr ""
 msgctxt "0x0004012e"
 msgid "I will plead for assistance from our supporters around Thedas. Restoring Kirkwall, a symbol of all that's happened, could be a significant act that cements our alliances."
 msgstr ""
+"테다스 전역의 우리 지지자들에게 도움을 청하겠습니다. 지금까지 일어난 모든 일의 상징인 커크월을 복원시키는 건 우리 동맹을 확고히 하는데 "
+"중요한 역할을을 할 수 있어요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Kirkwall\kirkwall_ops_annex.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -3568,6 +3570,8 @@ msgstr ""
 msgctxt "0x00040124"
 msgid "The prince means to retaliate against anyone who ever harbored Anders. Kirkwall's resistance is headed by Guard-Captain Aveline. With our help, she can break Sebastian's resolve and send him running back to Starkhaven."
 msgstr ""
+"왕자는 앤더스를 숨겨주는 자라면 누구라도 보복하려는 심산입니다. 커크월의 저항세력은 경비대장 에블린이 이끌고 있습니다. 우리가 그녀를 "
+"도와준다면 세바스티안이 결심을 깨고 스탁헤이븐으로 돌아가게 할 수 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Kirkwall\kirkwall_ops_annex.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -3575,6 +3579,8 @@ msgstr ""
 msgctxt "0x00040125"
 msgid "I fear the diplomatic ramifications of having our soldiers seen as part of a conquering army. Let us tell the prince that the Inquisition has no one to spare. After the destruction of Haven, who would blame us?"
 msgstr ""
+"우리 병사들이 정복군의 일부로 보여진다면 외교적으로 파문을 일으키게 될까봐 우려됩니다. 대공에게는 심문회에 남는 병력이 없다고 전하지요. "
+"헤이븐이 파괴된 직후니, 누가 우리를 비난할 수 있겠어요?"
 
 #. FILE: DA3\DesignContent\Operations\Global\Kirkwall\kirkwall_ops_annex.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -3582,13 +3588,15 @@ msgstr ""
 msgctxt "0x00040126"
 msgid "We have a chance to end this to our advantage. Aveline will back down in the face of our overwhelming force. If we bolster Sebastian with Inquisition agents as his \"advisors,\" we can keep him from doing more damage."
 msgstr ""
+"이 일을 우리에게 유리한 쪽으로 결론낼 수 있습니다. 에블린은 압도적인 병력을 마주하면 물러날 테고, 심문회 요원들을 \"조언자\"로 "
+"보내 세바스티안을 지지한다면 그가 더 큰 피해를 입히는걸 막을 수 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Kirkwall\kirkwall_ops_annex.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Kirkwall\kirkwall_ops_annex.xml:88
 msgctxt "0x00040123"
 msgid "Annexing Kirkwall"
-msgstr ""
+msgstr "커크월 합병"
 
 #. FILE: DA3\DesignContent\Operations\Global\Kirkwall\kirkwall_ops_intro.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -3611,7 +3619,7 @@ msgstr "스탁헤이븐과의 동맹"
 #: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_acquisition_dracolisk.xml:100
 msgctxt "0x00041ddf"
 msgid "The Hunter Shade Dracolisk"
-msgstr ""
+msgstr "헌터셰이드 드라콜리스크"
 
 #. FILE: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_acquisition_nuggalope.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -3639,7 +3647,7 @@ msgstr "우리 동료들이 미끼가 제대로 놓였는지 확인하고 결과
 #: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_acquisition_nuggalope.xml:79
 msgctxt "0x00041de2"
 msgid "The Big One?"
-msgstr ""
+msgstr "커다란 것?"
 
 #. FILE: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_activation_armored_horse.xml
 #. PATH: WarTableEntry/TitleReference
@@ -3821,14 +3829,14 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Nemesis\Samson\for_nem_DagnaResearch.xml:51
 msgctxt "0x000356cf"
 msgid "Finding Samson's Weakness"
-msgstr ""
+msgstr "샘슨의 약점을 찾아라"
 
 #. FILE: DA3\DesignContent\Operations\Global\Nemesis\Samson\for_nem_DagnaResearch.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Nemesis\Samson\for_nem_DagnaResearch.xml:137
 msgctxt "0x000356d4"
 msgid "With the right investment, nothing is beyond our reach."
-msgstr ""
+msgstr "제대로만 투자한다면, 우리가 손에 넣지 못할 건 없어요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Nemesis\Samson\for_nem_HuntingSamson.xml
 #. PATH: WarTableEntry/TitleReference
@@ -4851,7 +4859,7 @@ msgstr "수행단을 보내 제국 도로를 따라 그녀를 안전하게 데�
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_region_dagna.xml:35
 msgctxt "0x0002b328"
 msgid "Acquire the Arcanist"
-msgstr "비전학자를 영입하라"
+msgstr "비전술사를 영입하라"
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_region_dagna.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -4859,7 +4867,7 @@ msgstr "비전학자를 영입하라"
 msgctxt "0x0002b32a"
 msgid "To bar passage, they must know she's there. They will not."
 msgstr ""
-"지주들이 비전학자가 자신들의 영지를 가로질러 가지 못하도록 막으려면, 먼저 그녀가 그곳에 있다는 걸 알아내야 가능합니다. 제가 그렇게 "
+"지주들이 비전술사가 자신들의 영지를 가로질러 가지 못하도록 막으려면, 먼저 그녀가 그곳에 있다는 걸 알아내야 가능합니다. 제가 그렇게 "
 "하도록 두지 않겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_region_dagna.xml
@@ -4876,28 +4884,28 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_region_dagna_into_the_fade.xml:10
 msgctxt "0x0003ffdc"
 msgid "She'll have what she needs. I expect it would be difficult to keep it from her."
-msgstr ""
+msgstr "그녀가 필요로 하는 걸 가져다주겠습니다. 그걸 주지 않는것도 어려운 일일 것 같고요."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_region_dagna_into_the_fade.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_region_dagna_into_the_fade.xml:34
 msgctxt "0x0003ffdb"
 msgid "I'll have the battlefields scoured for samples. That's as close as I would dare with her."
-msgstr ""
+msgstr "전장을 샅샅이 뒤져 표본을 찾아내겠습니다. 이게 제가 그녀에게 해 줄 수 있는 최선이라면요."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_region_dagna_into_the_fade.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_region_dagna_into_the_fade.xml:71
 msgctxt "0x0003ffc0"
 msgid "The Arcanist and the Fade"
-msgstr ""
+msgstr "비전술사와 영계"
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_region_dagna_into_the_fade.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_region_dagna_into_the_fade.xml:142
 msgctxt "0x0003ffda"
 msgid "Remnants are easy enough. I shall poll the powers we have established in your wake."
-msgstr ""
+msgstr "잔재라면 충분히 구하기 쉽죠. 당신이 남긴 자취를 통해 밝혀낸 것들을 이번 기회에 확인해보도록 하죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_region_dagna_misc_dark.xml
 #. PATH: WarTableEntry/TitleReference
@@ -4961,27 +4969,29 @@ msgstr ""
 msgctxt "0x00040a5c"
 msgid "We don't have the manpower, but we don't need it. Exchange the promise of local militia for trade opportunities, and the roads will all but secure themselves."
 msgstr ""
+"우리에게는 인력도 부족하지만, 꼭 해야만 하는 일도 아닙니다. 현지 민병대에게 무역 기회를 주겠다고 약속하면, 그들 스스로 도로를 "
+"안전하게 지킬겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_skyhold_merchant_traveling.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_skyhold_merchant_traveling.xml:34
 msgctxt "0x00040a59"
 msgid "Mandate specific travel times. We cannot be everywhere all the time, but we do not have to be."
-msgstr ""
+msgstr "이동이 가능한 특정 시간을 지정하지요. 우리는 항상 모든 곳에 있을 수도 없고, 그럴 필요도 없으니까요."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_skyhold_merchant_traveling.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_skyhold_merchant_traveling.xml:66
 msgctxt "0x00040a5a"
 msgid "Opening the Roads"
-msgstr ""
+msgstr "도로 개통"
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_skyhold_merchant_traveling.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_skyhold_merchant_traveling.xml:137
 msgctxt "0x00040a5b"
 msgid "Investment in each will ensure they travel safely. Nothing surpasses a proper entourage."
-msgstr ""
+msgstr "개별적으로 투자하면 사람들에게 안전한 여행을 보장해 줄 수 있어요. 제대로 된 수행원보다 나은 건 없죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_specialization_mages.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -5052,7 +5062,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Specialists\Gen_ops_connections_mid_level.xml:42
 msgctxt "0x00040960"
 msgid "Strike a Bargain with Merchant Princes"
-msgstr "왕가 상인들과의 거래"
+msgstr "대상인들과의 거래"
 
 #. FILE: DA3\DesignContent\Operations\Global\Specialists\gen_ops_forces_mission.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -6345,21 +6355,21 @@ msgstr "우리가 그 자원들을 활용할 수 있을 것 같습니다. 병사
 #: DA3\DesignContent\Operations\StormCoast\storm_ops_blades_port.xml:13
 msgctxt "0x0003fd2a"
 msgid "Restore the Port on the Storm Coast"
-msgstr ""
+msgstr "폭풍 해안 항구 복원"
 
 #. FILE: DA3\DesignContent\Operations\StormCoast\storm_ops_blades_port.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\StormCoast\storm_ops_blades_port.xml:94
 msgctxt "0x0003fd83"
 msgid "We can send some of our workers to assist the Blades of Hessarian."
-msgstr ""
+msgstr "헤사리안의 검날단을 돕기 위해 우리 일꾼을 몇 명 보낼 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\StormCoast\storm_ops_blades_port.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\StormCoast\storm_ops_blades_port.xml:118
 msgctxt "0x0003fd82"
 msgid "I can arrange for additional assistance from nearby cities."
-msgstr ""
+msgstr "인근의 도시에서 추가 지원을 받을 수 있을거예요."
 
 #. FILE: DA3\DesignContent\Operations\StormCoast\storm_ops_darkspawn.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference

@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-08 17:01+0000\n"
-"Last-Translator: halfmango <simpleyeom@gmail.com>\n"
+"PO-Revision-Date: 2021-02-10 09:42+0000\n"
+"Last-Translator: 큡수뎃 <quoobt@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2675,7 +2675,7 @@ msgid ""
 "Your war horn's blast rings across the battlefield, giving allies the strength to fight harder.\n"
 "\n"
 msgstr ""
-"전장에 뿔피리의 경적을 널리 퍼뜨려 전투에서 더욱 힘차게 싸우도록 아군을 북돋습니다.\n"
+"전장에 뿔피리의 경적을 울려퍼지게 해 아군이 전투에서 더욱 힘차게 싸우도록 북돋습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\InspiringHorn\party_warrior_battlemaster_InspiringHorn_abilitydata.xml
@@ -2725,7 +2725,7 @@ msgid ""
 "Horn of Valor now grants guard to your allies each time they deal damage.\n"
 "\n"
 msgstr ""
-"뿔피리를 들은 아군은 적을 공격할 때마다 방어도를 쌓게 됩니다.\n"
+"뿔피리의 효과를 받은 아군은 적에게 피해를 줄 때마다 방어도를 얻습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\IntimidatingShout\party_warrior_battlemaster_intimidatingshout_abilitydata.xml
@@ -2743,6 +2743,8 @@ msgid ""
 "You taunt all nearby enemies with a shouted challenge, gaining extra guard for each enemy affected.\n"
 "\n"
 msgstr ""
+"고함을 내질러 주변의 적들을 모두 도발합니다. 도발한 적의 수에 비례해 방어도를 얻습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\IntimidatingShout\party_warrior_battlemaster_intimidatingshout_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -2766,6 +2768,8 @@ msgid ""
 "You draw strength from your War Cry, improving your armor for the coming fight.\n"
 "\n"
 msgstr ""
+"이어질 전투를 위해 전쟁의 함성에서 힘을 끌어모아 자신의 방어력을 증가시킵니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\IntimidatingShout\party_warrior_battlemaster_intimidatingshout_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -2782,6 +2786,8 @@ msgid ""
 "War Cry echoes across the battlefield, catching more enemies and taunting them for longer.\n"
 "\n"
 msgstr ""
+"전장 널리 전쟁의 함성이 울려퍼집니다. 더욱더 많은 수의 적을 더 길게 도발합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\WarHorn\Upgrade1\party_warrior_battlemaster_warhorn_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -2798,6 +2804,8 @@ msgid ""
 "War Horn now shatters your enemy's guard, and panicked enemies are too shaken to defend themselves, leaving their armor sundered.\n"
 "\n"
 msgstr ""
+"전쟁 뿔피리의 소리를 들은 적의 방어력이 무너집니다. 겁에 질린 적들이 자신을 방어하지 못하고, 방어도가 찢긴 상태가 됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\WarHorn\party_warrior_battlemaster_warhorn_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -2814,6 +2822,8 @@ msgid ""
 "Your war horn's blast puts fear into the hearts of your foes, leaving them panicked.\n"
 "\n"
 msgstr ""
+"전쟁 뿔피리의 소리가 적에게 겁을 주고 공포에 떨게 합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\WarHorn\party_warrior_battlemaster_warhorn_lv1_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
