@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-10 09:41+0000\n"
-"Last-Translator: Jihyun Kim <roddl72000@naver.com>\n"
+"PO-Revision-Date: 2021-02-11 14:00+0000\n"
+"Last-Translator: 인생도리롤이되나요 <parkyung1@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journalsystem/"
 "ko/>\n"
 "Language: ko\n"
@@ -803,12 +803,11 @@ msgstr "Lord Seeker는 보이지 않는 무언가 있다. 세린팔 보루가 �
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[116]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:4424
-#, fuzzy
 msgctxt "0x000440bf"
 msgid "The Lord Seeker is actually a demon of envy. To break free and wake up, Cole says the demon must be forced to create more places, people, and faces within the nightmare. This should diminish the demon's strength."
 msgstr ""
-"사실 Lord Seeker는 질투의 악마다. 깨어나 탈출하려면, 콜이 말하길 악마가 억지로 더 많은 장소, 사람들을 만들고 악몽에 "
-"직면해야 한다고 한다. 이것으로 악마의 힘이 약해질 것이다."
+"사실 탐구자 지휘관은 질투의 악마다. 깨어나 탈출하려면, 콜이 말하길 악마가 억지로 더 많은 장소, 사람들을 만들고 악몽에 직면해야 "
+"한다고 한다. 이것으로 악마의 힘이 약해질 것이다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[117]/JournalTextData/TextReference
@@ -1445,10 +1444,9 @@ msgstr "올레이 대학이 서부 접근지역의 지질 조사를 위해 청�
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[203]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:6395
-#, fuzzy
 msgctxt "0x00037fd5"
 msgid "Active Fade rifts have been spotted in Enavuris and Halin'sulahn, as well as near the ancient bathhouse."
-msgstr "에나브리스와 하린'술란, 그리고 고대의 공중목욕탕에서 열려있는 영계 균열이 발견되었다."
+msgstr "에바누리와 할린술란, 그리고 고대의 목욕탕에서 열려있는 영계 균열이 발견되었다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[204]/JournalTextData/TextReference
@@ -6186,13 +6184,12 @@ msgstr ""
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[701]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:20559
-#, fuzzy
 msgctxt "0x00037a04"
 msgid ""
 "Calmar was Elnora's apprentice and First, and a friend to the halla.\n"
 "{blank}"
 msgstr ""
-"칼마는 엘노라의 제자이자 첫 번째였고, 할라의 친구였다.\n"
+"칼마는 엘노라의 수석 제자였고, 할라의 친구였다.\n"
 "{blank}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
@@ -6478,16 +6475,15 @@ msgstr ""
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[711]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:20859
-#, fuzzy
 msgctxt "0x0003320f"
 msgid ""
 "Referred to as \"the Maiden\" in common parlance, depictions of the constellation Bellitanus vary from one Age to the next. It has always been considered fashionable for prominent women of the day to be declared the Maiden's personification: Queen Madrigal in the Exalted Age, for instance, and Queen Asha before her. None of these women would likely appreciate the fact that Bellitanus is believed to have originally referred to Urthemial, the Old God of Beauty.\n"
 "\n"
 "—From {i}A Study of Thedosian Astronomy{/i} by Sister Oran Petrarchius"
 msgstr ""
-"일반적인 표현으로는 \"처녀\"라고 불리는, 벨리타누스자리에 대한 묘사는 시대마다 다르다. 당대의 저명한 여성들을 이 처녀의 의인화라고 "
-"여기는 것이 항상 유행해왔다. 예를 들어, 고양 시대의 마드리갈 여왕과 그녀 전의 아샤 여왕처럼. 이 여성들 중 벨리타누스가 원래는 "
-"아름다움의 고대신, 우서미엘을 상징했다는 사실을 달갑게 여기는 사람은 없을 것이다.\n"
+"흔히 \"처녀\"라고 불리는, 벨리타누스자리에 대한 묘사는 시대마다 다르다. 당대의 저명한 여성들을 이 처녀의 의인화라고 여기는 것이 "
+"항상 유행해왔다. 예를 들어, 고양 시대의 마드리갈 여왕과 그녀 전의 아샤 여왕처럼. 이 여성들 중 벨리타누스가 원래는 아름다움의 "
+"고대신, 우서미엘을 상징했다는 사실을 달갑게 여기는 사람은 없을 것이다.\n"
 "\n"
 "—오란 페트라키우스 수녀의 {i}테다스 천문학의 연구{/i}에서 발췌"
 
@@ -6756,6 +6752,15 @@ msgid ""
 "\n"
 "—From a lecture by renowned hunter, Ser Hayward of the Templar Order"
 msgstr ""
+"옛날 우리는 이것들을 나태의 악마의 일종으로 분류했지만, 우리는 절망의 악마들이 조금 다른 존재라는 것을 알게 되었습니다. 그들은 정의나 "
+"용맹함의 반대라기보다는, 희망의 반대 개념이라고 할 수 있습니다. 그들은 자아와 목적의 기반을 떼어 놓는 악몽을 만들어냅니다. 세상에 "
+"나올 때, 이들은 주로 소외된 사람들, 빈민가, 감옥과 같은 곳들에 가장 끌립니다. 그들이 퍼뜨리는 독기는 극단적인 행동을 유발할 수 "
+"있습니다. 우리는 슬픔으로 인해 벼랑 끝까지 몰아넣어진 사람들의 자살을 수없이 많이 봅니다. 이 지능적인 피조물들은 매우 두려운 "
+"존재입니다. 그들은 절망을 먹고 살 뿐만 아니라, 그 원인을 이해하고 있고, 그것을 이끌어낼 기회를 호시탐탐 노리고 있기 때문이죠. "
+"이들은 그림자 속에 숨어 사람들의 삶을 망치고, 자신들이 왜 불행해졌는지 이유도 모른 채로 고통받는 희생자들의 눈물을 마시며 살아갑니다."
+"\n"
+"\n"
+"—유명한 사냥꾼, 성기사단의 헤이워드 경의 강의에서"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[724]/JournalTextData/TextReference
@@ -6785,6 +6790,20 @@ msgid ""
 "\n"
 "—From {i}Secrets of the Most Holy{/i} by Sister Damson"
 msgstr ""
+"로자먼드 교황. 여기 흥미로운 이야기가 하나 있다. 로자먼드는 역대 최연소 교황이었으며, 몽벨리아드 귀족 가문 출신이었고, 그녀의 전임 "
+"교황 호르텐시아 2세에 의해 교황의 자리에 올랐다. \n"
+"\n"
+"기록에 의하면 그녀는 빛나도록 아름다웠으며, 이는 거의 즉시 올레이 대중의 마음과 상상력을 사로잡았다. 그녀가 교황으로 즉위한 지 얼마 "
+"되지 않아, 그녀를 주인공으로 한 색정적인 예술과 문학이 고귀한 올레이 사회에 등장하기 시작했다. 이 작품들은 온전히 허구적인 "
+"것들이었다. 로자먼드 교황은 흠잡을 곳 없는 삶을 살았지만, 그녀의 순수함이 오히려 그녀의 '추종자' 들의 창조성의 불꽃을 부채질한 듯 "
+"했다. 그들에게 있어 현실은 간단히 치워버릴 수 있는 방해요소일 뿐이었고, 이들은 교황이 금지되고, 종종 육체적으로 불가능한 활동들을 "
+"즐기는 모습을 묘사하는 데 아무런 거리낌도 보이지 않았다.\n"
+"\n"
+"로자먼드에 관한 이야기가 담긴 소책자의 몇 페이지는 여전히 익명의 귀족의 개인 소장품으로 보관되고 있다. 한 페이지는 로자먼드의 "
+"\"향기나는 성지\"를 끔찍할 정도로 자세히  묘사하고 있고, 나머지 부분은 예배에 들어가기 전 성기사들에게 찬양받는 교황의 모습을 "
+"묘사하고 있다.\n"
+"\n"
+"—댐슨 수녀 저, {i}가장 성스러운 분의 비밀{/i}에서 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[726]/JournalTextData/TextReference
@@ -6797,6 +6816,14 @@ msgid ""
 "\n"
 "Mother Florentine"
 msgstr ""
+"지난주의 끔찍한 사고로 이미 아시겠지만, 산을 통과하는 통로 대부분은 언제라도 무너질 수 있어서 위험합니다. 저는 우리들이 \"잃어버린 "
+"이교도의 보물\"을 찾기 위해 더 많은 형제자매를 잃지 않았으면 합니다.\n"
+"\n"
+"산으로 들어가는 모든 출입구를 봉쇄해야 합니다. 성기사들이 이미 동굴을 한번 조사하고 값진 것들은 모두 거둬들여 왔습니다. 안드라스테의 "
+"제자들의 유해는 잊혀진 채로 땅에 묻힐 것입니다. 이 모든 일이 끝나면, 더 이상 그들에 대해 이야기하지 맙시다. 이곳이 저스티니아 5세 "
+"성하와 진정한 챈트리에 의해 부활한 새로운 헤이븐입니다.\n"
+"\n"
+"플로렌타인 수녀"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[727]/JournalTextData/TextReference
@@ -6804,6 +6831,8 @@ msgstr ""
 msgctxt "0x0003fff7"
 msgid "{i}A mug and a bottle of wine indicate this sheltered spot may have once been a popular place to enjoy the view. Someone has carved \"Milton + Lonnie\" into the side of the bench.{/i}"
 msgstr ""
+"{i}머그컵과 와인병이 있는 것을 보아, 이곳은 한 때 사람들이 풍경을 감상하기 위해 즐겨 찾던 장소였던 듯하다. \"밀튼 + 로니\" "
+"라는 글귀가 벤치 옆에 새겨져 있다.{/i}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[728]/JournalTextData/TextReference
@@ -6818,6 +6847,17 @@ msgid ""
 "\n"
 "...Veil's thin here. None of the other hunters were brave enough to go into the shem war zone, but here I am. It has to work here; I know it will..."
 msgstr ""
+"{i}발로린의 일지가 피로 얼룩져 있다. 몇 장만 간신히 알아볼 수 있다:{/i}\n"
+"\n"
+"에말리엔은 계속 인내심을 가져야 한다고 말한다. Fenedhis! 난 이제 발라슬린도 있고, 거의 열일곱 살이 다 됐다고. 난 간단한 "
+"주문보다 훨씬 많은 것을 배울 준비가 됐다. 하웬 수호자님도 날 의심한 걸 후회하게 될 거야.\n"
+"\n"
+"우리가 머물렀던 곳에서 멀지 않은 곳에 폐허가 있다는 소문을 들었다. 타니엘이 뭐라고 하든 상관없어. 린더네이의 부적을 얻어서 수호자님께 "
+"내가 수석이 될 준비가 되었다는 걸 증명할 거다.만약 그 부적이 타니엘이 생각하는 것처럼 보호받고 있다면, 결계를 뚫고 들어갈 거다. "
+"만약 내가 직접 할 수 없다고 해도, 방법을 아니까...\n"
+"\n"
+"...이곳의 장막이 얇다. 다른 사냥꾼들은 아무도 용감하게 인간들의 전쟁 지역에 들어가지 못했지만 난 여기 있다. 여기라면 작동할 거야. "
+"난 알고 있어.."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[729]/JournalTextData/TextReference
@@ -6856,6 +6896,15 @@ msgid ""
 "\n"
 "{spHeroName} was present at the Temple of Sacred Ashes as a representative of {herhis} family's interests, along with other distant relatives in the Chantry. {SheHe} was the only survivor at the temple after the explosion. Rumors that the mysterious mark on {herhis} hand is a sign of the Maker's favor were spread by those who claim they saw the divine prophet, Andraste herself, lead {LadyLord} {spHeroName} out of the Fade."
 msgstr ""
+"트레벨리안 가문은 자유 동맹의 남쪽 해안에 있는 도시국가인 오스트윅의 귀족 가문이다. 이 유명한 가문은 오랫동안 귀족 사회에서 좋은 "
+"평판을 유지하고 있으며, 챈트리와 강한 유대관계를 맺고 있다. 후계자가 될 가능성이 거의 없는 셋째나 넷째 자녀들은 종종 챈트리에 "
+"귀의하여 성기사나 성직자가 된다. 막내인 {LadyLord} {spHeroName} 트레벨리안 역시 비슷한 수순을 따르게 될 "
+"예정이었다... 콘클라베에서 사건에 휘말리기 전까지는.\n"
+"\n"
+"{spHeroName}은 {SheHe}의 가족을 대표하여, 챈트리에서 일하고 있는 몇몇 먼 친척들과 함께 성스러운 재의 성전에 와 "
+"있었다. {SheHe}는 폭발 후 사원에서 살아남은 유일한 생존자였다. 몇몇 이들은 성스러운 예언자 안드라스테가  {LadyLord} "
+"{spHeroName}를 영계 밖으로 인도하는 것을 직접 보았다고 주장했고,  이들에 의해 {SheHe}의 손에 새겨진 불가사의한 표시가 "
+"창조주의 뜻이라는 소문이 퍼졌다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[731]/JournalTextData/TextReference
@@ -6866,13 +6915,23 @@ msgid ""
 "\n"
 "A sedate place, the Ostwick Circle did not decide in favor of either templars or mages, clinging to neutrality during the rebellion. {spHeroName} was chosen as a delegate to the Conclave in the hopes {herhis} noble position would provide protection for {herhis} fellow mages while negotiations continued. Trevelyan was the only survivor of the explosion that rocked the Temple of Sacred Ashes. Rumors that the mysterious mark on {herhis} hand is a sign of the Maker's favor were spread by those who claim they saw the divine prophet, Andraste herself, lead {LadyLord} {spHeroName} out of the Fade."
 msgstr ""
+"트레벨리안 가문은 자유 동맹의 남쪽 해안에 있는 도시국가인 오스트윅의 귀족 가문이다. 이 유명한 가문은 오랫동안 귀족 사회에서 좋은 "
+"평판을 유지하고 있으며, 챈트리와 강한 유대관계를 맺고 있다. 후계자가 될 가능성이 거의 없는 셋째나 넷째 자녀들은 종종 챈트리에 "
+"귀의하여 성기사나 성직자가 된다. 그러나, 마법사였던 {LadyLord} {spHeroName}은 오스트윅 마법사 협회에서 평생을 보내게 "
+"될 예정이었다.\n"
+"\n"
+" 오스트윅 서클은 반란 기간 동안 중립을 고수하면서 성기사단이나 마법사 중 어느 쪽의 편도 들지 않았다. 오스트윅 서클은 "
+"{spHeroName}의 귀족이라는 신분이 협상이 오가는 중 {SheHe}의 동료 마법사들을 지켜주리라는 희망을 품고{SheHe}를 "
+"대리인으로서 콘클라베에 참석시켰다. {SheHe}는 폭발 후 사원에서 살아남은 유일한 생존자였다. 몇몇 이들은 성스러운 예언자 "
+"안드라스테가 {LadyLord} {spHeroName}를 영계 밖으로 인도하는 것을 직접 보았다고 주장했고,  이들에 의해 {SheHe}"
+"의 손에 새겨진 불가사의한 표시가 창조주의 뜻이라는 소문이 퍼졌다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[732]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:21521
 msgctxt "0x0002f97d"
 msgid "Come to the chantry. You are in danger."
-msgstr ""
+msgstr "성당으로 와라. 당신은 위험에 처해 있다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[733]/JournalTextData/TextReference
@@ -6897,6 +6956,26 @@ msgid ""
 "\n"
 "L."
 msgstr ""
+"발라마르의 많은 부분은 아직 잠겨 있어. 잠긴 곳을 탐험하러 갈 사람들은 내일 여기서 정오 한 시간 뒤에 만나. \n"
+"\n"
+"T.\n"
+"\n"
+"{i}이 공지 밑에 일련의 메모들이 휘갈겨져 있다:{/i}\n"
+"\n"
+"그 망할 문에 시간 낭비하지 마. 난 그 너머에 뭐가 있든 상관없어. 기계 장치가 고장났어. 게다가, 그런 거 누가 신경써? 운송해야 할 "
+"물건이 산더미인데, 고대 드워프들이 좋은 차 세트라도 숨겨 놨는지 보자고? 우리는 지금도 인원 부족이야. 네가 장비 쪼가리 몇 개 "
+"찾겠다고 또 사람들을 아래 구역으로 데려간다면, 가만 안 두겠어.\n"
+"\n"
+"L.\n"
+"\n"
+"일단 첫 번째로, 내 생각에 여긴 교역소였던 것 같아. 저 문 뒤에 뭔가 값진 게 있을 수도 있다고. 그리고 두 번째로, 어떻게 가만 안 "
+"둘 건데?\n"
+"\n"
+"T.\n"
+"\n"
+"내 칼로 상상력을 발휘해 주지.\n"
+"\n"
+"L."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[734]/JournalTextData/TextReference
@@ -6907,6 +6986,9 @@ msgid ""
 "\n"
 "Almost.{/i}"
 msgstr ""
+"{i}젖은 모피의 악취가 너무 강해서 수렁의 끔찍한 냄새를 거의 가려준다.\n"
+"\n"
+"거의. {/i}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[735]/JournalTextData/TextReference
@@ -6925,10 +7007,22 @@ msgid ""
 "\n"
 "—Carved into the base of a memorial statue in Crestwood, above a list of names"
 msgstr ""
+"용의 시대 9:30, 만개월 8번째 날, 우리는 다섯 번째 대재앙에 맞서 싸웠다.\n"
+"\n"
+"우리는 댐이 터져 어둠의 피조물을 물에 빠뜨렸던 그 날 밤을 기억한다.\n"
+"\n"
+"우리는 휩쓸려간 사람들, 우리의 가족, 그리고 이웃들의 울부짖음을 기억한다. \n"
+"\n"
+"우리는 함께 피신했던, 우리와 같이 어둠 속에서 길을 잃었던 난민들을 기억한다.\n"
+"\n"
+"우리는 그들의 영혼을 창조주에게 바친다. 안드라스테여, 그들을 창조주의 곁으로 인도해 주소서.\n"
+"\n"
+"—산마루숲의 기념상 아래, 희생자들의 명단 위에 새겨진 글"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[736]/JournalTextData/TextReference
 #: Systems\JournalSystem\JournalSystem.xml:21641
+#, fuzzy
 msgctxt "0x000416b1"
 msgid ""
 "Roses are red,\n"
@@ -6947,6 +7041,22 @@ msgid ""
 "\n"
 "P.S. I know pansies aren't always yellow. I couldn't think of any other yellow flowers."
 msgstr ""
+"장미는 빨갛고,\n"
+"팬지는 노랗지.\n"
+"어떻게 지내니,\n"
+"동료와 떨어져서?\n"
+"\n"
+"발레리에게:\n"
+"\n"
+"널 위해 지어 봤어. 마음에 들면 좋겠네.\n"
+"\n"
+"난 반역자의 영토 깊숙이 들어와 있지만, 들키지 않게 조심하고 있어. 내 많은 재능 중 하나지. 힘들었지만 네 생각 하나로 살아있어. "
+"여제가 승리하는 대로 집에 돌아갈게.\n"
+"\n"
+"보고 싶어,\n"
+"알베인\n"
+"\n"
+"추신: 팬지가 항상 노란색이 아니라는 건 알아. 노란 꽃이 딱히 생각나질 않더라고."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[737]/JournalTextData/TextReference
@@ -6961,6 +7071,18 @@ msgid ""
 "\n"
 "Louis"
 msgstr ""
+"난 살아남지 못할 것이다.나는 붉은 성기사단이 다른 사람들에게 한 짓을 봤다. 저 붉은 수정은 사람의 살 속으로 들어가 사람을 "
+"변화시킨다. 자아를 잃으면 죽는 것이다. 그것이 내 운명이다. 리넷이 나 때문에 너무 오래 슬퍼하지 않기를 기도한다. 난 그녀의 사랑을 "
+"받을 자격이 없다.\n"
+"\n"
+"내가 무슨 짓을 했는지 세상에 알려야 한다. 나는 이 무게를 지고 죽을 수 없다. 내가 리넷의 동생 가르드를 죽였다. 가르드는 그녀에게 "
+"여제를 위해 싸울 거라고 했지만, 사실 그럴 생각이 없었다. 그는 페렐던으로 도망칠 생각이었다. 어느 날 밤, 그가 우리 장롱에서 리넷의 "
+"보석을 훔치려는 걸 잡았다. 그놈은 보석을 훔쳐서 도망가려고 했던 것이다. 나는 그를 막으려 했지만 그놈은 저항했고, 나는 그를 죽였다. "
+"그럴 의도는 없었다. 그건 사고였다.\n"
+"\n"
+"창조주시여, 저를 용서하소서. 안드라스테여, 제게 힘을 주소서.\n"
+"\n"
+"루이"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[738]/JournalTextData/TextReference
@@ -6971,6 +7093,12 @@ msgid ""
 "\n"
 "—From {i}A Study of Thedosian Astronomy{/i} by Sister Oran Petrarchius"
 msgstr ""
+"솔리움자리 뒤에 있는 역사에 관한 두 가지 일반적인 해석이 있는데, 흔히 \"태양\"이라고 불린다. 첫 번째 해석은, 이것이 고대인들(예:"
+" 고대 테빈터 제국의 전신인 네로메니안인) 의 하늘에 떠 있는 물체들(해와 달)에 대한 매료를 나타낸다는 것이다. 정말로, 많은 사람들은 "
+"솔리움자리가 해와 달 둘 다처럼 보인다고 생각한다. 두 번째 해석은 이 별자리가 원래 \"가장 오래된 태양\"이라고도 알려진 엘프 "
+"만신전의 우두머리 엘가르난을 나타냈다는 것이다. 현대 학자들은 어느 것이 진실인지 알지 못한다.\n"
+"\n"
+"—오란 페트라키우스 수녀의 {i}테다스 천문학의 연구{/i}에서 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[739]/JournalTextData/TextReference
@@ -6983,6 +7111,16 @@ msgid ""
 "\n"
 "—An excerpt from {i}An Alchemical Primer of Metallurgy: Volume One{/i} by Lord Cerastes of Marnas Pell"
 msgstr ""
+"리륨은 금속의 왕이다. 그것은 우리 발 밑에서 노래한다. 적절하게 정제한다면, 리륨은 부드럽고 약간의 무지개빛이 도는 은빛 액체가 된다. "
+"드워프 대장장이의 손 안에서, 리륨은 강철과 혼합되어 수백 년 동안 무뎌지지 않는 날과 파괴되지 않는 갑옷이 된다. 기록관의 손 안에서, "
+"이 물질은 살아있는 기억의 보고가 된다. 어떤 학자들은 이것을 리륨 자체가 살아있다는 증거라고 주장한다.\n"
+"\n"
+"포마리는 리륨을 황금, 은석, 베리듐, 심지어 철과 같은 하위 금속과 함께 사용하여 마법을 부여할 수 있어, 이 물질을 가장 유용하게 "
+"사용할 수 있다. 물론 마법사들도 그들의 능력을 강화하기 위해 희석된 형태로 리륨을 소비하지만, 이것은 바람직하지 않다. 리륨의 과다 "
+"복용은 특히 더 농축된 양을 소비했을 때 재앙과 같은 결과를 초래할 수 있다. 예를 들자면, 가공되지 않은 리륨을 다루는 것은 접촉만으로 "
+"사망할 수 있기 때문에 바람직하지 않다.\n"
+"\n"
+"—마나스 펠의 세라스테스 경 저, {i}야금술의 첫걸음: 제1권{/i}에서 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[740]/JournalTextData/TextReference
@@ -6993,6 +7131,10 @@ msgid ""
 "\n"
 "My dear, I would love to come to Denerim with you, but I have nothing left to my name. Regardless, something is awry in the village; I fear we may soon need all the help we can get. Perhaps in a few months my situation will have changed."
 msgstr ""
+"{i}연인에게 보낸 편지:{/i}\n"
+"\n"
+"내 사랑, 당신과 함께 데네림에 가고 싶지만, 이제 내 이름으로 남은 건 아무 것도 없어요. 어쨌거나, 마을에 뭔가 문제가 있어요. 곧 "
+"우리가 도움을 받아야 할 상황이 올 것 같아요. 몇 달 후면 상황이 좀 바뀔지도 모르겠네요."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[741]/JournalTextData/TextReference
@@ -7021,6 +7163,33 @@ msgid ""
 "\n"
 "—An excerpt from {i}The Blighted Codex{/i}, a classified collection of studies on the darkspawn, held safely in the Imperial Library in Minrathous, available only to members of the Magisterium\n"
 msgstr ""
+"우리는 그것을 배론 경의 방으로 데려갔다. 힘센 남자들이 양쪽에서 족쇄를 쥐고 있었다. 그것은 무기를 전부 빼앗기고 간신히 걸을 수만 "
+"있을 정도로 두들겨 맞은 상태였다.\n"
+" \n"
+"\"네놈이 광산에서 발견된 어둠의 피조물 중 유일한 생존자라고 들었다.\" 배론 경이 말했다. \"헐록인 것 같군. 우리가 너를 "
+"사로잡았을 때 네가 내 부하들에게 말을 걸었다고 들었다.\"\n"
+"\n"
+"그것이 입을 열었다. \"그들이 죽을 거라고 말했다.\" 사람의 말을 흉내내기 위해 훈련된 짐승처럼 쉬고 야만적인 목소리였지만, 충분히 "
+"알아들을 수 있었다.\n"
+"\n"
+"\"그렇군.\" 배론 경이 말했다. \"너는 네 동료 짐승들보다 더 똑똑하군.\"\n"
+"\n"
+"\"그렇다.\" 짐승이 말했다.\n"
+"\n"
+"\"좀 더 자세하게 말해 봐라.\" 배론 경이 말했다. \"어쩌면 너희들 종족을 이해하고 협상할 수 있을지도 모르지.\"\n"
+"\n"
+"\"그렇게 될 것이다.\" 짐승이 말했습니다. \"너의 부하들은 손가락 마디에 피가 날 때까지 날 때렸다. 내 피가 이들의 피와 섞였다. "
+"곧 이들은 노래를 들을 것이다. 곧 이들의 피가 타오를 것이고, 내가 이들을 이끌 것이다.\"\n"
+"\n"
+"사람들은 모두 자기 손을 바라보았다. 어둠의 피조물들이 옮기는 병을 알고 있었기 때문이다. 그 때, 짐승은 그들의 손아귀에서 족쇄를 "
+"비틀어 빼냈다. 그리고는 배론 경의 목을 잡았다.\n"
+"\n"
+"\"대화는 없다.\" 그것이 말했다. \"협상은 없다. 너는 죽을 것이다. 너희들의 세계는 죽을 것이다. 이제 너는 이해한다.\"\n"
+"\n"
+"그것은 바론 경의 목을 부러뜨리고, 우리가 그것을 간신히 처치하기 전까지 네 명을 더 죽였다.\n"
+"\n"
+"—민라투스의 제국 도서관에 보관되어 마지스터들만이 열람할 수 있는, 어둠의 피조물에 대한 기밀 연구서, {i}대재앙의 고문서{/i}에서 "
+"발췌\n"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[742]/JournalTextData/TextReference
@@ -7032,6 +7201,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Darkspawn Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 어둠의 피조물 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[743]/JournalTextData/TextReference
@@ -7044,6 +7217,16 @@ msgid ""
 "\n"
 "—From {i}An Examination of Orlesian Government{/i} by Sister Petrine, Chantry scholar\n"
 msgstr ""
+"법적으로, 올레이 귀족의 칭호와 문장은 금지되었다. 그러나 심지어 황제의 힘조차도 수천 년의 문화와 전통에 비하면 미약하다. 올레이의 "
+"가장 오래된 가문의 혈통은 시리앵 부족의 군사 지도자까지 거슬러 올라간다. 많은 가문들은 안티바, 리베인, 그리고 앤더펄스의 위대한 "
+"가문들과 관계를 맺고 있다. 그들은 그들의 유산을 포기하지 않았지만, 그들의 작위가 합법적이지 않았기 때문에 그들은 출생권과 상속권에 "
+"대한 상반된 주장의 혼란 속에 빠졌고, 이 문제는 르빌 황제가 그의 지지자들에게 선물로 내린 수많은 새 작위들 때문에 더욱 복잡해졌다.\n"
+"\n"
+"주디카엘 1세가 왕위에 올랐을 때, 그는 그의 아버지인 \"미친 르빌\"이 남긴 정치적 혼란을 물려받았고, 이 혼란에 그는 동생 에티엔 "
+"2세를 잃었다. 궁정의 귀족들을 상대로 이기기 위해, 주디카엘 황제가 한 첫 번째 행동은 공의회의 설립이었다. 의회는 직함을 포함한 모든 "
+"분쟁에 대한 최종 결정권자로 기능했다. 심지어 관련 문제에 대해서는 황제의 말도 뒤집을 수 있는 권한을 가지게 되었다.\n"
+"\n"
+"—챈트리 학자 페트린 수녀 저, {i}올레이 정부에 대한 고찰{/i}에서 발췌\n"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[744]/JournalTextData/TextReference
@@ -7059,6 +7242,19 @@ msgid ""
 "Leliana\n"
 "{blank}"
 msgstr ""
+"블랙월 감시자에 대해 밝혀진 정보는 많지 않다. 감시단 부사령관 폰테인이 그녀의 선임을 대신해 감시단 사령관으로 임명된 이후, 그는 발 "
+"셰빈에서 감시단 부사령관이 되었다. 그는 위대한 용기를 발휘한 올레이 감시자에게 주어지는 훈장인 용기의 은석 날개도 가지고 있다. 그러나 "
+"블랙월이 이 훈장을 어떻게 획득했는지에 대한 세부 사항은 피상적으로 남아 있다. 회색 감시자들은 비밀을 잘 숨긴다. 이 훈장은 다섯 번째 "
+"대재앙 직후에 올레이 내의 지하 가도 입구를 확보하기 위한 작전 중에 수여된 것으로 보인다. 몇몇 회색 감시자들은 그 작전 중에 목숨을 "
+"잃었다. 블랙월의 활약이 없었다면 아마 더 많은 사람들이 죽었을 것이다.\n"
+"\n"
+"나의 소식통에 따르면, 블랙월 감시자는 몇 년 전부터 혼자 여행해 왔다고 한다. 그가 발 셰빈 요새에서 마지막으로 목격된 것은 용의 시대 "
+"9:37이었다. 다른 감시자 초소들과 마찬가지로, 그곳은 완전히 버려졌다. 블랙월도 우리만큼 이 실종에 대해 아는 것이 적은 듯하다.\n"
+"\n"
+"아마도 때가 되면, 답을 찾을 수 있을 것이다.\n"
+"\n"
+"렐리아나\n"
+"{blank}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[745]/JournalTextData/TextReference
@@ -7162,6 +7358,46 @@ msgid ""
 "\n"
 "—As performed by the bard Maryden Halewell"
 msgstr ""
+"불꽃의 여제,\n"
+"사자의 치세에\n"
+"눈동자 속에 가려지네.\n"
+"우리의 올레이 제국.\n"
+"\n"
+"불꽃의 여제,\n"
+"어떤 계절이 오더라도,\n"
+"그날을 위해 싸우리라. \n"
+"우리의 심장을 돌려줄 날을\n"
+"우리의 영광을 돌려줄 날을.\n"
+"\n"
+"우리들은 영원히\n"
+"당신의 은혜 속에 있네.\n"
+"\n"
+"불꽃의 여제,\n"
+"우리를 구원해 주소서.\n"
+"조국이 술렁이며,\n"
+"항로는 끝나고 종말이 찾아왔네.\n"
+"\n"
+"불꽃의 여제,\n"
+"우리를 믿어 주소서.\n"
+"우리를 두 팔로 껴안고,\n"
+"검으로 무장시켜,\n"
+"우리의 심장을 용맹한 피로 밝혀 주소서.\n"
+"\n"
+"우리들은 영원히\n"
+"당신의 은혜 속에 있네.\n"
+"\n"
+"불꽃의 여제,\n"
+"사자의 치세에\n"
+"눈동자 속에 가려지네.\n"
+"우리의 올레이 제국.\n"
+"\n"
+"불꽃의 여제,\n"
+"어떤 계절이 오더라도,\n"
+"그날을 위해 싸우네. \n"
+"우리의 심장을 돌려줄 날을\n"
+"우리의 영광을 돌려줄 날을.\n"
+"\n"
+"—음유시인 메리덴 헤일웰의 공연에서"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[747]/JournalTextData/TextReference
@@ -7176,6 +7412,15 @@ msgid ""
 "\n"
 "Servis"
 msgstr ""
+"여러분,\n"
+"\n"
+"당신들이 내 지시를 잘 따르기만 한다면 서부 접근지역에 머무는 동안 꽤 많은 돈을 벌 수 있을 겁니다. 첫 번째, 그리고 가장 중요한 건:"
+" 올레이 대학에서 중요한 프로젝트를 위해 이곳에 파견된 팀에게서 연구 자료를 손에 넣는 것입니다. 두 번째: 당신들은 성기사단의 자원 "
+"수집을 최대한 도와야 합니다. 베나토리가 하는 발굴 작업에는 간섭하지 마십시오. 그리고 회색 감시자들에게 존재를 들켜서도 안 됩니다.\n"
+"\n"
+"이 일을 잘 처리하면 보수는 심심치 않게 챙겨 드리겠습니다.\n"
+"\n"
+"세르비스"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[748]/JournalTextData/TextReference
@@ -7188,6 +7433,13 @@ msgid ""
 "\n"
 "Hessle"
 msgstr ""
+"엔드린,\n"
+"\n"
+"그들이 모두에게 떠나라고 하고 있어. 마법사와 성기사들이 모든 걸 태워버리고 있거든. 그치만 난 상인들이 무슨 생각을 하는지 눈치챘어. "
+"만약 우리가 그냥 도망간다면, 그 자들이 우리 집을 깨끗이 털어가 버릴 거야. 우리의 작은 프로젝트를 북쪽 언덕에 있는 동굴로 가져가려고 "
+"해. 뭔지 알지? 이 모든 게 끝나기 전까진 거기 두는 게 안전할 거야.\n"
+"\n"
+"헤슬"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[749]/JournalTextData/TextReference
@@ -7200,6 +7452,12 @@ msgid ""
 "\n"
 "Helen"
 msgstr ""
+"로젤,\n"
+"\n"
+"내가 식량 구하러 나갔을 때 도착했으면, 네가 부탁한 약초들 야영지 근처 바위 틈에 두고 왔으니까 미리 끓여 놓고 있어. 저녁때 봐. "
+"토끼고기 괜찮지?\n"
+"\n"
+"헬렌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[750]/JournalTextData/TextReference
@@ -7209,6 +7467,8 @@ msgid ""
 "{i}Veilfire writing from a ruin in the Arbor Wilds; the script is so ancient it defies translation.{/i}\n"
 "{blank}"
 msgstr ""
+"{i}수목 야생지의 폐허에서 발견된 장막 불꽃 글씨. 너무 오래되어 번역하기 힘들다.{/i}\n"
+"{blank}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[751]/JournalTextData/TextReference
@@ -7221,6 +7481,12 @@ msgid ""
 "\n"
 "There is a brief image of an elaborate golden spear, glowing with unbearable heat. Then it fades."
 msgstr ""
+"슬픔의 샘에서 속삭임이 들린다. 모든 말을 이해하는 것은 불가능하지만, 어떤 부분들은 갑자기 본래 의미의 그림자를 드러낸다.\n"
+"\n"
+"\"그녀는 별들의 광채를 흔들어, 그것들을 빛의 알갱이로 나눈 다음, 그것들을 금의 자루에 넣어두었다. 안드루일, 피와 힘으로, 이 "
+"무기가 던져진 시간에서 우리를 구하소서. 당신의 백성이 기도드립니다. 우리가 당신의 제물이 될 수 있는 순간을 내어주소서.\"\n"
+"\n"
+"순간, 견딜 수 없는 열기로 이글거리는 정교한 황금창의 이미지가 스쳐지나간다. 그것은 이내 희미해진다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[752]/JournalTextData/TextReference
@@ -7252,6 +7518,21 @@ msgid ""
 "\n"
 "{i}The letter ends abruptly.{/i}"
 msgstr ""
+"친애하는 헥터에게,\n"
+"\n"
+"잘 지내고 있길 바라. 너와 함께 싸우지 않은 걸 매일같이 후회하고 있어. 나는 자유로워지고 싶었어. 반란군이나 성기사들을 상대할 필요 "
+"없이 말이야.나는 혼자 있고 싶었어. 멍청한 생각이었지.\n"
+"\n"
+"난 꽤 힘들게 지냈어. 협회에서의 생활이 얼마나 쉬운 거였는지 잊고 있었어. 그래, 물론 성기사들도 있고 그렇게 좋지는 않았지만, 부족한 "
+"건 없었어. 음식, 쉼터, 그리고 옷까지. 나는 돈도 없고 특별한 기술도 없어. 술집에서 군인 하나가 나한테 말을 걸었어. 그는 내가 "
+"마법사라는 것을 알고 있었어. 어떻게 알았는지는 모르겠어. 그는 내게 내전의 양상을 뒤집을 만한 마법 몇 가지를 부탁했어. 난 그렇게 "
+"하기로 했고. 내가 무슨 선택지가 있겠어? 난 배가 고팠다고.\n"
+"\n"
+"난 계속 숨어있어야 해. 군대는 마법사를 싫어하니까. 나는 아무것도 묻지 않고 그가 시키는 대로만 하고 있어.\n"
+"\n"
+"이 편지를 어디로 보내야 할지도 모르겠어. 의미는 없지만, 너한테 글이라도 쓰는 게 도움이 돼. 내가 원하\n"
+"\n"
+"{i}편지가 갑자기 끝난다.{/i}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[754]/JournalTextData/TextReference
@@ -7264,6 +7545,18 @@ msgid ""
 "\n"
 "—From {i}Before Andrastianism: the Forgotten Faiths{/i} by Sister Rondwyn of Tantervale\n"
 msgstr ""
+"안드라스테 챈트리의 가르침은 800년 넘게 테다스인의 삶의 일부였다. 챈트리는 우리를 안내하고 가르친다. 우리는 우리의 원죄를 깨닫고 "
+"겸손해졌지만, 안드라스테의 이야기와 그녀의 노래를 통해 영감을 받고 희망을 얻는다. 그러나 안드라스테는 그녀의 황제, 코딜리우스 "
+"드레이콘이 챈트리를 세우고 빛의 성가를 전파하기 거의 200년 전에 죽었다. 그 끔찍한 시기에, 테다스인들은 길을 잃었다. 구원을 "
+"갈망하며, 그들은 그토록 간절히 원하는 대답을 들려줄 듯한 모든 것에 의지했다. 일부는 테빈터 제국의 고대신 숭배처럼 잘 알려진 신앙으로 "
+"돌아갔는데, 현재 우리는 이 종교에 대재앙의 저주와 어둠의 피조물에 대한 책임을 묻고 있다. 한편으로, 다른 사람들은 자신들만의 길을 "
+"찾아, 거짓 예언자들을 따라다니며 인간을 거짓 신으로 받들었다. \"노래의 딸들\", 혹은 \"공허한 자들\"같은 이러한 종교들 중 많은 "
+"수가 사라졌다. 헤사리안의 칼날 같은 다른 몇 개의 종교들은 여전히 우리 세계의 어두운 구석에 숨어있을지도 모른다.\n"
+"\n"
+"이 책은 그 암울한 시대를 살았던 사람들에 대한, 그리고 지금도 빛을 찾으며 그림자 속을 헤매는 길잃은 사람들에 대한 연민을 찾을 수 "
+"있도록 하기 위해 쓰여졌다.\n"
+"\n"
+"—텐터베일의 론드윈 수녀 저, {i}안드라스테 사조 이전: 잊혀진 믿음{/i}에서 발췌\n"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[755]/JournalTextData/TextReference
@@ -7271,6 +7564,8 @@ msgstr ""
 msgctxt "0x0003fbbb"
 msgid "{i}This log is so smeared with dirt and blood that it is completely illegible. The only part that is even slightly clear of viscera is the cover, which has a series of white claw marks painted on the leather.{/i}"
 msgstr ""
+"{i}이 일지는 흙과 피로 더러워져 거의 읽을 수 없다. 피로 범벅되어 있지 않은 유일한 부분인 표지에는 흰색 발톱 자국이 가죽 위에 "
+"물감으로 그려져 있다.{/i}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[756]/JournalTextData/TextReference
@@ -7280,6 +7575,11 @@ msgid ""
 "Previously wife to King Cailan, descendant of Calenhad and last of the Theirin bloodline to rule Ferelden, Queen Anora came into her own during the Fifth Blight. With the throne left vacant following her husband's death, she was confirmed as sole ruler with the support of the Hero of Ferelden—and this confirmation allowed her to rally her nation behind the Grey Wardens and the battle that ultimately ended the war with the darkspawn before it ever truly began.\n"
 "{blank}"
 msgstr ""
+"캘런해드의 후손이자 페렐던을 통치한 테린 혈통의 마지막 왕인 케일런 왕과 그의 전처 아노라 여왕은 다섯 번째 대재앙 때 본인이 직접 "
+"왕위에 올랐다. 남편이 죽은 후 왕좌가 공석이 되면서, 그녀는 페렐던의 영웅의 지지로 단독 통치자로 확정되었다. 이로 인해 그녀는 회색 "
+"감시자들의 뒤에서 그녀의 조국을 규합할 수 있게 되었고, 마침내 전쟁이 본격적으로 시작되기도 전에 어둠의 피조물과의 전쟁을 끝낼 수 있게 "
+"되었다.\n"
+"{blank}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[757]/JournalTextData/TextReference
@@ -7289,6 +7589,9 @@ msgid ""
 "After the Blight's end, Anora and the Hero of Ferelden were married. She began the process of rebuilding a country devastated by the Blight's corruption... a process that is considered to have gone well, at least until the Hero of Ferelden's disappearance from the Fereldan court several years ago.\n"
 "{blank}"
 msgstr ""
+"대재앙이 끝난 이후 아노라와 페렐던의 영웅은 결혼하였다. 그녀는 대재앙의 부패로 황폐해진 나라를 재건하는 과정을 시작했다. 이 과정은 잘 "
+"진행되었으나, 몇 년 전 페렐던의 영웅은 페렐던 왕정에서 사라지고 말았다.\n"
+"{blank}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[758]/JournalTextData/TextReference
@@ -7296,6 +7599,11 @@ msgstr ""
 msgctxt "0x00042310"
 msgid "Since that time, concerns linger that Queen Anora has still not produced an heir, concerns that she has thus far successfully dismissed. The people believe her rule wise and well-reasoned, and they fully supported her decision to give the rebel mages safe harbor in Redcliffe following an impassioned speech she delivered in Denerim six months ago. When the rebel mages took over both the town and castle, forcing Arl Teagan to flee for the capital, her support among the nobility dwindled rapidly. What this will mean for her rule in the coming years—particularly with renewed interest from neighboring Orlais—remains to be seen."
 msgstr ""
+"그 이후로, 아노라 여왕이 여전히 후계자를 배출하지 않았다는 우려는 여전하다. 국민들은 그녀의 통치가 현명하고 합리적이라고 믿고 있으며, "
+"6개월 전 데네림에서 그녀가 열렬히 연설한 후 레드클리프에 있는 반란군 지도자들에게 안전한 항구를 제공하기로 한 그녀의 결정을 전적으로 "
+"지지했다. 그러나 반란군들이 마을과 성을 점령하고 티건 백작이 수도로 도망칠 수밖에 없게 되자, 귀족들 사이에서 그녀의 지지는 급격히 "
+"줄어들었다. 이것이 향후 몇 년 동안, 특히 이웃나라 올레이의 새로운 입장을 고려했을 때, 그녀의 통치에 어떤 의미가 될지는 두고 볼 "
+"일이다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[759]/JournalTextData/TextReference
@@ -7305,6 +7613,8 @@ msgid ""
 "{i}This elven writing found in the Arbor Wilds is so old there seems to be no way to learn what it means.{/i}\n"
 "{blank}"
 msgstr ""
+"{i}수목 야생지에서 발견된 이 엘프 글씨는 너무 오래되어 무슨 뜻인지 알 길이 없어 보인다.{/i}\n"
+"{blank}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[760]/JournalTextData/TextReference
@@ -7317,6 +7627,13 @@ msgid ""
 "\n"
 "For a moment there is an image of a shifting, shadowy mass with blazing eyes, whose form may be one or many. Then it fades."
 msgstr ""
+"슬픔의 샘에서 속삭임이 들린다. 모든 말을 이해하는 것은 불가능하지만, 어떤 부분들은 갑자기 본래 의미의 그림자를 드러낸다.\n"
+"\n"
+"\"그의 범죄는 대역죄입니다. 그는 신들과 선택된 자들에게만 허락된 형태를 취해 감히 신의 모습으로 날았습니다. 이 죄인은 더타멘의 "
+"소유입니다. 그는 길란나인이 날개를 달라고 권유했다고 주장하며, 미쌀의 보호를 구하고 있습니다. 미쌀은 그에게 호의를 보이지 않고, "
+"엘가르난이 그를 심판하도록 할 것입니다.\"\n"
+"\n"
+"순간, 이글거리는 눈을 가진 움직이는 어두운 덩어리의 이미지가 보인다. 그 형태는 하나,혹은 여러 개인 듯하다. 그것은 이내 희미해진다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[761]/JournalTextData/TextReference
@@ -7327,6 +7644,12 @@ msgid ""
 "\n"
 "Nothing works. I have tried countless times to go back before the Conclave explosion, before Felix's caravan was attacked by darkspawn, before the Venatori first arrived in Minrathous—without success. The Breach is the wellspring that makes this magic possible, and travel outside of its timeline is impossible. The Elder One's demand that I change the events of the Conclave can never be fulfilled. He may kill me for failing him, but I must protect Felix from his wrath. \n"
 msgstr ""
+"{i}알렉시우스의 일지로 보인다. 마지막 장이다.{/i}\n"
+"\n"
+"아무 것도 소용없다. 나는 콘클라베 폭발 전, 펠릭스의 상단이 어둠의 피조물의 공격을 받기 전, 베나토리가 민라투스에 처음 도착하기 "
+"전으로 돌아가려고 수도 없이 노력했지만 실패했다. 균열은 이 마법을 가능케 하는 원동력이며, 그것이 존재하는 시간 밖으로의 여행은 "
+"불가능하다. 콘클라베에서의 사건을 바꾸라는 오래된 존재의 요구는 절대 이루어질 수 없다. 그가 나를 죽일지도 모르지만, 그의 분노로부터 "
+"펠릭스만은 보호해야 한다. \n"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[762]/JournalTextData/TextReference
@@ -8170,6 +8493,16 @@ msgid ""
 "{linebreak}\n"
 "{blank}"
 msgstr ""
+"동쪽에서 페이렐의 무덤을 발견했다. 저렇게 빌어먹도록 웅장한 건 태어나서 처음 본다. 이 장소에 대해서 말하자면 책 몇 권은 쓸 수 있을 "
+"것 같다. 여기서 찾은 걸 가져가면, 난 엄청난 부자가 될 거다.여제의 저녁식사에 초대받아서 내 발견을 여제에게 직접 발표하고, 올레이 "
+"대학에서는 제발 강의해 달라고 내게 무릎 꿇고 빌겠지.\n"
+"\n"
+"물론, 페이렐의 무덤 안에 들어갈 수 있을 때의 이야기다. 문은 굳게 닫혀 있다. 열쇠구멍이 있는 것 같은데, 폐허들을 둘러봐도 "
+"열쇠는커녕 단서조차도 없다. 나가는 길에, 바닥에 굴러다니는 뼈 몇 개를 놓쳤다는 걸 알았다. 그것들은 아직도 피투성이였다. 여기에 뭐가 "
+"살고 있는지는 몰라도 내가 갔을 때 없었다는 게 천만다행이다.\n"
+"\n"
+"{linebreak}\n"
+"{blank}"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[811]/JournalTextData/TextReference
@@ -8469,6 +8802,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[827]/JournalTextData/TextReference
@@ -8527,6 +8864,43 @@ msgid ""
 "\n"
 "—As performed by the bard Maryden Halewell"
 msgstr ""
+"한때 우리는\n"
+"평화로웠네\n"
+"안심하고 살아왔었네\n"
+"\n"
+"한때 우리는\n"
+"어둠이 두렵지 않았네\n"
+"\n"
+"한때 우리는\n"
+"자랑스런 왕국에 살았네\n"
+"\n"
+"한때 우리는 \n"
+"힘찬 걸음으로 들판을 달렸네\n"
+"\n"
+"우리는 영계를 \n"
+"그리고 악마들의 비행을 \n"
+"우리의 아이들과\n"
+"우리의 삶에서 멀리 잡아두었네\n"
+"\n"
+"우리는 연약한 하늘을\n"
+"부서지지 않게 잡고\n"
+"삶을 이어갔었네\n"
+"\n"
+"한때 우리는\n"
+"술잔을 들었네\n"
+"승리를 축하하며\n"
+"\n"
+"한때 우리는\n"
+"꿈의 빛에 감싸여 있었네\n"
+"\n"
+"한때 우리는\n"
+"번영하는 고국의\n"
+"고향에 있었네\n"
+"\n"
+"한때 우리는\n"
+"밤이 두렵지 않았네\n"
+"\n"
+"—음유시인 메리덴 헤일웰이 노래함"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[829]/JournalTextData/TextReference
@@ -8722,6 +9096,12 @@ msgid ""
 "\n"
 "—From {i}A Study of Thedosian Astronomy{/i} by Sister Oran Petrarchius"
 msgstr ""
+"흔히 \"여행자\"라고 불리는 페라퀴알루스자리는, 보통 배가 아닌 네로메니안인들과 같은 고대인들이 항해했던 원시 선박으로 묘사된다. 고대 "
+"테빈터어 번역은 보통 \"바다 건너\"이며, 네로메니안인들이 다른 곳에서 테다스로 왔다는 주장에 신빙성을 부여하지만, 대부분의 저명한 "
+"학자들은 이 주장에 이의를 제기하고 있다. 특히 고대인들이 이러한 항해를 시작하기 훨씬 전에 이 별들의 이름을 지었을 것이라는 점을 "
+"고려한다면 더욱 그러하다.\n"
+"\n"
+"—오란 페트라키우스 수녀의 {i}테다스 천문학의 연구{/i}에서 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[839]/JournalTextData/TextReference
@@ -8849,6 +9229,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Darkspawn Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 어둠의 피조물 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[848]/JournalTextData/TextReference
@@ -8934,6 +9318,12 @@ msgid ""
 "\n"
 "—From {i}A Study of Thedosian Astronomy{/i} by Sister Oran Petrarchius"
 msgstr ""
+"동명의 유명한 올레이 이야기 때문에, 엘루비아 별자리는 일반적으로 \"희생\"이라고 불린다. 영광 시대에는, 한 젊은 여성이 아버지의 "
+"의해 하늘로 보내져 색욕에 가득 찬 마법사로부터 구원을 받았고, 그 후 그 마녀가 그를 죽였다는 이야기가 전해졌다. 그 딸은 별자리가 "
+"되었고, 머리를 구름에 싸매고 앉아 있는 여자로 묘사되었다. 이 이야기 이전에, 엘루비아는 신비를 상징하는 테빈터 고대신 라지케일을 "
+"대표하는 것으로 생각되었고, 이 별자리가 소원을 들어준다는 미신의 원천이었다.\n"
+"\n"
+"—오란 페트라키우스 수녀의 {i}테다스 천문학의 연구{/i}에서 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[854]/JournalTextData/TextReference
@@ -8955,6 +9345,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Red Templars Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 붉은 성기사단 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[856]/JournalTextData/TextReference
@@ -9182,6 +9576,11 @@ msgid ""
 "\n"
 "—From {i}A Study of Thedosian Astronomy{/i} by Sister Oran Petrarchius"
 msgstr ""
+"일반적으로 (달의 이름을 딴)\"사티나\" 또는 (명절의 이름을 따)\"사티날리아\" 라고 불리는데, 사티날리스 성좌는 항상 무언가를 "
+"축하하는 사람으로 묘사된다. 주목해야 할 점은 고대 테빈터에서는 이 별자리가 \"모테말리스\"로 알려졌으며 머리를 높이 쳐든 전사로 "
+"표현되었다는 점이다. 공식적으로 이름을 바꾸려는 운동은 교황 시대에 일어났고, 800년이 지난 후, 원본은 거의 잊혀졌다.\n"
+"\n"
+"—오란 페트라키우스 수녀의 {i}테다스 천문학의 연구{/i}에서 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[872]/JournalTextData/TextReference
@@ -9649,6 +10048,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Red Templars Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 붉은 성기사단 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[903]/JournalTextData/TextReference
@@ -9674,6 +10077,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[905]/JournalTextData/TextReference
@@ -9721,6 +10128,36 @@ msgid ""
 "\n"
 "—As performed by the bard Maryden Halewell"
 msgstr ""
+"마도사들이여!\n"
+"살아날 때가 왔다.\n"
+"번영할 마법사의 협회와 함께\n"
+"우리 형제들과 함께.\n"
+"\n"
+"마도사들이여 잊지 말아라\n"
+"시간은 결코 풀리지 않으니.\n"
+"용의 구부러진 등뼈는\n"
+"결코 가지런해지지 않으리.\n"
+"\n"
+"우리의 간청은 \n"
+"충실한 종말의 법령,\n"
+"아버지들의 패배로부터\n"
+"아무도 물러나지 않는 곳\n"
+"\n"
+"마도사들이여!\n"
+"전열을 갖추어라.\n"
+"우리는 이 매듭을 끊고\n"
+"누군가는 살 것이고 누군가는 죽을 것이다.\n"
+"\n"
+"마도사여, 이리로 와라\n"
+"마도사여, 이리로 와라\n"
+"마도사여, 이것을 보러 와라\n"
+"이것을 보러 올 수 있는가?\n"
+"지금 노래하는 빛 속에서\n"
+"네가 한 때 눈이 멀었듯이\n"
+"우리의 힘으로,\n"
+"역사는 반복되지 않을 것이다.\n"
+"\n"
+"—음유시인 메리덴 헤일웰이 노래함"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[907]/JournalTextData/TextReference
@@ -10848,6 +11285,41 @@ msgid ""
 "\n"
 "—As performed by the bard Maryden Halewell"
 msgstr ""
+"방황하고 있는\n"
+"나를 찾아줘\n"
+"나를 이끌어 줄 사람을\n"
+"나를 이끌어 \n"
+"줄 수 있겠니\n"
+"내 안의\n"
+"반란에게\n"
+"\n"
+"균열에도\n"
+"변하지 않는\n"
+"약속을\n"
+"\n"
+"하늘에 있는\n"
+"균열에도\n"
+"변하지 않는\n"
+"약속을\n"
+"\n"
+"성기사가\n"
+"내 안의\n"
+"불을 지피네\n"
+"\n"
+"창조주여\n"
+"깨우쳐 주소서\n"
+"평화의 나날은\n"
+"끝났다는 것을\n"
+"\n"
+"우리는 이제\n"
+"갈라지고 말았네\n"
+" \n"
+"하늘에 있는\n"
+"균열에도\n"
+"변하지 않는\n"
+"약속은 없다네\n"
+"\n"
+"—음유시인 메리덴 헤일웰이 노래함"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[974]/JournalTextData/TextReference
@@ -10989,6 +11461,16 @@ msgid ""
 "\n"
 "For a moment, there is a feeling of wrenching loss. Then it fades."
 msgstr ""
+"슬픔의 샘에서 속삭임이 들린다. 모든 말을 이해하는 것은 불가능하지만, 어떤 부분들은 갑자기 본래 의미의 그림자를 드러낸다.\n"
+"\n"
+"\"우리는 갇혔다. 이곳에서 태어난 자들은 우리가 잃어버린 것의 소중함을 이해하지 못하며, 왜 그렇게 많은 장로들이 우서네라에 들어가며 "
+"눈물을 흘리는지 알지 못한다. 새로운 자들은 미쌀을 숭배하지만, 그녀가 온전했을 때의 모습을 이해하지 못한다. 지혜로운 지도자 없이는, "
+"그들이 마땅히 되었어야 했던 것들을 모두 잃게 될 것이다.\n"
+"\n"
+"내가 그들을 가르치겠다. 그들은 섬겨야 한다. 우리는 미쌀을 쓰러뜨린 자들을 위해 준비해야 한다. 그녀를 섬기던 날 나는 나의 이름을 "
+"벗었다. 이제 그녀가 쉬고 있으니, 나의 이 새 이름도 벗을 것이다. 나는 내 심장을 베어내는 이 슬픔으로서만 알려질 것이다.\"\n"
+"\n"
+"순간, 가슴이 뒤틀리는 상실감이 든다. 그것은 이내 희미해진다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[984]/JournalTextData/TextReference
@@ -11224,6 +11706,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Red Templars Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 붉은 성기사단 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1000]/JournalTextData/TextReference
@@ -11335,6 +11821,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1007]/JournalTextData/TextReference
@@ -11604,6 +12094,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Demons Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 악마 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1029]/JournalTextData/TextReference
@@ -12236,6 +12730,12 @@ msgid ""
 "\n"
 "—From {i}A Study of Thedosian Astronomy{/i} by Sister Oran Petrarchius"
 msgstr ""
+"흔히 \"흰 늑대\"라고 불리는 펜리르는 항상 학자들 사이에서 이상한 존재로 여겨져 왔는데, 이는 고대 테빈터 민속학에서 늑대가 특별한 "
+"중요성을 지니지 않기 때문이다. 많은 사람들은 제국이 의도적으로 오래된 엘프 별자리 이름을 대체했다고 주장한다. 펜리르가 엘프 장난꾼 신 "
+"펜하렐과 연관이 있다고 보는 것이 논리적이다. 어떤 사람들은 늑대가 하늘로 도망쳐 사냥꾼들에게서 탈출한다는 훨씬 오래된 네로메니안 설화가 "
+"존재한다고 주장하지만, 이 전설의 진실성은 증명된 적이 없다.\n"
+"\n"
+"—오란 페트라키우스 수녀의 {i}테다스 천문학의 연구{/i}에서 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1072]/JournalTextData/TextReference
@@ -12263,6 +12763,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Giants Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 거인 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1074]/JournalTextData/TextReference
@@ -12554,6 +13058,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Darkspawn Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 어둠의 피조물 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1090]/JournalTextData/TextReference
@@ -12619,6 +13127,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1096]/JournalTextData/TextReference
@@ -12757,6 +13269,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Humanoids Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 인간형 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1106]/JournalTextData/TextReference
@@ -12978,6 +13494,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Red Templars Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 붉은 성기사단 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1120]/JournalTextData/TextReference
@@ -13005,6 +13525,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Darkspawn Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 어둠의 피조물 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1122]/JournalTextData/TextReference
@@ -13216,6 +13740,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Demons Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 악마 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1135]/JournalTextData/TextReference
@@ -13558,6 +14086,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1151]/JournalTextData/TextReference
@@ -13685,6 +14217,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Demons Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 악마 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1163]/JournalTextData/TextReference
@@ -13708,6 +14244,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Demons Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 악마 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1165]/JournalTextData/TextReference
@@ -14813,6 +15353,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Demons Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 악마 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1242]/JournalTextData/TextReference
@@ -14921,6 +15465,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Humanoids Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 인간형 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1246]/JournalTextData/TextReference
@@ -15427,6 +15975,12 @@ msgid ""
 "\n"
 "—From {i}A Study of Thedosian Astronomy{/i} by Sister Oran Petrarchius"
 msgstr ""
+"이 별자리는 흔히 \"그림자\"라고 불리는데, 이는 테네브리움 별자리와 루사칸, 어둠과 밤의 고대신과의 연관성 때문일 것이다. 그러나 "
+"테빈터 문헌에서조차 이 별자리의 묘사가 용이 아닌 부엉이였다는 것은 이상한 일이다. 이것은 테네브리움이 어쩌면 더 오래된 엘프 신, 예를 "
+"들어 때때로 거대한 부엉이로 묘사되기도 하는 엘프 신 팔런딘 등을 대신하기 위한 이름이라는 널리 알려진 믿음에 신빙성을 부여한다. 물론, "
+"또 다른 설명도 있다: 부엉이는 야행성 사냥꾼이고, 고대인들 사이에서는 무시무시한 손실의 징조로 여겨졌다.\n"
+"\n"
+"—오란 페트라키우스 수녀의 {i}테다스 천문학의 연구{/i}에서 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1282]/JournalTextData/TextReference
@@ -15975,6 +16529,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1331]/JournalTextData/TextReference
@@ -16229,6 +16787,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Humanoids Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 인간형 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1349]/JournalTextData/TextReference
@@ -16919,6 +17481,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1408]/JournalTextData/TextReference
@@ -17129,6 +17695,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Demons Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 악마 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1418]/JournalTextData/TextReference
@@ -17347,6 +17917,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1435]/JournalTextData/TextReference
@@ -17743,6 +18317,12 @@ msgid ""
 "\n"
 "—From {i}A Study of Thedosian Astronomy{/i} by Sister Oran Petrarchius"
 msgstr ""
+"흔히 \"사슬에 묶인 남자\"라고 불리는 세르바니 별자리는 전통적으로 무거운 쇠사슬을 끌고 다니는 남자로 대표된다. 이것은 고대 테빈터의 "
+"노예의 고대신, 앤도랄, 그리고 테빈터 제국의 노예제도 그 자체를 상징하는 것으로 생각된다. 세르바니 별자리는 트리살루스 길드에 의해 ("
+"그들의 주장에 따르면) 2천 년 이상 사용되어 왔고, 민라투스의 성문을 지키는 거대한 골렘인 저거넛 두 구의 갑옷에 눈에 띄게 각인되어 "
+"있다.\n"
+"\n"
+"—오란 페트라키우스 수녀의 {i}테다스 천문학의 연구{/i}에서 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1465]/JournalTextData/TextReference
@@ -17885,6 +18465,13 @@ msgid ""
 "\n"
 "—From {i}A Study of Thedosian Astronomy{/i} by Sister Oran Petrarchius"
 msgstr ""
+"흔히 \"고위 드래곤\"이라고 불리는 드라코니스 별자리는 항상 날고 있는 용으로 묘사된다. 최근 고대 제국에서도 이런 일이 있었느냐는 "
+"의문이 제기되고 있다. 대부분의 테빈터 용 상은 고대신들을 위해 남겨진 것인데, 왜 그들은 각각의 용들이 개별적으로 숭배받을 때, "
+"일반적인 용 전반을 상징하는 별자리를 만들었을까? 드라코니스의 모습이 더 뱀에 가까웠던 것을 보여주는 오래된 그림들이 발견되자, "
+"드라코니스는 사실 역사적 기록으로 인해 훼손된 바다 생물이나 알려지지 않은 8번째 고대신을 묘사한 것이 아닐까 하는 추측들이 촉발되었다."
+"\n"
+"\n"
+"—오란 페트라키우스 수녀의 {i}테다스 천문학의 연구{/i}에서 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1474]/JournalTextData/TextReference
@@ -18196,6 +18783,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Humanoids Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 인간형 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1495]/JournalTextData/TextReference
@@ -18276,6 +18867,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1502]/JournalTextData/TextReference
@@ -18727,6 +19322,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Humanoids Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 인간형 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1534]/JournalTextData/TextReference
@@ -18956,6 +19555,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1546]/JournalTextData/TextReference
@@ -19275,6 +19878,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1569]/JournalTextData/TextReference
@@ -19856,6 +20463,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Humanoids Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 인간형 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1614]/JournalTextData/TextReference
@@ -20014,6 +20625,12 @@ msgid ""
 "\n"
 "—From {i}A Study of Thedosian Astronomy{/i} by Sister Oran Petrarchius"
 msgstr ""
+"오늘날까지 고대 이름을 유지하는 유일한 별자리인 토스는 토스라는 이름으로 알려진 테빈터 고대신 불의 용과 직접적으로 일치한다. 이 "
+"별자리의 묘사는 다양한데, 보통은 고통스러워하며 불타는 사람(아마도 고대신의 희생자로 추정된다)이거나 불타는 구체로 묘사된다. 교황 "
+"시대의 학자들은 공식적으로 이그니피르로 이름을 바꾸려고 시도했지만(일부 옛 문헌이 이와 같이 기록되는 이유가 이것이다), 이 시도는 "
+"제국에서 고대신 숭배가 근절된 후에도 크게 힘을 얻지 못했다.\n"
+"\n"
+"—오란 페트라키우스 수녀의 {i}테다스 천문학의 연구{/i}에서 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1625]/JournalTextData/TextReference
@@ -20185,6 +20802,12 @@ msgid ""
 "\n"
 "For one moment there is a vivid image of two overlapping spheres; unknown flowers bloom inside their centers. Then it fades."
 msgstr ""
+"슬픔의 샘에서 속삭임이 들린다. 모든 말을 이해하는 것은 불가능하지만, 어떤 부분들은 갑자기 본래 의미의 그림자를 드러낸다.\n"
+"\n"
+"\"이 곳에서 우리는 대지의 기둥을 사냥할 준비를 한다. 그들의 수하들은 어리석으며, 영혼 없이 허둥지둥할 뿐이다. 이 죽음은 자비가 될 "
+"것이다. 우리는 그들의 죽음으로 대지를 꽃피게 할 것이다.\"\n"
+"\n"
+"순간, 겹쳐진 두 개의 구체의 이미지가 선명히 보인다. 알 수 없는 꽃들이 구체의 안에 피어나고 있다. 그것은 이내 희미해진다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1638]/JournalTextData/TextReference
@@ -20315,6 +20938,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1648]/JournalTextData/TextReference
@@ -20507,6 +21134,12 @@ msgid ""
 "\n"
 "—From {i}A Study of Thedosian Astronomy{/i} by Sister Oran Petrarchius"
 msgstr ""
+"흔히 \"종마\"라고 불리는 에퀴노르자리는 역사적으로 사육되는 말 또는 앉아 있는 그리폰으로 묘사되어 왔다. 일부 학자들은 이 별자리의 "
+"원래 모습이 할라의 모습이었을 것으로 추측하는데, 이는 \"할라의 어머니\"로도 알려진 엘프 여신인 길란나인으로, 별자리의 원래 모습을 "
+"의도적으로 대체한 것이라는 근거가 될 수 있다. 그러나, 말이 초기 네로메니안 문화(고대 제국에서 내려온 문화)에 큰 의미를 가지고 "
+"있었기 때문에, 이러한 추측은 대체로 근거가 없는 것으로 여겨진다.\n"
+"\n"
+"—오란 페트라키우스 수녀의 {i}테다스 천문학의 연구{/i}에서 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1663]/JournalTextData/TextReference
@@ -20631,6 +21264,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1671]/JournalTextData/TextReference
@@ -20668,6 +21305,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1674]/JournalTextData/TextReference
@@ -20716,6 +21357,13 @@ msgid ""
 "\n"
 "—From {i}A Study of Thedosian Astronomy{/i} by Sister Oran Petrarchius"
 msgstr ""
+"낡은 검으로 묘사된 주덱스는 흔히 \"자비의 검\"이라고 불리는데, 이 검의 이미지는 안드라스테 시대 훨씬 이전에 이 별들에 지정되었다. "
+"\"주덱스\"는 고대 테빈터에서의 정의의 개념을 상징했는데, 칼의 낡은 양상은 유죄 평결을 암시했고, 당시의 유죄란 보통 처형을 "
+"의미했다. \n"
+"\n"
+"물론, 현대에 와서는 새로운 의미가 붙으며 성기사단의 상징으로 사용되고 있기 때문에, 학계에서는 이 오래된 해석에 눈살을 찌푸린다.\n"
+"\n"
+"—오란 페트라키우스 수녀의 {i}테다스 천문학의 연구{/i}에서 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1677]/JournalTextData/TextReference
@@ -21531,6 +22179,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1725]/JournalTextData/TextReference
@@ -21933,6 +22585,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1746]/JournalTextData/TextReference
@@ -22623,6 +23279,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Red Templars Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 붉은 성기사단 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1804]/JournalTextData/TextReference
@@ -22941,6 +23601,13 @@ msgid ""
 "\n"
 "—From {i}A Study of Thedosian Astronomy{/i} by Sister Oran Petrarchius"
 msgstr ""
+"흔히 \"떡갈나무\"라고 불리는 이 별자리는 일반적으로 잎이 없는 가지를 가진 우뚝 솟은 나무로 표현된다. 많은 학자들은 이것이 고대 신 "
+"숭배와 테빈터 제국의 창조 이전에 주로 동물 신앙을 가진 초기 네로메니안인들의 전설을 보여주는 것이라고 믿는다. \n"
+"\n"
+"그러나 다른 이들은 페르바니스가 원래 엘프족의 별자리였다고 믿고 있는데, 정확히 말하면 사냥의 여신인 안드루일이다. \"Vir "
+"Tanadahl\", 즉 '세 그루의 길'은 안드루일의 중심 신조인데, 어떤 이들은 페르바니스가 원래 이 개념을 대표했다고 생각한다.\n"
+"\n"
+"—오란 페트라키우스 수녀의 {i}테다스 천문학의 연구{/i}에서 발췌"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1832]/JournalTextData/TextReference
@@ -24095,6 +24762,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Red Templars Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 붉은 성기사단 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1917]/JournalTextData/TextReference
@@ -24271,6 +24942,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1927]/JournalTextData/TextReference
@@ -24474,6 +25149,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1941]/JournalTextData/TextReference
@@ -24495,6 +25174,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1943]/JournalTextData/TextReference
@@ -24520,6 +25203,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Red Templars Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 붉은 성기사단 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1945]/JournalTextData/TextReference
@@ -24847,6 +25534,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1964]/JournalTextData/TextReference
@@ -24952,6 +25643,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1971]/JournalTextData/TextReference
@@ -25018,6 +25713,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Humanoids Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 인간형 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1975]/JournalTextData/TextReference
@@ -25559,6 +26258,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2016]/JournalTextData/TextReference
@@ -26284,6 +26987,10 @@ msgid ""
 "\n"
 "Researched: Damage Against Beasts Increased"
 msgstr ""
+"{blank}\n"
+"{linebreak}\n"
+"\n"
+"조사 완료: 짐승 대상 공격력 증가됨"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2075]/JournalTextData/TextReference
@@ -28061,22 +28768,21 @@ msgid ""
 msgstr ""
 "<i>전서구를 통해 배달된 편지:</i>\n"
 "\n"
-"저는 폴렛 수녀입니다. 저는 다른 자매들과 함께 부상당한 심문회 병사들이 프로스트백을 지나가는 것을 동행하고 있어요. 그들은 더 이상 "
-"심문회를 위해 싸울 수 없기 때문에, 페럴던에 있는 그들의 집으로 돌아가고 싶어합니다. 지금인 이상한 시기이고, 많은 이들이 사랑하는 "
-"사람들의 용서나 위안을 바랍니다. 그러나 슬프게도, 그 평화는 오지 않을지도 모르겠습니다.\n"
+"저는 폴렛 수녀라고 합니다. 다른 자매들과 저는 서리등선 산맥을 지나는 길을 부상당한 심문회 병사 몇 명과 함께 동행했습니다. 그들은 더 "
+"이상 심문회를 위해 싸울 수 없기 때문에, 페럴던에 있는 집으로 돌아가고 싶어합니다. 지금은 힘든 시기이고, 많은 이들이 사랑하는 사람들 "
+"안에서 용서나 위안을 구하고 있습니다. 그러나 슬프게도, 그 평화는 오지 않을지도 모르겠습니다.\n"
 "\n"
-"대화를 거부하는 아바르 족 무리가 저희들을 꼼짝 못하게 잡고 있습니다. 저희들은 동굴에 피난했고 가능한 한 그들을 물리치고 있지만, "
-"얼마나 버틸 수 있을지 모르겠습니다. \n"
+"대화를 거부하는 아바르 족 무리가 저희들을 꼼짝 못하게 잡아두고 있습니다. 저희는 동굴로 몸을 피했고, 가능한 한 그들을 저지하고 "
+"있지만, 얼마나 버틸 수 있을지 모르겠습니다. \n"
 "\n"
-"이 새는 스카이홀드로 돌아가게 훈련되어 있겠지요? 그렇기를 기도합니다. 저희는 도움이 필요해요.\n"
+"이 새는 스카이홀드로 돌아가게 훈련되어 있겠지요? 그러길 바랍니다. 저희는 도움이 필요해요.\n"
 "\n"
-"<i>컬렌의 손에 있는 쪽지의 내용:</i>\n"
+"<i>컬렌이 쓴 서신:</i>\n"
 "\n"
 "스카이홀드에서 파견된 병사들은 시간 내에 도착하지 못할 겁니다—시민들을 납치해 붉은 리륨 광산으로 보내고 있는 것으로 의심되는 붉은 "
 "성기사단을 추적하기 위해 파견한 우리 병사들이 해당 위치 근처에 있습니다.\n"
 "\n"
-"빠른 전서구를 보내면 그곳에 있는 병사들에게 파견 명령을 보낼 수 있지만, 그들을 구출작전에 파견하게 되면 붉은 성기사단의 흔적을 놓칠 "
-"수 있습니다."
+"빠른 전서구를 보내면 그곳에 있는 병사들에게 수녀를 돕게 할 수 있지만, 그렇게 되면 붉은 성기사단의 흔적을 놓칠 수도 있습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2203]/JournalTextData/TextReference
@@ -28869,6 +29575,12 @@ msgid ""
 "\n"
 "Thram"
 msgstr ""
+"우리는 당신을 깨뜨리고 더 위대한 존재로 만들었습니다. 이제 당신 차례입니다. 전령은 존경받습니다. 심문관은 선두에 있어야 합니다. "
+"하지만 당신은 도륙자로서, 공포의 대상이 되어야 합니다.\n"
+"\n"
+"그들이 당신을 얼마나 두려워하는지 제게 보이십시오.\n"
+"\n"
+"스렘"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2251]/JournalTextData/TextReference
@@ -28879,6 +29591,10 @@ msgid ""
 "\n"
 "Thram"
 msgstr ""
+"당신은 불의를 뒤쫓는 공포입니다. 무고한 자들은 당신에게 구해달라고 기도하지만, 의를 저버렸을 때는 당신에게 응징을 받을까 두려워하는군요."
+"\n"
+"\n"
+"스렘"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2252]/JournalTextData/TextReference
@@ -28889,6 +29605,9 @@ msgid ""
 "\n"
 "Thram"
 msgstr ""
+"허영심 강하고 교만한 자들은 당신의 그림자를 보게 될까 봐 거울을 들여다보는 것조차 두려워하는군요.\n"
+"\n"
+"스렘"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2253]/JournalTextData/TextReference
@@ -28899,6 +29618,9 @@ msgid ""
 "\n"
 "Thram"
 msgstr ""
+"기회주의적이고 자기중심적인 자들이 당신의 이름에 덜덜 떨며 당신의 분노를 잠재우기 위해 돈을 바치고 있군요.\n"
+"\n"
+"스렘"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2254]/JournalTextData/TextReference
@@ -32778,6 +33500,10 @@ msgid ""
 "\n"
 "Located the cell. Fifteen mages. Materials suggest they are building explosives similar to the one used at Kirkwall. Targets are unknown."
 msgstr ""
+"<i>목사가 보낸 서신이 여전히 전서구의 서신 통에 들어있는 채로 작전실에 놓여있다:</i>\n"
+"\n"
+"조직을 발견했습니다. 마법사는 15명이며, 물품으로 미루어보아 커크월에서 사용되었던 것과 유사한 폭발물을 만들고 있는 것으로 짐작됩니다. "
+"목표물은 알 수 없습니다."
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2524]/JournalTextData/TextReference
@@ -32790,6 +33516,12 @@ msgid ""
 "\n"
 "Knight-Captain Briony"
 msgstr ""
+"사령관,\n"
+"\n"
+"반란군 야영지를 점거했습니다. 10개의 군수품을 회수했고, 9명의 마법사가 죽었으며, 3명은 전원지역으로 탈출했습니다. 나머지 3명은 "
+"심문을 위해 생포했습니다.\n"
+"\n"
+"기사대장 브라이오니"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2525]/JournalTextData/TextReference
@@ -32802,6 +33534,11 @@ msgid ""
 "\n"
 "Rector"
 msgstr ""
+"나이팅게일:\n"
+"\n"
+"페렐던과 올레이 전역에서 우리가 참석해야 할 파티 목록을 작성했습니다. 우리의 새로운 손님들이 상세한 내용을 알려줄 겁니다.\n"
+"\n"
+"목사"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2528]/JournalTextData/TextReference
@@ -34235,9 +34972,9 @@ msgid ""
 "\n"
 "Kihm"
 msgstr ""
-"심문회에 유리와 용액을 공급하던 물픔 공급자 오린카가 사망했습니다. 현재까지 말씀드릴 수 있는 건, 유황 분말 한 통과 두 마리의 "
-"극성맞은 너구리가 빚어낸 불행한 사고였다는 점입니다. 그리고 그 사고로 너구리들도 살아남지 못했습니다. 내일 밤 자정에 오린카와 그녀의 "
-"털복숭이 친구들을 위한 기도를 올릴 예정입니다.\n"
+"심문회에 유리와 용액을 공급하던 물픔 공급자 오린카가 분해되어 사망했습니다. 현재까지 말씀드릴 수 있는 건, 유황 분말 한 통과 두 "
+"마리의 극성맞은 너구리가 빚어낸 불행한 사고였다는 점입니다. 그리고 그 사고로 너구리들도 살아남지 못했습니다. 내일 밤 자정에 오린카와 "
+"그녀의 털복숭이 친구들을 위한 기도를 올릴 예정입니다.\n"
 "\n"
 "이게 문제가 될 거라는 건 알아차리셨겠지요. 보급품은 한정되어 있고, 빠른 시일 안에 바닥이 날 겁니다. 우리에게는 또 다른 공급자가 "
 "필요합니다. 문제는, 누구도 우리가 요청하는 물품을 다루려 하지 않는다는 거지요.\n"
@@ -34267,6 +35004,10 @@ msgid ""
 "\n"
 "Kihm"
 msgstr ""
+"물품을 다루는데 돈을 더 주겠다고요? 안전 비용으로? 대사는 자신이 모든 걸 두 배 이상 비싸게 만들었다는 걸 알고는 있답니까? 그녀가 "
+"돈을 지불할 준비가 되어있기만을 바라겠습니다.\n"
+"\n"
+"킴"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2623]/JournalTextData/TextReference
@@ -34277,6 +35018,10 @@ msgid ""
 "\n"
 "Kihm"
 msgstr ""
+"새 물품 공급자로부터 서신을 받았습니다. 그게 사고가 아니라 그저 잘못된 행동으로 야기된 결과라는 걸 알게 되어 이제 많은 사람들의 "
+"마음이 한층 편해진 듯합니다. 당분간 유황 연기 앰플을 너구리를 이용해 배달하려는 시도는 누구도 하지 않으려 하겠지만요.\n"
+"\n"
+"킴"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2626]/JournalTextData/TextReference
@@ -36275,6 +37020,14 @@ msgid ""
 "\n"
 "Sister Paulette"
 msgstr ""
+"심문관 {spHeroLastName},\n"
+"\n"
+"저를 기억하지 못하실수도 있겠지만, 저는 스카이홀드에 잠시 머물다가 부상당한 병사 몇명과 함께 페렐던까지 동행했습니다. 저희의 여정은 "
+"생각했던 것보다 더 위험했지만, 심문회의 도움덕분에 이렇게 살아남아 이 글을 씁니다.\n"
+"\n"
+"드릴수 있는건 별로 없지만, 사소한 방법으로라도 심문회를 도울수 있는 방법이 있다면 뭐든 말씀해주시기 바랍니다.\n"
+"\n"
+"폴렛 수녀"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2760]/JournalTextData/TextReference
@@ -36287,6 +37040,12 @@ msgid ""
 "\n"
 "Sister Paulette"
 msgstr ""
+"심문관 {spHeroLastName},\n"
+"\n"
+"기도로 전장 한복판에서 사람을 구할수는 없지만, 그 뒤에 남은 영혼을 치유할 수는 있습니다. 산마루숲의 병사들에게 아주 작은 위안이나마 "
+"전해줄 수 있다면 기쁘게 따르겠습니다.\n"
+"\n"
+"폴렛 수녀"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2761]/JournalTextData/TextReference
@@ -36303,6 +37062,17 @@ msgid ""
 "\n"
 "Sister Paulette"
 msgstr ""
+"심문관 {spHeroLastName},\n"
+"\n"
+"저는 데너림의 챈트리 자매들과 합류했습니다. 그전에 제가 있던 마을의 챈트리보다 더 웅장하군요. 이곳에서 제가 선한 일을 행할 수 있다고 "
+"믿습니다.\n"
+"\n"
+"대균열과 영계 균열의 영향을 받은 사람들을 돕기 위한 구호 단체를 설립했는데, 질문하는 모든 사람들에게 이 일을 할 수 있었던 건 심문회 "
+"덕분이라고 말하고 있답니다.\n"
+"\n"
+"당신에게 창조주의 가호가 함께 하기를.\n"
+"\n"
+"폴렛 수녀"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2762]/JournalTextData/TextReference
@@ -36317,10 +37087,10 @@ msgid ""
 msgstr ""
 "인퀴지터 {spHeroLastName},\n"
 "\n"
-"이들의 겸손한 입은 항상 인퀴지션을 찬양할 것입니다. 당신은 아무것도 요구하지 않으셨지만, 부디 이 작은 선물을 제 감사의 표시로 "
-"받아주세요.\n"
+"보잘것 없는 저지만 언제나 심문회를 찬양하겠습니다. 제게 아무것도 요구하지 않으셨지만, 부디 이 작은 선물을 제 감사의 표시로 받아주시길 "
+"바랍니다.\n"
 "\n"
-"폴레트 수녀"
+"폴렛 수녀"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2763]/JournalTextData/TextReference
@@ -36410,6 +37180,25 @@ msgid ""
 "\n"
 "Fiona"
 msgstr ""
+"<i>병력 파견에 대한 내용이 탁자 위에 놓여있고, 그 옆에 쪽지가 있다:</i>\n"
+"\n"
+"사령관,\n"
+"\n"
+"세 명의 마법사들이 감시병을 공격하고 산으로 탈출을 시도했습니다. 최소한 시도는 한 것으로 보고 있습니다. 누구도 정문의 전직 템플러를 "
+"통과하지 못했으니 말입니다. 정문에 있던 또 다른 병사, 알리아 병장이, 번개 주문에 맞았지만, 회복할 수 있을겁니다. 마법사들은 판결을 "
+"기다리며, 방책에 갇혀 있습니다.\n"
+"\n"
+"기사대장 브라이오니\n"
+"\n"
+"<i>그 아래 떨리는 손으로 쓴 듯한 쪽지가 있다:</i>\n"
+"\n"
+"컬렌 사령관,\n"
+"\n"
+"정문을 지키던 병사들을 향한 유감스러운 공격에 대해 내용을 전해 들으셨으리라 생각합니다. 그들은 젊습니다. 젊은이들은 종종 순간적인 "
+"충동에 휩싸여 미래에 있을 결과에 대해서는 생각하지 않지요. 하지만 당신과 저는 오랜 친구로서 그 결과를 잘 알고 있습니다. 그들에게 "
+"판결을 내리실 때 부디 이 점을 기억해 주시길 바랍니다.\n"
+"\n"
+"피오나"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2770]/JournalTextData/TextReference
@@ -36422,6 +37211,12 @@ msgid ""
 "\n"
 "Knight-Captain Briony"
 msgstr ""
+"사령관,\n"
+"\n"
+"죄수들을 오늘 석방시켰습니다. 우리 병사 한 명을 거의 죽일뻔 했던 것에 비하면 처벌이 너무 약했던 게 아닌가 싶으며, 몇몇 병사들도 "
+"이에 대해 불평하고 있습니다. 계속해서 상황을 주시하겠습니다.\n"
+"\n"
+"기사대장 브라이오니"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2771]/JournalTextData/TextReference
@@ -36434,6 +37229,12 @@ msgid ""
 "\n"
 "Knight-Captain Briony"
 msgstr ""
+"사령관,\n"
+"\n"
+"죄수들을 페렐던 국경지역에서 풀어주었습니다. 그들이 북쪽으로 달려갔다는 정찰병의 보고를 받았습니다. 결국엔 같은 문젯거리가 다시 생길 것 "
+"같은 기분이 듭니다.\n"
+"\n"
+"기사대장 브라이오니"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2772]/JournalTextData/TextReference
@@ -38832,6 +39633,15 @@ msgid ""
 "\n"
 "Solas"
 msgstr ""
+"심문관,\n"
+"\n"
+"우리는 장막의 마력을 감지하는데 사용되는 여러 엘프 유물을 활성화 시켰습니다. 그러한 측정값들은 개별적으로는 꽤 도움이 되었습니다. "
+"하지만 만약 모든 유물들의 측량값을 동시에 조정할 수 있다면, 아직 열리지 않은 균열도 발견할 수 있습니다.\n"
+"\n"
+"정보가 유용하다고 생각되신다면, 올레이와 페렐던에서 심문회 마법사들을 통해 이 유물들을 조직화된 방식으로 활성화하는 방안에 대한 초안을 "
+"작성했으니 참고해주시기 바랍니다.\n"
+"\n"
+"솔라스"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2936]/JournalTextData/TextReference
@@ -38846,6 +39656,16 @@ msgid ""
 "\n"
 "Solas"
 msgstr ""
+"심문관,\n"
+"\n"
+"실험은 성공적이었고, 측정값은 놀라웠습니다. 장막의 상대적 강도를 올레이와 페렐던의 지도 위에 덮어씌운 결과 작은 균열들이 발생할 "
+"가능성이 더 높은 지점을 추정해낼 수 있었습니다. 이거라면 악마에게 위협당할지도 모르는 사람들을 보호할 수 있으면서, 더 현명하게 심문회 "
+"병력을 파견할 수 있을겁니다.\n"
+"\n"
+"뿐만 아니라, 내륙 지역 내에서 관심을 가지실만한 교점을 발견했는데, 그곳에 아직 열리지 않은 굉장히 큰 균열이 있습니다. 그 지역을 "
+"조사해보는 게 좋겠습니다.\n"
+"\n"
+"솔라스"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2937]/JournalTextData/TextReference
@@ -41593,6 +42413,11 @@ msgid ""
 "\n"
 "Lieutenant Kestral"
 msgstr ""
+"사령관,\n"
+"\n"
+"붉은 성기사가 서리등선에서 이용하는 경로에 대한 정보를 알아냈습니다. 어떻게 진행할까요?\n"
+"\n"
+"부관 케스트랄"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[3111]/JournalTextData/TextReference
@@ -41605,6 +42430,11 @@ msgid ""
 "\n"
 "Lieutenant Kestral"
 msgstr ""
+"사령관,\n"
+"\n"
+"붉은 성기사단이 허를 찔렸렀습니다. 그들은 싸웠지만, 심문회는 생각보다 상대하기 감당하기 상대였을 겁니다.\n"
+"\n"
+"부관 케스트랄"
 
 #. FILE: Systems\JournalSystem\JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[3112]/JournalTextData/TextReference

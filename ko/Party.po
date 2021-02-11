@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-10 09:42+0000\n"
+"PO-Revision-Date: 2021-02-11 14:00+0000\n"
 "Last-Translator: 큡수뎃 <quoobt@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -2675,7 +2675,7 @@ msgid ""
 "Your war horn's blast rings across the battlefield, giving allies the strength to fight harder.\n"
 "\n"
 msgstr ""
-"전장에 뿔피리의 경적을 울려퍼지게 해 아군이 전투에서 더욱 힘차게 싸우도록 북돋습니다.\n"
+"전장에 뿔피리의 경적이 널리 울려퍼집니다. 아군이 전투에서 더욱 힘차게 싸우도록 북돋습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\InspiringHorn\party_warrior_battlemaster_InspiringHorn_abilitydata.xml
@@ -2822,7 +2822,7 @@ msgid ""
 "Your war horn's blast puts fear into the hearts of your foes, leaving them panicked.\n"
 "\n"
 msgstr ""
-"전쟁 뿔피리의 소리가 적에게 겁을 주고 공포에 떨게 합니다.\n"
+"전쟁 뿔피리의 소리가 적에게 겁을 주며 공포에 질리게 합니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\WarHorn\party_warrior_battlemaster_warhorn_lv1_abilitydata.xml
@@ -2830,21 +2830,21 @@ msgstr ""
 #: DA3\Party\Warrior\Battlemaster\WarHorn\party_warrior_battlemaster_warhorn_lv1_abilitydata.xml:5
 msgctxt "0x000485e6"
 msgid "Snare Horn"
-msgstr ""
+msgstr "속박의 뿔피리"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\WarHorn\party_warrior_battlemaster_warhorn_lv2_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\Battlemaster\WarHorn\party_warrior_battlemaster_warhorn_lv2_abilitydata.xml:5
 msgctxt "0x000485e7"
 msgid "Fear Horn"
-msgstr ""
+msgstr "공포의 뿔피리"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\WarHorn\party_warrior_battlemaster_warhorn_lv3_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\Battlemaster\WarHorn\party_warrior_battlemaster_warhorn_lv3_abilitydata.xml:5
 msgctxt "0x000485e8"
 msgid "Stun Horn"
-msgstr ""
+msgstr "기절의 뿔피리"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\WarHorn\party_warrior_battlemaster_warhorn_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -2861,13 +2861,15 @@ msgid ""
 "War Horn no longer has a cooldown. Instead, its effects grow more powerful the longer you wait between uses.\n"
 "\n"
 msgstr ""
+"전쟁 뿔피리의 재사용 대기 시간이 없어집니다. 대신, 뿔피리를 오래 기다렸다가 사용할수록 효과가 강화됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Bodyguard\party_warrior_chevalier_bodyguard_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\Chevalier\Bodyguard\party_warrior_chevalier_bodyguard_abilitydata.xml:5
 msgctxt "0x000428a4"
 msgid "Bodyguard"
-msgstr ""
+msgstr "경호"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Bodyguard\party_warrior_chevalier_bodyguard_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -2877,6 +2879,8 @@ msgid ""
 "You accept blows meant for allies, taking a portion of the damage.\n"
 "\n"
 msgstr ""
+"아군에게 향하는 공격을 대신 맞아, 피해량을 분산해 입습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Bodyguard\party_warrior_chevalier_bodyguard_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -2890,7 +2894,7 @@ msgstr ""
 #: DA3\Party\Warrior\Chevalier\Bodyguard\party_warrior_chevalier_bodyguard_upgrade1_abilitydata.xml:5
 msgctxt "0x000428ad"
 msgid "Not Today"
-msgstr ""
+msgstr "우직함"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Bodyguard\party_warrior_chevalier_bodyguard_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -2900,13 +2904,15 @@ msgid ""
 "You ignore part of the damage transferred from party members.\n"
 "\n"
 msgstr ""
+"아군에게서 넘어오는 피해 중의 일부분만 입습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Bodyguard\party_warrior_chevalier_bodyguard_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\Chevalier\Bodyguard\party_warrior_chevalier_bodyguard_upgrade2_abilitydata.xml:5
 msgctxt "0x000485f2"
 msgid "Over Here"
-msgstr ""
+msgstr "날 봐라"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Bodyguard\party_warrior_chevalier_bodyguard_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -2916,13 +2922,15 @@ msgid ""
 "You taunt any enemies that attack an ally in Bodyguard's area of effect.\n"
 "\n"
 msgstr ""
+"경호의 범위 안에서 아군을 공격하는 적을 도발합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Challenge\party_warrior_chevalier_challenge_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\Chevalier\Challenge\party_warrior_chevalier_challenge_abilitydata.xml:5
 msgctxt "0x00042898"
 msgid "Challenge"
-msgstr ""
+msgstr "결투 신청"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Challenge\party_warrior_chevalier_challenge_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -2932,13 +2940,15 @@ msgid ""
 "Your powerful shout carries across the battlefield, taunting a targeted enemy and improving your guard.\n"
 "\n"
 msgstr ""
+"전장 너머 고함을 내질러 적을 도발하고 방어도를 얻습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Challenge\party_warrior_chevalier_challenge_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\Chevalier\Challenge\party_warrior_chevalier_challenge_upgrade2_abilitydata.xml:5
 msgctxt "0x0004844e"
 msgid "Call Them Out"
-msgstr ""
+msgstr "단체 호명"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Challenge\party_warrior_chevalier_challenge_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -2948,13 +2958,15 @@ msgid ""
 "You can challenge as many enemies as you want, with no cooldown.\n"
 "\n"
 msgstr ""
+"재사용 대기 시간 없이 얼마든지 결투 신청을 사용할 수 있습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Challenge\party_warrior_chevalier_challenge_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\Chevalier\Challenge\party_warrior_chevalier_challenge_upgrade_abilitydata.xml:5
 msgctxt "0x0004331f"
 msgid "Throw the Gauntlet"
-msgstr ""
+msgstr "도전장"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Challenge\party_warrior_chevalier_challenge_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -2964,6 +2976,8 @@ msgid ""
 "Successfully hitting a target with Challenge gets your blood pumping, temporarily increasing your stamina regeneration.\n"
 "\n"
 msgstr ""
+"결투 신청으로 적을 명중시키면 피가 끓어올라 일시적으로 지구력 재생이 증가합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Challenge\party_warrior_chevalier_challenge_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
@@ -2977,7 +2991,7 @@ msgstr ""
 #: DA3\Party\Warrior\Chevalier\Duel\party_warrior_chevalier_duel_abilitydata.xml:5
 msgctxt "0x000428af"
 msgid "To the Death"
-msgstr ""
+msgstr "목숨을 걸고"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Duel\party_warrior_chevalier_duel_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -2987,6 +3001,9 @@ msgid ""
 "You taunt an enemy into a frenzy. Their damage output increases over time, but so does the amount of damage they take. The effect ends if you get out of range of the enemy.\n"
 "\n"
 msgstr ""
+"적을 도발해 광분하게 합니다. 적의 공격이 점점 거세지지만, 적도 점점 더 큰 피해를 입습니다. 이 효과는 시전자가 적의 사정거리에서 "
+"이탈할 시 만료됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Duel\party_warrior_chevalier_duel_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -3014,7 +3031,7 @@ msgstr ""
 #: DA3\Party\Warrior\Chevalier\Duel\party_warrior_chevalier_duel_upgrade1_abilitydata.xml:5
 msgctxt "0x000428b1"
 msgid "En Garde"
-msgstr ""
+msgstr "앙 가르드"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Duel\party_warrior_chevalier_duel_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -3030,7 +3047,7 @@ msgstr ""
 #: DA3\Party\Warrior\Chevalier\Duel\party_warrior_chevalier_duel_upgrade2_abilitydata.xml:5
 msgctxt "0x00048882"
 msgid "Who's Next?"
-msgstr ""
+msgstr "다음은 누구냐"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Duel\party_warrior_chevalier_duel_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -3040,13 +3057,15 @@ msgid ""
 "Seeing a challenged foe fall inspires you to hit even harder.\n"
 "\n"
 msgstr ""
+"적수가 쓰러지자 전투에 더욱더 거세게 임할 마음이 듭니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Chevalier\WalkingFortress\party_warrior_chevalier_walkingfortress_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\Chevalier\WalkingFortress\party_warrior_chevalier_walkingfortress_abilitydata.xml:5
 msgctxt "0x000428b7"
 msgid "Walking Fortress"
-msgstr ""
+msgstr "인간 성채"
 
 #. FILE: DA3\Party\Warrior\Chevalier\WalkingFortress\party_warrior_chevalier_walkingfortress_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -10361,7 +10380,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\basic\party_mage_staff_basic_defensiveattack_abilitydata.xml:5
 msgctxt "0x00026f89"
 msgid "Basic Attack"
-msgstr ""
+msgstr "기본 공격"
 
 #. FILE: DA3\Party\mage\Staff\basic\party_mage_staff_basic_defensiveattack_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -10606,6 +10625,8 @@ msgid ""
 "Your elemental projectiles now pick targets at random but deal more damage.\n"
 "\n"
 msgstr ""
+"이제 당신의 원소 투사체가 무작위 대상를 향해 발사되지만 더 큰 피해를 입힙니다.\n"
+"\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Barrier\saarebas_abilities_barrier_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -10622,6 +10643,8 @@ msgid ""
 "You create a barrier of magical energy to protect yourself from damage.\n"
 "\n"
 msgstr ""
+"피해로부터 스스로를 보호하기 위한 마력 에너지 방어막을 생성합니다.\n"
+"\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Barrier\saarebas_abilities_barrier_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -10840,7 +10863,7 @@ msgstr ""
 #: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\DoT\saarebas_abilities_dot_abilitydata.xml:57
 msgctxt "0x0004b39f"
 msgid "<font color=\"#F5ECCE\">The target takes {CUSTOM0}% fire damage per second.</font>\n"
-msgstr ""
+msgstr "<font color=\"#F5ECCE\">대상은 매 초 {CUSTOM0}% 의 화염 피해를 입습니다.</font>\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\DoT\saarebas_abilities_dot_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
@@ -10855,6 +10878,8 @@ msgstr ""
 msgctxt "0x0004b3a1"
 msgid "<font color=\"#F5ECCE\">The target takes {CUSTOM0}% of its current health as electricity damage every second.</font>\n"
 msgstr ""
+"<font color=\"#F5ECCE\">대상은 매 초 현재 체력의 {CUSTOM0}% 에 해당하는 전기 피해를 입습니다.</font>"
+"\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\DoT\saarebas_abilities_dot_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -10871,6 +10896,8 @@ msgid ""
 "The target's movement speed is reduced while they are under the effect of the curse.\n"
 "\n"
 msgstr ""
+"저주의 효과를 받고 있는 동안 대상의 이동 속도가 느려집니다.\n"
+"\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Glyph\saarebas_abilities_glyph_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -10984,6 +11011,8 @@ msgid ""
 "Striking an enemy with this spell restores your own health.\n"
 "\n"
 msgstr ""
+"이 주문으로 적에게 피해를 입히면 자신의 체력을 회복합니다.\n"
+"\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\PointBlank\saarebas_abilities_pointblank_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -11000,6 +11029,8 @@ msgid ""
 "You summon the power of the Fade to strike enemies all around you.\n"
 "\n"
 msgstr ""
+"주변에 있는 모든 적들을 타격하는 영계의 힘을 소환합니다.\n"
+"\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\PointBlank\saarebas_abilities_pointblank_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -11053,13 +11084,15 @@ msgid ""
 "You draw a stone from the Fade, charge it with elemental magic, and hurl it at an enemy.\n"
 "\n"
 msgstr ""
+"영계로부터 바위를 불러와 원소 마력으로 충전하여 적에게 던집니다.\n"
+"\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Projectile\saarebas_abilities_projectile_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 #: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Projectile\saarebas_abilities_projectile_abilitydata.xml:57
 msgctxt "0x0004b399"
 msgid "<font color=\"#F5ECCE\">An icy stone deals cold damage.</font>\n"
-msgstr ""
+msgstr "<font color=\"#F5ECCE\">얼음에 뒤덮힌 돌은 냉기 피해를 입힙니다.</font>\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Projectile\saarebas_abilities_projectile_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
@@ -11159,6 +11192,8 @@ msgid ""
 "You create a wall of elemental magic before you, hindering enemies that pass through it.\n"
 "\n"
 msgstr ""
+"당신의 앞에 원소 마력으로 이루어진 장벽을 생성하여 이를 통과하려는 적들을 저지합니다.\n"
+"\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Wall\saarebas_abilities_wall_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
@@ -11173,7 +11208,7 @@ msgstr "<font color=\"#F5ECCE\">얼음 장벽이 적을 {CUSTOM0}초 동안 상�
 #: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Wall\saarebas_abilities_wall_abilitydata.xml:83
 msgctxt "0x0004b3b0"
 msgid "<font color=\"#F5ECCE\">A wall of lightning paralyzes enemies for {CUSTOM0} seconds.</font>\n"
-msgstr ""
+msgstr "<font color=\"#F5ECCE\">번개 장벽이 적들을 {CUSTOM0} 초 동안 마비시킵니다.</font>\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Wall\saarebas_abilities_wall_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[8]/FloatProviderTokenizedString/StringReference
@@ -11181,6 +11216,8 @@ msgstr ""
 msgctxt "0x0004b3b1"
 msgid "<font color=\"#F5ECCE\">A wall of fire sweeps toward your target, dealing {CUSTOM0}% weapon damage.</font>\n"
 msgstr ""
+"<font color=\"#F5ECCE\">화염 장벽이 목표를 쓸어버리며 무기 공격력의 {CUSTOM0}% 만큼 피해를 "
+"입힙니다.</font>\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Wall\saarebas_abilities_wall_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -11197,6 +11234,8 @@ msgid ""
 "Your elemental walls last longer.\n"
 "\n"
 msgstr ""
+"당신이 생성한 원소 장벽이 더 오래 유지됩니다.\n"
+"\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Barrage\saarebas_passive_barrage_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -11213,6 +11252,8 @@ msgid ""
 "Each hit increases your chance of a critical hit. Landing a critical hit resets this bonus.\n"
 "\n"
 msgstr ""
+"매 타격이 치명타 확률을 증가시킵니다. 치명타가 발동할 시 이 보너스는 초기화됩니다.\n"
+"\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\BarrierBreaker\saarebas_passive_barrierbreaker_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -11229,6 +11270,8 @@ msgid ""
 "You deal extra damage to barriers.\n"
 "\n"
 msgstr ""
+"방어막에 추가 피해를 입힙니다.\n"
+"\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Collateral\saarebas_passive_collateral_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -11241,11 +11284,14 @@ msgstr "지식은 고요 속에 자리하느니"
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Collateral\saarebas_passive_collateral_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Collateral\saarebas_passive_collateral_abilitydata.xml:10
+#, fuzzy
 msgctxt "0x0004b3ee"
 msgid ""
 "If you fall in battle, you release a large pulse of spirit damage that hits all nearby enemies.\n"
 "\n"
 msgstr ""
+"전투에서 쓰러지면 주변의 모든 적에게 피해를 주는 영혼 파동을 방출합니다.\n"
+"\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Consumption\saarebas_passive_consumption_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -11262,6 +11308,8 @@ msgid ""
 "Whenever an enemy dies near you, your maximum health is increased.\n"
 " \n"
 msgstr ""
+"적이 근처에서 쓰러질 때마다 최대 체력이 증가합니다.\n"
+" \n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Passive\Consumption\saarebas_passive_consumption_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
