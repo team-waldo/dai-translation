@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-11 14:00+0000\n"
-"Last-Translator: 큡수뎃 <quoobt@gmail.com>\n"
+"PO-Revision-Date: 2021-02-16 09:00+0000\n"
+"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1854,6 +1854,8 @@ msgstr ""
 msgctxt "0x0004266a"
 msgid "<font color=\"#BAAB7B\">Armor Penetration: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">방어 관통력: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}%</font>\n"
 
 #. FILE: DA3\Party\Rogue\Passives\Assassin\dlcblue_party_rogue_passive_assassin_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -2642,6 +2644,9 @@ msgid ""
 "You inspire your allies to fight harder. Your party's guard, stamina, and mana build over time, and all party members gain damage resistance against incoming attacks.\n"
 "\n"
 msgstr ""
+"아군이 힘차게 싸울 수 있도록 북돋습니다. 시간이 지남에 따라 아군의 방어도, 지구력, 마나가 재생됩니다. 일정 시간 동안 아군이 입는 "
+"피해량이 감소합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\CallOfTheAncients\party_warrior_battlemaster_calloftheancients_ability.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
@@ -2786,7 +2791,7 @@ msgid ""
 "War Cry echoes across the battlefield, catching more enemies and taunting them for longer.\n"
 "\n"
 msgstr ""
-"전장 널리 전쟁의 함성이 울려퍼집니다. 더욱더 많은 수의 적을 더 길게 도발합니다.\n"
+"전쟁의 함성이 전장에 널리 울려퍼집니다. 더욱더 많은 수의 적을 더 길게 도발합니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\Battlemaster\WarHorn\Upgrade1\party_warrior_battlemaster_warhorn_upgrade1_abilitydata.xml
@@ -2879,7 +2884,7 @@ msgid ""
 "You accept blows meant for allies, taking a portion of the damage.\n"
 "\n"
 msgstr ""
-"아군에게 향하는 공격을 대신 맞아, 피해량을 분산해 입습니다.\n"
+"아군에게 향하는 공격을 대신 맞아 피해를 분산해 받습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Bodyguard\party_warrior_chevalier_bodyguard_abilitydata.xml
@@ -2904,7 +2909,7 @@ msgid ""
 "You ignore part of the damage transferred from party members.\n"
 "\n"
 msgstr ""
-"아군에게서 넘어오는 피해 중의 일부분만 입습니다.\n"
+"아군에게서 넘어오는 피해 중의 일정량만 피해를 입습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\Chevalier\Bodyguard\party_warrior_chevalier_bodyguard_upgrade2_abilitydata.xml
@@ -3075,13 +3080,15 @@ msgid ""
 "You may not be able to hold them off forever, but right now, nothing can touch you. You have complete immunity to damage for a short time.\n"
 "\n"
 msgstr ""
+"적들을 영원토록 막을 수는 없겠지만, 이 순간만큼은 당신은 무적이나 다름없습니다. 짧은 시간 동안 어떠한 피해도 받지 않습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Chevalier\WalkingFortress\party_warrior_chevalier_walkingfortress_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\Chevalier\WalkingFortress\party_warrior_chevalier_walkingfortress_upgrade1_abilitydata.xml:5
 msgctxt "0x000428b9"
 msgid "Siege-Breaker"
-msgstr ""
+msgstr "공성파괴자"
 
 #. FILE: DA3\Party\Warrior\Chevalier\WalkingFortress\party_warrior_chevalier_walkingfortress_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -3091,13 +3098,15 @@ msgid ""
 "Every attack that strikes you while Walking Fortress is active increases your guard.\n"
 "\n"
 msgstr ""
+"인간 성채가 발동 중일 때 공격을 받으면 방어도가 증가합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Chevalier\WalkingFortress\party_warrior_chevalier_walkingfortress_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\Chevalier\WalkingFortress\party_warrior_chevalier_walkingfortress_upgrade2_abilitydata.xml:5
 msgctxt "0x0004b2bf"
 msgid "Focused Defense"
-msgstr ""
+msgstr "집중 방어"
 
 #. FILE: DA3\Party\Warrior\Chevalier\WalkingFortress\party_warrior_chevalier_walkingfortress_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -3107,13 +3116,15 @@ msgid ""
 "All of the damage you take while Walking Fortress is active is converted into focus.\n"
 "\n"
 msgstr ""
+"인간 성채가 발동 중일 때 받은 모든 피해량이 집중도로 변환됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Chevalier\WallOfAncients\party_warrior_chevalier_wallofancients_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: DA3\Party\Warrior\Chevalier\WallOfAncients\party_warrior_chevalier_wallofancients_abilitydata.xml:5
 msgctxt "0x000428bf"
 msgid "Line in the Sand"
-msgstr ""
+msgstr "사막의 전선"
 
 #. FILE: DA3\Party\Warrior\Chevalier\WallOfAncients\party_warrior_chevalier_wallofancients_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -3123,13 +3134,16 @@ msgid ""
 "You call upon the legacy of the greatest champions in history, defying enemies as you hold your position. This stops enemies from moving past you and enables you to block choke points.\n"
 "\n"
 msgstr ""
+"전설적인 선대 투사들의 유증을 받들어 자리를 굳건히 지키고 오는 적들을 막아냅니다. 적들은 방어진 뒤로 이동할 수 없기 때문에 전투의 "
+"요점을 만들어 낼 수 있습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Chevalier\WallOfAncients\party_warrior_chevalier_wallofancients_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\Chevalier\WallOfAncients\party_warrior_chevalier_wallofancients_upgrade1_abilitydata.xml:5
 msgctxt "0x000428c1"
 msgid "And No Further"
-msgstr ""
+msgstr "접근불가"
 
 #. FILE: DA3\Party\Warrior\Chevalier\WallOfAncients\party_warrior_chevalier_wallofancients_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -3139,13 +3153,15 @@ msgid ""
 "Your protected area increases, making it even harder for enemies to pass by.\n"
 "\n"
 msgstr ""
+"방어진의 크기가 커집니다. 적들이 지나가기 더 어려워집니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Chevalier\WallOfAncients\party_warrior_chevalier_wallofancients_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\Warrior\Chevalier\WallOfAncients\party_warrior_chevalier_wallofancients_upgrade2_abilitydata.xml:5
 msgctxt "0x0004b2bd"
 msgid "Everlasting Barricade"
-msgstr ""
+msgstr "천고불멸의 보루"
 
 #. FILE: DA3\Party\Warrior\Chevalier\WallOfAncients\party_warrior_chevalier_wallofancients_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -3155,6 +3171,8 @@ msgid ""
 "Line in the Sand no longer has a cost or cooldown, and it lasts until you cancel it.\n"
 "\n"
 msgstr ""
+"사막의 전선이 더는 기력을 소비하지 않으며, 재사용 대기 시간이 사라집니다. 이제 방어진은 능력을 거둘 때 소멸합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\General\ClassBonus\party_warrior_general_classbonus_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -3175,7 +3193,7 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\Aggression\party_warrior_passive_aggression_abilitydata.xml:5
 msgctxt "0x000428a2"
 msgid "Biggest Threat"
-msgstr ""
+msgstr "최고 위협"
 
 #. FILE: DA3\Party\Warrior\Passives\Aggression\party_warrior_passive_aggression_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3185,6 +3203,8 @@ msgid ""
 "You make yourself the biggest target on the battlefield, the warrior no enemy can ignore.\n"
 "\n"
 msgstr ""
+"아무도 당신을 간과할 수 없게, 자신을 전장에서 가장 위협적인 존재로 자리매김합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\Aggression\party_warrior_passive_aggression_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -3198,7 +3218,7 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\ArmorUp\party_warrior_passive_armorup_abilitydata.xml:5
 msgctxt "0x000428a0"
 msgid "Trust the Steel"
-msgstr ""
+msgstr "강철 신뢰"
 
 #. FILE: DA3\Party\Warrior\Passives\ArmorUp\party_warrior_passive_armorup_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3208,6 +3228,8 @@ msgid ""
 "You know how to make the most of your equipment, gaining a bonus to armor when you have active guard.\n"
 "\n"
 msgstr ""
+"장비를 최대한 활용하는 법을 깨우쳤습니다. 방어도가 있다면 방어력이 추가로 증가합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\BarbedArmor\party_warrior_passive_barbedarmor_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -7194,7 +7216,7 @@ msgstr ""
 #: DA3\Party\general\Potions\FireBomb\party_general_potion_firebomb_abilitydata.xml:5
 msgctxt "0x0002a05f"
 msgid "Antivan Fire"
-msgstr ""
+msgstr "안티바의 불꽃"
 
 #. FILE: DA3\Party\general\Potions\FireBomb\party_general_potion_firebomb_abilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
@@ -7334,7 +7356,7 @@ msgstr ""
 #: DA3\Party\general\Potions\HealingMist\party_general_potion_healingmist_abilitydata.xml:5
 msgctxt "0x0002b3e1"
 msgid "Healing Mist"
-msgstr ""
+msgstr "치유 연막"
 
 #. FILE: DA3\Party\general\Potions\HealingMist\party_general_potion_healingmist_abilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
@@ -7342,20 +7364,22 @@ msgstr ""
 msgctxt "0x0004313e"
 msgid "Creates a small healing mist in the target area, instantly healing allies within for <font color=\"#F5ECCE\">{CUSTOM0}</font> health.\n"
 msgstr ""
+"대상 지점에 작은 치유 연막을 생성하여 연막 내부의 동료의 체력을 <font color=\"#F5ECCE\">{CUSTOM0}</"
+"font> 만큼 즉시 치유합니다.\n"
 
 #. FILE: DA3\Party\general\Potions\HealingMist\party_general_potion_healingmist_finalupgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: DA3\Party\general\Potions\HealingMist\party_general_potion_healingmist_finalupgrade1_abilitydata.xml:5
 msgctxt "0x0002b41e"
 msgid "Healing Mist"
-msgstr ""
+msgstr "치유 연막"
 
 #. FILE: DA3\Party\general\Potions\HealingMist\party_general_potion_healingmist_finalupgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 #: DA3\Party\general\Potions\HealingMist\party_general_potion_healingmist_finalupgrade1_abilitydata.xml:18
 msgctxt "0x0004313f"
 msgid "Healing Mist can restore unconscious party members as well as healing them."
-msgstr ""
+msgstr "치유 연막은 의식을 잃은 파티원들의 체력을 회복시킬 뿐만 아니라 그들을 부활시킬 수도 있습니다."
 
 #. FILE: DA3\Party\general\Potions\HealingMist\party_general_potion_healingmist_upgrade1a_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -7376,7 +7400,7 @@ msgstr ""
 #: DA3\Party\general\Potions\InsectSwarm\party_general_potion_insectswarm_abilitydata.xml:5
 msgctxt "0x00026f47"
 msgid "Jar of Bees"
-msgstr ""
+msgstr "벌 단지"
 
 #. FILE: DA3\Party\general\Potions\InsectSwarm\party_general_potion_insectswarm_abilitydata.xml
 #. PATH: BWAoEAbility/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
@@ -7386,6 +7410,10 @@ msgid ""
 "Summons a swarm of bees at the target location for <font color=\"#F5ECCE\">{CUSTOM0}</font> seconds. The swarm attacks the first enemy that comes near it, for <font color=\"#F5ECCE\">{CUSTOM1}</font> damage per second for <font color=\"#F5ECCE\">{CUSTOM2}</font> seconds. \n"
 "A target affected by the swarm has a <font color=\"#F5ECCE\">{CUSTOM3}%</font> chance every second to become panicked.\n"
 msgstr ""
+"대상 지점에 벌 떼를 <font color=\"#F5ECCE\">{CUSTOM0}</font> 초 동안 소환합니다. 벌 떼는 첫 번째로 "
+"다가오는 적을 공격하여 초 당 <font color=\"#F5ECCE\">{CUSTOM1}</font> 만큼의 피해를 <font "
+"color=\"#F5ECCE\">{CUSTOM2}</font> 초 동안 입힙니다. \n"
+"벌 떼에게 공격 받은 대상은 매 초 <font color=\"#F5ECCE\">{CUSTOM3}%</font> 확률로 공포에 질립니다.\n"
 
 #. FILE: DA3\Party\general\Potions\InsectSwarm\party_general_potion_insectswarm_upgrade1a_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -7596,6 +7624,8 @@ msgstr ""
 msgctxt "0x0004314b"
 msgid "Coats the target location with pitch, which remains for <font color=\"#F5ECCE\">{CUSTOM0}</font> seconds, slowing any enemies that enter it.\n"
 msgstr ""
+"대상 지점을 <font color=\"#F5ECCE\">{CUSTOM0}</font> 초 동안 역청으로 뒤덮어 해당 지점에 진입하는 모든 "
+"적을 둔화시킵니다.\n"
 
 #. FILE: DA3\Party\general\Potions\OozeGrenade\party_general_potion_oozegrenade_upgrade1a_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -11198,10 +11228,9 @@ msgstr ""
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Wall\saarebas_abilities_wall_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 #: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Wall\saarebas_abilities_wall_abilitydata.xml:57
-#, fuzzy
 msgctxt "0x0004b3af"
 msgid "<font color=\"#F5ECCE\">A wall of ice severely slows enemies for {CUSTOM0} seconds.</font>\n"
-msgstr "<font color=\"#F5ECCE\">얼음 장벽이 적을 {CUSTOM0}초 동안 상당히 둔화시킵니다.</font>\n"
+msgstr "<font color=\"#F5ECCE\">얼음 장벽이 적을 {CUSTOM0} 초 동안 상당히 둔화시킵니다.</font>\n"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Wall\saarebas_abilities_wall_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference

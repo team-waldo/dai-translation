@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-13 01:00+0000\n"
-"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
+"PO-Revision-Date: 2021-02-16 09:00+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -510,7 +510,7 @@ msgstr "무기 제작"
 #: UI\Flow\Screen\ENV\ENV_Crafting.xml:400
 msgctxt "0x000438b1"
 msgid "Armor Crafting"
-msgstr "갑옷 제작"
+msgstr "방어구 제작"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Crafting.xml
 #. PATH: UICraftingScreenAsset/LocalizedLabels/member[20]/UIScreenAssetLocalizedLabel/LocString
@@ -3718,7 +3718,7 @@ msgstr ""
 #: UI\Flow\Screen\REC\REC_WorldMap.xml:426
 msgctxt "0x00040448"
 msgid "Ocularum"
-msgstr "오쿨라룸"
+msgstr "편린경"
 
 #. FILE: UI\Flow\Screen\REC\REC_WorldMap.xml
 #. PATH: UIBWMapScreenAsset/LocalizedLabels/member[38]/UIScreenAssetLocalizedLabel/LocString
@@ -14326,7 +14326,7 @@ msgstr ""
 #: UI\assets\Nursery\Nursery_DeepMushroom.xml:5
 msgctxt "0x0002169b"
 msgid "Deep Mushroom"
-msgstr ""
+msgstr "지하 버섯"
 
 #. FILE: UI\assets\Nursery\Nursery_DeepMushroom.xml
 #. PATH: UIBaseCustomizeItemAsset/Description

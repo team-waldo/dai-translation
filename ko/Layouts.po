@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-13 01:00+0000\n"
-"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
+"PO-Revision-Date: 2021-02-16 09:00+0000\n"
+"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -64,7 +64,7 @@ msgstr "미쌀의 제단"
 #: DA3\Layouts\ArborWilds\ArborWilds_Main\qst_mythalwilds_0600\layer6_dsg_0600_interactions.xml:76
 msgctxt "0x000409e8"
 msgid "Use"
-msgstr ""
+msgstr "사용"
 
 #. FILE: DA3\Layouts\ArborWilds\ArborWilds_Main\qst_mythalwilds_0600\layer6_dsg_0600_interactions.xml
 #. PATH: BWGameInteractionEntityData[2]/InteractionTextReference
@@ -337,7 +337,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml:311
 msgctxt "0x000396df"
 msgid "Tyrdda Bright-Axe, Avvar Mother"
-msgstr ""
+msgstr "빛나는 도끼 티르다, 아바르의 어머니"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml
 #. PATH: GetLocalizedStringIDData[13]/Text
@@ -460,7 +460,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer3_dsg_interactiveart_schematic.xml:688
 msgctxt "0x00029b40"
 msgid "Calenhad's Foothold"
-msgstr ""
+msgstr "캘런해드 근거지"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer3_dsg_interactiveart_schematic.xml
 #. PATH: GetLocalizedStringIDData[12]/Text
@@ -776,7 +776,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\map\Ferelden_Wilderness_Main_floor0.xml:1147
 msgctxt "0x00029dea"
 msgid "Ocularum"
-msgstr "오쿨라룸"
+msgstr "편린경"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\map\Ferelden_Wilderness_Main_floor0.xml
 #. PATH: BWMapPinLocation[16]/TitleReference
@@ -3328,14 +3328,14 @@ msgstr ""
 #: DA3\Layouts\TheDales\TheDales_Forest\design\layer1_dsg_areatransitions_schematic.xml:170
 msgctxt "0x000332bb"
 msgid "Chateau d'Onterre"
-msgstr ""
+msgstr "돈테레 저택"
 
 #. FILE: DA3\Layouts\TheDales\TheDales_Forest\design\layer3_dsg_regionnotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
 #: DA3\Layouts\TheDales\TheDales_Forest\design\layer3_dsg_regionnotifications_schematic.xml:50
 msgctxt "0x000383c1"
 msgid "Watcher's Pass"
-msgstr ""
+msgstr "감시자의 길"
 
 #. FILE: DA3\Layouts\TheDales\TheDales_Forest\design\layer3_dsg_regionnotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[2]/Text
@@ -3489,7 +3489,7 @@ msgstr ""
 #: DA3\Layouts\TheDales\TheDales_Forest\design\layer3_dsg_regionnotifications_schematic.xml:357
 msgctxt "0x00035cc0"
 msgid "Elgar'nan's Bastion"
-msgstr ""
+msgstr "엘가르난의 요새"
 
 #. FILE: DA3\Layouts\TheDales\TheDales_Forest\design\layer3_dsg_regionnotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[25]/Text
@@ -3594,7 +3594,7 @@ msgstr ""
 #: DA3\Layouts\TheDales\TheDales_Forest\design\layer51_dsg_landmarks_schematic.xml:472
 msgctxt "0x00035c50"
 msgid "Knight's Guardian"
-msgstr ""
+msgstr "기사의 수호자"
 
 #. FILE: DA3\Layouts\TheDales\TheDales_Forest\design\layer51_dsg_landmarks_schematic.xml
 #. PATH: GetLocalizedStringIDData[13]/Text
@@ -3763,7 +3763,7 @@ msgstr ""
 #: DA3\Layouts\TheDales\TheDales_Highlands\design\layer23_dsg_landmarks_schematic.xml:86
 msgctxt "0x00036b0d"
 msgid "Judicael's Crossing"
-msgstr ""
+msgstr "주디카엘의 건널목"
 
 #. FILE: DA3\Layouts\TheDales\TheDales_Highlands\design\layer23_dsg_landmarks_schematic.xml
 #. PATH: GetLocalizedStringIDData[4]/Text
@@ -3889,7 +3889,7 @@ msgstr ""
 #: DA3\Layouts\TheDales\TheDales_Highlands\design\layer3_dsg_regionnotifications_schematic.xml:129
 msgctxt "0x0003fd06"
 msgid "Judicael's Crossing"
-msgstr ""
+msgstr "주디카엘의 건널목"
 
 #. FILE: DA3\Layouts\TheDales\TheDales_Highlands\design\layer3_dsg_regionnotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[10]/Text
@@ -4067,7 +4067,7 @@ msgstr ""
 #: DA3\Layouts\TheDales\TheDales_Plains\TheDales_Plains\design\layer3_dsg_regionnotifications_schematic.xml:48
 msgctxt "0x00038003"
 msgid "Enavuris"
-msgstr ""
+msgstr "에바누리"
 
 #. FILE: DA3\Layouts\TheDales\TheDales_Plains\TheDales_Plains\design\layer3_dsg_regionnotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[2]/Text
@@ -4601,7 +4601,7 @@ msgstr ""
 #: DA3\Layouts\TheDales\dgn_s_160\design\layer19_dsg_zonenotifications_schematic.xml:56
 msgctxt "0x00020ef5"
 msgid "Chateau d'Onterre"
-msgstr ""
+msgstr "돈테레 저택"
 
 #. FILE: DA3\Layouts\TheDales\dgn_s_160\design\layer19_dsg_zonenotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[4]/Text
@@ -4699,21 +4699,21 @@ msgstr ""
 #: DA3\Layouts\TheDales\dgn_s_160\dgn_s_160.xml:5258
 msgctxt "0x00032d1b"
 msgid "Chateau d'Onterre"
-msgstr ""
+msgstr "돈테레 저택"
 
 #. FILE: DA3\Layouts\TheDales\dgn_s_160\map\dgn_s_160_floor0.xml
 #. PATH: BWMapPinArea[1]/TitleReference
 #: DA3\Layouts\TheDales\dgn_s_160\map\dgn_s_160_floor0.xml:57
 msgctxt "0x00043923"
 msgid "Chateau d'Onterre - Upper Level"
-msgstr ""
+msgstr "돈테레 저택- 상층"
 
 #. FILE: DA3\Layouts\TheDales\dgn_s_160\map\dgn_s_160_floor1.xml
 #. PATH: BWMapPinArea[1]/TitleReference
 #: DA3\Layouts\TheDales\dgn_s_160\map\dgn_s_160_floor1.xml:60
 msgctxt "0x00043924"
 msgid "Chateau d'Onterre - Main Level"
-msgstr ""
+msgstr "돈테레 저택- 지상층"
 
 #. FILE: DA3\Layouts\TheDales\dgn_s_290\design\layer15_dsg_puzzle_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -4930,7 +4930,7 @@ msgstr ""
 #: DA3\Layouts\TheDales\hal_winter_palace_ext\design\layer10_dsg_areanotifications_schematic.xml:25
 msgctxt "0x0002a7b7"
 msgid "The Winter Palace"
-msgstr ""
+msgstr "겨울 궁전"
 
 #. FILE: DA3\Layouts\TheDales\hal_winter_palace_ext\design\layer10_dsg_areanotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[2]/Text
@@ -5000,7 +5000,7 @@ msgstr ""
 #: DA3\Layouts\TheDales\hal_winter_palace_ext\hal_winter_palace_ext.xml:12622
 msgctxt "0x00029d64"
 msgid "Winter Palace Exterior"
-msgstr ""
+msgstr "겨울 궁전 외관"
 
 #. FILE: DA3\Layouts\TheDales\hal_winter_palace_ext\map\hal_winter_palace_ext_floor0.xml
 #. PATH: BWMapPinLocation[1]/TitleReference
@@ -5392,14 +5392,14 @@ msgstr ""
 #: DA3\Layouts\TheDales\ham_Winter_Palace\ham_Winter_Palace.xml:10902
 msgctxt "0x0001e4e5"
 msgid "The Winter Palace"
-msgstr ""
+msgstr "겨울 궁전"
 
 #. FILE: DA3\Layouts\TheDales\ham_Winter_Palace\map\ham_Winter_Palace_floor0.xml
 #. PATH: BWMap/TitleReference
 #: DA3\Layouts\TheDales\ham_Winter_Palace\map\ham_Winter_Palace_floor0.xml:25
 msgctxt "0x00029d7f"
 msgid "The Winter Palace - Lower Level"
-msgstr ""
+msgstr "겨울 궁전 - 하층"
 
 #. FILE: DA3\Layouts\TheDales\ham_Winter_Palace\map\ham_Winter_Palace_floor0.xml
 #. PATH: BWMapPinLocation[1]/TitleReference
@@ -5427,7 +5427,7 @@ msgstr ""
 #: DA3\Layouts\TheDales\ham_Winter_Palace\map\ham_Winter_Palace_floor1.xml:25
 msgctxt "0x00042394"
 msgid "The Winter Palace - Main Level"
-msgstr ""
+msgstr "겨울 궁전 - 지상층"
 
 #. FILE: DA3\Layouts\TheDales\ham_Winter_Palace\map\ham_Winter_Palace_floor1.xml
 #. PATH: BWMapPinLocation[1]/TitleReference
@@ -5525,7 +5525,7 @@ msgstr "무도회장"
 #: DA3\Layouts\TheDales\ham_Winter_Palace\map\ham_Winter_Palace_floor2.xml:25
 msgctxt "0x00042395"
 msgid "The Winter Palace - Upper Level"
-msgstr ""
+msgstr "겨울 궁전 - 상층"
 
 #. FILE: DA3\Layouts\TheDales\ham_Winter_Palace\map\ham_Winter_Palace_floor2.xml
 #. PATH: BWMapPinLocation[2]/TitleReference
@@ -6904,7 +6904,7 @@ msgstr ""
 #: DA3\Layouts\ThematicLevels\the_DesertRuins_510\design\layer18_dsg_regionnotifications_schematic.xml:145
 msgctxt "0x00025437"
 msgid "Tomb of Fairel"
-msgstr ""
+msgstr "페이렐의 무덤"
 
 #. FILE: DA3\Layouts\ThematicLevels\the_DesertRuins_510\design\layer18_dsg_regionnotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[7]/Text
@@ -7163,7 +7163,7 @@ msgstr ""
 #: DA3\Layouts\ThematicLevels\the_DesertRuins_510\map\the_DesertRuins_510_floor0.xml:3421
 msgctxt "0x00029ee8"
 msgid "Tomb of Fairel"
-msgstr ""
+msgstr "페이렐의 무덤"
 
 #. FILE: DA3\Layouts\ThematicLevels\the_DesertRuins_510\map\the_DesertRuins_510_floor0.xml
 #. PATH: BWMapPinLocation[73]/TitleReference
@@ -7997,7 +7997,7 @@ msgstr "엘프"
 #: DA3\Layouts\ValRoyeaux\ValRoyeaux_Main\dsg_bistro\layer0_dsg_bistro_main.xml:352
 msgctxt "0x0004343f"
 msgid "Le Masque du Lion"
-msgstr ""
+msgstr "사자의 가면"
 
 #. FILE: DA3\Layouts\ValRoyeaux\ValRoyeaux_Main\dsg_concourse\layer0_dsg_concourse_main.xml
 #. PATH: BWGameInteractionEntityData[1]/InteractionTextReference
@@ -8390,13 +8390,16 @@ msgid ""
 msgstr ""
 "<i>2세기 전 Therinfal 요새에 수감된 죄수들의 일지에서 나온 한 페이지. 종이를 만지자 바스라진다.</i>\n"
 "\n"
-"—Seeker Tehan의 조사에서 무죄로 밝혀진 Marion Durge를 템플러 기사 Wellen, Poller와 Legain이 그를 배교의 혐의로 몰아세워 심문했다.\n"
+"—테한 탐구자의 조사에서 무죄로 밝혀진 마리온 덜지를 성기사 웰렌, 폴러와 르게인이 그를 배교의 혐의로 몰아세워 심문했다.\n"
 "Verimensis 5일 수감됨, 7:02 폭풍의 시대.\n"
 "\n"
-"—First Enchanter인 Ellin Devar는 이단 자료를 소지한 혐의로 체포되었다. 무죄를 주장했으나, 그의 사무실에서 혈마법에 대한 책뿐만 아니라 8개의 마법사 부적도 발견되었다.\n"
+"—First Enchanter인 Ellin Devar는 이단 자료를 소지한 혐의로 체포되었다. 무죄를 주장했으나, 그의 사무실에서 "
+"혈마법에 대한 책뿐만 아니라 8개의 마법사 부적도 발견되었다.\n"
 "Verimensis 29일 처형됨, 7:02 폭풍의 시대.\n"
 "\n"
-"—Peytr Lothir는 배교 혐의로 기소되었다. 조사를 위해 Seeker Landsdale에게 데려왔으나 마법에 지배되지는 않았다. 뇌에 병이 있는 것으로 사료된다. 그의 안전을 위해 수감하였으며, 방문객이 허용되었다. Pluitanis 9일 수감됨, 7:02 폭풍의 시대."
+"—Peytr Lothir는 배교 혐의로 기소되었다. 조사를 위해 Seeker Landsdale에게 데려왔으나 마법에 지배되지는 않았다. "
+"뇌에 병이 있는 것으로 사료된다. 그의 안전을 위해 수감하였으며, 방문객이 허용되었다. Pluitanis 9일 수감됨, 7:02 폭풍의 "
+"시대."
 
 #. FILE: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\map\val_SeekerFortress_floor0.xml
 #. PATH: BWMap/TitleReference
@@ -9504,7 +9507,7 @@ msgstr ""
 #: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\DLCBlue_WinterPalace.xml:8546
 msgctxt "0x00047b0f"
 msgid "Winter Palace"
-msgstr ""
+msgstr "겨울 궁전"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\design\layer11_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -9560,7 +9563,7 @@ msgstr ""
 #: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\design\layer11_dsg_regions_schematic.xml:211
 msgctxt "0x00047718"
 msgid "Winter Palace"
-msgstr ""
+msgstr "겨울 궁전"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\design\layer11_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[9]/Text
