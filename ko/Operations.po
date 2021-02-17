@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-16 09:00+0000\n"
+"PO-Revision-Date: 2021-02-17 16:00+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
@@ -44,14 +44,14 @@ msgstr "조심스럽게 움직여야 합니다. 이 배신자는 오랫동안 �
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml:10
 msgctxt "0x0003fe25"
 msgid "Our hand must not be seen in this. I can send Miller tools to escape, but she must leave on her own. "
-msgstr "흔적이 남아서는 안 됩니다. 밀러에게 도주에 필요한 장비를 지원 할 수 있지만, 자기 스스로 탈출해야 합니다. "
+msgstr "이 일에 우리의 흔적이 남아서는 안 됩니다. 밀러에게 도주에 필요한 장비를 지원 할 수 있지만, 자기 스스로 탈출해야 합니다. "
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml:37
 msgctxt "0x0003fe18"
 msgid "Rescue the Spy"
-msgstr "간첩 구출"
+msgstr "첩보원 구출"
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -65,7 +65,7 @@ msgstr "근위대를 파견해 심문회가 밀러의 신병을 요구한다 하
 #: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_ops_rescue_the_spy.xml:138
 msgctxt "0x0003fe26"
 msgid "A countess in Val Chevin is sympathetic to the Inquisition. She's willing to negotiate the spy's release for us."
-msgstr "발 셰빈의 백작 부인은 심문회에 호의적입니다. 첩자의 석방 협상에 응할 여지가 있습니다."
+msgstr "발 셰빈의 백작 부인은 심문회에 호의적입니다. 그녀라면 우리를 위해 첩보원을 석방하도록 협상해줄 거예요."
 
 #. FILE: DA3\DesignContent\Operations\Crestwood\CrestwoodArea\fer010_plot_findmayor.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -533,14 +533,14 @@ msgstr "많은 올레이 귀족들이 아다만트 요새의 파괴를 도왔다
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_adamant_bonus.xml:15
 msgctxt "0x0003fe2a"
 msgid "The area is dangerous. We'll need a heavily armed force to reach the supply cache."
-msgstr "이 지역은 위험합니다. 보급품 은닉처에 도달하려면 중무장한 부대 하나는 필요할 것 입니다."
+msgstr "이 지역은 위험합니다. 보급품 은닉처에 도달하려면 중무장한 부대 하나는 필요할 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_adamant_bonus.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_adamant_bonus.xml:39
 msgctxt "0x0003fe28"
 msgid "A small team could be in and out of the area with no one the wiser."
-msgstr "작은 팀이 이해 하는 이가 없어도 이곳을 들락거릴 수 있을 겁니다."
+msgstr "소규모 팀이라면 누구에게도 들키지 않고 그곳에 들어갔다 나올 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_halam.xml
 #. PATH: WarTableEntry/TitleReference
@@ -575,14 +575,14 @@ msgstr "멀쩡한 와인잔에 독을 몇방울 떨어트리면, 이 용병들 �
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_halam_bonus.xml:15
 msgctxt "0x0003fe40"
 msgid "I know which nobles are willing to help us, and how far they can be pushed. "
-msgstr "귀족들이 얼마나 궁지에 몰릴지, 그리고 어떤 귀족들이 우리를 기꺼이 도와줄 것인지 전 알고 있습니다. "
+msgstr "제가 어떤 귀족들이 우리를 도우려 할지, 그들을 어느정도까지 밀어붙여야 할지 알고 있습니다. "
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_halam_bonus.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_halam_bonus.xml:118
 msgctxt "0x0003fe3e"
 msgid "The right word whispered at the right time is more effective than an afternoon of pleasantries."
-msgstr "적절한 시간에 속삭이는 적절한 한 마디는 오후의 만담보다 효과적인 법이죠."
+msgstr "적절한 때 적절한 말 몇마디롤 전하는 것은, 오후의 만담보다 훨씬 효과적인 법이죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_haven.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -2419,14 +2419,14 @@ msgstr "불을 꺼 버리죠. 누굴 죽일 필요는 없어요—그저 컴컴�
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_02.xml:66
 msgctxt "0x0003fce3"
 msgid "Red Jenny Attends a Party"
-msgstr ""
+msgstr "붉은 암탕나귀 파티에 참석하다"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_02.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_02.xml:154
 msgctxt "0x0003ffe2"
 msgid "A small training exercise outside will disrupt the event."
-msgstr ""
+msgstr "연회장 바깥에서 간소한 야외 훈련을 실시하면 연회를 망칠 수 있을 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_03.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -2434,6 +2434,8 @@ msgstr ""
 msgctxt "0x00040059"
 msgid "A few altered signs will waylay them in the Vimmarks. A trade caravan will have supplies to last; if their stock happens to be mostly weapons, they won't last long."
 msgstr ""
+"표지판을 몇 개 바꿔치기하면 이들을 빈마르크 산맥에서 멈춰세울 수 있을 겁니다. 교역단의 보급품이란 한정되어 있기 마련이죠. 상품이 "
+"대부분 무기라면, 오래 버티지 못할 거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_03.xml
 #. PATH: WarTableEntry/TitleReference
@@ -2447,21 +2449,21 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_03.xml:140
 msgctxt "0x0004005a"
 msgid "Buying out the caravan would expose whether it is lead by an honest merchant or a conspirator against us."
-msgstr ""
+msgstr "교역단을 매수하면 이 정보가 정직한 상인이 보낸 것인지, 아니면 심문단에 대한 음모에 의한 것인지 드러낼 수 있을 거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_03.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_03.xml:164
 msgctxt "0x0004059a"
 msgid "Blockading a caravan is a small but provocative matter. Do we trust this information?"
-msgstr ""
+msgstr "교역단을 무력으로 가로막는 건 사소하긴 해도 도발적인 행위입니다. 이 정보 믿을 수 있는 겁니까?"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_04.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_04.xml:10
 msgctxt "0x00040069"
 msgid "Funded from Tantervale? They may be open to an alliance after the trouble in Kirkwall."
-msgstr ""
+msgstr "탠터베일에서 자금을 댄다고요? 커크월 사건 이후이니 협업의 가능성이 있을 것 같군요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_04.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
@@ -2476,6 +2478,8 @@ msgstr ""
 msgctxt "0x0004006a"
 msgid "Supplied from Nevarra? I can leverage the Pentaghast name to manipulate to a degree. But perhaps we needn't mention it to Cassandra."
 msgstr ""
+"네바라에서 보급을 받는다고요? 펜타거스트 가문 이름을 슬쩍 들이밀어 어느 정도는 조작이 가능해요. 카산드라 님께는 알리지 않는 게 "
+"좋겠네요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_04.xml
 #. PATH: SpecialistMissionInfo[2]/OperationToUnlockName
@@ -2496,21 +2500,21 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_05.xml:111
 msgctxt "0x00040070"
 msgid "This Johi seems prepared to deal with it. Let him."
-msgstr ""
+msgstr "이 조히라는 자가 상대할 준비가 되어 있는 것 같군요. 그러도록 두세요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_05.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_05.xml:135
 msgctxt "0x0004006c"
 msgid "We should involve the local lords in this \"masquerade.\" They will be just as displeased about their influence being misused."
-msgstr ""
+msgstr "지역 귀족들을 이 \"가장무도회\"에 끌어들여야 해요. 그들도 마찬가지로 영향력이 오용되는 데 불만스러워 할 거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_05.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_05.xml:164
 msgctxt "0x0004006f"
 msgid "We cannot suffer this misrepresentation. Our response must be swift and send a very clear message."
-msgstr ""
+msgstr "이런 와전은 용납할 수 없습니다. 아주 명확한 뜻을 담아 신속하게 응답해야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_06.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -2588,6 +2592,7 @@ msgstr ""
 msgctxt "0x00040634"
 msgid "Let us continue the ruse Charade started. Send the money to Nevarra, where the first caravan was stocked, and see who is meant to receive it."
 msgstr ""
+"샤레이드가 시작한 계략을 지속하도록 하지요. 첫 교역단이 보급품을 공급받던 네바라로 돈을 보내 누가 받을 예정이었는지 알아보도록 합시다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_08.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -2706,7 +2711,7 @@ msgstr "커크월의 경비대에 친구가 있습니다. 그녀라면 기꺼이
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric2.xml:27
 msgctxt "0x000404a2"
 msgid "Hard in Hightown: Unsavory Parallels"
-msgstr ""
+msgstr "하드 인 하이타운: 기분나쁜 유사점"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric2.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -2806,7 +2811,7 @@ msgstr "경비대가 이 범죄에 연루되었는지 여부가 아직 밝혀지
 #: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric6.xml:127
 msgctxt "0x0004058f"
 msgid "Hard in Hightown: No Dwarf Less Worthy"
-msgstr ""
+msgstr "하드 인 하이타운: 가치없는 드워프는 없다"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Varric\gen_ops_varric6.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -3139,7 +3144,7 @@ msgstr "우리가 그 장소에 관심을 보이는 순간 다른 사람들도 �
 #: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_3.xml:37
 msgctxt "0x0004088e"
 msgid "Upon the Waking Sea"
-msgstr ""
+msgstr "일깨우는 바다 위에서"
 
 #. FILE: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_3.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -3218,7 +3223,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Judgments\Ops_judgment_Poulin.xml:76
 msgctxt "0x00040c08"
 msgid "Judgment: Help the People of Sahrnia"
-msgstr ""
+msgstr "재판: 사르니아 사람들 돕기"
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\Ops_judgment_Poulin.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -3232,7 +3237,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Judgments\Ops_judgment_Servis.xml:18
 msgctxt "0x00040c06"
 msgid "Judgment: Recover Sold Artifacts"
-msgstr ""
+msgstr "재판: 매각된 유물 회수"
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\Ops_judgment_Servis.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -3240,6 +3245,8 @@ msgstr ""
 msgctxt "0x00040c32"
 msgid "He seems too prideful to cheat us without proving his worth first. I'd give him what he asks. Within reason."
 msgstr ""
+"자신의 가치를 먼저 증명해 보이기 전에는, 우리를 배신하지 않을거예요. 그러기에는 자존심이 너무 강해보입니다. 그가 요구하는 걸 "
+"주겠습니다. 합리적인 선 안에서."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\Ops_judgment_Servis.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -3247,13 +3254,15 @@ msgstr ""
 msgctxt "0x00040c31"
 msgid "We cannot fully trust the man, and he knows it. I will give him his helpers… and send an unseen spy along."
 msgstr ""
+"우리는 그 자를 완전히 믿을 수 없어요. 그자도 그걸 알고있습니다. 그에게 조력자들을 내주도록 하지요... 그자의 눈에 띄지 않는 "
+"첩보원들과 함께."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\Ops_judgment_Servis.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Judgments\Ops_judgment_Servis.xml:143
 msgctxt "0x00040c2f"
 msgid "I can send my soldiers to help this mage. They'll keep a close eye on him."
-msgstr ""
+msgstr "그 마법사를 돕기 위해 제 병사들을 보낼 수 있습니다. 그들이 그 자를 주의깊이 주시할 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_avaar_01.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -3527,7 +3536,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\KillCollection\dragonkills_op_2.xml:100
 msgctxt "0x0004050f"
 msgid "Learn More about Dragons"
-msgstr ""
+msgstr "드래곤에 대해 더 알아보기"
 
 #. FILE: DA3\DesignContent\Operations\Global\KillCollection\gen_ops_rifts_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -3548,35 +3557,35 @@ msgstr "우리 병사들을 보내 이전에 영계 균열이 있던 지역을 �
 #: DA3\DesignContent\Operations\Global\KillCollection\gen_ops_rifts_1.xml:61
 msgctxt "0x000404db"
 msgid "Improved Stability"
-msgstr ""
+msgstr "안전 강화"
 
 #. FILE: DA3\DesignContent\Operations\Global\KillCollection\gen_ops_rifts_2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\KillCollection\gen_ops_rifts_2.xml:15
 msgctxt "0x000405a8"
 msgid "Let's keep the visit friendly. A few representatives can discuss the form their support will take."
-msgstr ""
+msgstr "그녀의 방문 건을 우호적으로 진행하도록 하죠. 담당자를 몇 명 보내 어떤 형태로 지원할 것인지에 대해 논의할 수 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\KillCollection\gen_ops_rifts_2.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\KillCollection\gen_ops_rifts_2.xml:42
 msgctxt "0x0004058a"
 msgid "Support from Nevarra"
-msgstr ""
+msgstr "네바라로부터의 지원"
 
 #. FILE: DA3\DesignContent\Operations\Global\KillCollection\gen_ops_rifts_2.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\KillCollection\gen_ops_rifts_2.xml:113
 msgctxt "0x000405ab"
 msgid "The Forsythias might be more generous if they knew we had certain information on them. "
-msgstr ""
+msgstr "포르티시아 가문에게 우리가 자신들에 대해 특별한 정보를 알고 있다는 걸 보여주면, 더 관대한 태도를 보일 겁니다. "
 
 #. FILE: DA3\DesignContent\Operations\Global\KillCollection\gen_ops_rifts_2.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\KillCollection\gen_ops_rifts_2.xml:137
 msgctxt "0x000405a9"
 msgid "Approach from a position of strength. Send a personal guard with our representative."
-msgstr ""
+msgstr "우리 측에게 유리한 입장에서 접근해야 합니다. 담당자와 함께 개인 경호원을 보내십시오."
 
 #. FILE: DA3\DesignContent\Operations\Global\Kirkwall\kirkwall_ops_aid.xml
 #. PATH: WarTableEntry/TitleReference
@@ -3614,7 +3623,7 @@ msgstr ""
 msgctxt "0x00040124"
 msgid "The prince means to retaliate against anyone who ever harbored Anders. Kirkwall's resistance is headed by Guard-Captain Aveline. With our help, she can break Sebastian's resolve and send him running back to Starkhaven."
 msgstr ""
-"왕자는 앤더스를 숨겨주는 자라면 누구라도 보복하려는 심산입니다. 커크월의 저항세력은 경비대장 에블린이 이끌고 있습니다. 우리가 그녀를 "
+"대공은 앤더스를 숨겨주는 자라면 누구라도 보복하려는 심산입니다. 커크월의 저항세력은 경비대장 아블린이 이끌고 있습니다. 우리가 그녀를 "
 "도와준다면 세바스티안이 결심을 깨고 스탁헤이븐으로 돌아가게 할 수 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Kirkwall\kirkwall_ops_annex.xml
@@ -3740,14 +3749,14 @@ msgstr "제가 그 생물체가 도착하는데 지장이 없도록 조용히 �
 #: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_activation_marketing_02_low.xml:57
 msgctxt "0x00041d62"
 msgid "Light-Torn Steed"
-msgstr ""
+msgstr "빛에 찢긴 준마"
 
 #. FILE: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_activation_marketing_03_low.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_activation_marketing_03_low.xml:35
 msgctxt "0x00041d5a"
 msgid "Amaranthine Charger"
-msgstr ""
+msgstr "아마란틴 돌격대"
 
 #. FILE: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_activation_marketing_04_low.xml
 #. PATH: WarTableEntry/TitleReference
@@ -3761,7 +3770,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_activation_marketing_05_low.xml:79
 msgctxt "0x00041d53"
 msgid "Anderfel Courser"
-msgstr ""
+msgstr "앤더펄스 군마"
 
 #. FILE: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_activation_marketing_06_low.xml
 #. PATH: WarTableEntry/TitleReference
@@ -3887,7 +3896,7 @@ msgstr "제대로만 투자한다면, 우리가 손에 넣지 못할 건 없어�
 #: DA3\DesignContent\Operations\Global\Nemesis\Samson\for_nem_HuntingSamson.xml:13
 msgctxt "0x0001720d"
 msgid "Track Down Samson"
-msgstr ""
+msgstr "샘슨 추적"
 
 #. FILE: DA3\DesignContent\Operations\Global\Nemesis\Samson\for_nem_HuntingSamson.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -3901,7 +3910,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Nemesis\Samson\for_nem_LyriumMine.xml:13
 msgctxt "0x00017208"
 msgid "Investigate Sahrnia Quarry"
-msgstr ""
+msgstr "사르니아 채석장 조사"
 
 #. FILE: DA3\DesignContent\Operations\Global\Nemesis\Samson\for_nem_LyriumMine.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -4293,7 +4302,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Race\gen_race_qunari_1.xml:42
 msgctxt "0x0003fabf"
 msgid "Contact with the Valo-Kas Mercenaries"
-msgstr ""
+msgstr "발로카스 용병과 접촉하라"
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_qunari_1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -5753,7 +5762,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\TheWedding\gen_chain_wedding_04.xml:13
 msgctxt "0x00040710"
 msgid "Alliances: Falling into Place"
-msgstr ""
+msgstr "동맹: 앞뒤가 맞아 떨어지다"
 
 #. FILE: DA3\DesignContent\Operations\Global\TheWedding\gen_chain_wedding_04.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -5761,6 +5770,8 @@ msgstr ""
 msgctxt "0x00040724"
 msgid "It is a simple matter to marginalize the Leandre name among our potential allies. If the marriage <i>is</i> strategic, it will very quickly be all but worthless in the greater game of status."
 msgstr ""
+"우리의 잠재적 동맹들의 틈에서 린드라 가문을 소외시키는 건 쉬운 일이에요. 만약 그 결혼이 정말로 전략적인 <i>행위</i>였다면 그들은 "
+"더 높은 서열의 게임에서 금새 가치를 잃게 될겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\TheWedding\gen_chain_wedding_04.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -5768,13 +5779,15 @@ msgstr ""
 msgctxt "0x00040727"
 msgid "The game to oppose us now depends on our involvement. Demand the Leandres' exclusion from court, or we withdraw all involvement. Are they prepared to truly fight among themselves?"
 msgstr ""
+"우리를 반대하던 게임은 이제 우리의 개입에 의존하고 있습니다. 린드라 가문을 궁정에서 축출하지 않으면 당장 모든 개입을 철회하겠다고 "
+"하십시오. 그들이 진정으로 서로간에 싸울 준비가 되어 있을까요?"
 
 #. FILE: DA3\DesignContent\Operations\Global\TheWedding\gen_chain_wedding_05.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\TheWedding\gen_chain_wedding_05.xml:10
 msgctxt "0x00040759"
 msgid "The fight is over the daughter? Perhaps she should disappear. Into the arms of her lover, if she so desires."
-msgstr ""
+msgstr "딸을 사이에 둔 싸움이잖아요? 그녀가 사라지는 게 맞는 것 같습니다. 원한다면 그녀의 연인의 품으로요."
 
 #. FILE: DA3\DesignContent\Operations\Global\TheWedding\gen_chain_wedding_05.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -5782,13 +5795,15 @@ msgstr ""
 msgctxt "0x0004075a"
 msgid "If we declare fully behind Lord desRosier, we can compel the others to withdraw. Better that a son be cowed than they fall to open warfare."
 msgstr ""
+"우리가 데로지어 경을 전적으로 지지한다고 선언하면 다른 사람들을 물러나게 할 수 있어요. 그들 입장에서도 아들이 전쟁에 휘말리는 "
+"것보다는, 겁을 먹고 물러나는 편이 낫다고 생각할 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\TheWedding\gen_chain_wedding_05.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\TheWedding\gen_chain_wedding_05.xml:71
 msgctxt "0x00040713"
 msgid "Alliances: With Impassioned Pleas"
-msgstr ""
+msgstr "동맹: 열렬한 간청"
 
 #. FILE: DA3\DesignContent\Operations\Global\TheWedding\gen_chain_wedding_05.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -5796,6 +5811,8 @@ msgstr ""
 msgctxt "0x00040758"
 msgid "This is not a fight to waste our soldiers on. I would give Lord desRosier assurances we will not oppose the defense of his assets, and let these fools sort their own mess out."
 msgstr ""
+"이런 싸움에 우리 병사들을 희생시킬 수 없습니다. 데로지어 경에게 우리는 그의 재산을 지키는데 있어 반하는 행동을 하지 않을 것이며, 이 "
+"난장판은 그 어리석은 자들이 직접 수습하도록 하겠다는 확언을 주면 됩니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\TheWedding\gen_chain_wedding_06.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -6653,6 +6670,7 @@ msgstr "서리등선을 통과하는 경로 확보"
 msgctxt "0x0003fd0c"
 msgid "The Freemen's amassed fortune came from abandoned noble mansions. Returning everything to its rightful owners will earn us significant goodwill."
 msgstr ""
+"자쥬인들이 축적한 재물은 버려진 귀족 저택에서 가져온 것들이에요. 모든 재물을 원래의 주인에게 돌려주면 큰 호의를 얻을 수 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\TheDales\Forest\Fairbanks\dal_fairbanks_agent_ops_brigand_1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -6660,6 +6678,8 @@ msgstr ""
 msgctxt "0x0003fd0d"
 msgid "The assets of nobles often have more than intrinsic worth. Somewhere in that clutter, we will find an advantage, something to hold over someone else. I say we use it as bait, in one form or another, and see who bites. "
 msgstr ""
+"귀족의 자산은 본래의 값어치 그 이상의 가치가 있습니다. 그 잡동사니들 가운데에서 무언가 우리에게 득이 될 만한 것 혹은 누군가를 협박할 "
+"수 있을만한 것을 찾을 수 있을겁니다. 그걸 어떤식으로든 미끼로 사용합시다. 누가 그 미끼를 물지는 지켜보도록 하죠. "
 
 #. FILE: DA3\DesignContent\Operations\TheDales\Forest\Fairbanks\dal_fairbanks_agent_ops_brigand_1.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -6667,13 +6687,15 @@ msgstr ""
 msgctxt "0x0003fd0b"
 msgid "I say we seize the Freemen's ill-gotten gains and put it to good use for the Inquisition. Begin by reinforcing Fairbanks's new camp. Turn it into a base of operations that can be used by our own soldiers."
 msgstr ""
+"자유인들이 부정하게 쌓은 이득을 우리가 차지하여 심문회를 위한 좋은 용도로 사용합시다. 페어뱅스의 새 야영지를 강화하는것부터 시작하죠. "
+"그곳을 우리 병사들이 활용할 수 있는 작전기지로 바꾸는겁니다."
 
 #. FILE: DA3\DesignContent\Operations\TheDales\Forest\Fairbanks\dal_fairbanks_agent_ops_brigand_1.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\TheDales\Forest\Fairbanks\dal_fairbanks_agent_ops_brigand_1.xml:95
 msgctxt "0x0003fcde"
 msgid "Manage Stolen Freemen Property"
-msgstr ""
+msgstr "귀족에게서 훔친 자유인 재산 관리"
 
 #. FILE: DA3\DesignContent\Operations\TheDales\Forest\Fairbanks\dal_fairbanks_agent_ops_noble_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -6701,7 +6723,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\TheDales\Forest\Fairbanks\dal_fairbanks_agent_ops_noble_1.xml:93
 msgctxt "0x0003fcb1"
 msgid "Capitalize on Alliance with Fairbanks"
-msgstr ""
+msgstr "페어뱅스와의 동맹 활용"
 
 #. FILE: DA3\DesignContent\Operations\TheDales\Forest\dal_forest_emerald_tomb_ops.xml
 #. PATH: WarTableEntry/TitleReference
@@ -6715,7 +6737,7 @@ msgstr "엘프 유적 조사"
 #: DA3\DesignContent\Operations\TheDales\Forest\dal_forest_emerald_tomb_ops.xml:69
 msgctxt "0x0004363b"
 msgid "A few of our soldiers are scouting nearby. We can divert them to the elves' location."
-msgstr ""
+msgstr "우리 병사 몇 명이 근처를 정찰중입니다. 그들을 엘프들이 있는 지역으로 우회시킬 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\TheDales\Forest\dal_forest_ops_final_boss.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -6723,6 +6745,8 @@ msgstr ""
 msgctxt "0x0003fd6f"
 msgid "The red templars have already sent reinforcements to the Emerald Graves to protect their operation there. We can capture some of these reinforcements. Deny them lyrium long enough, and they'll talk."
 msgstr ""
+"붉은 성기사들은 이미 에메랄드 무덤의 작전을 보호하기 위해 지원군을 보낸 상태입니다. 이 지원군 일부를 붙잡아 오겠습니다. 리륨을 "
+"제공해주지 않으면 입을 열겠죠."
 
 #. FILE: DA3\DesignContent\Operations\TheDales\Forest\dal_forest_ops_final_boss.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -6730,13 +6754,15 @@ msgstr ""
 msgctxt "0x0003fd70"
 msgid "The red templars know we've taken out the leaders, but the Freemen were all over the Dales. We'll pose as a surviving Freemen cell and reestablish connection with the red templars, asking for a meeting to receive further instruction."
 msgstr ""
+"붉은 성기사들도 우리가 지도자들을 제거했다는 걸 이미 알고 있습니다. 하지만 자유인들은 데일스 전역에 흩어져 있어요. 살아남은 자유인 "
+"조직으로 가장하고 붉은 템플러와의 관계를 다시 시작해서 그 이후의 지시사항을 받을 수 있도록 회의를 열자고 요청할 수 있을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\TheDales\Forest\dal_forest_ops_final_boss.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\TheDales\Forest\dal_forest_ops_final_boss.xml:57
 msgctxt "0x0003fd64"
 msgid "Draw Out the Red Templar Lieutenant"
-msgstr ""
+msgstr "붉은 성기사단 부관 제거"
 
 #. FILE: DA3\DesignContent\Operations\TheDales\Highlands\Michel\dal_michel_agent_ops_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -6808,7 +6834,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\TheDales\Highlands\Michel\dal_michel_agent_ops_2_gaspard.xml:37
 msgctxt "0x0003fe99"
 msgid "Restoring Michel de Chevin's Honor"
-msgstr ""
+msgstr "미셸 드 셰빈의 명예 회복"
 
 #. FILE: DA3\DesignContent\Operations\TheDales\Highlands\Michel\dal_michel_agent_ops_2_gaspard.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -6871,7 +6897,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\TheDales\Highlands\dal_keep_ops_2.xml:18
 msgctxt "0x0004022d"
 msgid "Say Farewell to Lady Ducette"
-msgstr ""
+msgstr "레이디 두세트와의 작별인사"
 
 #. FILE: DA3\DesignContent\Operations\TheDales\Highlands\dal_keep_ops_2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -6906,7 +6932,7 @@ msgstr "길란나인의 숲에 접근하라"
 #: DA3\DesignContent\Operations\TheDales\Plains\dal_area_accesstofen.xml:55
 msgctxt "0x0002b453"
 msgid "Exalted Plains"
-msgstr ""
+msgstr "승임의 평야"
 
 #. FILE: DA3\DesignContent\Operations\TheDales\Plains\dal_area_gatewayfort.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -6969,70 +6995,70 @@ msgstr "엘프 문양 조사"
 #: DA3\DesignContent\Operations\TheDales\Plains\dal_region_temple.xml:55
 msgctxt "0x0002b304"
 msgid "Lost Temple of Dirthamen"
-msgstr ""
+msgstr "더타멘의 잃어버린 사원"
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens.xml:15
 msgctxt "0x000402c6"
 msgid "It's worth investigating, and if the first scouts died, it's worth investigating in force."
-msgstr ""
+msgstr "조사할 가치가 있는 일입니다. 첫번째 정찰대가 죽은 상황이라면, 병력을 보내 조사해야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
 #: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens.xml:32
 msgctxt "0x000402cd"
 msgid "Drive Darkspawn from Val Gamord"
-msgstr ""
+msgstr "발 가몬드에서 어둠의 피조물을 몰아내라"
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens.xml:42
 msgctxt "0x000402c7"
 msgid "Investigate Val Gamord"
-msgstr ""
+msgstr "발 가모드 조사"
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens.xml:134
 msgctxt "0x000402c9"
 msgid "Our only option is to send more scouts to find out what happened."
-msgstr ""
+msgstr "우리가 할 수 있는 유일한 방법은 무슨 일이 일어났는지 알아내기 위해 더 많은 정찰대를 보내는 것 뿐입니다."
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens_2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens_2.xml:10
 msgctxt "0x000402d0"
 msgid "Such a force is beyond the Inquisition's strength. We must draw on Orlesian allies and attack the darkspawn with a united force."
-msgstr ""
+msgstr "심문회 병력으로는 이 일을 감당할 수 없어요. 올레이 동맹의 도움을 받고, 연합군을 동원해 어둠의 피조물을 공격해야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens_2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
 #: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens_2.xml:27
 msgctxt "0x000402d6"
 msgid "Search Mines in Gamordan Peaks"
-msgstr ""
+msgstr "가몬드 산의 광산 수색"
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens_2.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens_2.xml:129
 msgctxt "0x000402d1"
 msgid "We have little choice in the matter. The darkspawn will spread unless we strike now."
-msgstr ""
+msgstr "이 문제는 선택의 여지가 없습니다. 지금 공격하지 않으면 어둠의 피조물이 퍼져나갈 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens_3.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens_3.xml:10
 msgctxt "0x000402d7"
 msgid "Fighting in tunnels is ugly work, but this is the cleanest way to investigate them."
-msgstr ""
+msgstr "땅굴에서 싸우는 건 힘든 일이지만, 그곳을 조사하려면 이 방법이 가장 깔끔합니다."
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens_3.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens_3.xml:114
 msgctxt "0x000402d4"
 msgid "My contacts in the Carta can get in and out of those mines without alerting the darkspawn."
-msgstr ""
+msgstr "카르타에 있는 제 연락책들이라면 어둠의 피조물에게 들키지 않고 광산 안을 드나들 수 있어요."
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\WesternApproachArea\wes_area_dragon_manuscript.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -7074,7 +7100,7 @@ msgstr "그 저주받은 지역에 다리를 놓는건 어려운 일이지만, �
 #: DA3\DesignContent\Operations\WesternApproach\WesternApproachArea\wes_area_labs.xml:15
 msgctxt "0x0001c98a"
 msgid "We have agents capable of disarming whatever traps and tricks remain and bringing back valuables."
-msgstr ""
+msgstr "우리에게는 남아있는 함정과 덫을 해제하고, 귀중품을 회수해올 수 있는 요원들이 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\WesternApproachArea\wes_area_labs.xml
 #. PATH: WarTableEntry/TitleReference
@@ -7088,7 +7114,7 @@ msgstr "고대 실험실 조사"
 #: DA3\DesignContent\Operations\WesternApproach\WesternApproachArea\wes_area_labs.xml:119
 msgctxt "0x0001c988"
 msgid "There are Chantry scholars eager to see these ruins. We could salvage artifacts and earn their gratitude all at once."
-msgstr ""
+msgstr "이 유적을 보고싶어 하는 성가회 학자들이 있어요. 유물을 회수하고 그들의 감사도 받죠."
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\WesternApproachArea\wes_area_sulphur_pits.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -7116,7 +7142,7 @@ msgstr "유황 구덩이 건너기"
 #: DA3\DesignContent\Operations\WesternApproach\WesternApproachKeep\wes_keep_morale.xml:10
 msgctxt "0x00040063"
 msgid "The terrain in the Approach is unkind. Our soldiers would be more comfortable if fitted with proper shoes."
-msgstr ""
+msgstr "접근지역은 지형이 좋지 않아요. 지형에 맞는 좋은 신발을 신으면 병사들이 훨씬 편안해 할 거예요."
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\WesternApproachKeep\wes_keep_morale.xml
 #. PATH: WarTableEntry/TitleReference
@@ -7261,14 +7287,14 @@ msgstr ""
 #: DA3\DesignContent\Operations\WorldUnlocks\dlc_region_blackemporium.xml:35
 msgctxt "0x00045a9e"
 msgid "The Black Emporium"
-msgstr ""
+msgstr "검은 상점"
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\dlc_region_blackemporium.xml
 #. PATH: WarTableEntry/LevelNameLocalizedString
 #: DA3\DesignContent\Operations\WorldUnlocks\dlc_region_blackemporium.xml:55
 msgctxt "0x00045a9b"
 msgid "The Black Emporium"
-msgstr ""
+msgstr "검은 상점"
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\dlcred_region_thedescent.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -7311,13 +7337,15 @@ msgstr ""
 msgctxt "0x0004a11e"
 msgid "Given the inherent dangers getting in and out of that location, a small reconnaissance team is best suited to search for Shaper Valta without attracting unwanted attention."
 msgstr ""
+"해당 지역을 드나드는 임무에 내재된 위험도를 감안했을 때, 원치않는 주의를 끌지 않고 셰이퍼 발타를 찾으려면 소규모의 정찰대를 보내는게 "
+"가장 적합해보입니다."
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\dlcred_region_thedescent_epilogue_1.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\WorldUnlocks\dlcred_region_thedescent_epilogue_1.xml:35
 msgctxt "0x00049f3f"
 msgid "A Cry in the Dark"
-msgstr ""
+msgstr "어둠속의 외침"
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\dlcred_region_thedescent_epilogue_1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -7325,6 +7353,8 @@ msgstr ""
 msgctxt "0x0004a11f"
 msgid "The situation may be best handled by Orzammar itself. Let us ask the king to send forces from the Legion of the Dead to search for Shaper Valta."
 msgstr ""
+"이 상황은 오잠마에서 자체적으로 대처하는게 제일 좋을 것 같아요. 왕에게 요청해서 셰이퍼 발타를 찾기 위해 망자의 군단의 병력을 "
+"보내달라고 요청하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\dlcred_region_thedescent_epilogue_1.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -7332,6 +7362,7 @@ msgstr ""
 msgctxt "0x00049f40"
 msgid "This seems like a fool's errand, but perhaps a joint team from the Inquisition and the Legion of the Dead can determine the source of this cry with minimal risk."
 msgstr ""
+"헛고생일 수도 있겠지만, 심문회와 망자의 군단이 함께 팀을 꾸리면 최소한의 피해만으로 이 비명소리의 원인을 찾을 수 있을것 같군요."
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\dlcred_region_thedescent_epilogue_2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -7501,7 +7532,7 @@ msgstr "서부의 베나토리 활동을 저지하라"
 #: DA3\DesignContent\Operations\WorldUnlocks\wld_region_desertruins.xml:33
 msgctxt "0x00029d73"
 msgid "Hissing Wastes"
-msgstr ""
+msgstr "칼바람 황무지"
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\wld_region_desertruins.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -7522,7 +7553,7 @@ msgstr "내륙지역 정찰"
 #: DA3\DesignContent\Operations\WorldUnlocks\wld_region_hinterlands.xml:33
 msgctxt "0x00029d63"
 msgid "The Hinterlands"
-msgstr ""
+msgstr "내륙 지역"
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\wld_region_hinterlands.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -7847,49 +7878,49 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_01.xml:13
 msgctxt "0x000483ca"
 msgid "{string}305810{/string}: Heidrun Thaig Upper Bridge"
-msgstr ""
+msgstr "{string}305810{/string}: 헤이룬 타이그 상층부 다리"
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_01.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_01.xml:68
 msgctxt "0x000483c8"
 msgid "A patrol of our best soldiers will accompany the construction team."
-msgstr ""
+msgstr "우리의 뛰어난 병사들로 이루어진 순찰대를 건설 인부들과 동행시키겠습니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_01.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_01.xml:90
 msgctxt "0x0004a2aa"
 msgid "My scouts will ensure the construction team's safety."
-msgstr ""
+msgstr "제 요원들이 건설 인부들의 안전을 지켜줄겁니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_01.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_01.xml:112
 msgctxt "0x0004a2ab"
 msgid "We have the coin to hire the best dwarven engineers for this task."
-msgstr ""
+msgstr "이 작업을 위해 최고의 드워프 기술자들을 고용할 자금을 비축해 두었습니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_02.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_02.xml:10
 msgctxt "0x0004a2d6"
 msgid "Experienced soldiers should accompany the construction team in case of unforeseen dangers around this artifact."
-msgstr ""
+msgstr "유물 주변에 예상치 못한 위험이 발생할 경우를 방지하기 위해, 숙련된 병사들을 건설 인부들과 동행시키겠습니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_02.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_02.xml:32
 msgctxt "0x0004a2d7"
 msgid "I can assign a few scouts to the area around the monument to keep the construction effort clear of unwanted attention from the Deep Roads."
-msgstr ""
+msgstr "기념물 주변 지역에 정찰병 몇명을 배치해서 건설 도중 지하 가도에서 반갑지 않은 주의를 끄는 일을 방지할 수 있습니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_02.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_02.xml:54
 msgctxt "0x0004a2d5"
 msgid "With one letter to the University of Orlais, I can have scholars clamoring to help pay for the construction of a bridge to this monument."
-msgstr ""
+msgstr "올레이 대학에 편지 한통만 보내면 이 기념물로 향하는 다리를 건설하는 일에 자금을 대겠다고 아우성칠 학자들이 줄을 걸 겁니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_02.xml
 #. PATH: WarTableEntry/TitleReference
@@ -7897,14 +7928,14 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_02.xml:79
 msgctxt "0x00049f54"
 msgid "{string}305810{/string}: Heidrun Thaig Central Bridge"
-msgstr ""
+msgstr "{string}305810{/string}: 헤이룬 타이그 중앙 다리"
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_03.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_03.xml:10
 msgctxt "0x0004a2d3"
 msgid "Our troops know how to handle darkspawn that might threaten the construction efforts."
-msgstr ""
+msgstr "우리 병사들이 건설 업무를 위협하는 어둠의 피조물을 상대할 수 있습니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_03.xml
 #. PATH: WarTableEntry/TitleReference
@@ -7912,21 +7943,21 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_03.xml:35
 msgctxt "0x00049f58"
 msgid "{string}305810{/string}: Heidrun Thaig Lower Bridge"
-msgstr ""
+msgstr "{string}305810{/string}: 헤이드룬 타이그 하층부 다리"
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_03.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_03.xml:90
 msgctxt "0x0004a2d4"
 msgid "Let us ensure that the construction team has the supplies they need to build the bridge quickly, before the darkspawn notice."
-msgstr ""
+msgstr "어둠의 피조물들이 눈치채기 전에 다리 건설에 필요한 물자를 건설 인부들에게 빠르게 공급할 수 있는지 확인해보겠습니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_03.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_03.xml:112
 msgctxt "0x0004a2d2"
 msgid "An agent knowledgeable about the Deep Roads can keep the construction team away from the worst of the darkspawn nests."
-msgstr ""
+msgstr "지하 가도에 대해 잘 알고 있는 요원이 있다면, 건설 인부들이 최악의 어둠의 피조물 본거지를 피하는데 도움을 줄 수 있을겁니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_04.xml
 #. PATH: WarTableEntry/TitleReference
@@ -7934,21 +7965,21 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_04.xml:13
 msgctxt "0x00049f5b"
 msgid "{string}305810{/string}: Bastion of the Pure Excavation"
-msgstr ""
+msgstr "{string}305810{/string}: 순수의 요새 발굴"
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_04.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_04.xml:68
 msgctxt "0x0004a2d8"
 msgid "I could negotiate with the Mining Caste in Orzammar for carts to clear rock from the tunnel even faster."
-msgstr ""
+msgstr "오자마의 광부계급과 협상하면, 땅굴에서 바위를 더 빨리 정리하는데 필요한 수레를 지원받을 수 있을거에요."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_04.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_04.xml:90
 msgctxt "0x0004a2da"
 msgid "A little hard work hauling rubble will be a good team-building exercise for our newest squads."
-msgstr ""
+msgstr "돌무더기를 나르는 약간의 고된 일이라. 우리 신병들의 협동의식을 기를 수 있는 좋은 훈련 기회가 될 것 같군요."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_04.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -7956,6 +7987,8 @@ msgstr ""
 msgctxt "0x0004a2d9"
 msgid "Sappers may know as much about clearing rubble as about creating it. I can send one to advise the construction team."
 msgstr ""
+"공병들은 돌의 잔해를 만들어내는 것 만큼이나 치우는 방법에 대해 잘 알고 있을겁니다. 건설 인부들에게 조언해 줄 사람을 한 명 보낼 수 "
+"있습니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_05.xml
 #. PATH: WarTableEntry/TitleReference
@@ -7963,21 +7996,21 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_05.xml:13
 msgctxt "0x00049f5f"
 msgid "{string}305810{/string}: Bastion of the Pure Bridge"
-msgstr ""
+msgstr "{string}305810{/string}: 순수의 요새 다리 건설"
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_05.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_05.xml:68
 msgctxt "0x0004a2db"
 msgid "My scouts will watch all approaches during the bridge's construction and then proceed immediately to the vantage point."
-msgstr ""
+msgstr "제 정찰대가 다리가 건설하는 동안 접근하는 모든 것을 감시하고, 완공 즉시 감시하기 좋은 지점으로 이동할겁니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_06.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_06.xml:10
 msgctxt "0x0004a2de"
 msgid "Let's keep the scouts there to watch for whatever—or whoever—destroyed the original bridge."
-msgstr ""
+msgstr "원래의 다리를 파괴한 것들이 남아 있을지 모르니 정찰대를 시켜 감시하도록 하지요."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_06.xml
 #. PATH: WarTableEntry/TitleReference
@@ -7985,28 +8018,28 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_06.xml:35
 msgctxt "0x00049f6d"
 msgid "{string}305810{/string}: Forgotten Caverns Bridge"
-msgstr ""
+msgstr "{string}305810{/string}: 잊혀진 동굴 다리 건설"
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_06.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_06.xml:90
 msgctxt "0x0004a2e0"
 msgid "With a squad of soldiers accompanying the construction team, we would be prepared for whatever is across the chasm."
-msgstr ""
+msgstr "병사들을 건설 인부들과 동행시키면, 협곡 건너편에 무엇이 있든 만일의 상황에 대비할 수 있습니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_06.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_06.xml:112
 msgctxt "0x0004a2df"
 msgid "It is worth paying for a team that is familiar with this kind of construction—and is not afraid of heights."
-msgstr ""
+msgstr "이런 류의 건설에 익숙하고 높은 곳을 두려워하지 않는 인부들을 돈을 주고 고용해야 해요."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_07.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_07.xml:15
 msgctxt "0x0004a2e3"
 msgid "Such an expedition may well strengthen our position with Orzammar in future dealings."
-msgstr ""
+msgstr "이 원정을 통해 오잠마와 향후 있을 거래에서 우리의 입지를 강화할 수 있을겁니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_07.xml
 #. PATH: WarTableEntry/TitleReference
@@ -8014,7 +8047,7 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_07.xml:42
 msgctxt "0x00049f71"
 msgid "{string}305810{/string}: Heidrun Thaig Artifact Recovery"
-msgstr ""
+msgstr "{string}305810{/string}: 헤이드룬 타이그 유물 복원"
 
 #. FILE: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_08.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -8022,6 +8055,7 @@ msgstr ""
 msgctxt "0x0004a994"
 msgid "It will be dangerous working so close to the treacherous waves of the Buried Sea, but our best engineers are up to the task."
 msgstr ""
+"매장된 바다의 위험한 파도와 가까운 곳에서 작업하는 건 위험한 일이지만 심문회 최고의 기술자들은 이 일에 착수할 준비가 되어있습니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_08.xml
 #. PATH: WarTableEntry/TitleReference
@@ -8029,14 +8063,14 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_08.xml:35
 msgctxt "0x0004a992"
 msgid "{string}305810{/string}: Buried Sea Bridge"
-msgstr ""
+msgstr "{string}305810{/string}: 매장된 바다 다리 건설"
 
 #. FILE: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_09.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_09.xml:10
 msgctxt "0x0004a99b"
 msgid "Inquisition forces can make improvements to the main Deep Roads camp."
-msgstr ""
+msgstr "심문회 병력이 지하가도 내 주 야영지를 개선할 수 있습니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_09.xml
 #. PATH: WarTableEntry/TitleReference
@@ -8044,14 +8078,14 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_09.xml:35
 msgctxt "0x0004a99a"
 msgid "{string}305810{/string}: Legion Camp Improvements"
-msgstr ""
+msgstr "{string}305810{/string}: 군단 야영지 개선"
 
 #. FILE: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_10.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_10.xml:10
 msgctxt "0x0004a9a0"
 msgid "Inquisition troops will stand guard while our engineers set up a pulley system to recover the casks."
-msgstr ""
+msgstr "우리 기술자들이 술통을 회수하기 위한 도르래장비를 설치하는 동안 심문회 병력이 보초를 서게 하겠습니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_10.xml
 #. PATH: WarTableEntry/TitleReference
@@ -8059,7 +8093,7 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_10.xml:42
 msgctxt "0x0004a9a1"
 msgid "{string}305810{/string}: Recovering Barreled Treasure"
-msgstr ""
+msgstr "{string} 305810 {/ string} : 통에 든 보물 회수"
 
 #. FILE: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_11.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -8073,7 +8107,7 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_11.xml:42
 msgctxt "0x0004a9ab"
 msgid "The Paths Beyond: Echo of the Guardian"
-msgstr ""
+msgstr "저 너머의 길: 수호자의 메아리"
 
 #. FILE: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_12.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -8088,7 +8122,7 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_12.xml:42
 msgctxt "0x0004a9ac"
 msgid "{string}305810{/string}: Patrolling the Bastion of the Pure"
-msgstr ""
+msgstr "{string}305810{/string}: 순수의 요새 순찰"
 
 #. FILE: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_13.xml
 #. PATH: WarTableEntry/TitleReference
@@ -8096,21 +8130,21 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_13.xml:18
 msgctxt "0x0004a9b2"
 msgid "{string}305810{/string}: Bastion of the Pure Ore Harvesting"
-msgstr ""
+msgstr "{string}305810{/string}: 순수의 요새 광석 수확"
 
 #. FILE: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_13.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_13.xml:164
 msgctxt "0x0004a9b4"
 msgid "Inquisition troops will guard the miners while they work."
-msgstr ""
+msgstr "광부들이 작업하는 동안 심문회 병사들이 그들을 보호하게 하겠습니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_14.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_14.xml:15
 msgctxt "0x0004a9b5"
 msgid "Our best sharpshooters will make short work of these beasts."
-msgstr ""
+msgstr "우리의 최고의 명사수들이라면 이 짐승들을 빠르게 해치울 수 있습니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_14.xml
 #. PATH: WarTableEntry/TitleReference
@@ -8118,4 +8152,4 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_14.xml:42
 msgctxt "0x0004a9b8"
 msgid "{string}305810{/string}: Bastion of the Pure Cretahl Hunting"
-msgstr ""
+msgstr "{string}305810{/string}: 순수한 요새 크레탈 사냥"

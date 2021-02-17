@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-16 09:00+0000\n"
-"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
+"PO-Revision-Date: 2021-02-17 16:00+0000\n"
+"Last-Translator: ByeongJinKang <kbj01010@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
 "Language: ko\n"
@@ -2052,14 +2052,14 @@ msgstr "영계에 물든 발화석"
 #: DA3\Equipment\Crafting\Masterwork\Metal\crafting_masterwork_Serpentstone.xml:6
 msgctxt "0x00024afa"
 msgid "Masterwork Serpentstone"
-msgstr "명품 뱀석"
+msgstr "명품 사문석"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Metal\crafting_masterwork_Serpentstone_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Metal\crafting_masterwork_Serpentstone_2.xml:6
 msgctxt "0x000448a9"
 msgid "Fade-Touched Serpentstone"
-msgstr "영계에 물든 뱀석"
+msgstr "영계에 물든 사문석"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Metal\crafting_masterwork_Serpentstone_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -2783,7 +2783,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Infused_Vyrantium_Samite.xml:6
 msgctxt "0x0001fa9d"
 msgid "Infused Vyrantium Samite"
-msgstr "비란티움 주입된 사마이트"
+msgstr "수놓인 비란티움 세이마이트"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Infused_Vyrantium_Samite.xml
 #. PATH: RecipeMaterial/Description
@@ -2915,7 +2915,7 @@ msgstr "플러시 퍼스티언 벨벳"
 #: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Ring_Velvet.xml:6
 msgctxt "0x000189d0"
 msgid "Ring Velvet"
-msgstr "반지무늬 벨벳"
+msgstr "고리무늬 벨벳"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Royale_Sea_Silk.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -25212,7 +25212,7 @@ msgstr ""
 #: da3_dlc_red\Equipment\Items\Weapons\Mage\Staff\equip_DLC_Red_dlcred_staff_t4_unique.xml:11
 msgctxt "0x0004aa23"
 msgid "This staff gives a faintly audible hum when touched: a wistful tune, as if it were thinking of a faraway or forgotten place."
-msgstr ""
+msgstr "이 지팡이를 만지면 희미한 흥얼거림을 들을 수 있습니다: 마치 머나먼 잊힌 장소를 떠올리는 듯 아쉬워하는 선율 말입니다."
 
 #. FILE: da3_dlc_red\Equipment\Items\Weapons\Rogue\Bows\equip_DLC_Red_dlcred_bow_t4_unique.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -25227,6 +25227,8 @@ msgstr ""
 msgctxt "0x0004aa1a"
 msgid "Lyrium traces a delicate reinforcement of this bow's curve, promising true aim and swift death. Someone has made small notches along the limbs, counting hundreds of kills."
 msgstr ""
+"리륨은 이 활의 휘어짐을 우아하게 보강하여 정확한 조준과 신속한 죽음을 약속합니다. 수백 건의 사살 기록을 남기기 위해 누군가가 활의 "
+"날개에 작은 표시를 남겨놓았습니다."
 
 #. FILE: da3_dlc_red\Equipment\Items\Weapons\Rogue\Daggers\equip_DLC_Red_dlcred_dagger_t4_unique.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -25238,9 +25240,11 @@ msgstr ""
 #. FILE: da3_dlc_red\Equipment\Items\Weapons\Rogue\Daggers\equip_DLC_Red_dlcred_dagger_t4_unique.xml
 #. PATH: EquipItemAsset/Description
 #: da3_dlc_red\Equipment\Items\Weapons\Rogue\Daggers\equip_DLC_Red_dlcred_dagger_t4_unique.xml:11
+#, fuzzy
 msgctxt "0x0004aa20"
 msgid "This blade makes almost no sound, whether slicing through air or flesh. Even when it strikes stone or armor, the clang of the metal is muffled."
 msgstr ""
+"이 칼날이 가르는 게 살점이든 공기든 간에 소리가 거의 안 납니다. 심지어 돌이나 갑옷을 쳤을 때 나는 금속성의 쨍그랑 소리도 덮여버리죠."
 
 #. FILE: da3_dlc_red\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_DLC_Red_dlcred_maul_t4_unique.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -25252,9 +25256,12 @@ msgstr ""
 #. FILE: da3_dlc_red\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_DLC_Red_dlcred_maul_t4_unique.xml
 #. PATH: EquipItemAsset/Description
 #: da3_dlc_red\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_DLC_Red_dlcred_maul_t4_unique.xml:11
+#, fuzzy
 msgctxt "0x0004aa1b"
 msgid "The head of this great hammer is scarred and pitted where the metal has repeatedly met stone. Some previous owner may have used it to batter down a wall… or several… and possibly a magma fountain."
 msgstr ""
+"반복적으로 돌과 부딪혔던 거대한 망치의 머리 부분은 흠집투성이에 움푹 패어 있다. 몇몇 전 소유자들이 벽이나... 아니면 몇몇... "
+"그리고 어쩌면 용암 온천을 후려갈겼을지도 모른다."
 
 #. FILE: da3_dlc_red\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_DLC_Red_dlcred_shield_t4_unique.xml
 #. PATH: EquipItemAsset/DisplayName
