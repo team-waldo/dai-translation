@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-17 16:00+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2021-02-19 03:00+0000\n"
+"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/codex/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -315,9 +315,10 @@ msgstr "지혜의 영혼"
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_arcane_horror.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_arcane_horror.xml:13
+#, fuzzy
 msgctxt "0x00041a7a"
 msgid "Arcane Horror"
-msgstr ""
+msgstr "불가해한 두려움"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_archer.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -372,6 +373,7 @@ msgstr "브론토"
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_bruiser.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_bruiser.xml:13
+#, fuzzy
 msgctxt "0x00041b50"
 msgid "Bruiser"
 msgstr "떡대"
@@ -421,10 +423,9 @@ msgstr "드래곤"
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_dragonling.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_dragonling.xml:13
-#, fuzzy
 msgctxt "0x00041b43"
 msgid "Dragonling"
-msgstr "드래곤링"
+msgstr "새끼용"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_dreamer.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -732,7 +733,7 @@ msgstr "아바르족"
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_benhass_re_educators.xml:30
 msgctxt "0x0004185c"
 msgid "Ben-Hassrath Reeducators"
-msgstr "벤-하스라트 재교육 담당자"
+msgstr "벤하스라스 재교육자"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_carta.xml
 #. PATH: CodexEntry/TitleReference
@@ -774,7 +775,7 @@ msgstr "데일스 엘프족"
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_friends_of_red_jenny.xml:13
 msgctxt "0x00042ac8"
 msgid "The Friends of Red Jenny"
-msgstr "붉은 암탕나귀 친구들"
+msgstr "레드 제니의 친구들"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_grey_wardens.xml
 #. PATH: CodexEntry/TitleReference
@@ -823,7 +824,7 @@ msgstr "쿠나리 드레드노트"
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_qunari_tamassrans.xml:30
 msgctxt "0x00041852"
 msgid "Qunari Tamassrans"
-msgstr "쿠나리 타마스란지파"
+msgstr "쿠나리 타마스란"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_red_templars.xml
 #. PATH: CodexEntry/TitleReference
@@ -851,14 +852,14 @@ msgstr ""
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_tal_vashoth.xml:30
 msgctxt "0x00041862"
 msgid "Tal-Vashoth"
-msgstr "탈-바쇼스"
+msgstr "탈바쇼스"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_templars_now.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_templars_now.xml:30
 msgctxt "0x00041514"
 msgid "The Templar Order: End of an Accord"
-msgstr ""
+msgstr "성기사단: 합의의 종결"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_templars_then.xml
 #. PATH: CodexEntry/TitleReference
@@ -893,7 +894,7 @@ msgstr "베나토리"
 #: DA3\DesignContent\Codex\Lore\Groups\cod_groups_ben_hassrath.xml:30
 msgctxt "0x0004186a"
 msgid "Qunari: Ben-Hassrath"
-msgstr "쿠나리: 벤-하스라쓰"
+msgstr "쿠나리: 벤하스라스"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_groups_imperial_chantry.xml
 #. PATH: CodexEntry/TitleReference
@@ -935,14 +936,14 @@ msgstr "안드라스테: 창조주의 아내"
 #: DA3\DesignContent\Codex\Lore\History\cod_chant_mythal.xml:30
 msgctxt "0x00041a54"
 msgid "What Pride Had Wrought"
-msgstr ""
+msgstr "오만이 자초한 것"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_chant_seeker_fortress.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_chant_seeker_fortress.xml:30
 msgctxt "0x00041a51"
 msgid "Champions of the Just"
-msgstr "정의의 투사"
+msgstr "의인의 용사들"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_conclave.xml
 #. PATH: CodexEntry/TitleReference
@@ -984,14 +985,14 @@ msgstr "데일스: 잃어버린 약속"
 #: DA3\DesignContent\Codex\Lore\History\cod_dalish_dirthamen.xml:30
 msgctxt "0x00040e32"
 msgid "Dirthamen: Keeper of Secrets"
-msgstr "더타멘: 비밀의 수호자"
+msgstr "덜사멘: 비밀의 수호자"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_dalish_elgarnan.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_dalish_elgarnan.xml:30
 msgctxt "0x00040e36"
 msgid "Elgar'nan: The All-Father"
-msgstr "엘가르난: 최고신"
+msgstr "엘가난: 최고신"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_dalish_falondin.xml
 #. PATH: CodexEntry/TitleReference
@@ -1026,7 +1027,7 @@ msgstr "주네: 공예의 신"
 #: DA3\DesignContent\Codex\Lore\History\cod_dalish_mythal.xml:30
 msgctxt "0x00041809"
 msgid "Mythal: The Great Protector"
-msgstr "미쌀: 위대한 수호자"
+msgstr "미살: 위대한 수호자"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_dalish_sylaise.xml
 #. PATH: CodexEntry/TitleReference
@@ -1369,7 +1370,7 @@ msgstr "비타르"
 #: DA3\DesignContent\Codex\Lore\Magic\cod_magic_veilfire.xml:30
 msgctxt "0x00042ff2"
 msgid "The Lost Art of Veilfire"
-msgstr "잊혀진 장막 불꽃의 예술"
+msgstr "잊힌 장막불꽃의 기예"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Magic\cod_tranquil.xml
 #. PATH: CodexEntry/TitleReference
@@ -1551,7 +1552,7 @@ msgstr "칼바람 황무지"
 #: DA3\DesignContent\Codex\Lore\Places\cod_place_kirkwall.xml:13
 msgctxt "0x00041f55"
 msgid "The City-State of Kirkwall"
-msgstr "커크웰의 도시국가"
+msgstr "도시국가 커크월"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Places\cod_place_nevarra.xml
 #. PATH: CodexEntry/TitleReference
@@ -1572,7 +1573,7 @@ msgstr "금단의 오아시스"
 #: DA3\DesignContent\Codex\Lore\Places\cod_place_orlais.xml:30
 msgctxt "0x000417eb"
 msgid "The Orlesian Empire"
-msgstr "올레이제국"
+msgstr "올레이 제국"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Places\cod_place_redcliffe.xml
 #. PATH: CodexEntry/TitleReference
@@ -1605,10 +1606,9 @@ msgstr "세헤론"
 #. FILE: DA3\DesignContent\Codex\Lore\Places\cod_place_serault_glassworks.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Places\cod_place_serault_glassworks.xml:13
-#, fuzzy
 msgctxt "0x000431a1"
 msgid "The Marquisate of Serault Glassworks"
-msgstr "쇠라웃 글라스웍 후작"
+msgstr "세로 후작령의 유리공예술"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Places\cod_place_skyhold.xml
 #. PATH: CodexEntry/TitleReference
@@ -1643,7 +1643,7 @@ msgstr "재발견된 성스러운 재의 성전"
 #: DA3\DesignContent\Codex\Lore\Places\cod_place_temple_of_mythal.xml:30
 msgctxt "0x00041924"
 msgid "The Temple of Mythal"
-msgstr "미쌀의 신전"
+msgstr "미살의 신전"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Places\cod_place_tevinter.xml
 #. PATH: CodexEntry/TitleReference
@@ -1657,7 +1657,7 @@ msgstr "테빈터 제국"
 #: DA3\DesignContent\Codex\Lore\Places\cod_place_therinfal.xml:13
 msgctxt "0x00041916"
 msgid "Therinfal Redoubt"
-msgstr "세린팔 보루"
+msgstr "테린팔 보루"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Places\cod_place_val_royeaux_01.xml
 #. PATH: CodexEntry/TitleReference
@@ -2059,7 +2059,7 @@ msgstr "하드 인 하이타운: 제 9장"
 #: DA3\DesignContent\Codex\Lore\Tales\cod_tale_mostholy_1.xml:30
 msgctxt "0x00041b67"
 msgid "Her Perfumed Sanctuary"
-msgstr "그녀의 향기나는 성지"
+msgstr "그분의 향기나는 성지"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Tales\cod_tale_mostholy_2.xml
 #. PATH: CodexEntry/TitleReference
@@ -2241,7 +2241,7 @@ msgstr "팔런딘에게 바치는 노래"
 #: DA3\DesignContent\Codex\Lore\Tales\myt_elvengods_FenHarel.xml:30
 msgctxt "0x000403fd"
 msgid "The Rebel God"
-msgstr ""
+msgstr "반역의 신"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Tales\myt_elvengods_Ghilannain.xml
 #. PATH: CodexEntry/TitleReference
@@ -2262,14 +2262,14 @@ msgstr "주네의 신비"
 #: DA3\DesignContent\Codex\Lore\Tales\myt_elvengods_Mythal.xml:30
 msgctxt "0x00040404"
 msgid "The Judgment of Mythal"
-msgstr "미쌀의 심판"
+msgstr "미살의 심판"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Tales\myt_elvengods_Sylaise.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Tales\myt_elvengods_Sylaise.xml:30
 msgctxt "0x00040406"
 msgid "Song to Sylaise"
-msgstr "실라이스에게 바치는 노래"
+msgstr "사일레이스에게 바치는 노래"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Adamant\ada_cod_fad_floating_rocks.xml
 #. PATH: CodexEntry/TitleReference
@@ -2332,7 +2332,7 @@ msgstr "떨리는 손길로 적힌 편지"
 #: DA3\DesignContent\Codex\Plot\Adamant\ada_pop_fad_candle_letter.xml:13
 msgctxt "0x000429a0"
 msgid "A Note Left by a Burning Candle"
-msgstr ""
+msgstr "켜진 촛불 곁에 놓인 기록"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Adamant\ada_pop_fad_claws_dumat.xml
 #. PATH: CodexEntry/TitleReference
@@ -2374,14 +2374,14 @@ msgstr "이름 없는 편지"
 #: DA3\DesignContent\Codex\Plot\Adamant\ada_pop_for_stone_text.xml:13
 msgctxt "0x0004297c"
 msgid "Inscription Upon a Trebuchet Stone"
-msgstr "트레뷰셋 돌에 적힌 글"
+msgstr "투석기 탄환에 적힌 글귀"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Adamant\ada_pop_western_approach_letter.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Adamant\ada_pop_western_approach_letter.xml:13
 msgctxt "0x00042974"
 msgid "A Letter Found on a Grey Warden Mage"
-msgstr ""
+msgstr "회색 감시자 마법사에게서 발견된 편지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Adamant\cod_crid_fade_puzzle1.xml
 #. PATH: CodexEntry/TitleReference
@@ -2416,14 +2416,14 @@ msgstr "양초 옆 편지"
 #: DA3\DesignContent\Codex\Plot\Adamant\cod_crit_fade_redlyrium.xml:13
 msgctxt "0x00041a28"
 msgid "Whispers Written in Red Lyrium"
-msgstr "붉은 리륨으로 쓰여진 속삭임"
+msgstr "붉은 리륨으로 쓰인 속삭임"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Adamant\cod_crit_fade_tevinter_ruins.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Adamant\cod_crit_fade_tevinter_ruins.xml:13
 msgctxt "0x000418b9"
 msgid "Memories Etched in Stone and Blood"
-msgstr ""
+msgstr "피와 돌에 새겨진 기억"
 
 #. FILE: DA3\DesignContent\Codex\Plot\BlackEmporium\dlc_cod_tbe_sign_xenonsleeps.xml
 #. PATH: CodexEntry/TitleReference
@@ -2444,14 +2444,14 @@ msgstr "진부한 엘프식 글감"
 #: DA3\DesignContent\Codex\Plot\CradleSulevin\the_RrevenentChurch_RitualPrayers.xml:30
 msgctxt "0x0002e41a"
 msgid "Vir Tanadhal: The Way of Three Trees"
-msgstr ""
+msgstr "비어 타나달: 세 나무의 길"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Crestwood\cre_codex_boat_dock.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Crestwood\cre_codex_boat_dock.xml:13
 msgctxt "0x0003c7fc"
 msgid "A Soggy Note Pinned to the Dock"
-msgstr ""
+msgstr "부두에 고정된 축축한 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Crestwood\cre_codex_butcher.xml
 #. PATH: CodexEntry/TitleReference
@@ -2556,7 +2556,7 @@ msgstr "숨겨진 동굴"
 #: DA3\DesignContent\Codex\Plot\Crestwood\fer010_landmark_b.xml:13
 msgctxt "0x0003ffe9"
 msgid "Fereldan Wyvern Statues"
-msgstr "페렐던 와이번 동상"
+msgstr "페렐던 위번 동상"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Crestwood\fer010_landmark_c.xml
 #. PATH: CodexEntry/TitleReference
@@ -2577,7 +2577,7 @@ msgstr "이장의 옛 자택"
 #: DA3\DesignContent\Codex\Plot\Crestwood\fer010_landmark_e.xml:13
 msgctxt "0x0003ffef"
 msgid "Lawspeaker's Assembly"
-msgstr ""
+msgstr "규율지기의 집회소"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Crestwood\fer010_landmark_f.xml
 #. PATH: CodexEntry/TitleReference
@@ -2647,7 +2647,7 @@ msgstr "찢어진 일기장"
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\ChateaudOnterre\td_main_chateau_artifact.xml:13
 msgctxt "0x0003277a"
 msgid "A Reminder"
-msgstr ""
+msgstr "비망록"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\ChateaudOnterre\td_main_chateau_book_01.xml
 #. PATH: CodexEntry/TitleReference
@@ -2675,14 +2675,14 @@ msgstr "비밀 읽기"
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\ChateaudOnterre\td_main_chateau_familydiary.xml:13
 msgctxt "0x00017194"
 msgid "Lord D'Onterre's Journal"
-msgstr ""
+msgstr "동테르 경의 일지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\ChateaudOnterre\td_main_chateau_guestroom_letter.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\ChateaudOnterre\td_main_chateau_guestroom_letter.xml:30
 msgctxt "0x00017188"
 msgid "An Apology"
-msgstr ""
+msgstr "사과문"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\ChateaudOnterre\td_main_chateau_servants.xml
 #. PATH: CodexEntry/TitleReference
@@ -2696,7 +2696,7 @@ msgstr "주방장의 일기"
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\ChateaudOnterre\td_main_chateau_skeleton.xml:13
 msgctxt "0x00042a3c"
 msgid "Lord d'Onterre's Beast"
-msgstr ""
+msgstr "동테르 경의 야수"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\ChateaudOnterre\td_main_chateau_superstitions_codex.xml
 #. PATH: CodexEntry/TitleReference
@@ -2717,14 +2717,14 @@ msgstr "말리펀트에게 보내는 편지"
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\DesertersVilla\td_deserters_FamilyDiaries.xml:13
 msgctxt "0x0002d272"
 msgid "Lady Maurel's Diary"
-msgstr "마우렐 부인의 일지"
+msgstr "모렐 부인의 일지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\DesertersVilla\td_deserters_FamilyDiaries_2.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\DesertersVilla\td_deserters_FamilyDiaries_2.xml:13
 msgctxt "0x0004223e"
 msgid "Pages from Lord Maurel's Journal"
-msgstr ""
+msgstr "모렐 경의 일지 중 일부"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\DesertersVilla\td_deserters_Maliphant.xml
 #. PATH: CodexEntry/TitleReference
@@ -2766,7 +2766,7 @@ msgstr "에메랄드 기사단"
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\KnightsTomb\elf_ruins_chantry_turnin.xml:13
 msgctxt "0x000425b1"
 msgid "Academic Notes"
-msgstr ""
+msgstr "학술 기록"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\KnightsTomb\elf_ruins_red_crossing.xml
 #. PATH: CodexEntry/TitleReference
@@ -2780,7 +2780,7 @@ msgstr "엘란드린의 죽음"
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\KnightsTomb\elf_ruins_veilfire_codex.xml:13
 msgctxt "0x00043e3a"
 msgid "Epitaphs for the Lost"
-msgstr ""
+msgstr "망자를 위한 비문"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\Landmarks\cod_lor_dal_fst_andrasteslight.xml
 #. PATH: CodexEntry/TitleReference
@@ -2885,7 +2885,7 @@ msgstr "늑대 폭포"
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_for_19_mysterious_tree.xml:13
 msgctxt "0x000416d6"
 msgid "Scrawled Note"
-msgstr ""
+msgstr "갈겨 쓴 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_for_20_miners_falls_down.xml
 #. PATH: CodexEntry/TitleReference
@@ -2913,7 +2913,7 @@ msgstr "찢어진 페이지"
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_for_23_lumber_camp_2.xml:13
 msgctxt "0x000416e1"
 msgid "Scrap of Paper"
-msgstr ""
+msgstr "종이 조각"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_for_24_apostate_study.xml
 #. PATH: CodexEntry/TitleReference
@@ -2927,14 +2927,14 @@ msgstr "스케치북"
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_for_25_dalish_raided_camp.xml:13
 msgctxt "0x000416e4"
 msgid "Blood-Splattered Notes"
-msgstr ""
+msgstr "피가 튄 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_fst_lq06_ashes.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_fst_lq06_ashes.xml:13
 msgctxt "0x00038242"
 msgid "A Widow's Woe"
-msgstr ""
+msgstr "과부의 비애"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_fst_lq07_lovers_meeting.xml
 #. PATH: CodexEntry/TitleReference
@@ -2948,7 +2948,7 @@ msgstr "연인의 약속"
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_fst_wild_august_orders.xml:13
 msgctxt "0x00037a12"
 msgid "Ser Auguste's Messages"
-msgstr ""
+msgstr "오거스트 경의 전언"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_fst_wild_brigand_noble_01.xml
 #. PATH: CodexEntry/TitleReference
@@ -2962,14 +2962,14 @@ msgstr "클라라의 일지"
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_fst_wild_brigand_noble_02.xml:13
 msgctxt "0x000422a9"
 msgid "Orlais: Heraldry and Symbolism"
-msgstr ""
+msgstr "올레이: 문장과 상징"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_fst_wild_brigand_noble_03.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_fst_wild_brigand_noble_03.xml:13
 msgctxt "0x000422ba"
 msgid "A Midwife's Journal"
-msgstr ""
+msgstr "산파의 일지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_fst_wild_brigand_noble_04.xml
 #. PATH: CodexEntry/TitleReference
@@ -3004,14 +3004,14 @@ msgstr "코스투 수녀로부터"
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_fst_wild_duhaime_orders.xml:13
 msgctxt "0x00037a0e"
 msgid "Duhaime's Notes"
-msgstr ""
+msgstr "듀하임의 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_fst_wild_freemen_reaction_orders.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_fst_wild_freemen_reaction_orders.xml:13
 msgctxt "0x00041677"
 msgid "Scribbled Notes"
-msgstr ""
+msgstr "갈겨 쓴 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_fst_wild_lq08_good_intentions.xml
 #. PATH: CodexEntry/TitleReference
@@ -3053,7 +3053,7 @@ msgstr "잔인한 즐거움"
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_fst_wild_redtemplar_orders.xml:13
 msgctxt "0x00037a0d"
 msgid "Orders from Suledin Keep"
-msgstr ""
+msgstr "술레딘 요새에서 떨어진 명령"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_fst_wild_redtemplar_patrol_orders.xml
 #. PATH: CodexEntry/TitleReference
@@ -3074,7 +3074,7 @@ msgstr "주디카엘의 건널목"
 #: DA3\DesignContent\Codex\Plot\EmpriseduLion\Landmarks\cod_lor_dal_hld_aqueductwaterfall.xml:13
 msgctxt "0x00040014"
 msgid "Crystal Cascade, Frozen"
-msgstr ""
+msgstr "얼어붙은 수정 폭포"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmpriseduLion\Landmarks\cod_lor_dal_hld_barrelcarryingmanstatue.xml
 #. PATH: CodexEntry/TitleReference
@@ -3144,7 +3144,7 @@ msgstr "사르니아 채석장"
 #: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_26_top_of_tower.xml:13
 msgctxt "0x000416e6"
 msgid "Barely Intelligible Scrawl"
-msgstr ""
+msgstr "거의 알아볼 수 없는 낙서"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_27_fancy_lady_hot_spring.xml
 #. PATH: CodexEntry/TitleReference
@@ -3165,14 +3165,14 @@ msgstr "펼쳐진 일지"
 #: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_29_secluded_ridge.xml:13
 msgctxt "0x000416ec"
 msgid "Pocket Diary"
-msgstr ""
+msgstr "휴대용 일기장"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_30trapped_by_fade_tear_canibalised_one_of_the_people_stuck.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_30trapped_by_fade_tear_canibalised_one_of_the_people_stuck.xml:13
 msgctxt "0x000416ef"
 msgid "Folded Note"
-msgstr ""
+msgstr "접은 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_31_shame_we_dont_have_birds_nests.xml
 #. PATH: CodexEntry/TitleReference
@@ -3193,7 +3193,7 @@ msgstr "경고"
 #: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_33_in_the_arch.xml:13
 msgctxt "0x000416fd"
 msgid "Daily Observations"
-msgstr ""
+msgstr "일일 관찰 기록"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_elf_camp_op_hint.xml
 #. PATH: CodexEntry/TitleReference
@@ -3207,21 +3207,21 @@ msgstr "죽은 엘프 근처에서 발견된 일지"
 #: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_found_micheldead.xml:13
 msgctxt "0x00042db1"
 msgid "A Friendly Reminder"
-msgstr ""
+msgstr "친절한 알림"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_poulin_evidence.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_poulin_evidence.xml:13
 msgctxt "0x00042a25"
 msgid "Knight-Captain's Orders"
-msgstr ""
+msgstr "기사대장의 명령"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_wild_greywarden_01.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_wild_greywarden_01.xml:13
 msgctxt "0x000373ac"
 msgid "Grey Warden Diaries"
-msgstr ""
+msgstr "회색 감시자의 기록"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_wild_lq09_hunterjournal_01.xml
 #. PATH: CodexEntry/TitleReference
@@ -3263,7 +3263,7 @@ msgstr "술레딘 성채의 서류"
 #: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_wild_redtemplar_experiment_01.xml:13
 msgctxt "0x000373b1"
 msgid "Test Notes"
-msgstr ""
+msgstr "실험 기록"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_wild_village_01.xml
 #. PATH: CodexEntry/TitleReference
@@ -3298,28 +3298,28 @@ msgstr "휘갈겨 쓴 쪽지"
 #: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_wild_village_05.xml:13
 msgctxt "0x00037380"
 msgid "Written Confession"
-msgstr ""
+msgstr "자백서"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_wild_village_06.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_wild_village_06.xml:13
 msgctxt "0x00037381"
 msgid "Child's Diary"
-msgstr ""
+msgstr "어린아이의 일기"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_wild_village_07.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_hld_wild_village_07.xml:13
 msgctxt "0x00037383"
 msgid "Leather-bound Notebook"
-msgstr ""
+msgstr "가죽끈으로 엮은 공책"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_wild_redtemplar_orders_01.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_wild_redtemplar_orders_01.xml:13
 msgctxt "0x000372f1"
 msgid "Work Orders"
-msgstr ""
+msgstr "업무 지시서"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmpriseduLion\dal_wild_warden_joining.xml
 #. PATH: CodexEntry/TitleReference
@@ -3333,7 +3333,7 @@ msgstr "죽음에서"
 #: DA3\DesignContent\Codex\Plot\ExaltedPlains\Landmarks\cod_lor_dal_pln_bridgwithswordswomen.xml:13
 msgctxt "0x00039055"
 msgid "Pont Agur"
-msgstr ""
+msgstr "아규흐 다리"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ExaltedPlains\Landmarks\cod_lor_dal_pln_brokenhand.xml
 #. PATH: CodexEntry/TitleReference
@@ -3403,14 +3403,14 @@ msgstr "안드루일의 전령"
 #: DA3\DesignContent\Codex\Plot\ExaltedPlains\Landmarks\cod_lor_dal_pln_riversidegarrison.xml:13
 msgctxt "0x00039069"
 msgid "Riverside Garrison"
-msgstr "개리슨 강변"
+msgstr "강변의 주둔지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ExaltedPlains\Landmarks\cod_lor_dal_pln_warmemorial.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\ExaltedPlains\Landmarks\cod_lor_dal_pln_warmemorial.xml:13
 msgctxt "0x0003906b"
 msgid "Memorials of the Second Exalted March"
-msgstr ""
+msgstr "제 2차 숭고한 거병 기념비"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ExaltedPlains\Landmarks\cor_lor_dal_pln_brokendog.xml
 #. PATH: CodexEntry/TitleReference
@@ -3473,14 +3473,14 @@ msgstr "찢어진 전표"
 #: DA3\DesignContent\Codex\Plot\ExaltedPlains\dal_pln_06_list_of_crimes.xml:13
 msgctxt "0x000416b4"
 msgid "Gallows Records"
-msgstr ""
+msgstr "교수형 집행기록"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ExaltedPlains\dal_pln_07_failed_to_sail.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\ExaltedPlains\dal_pln_07_failed_to_sail.xml:13
 msgctxt "0x000416b7"
 msgid "Damp Note"
-msgstr ""
+msgstr "눅눅한 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ExaltedPlains\dal_pln_08_hidden_herb_lady.xml
 #. PATH: CodexEntry/TitleReference
@@ -3508,7 +3508,7 @@ msgstr "찢어진 종이조각"
 #: DA3\DesignContent\Codex\Plot\ExaltedPlains\dal_pln_11_calm_spot_in_the_fens.xml:13
 msgctxt "0x000416c3"
 msgid "Scattered Notes"
-msgstr ""
+msgstr "흩어진 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ExaltedPlains\dal_pln_12_war_camp_in_house.xml
 #. PATH: CodexEntry/TitleReference
@@ -3620,7 +3620,7 @@ msgstr "하녀를 위한 지침"
 #: DA3\DesignContent\Codex\Plot\ExaltedPlains\dal_pln_wild_dalish_supplies.xml:13
 msgctxt "0x000415b2"
 msgid "Nissa's Ledger"
-msgstr ""
+msgstr "니사의 장부"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ExaltedPlains\dal_pln_wild_freemen.xml
 #. PATH: CodexEntry/TitleReference
@@ -3809,14 +3809,14 @@ msgstr "공식적인 듯한 편지"
 #: DA3\DesignContent\Codex\Plot\Global\Followers\Leliana\lel_mainplot_dorothea_contingencynote.xml:13
 msgctxt "0x0001cd06"
 msgid "Dorothea's Contingency"
-msgstr ""
+msgstr "도로테아의 선견지명"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Global\Followers\Sera\sra_recruitment_arrow_note_1.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Global\Followers\Sera\sra_recruitment_arrow_note_1.xml:30
 msgctxt "0x00023592"
 msgid "Favors for Favors for Friends"
-msgstr "친구를 위한 호의를 위한 호의"
+msgstr "친구에겐 호의에는 호의로"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Global\Followers\Vivienne\odt_formula.xml
 #. PATH: CodexEntry/TitleReference
@@ -3844,21 +3844,21 @@ msgstr "저택 안뜰의 스케치"
 #: DA3\DesignContent\Codex\Plot\Global\TreasureMaps\cod_160_TreasureMap_2.xml:30
 msgctxt "0x0002b8ba"
 msgid "Sketch I of Chateau d'Onterre Interior"
-msgstr "돈테레 저택 내부 스케치 I"
+msgstr "동테르 저택 내부 스케치 I"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Global\TreasureMaps\cod_160_TreasureMap_3.xml
 #. PATH: CodexPuzzle/TitleReference
 #: DA3\DesignContent\Codex\Plot\Global\TreasureMaps\cod_160_TreasureMap_3.xml:30
 msgctxt "0x0002b8be"
 msgid "Sketch II of Chateau d'Onterre Interior"
-msgstr "돈테레 저택 내부 스케치 II"
+msgstr "동테르 저택 내부 스케치 II"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Global\TreasureMaps\cod_160_TreasureMap_4.xml
 #. PATH: CodexPuzzle/TitleReference
 #: DA3\DesignContent\Codex\Plot\Global\TreasureMaps\cod_160_TreasureMap_4.xml:30
 msgctxt "0x0002b8de"
 msgid "Sketch III of Chateau d'Onterre Interior"
-msgstr "돈테레 저택 내부 스케치 III"
+msgstr "동테르 저택 내부 스케치 III"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Global\TreasureMaps\cod_DesertRuins_TreasureMap_Canyon.xml
 #. PATH: CodexPuzzle/TitleReference
@@ -3935,21 +3935,21 @@ msgstr "감시자의 길 지도"
 #: DA3\DesignContent\Codex\Plot\Global\TreasureMaps\cod_TheDales_Main_TreasureMap_02.xml:13
 msgctxt "0x0003225a"
 msgid "Map of Elgar'nan's Bastion"
-msgstr "엘가르난의 요새 지도"
+msgstr "엘가난의 요새 지도"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Global\TreasureMaps\cod_TheDales_Main_TreasureMap_03.xml
 #. PATH: CodexPuzzle/TitleReference
 #: DA3\DesignContent\Codex\Plot\Global\TreasureMaps\cod_TheDales_Main_TreasureMap_03.xml:13
 msgctxt "0x0003228d"
 msgid "Map of Enavuris"
-msgstr "에바누리의 지도"
+msgstr "에나뷰리스의 지도"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Global\TreasureMaps\cod_TheDales_Main_TreasureMap_04.xml
 #. PATH: CodexPuzzle/TitleReference
 #: DA3\DesignContent\Codex\Plot\Global\TreasureMaps\cod_TheDales_Main_TreasureMap_04.xml:13
 msgctxt "0x0003228e"
 msgid "Sketch of Enavuris River"
-msgstr "에바누리 강의 스케치"
+msgstr "에나뷰리스 강의 스케치"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Global\TreasureMaps\cod_TheDales_Main_TreasureMap_05.xml
 #. PATH: CodexPuzzle/TitleReference
@@ -3977,14 +3977,14 @@ msgstr "공의회"
 #: DA3\DesignContent\Codex\Plot\Halamshiral\cod_hal_art.xml:13
 msgctxt "0x000170b8"
 msgid "The Art of the Winter Palace"
-msgstr ""
+msgstr "겨울 궁전의 예술품"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Halamshiral\cod_hal_halla_statuettes.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Halamshiral\cod_hal_halla_statuettes.xml:30
 msgctxt "0x0003f9aa"
 msgid "Superstitions of the Royal Family"
-msgstr ""
+msgstr "황실의 미신"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Halamshiral\cod_hal_investigation.xml
 #. PATH: CodexEntry/TitleReference
@@ -4005,7 +4005,7 @@ msgstr "할람시랄 조사: 단서"
 #: DA3\DesignContent\Codex\Plot\Halamshiral\cod_hal_library_puzzle_hints.xml:13
 msgctxt "0x00042a50"
 msgid "The Valmont Emperors"
-msgstr "발몬트 황제"
+msgstr "발몽 황가"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Halamshiral\cod_hal_servant_diary.xml
 #. PATH: CodexEntry/TitleReference
@@ -4068,7 +4068,7 @@ msgstr "불에 탄 책"
 #: DA3\DesignContent\Codex\Plot\Haven\hav_cod_candles.xml:13
 msgctxt "0x000429bf"
 msgid "A Chant for the Departed"
-msgstr ""
+msgstr "망자를 위한 송가"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Haven\hav_cod_deadmagesonpath.xml
 #. PATH: CodexEntry/TitleReference
@@ -4110,35 +4110,35 @@ msgstr "색다른 어둠의 피조물?"
 #: DA3\DesignContent\Codex\Plot\Hinterlands\DeepRoads\the_DeepRoads_CartaJournal.xml:13
 msgctxt "0x0002bd3e"
 msgid "Carta Note on Security"
-msgstr ""
+msgstr "카르타 보안 메모"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Hinterlands\DeepRoads\the_DeepRoads_Carta_2.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Hinterlands\DeepRoads\the_DeepRoads_Carta_2.xml:13
 msgctxt "0x00042479"
 msgid "Defaced Carta Notice"
-msgstr ""
+msgstr "훼손된 카르타 공고문"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Hinterlands\DeepRoads\the_DeepRoads_Carta_3.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Hinterlands\DeepRoads\the_DeepRoads_Carta_3.xml:13
 msgctxt "0x0004247c"
 msgid "Personal Note Scrawled in a Ledger"
-msgstr ""
+msgstr "장부에 휘갈긴 사적인 메모"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Hinterlands\DeepRoads\the_DeepRoads_Carta_4.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Hinterlands\DeepRoads\the_DeepRoads_Carta_4.xml:13
 msgctxt "0x0004247e"
 msgid "Report on Activity in the Hinterlands"
-msgstr ""
+msgstr "내륙지대 동향 보고서"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Hinterlands\DeepRoads\the_DeepRoads_Carta_5.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Hinterlands\DeepRoads\the_DeepRoads_Carta_5.xml:13
 msgctxt "0x00042480"
 msgid "Orders for Lake Operations"
-msgstr ""
+msgstr "호수 작전 명령서"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Hinterlands\DeepRoads\the_DeepRoads_Orders.xml
 #. PATH: CodexEntry/TitleReference
@@ -4173,7 +4173,7 @@ msgstr "레드클리프 교차로에서 발견된 치료사의 일지"
 #: DA3\DesignContent\Codex\Plot\Hinterlands\cod_cross_hunter_journal.xml:30
 msgctxt "0x00042fcc"
 msgid "Hunter's View of the Mage-Templar War"
-msgstr ""
+msgstr "마법사-기사단 전쟁에 대한 사냥꾼의 견해"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Hinterlands\cod_his_avvar_saga.xml
 #. PATH: CodexEntry/TitleReference
@@ -4241,7 +4241,6 @@ msgstr "도적의 시신에서 발견한 이름 없는 편지"
 #. FILE: DA3\DesignContent\Codex\Plot\Hinterlands\cod_pop_dragonling_lair.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Hinterlands\cod_pop_dragonling_lair.xml:30
-#, fuzzy
 msgctxt "0x00042300"
 msgid "Dragonling Nest"
 msgstr "새끼용 둥지"
@@ -4475,7 +4474,7 @@ msgstr "리륨에 대한 편지"
 #: DA3\DesignContent\Codex\Plot\Nemesis\Samson\let_nem_sam_quest2orders.xml:30
 msgctxt "0x000170fe"
 msgid "Letter of Confirmation"
-msgstr ""
+msgstr "확인서"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Nemesis\Samson\let_nem_sam_quest3armor.xml
 #. PATH: CodexEntry/TitleReference
@@ -4501,10 +4500,9 @@ msgstr "마모된 기둥"
 #. FILE: DA3\DesignContent\Codex\Plot\Oasis\Landmarks\the_oasis_landmark_03.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Oasis\Landmarks\the_oasis_landmark_03.xml:13
-#, fuzzy
 msgctxt "0x0003ac42"
 msgid "Intrinsic Pool"
-msgstr "본질의 웅덩이"
+msgstr "그 자체로 아름다운 샘"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Oasis\Landmarks\the_oasis_landmark_04.xml
 #. PATH: CodexEntry/TitleReference
@@ -4525,7 +4523,7 @@ msgstr "전쟁의 무게"
 #: DA3\DesignContent\Codex\Plot\Oasis\Landmarks\the_oasis_landmark_07.xml:13
 msgctxt "0x0003ac4f"
 msgid "The Marker"
-msgstr ""
+msgstr "표지석"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Oasis\Landmarks\the_oasis_landmark_08.xml
 #. PATH: CodexEntry/TitleReference
@@ -4553,14 +4551,14 @@ msgstr "수수께끼의 책"
 #: DA3\DesignContent\Codex\Plot\Oasis\the_oasis_pool_doors.xml:13
 msgctxt "0x00026c2a"
 msgid "Tracing from Temple Doors"
-msgstr ""
+msgstr "사원 관문 기록의 사본"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Oasis\the_oasis_shard_book_1.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Oasis\the_oasis_shard_book_1.xml:13
 msgctxt "0x00026c28"
 msgid "The Journal of Paulette Deschant"
-msgstr ""
+msgstr "폴레트 데샹의 일지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Oasis\the_oasis_shard_book_camp.xml
 #. PATH: CodexEntry/TitleReference
@@ -4588,14 +4586,14 @@ msgstr "시신에서 찾은 편지"
 #: DA3\DesignContent\Codex\Plot\Oasis\the_oasis_veilfire_1.xml:13
 msgctxt "0x0003bcb0"
 msgid "An Apostate's Message"
-msgstr ""
+msgstr "배교자의 전언"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Oasis\the_oasis_veilfire_2.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Oasis\the_oasis_veilfire_2.xml:13
 msgctxt "0x0003bcb1"
 msgid "Ancient Writing"
-msgstr ""
+msgstr "고대 글귀"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Redcliffe\let_red_alexius_felix_journal.xml
 #. PATH: CodexEntry/TitleReference
@@ -4609,14 +4607,14 @@ msgstr "대재앙에 관한 연구"
 #: DA3\DesignContent\Codex\Plot\Redcliffe\let_red_felix_warning.xml:30
 msgctxt "0x0002f97e"
 msgid "A Note from Felix"
-msgstr "펠릭스의 쪽지"
+msgstr "필릭스의 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Redcliffe\let_red_future_alexius_journal.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Redcliffe\let_red_future_alexius_journal.xml:30
 msgctxt "0x0003b824"
 msgid "Alexius's Journal"
-msgstr "알렉시우스의 일지"
+msgstr "알렉시어스의 일지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Redcliffe\let_red_future_guard_journal.xml
 #. PATH: CodexEntry/TitleReference
@@ -4630,21 +4628,21 @@ msgstr "경비병의 일지"
 #: DA3\DesignContent\Codex\Plot\Redcliffe\let_red_future_letter_from_calpernia.xml:30
 msgctxt "0x00018aaf"
 msgid "Letter from Calpernia to Alexius"
-msgstr "칼퍼니아가 알렉시우스에게 보내는 편지"
+msgstr "칼퍼니아가 알렉시어스에게 보내는 편지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Redcliffe\let_red_future_lieutenant_journal.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Redcliffe\let_red_future_lieutenant_journal.xml:30
 msgctxt "0x0003b827"
 msgid "Spellbinder's Journal"
-msgstr ""
+msgstr "주문결속사의 일지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Redcliffe\let_red_prayer_to_new_god.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Redcliffe\let_red_prayer_to_new_god.xml:30
 msgctxt "0x00018ab5"
 msgid "A Prayer to the New God"
-msgstr ""
+msgstr "새 신께 바치는 기도"
 
 #. FILE: DA3\DesignContent\Codex\Plot\SeekerFortress\cod_inner_keep_lord_seeker_sealed_orders.xml
 #. PATH: CodexEntry/TitleReference
@@ -4679,28 +4677,28 @@ msgstr "구겨진 쪽지"
 #: DA3\DesignContent\Codex\Plot\SeekerFortress\cod_see_great_hall_lyrium_manifest.xml:13
 msgctxt "0x00042543"
 msgid "Lyrium Manifest"
-msgstr ""
+msgstr "리륨 명세서"
 
 #. FILE: DA3\DesignContent\Codex\Plot\SeekerFortress\cod_see_great_hall_mage_dungeon.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\SeekerFortress\cod_see_great_hall_mage_dungeon.xml:13
 msgctxt "0x00042546"
 msgid "The Prisoners of Therinfal"
-msgstr "세린팔의 죄수들"
+msgstr "테린팔의 죄수들"
 
 #. FILE: DA3\DesignContent\Codex\Plot\SeekerFortress\cod_see_misc_NotesAndLetters.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\SeekerFortress\cod_see_misc_NotesAndLetters.xml:13
 msgctxt "0x00041d2c"
 msgid "Notes and Letters from Therinfal"
-msgstr ""
+msgstr "테린팔에서 얻은 쪽지와 편지들"
 
 #. FILE: DA3\DesignContent\Codex\Plot\SeekerFortress\cod_see_nightmare_collection.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\SeekerFortress\cod_see_nightmare_collection.xml:13
 msgctxt "0x00032462"
 msgid "Envy's Dogma"
-msgstr ""
+msgstr "질투의 신조"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_bardsong_empress.xml
 #. PATH: CodexEntry/TitleReference
@@ -4777,14 +4775,14 @@ msgstr "\"오, 회색 감시자여\""
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_andraste.xml:13
 msgctxt "0x00042e82"
 msgid "Proper Andraste x 2"
-msgstr ""
+msgstr "단아한 안드라스테 조각상 x 2"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_broadsheet.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_broadsheet.xml:13
 msgctxt "0x00042d00"
 msgid "News from Thedas"
-msgstr ""
+msgstr "테다스 소식"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_chantry_statue_dedication.xml
 #. PATH: CodexEntry/TitleReference
@@ -4798,42 +4796,42 @@ msgstr "창조주의 신부"
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_construction_notes.xml:13
 msgctxt "0x00042a2b"
 msgid "Construction Report: Scaffolding"
-msgstr ""
+msgstr "건축 보고서: 처형대"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_construction_notes_02.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_construction_notes_02.xml:13
 msgctxt "0x00042f5d"
 msgid "Construction Report: Surfacing"
-msgstr ""
+msgstr "건축 보고서: 마감재"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_construction_notes_03.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_construction_notes_03.xml:13
 msgctxt "0x00042f5f"
 msgid "Construction Report: Mixed Elements"
-msgstr ""
+msgstr "건축 보고서: 혼합된 양식"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_construction_notes_04.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_construction_notes_04.xml:13
 msgctxt "0x00042f61"
 msgid "Construction Report: Brickmarks"
-msgstr ""
+msgstr "건축 보고서: 벽돌에 남은 흔적"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_construction_notes_05.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_construction_notes_05.xml:13
 msgctxt "0x00042f62"
 msgid "Construction Report: Death on the Wall"
-msgstr ""
+msgstr "건축 보고서: 장벽 추락 사고"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_construction_notes_06.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_construction_notes_06.xml:13
 msgctxt "0x00042f65"
 msgid "Construction Report: Request to Fight"
-msgstr ""
+msgstr "건축 보고서: 전투 참여 요청"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_dear_john.xml
 #. PATH: CodexEntry/TitleReference
@@ -4875,7 +4873,7 @@ msgstr "마바리 기둥들"
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_hall_four_statues.xml:13
 msgctxt "0x00042de8"
 msgid "The Women of All War"
-msgstr ""
+msgstr "모든 전쟁의 여인들"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_letter_home_01.xml
 #. PATH: CodexEntry/TitleReference
@@ -4917,7 +4915,7 @@ msgstr "감옥 구조 평가"
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_quarters_leliana.xml:13
 msgctxt "0x00042950"
 msgid "On the Condition of Your Charges"
-msgstr ""
+msgstr "돌보시던 너그들에 관해"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_quarters_sera.xml
 #. PATH: CodexEntry/TitleReference
@@ -4931,7 +4929,7 @@ msgstr ""
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_quarters_solas.xml:13
 msgctxt "0x00042a61"
 msgid "Request for Resources on the Fade"
-msgstr ""
+msgstr "영계에 대한 자료 요청 목록"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_rookery.xml
 #. PATH: CodexEntry/TitleReference
@@ -4945,7 +4943,7 @@ msgstr "스카이홀드의 새장에서 발견된 쪽지"
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_rotunda.xml:13
 msgctxt "0x0003bac6"
 msgid "The Rotunda and the Fresco"
-msgstr ""
+msgstr "원형 방의 프레스코화"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_rotunda_ossuary.xml
 #. PATH: CodexEntry/TitleReference
@@ -4987,7 +4985,7 @@ msgstr "주방에서 온 또 다른 쪽지"
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_singquisition.xml:13
 msgctxt "0x00042d0c"
 msgid "Pamphlet: Lift Your Voices!"
-msgstr ""
+msgstr "전단지: 소리 높여 부르세!"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_specialization_artificer.xml
 #. PATH: CodexEntry/TitleReference
@@ -5057,7 +5055,7 @@ msgstr "성기사의 길"
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_strange_arrow.xml:13
 msgctxt "0x00042d83"
 msgid "Bellanaris Din'an Heem"
-msgstr ""
+msgstr "벨라나리스 딘안 힘"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_tavern.xml
 #. PATH: CodexEntry/TitleReference
@@ -5071,14 +5069,14 @@ msgstr "주점의 공지"
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_tavern_plaque.xml:13
 msgctxt "0x00042f76"
 msgid "Herald's Rest"
-msgstr ""
+msgstr "전령의 쉼터"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_undercroft.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_undercroft.xml:13
 msgctxt "0x0003bac7"
 msgid "The Undercroft"
-msgstr "Undercroft"
+msgstr "지하실"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_view_bridge_tower.xml
 #. PATH: CodexEntry/TitleReference
@@ -5092,7 +5090,7 @@ msgstr "감시탑"
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_view_valley_troops.xml:13
 msgctxt "0x00042e8b"
 msgid "The View of the Troops"
-msgstr ""
+msgstr "병력에 관한 견해"
 
 #. FILE: DA3\DesignContent\Codex\Plot\StormCoast\cod_storm_01_fallen_person_under_rocks.xml
 #. PATH: CodexEntry/TitleReference
@@ -5141,21 +5139,21 @@ msgstr "마법사의 오두막에서 발견된 쪽지"
 #: DA3\DesignContent\Codex\Plot\StormCoast\cod_storm_bandit1.xml:13
 msgctxt "0x000421f5"
 msgid "Initiation for the Blades of Hessarian"
-msgstr ""
+msgstr "헤사리언의 칼날 입단 선서"
 
 #. FILE: DA3\DesignContent\Codex\Plot\StormCoast\cod_storm_bandit3.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\StormCoast\cod_storm_bandit3.xml:13
 msgctxt "0x000421f9"
 msgid "A Bitter Note"
-msgstr ""
+msgstr "씁쓸한 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\StormCoast\cod_storm_bandit4.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\StormCoast\cod_storm_bandit4.xml:13
 msgctxt "0x000421f1"
 msgid "The Conversion of Hessarian"
-msgstr ""
+msgstr "헤사리언의 전향"
 
 #. FILE: DA3\DesignContent\Codex\Plot\StormCoast\cod_storm_bandit_dissent.xml
 #. PATH: CodexEntry/TitleReference
@@ -5211,7 +5209,7 @@ msgstr "문에 새겨진 글씨"
 #: DA3\DesignContent\Codex\Plot\StormCoast\cod_storm_steps.xml:13
 msgctxt "0x00036da2"
 msgid "Morrin's Steps"
-msgstr ""
+msgstr "모린의 발걸음"
 
 #. FILE: DA3\DesignContent\Codex\Plot\StormCoast\cod_storm_warden1.xml
 #. PATH: CodexEntry/TitleReference
@@ -5232,7 +5230,7 @@ msgstr "리륨 폭포"
 #: DA3\DesignContent\Codex\Plot\TempleOfMythal\Myt_Venatori_Marching_Orders.xml:13
 msgctxt "0x000171f6"
 msgid "Official-looking Letter"
-msgstr ""
+msgstr "공식적인 것으로 보이는 편지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\TempleOfMythal\myt_letter_grey_wardens.xml
 #. PATH: CodexEntry/TitleReference
@@ -5267,14 +5265,14 @@ msgstr "별들에 관한 메모"
 #: DA3\DesignContent\Codex\Plot\TheBog\the_bog_avvar_1.xml:30
 msgctxt "0x00041879"
 msgid "Note From a Scout"
-msgstr ""
+msgstr "정찰병이 남긴 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\TheBog\the_bog_blight_commoner_1.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\TheBog\the_bog_blight_commoner_1.xml:13
 msgctxt "0x000270bb"
 msgid "Note from Lewis Dyer"
-msgstr ""
+msgstr "르위스 디에르가 남긴 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\TheBog\the_bog_blight_commoner_2.xml
 #. PATH: CodexEntry/TitleReference
@@ -5295,7 +5293,7 @@ msgstr "피터 마쉬의 일지"
 #: DA3\DesignContent\Codex\Plot\TheBog\the_bog_blight_commoner_4.xml:13
 msgctxt "0x00040938"
 msgid "Short Note"
-msgstr ""
+msgstr "짤막한 기록"
 
 #. FILE: DA3\DesignContent\Codex\Plot\TheBog\the_bog_camp_1.xml
 #. PATH: CodexEntry/TitleReference
@@ -5380,7 +5378,7 @@ msgstr "수액으로 뒤덮인 편지"
 #: DA3\DesignContent\Codex\Plot\TheDesertRuins\dsr_02_venatori_outpost_canyon.xml:13
 msgctxt "0x0004175f"
 msgid "Locked Diary"
-msgstr ""
+msgstr "잠긴 일지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\TheDesertRuins\the_DesertRuins_Lorehunter_Intro.xml
 #. PATH: CodexEntry/TitleReference
@@ -5436,22 +5434,21 @@ msgstr "피가 튀어 있는 베나토리 일지"
 #: DA3\DesignContent\Codex\Plot\TheDesertRuins\the_desertruins_hq_overseer_note.xml:13
 msgctxt "0x00042d1d"
 msgid "Draft of Letter to Venatori Magisters"
-msgstr ""
+msgstr "베나토리 마지스터들에게 보내는 편지의 초안"
 
 #. FILE: DA3\DesignContent\Codex\Plot\TheDesertRuins\the_desertruins_landmark_archway.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\TheDesertRuins\the_desertruins_landmark_archway.xml:13
-#, fuzzy
 msgctxt "0x00042ac5"
 msgid "Stone Over Sky"
-msgstr "하늘 너머 돌"
+msgstr "하늘을 가로지르는 돌"
 
 #. FILE: DA3\DesignContent\Codex\Plot\TheDesertRuins\the_desertruins_landmark_canyon_overlook.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\TheDesertRuins\the_desertruins_landmark_canyon_overlook.xml:13
 msgctxt "0x00042bed"
 msgid "Canyon Overlook"
-msgstr ""
+msgstr "협곡이 내려다보이는 고지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\TheDesertRuins\the_desertruins_landmark_empty_square.xml
 #. PATH: CodexEntry/TitleReference
@@ -5589,17 +5586,16 @@ msgstr "올레이의 네 번째 사자"
 #. FILE: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_bazaar_pillar_flames.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_bazaar_pillar_flames.xml:13
-#, fuzzy
 msgctxt "0x000427bc"
 msgid "Pillars of Her Everlasting Flame"
-msgstr "그녀의 영원불꽃 기둥"
+msgstr "성녀의 영원한 불꽃 기둥"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_bazaar_pillar_silks.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_bazaar_pillar_silks.xml:13
 msgctxt "0x0004279c"
 msgid "The Mystery and Meaning of Eight Silks"
-msgstr ""
+msgstr "여덟 비단 휘장의 수수께끼와 그 의미"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_bazaar_pillar_window_01.xml
 #. PATH: CodexEntry/TitleReference
@@ -5634,7 +5630,7 @@ msgstr "제국의 품위, 남쪽"
 #: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_bazaar_writs.xml:13
 msgctxt "0x00042952"
 msgid "Difficult Time For Those Who Have Lost"
-msgstr ""
+msgstr "상실을 겪은 이들에게 힘든 때입니다"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_beds_bunks.xml
 #. PATH: CodexEntry/TitleReference
@@ -5690,23 +5686,21 @@ msgstr "승리와 그림자"
 #: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_docks_edge.xml:13
 msgctxt "0x000424fb"
 msgid "Miroir de la Mère, Reville's Folly"
-msgstr ""
+msgstr "어머니의 명경, 르빌의 어리석음"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_docks_fish.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_docks_fish.xml:13
-#, fuzzy
 msgctxt "0x000425ae"
 msgid "Reservoir Stocking Evaluation"
-msgstr "스타킹 저장소 평가"
+msgstr "저수지 내 물고기 방류 평가지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_emporeum.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_emporeum.xml:13
-#, fuzzy
 msgctxt "0x00042b23"
 msgid "The Emporium of Mortal Means"
-msgstr "필멸자용 업소"
+msgstr "치명적 장비 백화점"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_empty_alcove.xml
 #. PATH: CodexEntry/TitleReference
@@ -5743,21 +5737,21 @@ msgstr "연인의 벽감"
 #: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_middle_overlook_court.xml:13
 msgctxt "0x000424ef"
 msgid "Longing and the Upper Court"
-msgstr ""
+msgstr "열망과 윗뜰"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_reflecting_pool.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_reflecting_pool.xml:13
 msgctxt "0x000425ef"
 msgid "The Summer Home of Messere Glubs"
-msgstr ""
+msgstr "글럽스 씨의 여름 별장"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_statues_maferath.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_statues_maferath.xml:13
 msgctxt "0x000425d8"
 msgid "Maferath's Anguish"
-msgstr ""
+msgstr "마퍼라스의 번민"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_statues_maferath_02.xml
 #. PATH: CodexEntry/TitleReference
@@ -5771,7 +5765,7 @@ msgstr "마페라스의 참회"
 #: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_statues_maferath_03.xml:13
 msgctxt "0x000425ca"
 msgid "Maferath's Bloodguilt"
-msgstr ""
+msgstr "마페라스의 유혈의 죄"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_statues_maferath_04.xml
 #. PATH: CodexEntry/TitleReference
@@ -5876,7 +5870,7 @@ msgstr "조사 일지"
 #: DA3\DesignContent\Codex\Plot\WesternApproach\StillRuins\wes_D110_messenger.xml:13
 msgctxt "0x0001e28c"
 msgid "A Preserved Note"
-msgstr ""
+msgstr "보존된 기록"
 
 #. FILE: DA3\DesignContent\Codex\Plot\WesternApproach\StillRuins\wes_D110_venatori.xml
 #. PATH: CodexEntry/TitleReference
@@ -5918,7 +5912,7 @@ msgstr "질투심이 담긴 쪽지"
 #: DA3\DesignContent\Codex\Plot\WesternApproach\wes_landmark_b.xml:13
 msgctxt "0x00038335"
 msgid "Gate of Toth"
-msgstr ""
+msgstr "토스의 문"
 
 #. FILE: DA3\DesignContent\Codex\Plot\WesternApproach\wes_landmark_c.xml
 #. PATH: CodexEntry/TitleReference
@@ -5932,7 +5926,7 @@ msgstr "마지막 단계"
 #: DA3\DesignContent\Codex\Plot\WesternApproach\wes_landmark_d.xml:13
 msgctxt "0x00038339"
 msgid "Lamarr Tower"
-msgstr ""
+msgstr "라마르 탑"
 
 #. FILE: DA3\DesignContent\Codex\Plot\WesternApproach\wes_landmark_e.xml
 #. PATH: CodexEntry/TitleReference
@@ -5967,14 +5961,14 @@ msgstr "의식의 탑"
 #: DA3\DesignContent\Codex\Plot\WesternApproach\wes_landmark_j.xml:13
 msgctxt "0x00038344"
 msgid "Zhores Tower"
-msgstr ""
+msgstr "조레스 탑"
 
 #. FILE: DA3\DesignContent\Codex\Plot\WesternApproach\wes_landmark_k.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\WesternApproach\wes_landmark_k.xml:13
 msgctxt "0x00038347"
 msgid "Tesoro Tower"
-msgstr ""
+msgstr "테소로 탑"
 
 #. FILE: DA3\DesignContent\Codex\Plot\WesternApproach\wes_landmark_l.xml
 #. PATH: CodexEntry/TitleReference
@@ -6009,14 +6003,14 @@ msgstr "어둠 속의 무언가"
 #: DA3\DesignContent\Codex\Plot\WesternApproach\wes_landmark_p.xml:13
 msgctxt "0x00038352"
 msgid "Shortcut"
-msgstr ""
+msgstr "지름길"
 
 #. FILE: DA3\DesignContent\Codex\Plot\WesternApproach\wes_landmark_q.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\WesternApproach\wes_landmark_q.xml:13
 msgctxt "0x00038350"
 msgid "Lost Idol"
-msgstr ""
+msgstr "사라진 우상"
 
 #. FILE: DA3\DesignContent\Codex\Plot\WesternApproach\wes_main_chantry_research_notes.xml
 #. PATH: CodexEntry/TitleReference
@@ -6072,14 +6066,14 @@ msgstr "휘갈겨 쓴 습격자의 쪽지"
 #: DA3\DesignContent\Codex\Plot\WesternApproach\wes_main_raider_log_02.xml:13
 msgctxt "0x0003fb9f"
 msgid "Elegantly Written Note"
-msgstr ""
+msgstr "우아하게 작성된 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\WesternApproach\wes_main_raider_log_03.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\WesternApproach\wes_main_raider_log_03.xml:13
 msgctxt "0x0003fb9d"
 msgid "Elegantly Written Note"
-msgstr ""
+msgstr "우아하게 작성된 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\WesternApproach\wes_main_raider_log_04.xml
 #. PATH: CodexEntry/TitleReference
@@ -6128,7 +6122,7 @@ msgstr "고대 테빈터"
 #: DA3\DesignContent\Codex\Plot\WesternApproach\wes_main_tevinter_orders1.xml:13
 msgctxt "0x0002d012"
 msgid "Manifest"
-msgstr ""
+msgstr "명세서"
 
 #. FILE: DA3\DesignContent\Codex\Plot\WesternApproach\wes_main_tevinter_report.xml
 #. PATH: CodexEntry/TitleReference
@@ -6196,10 +6190,9 @@ msgstr "심문회"
 #. FILE: DA3\DesignContent\Codex\Tutorial\cod_tut_status_effects.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Tutorial\cod_tut_status_effects.xml:13
-#, fuzzy
 msgctxt "0x00043a2b"
 msgid "Status Effects"
-msgstr "상태 효과"
+msgstr "상태이상"
 
 #. FILE: DA3_DLC1\DesignContent\Codex\Hugs\dlc_cod_hug_aftermath.xml
 #. PATH: CodexEntry/TitleReference
@@ -6248,7 +6241,7 @@ msgstr "피로 물든 성소"
 #: DA3_DLC1\DesignContent\Codex\Landmarks\dlc1_cod_landmark05.xml:13
 msgctxt "0x00046da6"
 msgid "Nigel's Point"
-msgstr ""
+msgstr "나이젤의 지점"
 
 #. FILE: DA3_DLC1\DesignContent\Codex\Landmarks\dlc1_cod_landmark06.xml
 #. PATH: CodexEntry/TitleReference
@@ -6276,7 +6269,7 @@ msgstr "얼음 트롤 흐링나르 이야기"
 #: DA3_DLC1\DesignContent\Codex\Lore\Creatures\dlc1_cod_creature_tusket.xml:13
 msgctxt "0x00046de2"
 msgid "Imbued Tusket"
-msgstr ""
+msgstr "색으로 물든 터스켓"
 
 #. FILE: DA3_DLC1\DesignContent\Codex\Lore\dlc1_cod_Ser_Kiersten.xml
 #. PATH: CodexEntry/TitleReference
@@ -6332,15 +6325,14 @@ msgstr "어떤 대가"
 #: DA3_DLC1\DesignContent\Codex\Lore\dlc1_cod_hp_journal.xml:13
 msgctxt "0x0004709d"
 msgid "From the Journal of Havard-Pierre d'Amortisan"
-msgstr ""
+msgstr "하바르피에르 다모르티상의 일지에서 발췌"
 
 #. FILE: DA3_DLC1\DesignContent\Codex\Lore\dlc1_cod_hp_notes.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3_DLC1\DesignContent\Codex\Lore\dlc1_cod_hp_notes.xml:13
-#, fuzzy
 msgctxt "0x000470a8"
 msgid "Field Notes"
-msgstr "현장 쪽지"
+msgstr "현장 기록"
 
 #. FILE: DA3_DLC1\DesignContent\Codex\Lore\dlc1_cod_kenric_book_gift.xml
 #. PATH: CodexEntry/TitleReference
@@ -6438,14 +6430,14 @@ msgstr "테빈터 조각품"
 #: DA3_DLC1\DesignContent\Codex\Lore\dlc1_cod_tevinter_ruin5.xml:13
 msgctxt "0x00046dbc"
 msgid "Barely Legible Tevinter Writing"
-msgstr ""
+msgstr "거의 알아볼 수 없는 테빈터 글귀"
 
 #. FILE: DA3_DLC1\DesignContent\Codex\Plot\Global\HakkonDungeon\dlc1_cod_gurdjournal.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3_DLC1\DesignContent\Codex\Plot\Global\HakkonDungeon\dlc1_cod_gurdjournal.xml:13
 msgctxt "0x00046f37"
 msgid "Journal of Gurd Harofsen"
-msgstr ""
+msgstr "걸드 해로프센의 일지"
 
 #. FILE: DA3_DLC1\DesignContent\Codex\Plot\Global\HakkonDungeon\dlc1_cod_inquisitor_dungeon.xml
 #. PATH: CodexEntry/TitleReference
@@ -6464,7 +6456,6 @@ msgstr "살인자의 황금의 노래"
 #. FILE: DA3_DLC1\DesignContent\Codex\Plot\Global\Island\dlc1_cod_island_shack.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3_DLC1\DesignContent\Codex\Plot\Global\Island\dlc1_cod_island_shack.xml:13
-#, fuzzy
 msgctxt "0x00046f40"
 msgid "Unfallen Shack"
 msgstr "살아남은 판잣집"
@@ -6481,21 +6472,21 @@ msgstr "시체더미 근처에서 발견된 편지"
 #: DA3_DLC1\DesignContent\Codex\Plot\Global\Oculara\dlc1_cod_ocularum_elf_script.xml:13
 msgctxt "0x00046f56"
 msgid "Geldauran's Claim"
-msgstr ""
+msgstr "젤도런의 요구"
 
 #. FILE: DA3_DLC1\DesignContent\Codex\Plot\Global\Oculara\dlc1_cod_ocularum_journal.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3_DLC1\DesignContent\Codex\Plot\Global\Oculara\dlc1_cod_ocularum_journal.xml:13
 msgctxt "0x00046f53"
 msgid "Leather-Bound Hakkonite Journal"
-msgstr ""
+msgstr "가죽끈으로 엮은 하콘 추종자 일지"
 
 #. FILE: DA3_DLC1\DesignContent\Codex\Plot\Global\TreasureMaps\cod_ResearchStudent_TreasureMap.xml
 #. PATH: CodexPuzzle/TitleReference
 #: DA3_DLC1\DesignContent\Codex\Plot\Global\TreasureMaps\cod_ResearchStudent_TreasureMap.xml:30
 msgctxt "0x00045d26"
 msgid "Sketch of a Tower on a Cliff"
-msgstr ""
+msgstr "절벽 위 탑을 그린 스케치"
 
 #. FILE: DA3_DLC1\DesignContent\Codex\Plot\dlc1_cod_letter_hardingfromhome.xml
 #. PATH: CodexEntry/TitleReference
@@ -6530,7 +6521,7 @@ msgstr "찢어진 페이지"
 #: DA3_DLC1\DesignContent\Codex\Plot\dlc1_cod_res_missing_soldier.xml:13
 msgctxt "0x00046bd0"
 msgid "Grandin's Orders"
-msgstr ""
+msgstr "그랜딘의 명령서"
 
 #. FILE: DA3_DLC1\DesignContent\Codex\Plot\dlc1_cod_res_missing_soldier_2.xml
 #. PATH: CodexEntry/TitleReference
@@ -6551,7 +6542,7 @@ msgstr "보내지 않은 편지"
 #: DA3_DLC1\DesignContent\Codex\ResearchCamp\dlc1_cod_res_last_inq_02.xml:13
 msgctxt "0x000451a7"
 msgid "Ancient Document Protected in a Scroll Case"
-msgstr ""
+msgstr "두루마리 통에 보관되었던 고대 문서"
 
 #. FILE: DA3_DLC1\DesignContent\Codex\dlc1_cod_avv_conspiracy_01.xml
 #. PATH: CodexEntry/TitleReference
@@ -6600,14 +6591,14 @@ msgstr "부활의 전통"
 #: DA3_DLC1\DesignContent\Codex\dlc1_cod_avv_storvacker.xml:13
 msgctxt "0x000470aa"
 msgid "Storvacker"
-msgstr ""
+msgstr "슈토어바커"
 
 #. FILE: DA3_DLC1\DesignContent\Codex\dlc1_cod_avv_thanesvarah.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3_DLC1\DesignContent\Codex\dlc1_cod_avv_thanesvarah.xml:13
 msgctxt "0x000470ac"
 msgid "Thane Svarah Sun-Hair"
-msgstr ""
+msgstr "추장 태양머리칼 스바라"
 
 #. FILE: DA3_DLC1\DesignContent\Codex\dlc1_cod_avv_veilfire1.xml
 #. PATH: CodexEntry/TitleReference
@@ -6654,10 +6645,9 @@ msgstr "교차로 책"
 #. FILE: da3_dlc_blue\designcontent\Codex\Crossroads\DlcEnd_Crossroads_Communal_Journal.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\Crossroads\DlcEnd_Crossroads_Communal_Journal.xml:13
-#, fuzzy
 msgctxt "0x0004af6f"
 msgid "Communal Journal"
-msgstr "마을 일지"
+msgstr "마을 공용 일지"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\Crossroads\DlcEnd_Crossroads_Crude_Map.xml
 #. PATH: CodexEntry/TitleReference
@@ -6706,42 +6696,42 @@ msgstr "그림자의 향연에 비추는 달빛"
 #: da3_dlc_blue\designcontent\Codex\Crossroads\DlcEnd_Crossroads_Nexus_Orlesian_Masks.xml:13
 msgctxt "0x0004b2ca"
 msgid "Illustrated Periodical"
-msgstr ""
+msgstr "삽화를 넣은 학술지"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\Crossroads\DlcEnd_Crossroads_Nexus_Tower.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\Crossroads\DlcEnd_Crossroads_Nexus_Tower.xml:13
 msgctxt "0x0004ade8"
 msgid "Moldy Journal"
-msgstr ""
+msgstr "케케묵은 일지"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\DeepRoads\dlcend_DrkDng_puzzle_clue.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\DeepRoads\dlcend_DrkDng_puzzle_clue.xml:13
 msgctxt "0x0004a9bf"
 msgid "Ancient Writing"
-msgstr ""
+msgstr "고대 글귀"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\DeepRoads\dlcend_DrkDng_qunari_orders.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\DeepRoads\dlcend_DrkDng_qunari_orders.xml:13
 msgctxt "0x000484b1"
 msgid "Communiqué in the Deep Roads"
-msgstr ""
+msgstr "지하대로에서 발견된 성명서"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\DeepRoads\dlcend_DrkDng_templar_tracker_orders.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\DeepRoads\dlcend_DrkDng_templar_tracker_orders.xml:13
 msgctxt "0x0004afe8"
 msgid "Orders"
-msgstr ""
+msgstr "명령서"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\DeepRoads\dlcend_DrkDng_trapped_qunari.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\DeepRoads\dlcend_DrkDng_trapped_qunari.xml:13
 msgctxt "0x00049e77"
 msgid "Qunari Writing"
-msgstr ""
+msgstr "쿠나리 글귀"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\DeepRoads\dlcend_DrkDng_veilfire_runes.xml
 #. PATH: CodexEntry/TitleReference
@@ -6755,7 +6745,7 @@ msgstr "지하 가도의 장막 불꽃 룬"
 #: da3_dlc_blue\designcontent\Codex\DeepRoads\dlcend_DrkDng_wall_of_fire_warning.xml:30
 msgctxt "0x0004b371"
 msgid "Charred Note"
-msgstr ""
+msgstr "타버린 쪽지"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\DeepRoads\dlcend_drkdng_elf1.xml
 #. PATH: CodexEntry/TitleReference
@@ -6818,28 +6808,28 @@ msgstr "공격 계획서"
 #: da3_dlc_blue\designcontent\Codex\ElfDungeon\DlcEnd_ElfDng_Qunari_Letter_Unknown_Intruder.xml:30
 msgctxt "0x0004a0d4"
 msgid "An Unknown Agent"
-msgstr ""
+msgstr "이름 없는 요원"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\ElfDungeon\DlcEnd_ElfDng_Qunari_Statue_Solving_Note.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\ElfDungeon\DlcEnd_ElfDng_Qunari_Statue_Solving_Note.xml:30
 msgctxt "0x0004b2d2"
 msgid "Note Regarding the Wolf Statue"
-msgstr ""
+msgstr "늑대 조각상에 관한 쪽지"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\ElfDungeon\DlcEnd_ElfDng_Solas_Hint.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\ElfDungeon\DlcEnd_ElfDng_Solas_Hint.xml:30
 msgctxt "0x0004ae10"
 msgid "Charred Note"
-msgstr ""
+msgstr "타버린 쪽지"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\ElfDungeon\DlcEnd_ElfDng_Statue_Clue.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\ElfDungeon\DlcEnd_ElfDng_Statue_Clue.xml:13
 msgctxt "0x0004b049"
 msgid "Inscription"
-msgstr ""
+msgstr "비문"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\ElfDungeon\DlcEnd_ElfDng_TranslationNote.xml
 #. PATH: CodexEntry/TitleReference
@@ -6853,91 +6843,91 @@ msgstr "구겨진 편지"
 #: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_BehindYou_Note.xml:30
 msgctxt "0x0004ae40"
 msgid "Messenger's Note"
-msgstr ""
+msgstr "전달자의 쪽지"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_FadeBook_01.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_FadeBook_01.xml:30
 msgctxt "0x0004addb"
 msgid "Vir Dirthara: A Flowering Imago"
-msgstr ""
+msgstr "비어 덜사라: 피어나는 꽃에 대한 심상"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_FadeBook_02.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_FadeBook_02.xml:30
 msgctxt "0x0004addd"
 msgid "Vir Dirthara: Signs of Victory"
-msgstr ""
+msgstr "비어 덜사라: 승리의 조짐"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_FadeBook_03.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_FadeBook_03.xml:30
 msgctxt "0x0004addf"
 msgid "Vir Dirthara: Homecoming"
-msgstr ""
+msgstr "비어 덜사라: 귀향"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_FadeBook_04.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_FadeBook_04.xml:30
 msgctxt "0x0004ade1"
 msgid "Vir Dirthara: Birds of Fancy"
-msgstr ""
+msgstr "비어 덜사라: 지저귀는 환상"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_Fadebook_05.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_Fadebook_05.xml:30
 msgctxt "0x0004ade3"
 msgid "Vir Dirthara: The Deepest Fade"
-msgstr ""
+msgstr "비어 덜사라: 영계의 가장 깊숙한 곳"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_Fadebook_06.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_Fadebook_06.xml:30
 msgctxt "0x0004b2b7"
 msgid "Vir Dirthara: Raising the Sonallium"
-msgstr ""
+msgstr "비어 덜사라: 소날리엄에 관한 토의"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_Fadebook_07.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_Fadebook_07.xml:30
 msgctxt "0x0004b2b4"
 msgid "Vir Dirthara: Attentive Listeners"
-msgstr ""
+msgstr "비어 덜사라: 세심한 청자들"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_Fadebook_08.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_Fadebook_08.xml:30
 msgctxt "0x0004b2b3"
 msgid "Vir Dirthara: Duel of a Hundred Years"
-msgstr ""
+msgstr "비어 덜사라: 백 년의 결투"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_Fadebook_09.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_Fadebook_09.xml:30
 msgctxt "0x0004b2b9"
 msgid "Vir Dirthara: Exile of the Forbidden Ones"
-msgstr ""
+msgstr "비어 덜사라: 금지된 자들의 추방"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_Mage_Research_Notes.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_Mage_Research_Notes.xml:30
 msgctxt "0x0004a705"
 msgid "Research Notes"
-msgstr ""
+msgstr "연구 자료"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_Solas_Hint.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_Solas_Hint.xml:30
 msgctxt "0x0004ae38"
 msgid "The Treachery of the Wolf"
-msgstr ""
+msgstr "늑대의 배반"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_Spy_Message.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_Spy_Message.xml:30
 msgctxt "0x0004a70b"
 msgid "Tattered Note"
-msgstr ""
+msgstr "너덜너덜한 쪽지"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\FadeDungeon\DlcEnd_FadDng_Vidasala_Notes.xml
 #. PATH: CodexEntry/TitleReference
@@ -6951,7 +6941,7 @@ msgstr "사레바스의 위험성"
 #: da3_dlc_blue\designcontent\Codex\FadeDungeon\dlcend_FadDng_cod_vidasala.xml:30
 msgctxt "0x0004ae72"
 msgid "Viddasala"
-msgstr ""
+msgstr "비다살라"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\FadeDungeon\dlcend_FadDng_hardinhightown_secret.xml
 #. PATH: CodexEntry/TitleReference
@@ -6965,133 +6955,133 @@ msgstr "하드 인 하이타운: 제 ???장"
 #: da3_dlc_blue\designcontent\Codex\FadeDungeon\dlcend_journal_of_sandal.xml:30
 msgctxt "0x0004aba4"
 msgid "The Very Private Diary of Sandal Feddic, DO NOT READ!!!!"
-msgstr ""
+msgstr "샌달 페딕의 아주아주 개인적인 일기장. 절대 읽지 마시오!!!"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_Saareth.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_Saareth.xml:30
 msgctxt "0x0004adee"
 msgid "Saarath"
-msgstr ""
+msgstr "사아르아스"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_animal_handler.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_animal_handler.xml:13
 msgctxt "0x0004b28f"
 msgid "Animal Handler's Logbook"
-msgstr ""
+msgstr "동물 조련사 자격증"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_ashaad.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_ashaad.xml:30
 msgctxt "0x0004b388"
 msgid "Ashaad"
-msgstr ""
+msgstr "아쉬아드"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_barracks.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_barracks.xml:13
 msgctxt "0x00048f3e"
 msgid "Journal Notes Found in the Barracks"
-msgstr ""
+msgstr "병영에서 발견된 일지"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_dragon_breath_doc.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_dragon_breath_doc.xml:13
 msgctxt "0x00048dd0"
 msgid "Dragon Breath Plan"
-msgstr ""
+msgstr "용숨결 계획"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_eluvian_studies.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_eluvian_studies.xml:13
 msgctxt "0x00048f3a"
 msgid "Eluvian Studies"
-msgstr ""
+msgstr "엘루비안에 대한 연구"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_factory.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_factory.xml:13
 msgctxt "0x00048f43"
 msgid "Orders Posted in the Factory"
-msgstr ""
+msgstr "공장에 발주 넣은 주문"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_gatekeeper_room.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_gatekeeper_room.xml:13
 msgctxt "0x00048f3f"
 msgid "Logs of a Darvaarad Gatekeeper"
-msgstr ""
+msgstr "다르바라드 관문 수호자의 일지"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_letter_from_inquis.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_letter_from_inquis.xml:30
 msgctxt "0x0004ac99"
 msgid "Letters and Replies"
-msgstr ""
+msgstr "편지와 회신"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_mural_note.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_mural_note.xml:30
 msgctxt "0x0004ae94"
 msgid "Scrap of Writing from a Ben-Hassrath Agent"
-msgstr ""
+msgstr "벤하스라스 요원이 남긴 쪽지"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_puzzle_clue.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_puzzle_clue.xml:13
 msgctxt "0x0004affe"
 msgid "Ancient Writing"
-msgstr ""
+msgstr "고대 글귀"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_saarebas.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_saarebas.xml:30
 msgctxt "0x0004b387"
 msgid "Saarebas"
-msgstr ""
+msgstr "사레바스"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_table_letter.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_table_letter.xml:13
 msgctxt "0x0004b28d"
 msgid "Written Instructions for New Workers"
-msgstr ""
+msgstr "신참들을 위한 설명서"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\DlcEnd_hub_Spymaster_Notes_Post_DrkDng.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\DlcEnd_hub_Spymaster_Notes_Post_DrkDng.xml:13
 msgctxt "0x0004b06b"
 msgid "Barrel Removal"
-msgstr ""
+msgstr "통 폐기"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\DlcEnd_hub_Spymaster_Notes_Post_ElfDng.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\DlcEnd_hub_Spymaster_Notes_Post_ElfDng.xml:13
 msgctxt "0x0004b06a"
 msgid "Containment"
-msgstr ""
+msgstr "봉쇄"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\DlcEnd_hub_Spymaster_Notes_Post_FadDng.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\DlcEnd_hub_Spymaster_Notes_Post_FadDng.xml:13
 msgctxt "0x0004b06e"
 msgid "Emergency Measures"
-msgstr ""
+msgstr "긴급 조치"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\DlcEnd_hub_Spymaster_Notes_PreCouncil.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\DlcEnd_hub_Spymaster_Notes_PreCouncil.xml:13
 msgctxt "0x0004b067"
 msgid "Activity in the Winter Palace"
-msgstr ""
+msgstr "겨울 궁전에서 활동"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\DlcEnd_hub_note_from_cook.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\DlcEnd_hub_note_from_cook.xml:13
 msgctxt "0x0004b2da"
 msgid "Cook's Note"
-msgstr ""
+msgstr "요리사의 쪽지"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_Cassandra.xml
 #. PATH: CodexEntry/TitleReference
@@ -7147,12 +7137,11 @@ msgstr "비비엔의 근황"
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_art_object_in_storage_closet.xml:13
 msgctxt "0x0004acf9"
 msgid "The First Grand Enchanter"
-msgstr ""
+msgstr "최초의 대마도사"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_blackwall_states_letters.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_blackwall_states_letters.xml:13
-#, fuzzy
 msgctxt "0x00048a4e"
 msgid "\"Blackwall\" and the Last Few Years"
 msgstr "\"블랙월\"의 근황"
@@ -7162,19 +7151,18 @@ msgstr "\"블랙월\"의 근황"
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_cafe_drink_menu.xml:13
 msgctxt "0x0004ace9"
 msgid "The Gilded Horn's Drink Menu"
-msgstr ""
+msgstr "금박 뿔의 주류 메뉴"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_central_fountain_poem.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_central_fountain_poem.xml:13
 msgctxt "0x0004ad34"
 msgid "Half-Finished Poem"
-msgstr ""
+msgstr "반쯤 완성한 시"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_cole.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_cole.xml:13
-#, fuzzy
 msgctxt "0x0004ae33"
 msgid "Cole and the Last Few Years"
 msgstr "콜의 근황"
@@ -7205,21 +7193,21 @@ msgstr "페렐던 왕의 급보"
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_fountain_plaque.xml:13
 msgctxt "0x0004ace6"
 msgid "Dedication"
-msgstr ""
+msgstr "헌사"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_gazebo_plaque.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_gazebo_plaque.xml:13
 msgctxt "0x0004ad3b"
 msgid "A Reminder"
-msgstr ""
+msgstr "기념패"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_guest_notes.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_guest_notes.xml:13
 msgctxt "0x0004b316"
 msgid "Notes on Palace Guests"
-msgstr ""
+msgstr "궁전 빈객에 대한 기록"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_hardinhightown10.xml
 #. PATH: CodexEntry/TitleReference
@@ -7289,49 +7277,49 @@ msgstr "하드 인 하이타운: 제 18장"
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_inquisition_area_letter01.xml:13
 msgctxt "0x0004acfa"
 msgid "Conduct Becoming the Inquisition"
-msgstr ""
+msgstr "심문단 일원에게 알맞는 품행"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_letter_to_teagan.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_letter_to_teagan.xml:13
 msgctxt "0x0004b318"
 msgid "Letter to Arl Teagan"
-msgstr ""
+msgstr "티건 백작에게 보내는 편지"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_licentious_gossip.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_licentious_gossip.xml:13
 msgctxt "0x0004b31d"
 msgid "Licentious Gossip"
-msgstr ""
+msgstr "음탕한 뜬소문"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_missing_elf_servant.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_missing_elf_servant.xml:13
 msgctxt "0x0004b311"
 msgid "Missing Servant"
-msgstr ""
+msgstr "실종된 시종"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_palace_gossip.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_palace_gossip.xml:13
 msgctxt "0x0004ad3d"
 msgid "Scandalous Gossip"
-msgstr ""
+msgstr "충격적인 뜬소문"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_paper_dog.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_paper_dog.xml:13
 msgctxt "0x0004b313"
 msgid "Paper Dog"
-msgstr ""
+msgstr "종이로 접은 개"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_ruined_picnic.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_ruined_picnic.xml:13
 msgctxt "0x0004b31f"
 msgid "A Ruined Picnic"
-msgstr ""
+msgstr "분위기를 망친 소풍"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_saucy_novel.xml
 #. PATH: CodexEntry/TitleReference
@@ -7345,140 +7333,140 @@ msgstr "유혹의 폭풍"
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_sera_journal.xml:13
 msgctxt "0x00048a84"
 msgid "Sera's Past and Now Things"
-msgstr ""
+msgstr "세라의 그때와 지금 이것저것"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_the_wager.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_the_wager.xml:13
 msgctxt "0x0004b2ce"
 msgid "Wager Notes"
-msgstr ""
+msgstr "보증서"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_the_wager_02.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_the_wager_02.xml:13
 msgctxt "0x0004b30e"
 msgid "Wager Notes"
-msgstr ""
+msgstr "보증서"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_the_wager_03.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\dlcend_hub_the_wager_03.xml:13
 msgctxt "0x0004b310"
 msgid "Wager Notes"
-msgstr ""
+msgstr "보증서"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_1.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_1.xml:30
 msgctxt "0x0004a15a"
 msgid "A Note on Orzammar"
-msgstr ""
+msgstr "오자마에 대한 기록"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_10.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_10.xml:30
 msgctxt "0x0004982a"
 msgid "Laud for the Legion of the Dead"
-msgstr ""
+msgstr "사자의 군단을 위한 찬가"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_11.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_11.xml:30
 msgctxt "0x0004a1b5"
 msgid "The Shaperate"
-msgstr ""
+msgstr "구체자의 전당"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_12.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_12.xml:30
 msgctxt "0x0004a1b8"
 msgid "King of Orzammar"
-msgstr ""
+msgstr "오자마의 국왕"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_13.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_13.xml:30
 msgctxt "0x0004a1ba"
 msgid "Genlock"
-msgstr ""
+msgstr "젠록"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_14.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_14.xml:30
 msgctxt "0x0004a1bd"
 msgid "Shriek"
-msgstr ""
+msgstr "비명괴물"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_15.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_15.xml:30
 msgctxt "0x0004a1be"
 msgid "Darkspawn Emissary"
-msgstr ""
+msgstr "어둠의 피조물 밀사"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_16.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_16.xml:30
 msgctxt "0x0004a1c1"
 msgid "Journal of a Grey Warden"
-msgstr ""
+msgstr "회색 감시자의 일지"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_17.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_17.xml:30
 msgctxt "0x0004a1c2"
 msgid "Heidrun Thaig"
-msgstr ""
+msgstr "하이드룬 타이그"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_18.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_18.xml:30
 msgctxt "0x0004a1c5"
 msgid "Paragon Orseck Garal"
-msgstr ""
+msgstr "파라곤 오르세크 가랄"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_19.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_19.xml:30
 msgctxt "0x0004a1c6"
 msgid "The Eternal Battle: Darkspawn"
-msgstr ""
+msgstr "영원한 전투: 어둠피조물"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_2.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_2.xml:30
 msgctxt "0x00049819"
 msgid "Shaper Valta"
-msgstr ""
+msgstr "기록관 발타"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_20.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_20.xml:30
 msgctxt "0x0004a1c9"
 msgid "Cretahl"
-msgstr ""
+msgstr "크레탈"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_21.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_21.xml:30
 msgctxt "0x0004a1cb"
 msgid "Titans"
-msgstr ""
+msgstr "타이탄들"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_22.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_22.xml:30
 msgctxt "0x0004a1cc"
 msgid "Sha-Brytol"
-msgstr ""
+msgstr "샤브라이톨"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_23.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_23.xml:30
 msgctxt "0x0004a1d4"
 msgid "The Guardian"
-msgstr ""
+msgstr "파수꾼"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_24.xml
 #. PATH: CodexEntry/TitleReference
@@ -7492,7 +7480,7 @@ msgstr "너그 대왕"
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_25.xml:13
 msgctxt "0x0004abfe"
 msgid "The Gates of Segrummar"
-msgstr ""
+msgstr "세그러마의 관문"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_3.xml
 #. PATH: CodexEntry/TitleReference
@@ -7506,70 +7494,70 @@ msgstr "광부의 보내지 못한 편지"
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_4.xml:30
 msgctxt "0x0004981d"
 msgid "Ogre"
-msgstr ""
+msgstr "오우거"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_5.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_5.xml:30
 msgctxt "0x00049820"
 msgid "Lyrium Blast Charges"
-msgstr ""
+msgstr "리륨 폭발물"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_6.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_6.xml:30
 msgctxt "0x00049821"
 msgid "Lieutenant Renn"
-msgstr ""
+msgstr "부관 렌"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_7.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_7.xml:30
 msgctxt "0x00049824"
 msgid "Journal of Professor Arberg"
-msgstr ""
+msgstr "알베르크 교수의 일지"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_8.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_8.xml:30
 msgctxt "0x00049825"
 msgid "Journal of Tog"
-msgstr ""
+msgstr "토그의 일지"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_9.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_codex_9.xml:30
 msgctxt "0x00049828"
 msgid "When It's Quiet"
-msgstr ""
+msgstr "그것이 잠잠해질 때"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_landmark_1.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_landmark_1.xml:30
 msgctxt "0x0004a59c"
 msgid "Storm Coast Fissure"
-msgstr ""
+msgstr "폭풍 해안 균열"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_landmark_3.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_landmark_3.xml:30
 msgctxt "0x0004a5a3"
 msgid "Monument to Heidrun the Deep"
-msgstr ""
+msgstr "지하의 하이드룬에게 바치는 기념물"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_landmark_4.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_landmark_4.xml:30
 msgctxt "0x0004a5a5"
 msgid "Derelict Lyrium Mine"
-msgstr ""
+msgstr "버려진 리륨 광산"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_landmark_5.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_landmark_5.xml:30
 msgctxt "0x0004a5a7"
 msgid "Bastion of the Pure"
-msgstr ""
+msgstr "순수한 자의 요새"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\Lore\dlcred_cod_landmark_6.xml
 #. PATH: CodexEntry/TitleReference
@@ -7583,7 +7571,7 @@ msgstr "원천"
 #: da3_dlc_red\DesignContent\Codex\SideContent\DwarvenMugs\dlcred_cod_dwarvenmugs.xml:13
 msgctxt "0x000499dd"
 msgid "Dwarven Mugs"
-msgstr "드워프 머그컵"
+msgstr "드워프 머그잔"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\SideContent\Side_1\dlcred_cod_side1_warden_journal.xml
 #. PATH: CodexEntry/TitleReference
@@ -7604,25 +7592,25 @@ msgstr "아일사가 그린 지하 가도의 스케치"
 #: da3_dlc_red\DesignContent\Codex\SideContent\Side_3\dlcred_cod_side_3_kulg_journal.xml:13
 msgctxt "0x00048ab6"
 msgid "Kolg's Journal"
-msgstr ""
+msgstr "콜그의 일지"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\SideContent\Side_5_Chronicles\dlcred_cod_side_5_chronicles_journal.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\SideContent\Side_5_Chronicles\dlcred_cod_side_5_chronicles_journal.xml:13
 msgctxt "0x000499ee"
 msgid "Chronicles of a Forgotten War"
-msgstr ""
+msgstr "잊힌 전쟁 연대기"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\SideContent\TowersOfHanoi\dlcred_cod_TowersOfHanoi.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\SideContent\TowersOfHanoi\dlcred_cod_TowersOfHanoi.xml:13
 msgctxt "0x0004920f"
 msgid "Builder's Towers"
-msgstr ""
+msgstr "축조자의 탑"
 
 #. FILE: da3_dlc_red\DesignContent\Codex\dlcred_cod_codex_11.xml
 #. PATH: CodexEntry/TitleReference
 #: da3_dlc_red\DesignContent\Codex\dlcred_cod_codex_11.xml:30
 msgctxt "0x00049bca"
 msgid "The Descent Lore"
-msgstr ""
+msgstr "하강에 대한 설화"

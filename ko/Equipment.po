@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-17 16:00+0000\n"
-"Last-Translator: ByeongJinKang <kbj01010@gmail.com>\n"
+"PO-Revision-Date: 2021-02-19 03:00+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
 "Language: ko\n"
@@ -4163,6 +4163,7 @@ msgstr "테빈터 서책"
 #. FILE: DA3\Equipment\Crafting\Materials\recipe_material_rune_arcane_horror_heart.xml
 #. PATH: RecipeMaterial/DisplayName
 #: DA3\Equipment\Crafting\Materials\recipe_material_rune_arcane_horror_heart.xml:6
+#, fuzzy
 msgctxt "0x00044124"
 msgid "Arcane Horror Heart"
 msgstr "아케인 호러 심장"
@@ -6754,6 +6755,7 @@ msgstr "{string}276412{/string} {string}276431{/string}"
 #. FILE: DA3\Equipment\Crafting\Recipes\Armors\Multiplayer\recipe_MP_ArcaneWarrior_01.xml
 #. PATH: Recipe/DisplayName
 #: DA3\Equipment\Crafting\Recipes\Armors\Multiplayer\recipe_MP_ArcaneWarrior_01.xml:6
+#, fuzzy
 msgctxt "0x0004198c"
 msgid "Arcane Warrior's Armor"
 msgstr "비전 전사의 갑옷"
@@ -17902,952 +17904,952 @@ msgstr ""
 #: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t1_1.xml:6
 msgctxt "0x0002854b"
 msgid "Rugged Bow Grip"
-msgstr ""
+msgstr "질긴 장궁 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t1_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t1_2.xml:6
 msgctxt "0x0002833a"
 msgid "Firm Bow Grip"
-msgstr ""
+msgstr "단단한 장궁 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t2_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t2_1.xml:6
 msgctxt "0x0002854c"
 msgid "Masterwork Jagged Longbow Grip"
-msgstr ""
+msgstr "일품 뾰족뾰족한 장궁 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t2_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t2_2.xml:6
 msgctxt "0x0002854d"
 msgid "Ornate Longbow Grip"
-msgstr ""
+msgstr "장식된 장궁 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t2_3.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t2_3.xml:6
 msgctxt "0x00019063"
 msgid "Notched Longbow Grip"
-msgstr ""
+msgstr "톱니새김 장궁 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t2_4.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t2_4.xml:6
 msgctxt "0x0002854e"
 msgid "Guarded Longbow Grip"
-msgstr ""
+msgstr "보호대가 부착된 장궁 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t2_5_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t2_5_rare.xml:6
 msgctxt "0x0002854f"
 msgid "Masterwork Notched Longbow Grip"
-msgstr ""
+msgstr "일품 톱니새김 장궁 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t2_6.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t2_6.xml:6
 msgctxt "0x0001906c"
 msgid "Balanced Longbow Grip"
-msgstr ""
+msgstr "균형 잡힌 장궁 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t3_1_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t3_1_rare.xml:6
 msgctxt "0x00028550"
 msgid "Masterwork Wrapped Longbow Grip"
-msgstr ""
+msgstr "일품 꽁꽁 싸맨 장궁 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t3_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t3_2.xml:6
 msgctxt "0x00028551"
 msgid "Solid Longbow Grip"
-msgstr ""
+msgstr "견고한 장궁 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t3_3.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t3_3.xml:6
 msgctxt "0x00019248"
 msgid "Bound Longbow Grip"
-msgstr ""
+msgstr "꽉 묶은 장궁 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t3_4.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t3_4.xml:6
 msgctxt "0x0001924c"
 msgid "Dalish Firm Longbow Grip"
-msgstr ""
+msgstr "데일스 엘프 식 단단한 장궁 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t3_5_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t3_5_rare.xml:6
 msgctxt "0x00028552"
 msgid "Masterwork Carved Longbow Grip"
-msgstr ""
+msgstr "일품 새김무늬 장궁 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t3_6.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Bows\upgrade_bow_grip_t3_6.xml:6
 msgctxt "0x00019247"
 msgid "Thick Longbow Grip"
-msgstr ""
+msgstr "두꺼운 장궁 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dagger_grip_t1_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dagger_grip_t1_1.xml:6
 msgctxt "0x000285ec"
 msgid "Pointy Dagger Grip"
-msgstr ""
+msgstr "뾰족한 단검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dagger_grip_t1_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dagger_grip_t1_2.xml:6
 msgctxt "0x0002836f"
 msgid "Balanced Dagger Grip"
-msgstr ""
+msgstr "균형 잡힌 단검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dagger_grip_t2_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dagger_grip_t2_1.xml:6
 msgctxt "0x00028370"
 msgid "Pointy Dagger Grip"
-msgstr ""
+msgstr "뾰족한 단검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dagger_grip_t2_3.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dagger_grip_t2_3.xml:6
 msgctxt "0x000285ed"
 msgid "Edgy Dagger Grip"
-msgstr ""
+msgstr "날카로운 단검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dagger_grip_t2_4_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dagger_grip_t2_4_rare.xml:6
 msgctxt "0x000285ee"
 msgid "Masterwork Bound Dagger Grip"
-msgstr ""
+msgstr "일품 꽉 묶은 단검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dagger_grip_t2_5.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dagger_grip_t2_5.xml:6
 msgctxt "0x00020310"
 msgid "Three-Edged Dagger Grip"
-msgstr ""
+msgstr "삼중날 단검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dagger_grip_t3_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dagger_grip_t3_1.xml:6
 msgctxt "0x000285fe"
 msgid "Firm Dagger Grip"
-msgstr ""
+msgstr "단단한 단검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dualdagger_grip_t2_2_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dualdagger_grip_t2_2_rare.xml:6
 msgctxt "0x00028371"
 msgid "Masterwork Firm Dagger Grip"
-msgstr ""
+msgstr "일품 단단한 단검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dualdagger_grip_t2_6.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dualdagger_grip_t2_6.xml:6
 msgctxt "0x00020312"
 msgid "Firm Dual-Dagger Grip"
-msgstr ""
+msgstr "단단한 양날 단검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dualdagger_grip_t3_2_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dualdagger_grip_t3_2_rare.xml:6
 msgctxt "0x000285fc"
 msgid "Firm Dual-Dagger Grip"
-msgstr ""
+msgstr "단단한 양날 단검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dualdagger_grip_t3_3.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dualdagger_grip_t3_3.xml:6
 msgctxt "0x000285fd"
 msgid "Dense Dual-Blade Grip"
-msgstr ""
+msgstr "조밀한 양날 단검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dualdagger_grip_t3_5_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dualdagger_grip_t3_5_rare.xml:6
 msgctxt "0x000285ff"
 msgid "Superior Dual-Blade Grip"
-msgstr ""
+msgstr "우수한 양날 단검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dualdagger_grip_t3_6.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Daggers\upgrade_dualdagger_grip_t3_6.xml:6
 msgctxt "0x0002030a"
 msgid "Edged Dual-Blade Grip"
-msgstr ""
+msgstr "날이 선 양날 단검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_2handed_grip_t2_5.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_2handed_grip_t2_5.xml:6
 msgctxt "0x0001f720"
 msgid "Solid Two-Handed Haft"
-msgstr ""
+msgstr "견고한 양손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_2handed_grip_t2_6.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_2handed_grip_t2_6.xml:6
 msgctxt "0x0001f728"
 msgid "Wrapped Two-Handed Haft"
-msgstr ""
+msgstr "꽁꽁 싸맨 양손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_2handed_grip_t3_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_2handed_grip_t3_1.xml:6
 msgctxt "0x0001f721"
 msgid "Ornate Two-Handed Haft"
-msgstr ""
+msgstr "장식된 양손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_2handed_grip_t3_2_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_2handed_grip_t3_2_rare.xml:6
 msgctxt "0x0001f71e"
 msgid "Masterwork Engraved Two-Handed Haft"
-msgstr ""
+msgstr "일품 각인된 양손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_2handed_grip_t3_3.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_2handed_grip_t3_3.xml:6
 msgctxt "0x0001f723"
 msgid "Bound Two-Handed Haft"
-msgstr ""
+msgstr "꽉 묶은 양손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_2handed_grip_t3_4.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_2handed_grip_t3_4.xml:6
 msgctxt "0x0001f72e"
 msgid "Solid Two-Handed Haft"
-msgstr ""
+msgstr "견고한 양손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_pommel_t2_7_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_pommel_t2_7_rare.xml:6
 msgctxt "0x0001f72b"
 msgid "Balanced Two-Handed Grip"
-msgstr ""
+msgstr "균형 잡힌 양손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_pommel_t2_8.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_pommel_t2_8.xml:6
 msgctxt "0x0001f72c"
 msgid "Crown Pommel"
-msgstr ""
+msgstr "왕관 모양 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_pommel_t3_4.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_pommel_t3_4.xml:6
 msgctxt "0x0001f729"
 msgid "Wrapped Pommel"
-msgstr ""
+msgstr "꼭 싸맨 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_pommel_t3_5_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_pommel_t3_5_rare.xml:6
 msgctxt "0x0001f725"
 msgid "Masterwork Bladed Pommel"
-msgstr ""
+msgstr "일품 날 달린 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_pommel_t3_6.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_pommel_t3_6.xml:6
 msgctxt "0x0001f71b"
 msgid "Dense Pommel"
-msgstr ""
+msgstr "조밀한 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_pommel_t3_7.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greataxes\upgrade_pommel_t3_7.xml:6
 msgctxt "0x0001f71c"
 msgid "Engraved Pommel"
-msgstr ""
+msgstr "각인된 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t1_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t1_1.xml:6
 msgctxt "0x000284fc"
 msgid "Rugged Greatsword Grip"
-msgstr ""
+msgstr "튼튼한 대검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t1_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t1_2.xml:6
 msgctxt "0x0001f75d"
 msgid "Bladed Greatsword Grip"
-msgstr ""
+msgstr "날 달린 대검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t2_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t2_1.xml:6
 msgctxt "0x000284fd"
 msgid "Winged Greatsword Grip"
-msgstr ""
+msgstr "날개 달린 대검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t2_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t2_2.xml:6
 msgctxt "0x000284fe"
 msgid "Bulky Greatsword Grip"
-msgstr ""
+msgstr "굵은 대검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t2_3.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t2_3.xml:6
 msgctxt "0x0001f745"
 msgid "Balanced Greatsword Grip"
-msgstr ""
+msgstr "균형 잡힌 대검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t2_4.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t2_4.xml:6
 msgctxt "0x0001f756"
 msgid "Thick Greatsword Grip"
-msgstr ""
+msgstr "두꺼운 대검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t2_6_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t2_6_rare.xml:6
 msgctxt "0x0001f74d"
 msgid "Masterwork Spiked Greatsword Grip"
-msgstr ""
+msgstr "일품 뾰족뾰족한 대검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t3_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t3_1.xml:6
 msgctxt "0x0001f743"
 msgid "Narrow Greatsword Grip"
-msgstr ""
+msgstr "가느다란 대검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t3_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t3_2.xml:6
 msgctxt "0x0001f750"
 msgid "Butterfly Greatsword Grip"
-msgstr ""
+msgstr "나비 모양 대검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t3_3.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t3_3.xml:6
 msgctxt "0x000284ff"
 msgid "Masterwork Ornate Greatsword Grip"
-msgstr ""
+msgstr "일품 장식된 대검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t3_4.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t3_4.xml:6
 msgctxt "0x0001f75c"
 msgid "Ornate Greatsword Grip"
-msgstr ""
+msgstr "장식된 대검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t3_5.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t3_5.xml:6
 msgctxt "0x00028500"
 msgid "Firm Greatsword Grip"
-msgstr ""
+msgstr "단단한 대검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t3_6.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_gsword_grip_t3_6.xml:6
 msgctxt "0x0001f753"
 msgid "Curved Greatsword Grip"
-msgstr ""
+msgstr "굽어진 대검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_pommel_t1_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_pommel_t1_1.xml:6
 msgctxt "0x0001f742"
 msgid "Bladed Pommel"
-msgstr ""
+msgstr "날 달린 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_pommel_t2_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_pommel_t2_1.xml:6
 msgctxt "0x0001f73f"
 msgid "Engraved Pommel"
-msgstr ""
+msgstr "각인된 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_pommel_t2_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_pommel_t2_2.xml:6
 msgctxt "0x0001f758"
 msgid "Balanced Pommel"
-msgstr ""
+msgstr "균형 잡힌 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_pommel_t2_3.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_pommel_t2_3.xml:6
 msgctxt "0x0001f759"
 msgid "Bell Pommel"
-msgstr ""
+msgstr "방울 달린 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_pommel_t2_9.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_pommel_t2_9.xml:6
 msgctxt "0x0001fb89"
 msgid "Split Pommel"
-msgstr ""
+msgstr "갈라진 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_pommel_t3_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_pommel_t3_1.xml:6
 msgctxt "0x0001f74b"
 msgid "Giant Pommel"
-msgstr ""
+msgstr "거대한 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_pommel_t3_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_pommel_t3_2.xml:6
 msgctxt "0x0001f755"
 msgid "Reinforced Pommel"
-msgstr ""
+msgstr "강화된 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_pommel_t3_3.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Greatswords\upgrade_pommel_t3_3.xml:6
 msgctxt "0x0001f740"
 msgid "Bound Pommel"
-msgstr ""
+msgstr "꽉 묶은 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t1_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t1_1.xml:6
 msgctxt "0x00043b92"
 msgid "Fereldan Longsword Grip"
-msgstr ""
+msgstr "퍼렐던 식 장검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t1_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t1_2.xml:6
 msgctxt "0x00043b93"
 msgid "Qunari Slasher Grip"
-msgstr ""
+msgstr "쿠나리 절단기 자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t2_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t2_1.xml:6
 msgctxt "0x00043b94"
 msgid "Balanced Longsword Grip"
-msgstr ""
+msgstr "균형 잡힌 장검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t2_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t2_2.xml:6
 msgctxt "0x0001c042"
 msgid "Dwarven Longsword Grip"
-msgstr ""
+msgstr "드워프식 장검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t2_3.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t2_3.xml:6
 msgctxt "0x0001c04e"
 msgid "Firm Longsword Grip"
-msgstr ""
+msgstr "견고한 장검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t2_4.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t2_4.xml:6
 msgctxt "0x0001c050"
 msgid "Orlesian Officer Longsword Grip"
-msgstr ""
+msgstr "올레이 장교용 장검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t2_5_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t2_5_rare.xml:6
 msgctxt "0x0001c05a"
 msgid "Masterwork Fereldan Longsword Grip"
-msgstr ""
+msgstr "일품 퍼렐던 식 장검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t2_6.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t2_6.xml:6
 msgctxt "0x0001c05d"
 msgid "Dwarven Longsword Grip"
-msgstr ""
+msgstr "드워프 장검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t2_7.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t2_7.xml:6
 msgctxt "0x0001c059"
 msgid "Raider Sword Grip"
-msgstr ""
+msgstr "약탈단 장검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t3_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t3_1.xml:6
 msgctxt "0x0001c04d"
 msgid "Orlesian Officer Longsword Grip"
-msgstr ""
+msgstr "올레이 장교용 장검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t3_2_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t3_2_rare.xml:6
 msgctxt "0x0001c062"
 msgid "Sten Sword Grip"
-msgstr ""
+msgstr "스텐의 검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t3_3.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t3_3.xml:6
 msgctxt "0x0001c04a"
 msgid "Qunari Hunter Sword Grip"
-msgstr ""
+msgstr "쿠나리 사냥꾼 장검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t3_4.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t3_4.xml:6
 msgctxt "0x0001c04b"
 msgid "Tevinter Longsword Grip"
-msgstr ""
+msgstr "터빈터 식 장검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t3_5_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t3_5_rare.xml:6
 msgctxt "0x0001c054"
 msgid "Masterwork Curved Sword Grip"
-msgstr ""
+msgstr "일품 굽어진 장검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t3_6.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Longswords\upgrade_lsword_grip_t3_6.xml:6
 msgctxt "0x0001c058"
 msgid "Grey Warden Longsword Grip"
-msgstr ""
+msgstr "회색 감시자 장검자루"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Maces\upgrade_1handed_grip_t1_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Maces\upgrade_1handed_grip_t1_1.xml:6
 msgctxt "0x0001bc81"
 msgid "Firm One-Handed Haft"
-msgstr ""
+msgstr "견고한 한손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Maces\upgrade_1handed_grip_t2_1_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Maces\upgrade_1handed_grip_t2_1_rare.xml:6
 msgctxt "0x0001bc7e"
 msgid "Superior Hilted One-Handed Haft"
-msgstr ""
+msgstr "우수한 자루가 덧대진 한손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Maces\upgrade_1handed_grip_t2_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Maces\upgrade_1handed_grip_t2_2.xml:6
 msgctxt "0x0001bc8a"
 msgid "Spiked One-Handed Haft"
-msgstr ""
+msgstr "뾰족뾰족한 한손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Maces\upgrade_1handed_grip_t2_3.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Maces\upgrade_1handed_grip_t2_3.xml:6
 msgctxt "0x0001bc82"
 msgid "Edged One-Handed Haft"
-msgstr ""
+msgstr "날이 선 한손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Maces\upgrade_1handed_grip_t3_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Maces\upgrade_1handed_grip_t3_1.xml:6
 msgctxt "0x0001bc7d"
 msgid "Wrapped One-Handed Haft"
-msgstr ""
+msgstr "꽁꽁 싸맨 한손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Maces\upgrade_1handed_grip_t3_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Maces\upgrade_1handed_grip_t3_2.xml:6
 msgctxt "0x0001bc83"
 msgid "Firm One-Handed Haft"
-msgstr ""
+msgstr "견고한 한손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Maces\upgrade_1handed_grip_t3_3.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Maces\upgrade_1handed_grip_t3_3.xml:6
 msgctxt "0x0001bc84"
 msgid "Firm Dwarven One-Handed Haft"
-msgstr ""
+msgstr "견고한 드워프식 한손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Maces\upgrade_1handed_grip_t3_4_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Maces\upgrade_1handed_grip_t3_4_rare.xml:6
 msgctxt "0x0001bc86"
 msgid "Masterwork Wrapped One-Handed Haft"
-msgstr ""
+msgstr "일품 꽁꽁 싸맨 한손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_2handed_grip_t1_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_2handed_grip_t1_2.xml:6
 msgctxt "0x0001fb94"
 msgid "Dense Two-Handed Haft"
-msgstr ""
+msgstr "조밀한 양손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_2handed_grip_t2_1_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_2handed_grip_t2_1_rare.xml:6
 msgctxt "0x0001fb9a"
 msgid "Masterwork Firm Two-Handed Haft"
-msgstr ""
+msgstr "일품 견고한 양손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_2handed_grip_t2_3.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_2handed_grip_t2_3.xml:6
 msgctxt "0x0001fb96"
 msgid "Notched Two-Handed Haft"
-msgstr ""
+msgstr "톱니새김 양손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_2handed_grip_t2_4.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_2handed_grip_t2_4.xml:6
 msgctxt "0x0001fb9d"
 msgid "Firm Two-Handed Haft"
-msgstr ""
+msgstr "견고한 양손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_2handed_grip_t3_5.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_2handed_grip_t3_5.xml:6
 msgctxt "0x0001fb88"
 msgid "Decorative Two-Handed Haft"
-msgstr ""
+msgstr "장식적인 양손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_2handed_grip_t3_6.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_2handed_grip_t3_6.xml:6
 msgctxt "0x0001fb87"
 msgid "Enfolded Two-Handed Haft"
-msgstr ""
+msgstr "감싼 형태의 양손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_2handed_grip_t3_8_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_2handed_grip_t3_8_rare.xml:6
 msgctxt "0x0001fba1"
 msgid "Masterwork Inscribed Two-Handed Haft"
-msgstr ""
+msgstr "일품 글귀가 새겨진 양손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_pommel_t1_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_pommel_t1_2.xml:6
 msgctxt "0x0001fb93"
 msgid "Round Pommel"
-msgstr ""
+msgstr "둥근 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_pommel_t2_4_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_pommel_t2_4_rare.xml:6
 msgctxt "0x0001fb98"
 msgid "Masterwork Spiked Pommel"
-msgstr ""
+msgstr "일품 뾰족뾰족한 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_pommel_t2_5.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_pommel_t2_5.xml:6
 msgctxt "0x0001fb8d"
 msgid "Firm Round Pommel"
-msgstr ""
+msgstr "견고한 둥근 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_pommel_t3_10.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_pommel_t3_10.xml:6
 msgctxt "0x0001fba2"
 msgid "Miniature Pommel"
-msgstr ""
+msgstr "소형 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_pommel_t3_11_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_pommel_t3_11_rare.xml:6
 msgctxt "0x0001fb92"
 msgid "Masterwork Etched Pommel"
-msgstr ""
+msgstr "일품 날카로운 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_pommel_t3_8.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_pommel_t3_8.xml:6
 msgctxt "0x0001fb99"
 msgid "Masterwork Inscribed Pommel"
-msgstr ""
+msgstr "일품 글귀가 새겨진 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_pommel_t3_9.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Mauls\upgrade_pommel_t3_9.xml:6
 msgctxt "0x0001fb90"
 msgid "Etched Pommel"
-msgstr ""
+msgstr "날카로운 칼자루끝"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t1_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t1_1.xml:6
 msgctxt "0x0001fce4"
 msgid "Acolyte Staff Blade"
-msgstr ""
+msgstr "수습생용 지팡이날"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t1_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t1_2.xml:6
 msgctxt "0x0001fce3"
 msgid "Disciple Staff Blade"
-msgstr ""
+msgstr "수련생용 지팡이날"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t2_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t2_1.xml:6
 msgctxt "0x00028633"
 msgid "Ornate Staff Blade"
-msgstr ""
+msgstr "장식된 지팡이날"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t2_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t2_2.xml:6
 msgctxt "0x000283f9"
 msgid "Sturdy Staff Blade"
-msgstr ""
+msgstr "튼튼한 지팡이날"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t2_3.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t2_3.xml:6
 msgctxt "0x0001fce7"
 msgid "Keeper Staff Blade"
-msgstr ""
+msgstr "수호자 지팡이날"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t2_4.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t2_4.xml:6
 msgctxt "0x0001fce8"
 msgid "Magister Staff Blade"
-msgstr ""
+msgstr "마지스터 지팡이날"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t2_5.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t2_5.xml:6
 msgctxt "0x0001fce2"
 msgid "Apostate Staff Blade"
-msgstr ""
+msgstr "배교자 지팡이날"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t2_6_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t2_6_rare.xml:6
 msgctxt "0x0001fce0"
 msgid "Superior Enchanter Staff Blade"
-msgstr ""
+msgstr "우수한 마도사 지팡이날"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t3_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t3_1.xml:6
 msgctxt "0x00028634"
 msgid "Archmage Staff Blade"
-msgstr ""
+msgstr "대마법사 지팡이날"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t3_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t3_2.xml:6
 msgctxt "0x00028636"
 msgid "High Keeper Staff Blade"
-msgstr ""
+msgstr "고위수호자 지팡이날"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t3_3.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t3_3.xml:6
 msgctxt "0x00028637"
 msgid "Battlemage Staff Blade"
-msgstr ""
+msgstr "전투마법사 지팡이날"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t3_4_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t3_4_rare.xml:6
 msgctxt "0x0001fcdb"
 msgid "Masterwork Battlemage Staff Blade"
-msgstr ""
+msgstr "일품 전투마법사 지팡이날"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t3_5_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t3_5_rare.xml:6
 msgctxt "0x0002863f"
 msgid "Masterwork Sentinel Staff Blade"
-msgstr ""
+msgstr "일품 파수대 지팡이날"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t3_6.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t3_6.xml:6
 msgctxt "0x0001fce5"
 msgid "Sentinel Staff Blade"
-msgstr ""
+msgstr "파수대 지팡이날"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t1_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t1_1.xml:6
 msgctxt "0x0001fcdf"
 msgid "Bare Staff Grip"
-msgstr ""
+msgstr "앙상한 지팡이 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t1_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t1_2.xml:6
 msgctxt "0x0001fcde"
 msgid "Ironbark Staff Grip"
-msgstr ""
+msgstr "무쇠껍질나무 지팡이 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t2_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t2_1.xml:6
 msgctxt "0x00028613"
 msgid "Banded Staff Grip"
-msgstr ""
+msgstr "줄무늬 지팡이 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t2_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t2_2.xml:6
 msgctxt "0x000283f8"
 msgid "Inscribed Staff Grip"
-msgstr ""
+msgstr "글귀가 새겨진 지팡이 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t2_3.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t2_3.xml:6
 msgctxt "0x0001fce9"
 msgid "Enchanted Staff Grip"
-msgstr ""
+msgstr "마법부여된 지팡이 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t2_4_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t2_4_rare.xml:6
 msgctxt "0x0001fce1"
 msgid "Masterwork Imbued Staff Grip"
-msgstr ""
+msgstr "일품 마력으로 채워진 지팡이 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t2_5.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t2_5.xml:6
 msgctxt "0x0001fcea"
 msgid "Wrapped Staff Grip"
-msgstr ""
+msgstr "꽁꽁 싸맨 지팡이 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t2_6.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t2_6.xml:6
 msgctxt "0x0001fcdd"
 msgid "Notched Staff Grip"
-msgstr ""
+msgstr "날카로운 지팡이 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t3_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t3_1.xml:6
 msgctxt "0x00028614"
 msgid "Split Staff Grip"
-msgstr ""
+msgstr "갈라진 지팡이 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t3_2_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t3_2_rare.xml:6
 msgctxt "0x00028615"
 msgid "Masterwork Battlemage Staff Grip"
-msgstr ""
+msgstr "일품 전투마법사 지팡이 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t3_3.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t3_3.xml:6
 msgctxt "0x00028618"
 msgid "Ornate Staff Grip"
-msgstr ""
+msgstr "장식된 지팡이 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t3_4.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t3_4.xml:6
 msgctxt "0x0001fcdc"
 msgid "Thorny Staff Grip"
-msgstr ""
+msgstr "가시 돋은 지팡이 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t3_5_rare.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t3_5_rare.xml:6
 msgctxt "0x00028619"
 msgid "Masterwork Inscribed Staff Grip"
-msgstr ""
+msgstr "일품 글귀가 새겨진 지팡이 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t3_6.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_grip_t3_6.xml:6
 msgctxt "0x0001fce6"
 msgid "Thin Staff Grip"
-msgstr ""
+msgstr "가느다란 지팡이 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\upgrade_2handed_grip_t1_1.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\upgrade_2handed_grip_t1_1.xml:6
 msgctxt "0x000284e1"
 msgid "Rugged Two-Handed Haft"
-msgstr ""
+msgstr "튼튼한 양손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\upgrade_2handed_grip_t2_2.xml
 #. PATH: UpgradeItemAsset/DisplayName
 #: DA3\Equipment\Items\Upgrades\Weapons\upgrade_2handed_grip_t2_2.xml:6
 msgctxt "0x000284e3"
 msgid "Reinforced Two-Handed Haft"
-msgstr ""
+msgstr "강화된 양손무기 손잡이"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Amethyst.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Amethyst.xml:6
 msgctxt "0x00022f5e"
 msgid "Amethyst"
-msgstr ""
+msgstr "자수정"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Ancient_prisoner_bracelet.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Ancient_prisoner_bracelet.xml:6
 msgctxt "0x00040b9a"
 msgid "Ancient Penal Bracelet"
-msgstr ""
+msgstr "오래된 형벌용 수갑"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Ancient_prisoner_bracelet.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Ancient_prisoner_bracelet.xml:11
 msgctxt "0x00040b9b"
 msgid "An ancient Tevinter bracelet, used to brand and number prisoners."
-msgstr ""
+msgstr "죄수에게 낙인을 찍고 번호를 매기기 위해 사용된 고대의 터빈터 수갑이다."
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Aquamarine.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Aquamarine.xml:6
 msgctxt "0x00022f58"
 msgid "Aquamarine"
-msgstr ""
+msgstr "남옥"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Avvar_toy_soldier.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Avvar_toy_soldier.xml:6
 msgctxt "0x00029957"
 msgid "Avvar Toy Soldier"
-msgstr ""
+msgstr "아바르 장난감 병정"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Braid_of_rank.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Braid_of_rank.xml:6
 msgctxt "0x00029990"
 msgid "Braid of Rank"
-msgstr ""
+msgstr "계급장 장식용 술"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Ceremonial_Tevinter_Dagger.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Ceremonial_Tevinter_Dagger.xml:6
 msgctxt "0x00040447"
 msgid "Ceremonial Tevinter Dagger"
-msgstr ""
+msgstr "의례용 터빈터 단검"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Dalish_toy_soldier.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Dalish_toy_soldier.xml:6
 msgctxt "0x0002999e"
 msgid "Dalish Toy Soldier"
-msgstr ""
+msgstr "데일스 엘프 장난감 병정"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Figurine_Maferath.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Figurine_Maferath.xml:6
 msgctxt "0x0002996f"
 msgid "Figurine of Maferath the Betrayer"
-msgstr ""
+msgstr "배신자 마퍼라스 조각품"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Fragment_Of_Inadequate_Chainmail.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -18861,133 +18863,133 @@ msgstr "부적절한 체인 메일 조각"
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Fragment_Of_Inadequate_Chainmail.xml:11
 msgctxt "0x000436fd"
 msgid "The designer may have misheard \"Aureola of Protection.\""
-msgstr ""
+msgstr "제작자는 \"보호의 광륜\"이란 말뜻을 잘못 이해한 모양이다."
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Glass_fox.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Glass_fox.xml:6
 msgctxt "0x0002997d"
 msgid "Glass Fox"
-msgstr ""
+msgstr "유리로 된 여우 장식품"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Grouse_feather_charm.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Grouse_feather_charm.xml:6
 msgctxt "0x00029992"
 msgid "Grouse Feather Charm"
-msgstr ""
+msgstr "뇌조 깃털 부적"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Gurn_gallstone_charm.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Gurn_gallstone_charm.xml:6
 msgctxt "0x00029962"
 msgid "Gurn Gallstone Charm"
-msgstr ""
+msgstr "거른 담석 부적"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Lartys_slave_band.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Lartys_slave_band.xml:6
 msgctxt "0x00040837"
 msgid "Lartys Slave Band"
-msgstr ""
+msgstr "라르튀스 가문 노예 인장"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Lartys_slave_band.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Lartys_slave_band.xml:11
 msgctxt "0x00040b88"
 msgid "A ring, designed to be permanently affixed to the finger of a living slave belonging to House Lartys."
-msgstr ""
+msgstr "라르튀스 가문에 속한 노예의 손에 영구적으로 붙박이도록 만들어진 반지다."
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Lockpick.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Lockpick.xml:6
 msgctxt "0x0003200f"
 msgid "Masterwork Lockpick"
-msgstr ""
+msgstr "일품 자물쇠따개"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Lovers_knot_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Lovers_knot_1.xml:6
 msgctxt "0x0002997a"
 msgid "Lovers' Knot, Left Half"
-msgstr ""
+msgstr "연인의 매듭, 왼쪽 부분"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Lovers_knot_2.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Lovers_knot_2.xml:6
 msgctxt "0x0002999b"
 msgid "Lovers' Knot, Right Half"
-msgstr ""
+msgstr "연인의 매듭, 오른쪽 부분"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Miniature_spinning_wheel.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Miniature_spinning_wheel.xml:6
 msgctxt "0x0002996d"
 msgid "Miniature Spinning Wheel"
-msgstr ""
+msgstr "소형 물레"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Nug_totem.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Nug_totem.xml:6
 msgctxt "0x0002999f"
 msgid "Nug Totem"
-msgstr ""
+msgstr "너그 토템"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_One_Ring.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_One_Ring.xml:6
 msgctxt "0x00021cae"
 msgid "Gold Ring"
-msgstr ""
+msgstr "금반지"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_One_Ring.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_One_Ring.xml:11
 msgctxt "0x00041583"
 msgid "A Single Gold Ring"
-msgstr ""
+msgstr "금반지 한 개다."
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Personal_Locket.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Personal_Locket.xml:6
 msgctxt "0x00022f57"
 msgid "Personal Locket"
-msgstr ""
+msgstr "개인적인 그림이 든 목걸이"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Porcelain_cameo.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Porcelain_cameo.xml:6
 msgctxt "0x00029968"
 msgid "Porcelain Cameo"
-msgstr ""
+msgstr "도기 장신구"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Prayer_stones.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Prayer_stones.xml:6
 msgctxt "0x000299aa"
 msgid "Prayer Stones"
-msgstr ""
+msgstr "기도석"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Silver_Bracelet.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Silver_Bracelet.xml:6
 msgctxt "0x00022f5f"
 msgid "Silver Bracelet"
-msgstr ""
+msgstr "은팔찌"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Silver_Earrings.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Silver_Earrings.xml:6
 msgctxt "0x00022f5d"
 msgid "Silver Earrings"
-msgstr ""
+msgstr "은귀고리"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Specialist_crest.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Specialist_crest.xml:6
 msgctxt "0x000299a2"
 msgid "Specialist Crest"
-msgstr ""
+msgstr "특기병 문장"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Spider_eggs.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -19001,588 +19003,588 @@ msgstr "거미 알"
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_The_Paragon_Aeducan.xml:6
 msgctxt "0x0002995c"
 msgid "The Paragon Aeducan Carving"
-msgstr ""
+msgstr "파라곤 아이두칸 조각품"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Too_Many_Breeches.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Too_Many_Breeches.xml:6
 msgctxt "0x0004474d"
 msgid "Too Many Breeches"
-msgstr ""
+msgstr "과할 정도로 많은 반바지"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Topaz.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Topaz.xml:6
 msgctxt "0x00022f5b"
 msgid "Topaz"
-msgstr ""
+msgstr "토파즈"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier1\valuable_Wooden_Mabari_Figurine.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier1\valuable_Wooden_Mabari_Figurine.xml:6
 msgctxt "0x00021cb3"
 msgid "Wooden Mabari Figurine"
-msgstr ""
+msgstr "목제 마바리 조각품"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Antivan_toy_soldier.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Antivan_toy_soldier.xml:6
 msgctxt "0x00029959"
 msgid "Antivan Toy Soldier"
-msgstr ""
+msgstr "안티바 장난감 병정"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Bride_blood_vial.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Bride_blood_vial.xml:6
 msgctxt "0x00029993"
 msgid "Bride's Blood Vial"
-msgstr ""
+msgstr "새신부의 피를 담은 유리병"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Bronze_acorn_charm.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Bronze_acorn_charm.xml:6
 msgctxt "0x00029967"
 msgid "Bronze Acorn Charm"
-msgstr ""
+msgstr "청동 도토리 부적"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Chantry_candle_stub.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Chantry_candle_stub.xml:6
 msgctxt "0x000299a4"
 msgid "Chantry Candle Stub"
-msgstr ""
+msgstr "챈트리 양초 토막"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Dragon_Bounty.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Dragon_Bounty.xml:6
 msgctxt "0x0003fbb5"
 msgid "Bounty"
-msgstr ""
+msgstr "현상수배지"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Dragon_Bounty.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Dragon_Bounty.xml:11
 msgctxt "0x0003fbb6"
 msgid "A badly scorched bounty poster. The only identifiable features are a large winged lizard and the crest of Val Royeaux."
-msgstr ""
+msgstr "심하게 그슬린 현상수배 전단이다. 알아볼 수 있는 것이라고는 거대한 날개 달린 도마뱀 그림과 발 로요의 문장 뿐이다."
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Dragon_Sketches.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Dragon_Sketches.xml:6
 msgctxt "0x0003fa0d"
 msgid "Dragon Sketches"
-msgstr ""
+msgstr "용을 그린 스케치"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Dragon_Sketches.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Dragon_Sketches.xml:11
 msgctxt "0x0003fa0e"
 msgid "Charcoal sketches of a dragon. "
-msgstr ""
+msgstr "목탄으로 그린 용 그림이다. "
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Eagle_feather_charm.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Eagle_feather_charm.xml:6
 msgctxt "0x00029963"
 msgid "Eagle Feather Charm"
-msgstr ""
+msgstr "독수리 깃털 부적"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Fereldan_medallion_of_service.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Fereldan_medallion_of_service.xml:6
 msgctxt "0x0002998c"
 msgid "Fereldan Medallion of Service"
-msgstr ""
+msgstr "퍼렐던 군대 복무기념 메달"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Fereldan_toy_soldier.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Fereldan_toy_soldier.xml:6
 msgctxt "0x00029972"
 msgid "Fereldan Toy Soldier"
-msgstr ""
+msgstr "퍼렐던 장난감 병정"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Fire_Agate.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Fire_Agate.xml:6
 msgctxt "0x00022f60"
 msgid "Fire Agate"
-msgstr ""
+msgstr "불마노"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Glass_cameo.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Glass_cameo.xml:6
 msgctxt "0x00029995"
 msgid "Glass Cameo"
-msgstr ""
+msgstr "유리 장신구"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Glass_halla.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Glass_halla.xml:6
 msgctxt "0x00029981"
 msgid "Glass Halla"
-msgstr ""
+msgstr "유리로 된 할라 장신구"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Gold_Horn.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Gold_Horn.xml:6
 msgctxt "0x0003fc83"
 msgid "Gold Horn"
-msgstr ""
+msgstr "황금 뿔"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Gold_Horn.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Gold_Horn.xml:11
 msgctxt "0x0003fc84"
 msgid "It seems like a lot of people would be looking for this."
-msgstr ""
+msgstr "많은 사람들이 이 물건을 찾아다닐 것 같다."
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Herb_Book.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Herb_Book.xml:6
 msgctxt "0x0003f95e"
 msgid "Crude Herb Manual"
-msgstr ""
+msgstr "대충 써제낀 약초 용법"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Herb_Book.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Herb_Book.xml:11
 msgctxt "0x0003f95f"
 msgid "A crude book depicting various local herbs. It looks like it was drawn by a child."
-msgstr ""
+msgstr "지역에서 자라는 약초를 묘사하는 대충 만들어진 책이다. 아무래도 어린아이가 그린 것 같다."
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Hurlock_Skull.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Hurlock_Skull.xml:6
 msgctxt "0x00040049"
 msgid "Hurlock Head"
-msgstr ""
+msgstr "헐록 대가리"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Hurlock_Skull.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Hurlock_Skull.xml:11
 msgctxt "0x0004004a"
 msgid "The bloody head of a recently killed hurlock."
-msgstr ""
+msgstr "죽은 지 얼마 되지 않아 피가 뚝뚝 흐르는 헐록의 머리다."
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Mabari_totem.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Mabari_totem.xml:6
 msgctxt "0x000299a1"
 msgid "Mabari Totem"
-msgstr ""
+msgstr "마바리 토템"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Malachite.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Malachite.xml:6
 msgctxt "0x00022f62"
 msgid "Malachite"
-msgstr ""
+msgstr "공작석"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Miniature_throne.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Miniature_throne.xml:6
 msgctxt "0x000299a9"
 msgid "Miniature Throne"
-msgstr ""
+msgstr "축소판 옥좌 모양 장신구"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Polished_bezoar_charm.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Polished_bezoar_charm.xml:6
 msgctxt "0x0002996c"
 msgid "Polished Bezoar Charm"
-msgstr ""
+msgstr "문질러 광을 낸 위석 부적"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Quartz.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Quartz.xml:6
 msgctxt "0x00022f61"
 msgid "Quartz"
-msgstr ""
+msgstr "석영"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Silk_Handkerchief.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Silk_Handkerchief.xml:6
 msgctxt "0x00022f5c"
 msgid "Silk Handkerchief"
-msgstr ""
+msgstr "비단 손수건"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Silver_Necklace.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Silver_Necklace.xml:6
 msgctxt "0x00022f59"
 msgid "Silver Necklace"
-msgstr ""
+msgstr "은목걸이"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Silver_Ring.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Silver_Ring.xml:6
 msgctxt "0x00021cb1"
 msgid "Silver Ring"
-msgstr ""
+msgstr "은반지"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Silver_nug_foot_charm.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Silver_nug_foot_charm.xml:6
 msgctxt "0x00029988"
 msgid "Silver Nug Foot Charm"
-msgstr ""
+msgstr "은제 너그 발 부적"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Simple_Pendant.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Simple_Pendant.xml:6
 msgctxt "0x00022f5a"
 msgid "Simple Pendant"
-msgstr ""
+msgstr "단순한 목걸이"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Spider_Ichor.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Spider_Ichor.xml:6
 msgctxt "0x0004004b"
 msgid "Spider Ichor"
-msgstr ""
+msgstr "거미 영액"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Spider_Ichor.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Spider_Ichor.xml:11
 msgctxt "0x0004004c"
 msgid "The guts and innards of a now-dead spider."
-msgstr ""
+msgstr "죽은 거미의 내장이다."
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Spider_totem.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Spider_totem.xml:6
 msgctxt "0x000299a7"
 msgid "Spider Totem"
-msgstr ""
+msgstr "거미 토템"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Teddy_Bear.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Teddy_Bear.xml:6
 msgctxt "0x0003f987"
 msgid "Blood-Soaked Teddy Bear"
-msgstr ""
+msgstr "피에 흠뻑 젖은 곰인형"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Teddy_Bear.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Teddy_Bear.xml:11
 msgctxt "0x0003f988"
 msgid "A child's toy, now soaked in blood."
-msgstr ""
+msgstr "피에 흠뻑 젖어버린 어린아이 장난감이다."
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_The_Paragon_Astyth_the_Grey.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_The_Paragon_Astyth_the_Grey.xml:6
 msgctxt "0x0002998a"
 msgid "The Paragon Astyth the Grey Carving"
-msgstr ""
+msgstr "파라곤 회색의 아스티트 조각품"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Village_Contract.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Village_Contract.xml:6
 msgctxt "0x0003fa0f"
 msgid "Deed"
-msgstr ""
+msgstr "소유권 증서"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Village_Contract.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Village_Contract.xml:11
 msgctxt "0x0003fab8"
 msgid "A worn contract that appears to be a deed to a village. Wine stains make the village's name illegible."
-msgstr ""
+msgstr "마을의 소유권을 증빙하는 해진 계약서다. 포도주 얼룩 때문에 마을의 이름은 알아볼 수 없게 되었다."
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Wooden_Crow_Figurine.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Wooden_Crow_Figurine.xml:6
 msgctxt "0x00021cb4"
 msgid "Wooden Crow Figurine"
-msgstr ""
+msgstr "목제 까마귀 조각품"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier2\valuable_Wooden_Wolf_Figurine.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier2\valuable_Wooden_Wolf_Figurine.xml:6
 msgctxt "0x00021c9c"
 msgid "Wooden Wolf Figurine"
-msgstr ""
+msgstr "목제 늑대 조각품"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Amber.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Amber.xml:6
 msgctxt "0x00021cac"
 msgid "Amber"
-msgstr ""
+msgstr "호박석"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Antivan_medallion_of_service.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Antivan_medallion_of_service.xml:6
 msgctxt "0x00029969"
 msgid "Antivan Medallion of Service"
-msgstr ""
+msgstr "안티바 군대 복무기념 메달"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Battle_of_Valarian_knucklebone_relic.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Battle_of_Valarian_knucklebone_relic.xml:6
 msgctxt "0x000299a5"
 msgid "Battle of Valarian Knucklebone Relic"
-msgstr ""
+msgstr "발레리언 벌판의 전투를 기념하는 지골 유물"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Crystal_glass_bear.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Crystal_glass_bear.xml:6
 msgctxt "0x00029979"
 msgid "Crystal Glass Bear"
-msgstr ""
+msgstr "크리스털제 곰 장식품"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Cut_Crystal_lion.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Cut_Crystal_lion.xml:6
 msgctxt "0x00029971"
 msgid "Cut Crystal Lion"
-msgstr ""
+msgstr "잘린 크리스털제 사자 장식품"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Decorated_Pendant.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Decorated_Pendant.xml:6
 msgctxt "0x00021ca9"
 msgid "Decorated Pendant"
-msgstr ""
+msgstr "치장된 목걸이"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Engraved_Locket.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Engraved_Locket.xml:6
 msgctxt "0x00021c97"
 msgid "Engraved Locket"
-msgstr ""
+msgstr "글귀가 새겨진 로켓"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Fake_griffon_feather_charm.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Fake_griffon_feather_charm.xml:6
 msgctxt "0x00029958"
 msgid "Fake Griffon Feather Charm"
-msgstr ""
+msgstr "가짜 그리폰 깃털 부적"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Garnet.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Garnet.xml:6
 msgctxt "0x00021cb2"
 msgid "Garnet"
-msgstr ""
+msgstr "석류석"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Gold_Bracelet.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Gold_Bracelet.xml:6
 msgctxt "0x00021ca7"
 msgid "Gold Bracelet"
-msgstr ""
+msgstr "금팔찌"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Gold_Earirngs.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Gold_Earirngs.xml:6
 msgctxt "0x00021c9d"
 msgid "Gold Earrings"
-msgstr ""
+msgstr "금귀걸이"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Her_Red_Braid_woven_bracelet.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Her_Red_Braid_woven_bracelet.xml:6
 msgctxt "0x0002996a"
 msgid "Her Red Braid Woven Bracelet"
-msgstr ""
+msgstr "적발을 땋아 만든 팔찌"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Ivory_Griffin_Figurine.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Ivory_Griffin_Figurine.xml:6
 msgctxt "0x00021ca8"
 msgid "Ivory Griffon Figurine"
-msgstr ""
+msgstr "상아 그리폰 조각품"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Jade_cameo.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Jade_cameo.xml:6
 msgctxt "0x0002995f"
 msgid "Jade Cameo"
-msgstr ""
+msgstr "옥 장신구"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Maker_Bride_cameo.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Maker_Bride_cameo.xml:6
 msgctxt "0x00029984"
 msgid "Maker's Bride Cameo"
-msgstr ""
+msgstr "창조주의 정혼자 장신구"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Miniature_mask.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Miniature_mask.xml:6
 msgctxt "0x00029977"
 msgid "Miniature Mask"
-msgstr ""
+msgstr "소형 가면"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Nevarran_toy_soldier.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Nevarran_toy_soldier.xml:6
 msgctxt "0x0002997c"
 msgid "Nevarran Toy Soldier"
-msgstr ""
+msgstr "네바라 장난감 병정"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Qunari_toy_soldier.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Qunari_toy_soldier.xml:6
 msgctxt "0x0002997b"
 msgid "Qunari Toy Soldier"
-msgstr ""
+msgstr "쿠나리 장난감 병정"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Raven_totem.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Raven_totem.xml:6
 msgctxt "0x00029964"
 msgid "Raven Totem"
-msgstr ""
+msgstr "큰까마귀 토템"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Rivaini_medallion_of_service.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Rivaini_medallion_of_service.xml:6
 msgctxt "0x00029996"
 msgid "Rivaini Medallion of Service"
-msgstr ""
+msgstr "리베인 군대 복무기념 메달"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Ruby.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Ruby.xml:6
 msgctxt "0x00021caa"
 msgid "Ruby"
-msgstr ""
+msgstr "루비"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Shell_cameo.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Shell_cameo.xml:6
 msgctxt "0x00029975"
 msgid "Shell Cameo"
-msgstr ""
+msgstr "조개껍데기 장신구"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Silver_Necklace_Ornate.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Silver_Necklace_Ornate.xml:6
 msgctxt "0x00042214"
 msgid "Ornate Silver Necklace"
-msgstr ""
+msgstr "장식된 은목걸이"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Silver_Necklace_Ornate.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Silver_Necklace_Ornate.xml:11
 msgctxt "0x0004221e"
 msgid "A well-crafted silver necklace with an inscription: \"May our love endure. -R\""
-msgstr ""
+msgstr "훌륭하게 만들어진 은목걸이다. \"우리 사랑이 영원하기를. -R\" 이란 글귀가 새겨져 있다."
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Tavlas_gem_tooth.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Tavlas_gem_tooth.xml:6
 msgctxt "0x00040b8a"
 msgid "Tooth-Shaped Gem"
-msgstr ""
+msgstr "이빨모양 보석조각"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Tavlas_gem_tooth.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Tavlas_gem_tooth.xml:11
 msgctxt "0x00040b90"
 msgid "A tooth-shaped gem, clutched in a toothless, isolated prisoner's hand."
-msgstr ""
+msgstr "이빨이 빠진 채로 홀로 죽은 죄수의 손에서 발견된 이빨 모양 보석 조각이다."
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_The_Paragon_Branka.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_The_Paragon_Branka.xml:6
 msgctxt "0x00029986"
 msgid "The Paragon Branka Carving"
-msgstr ""
+msgstr "파라곤 브랑카 조각품"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_The_Paragon_Caridin.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_The_Paragon_Caridin.xml:6
 msgctxt "0x00029999"
 msgid "The Paragon Caridin Carving"
-msgstr ""
+msgstr "파라곤 캐리딘 조각품"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Vulture_feather_charm.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Vulture_feather_charm.xml:6
 msgctxt "0x00029970"
 msgid "Vulture Feather Charm"
-msgstr ""
+msgstr "대머리독수리 깃털 부적"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Wolf_totem.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Wolf_totem.xml:6
 msgctxt "0x00029991"
 msgid "Wolf Totem"
-msgstr ""
+msgstr "늑대 토템"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_dOnterre_Crest_Ring.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_dOnterre_Crest_Ring.xml:6
 msgctxt "0x0003ff60"
 msgid "D'Onterre Crest Ring"
-msgstr ""
+msgstr "동테르 가문 인장 반지"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier4\valuable_Agate_cameo.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier4\valuable_Agate_cameo.xml:6
 msgctxt "0x00029994"
 msgid "Agate Cameo"
-msgstr ""
+msgstr "마노 장신구"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier4\valuable_Carved_cricket_charm.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier4\valuable_Carved_cricket_charm.xml:6
 msgctxt "0x00029976"
 msgid "Carved Cricket Charm"
-msgstr ""
+msgstr "조각된 귀뚜라미 부적"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier4\valuable_Crystal_griffon.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier4\valuable_Crystal_griffon.xml:6
 msgctxt "0x000299a3"
 msgid "Crystal Griffon"
-msgstr ""
+msgstr "수정 그리폰 장식품"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier4\valuable_Darkspawn_totem.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier4\valuable_Darkspawn_totem.xml:6
 msgctxt "0x0002995b"
 msgid "Darkspawn Totem"
-msgstr ""
+msgstr "어둠피조물 토템"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier4\valuable_Dwarven_Dragon_Statue.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier4\valuable_Dwarven_Dragon_Statue.xml:6
 msgctxt "0x00040e5c"
 msgid "Dwarven Dragon Statuette "
-msgstr ""
+msgstr "드워프제 용 조각품 "
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier4\valuable_Dwarven_Plate.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier4\valuable_Dwarven_Plate.xml:6
 msgctxt "0x00040e5d"
 msgid "Dwarven Plate"
-msgstr ""
+msgstr "드워프제 접시"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier4\valuable_Dwarven_Statuette.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier4\valuable_Dwarven_Statuette.xml:6
 msgctxt "0x000406a5"
 msgid "Dwarven Statuette"
-msgstr ""
+msgstr "드워프 조각품"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier4\valuable_Dwarven_Toy_Soldier.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier4\valuable_Dwarven_Toy_Soldier.xml:6
 msgctxt "0x00040e5e"
 msgid "Dwarven Toy Soldier"
-msgstr ""
+msgstr "드워프 장난감 병정"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier4\valuable_Dwarven_Vase.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Items\Valuables\Tier4\valuable_Dwarven_Vase.xml:6
 msgctxt "0x000406a4"
 msgid "Dwarven Vase"
-msgstr ""
+msgstr "드워프제 화병"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier4\valuable_Engraved_Compass.xml
 #. PATH: StackedItemAsset/DisplayName
