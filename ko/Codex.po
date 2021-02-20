@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-19 03:00+0000\n"
-"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
+"PO-Revision-Date: 2021-02-20 20:00+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/codex/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -64,7 +64,7 @@ msgstr "황제 셀린느 발몬트"
 #: DA3\DesignContent\Codex\Lore\Characters\cod_cha_clarel.xml:30
 msgctxt "0x00041d69"
 msgid "Warden-Commander Clarel"
-msgstr "워든 사령관 클라렐"
+msgstr "감시자 사령관 클라렐"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_cole.xml
 #. PATH: CodexEntry/TitleReference
@@ -92,7 +92,7 @@ msgstr "컬렌"
 #: DA3\DesignContent\Codex\Lore\Characters\cod_cha_divine_justinia_v.xml:30
 msgctxt "0x0001712d"
 msgid "Divine Justinia V"
-msgstr "교황 저스티니아5세"
+msgstr "교황 저스티니아 5세"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Characters\cod_cha_dorian.xml
 #. PATH: CodexEntry/TitleReference
@@ -315,10 +315,9 @@ msgstr "지혜의 영혼"
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_arcane_horror.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_arcane_horror.xml:13
-#, fuzzy
 msgctxt "0x00041a7a"
 msgid "Arcane Horror"
-msgstr "불가해한 두려움"
+msgstr ""
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_archer.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -330,7 +329,6 @@ msgstr "궁수"
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_august_ram.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_august_ram.xml:13
-#, fuzzy
 msgctxt "0x00041b26"
 msgid "August Ram"
 msgstr "아우구스트 숫양"
@@ -345,6 +343,7 @@ msgstr "곰"
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_behemoth.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_behemoth.xml:13
+#, fuzzy
 msgctxt "0x000419b1"
 msgid "Behemoth"
 msgstr "거수"
@@ -528,9 +527,10 @@ msgstr "하이에나"
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_horror.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_horror.xml:13
+#, fuzzy
 msgctxt "0x00041a02"
 msgid "Horror"
-msgstr ""
+msgstr "참상"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_hurlock.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -577,6 +577,7 @@ msgstr "마법사"
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_nightmare.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_nightmare.xml:13
+#, fuzzy
 msgctxt "0x00041a44"
 msgid "Terror"
 msgstr "두려움"
@@ -642,28 +643,29 @@ msgstr "망령"
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_rtarcher.xml:13
 msgctxt "0x00043947"
 msgid "Red Templar Archers"
-msgstr "붉은 템플러 궁수"
+msgstr "붉은 성기사단 궁수"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_rtfootsoldier.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_rtfootsoldier.xml:13
 msgctxt "0x0004394c"
 msgid "Red Templar Foot Soldier"
-msgstr "붉은 템플러 보병"
+msgstr "붉은 성기사단 보병"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_rtguardsman.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_rtguardsman.xml:13
 msgctxt "0x0004394f"
 msgid "Red Templar Guardsman"
-msgstr "붉은 템플러 위병"
+msgstr "붉은 성기사단 위병"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_shade.xml
 #. PATH: CodexCollectableEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_shade.xml:13
+#, fuzzy
 msgctxt "0x0004191e"
 msgid "Shade"
-msgstr ""
+msgstr "어스름"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_shadow.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -745,6 +747,7 @@ msgstr "카르타"
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_chantry_founding.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_chantry_founding.xml:30
+#, fuzzy
 msgctxt "0x00043956"
 msgid "Founding of the Chantry"
 msgstr "성가회 창립"
@@ -780,6 +783,7 @@ msgstr "레드 제니의 친구들"
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_grey_wardens.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_grey_wardens.xml:30
+#, fuzzy
 msgctxt "0x00017154"
 msgid "The Grey Wardens"
 msgstr "그레이 워든"
@@ -787,6 +791,7 @@ msgstr "그레이 워든"
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_magisterium.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_magisterium.xml:30
+#, fuzzy
 msgctxt "0x00041aac"
 msgid "The Magisterium"
 msgstr "매지스티리움"
@@ -801,6 +806,7 @@ msgstr "드워프 상인 조합"
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_pentaghast.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_pentaghast.xml:30
+#, fuzzy
 msgctxt "0x00041b5b"
 msgid "The Pentaghasts"
 msgstr "펜타거스트 가문"
@@ -815,6 +821,7 @@ msgstr "쿠나리"
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_qunari_dreadnought.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_qunari_dreadnought.xml:30
+#, fuzzy
 msgctxt "0x00041849"
 msgid "Qunari Dreadnoughts"
 msgstr "쿠나리 드레드노트"
@@ -836,6 +843,7 @@ msgstr "붉은 성기사단"
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_seekers.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_seekers.xml:13
+#, fuzzy
 msgctxt "0x0004186f"
 msgid "The Seekers of Truth"
 msgstr "진리의 탐구자"
@@ -934,6 +942,7 @@ msgstr "안드라스테: 창조주의 아내"
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_chant_mythal.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_chant_mythal.xml:30
+#, fuzzy
 msgctxt "0x00041a54"
 msgid "What Pride Had Wrought"
 msgstr "오만이 자초한 것"
@@ -941,6 +950,7 @@ msgstr "오만이 자초한 것"
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_chant_seeker_fortress.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_chant_seeker_fortress.xml:30
+#, fuzzy
 msgctxt "0x00041a51"
 msgid "Champions of the Just"
 msgstr "의인의 용사들"
@@ -983,6 +993,7 @@ msgstr "데일스: 잃어버린 약속"
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_dalish_dirthamen.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_dalish_dirthamen.xml:30
+#, fuzzy
 msgctxt "0x00040e32"
 msgid "Dirthamen: Keeper of Secrets"
 msgstr "덜사멘: 비밀의 수호자"
@@ -990,6 +1001,7 @@ msgstr "덜사멘: 비밀의 수호자"
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_dalish_elgarnan.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_dalish_elgarnan.xml:30
+#, fuzzy
 msgctxt "0x00040e36"
 msgid "Elgar'nan: The All-Father"
 msgstr "엘가난: 최고신"
@@ -1025,6 +1037,7 @@ msgstr "주네: 공예의 신"
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_dalish_mythal.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_dalish_mythal.xml:30
+#, fuzzy
 msgctxt "0x00041809"
 msgid "Mythal: The Great Protector"
 msgstr "미살: 위대한 수호자"
@@ -1032,6 +1045,7 @@ msgstr "미살: 위대한 수호자"
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_dalish_sylaise.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_dalish_sylaise.xml:30
+#, fuzzy
 msgctxt "0x00040e3c"
 msgid "Sylaise: The Hearthkeeper"
 msgstr "사일레이스: 가정의 수호자"
@@ -1039,6 +1053,7 @@ msgstr "사일레이스: 가정의 수호자"
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_exalted_march_dales.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_exalted_march_dales.xml:30
+#, fuzzy
 msgctxt "0x00041813"
 msgid "The Exalted March of the Dales"
 msgstr "데일즈의 숭고한 행진"
@@ -4299,7 +4314,7 @@ msgstr "물품 목록"
 #: DA3\DesignContent\Codex\Plot\Hinterlands\fer_carta_meeting.xml:30
 msgctxt "0x0003244e"
 msgid "A Letter from the Carta"
-msgstr "카르타 발 편지"
+msgstr "카르타에서 온 편지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Hinterlands\fer_mage_stronghold.xml
 #. PATH: CodexEntry/TitleReference
@@ -5097,7 +5112,7 @@ msgstr "병력에 관한 견해"
 #: DA3\DesignContent\Codex\Plot\StormCoast\cod_storm_01_fallen_person_under_rocks.xml:13
 msgctxt "0x0004171b"
 msgid "A Supply List"
-msgstr "보급품 목록"
+msgstr "물품 목록"
 
 #. FILE: DA3\DesignContent\Codex\Plot\StormCoast\cod_storm_02_overlook_river.xml
 #. PATH: CodexEntry/TitleReference
@@ -5272,7 +5287,7 @@ msgstr "정찰병이 남긴 쪽지"
 #: DA3\DesignContent\Codex\Plot\TheBog\the_bog_blight_commoner_1.xml:13
 msgctxt "0x000270bb"
 msgid "Note from Lewis Dyer"
-msgstr "르위스 디에르가 남긴 쪽지"
+msgstr "르위스 다이어가 남긴 쪽지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\TheBog\the_bog_blight_commoner_2.xml
 #. PATH: CodexEntry/TitleReference
@@ -5723,7 +5738,7 @@ msgstr "폐하의 편의"
 #: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_hidden_book.xml:13
 msgctxt "0x0004279e"
 msgid "The Randy Dowager Quarterly"
-msgstr "랜디 미망인의 계간지"
+msgstr "난잡한 미망인의 계간지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_lovers_alcove.xml
 #. PATH: CodexEntry/TitleReference
@@ -6969,7 +6984,7 @@ msgstr "사아르아스"
 #: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_animal_handler.xml:13
 msgctxt "0x0004b28f"
 msgid "Animal Handler's Logbook"
-msgstr "동물 조련사 자격증"
+msgstr "동물 조련사의 업무 일지"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_ashaad.xml
 #. PATH: CodexEntry/TitleReference
@@ -7074,7 +7089,7 @@ msgstr "긴급 조치"
 #: da3_dlc_blue\designcontent\Codex\WinterPalace\DlcEnd_hub_Spymaster_Notes_PreCouncil.xml:13
 msgctxt "0x0004b067"
 msgid "Activity in the Winter Palace"
-msgstr "겨울 궁전에서 활동"
+msgstr "겨울 궁전의 수상한 활동들"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\WinterPalace\DlcEnd_hub_note_from_cook.xml
 #. PATH: CodexEntry/TitleReference

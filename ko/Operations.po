@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-19 03:00+0000\n"
-"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
+"PO-Revision-Date: 2021-02-20 20:00+0000\n"
+"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
 "Language: ko\n"
@@ -220,7 +220,7 @@ msgstr "백작의 초대"
 msgctxt "0x00040b51"
 msgid "We can't truly run a bannorn. But a well-chosen envoy could win us Fereldan allies."
 msgstr ""
-"사실 우리는 바논을 손에 넣더라도 제대로 운영할 수 없어요. 하지만 사절을 잘 골라 보낸다면, 페렐던 지원군을 얻는 건 가능합니다."
+"사실 우리는 남작령을 손에 넣더라도 제대로 운영할 수 없어요. 하지만 사절을 잘 골라 보낸다면, 페렐던 지원군을 얻는 건 가능합니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\gen_teagan_op1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -1384,7 +1384,8 @@ msgstr "제가 레드클리프의 마법사와 제 요원을 함께 보내 저�
 #: DA3\DesignContent\Operations\Global\CritPathReactivity\Redcliffe\gen_ops_red_mage_allies_1.xml:118
 msgctxt "0x0003fe2f"
 msgid "Rebel mages may not believe we aren't templars. I can ask the Bannorn for help contacting them."
-msgstr "반란 마법사들은 우리가 템플러가 아니라는걸 믿지 못할수도 있어요. 바논에게 요청해서 대신 저들과 접촉해달라고 부탁해 보겠습니다."
+msgstr ""
+"반란 마법사들은 우리가 성기사가 아니라는 걸 믿지 못할 수도 있어요. 남작령에 요청해서 대신 저들과 접촉해 달라고 부탁해 보겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\Redcliffe\gen_ops_red_mage_allies_1.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -2442,14 +2443,14 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_03.xml:37
 msgctxt "0x00040057"
 msgid "Red Jenny and the Bad Goods"
-msgstr ""
+msgstr "레드 제니와 좋지 않은 물건들"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_03.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_03.xml:140
 msgctxt "0x0004005a"
 msgid "Buying out the caravan would expose whether it is lead by an honest merchant or a conspirator against us."
-msgstr "교역단을 매수하면 이 정보가 정직한 상인이 보낸 것인지, 아니면 심문단에 대한 음모에 의한 것인지 드러낼 수 있을 거예요."
+msgstr "교역 마차를 매수하면 이 물건이 정직한 상인이 보낸 것인지, 아니면 심문회를 향한 음모인지 드러날 거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_03.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -2470,7 +2471,7 @@ msgstr "탠터베일에서 자금을 댄다고요? 커크월 사건 이후이니
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_04.xml:25
 msgctxt "0x0004007c"
 msgid "Red Jenny and the Tantervale Charade"
-msgstr ""
+msgstr "레드 제니와 탠터베일의 샤레이드"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_04.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -2486,14 +2487,14 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_04.xml:47
 msgctxt "0x0004006d"
 msgid "Red Jenny and the Imposters"
-msgstr ""
+msgstr "레드 제니와 사기꾼"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_04.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_04.xml:57
 msgctxt "0x00040067"
 msgid "A Trouble of Red Jennies"
-msgstr ""
+msgstr "레드 제니에게 생긴 문제"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_05.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -2563,7 +2564,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_07.xml:32
 msgctxt "0x00040079"
 msgid "Ignorance is no excuse—treat them like they knew. They'll give up their conspirators soon enough."
-msgstr ""
+msgstr "무지는 변명이 될 수 없습니다. 그들이 아는 그대로 그들을 대하세요. 그들은 곧 공모자와 관계를 끊을겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_07.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -2571,6 +2572,8 @@ msgstr ""
 msgctxt "0x00040077"
 msgid "If they do not know where their money went, test their commitment. Confront them directly, and demand the ringleader' s name."
 msgstr ""
+"그들이 자신들의 돈이 어디로 흐르는지 모른다면, 그들의 심문회에 대한 헌신을 시험해보면 됩니다. 그들과 직접 대면해서, 이 일의 주모자의 "
+"이름을 알아내도록 하죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_08.xml
 #. PATH: WarTableEntry/TitleReference
@@ -2620,7 +2623,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_bees.xml:10
 msgctxt "0x0003fc3f"
 msgid "I can send runners among the banns. If this weapon can help, it will be found."
-msgstr "제가 반들 사이로 심부름꾼을 들여보낼 수 있어요. 이 무기가 우리에게 도움이 된다면 찾아봐야겠죠."
+msgstr "제가 남작들 사이로 심부름꾼을 들여보낼 수 있어요. 이 무기가 우리에게 도움이 된다면 찾아봐야겠죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_bees.xml
 #. PATH: WarTableEntry/TitleReference
@@ -3670,6 +3673,7 @@ msgstr "스탁헤이븐과의 동맹"
 #. FILE: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_acquisition_dracolisk.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\Mounts\ops_mounts_acquisition_dracolisk.xml:100
+#, fuzzy
 msgctxt "0x00041ddf"
 msgid "The Hunter Shade Dracolisk"
 msgstr "헌터셰이드 드라콜리스크"
@@ -4190,8 +4194,8 @@ msgstr ""
 msgctxt "0x00040932"
 msgid "Bann Dorner sells his harvest to Antiva. If his taxes were mysteriously inflated, he'd have something to worry about besides us."
 msgstr ""
-"반 도너는 수확물을 안티바에 판매하고 있어요. 만약 그가 내야 할 세금이 이상할정도로 치솟는다면, 우리말고 다른 걱정거리에 정신을 쏟게 "
-"될 거예요."
+"도너 남작은 수확물을 안티바에 판매하고 있어요. 만약 그가 내야 할 세금이 이상할 정도로 치솟는다면, 우리 말고 다른 걱정거리에 정신을 "
+"쏟게 될 거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_human_2_secrets.xml
 #. PATH: WarTableEntry/TitleReference
@@ -4206,8 +4210,8 @@ msgstr "심문회의 평판을 지켜라"
 msgctxt "0x00040935"
 msgid "Bann Dorner has feuded with Starkhaven's royal family before. If we start rumors that he intends to begin again, he will be too busy managing that affair to poison ours."
 msgstr ""
-"반 도너는 예전에 스탁헤이븐의 왕실과 불화를 겪은 적이 있어요. 만약 그가 그 일을 다시 시작하려 한다는 소문을 흘린다면 그 문제를 "
-"해결하는 것만으로도 너무 바빠 우리에게 해를 끼칠 틈이 없을거예요."
+"도너 남작은 예전에 스탁헤이븐의 왕실과 불화를 겪은 적이 있어요. 만약 그가 그 일을 다시 시작하려 한다는 소문을 흘린다면 그 문제를 "
+"해결하는 것만으로도 너무 바빠 우리에게 해를 끼칠 틈이 없을 거예요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_human_2_secrets.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -7273,7 +7277,7 @@ msgstr "제 요원들을 보내도록 하죠. 다인원보다는 소수의 요�
 #: DA3\DesignContent\Operations\WorldUnlocks\Wld_region_bog.xml:143
 msgctxt "0x0003fd50"
 msgid "If I contact the local bann, she can send out search parties for the missing soldiers right away."
-msgstr "현지의 반에게 연락하면 그녀가 실종된 병사들을 수색할 대원들을 즉시 파견해 줄거예요."
+msgstr "현지의 남작에게 연락하면 그녀가 실종된 병사들을 수색할 대원들을 즉시 파견해 줄 거예요."
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\dlc_region_blackemporium.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -7619,13 +7623,15 @@ msgstr ""
 msgctxt "0x00046df9"
 msgid "We could use Dalish scouts. Bring clan Ghilain into the Inquisition; make the d'Amerides pay for our relative silence."
 msgstr ""
+"데일스를 정찰병으로 채용할 수 있습니다. 길라인 부족을 심문회로 데려오지요. 우리가 이 일에 대해 입을 다물고 해결해주는 것에 대해 디 "
+"아메리드에게 보상을 받도록 하죠."
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_ameridan_truth_op.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3_DLC1\DesignContent\Operations\dlc1_ameridan_truth_op.xml:37
 msgctxt "0x00046dfb"
 msgid "Assuage Ameridan's Heirs"
-msgstr ""
+msgstr "아메리단의 후손 달래기"
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_ameridan_truth_op.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -7633,27 +7639,29 @@ msgstr ""
 msgctxt "0x00046df8"
 msgid "If we bought the silence of clan Ghilain with a few mementos of their Inquisitor, the d'Amerides would be most grateful."
 msgstr ""
+"만일 우리가 길라인 부족에게 심문관의 기념품 몇 점을 손에 쥐어주어, 그들이 침묵해온 시간을 보상해준다면, 디 아메리드가 이에 대해 매우 "
+"기뻐할거예요."
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_ameridan_truth_op.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: DA3_DLC1\DesignContent\Operations\dlc1_ameridan_truth_op.xml:139
 msgctxt "0x00046df6"
 msgid "The d'Amerides have spent years profiting from a name they claimed falsely. The Dalish deserve honest reparations."
-msgstr ""
+msgstr "디 아메리드는 몇 년동안 거짓 이름으로 부당 이익을 챙겼습니다. 데일스는 정당한 보상을 받을 자격이 있습니다."
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_avvar_agents_bear.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3_DLC1\DesignContent\Operations\dlc1_avvar_agents_bear.xml:13
 msgctxt "0x00046ffe"
 msgid "Too Grizzly To Bear"
-msgstr ""
+msgstr "곰이라기엔 너무 곰같은"
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_avvar_agents_bear.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3_DLC1\DesignContent\Operations\dlc1_avvar_agents_bear.xml:90
 msgctxt "0x00046fff"
 msgid "I would prefer we keep our new friend out of harm's way. Let us find a cave for Storvacker until her service with us is complete."
-msgstr ""
+msgstr "저는 우리의 새 친구를 위험한 상황에 빠뜨리고 싶지 않습니다. 스트로바커가 우리와 일을 끝낸 후 지낼만한 동굴을 찾아보겠습니다."
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_avvar_agents_bear.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -7661,27 +7669,29 @@ msgstr ""
 msgctxt "0x00047000"
 msgid "Let me at least profit from this humiliation, and send Storvacker with our soldiers to impress the other Avvar."
 msgstr ""
+"이 일에서 최소한의 이득은 봐야 면이 설 것 같습니다. 스트로바커를 우리 병사들과 함께 보내면 다른 아바르들에게 깊은 인상을 심어줄 수 "
+"있을겁니다."
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_avvar_agents_conspiracyguy.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3_DLC1\DesignContent\Operations\dlc1_avvar_agents_conspiracyguy.xml:20
 msgctxt "0x00047008"
 msgid "Helsdim thinks he is resourceful. Let him prove it by giving us the names of the leaders."
-msgstr ""
+msgstr "헬스딤은 본인을 지략가라고 생각하는 사람입니다. 그가 이 일의 주모자를 밝혀내게 하여 스스로를 증명하게 하지요."
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_avvar_agents_conspiracyguy.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3_DLC1\DesignContent\Operations\dlc1_avvar_agents_conspiracyguy.xml:47
 msgctxt "0x00047004"
 msgid "A Conspiracy of Dunces"
-msgstr ""
+msgstr "어리석은 자들의 음모"
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_avvar_agents_conspiracyguy.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3_DLC1\DesignContent\Operations\dlc1_avvar_agents_conspiracyguy.xml:119
 msgctxt "0x00047006"
 msgid "I am sorry, but this is too ridiculous. Let us send an agent of our own to investigate any \"conspiracy.\""
-msgstr ""
+msgstr "죄송하지만 이건 너무나 터무니 없는 얘기예요. 요원 한명을 보내서 이 \"음모\"라는 게 정말 있는지 조사해보죠."
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_avvar_agents_mageexile.xml
 #. PATH: WarTableEntry/TitleReference
@@ -7709,28 +7719,28 @@ msgstr ""
 #: DA3_DLC1\DesignContent\Operations\dlc1_avvar_faction_skywatch_op.xml:13
 msgctxt "0x00046e5a"
 msgid "Send Skywatcher to Stone-Bear Hold"
-msgstr ""
+msgstr "하늘 감시자를 돌곰 요새로 보내라"
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_avvar_faction_skywatch_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3_DLC1\DesignContent\Operations\dlc1_avvar_faction_skywatch_op.xml:110
 msgctxt "0x00046e60"
 msgid "Skywatcher is from a different hold. Some friendly competition and tests of strength will bring both sides together."
-msgstr ""
+msgstr "하늘 감시자는 외지인입니다. 우호적인 경쟁과 힘을 시험하는 방식을 통해 양측을 하나로 합칠 수 있을겁니다."
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_avvar_faction_skywatch_op.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3_DLC1\DesignContent\Operations\dlc1_avvar_faction_skywatch_op.xml:134
 msgctxt "0x00046e5f"
 msgid "Let us send Skywatcher to Stone-Bear Hold as an honored guest. There would be celebration on both sides."
-msgstr ""
+msgstr "돌곰 요새로 하늘 감시자를 귀빈의 자격을 주어 보내겠습니다. 이는 양측 모두에게 축하할 일이 될거예요."
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_avvar_faction_tyrdda_op.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3_DLC1\DesignContent\Operations\dlc1_avvar_faction_tyrdda_op.xml:18
 msgctxt "0x00046e42"
 msgid "Send Relics of Tyrdda Bright-Ax"
-msgstr ""
+msgstr "티르다의 빛나는 도끼를 전달하자"
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_avvar_faction_tyrdda_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -7738,6 +7748,8 @@ msgstr ""
 msgctxt "0x00046e4c"
 msgid "The burial site is undisturbed except for the staff we removed. Let us tell the Avvar where the site is, so they can find it themselves. It shows our respect for their culture."
 msgstr ""
+"유물이 매장된 곳은 우리가 발굴한 지팡이를 제외하고는 어떤 것도 건드리지 않은 곳입니다. 아바르에게 위치를 알려주면 스스로 찾아낼 수 "
+"있을겁니다. 이렇게 하면 그들도 우리가 자신들의 문화를 존중하고 있다는 의미로 받아들이겠죠."
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_avvar_faction_tyrdda_op.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -7745,6 +7757,8 @@ msgstr ""
 msgctxt "0x00046e4b"
 msgid "The Avvar respect gifts. If we present Tyrdda's relics with ceremony, they will be grateful."
 msgstr ""
+"아바르는 선물을 주고받는 행위를 존중합니다. 만일 우리가 격식을 차려서 티르다의 유물을 그들에게 선물로 전하면, 우리에게 몹시 감사해할 "
+"거예요."
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_dalish_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -7793,35 +7807,35 @@ msgstr ""
 #: DA3_DLC1\DesignContent\Operations\dlc1_orinna_op.xml:18
 msgctxt "0x00046f03"
 msgid "An Appeal to the Shaperate"
-msgstr ""
+msgstr "Shaperate에 관한 요청"
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_orinna_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3_DLC1\DesignContent\Operations\dlc1_orinna_op.xml:90
 msgctxt "0x00046f06"
 msgid "We can send ambassadors to Orzammar to make the request. The right gifts to the right people may expedite the process."
-msgstr ""
+msgstr "오잠마에 대사를 보내 청을 넣겠습니다. 적절한 사람들에게 선물을 안겨주면 일을 신속히 처리할 수 있을거예요."
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_orinna_op.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3_DLC1\DesignContent\Operations\dlc1_orinna_op.xml:119
 msgctxt "0x00046f05"
 msgid "Information for information, then. I have reports on Carta activity the king may find... interesting."
-msgstr ""
+msgstr "정보에는 정보로 대응하죠. 제게 왕이 찾고있을지도 모르는 카르타 활동에 대한 보고서가 있습니다... 흥미로울 겁니다."
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_region_unlock_op.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
 #: DA3_DLC1\DesignContent\Operations\dlc1_region_unlock_op.xml:10
 msgctxt "0x00046dde"
 msgid "The University of Orlais has vouched for Professor Kenric. If he says there is something worthwhile in Frostback Basin, we should investigate."
-msgstr ""
+msgstr "올레이 대학은 켄릭 교수를 위해 보증까지 섰어요.그가 서리등선 분지에 뭔가가 있다고 생각한다면, 조사해야 해요."
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_region_unlock_op.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3_DLC1\DesignContent\Operations\dlc1_region_unlock_op.xml:35
 msgctxt "0x000451ad"
 msgid "Investigate Frostback Basin"
-msgstr ""
+msgstr "서리등선 분지 조사"
 
 #. FILE: DA3_DLC1\DesignContent\Operations\dlc1_research_camp_location_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -7863,7 +7877,7 @@ msgstr ""
 #: da3_dlc_blue\designcontent\Operations\dlcblue_region_unlock_op.xml:33
 msgctxt "0x0004aff1"
 msgid "Exalted Council"
-msgstr ""
+msgstr "고위급 회담"
 
 #. FILE: da3_dlc_blue\designcontent\Operations\dlcblue_region_unlock_op.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -8100,7 +8114,7 @@ msgstr "{string} 305810 {/ string} : 통에 든 보물 회수"
 #: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_11.xml:10
 msgctxt "0x0004a9aa"
 msgid "Our scouts will infiltrate behind Sha-Brytol lines to ascertain the veracity of these suppositions."
-msgstr ""
+msgstr "우리 정찰병들을 샤-브라이톨 전선에 잠임시켜 이 일에 대한 진실을 확인시키겠습니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_11.xml
 #. PATH: WarTableEntry/TitleReference
@@ -8114,7 +8128,7 @@ msgstr "저 너머의 길: 수호자의 메아리"
 #: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_12.xml:10
 msgctxt "0x0004a9ad"
 msgid "A show of force will make it clear that the Sha-Brytol cannot operate freely in the area."
-msgstr ""
+msgstr "무력을 과시하면 샤-브라이톨이 해당 지역에서 자유롭게 활동할 수 없다는 걸 분명하게 표현할 수 있습니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_12.xml
 #. PATH: WarTableEntry/TitleReference
