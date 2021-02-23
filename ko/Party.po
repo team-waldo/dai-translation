@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-16 09:00+0000\n"
-"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
+"PO-Revision-Date: 2021-02-23 08:00+0000\n"
+"Last-Translator: 큡수뎃 <quoobt@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3236,7 +3236,7 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\BarbedArmor\party_warrior_passive_barbedarmor_abilitydata.xml:5
 msgctxt "0x0004289e"
 msgid "It'll Cost You"
-msgstr ""
+msgstr "너도 아플걸"
 
 #. FILE: DA3\Party\Warrior\Passives\BarbedArmor\party_warrior_passive_barbedarmor_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3246,6 +3246,8 @@ msgid ""
 "Any foe that attacks you in melee is going to bleed for it, taking a portion of the damage they inflict.\n"
 "\n"
 msgstr ""
+"근접 거리에서 당신을 공격하는 적들은 자신이 가하는 피해의 일부분을 돌려받습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\BarbedArmor\party_warrior_passive_barbedarmor_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -3259,7 +3261,7 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\Bloodseeker\party_warrior_passive_bloodseeker_abilitydata.xml:5
 msgctxt "0x000428d7"
 msgid "Scenting Blood"
-msgstr ""
+msgstr "피냄새 탐지"
 
 #. FILE: DA3\Party\Warrior\Passives\Bloodseeker\party_warrior_passive_bloodseeker_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3269,13 +3271,15 @@ msgid ""
 "Being near a badly wounded enemy spurs you into a frenzy, driving you to move faster and giving you a better chance of striking deadly blows.\n"
 "\n"
 msgstr ""
+"중상을 입은 적이 주변에 있다면 광분 상태에 빠집니다. 이동 속도가 빨라지고, 치명적인 일격을 가할 확률이 증가합니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\Bulwark\party_warrior_passive_bulwark_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\Warrior\Passives\Bulwark\party_warrior_passive_bulwark_abilitydata.xml:5
 msgctxt "0x000428b3"
 msgid "Bulwark"
-msgstr ""
+msgstr "방벽"
 
 #. FILE: DA3\Party\Warrior\Passives\Bulwark\party_warrior_passive_bulwark_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3285,6 +3289,8 @@ msgid ""
 "You stand all the stronger to finish the fight, gaining a bonus to your maximum guard.\n"
 "\n"
 msgstr ""
+"굳센 힘으로 전투를 마무리 짓습니다. 최대 방어도가 추가로 늘어납니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\Bulwark\party_warrior_passive_bulwark_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -3308,6 +3314,8 @@ msgid ""
 "Your faith is your protection against the elements, and not for you alone. The entire party gains increased resistance to fire, ice, electric, and spirit damage.\n"
 "\n"
 msgstr ""
+"믿음이 곧 당신과 당신의 동료를 마법으로부터 지켜주는 울타리입니다. 아군 전체가 불, 얼음, 전기, 영혼 공격에 추가 내성을 얻습니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\CombatPacing\party_warrior_passive_combatpacing_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -3324,6 +3332,8 @@ msgid ""
 "You get your breath back faster than most. When your stamina is very low, it regenerates more quickly.\n"
 "\n"
 msgstr ""
+"당신은 다른 이들에 비해 회복력이 월등합니다. 지구력이 매우 낮으면 지구력이 더욱 빨리 차오릅니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\CombatPacing\party_warrior_passive_combatpacing_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -5605,7 +5615,7 @@ msgstr ""
 #: DA3\Party\general\AbilityTrees\Warrior_IronBull_Spec_AbilityTree.xml:5
 msgctxt "0x0002cafb"
 msgid "Reaver"
-msgstr "리버"
+msgstr "도륙자"
 
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_IronBull_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference

@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-20 20:00+0000\n"
-"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
+"PO-Revision-Date: 2021-02-23 08:00+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -118,7 +118,7 @@ msgstr "궁수"
 #: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_barbarian.xml:8078
 msgctxt "0x0002254d"
 msgid "Katari"
-msgstr ""
+msgstr "카타리"
 
 #. FILE: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_duelist.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -132,28 +132,28 @@ msgstr "암살자"
 #: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_elementalist.xml:8020
 msgctxt "0x00022548"
 msgid "Elementalist"
-msgstr ""
+msgstr "원소술사"
 
 #. FILE: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_guardian.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 #: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_guardian.xml:7142
 msgctxt "0x00022549"
 msgid "Legionnaire"
-msgstr ""
+msgstr "군단 용사"
 
 #. FILE: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_hunter.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 #: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_hunter.xml:7895
 msgctxt "0x0003f947"
 msgid "Hunter"
-msgstr ""
+msgstr "사냥꾼"
 
 #. FILE: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_keeper.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 #: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_keeper.xml:7676
 msgctxt "0x0002254a"
 msgid "Keeper"
-msgstr ""
+msgstr "수호자"
 
 #. FILE: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_necromancer.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -167,7 +167,7 @@ msgstr "사령술사"
 #: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_reaver.xml:7150
 msgctxt "0x0003f949"
 msgid "Reaver"
-msgstr ""
+msgstr "도륙자"
 
 #. FILE: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_templar.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -189,21 +189,21 @@ msgstr "되살리기 (꾹 눌러서)"
 #: DA3\Actors\party\gen_partymember.xml:15386
 msgctxt "0x00044872"
 msgid "All Ability Points Refunded"
-msgstr ""
+msgstr "모든 능력 점수가 반환됨"
 
 #. FILE: DA3\Actors\party\gen_partymember.xml
 #. PATH: NotificationEntityData[2]/TitleTextReference
 #: DA3\Actors\party\gen_partymember.xml:15404
 msgctxt "0x00041b72"
 msgid "Ability Point Gained"
-msgstr ""
+msgstr "능력 점수 획득함"
 
 #. FILE: DA3\Ambients\Prefabs\Reactive\Groups\Inquisition_Supplies_Patrol_fer_Crestwood.xml
 #. PATH: LootContainerData/LootContainerName
 #: DA3\Ambients\Prefabs\Reactive\Groups\Inquisition_Supplies_Patrol_fer_Crestwood.xml:1943
 msgctxt "0x00013647"
 msgid "Chest"
-msgstr ""
+msgstr "상자"
 
 #. FILE: DA3\Combat\DisplayBuffs\Ability_BattleStandard_Buff.xml
 #. PATH: StatusEffect/Description
@@ -217,7 +217,7 @@ msgstr ""
 #: DA3\Combat\DisplayBuffs\Ability_DisableAllies_Buff.xml:11
 msgctxt "0x00043b63"
 msgid "Confused"
-msgstr ""
+msgstr "혼란"
 
 #. FILE: DA3\Combat\DisplayBuffs\Ability_Doomblade_Buff.xml
 #. PATH: StatusEffect/Description
@@ -301,14 +301,14 @@ msgstr ""
 #: DA3\Combat\DisplayBuffs\Stealth_Buff.xml:11
 msgctxt "0x00041a2a"
 msgid "Stealth"
-msgstr ""
+msgstr "은신"
 
 #. FILE: DA3\Combat\DisplayBuffs\TimeStop_Buff.xml
 #. PATH: StatusEffect/Description
 #: DA3\Combat\DisplayBuffs\TimeStop_Buff.xml:11
 msgctxt "0x00032114"
 msgid "Stasis Lock"
-msgstr ""
+msgstr "사물 정지"
 
 #. FILE: DA3\Combat\Environment\Hazards\GroundFire.xml
 #. PATH: BWPopUpEntityData/Text
@@ -322,7 +322,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Ammo.xml:5
 msgctxt "0x0001328a"
 msgid "Focus"
-msgstr ""
+msgstr "집중도"
 
 #. FILE: DA3\Combat\Stats\Stat_Ammo.xml
 #. PATH: BWDepletableStat/StatDescription
@@ -367,7 +367,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Ammo_Max.xml:5
 msgctxt "0x0001328b"
 msgid "Maximum Focus"
-msgstr ""
+msgstr "최대 집중도"
 
 #. FILE: DA3\Combat\Stats\Stat_Ammo_Max.xml
 #. PATH: BWModifiableStat/StatDescription
@@ -416,7 +416,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Armor_Penetration.xml:5
 msgctxt "0x00031daa"
 msgid "Armor Penetration"
-msgstr ""
+msgstr "방어력 관통"
 
 #. FILE: DA3\Combat\Stats\Stat_Armor_Penetration.xml
 #. PATH: BWModifiableStat/StatDescription
@@ -430,7 +430,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Armor_Penetration_Percentage.xml:5
 msgctxt "0x00031dab"
 msgid "Armor Penetration"
-msgstr ""
+msgstr "방어력 관통"
 
 #. FILE: DA3\Combat\Stats\Stat_Armor_Rating.xml
 #. PATH: BWModifiableStat/StatName
@@ -451,7 +451,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Attack.xml:5
 msgctxt "0x00013308"
 msgid "Attack"
-msgstr ""
+msgstr "공격"
 
 #. FILE: DA3\Combat\Stats\Stat_Attack.xml
 #. PATH: BWModifiableStat/StatDescription
@@ -486,14 +486,14 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Barrier_Max.xml:5
 msgctxt "0x00013310"
 msgid "Barrier Max"
-msgstr ""
+msgstr "방어막 최대"
 
 #. FILE: DA3\Combat\Stats\Stat_Barrier_Regeneration.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_Barrier_Regeneration.xml:5
 msgctxt "0x0001330f"
 msgid "Barrier Regeneration"
-msgstr ""
+msgstr "방어막 재생"
 
 #. FILE: DA3\Combat\Stats\Stat_Bleed_Duration_Modifier.xml
 #. PATH: BWModifiableStat/StatName
@@ -577,7 +577,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Consumable.xml:5
 msgctxt "0x0001328c"
 msgid "Mana/Stamina"
-msgstr ""
+msgstr "마나/지구력"
 
 #. FILE: DA3\Combat\Stats\Stat_Consumable.xml
 #. PATH: BWDepletableStat/StatDescription
@@ -598,7 +598,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Consumable_Max.xml:5
 msgctxt "0x0001328d"
 msgid "Maximum Mana/Stamina"
-msgstr ""
+msgstr "최대 마나/지구력"
 
 #. FILE: DA3\Combat\Stats\Stat_Consumable_Max.xml
 #. PATH: BWModifiableStat/StatDescription
@@ -9249,7 +9249,7 @@ msgstr ""
 #: DA3\DesignContent\Items\WesternApproach\dgn_l_110\dgn_l_110_shard.xml:6
 msgctxt "0x00019846"
 msgid "Keystone"
-msgstr ""
+msgstr "쐐기돌"
 
 #. FILE: DA3\DesignContent\Items\WesternApproach\dgn_l_110\dgn_l_110_shard.xml
 #. PATH: StackedItemAsset/Description
@@ -18876,7 +18876,7 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Prefabs\Interactions\Collectibles\dlcred_DwarvenMug_09.xml:439
 msgctxt "0x000499e4"
 msgid "Vessel of the Ancients"
-msgstr ""
+msgstr "고대인의 그릇"
 
 #. FILE: da3_dlc_red\DesignContent\Prefabs\Interactions\Collectibles\dlcred_DwarvenMug_10.xml
 #. PATH: BWGameInteractionEntityData[1]/InteractionTextReference

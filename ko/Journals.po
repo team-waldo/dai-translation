@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-20 20:00+0000\n"
-"Last-Translator: 박성범 <psb3421@naver.com>\n"
+"PO-Revision-Date: 2021-02-23 08:00+0000\n"
+"Last-Translator: Gladion <orcish28104@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,10 +13,9 @@ msgstr ""
 #. FILE: DA3\DesignContent\Journals\Adamant\ada_adamant_main_journal.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Adamant\ada_adamant_main_journal.xml:13
-#, fuzzy
 msgctxt "0x00004bc4"
 msgid "Here Lies the Abyss"
-msgstr "여기 심연이 드리우다"
+msgstr "여기 심연이 도래했노라"
 
 #. FILE: DA3\DesignContent\Journals\Adamant\ada_fade_order_puzzle_journal.xml
 #. PATH: JournalEntry/TitleReference
@@ -1531,21 +1530,22 @@ msgstr "숨죽인 속삭임"
 #: DA3\DesignContent\Journals\SeekerFortress\see_BarrierTakedown_event.xml:30
 msgctxt "0x0003a73e"
 msgid "Barrier Takedown"
-msgstr ""
+msgstr "방어막 분쇄"
 
 #. FILE: DA3\DesignContent\Journals\SeekerFortress\see_GreatHallStrength_event.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\SeekerFortress\see_GreatHallStrength_event.xml:13
 msgctxt "0x0003886d"
 msgid "Holding the Great Hall"
-msgstr ""
+msgstr "대강당 사수"
 
 #. FILE: DA3\DesignContent\Journals\SeekerFortress\see_NightmareCollection_journal.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\SeekerFortress\see_NightmareCollection_journal.xml:13
+#, fuzzy
 msgctxt "0x0003245a"
 msgid "Demonic Dogma"
-msgstr ""
+msgstr "악마적인 신조"
 
 #. FILE: DA3\DesignContent\Journals\SeekerFortress\see_main_journal.xml
 #. PATH: JournalEntry/TitleReference
@@ -1559,49 +1559,49 @@ msgstr "정의의 투사"
 #: DA3\DesignContent\Journals\Setback\setback_evac_journal.xml:13
 msgctxt "0x000371d2"
 msgid "Evacuate Haven"
-msgstr ""
+msgstr "헤이븐으로 피난"
 
 #. FILE: DA3\DesignContent\Journals\Setback\setback_main_journal.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Setback\setback_main_journal.xml:13
 msgctxt "0x0002315f"
 msgid "In Your Heart Shall Burn"
-msgstr ""
+msgstr "네 속은 타오를지니"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_barris_promotion.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_barris_promotion.xml:13
 msgctxt "0x00043742"
 msgid "Promoting Barris"
-msgstr ""
+msgstr "배리스 진급"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_collection_banners.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_collection_banners.xml:13
 msgctxt "0x00042a8b"
 msgid "Banners"
-msgstr ""
+msgstr "깃발"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_collection_beds.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_collection_beds.xml:13
 msgctxt "0x00042a90"
 msgid "Beds"
-msgstr ""
+msgstr "침대"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_collection_drapes.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_collection_drapes.xml:13
 msgctxt "0x00042a97"
 msgid "Drapes"
-msgstr ""
+msgstr "커튼"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_collection_heraldry.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_collection_heraldry.xml:13
 msgctxt "0x00042a9a"
 msgid "Heraldry"
-msgstr ""
+msgstr "문장학"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_collection_nursery.xml
 #. PATH: JournalEntry/TitleReference
@@ -1623,112 +1623,113 @@ msgstr "탈것"
 #: DA3\DesignContent\Journals\Skyhold\sky_collection_thrones.xml:13
 msgctxt "0x00042aa2"
 msgid "Thrones"
-msgstr ""
+msgstr "왕좌"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_collection_upgrades.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_collection_upgrades.xml:13
 msgctxt "0x00042aa5"
 msgid "Major Upgrades"
-msgstr ""
+msgstr "주요 강화"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_collection_windows.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_collection_windows.xml:13
 msgctxt "0x00042aa7"
 msgid "Windows"
-msgstr ""
+msgstr "창문"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_customization.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_customization.xml:13
 msgctxt "0x00043d30"
 msgid "Inquisition Trappings"
-msgstr ""
+msgstr "심문회 장식"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_intro.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_intro.xml:13
 msgctxt "0x0003ed73"
 msgid "Welcome to Skyhold"
-msgstr ""
+msgstr "스카이홀드에 오신 것을 환영합니다"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_judgement.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_judgement.xml:13
+#, fuzzy
 msgctxt "0x00041ace"
 msgid "Sit in Judgment"
-msgstr ""
+msgstr "법정에 서다"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_mosaic_1.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_mosaic_1.xml:13
 msgctxt "0x00042275"
 msgid "Sacrifice"
-msgstr ""
+msgstr "희생"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_mosaic_2.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_mosaic_2.xml:13
 msgctxt "0x00042279"
 msgid "Invasion"
-msgstr ""
+msgstr "침략"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_mosaic_3.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_mosaic_3.xml:13
 msgctxt "0x0004227c"
 msgid "The Fall"
-msgstr ""
+msgstr "몰락"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_mosaic_4.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_mosaic_4.xml:13
 msgctxt "0x00042281"
 msgid "The Archdemon"
-msgstr ""
+msgstr "대악마"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_mosaic_5.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_mosaic_5.xml:13
 msgctxt "0x00042283"
 msgid "Freed Are Slaves"
-msgstr ""
+msgstr "해방된 노예들"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_new_merchants.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_new_merchants.xml:13
 msgctxt "0x000436d7"
 msgid "New Merchant in Skyhold"
-msgstr ""
+msgstr "스카이홀드의 새로운 상인"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_rune_crafting.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_rune_crafting.xml:30
 msgctxt "0x00044ee5"
 msgid "Rune Crafting"
-msgstr ""
+msgstr "룬 공예"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_smith.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_smith.xml:30
 msgctxt "0x00041b99"
 msgid "Advanced Crafting"
-msgstr ""
+msgstr "고급 제작"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_varrics_books.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Skyhold\sky_varrics_books.xml:13
 msgctxt "0x0004227d"
 msgid "Scattered in Skyhold"
-msgstr ""
+msgstr "스카이홀드에 흩어져 있다"
 
 #. FILE: DA3\DesignContent\Journals\TempleOfMythal\myt_main_journal.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TempleOfMythal\myt_main_journal.xml:13
 msgctxt "0x00004c3a"
 msgid "What Pride Had Wrought"
-msgstr ""
+msgstr "교만이 초래한 일"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_op_final_boss.xml
 #. PATH: JournalEntry/TitleReference
@@ -1742,21 +1743,21 @@ msgstr "인형사"
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_angrybear.xml:13
 msgctxt "0x0003ac52"
 msgid "A Bear to Cross"
-msgstr ""
+msgstr "교차로의 곰"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_astrarium.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_astrarium.xml:13
 msgctxt "0x0003b0ca"
 msgid "Astrariums in the Graves"
-msgstr ""
+msgstr "무덤 속의 천체 투영관"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_defeat_auguste.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_defeat_auguste.xml:13
 msgctxt "0x00032f22"
 msgid "A Deluded Chevalier"
-msgstr ""
+msgstr "현혹된 슈발리에"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_defeat_costeau.xml
 #. PATH: JournalEntry/TitleReference
@@ -1770,28 +1771,28 @@ msgstr "타락한 수녀"
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_defeat_duhaime.xml:13
 msgctxt "0x00032f28"
 msgid "A Vicious Thug"
-msgstr ""
+msgstr "악랄한 불량배"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_defeat_maliphant.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_defeat_maliphant.xml:13
 msgctxt "0x00032f2b"
 msgid "A Corrupt General"
-msgstr ""
+msgstr "부패한 장군"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_faderift_camp_01.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_faderift_camp_01.xml:13
 msgctxt "0x0003837f"
 msgid "Rifts at the Cove"
-msgstr ""
+msgstr "해안 만의 균열"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_faderift_camp_02.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_faderift_camp_02.xml:13
 msgctxt "0x00035ff3"
 msgid "Rifts at the Pavilion"
-msgstr ""
+msgstr "누각의 균열"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_faderift_camp_03.xml
 #. PATH: JournalEntry/TitleReference
@@ -1803,44 +1804,45 @@ msgstr ""
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_faderift_camp_04.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_faderift_camp_04.xml:13
+#, fuzzy
 msgctxt "0x00035ffa"
 msgid "Rifts near the Sighs"
-msgstr ""
+msgstr "한숨 근처 균열"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_fairbanks_a_noble.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_fairbanks_a_noble.xml:13
 msgctxt "0x0002f23a"
 msgid "Noble Deeds, Noble Heart"
-msgstr ""
+msgstr "고귀한 증서, 고귀한 마음"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_fairbankspatrol_we.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_fairbankspatrol_we.xml:13
 msgctxt "0x0003245e"
 msgid "Fairbanks Patrol Under Attack"
-msgstr ""
+msgstr "페어뱅스의 정찰병이 공격받고 있다"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_inquisition_camps.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_inquisition_camps.xml:13
 msgctxt "0x00035c31"
 msgid "Holding the Emerald Graves"
-msgstr ""
+msgstr "에메랄드 무덤 사수"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_inspect_fairbanks_documents.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_inspect_fairbanks_documents.xml:13
 msgctxt "0x00032f1f"
 msgid "The Freemen of the Dales"
-msgstr ""
+msgstr "데일스의 자유인"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_landmarks.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_landmarks.xml:13
 msgctxt "0x00035c48"
 msgid "Landmarks in the Graves"
-msgstr ""
+msgstr "무덤 속 랜드마크"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_lq03.xml
 #. PATH: JournalEntry/TitleReference
@@ -1875,28 +1877,28 @@ msgstr "위협 관찰"
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_lq10.xml:13
 msgctxt "0x00031924"
 msgid "Motherly Encouragement"
-msgstr ""
+msgstr "자애로운 격려"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_lq11.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_lq11.xml:13
 msgctxt "0x00031928"
 msgid "Devotion"
-msgstr ""
+msgstr "헌신"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_lq17.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_lq17.xml:13
 msgctxt "0x00031938"
 msgid "The Tiniest Cave"
-msgstr ""
+msgstr "아주 작은 동굴"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_meet_fairbanks.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_meet_fairbanks.xml:30
 msgctxt "0x00032f1b"
 msgid "Watcher's Reach Refugees"
-msgstr ""
+msgstr "감시자의 돋움 피난민"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_regions.xml
 #. PATH: JournalEntry/TitleReference
@@ -1924,42 +1926,43 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_unlock.xml:13
 msgctxt "0x00042dbb"
 msgid "Fairbanks' Trust"
-msgstr ""
+msgstr "페어뱅스의 신뢰"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_brokenbridge.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_brokenbridge.xml:13
 msgctxt "0x0003fc17"
 msgid "They Shall Not Pass"
-msgstr ""
+msgstr "그들은 지나가지 못한다"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_dragons.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_dragons.xml:13
 msgctxt "0x0003fb92"
 msgid "Breeding Grounds"
-msgstr ""
+msgstr "번식지"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_faderift_camp_01.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_faderift_camp_01.xml:13
+#, fuzzy
 msgctxt "0x000369f2"
 msgid "Rift on Frozen Water"
-msgstr ""
+msgstr "얼어붙은 물 균열"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_faderift_camp_02.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_faderift_camp_02.xml:13
 msgctxt "0x000369f5"
 msgid "Rift at Elfsblood Tower"
-msgstr ""
+msgstr "엘프의 피 탑 균열"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_faderift_camp_03.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_faderift_camp_03.xml:13
 msgctxt "0x000369fb"
 msgid "Rifts at Drakon's Cleft"
-msgstr ""
+msgstr "드레이콘의 언덕 균열"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_faderift_keep.xml
 #. PATH: JournalEntry/TitleReference
@@ -2015,21 +2018,21 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_landmarks.xml:13
 msgctxt "0x00036952"
 msgid "Landmarks in the Emprise"
-msgstr ""
+msgstr "용맹의 랜드마크"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_lq09.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_lq09.xml:13
 msgctxt "0x00031920"
 msgid "Stalker"
-msgstr ""
+msgstr "추적자"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_lq13.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_lq13.xml:13
 msgctxt "0x0003192d"
 msgid "Sifting Through Rubble"
-msgstr ""
+msgstr "잔해 훑어내기"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_lq14.xml
 #. PATH: JournalEntry/TitleReference
@@ -2043,14 +2046,14 @@ msgstr "엄마의 반지"
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_lq15.xml:13
 msgctxt "0x00031934"
 msgid "Words Not Hollow"
-msgstr ""
+msgstr "빈 말 아냐"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_lq16.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_lq16.xml:13
 msgctxt "0x00031937"
 msgid "Turning the Tables"
-msgstr ""
+msgstr "판 뒤집기"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_lq20.xml
 #. PATH: JournalEntry/TitleReference
@@ -2076,9 +2079,10 @@ msgstr ""
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_shards.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_shards.xml:13
+#, fuzzy
 msgctxt "0x0004010c"
 msgid "Shards in the Emprise"
-msgstr ""
+msgstr "용맹의 편린"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_towers.xml
 #. PATH: JournalEntry/TitleReference
@@ -2099,91 +2103,91 @@ msgstr "시기적절한 개입"
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_wardenfort.xml:13
 msgctxt "0x000438bc"
 msgid "Valeska's Watch"
-msgstr ""
+msgstr "발레스카의 감시소"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_bodypits_eastern_ramparts.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_bodypits_eastern_ramparts.xml:13
 msgctxt "0x0003936a"
 msgid "Lay Rest the Eastern Ramparts"
-msgstr ""
+msgstr "동쪽 누벽 매장지 불 지르기"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_bodypits_victory_rise.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_bodypits_victory_rise.xml:13
 msgctxt "0x0003936d"
 msgid "Calming Victory Rise"
-msgstr ""
+msgstr "고요한 승리의 언덕"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_bodypits_western_ramparts.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_bodypits_western_ramparts.xml:13
 msgctxt "0x00039370"
 msgid "Lay Rest the Western Ramparts"
-msgstr ""
+msgstr "서쪽 누벽 매장지 불 지르기"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_celene_missing_supplies.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_celene_missing_supplies.xml:13
 msgctxt "0x0002b841"
 msgid "Pressed for Cache"
-msgstr ""
+msgstr "계속되는 자금 요구"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_dalish_golden_halla.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_dalish_golden_halla.xml:13
 msgctxt "0x0002b58f"
 msgid "The Golden Halla"
-msgstr ""
+msgstr "황금 할라"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_dalish_graves.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_dalish_graves.xml:13
 msgctxt "0x0002b81f"
 msgid "From the Beyond"
-msgstr ""
+msgstr "저편으로부터"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_dalish_supplies.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_dalish_supplies.xml:13
 msgctxt "0x0002fd6f"
 msgid "A Well-Stocked Camp"
-msgstr ""
+msgstr "잘 보급된 야영지"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_dalish_tomb.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_dalish_tomb.xml:13
 msgctxt "0x00030ffd"
 msgid "The Spoils of Desecration"
-msgstr ""
+msgstr "모독의 전리품"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_dalish_trust.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_dalish_trust.xml:13
 msgctxt "0x0002fd7e"
 msgid "By the Grace of the Dalish"
-msgstr ""
+msgstr "데일스의 은총으로"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_dead_dalish_elf.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_dead_dalish_elf.xml:13
 msgctxt "0x0002ce33"
 msgid "Something to Prove"
-msgstr ""
+msgstr "증명해야 할 것"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_dead_dalish_elf_personal.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_dead_dalish_elf_personal.xml:13
 msgctxt "0x00034104"
 msgid "Someone to Lose"
-msgstr ""
+msgstr "누군가를 잃는다는 것"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_dying_soldier.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_dying_soldier.xml:13
 msgctxt "0x00030521"
 msgid "A Familiar Ring"
-msgstr ""
+msgstr "낯익은 반지"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_faderift_camp_01.xml
 #. PATH: JournalEntry/TitleReference
@@ -2197,49 +2201,49 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_faderift_camp_02.xml:13
 msgctxt "0x00037fd8"
 msgid "Rifts on the Battlefield"
-msgstr ""
+msgstr "전장의 균열"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_faderift_camp_03.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_faderift_camp_03.xml:13
 msgctxt "0x00037fdb"
 msgid "Rifts in the Fens"
-msgstr ""
+msgstr "간척지의 균열"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_gaspard_letters.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_gaspard_letters.xml:13
 msgctxt "0x000306c5"
 msgid "Left to Grieve"
-msgstr ""
+msgstr "비통에 빠지다"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_glyphs.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_glyphs.xml:13
 msgctxt "0x0002b707"
 msgid "Scattered Glyphs"
-msgstr ""
+msgstr "흩어진 상형 문자"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_inquisition_camps.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_inquisition_camps.xml:13
 msgctxt "0x00037f8f"
 msgid "Holding the Exalted Plains"
-msgstr ""
+msgstr "승임의 평야 사수"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_investigate_fens.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_investigate_fens.xml:13
 msgctxt "0x000415cf"
 msgid "Ghilan'nain's Grove"
-msgstr ""
+msgstr "길란나인의 숲"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_investigate_riverside_garrision.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_investigate_riverside_garrision.xml:13
 msgctxt "0x000393b3"
 msgid "No Word Back"
-msgstr ""
+msgstr "그리고 아무 말 없었다"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_investigate_western_ramparts.xml
 #. PATH: JournalEntry/TitleReference
@@ -2253,14 +2257,14 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_landmarks.xml:13
 msgctxt "0x00037fdf"
 msgid "Landmarks on the Plains"
-msgstr ""
+msgstr "평야의 랜드마크들"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_meet_dalish_camp.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_meet_dalish_camp.xml:13
 msgctxt "0x0002cc32"
 msgid "A Dalish Perspective"
-msgstr ""
+msgstr "데일스의 관점"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_meet_gaspard_commander.xml
 #. PATH: JournalEntry/TitleReference
@@ -2281,14 +2285,14 @@ msgstr "평야 내 지역"
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_shards.xml:13
 msgctxt "0x00037fe6"
 msgid "Shards on the Plains"
-msgstr ""
+msgstr "평야의 편린들"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_storm_gateway_fort.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_storm_gateway_fort.xml:13
 msgctxt "0x00032cad"
 msgid "For the Empire"
-msgstr ""
+msgstr "제국을 위하여"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_unlock.xml
 #. PATH: JournalEntry/TitleReference
@@ -2351,14 +2355,14 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheDales\dgs_s_140\Emerald_Tomb_Main.xml:13
 msgctxt "0x00028ea3"
 msgid "The Knights' Tomb"
-msgstr ""
+msgstr "기사의 무덤"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\D110\D110_TevinterLabs.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\D110\D110_TevinterLabs.xml:13
 msgctxt "0x000207ff"
 msgid "A Tevinter Relic Hunt"
-msgstr ""
+msgstr "테빈터 유물 탐색"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\D110\D110_TevinterLabs_FadeRift.xml
 #. PATH: JournalEntry/TitleReference
@@ -2393,7 +2397,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_campa_faderifts.xml:13
 msgctxt "0x00038091"
 msgid "Rifts in the Canyons"
-msgstr ""
+msgstr "협곡의 균열들"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_campc_faderifts.xml
 #. PATH: JournalEntry/TitleReference
@@ -5493,6 +5497,8 @@ msgstr ""
 msgctxt "0x00046e02"
 msgid "The d'Amerides of Orlais claim descent from Inquisitor Ameridan. They are overjoyed at our discovery of his resting place and wish to honor the Inquisition for locating their long-lost ancestor."
 msgstr ""
+"올레이의 디 아메리드는 자신들이 아메리단 심문관의 후손이라고 주장하고 있다. 그들은 우리가 자신들의 은신처를 발견한 것에 매우 기뻐하며, "
+"그들의 오랫동안 잃어버린 조상을 찾아준 심문관에게 경의를 표하고자 하고 있다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[140]/JournalTextData/TextReference
@@ -5503,6 +5509,11 @@ msgid ""
 "\n"
 "Lady Corinne d'Ameride"
 msgstr ""
+"우리는 심문회와 좋은 관계를 유지하기 위해 최선을 다하고 있습니다. 보잘것없는 헌금이지만 저희가 이번 중요하고 조심스러운 문제에 대한 "
+"귀하의 도움에 깊이 감사하고 있다는 것을 부디 알아주셨으면 합니다. 저희는 언제나 심문회를 생각하고 있다고 자신있게 말씀드리는 바입니다."
+"\n"
+"\n"
+"레이디 코린니 디 아메리드"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[141]/JournalTextData/TextReference
@@ -5513,6 +5524,11 @@ msgid ""
 "\n"
 "Lady Corinne d'Ameride"
 msgstr ""
+"이번 파티가 나라 전체에서 화젯거리예요, 레이디 몽띠예. 상류층에서는 올레이의 문화와 유산에 대한 종교재판의 헌신과노력에 대해 모르는 "
+"사람이 거의 없을 정도이며, 아메리단의 대의를 위한 공물을 바치는 것은 이미 또 하나의 유행이 되었답니다. 이런 일이 가능하게 만들어주신 "
+"심문회에게 크게 감사드리는 바입니다. 이러한 귀족 가문의 일원이 될 수 있어 영광스럽기 그지 없네요.\n"
+"\n"
+"레이디 코린느 디 아메리드"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[142]/JournalTextData/TextReference
@@ -5556,8 +5572,8 @@ msgid ""
 "\n"
 "Scout Harding\n"
 msgstr ""
-"지역을 정찰하고 야영지를 세웠습니다. 켄릭 교수는 정찰병들이 찾을 수 있는 거라면 뭐든지 전부 수집하고 있습니다. 지금까지 이곳에서 수 "
-"많은 오래된 잠금잠치를 발견했습니다.이것이 더 흥미로운 무언가를 가져다주었으면 좋겠군요.\n"
+"지역을 정찰하고 야영지를 세웠습니다. 켄릭 교수는 정찰병들이 찾을 수 있는 거라면 전부 수집하고 있습니다. 지금까지 이곳에서 수 많은 "
+"오래된 잠금잠치를 발견했습니다.이것이 더 흥미로운 무언가를 찾아내는 계기가 되길 바랍니다.\n"
 "\n"
 "이 장소에 오려는 사람이 있다면 누구든 사나운 야생 동물과 성난 아바르에 대비해야 합니다. 여긴 위험한 곳입니다.\n"
 "\n"
@@ -5568,7 +5584,7 @@ msgstr ""
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:4677
 msgctxt "0x00045928"
 msgid "Learn about the Dalish elves' background."
-msgstr ""
+msgstr "데일스 엘프의 배경에 대해 알아봐야 한다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[145]/JournalTextData/TextReference
@@ -5576,6 +5592,9 @@ msgstr ""
 msgctxt "0x00045923"
 msgid "You discover that this particular clan was nearly wiped out by Corypheus' red templars. The recieved no aid from humans they encountered. There's evidence to suggest that they attempted to contact the Inquisition, but the message didn't come in time - the elves had already vanished."
 msgstr ""
+"우리는 이 특정 부족이 코리피우스의 붉은 성기사단에 의해 대부분 전멸되었다는 사실을 알게되었다. 그들은 마주쳤던 인간들로부터 아무런 "
+"도움도 받지 못한것으로 보인다. 그들이 심문회에게 연락을 시도했다는 증거가 남아있었지만 전갈은 제 시간에 심문회에 도착하지 못했고, "
+"엘프들은 이미 사라지고 없었다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[146]/JournalTextData/TextReference
@@ -5635,14 +5654,14 @@ msgstr ""
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:4923
 msgctxt "0x000450ff"
 msgid "Find a way to get to the island."
-msgstr ""
+msgstr "섬으로 가는 방법을 찾자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[2]/JournalTaskData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:4974
 msgctxt "0x00046eef"
 msgid "Find the Avvar leader."
-msgstr ""
+msgstr "아바르 지도자를 찾자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[3]/JournalTaskData/TextReference
@@ -5656,42 +5675,42 @@ msgstr ""
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:5158
 msgctxt "0x00046eed"
 msgid "Return to Fisherman Arvid."
-msgstr ""
+msgstr "어부 아비드에게 돌아가자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[5]/JournalTaskData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:5242
 msgctxt "0x000461c3"
 msgid "Take a boat to the island."
-msgstr ""
+msgstr "섬으로 가는 배를 타자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[6]/JournalTaskData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:5293
 msgctxt "0x00045103"
 msgid "Look for information on Inquisitor Ameridan."
-msgstr ""
+msgstr "아메리단 심문관에 대한 정보를 찾자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[7]/JournalTaskData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:5344
 msgctxt "0x00045102"
 msgid "Speak with Professor Kenric."
-msgstr ""
+msgstr "켄릭 교수와 대화하자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[8]/JournalTaskData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:5397
 msgctxt "0x00045cfe"
 msgid "Fight with Inquisition soldiers against the Jaws of Hakkon."
-msgstr ""
+msgstr "심문회 병사들과 함께 Jaws of Hakkon에 맞서 싸우자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[9]/JournalTaskData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:5448
 msgctxt "0x00045cfd"
 msgid "Speak with Lieutenant Farrow at the forward camp."
-msgstr ""
+msgstr "전방 야영지에 있는 패로우 부관과 대화하자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[10]/JournalTaskData/TextReference
@@ -5705,28 +5724,28 @@ msgstr ""
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:5552
 msgctxt "0x00045d44"
 msgid "Return to Lieutenant Farrow."
-msgstr ""
+msgstr "패로우 부관에게 돌아가자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[12]/JournalTaskData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:5605
 msgctxt "0x00045def"
 msgid "Follow the trail to find Runa."
-msgstr ""
+msgstr "루나를 찾기위해 흔적을 따라가자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[13]/JournalTaskData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:5673
 msgctxt "0x00045df3"
 msgid "Protect Runa."
-msgstr ""
+msgstr "루나를 보호하자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[14]/JournalTaskData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:5724
 msgctxt "0x00045df2"
 msgid "Speak with Runa."
-msgstr ""
+msgstr "루나와 대화하자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[15]/JournalTaskData/TextReference
@@ -5810,28 +5829,28 @@ msgstr ""
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:6488
 msgctxt "0x00046546"
 msgid "Return to the Frostback Basin."
-msgstr ""
+msgstr "서리등선 분지로 돌아가자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[27]/JournalTaskData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:6539
 msgctxt "0x00046543"
 msgid "Kill the dragon."
-msgstr ""
+msgstr "용을 죽이자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[28]/JournalTaskData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:6590
 msgctxt "0x00046ef2"
 msgid "Report to Harding."
-msgstr ""
+msgstr "하딩에게 보고하자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[29]/JournalTaskData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:6641
 msgctxt "0x000450ed"
 msgid "Follow the river and look for spires."
-msgstr ""
+msgstr "강을 따라가서 첨탑을 찾자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[30]/JournalTaskData/TextReference
@@ -5852,14 +5871,14 @@ msgstr ""
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:6810
 msgctxt "0x00046f20"
 msgid "Wait for Harding and Kenric to arrive."
-msgstr ""
+msgstr "하딩과 켄릭이 도착할때까지 기다리자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[33]/JournalTaskData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:6861
 msgctxt "0x00045ce9"
 msgid "Investigate the area."
-msgstr ""
+msgstr "지역을 조사하자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[34]/JournalTaskData/TextReference
@@ -5880,7 +5899,7 @@ msgstr ""
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:7014
 msgctxt "0x00046942"
 msgid "Look for more clues."
-msgstr ""
+msgstr "더 많은 단서를 찾자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[37]/JournalTaskData/TextReference
@@ -5915,7 +5934,7 @@ msgstr ""
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:7287
 msgctxt "0x000470a0"
 msgid "Unlock the door."
-msgstr ""
+msgstr "문을 열자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[42]/JournalTaskData/TextReference
@@ -6484,6 +6503,8 @@ msgstr ""
 msgctxt "0x00047a4e"
 msgid "A keystone has been recovered that will grant access to a Qunari stronghold called the Darvaarad. Inside may be a means to stop the Qunari plot known as Dragon's Breath."
 msgstr ""
+"다르바라드라고 불리는 쿠나리 성채로 들어가게 해줄 쐐기돌이 복구되었다. 용의 숨결이라고 알려진 쿠나리들의 음모를 막을 방법이 성채 내부에 "
+"존재할지도 모른다."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[10]/JournalTextData/TextReference
@@ -9339,9 +9360,13 @@ msgstr ""
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[185]/JournalTextData/TextReference
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:8173
+#, fuzzy
 msgctxt "0x0004ae3c"
 msgid "Empress Celene has stayed in Val Royeaux to appease a delegation of Nevarrans, or so her messengers say. It is obvious the empress stays away to dodge the demands that she bring the Inquisition to heel. One would almost think that Celene believes they will find a way out of their bind. So strangely naive, at her age!"
 msgstr ""
+"셀린느 여제는 네바라 대표단을 달래기 위해 발 르와이요에 머무르고 있다. 적어도 그녀의 전령들에 따르면 그렇다고 한다. 여제가 심문회를 "
+"복종시켜야 한다는 의견들을 피하고자 멀리 떨어져 있다는 것은 명백하다. 셀린느는 심문회가 구속으로부터 벗어날 수 있다고 생각하나보다. "
+"나이 먹은 것치고는 수상할 정도로 순진하네!"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[186]/JournalTextData/TextReference
@@ -9475,7 +9500,7 @@ msgid ""
 "But she is right. I did not join the Qun for this."
 msgstr ""
 "{i}이 업무 일지의 첫 절반 부분에는 자유 동맹 영주의 영지에서 사육하는 가축들을 돌보는 방법이 적혀 있다. 뒷부분에는 누군가가 "
-"쿠나리를 연습했던 흔적이 있다. 마지막 페이지에 다음과 같은 글이 적혀 있다:{/i}\n"
+"쿠나리어를 연습했던 흔적이 있다. 마지막 페이지에 다음과 같은 글이 적혀 있다:{/i}\n"
 "\n"
 "다리와 꼬리 주변에 사슬로 묶으려 했던 흔적이 보인다. 놈이 원래 가지고 있던 힘은 남아 있지만, 오래 갇혀 있어서인지 근육이 늘어진 "
 "상태다. 처음에는 타르다트라스가 그 짐승에게 약을 먹여 재우려고 했지만, 놈을 잠재울 만큼 약을 투여하면 독 성분이 변하게 되어 더 이상 "
@@ -10443,14 +10468,14 @@ msgstr ""
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:9736
 msgctxt "0x000479bd"
 msgid "Speak with the Fereldan ambassador."
-msgstr ""
+msgstr "페렐던의 대사와 이야기해보자."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[4]/JournalTaskData/TextReference
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:9787
 msgctxt "0x000479bb"
 msgid "Speak with the Orlesian ambassador."
-msgstr ""
+msgstr "올레이의 대사와 이야기해보자."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[5]/JournalTaskData/TextReference
@@ -10471,14 +10496,14 @@ msgstr ""
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:10009
 msgctxt "0x0004aba1"
 msgid "Search for more information about the hostile Qunari."
-msgstr ""
+msgstr "적대적인 쿠나리에 대한 정보를 더 모아보자."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[8]/JournalTaskData/TextReference
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:10062
 msgctxt "0x0004815c"
 msgid "Make contact with the Qunari."
-msgstr ""
+msgstr "쿠나리와 접촉하라."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[9]/JournalTaskData/TextReference
@@ -10492,14 +10517,14 @@ msgstr ""
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:10164
 msgctxt "0x0004ab9b"
 msgid "Use the eluvians to find a way to the island."
-msgstr ""
+msgstr "엘루비앙을 이용하여 섬으로 들어가라."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[11]/JournalTaskData/TextReference
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:10215
 msgctxt "0x00047a4f"
 msgid "Follow the blood trail."
-msgstr ""
+msgstr "핏자국을 따라가라."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[12]/JournalTaskData/TextReference
@@ -10520,7 +10545,7 @@ msgstr ""
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:10368
 msgctxt "0x00047a53"
 msgid "Investigate the Qunari plot."
-msgstr ""
+msgstr "쿠나리의 음모를 조사하라."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[15]/JournalTaskData/TextReference
@@ -10541,7 +10566,7 @@ msgstr ""
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:10521
 msgctxt "0x0004b357"
 msgid "Sabotage the Qunari mining operation."
-msgstr ""
+msgstr "쿠나리의 채광 작업을 방해하라."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[18]/JournalTaskData/TextReference
@@ -10555,14 +10580,14 @@ msgstr ""
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:10625
 msgctxt "0x00049227"
 msgid "Find a way out of the Deep Roads."
-msgstr ""
+msgstr "지하 가도에서 벗어날 수 있는 길을 찾아라."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[20]/JournalTaskData/TextReference
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:10678
 msgctxt "0x0004a231"
 msgid "Find the keystone that unlocks the Darvaarad."
-msgstr ""
+msgstr "다르바라드를 열 수 있는 쐐기돌을 찾아라."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[21]/JournalTaskData/TextReference
@@ -10597,7 +10622,7 @@ msgstr ""
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:10937
 msgctxt "0x00049221"
 msgid "Find the Viddasala."
-msgstr ""
+msgstr "비다살라를 찾아라."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[26]/JournalTaskData/TextReference
@@ -10611,42 +10636,42 @@ msgstr "겨울 궁전에 돌아가 경고를 전하자."
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:11039
 msgctxt "0x0004b354"
 msgid "Investigate the area."
-msgstr ""
+msgstr "구역을 조사해보자."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[28]/JournalTaskData/TextReference
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:11090
 msgctxt "0x0004b355"
 msgid "Find a way inside."
-msgstr ""
+msgstr "내부로 들어가는 길을 찾아라."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[29]/JournalTaskData/TextReference
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:11143
 msgctxt "0x0004815a"
 msgid "Find a way to stop Dragon's Breath."
-msgstr ""
+msgstr "용의 숨결을 막아낼 방법을 찾아라."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[30]/JournalTaskData/TextReference
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:11194
 msgctxt "0x0004b2e6"
 msgid "Optional: Free the dragon instead."
-msgstr ""
+msgstr "선택사항: 용을 풀어주자."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[31]/JournalTaskData/TextReference
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:11264
 msgctxt "0x0004adeb"
 msgid "Kill the dragon."
-msgstr ""
+msgstr "용을 죽여라."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[32]/JournalTaskData/TextReference
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:11334
 msgctxt "0x00049223"
 msgid "Use the keystone to activate the eluvian leading to the Darvaarad."
-msgstr ""
+msgstr "쐐기돌을 사용하여 다르바라드로 향하는 엘루비앙을 활성화해라."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[33]/JournalTaskData/TextReference
@@ -10660,7 +10685,7 @@ msgstr ""
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:11455
 msgctxt "0x0004a708"
 msgid "Fight Saarath."
-msgstr ""
+msgstr "사아르아스와 싸워라."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[35]/JournalTaskData/TextReference
@@ -10674,14 +10699,14 @@ msgstr ""
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:11559
 msgctxt "0x0004a70a"
 msgid "Fight Saarath."
-msgstr ""
+msgstr "사아르아스와 싸워라."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[37]/JournalTaskData/TextReference
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:11610
 msgctxt "0x0004b221"
 msgid "Use the mark to defeat Saarath."
-msgstr ""
+msgstr "표식을 사용하여 사아르아스를 물리쳐라."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[38]/JournalTaskData/TextReference
@@ -13367,6 +13392,7 @@ msgstr ""
 msgctxt "0x0004739f"
 msgid "The descent into treacherous and long forgotten corners of the dwarven Deep Roads is only for the brave. You never know what you might dig up."
 msgstr ""
+"위험하고 오랫동안 잊혀졌던 드워프 지하 가도의 외딴 곳으로 내려가는 건 용감한 자들의 일입니다. 무엇을 파낼지 절대로 알 수 없죠."
 
 #. FILE: da3_dlc_red\DesignContent\Journals\SideContent\NoSale\dlcred_NoSale.xml
 #. PATH: JournalEntry/TitleReference
@@ -13401,14 +13427,14 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Journals\SideContent\dlcred_expedition_table_intro.xml:13
 msgctxt "0x0004aa90"
 msgid "Exploring the Deep Roads"
-msgstr ""
+msgstr "지하 가도 탐험"
 
 #. FILE: da3_dlc_red\DesignContent\Journals\SideContent\dlcred_side_5_chronicles_journal.xml
 #. PATH: JournalEntry/TitleReference
 #: da3_dlc_red\DesignContent\Journals\SideContent\dlcred_side_5_chronicles_journal.xml:13
 msgctxt "0x0004a051"
 msgid "Chronicles of Forgotten Wars"
-msgstr ""
+msgstr "잊혀진 전쟁의 이야기"
 
 #. FILE: da3_dlc_red\DesignContent\Journals\SideContent\ogre\a_warm_welcome.xml
 #. PATH: JournalEntry/TitleReference
@@ -13499,4 +13525,4 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Journals\seal_wave_event\seal_wave_event.xml:13
 msgctxt "0x000474a4"
 msgid "Defend the Seal"
-msgstr ""
+msgstr "봉인을 방어하라"

@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-20 20:00+0000\n"
-"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
+"PO-Revision-Date: 2021-02-23 08:00+0000\n"
+"Last-Translator: Lennon <mct050153@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -43,14 +43,14 @@ msgstr ""
 #: DA3\Layouts\ArborWilds\ArborWilds_Main\design\layer6_dsg_regions_schematic.xml:168
 msgctxt "0x00043024"
 msgid "Red Templar Forward Camp"
-msgstr ""
+msgstr "붉은 성기사단 전진기지"
 
 #. FILE: DA3\Layouts\ArborWilds\ArborWilds_Main\design\layer6_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[6]/Text
 #: DA3\Layouts\ArborWilds\ArborWilds_Main\design\layer6_dsg_regions_schematic.xml:186
 msgctxt "0x00043022"
 msgid "Inquisition Forward Camp"
-msgstr ""
+msgstr "심문회 전진 기지"
 
 #. FILE: DA3\Layouts\ArborWilds\ArborWilds_Main\map\ArborWilds_Main_floor1.xml
 #. PATH: BWMap/TitleReference
@@ -71,7 +71,7 @@ msgstr "사용"
 #: DA3\Layouts\ArborWilds\ArborWilds_Main\qst_mythalwilds_0600\layer6_dsg_0600_interactions.xml:188
 msgctxt "0x0004329e"
 msgid "Return to Skyhold"
-msgstr ""
+msgstr "스카이홀드로 귀환"
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\design\layer3_dsg_banter_schematic.xml
 #. PATH: GetLocalizedStringData/Text
@@ -106,7 +106,7 @@ msgstr "고대 지하실"
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\design\layer7_dsg_regions_schematic.xml:74
 msgctxt "0x00043029"
 msgid "Hall of Shrines"
-msgstr ""
+msgstr "성소의 전당"
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\design\layer7_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[6]/Text
@@ -218,7 +218,7 @@ msgstr "실라이스의 모자이크"
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\qst_mythal_0200\layer3_qst_200_banter_schematic.xml:2482
 msgctxt "0x00018779"
 msgid "Supplies replenished."
-msgstr ""
+msgstr "보급품이 충원되었습니다."
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\qst_mythal_0300\layer3_qst_300_banter.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
@@ -232,14 +232,14 @@ msgstr "주네의 모자이크"
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer0_dsg_areatransitions.xml:192
 msgctxt "0x0002f27d"
 msgid "Redcliffe Village Chantry"
-msgstr ""
+msgstr "레드클리프 마을 챈트리"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer0_dsg_areatransitions.xml
 #. PATH: BWGameInteractionEntityData[2]/InteractionTextReference
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer0_dsg_areatransitions.xml:527
 msgctxt "0x0002f27e"
 msgid "The Gull and Lantern"
-msgstr ""
+msgstr "갈매기와 등불 주점"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer17_dsg_loot_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -253,7 +253,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer1_dsg_areatransitions_schematic.xml:200
 msgctxt "0x0002b75a"
 msgid "Valammar"
-msgstr ""
+msgstr "발라마르"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -267,14 +267,14 @@ msgstr "부서진 다리"
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml:144
 msgctxt "0x0002bc1d"
 msgid "Hendir, Dwarf-Prince, Friend to Tyrdda"
-msgstr ""
+msgstr "헨디르, 드워프 왕자, 티르다의 친구"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml
 #. PATH: GetLocalizedStringIDData[3]/Text
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml:155
 msgctxt "0x0002bdd2"
 msgid "Thelm Gold-Handed, the Dreamer"
-msgstr ""
+msgstr "황금손 텔름, 꿈꾸는 자"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml
 #. PATH: GetLocalizedStringIDData[4]/Text
@@ -302,7 +302,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml:256
 msgctxt "0x0002bc20"
 msgid "Fort Connor"
-msgstr ""
+msgstr "콘노르 요새"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml
 #. PATH: GetLocalizedStringIDData[8]/Text
@@ -323,7 +323,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml:289
 msgctxt "0x0002bc21"
 msgid "Tyrdda's Lover"
-msgstr ""
+msgstr "티르다의 연인"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml
 #. PATH: GetLocalizedStringIDData[11]/Text
@@ -351,21 +351,21 @@ msgstr "추방당한 로난"
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml:428
 msgctxt "0x0002bc08"
 msgid "Maferath Repentant"
-msgstr ""
+msgstr "후회하는 마페라스"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml
 #. PATH: GetLocalizedStringIDData[15]/Text
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml:439
 msgctxt "0x0003fd9a"
 msgid "The Hero of Ferelden"
-msgstr ""
+msgstr "페렐던의 영웅"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml
 #. PATH: GetLocalizedStringIDData[16]/Text
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml:507
 msgctxt "0x0002bc06"
 msgid "Grand Forest Villa"
-msgstr ""
+msgstr "대초원 저택"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml
 #. PATH: GetLocalizedStringIDData[17]/Text
@@ -446,14 +446,14 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer3_dsg_interactiveart_schematic.xml:563
 msgctxt "0x00043017"
 msgid "Cabin Key Required"
-msgstr ""
+msgstr "오두막 열쇠 필요"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer3_dsg_interactiveart_schematic.xml
 #. PATH: GetLocalizedStringIDData[10]/Text
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer3_dsg_interactiveart_schematic.xml:574
 msgctxt "0x00043019"
 msgid "Valammar Key Required"
-msgstr ""
+msgstr "발라마르 열쇠 필요"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer3_dsg_interactiveart_schematic.xml
 #. PATH: GetLocalizedStringIDData[11]/Text
@@ -467,7 +467,7 @@ msgstr "캘런해드 근거지"
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer3_dsg_interactiveart_schematic.xml:883
 msgctxt "0x00029b3f"
 msgid "East Road"
-msgstr ""
+msgstr "동쪽 길"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer3_dsg_interactiveart_schematic.xml
 #. PATH: GetLocalizedStringIDData[15]/Text
@@ -481,7 +481,7 @@ msgstr "챈트리"
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer3_dsg_interactiveart_schematic.xml:1231
 msgctxt "0x000415e0"
 msgid "The Lion's Head"
-msgstr ""
+msgstr "사자의 머리"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer47_dsg_tutorials_schematic.xml
 #. PATH: BWPopUpEntityData/Title
@@ -513,28 +513,28 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml:63
 msgctxt "0x00029b3e"
 msgid "The Crossroads"
-msgstr ""
+msgstr "교차로"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[3]/Text
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml:74
 msgctxt "0x0002bed6"
 msgid "Valammar Gate"
-msgstr ""
+msgstr "발라마르 정문"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[4]/Text
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml:85
 msgctxt "0x0003f998"
 msgid "Avvar Blade Valley"
-msgstr ""
+msgstr "아바르 칼날 협곡"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[5]/Text
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml:96
 msgctxt "0x00029b48"
 msgid "Lady Shayna's Valley"
-msgstr ""
+msgstr "셰이나 부인의 협곡"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[6]/Text
@@ -590,7 +590,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml:184
 msgctxt "0x0002bea8"
 msgid "Winterwatch Tower"
-msgstr ""
+msgstr "윈터워치 탑"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[14]/Text
@@ -604,7 +604,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml:206
 msgctxt "0x0002bed5"
 msgid "Smuggler's Cave"
-msgstr ""
+msgstr "밀수꾼의 동굴"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[16]/Text
@@ -625,7 +625,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml:261
 msgctxt "0x000421c1"
 msgid "Wolf Hollow"
-msgstr ""
+msgstr "늑대 굴"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[21]/Text
@@ -639,7 +639,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml:283
 msgctxt "0x00029b43"
 msgid "Redcliffe Road"
-msgstr ""
+msgstr "레드클리프 대로"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[24]/Text
@@ -653,28 +653,28 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml:316
 msgctxt "0x00029b45"
 msgid "Witchwood"
-msgstr ""
+msgstr "마녀숲"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[26]/Text
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml:327
 msgctxt "0x00029b41"
 msgid "Lake Luthias"
-msgstr ""
+msgstr "루티아스 강"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[27]/Text
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml:338
 msgctxt "0x00029b42"
 msgid "West Road"
-msgstr ""
+msgstr "서쪽 길"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[28]/Text
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml:349
 msgctxt "0x0002bed7"
 msgid "Old Simeon's Cave"
-msgstr ""
+msgstr "늙은 시므은의 동굴"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer7_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[30]/Text
@@ -737,7 +737,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\grp_quests\layer3_dsg_quests_lightquestcontent_schematic.xml:1260
 msgctxt "0x00032f50"
 msgid "Place Letter"
-msgstr ""
+msgstr "편지 놓기"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\grp_quests\layer7_str_characters_schematic.xml
 #. PATH: BWPopUpEntityData/Title
@@ -769,7 +769,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\map\Ferelden_Wilderness_Main_floor0.xml:549
 msgctxt "0x00029ebd"
 msgid "Landmark"
-msgstr ""
+msgstr "랜드마크"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\map\Ferelden_Wilderness_Main_floor0.xml
 #. PATH: BWMapPinLocation[15]/TitleReference
@@ -790,7 +790,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\map\Ferelden_Wilderness_Main_floor0.xml:1256
 msgctxt "0x00019d6d"
 msgid "Astrarium"
-msgstr ""
+msgstr "천체 투영관"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\map\Ferelden_Wilderness_Main_floor0.xml
 #. PATH: BWMapPinLocation[18]/TitleReference
@@ -804,7 +804,7 @@ msgstr "세계 지도"
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\map\Ferelden_Wilderness_Main_floor0.xml:1339
 msgctxt "0x00043da4"
 msgid "Primeval Red Lyrium"
-msgstr ""
+msgstr "원시 붉은 리륨"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\map\Ferelden_Wilderness_Main_floor0.xml
 #. PATH: BWMapPinLocation[20]/TitleReference
@@ -1077,7 +1077,7 @@ msgstr "산마루숲 민가"
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer1_dsg_global_schematic.xml:70
 msgctxt "0x0001e4e7"
 msgid "Old Crestwood"
-msgstr ""
+msgstr "구 산마루숲"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer1_dsg_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[3]/Text
@@ -1133,7 +1133,7 @@ msgstr "보리수 농장"
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml:64
 msgctxt "0x0001e56e"
 msgid "Glenmorgan Mine"
-msgstr ""
+msgstr "글렌모건 광산"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[4]/Text
@@ -1168,7 +1168,7 @@ msgstr "구 저잣거리"
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml:166
 msgctxt "0x0001e517"
 msgid "Three Trout Pond"
-msgstr ""
+msgstr "세 송어 연못"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[9]/Text
@@ -1287,21 +1287,21 @@ msgstr ""
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_landmark_a\layer1_dsg_landmark_a_content_schematic.xml:62
 msgctxt "0x000383ce"
 msgid "Hidden Cave"
-msgstr ""
+msgstr "숨겨진 동굴"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_landmark_b\layer1_dsg_landmark_b_content_schematic.xml
 #. PATH: GetLocalizedStringIDData/Text
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_landmark_b\layer1_dsg_landmark_b_content_schematic.xml:24
 msgctxt "0x0002c27a"
 msgid "Fereldan Wyvern Statues"
-msgstr ""
+msgstr "페렐던 와이번 조각상"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_landmark_c\layer1_dsg_landmark_c_content_schematic.xml
 #. PATH: GetLocalizedStringIDData/Text
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_landmark_c\layer1_dsg_landmark_c_content_schematic.xml:24
 msgctxt "0x0002c274"
 msgid "Fisherman's Hut"
-msgstr ""
+msgstr "어부의 오두막"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_landmark_d\layer1_dsg_landmark_d_content_schematic.xml
 #. PATH: GetLocalizedStringIDData/Text
@@ -1336,7 +1336,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_landmark_h\layer1_dsg_landmark_h_content_schematic.xml:24
 msgctxt "0x0002c279"
 msgid "The Gallows of Caer Bronach"
-msgstr ""
+msgstr "브로나크 성의 교수대"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_landmark_i\layer1_dsg_landmark_i_content_schematic.xml
 #. PATH: GetLocalizedStringIDData/Text
@@ -1413,7 +1413,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\map\fer_Wilderness_010_floor0.xml:1605
 msgctxt "0x00040602"
 msgid "The Flooded Caves"
-msgstr ""
+msgstr "범람한 동굴"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\map\fer_Wilderness_010_floor0.xml
 #. PATH: BWMapPinLocation[38]/TitleReference
@@ -1427,7 +1427,7 @@ msgstr "산마루숲 민가"
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\map\fer_Wilderness_010_floor0.xml:2129
 msgctxt "0x0003fc12"
 msgid "Three Trout Farm Camp"
-msgstr ""
+msgstr "세 송어 농장 야영지"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\map\fer_Wilderness_010_floor0.xml
 #. PATH: BWMapPinLocation[43]/TitleReference
@@ -1462,21 +1462,21 @@ msgstr "녹슨 뿔"
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\qst_0650_adamant\layer5_qst_0650_adamant_meetwarden_schematic.xml:936
 msgctxt "0x00029d33"
 msgid "Examine"
-msgstr ""
+msgstr "조사"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\qst_butcher\layer1_qst_butcher_global_schematic.xml
 #. PATH: GetLocalizedStringIDData/Text
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\qst_butcher\layer1_qst_butcher_global_schematic.xml:1028
 msgctxt "0x00032a9b"
 msgid "Examine"
-msgstr ""
+msgstr "조사"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\qst_faderift_floodedvillage\layer1_qst_faderift_floodedvillage_global_schematic.xml
 #. PATH: GetLocalizedStringIDData/Text
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\qst_faderift_floodedvillage\layer1_qst_faderift_floodedvillage_global_schematic.xml:1397
 msgctxt "0x000409d9"
 msgid "Open"
-msgstr ""
+msgstr "열기"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\qst_faderift_village\layer3_dsg_faderift_village_ambients_schematic.xml
 #. PATH: GetLocalizedStringIDData/Text
@@ -1497,7 +1497,7 @@ msgstr "귀족"
 #: DA3\Layouts\Ferelden\red_Redcliffe_Castle\design\layer2_dsg_redcliffe_flow.xml:1916
 msgctxt "0x00026395"
 msgid "Requires Prison Key"
-msgstr ""
+msgstr "감옥 열쇠 필요"
 
 #. FILE: DA3\Layouts\Ferelden\red_Redcliffe_Castle\design\layer9_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -1553,7 +1553,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\red_Redcliffe_Castle\design\layer9_dsg_regions_schematic.xml:270
 msgctxt "0x00041604"
 msgid "Redcliffe Castle"
-msgstr ""
+msgstr "레드클리프 성"
 
 #. FILE: DA3\Layouts\Ferelden\red_Redcliffe_Castle\design\layer9_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[9]/Text
@@ -1623,7 +1623,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\red_Redcliffe_Castle\qst_110_entercastle\layer0_dsg_100_entercastle.xml:3409
 msgctxt "0x000187e3"
 msgid "Venatori Magister"
-msgstr ""
+msgstr "베나토리 마지스터"
 
 #. FILE: DA3\Layouts\Ferelden\red_Redcliffe_Castle\qst_110_entercastle\layer0_dsg_100_entercastle.xml
 #. PATH: AppearanceOverrideSpawnData[3]/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
@@ -1637,7 +1637,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\red_Redcliffe_Castle\red_Redcliffe_Castle.xml:7741
 msgctxt "0x00029d7b"
 msgid "Redcliffe Castle"
-msgstr ""
+msgstr "레드클리프 성"
 
 #. FILE: DA3\Layouts\Ferelden\red_Redcliffe_Chantry\design\layer2_dsg_areatransitions.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
@@ -1658,7 +1658,7 @@ msgstr "나가기"
 #: DA3\Layouts\FrostbackMountains\Finale\Finale.xml:4554
 msgctxt "0x00029d7e"
 msgid "Frostback Mountains"
-msgstr ""
+msgstr "서리등선 산맥"
 
 #. FILE: DA3\Layouts\FrostbackMountains\Finale\map\Finale_floor0.xml
 #. PATH: BWMap/TitleReference
@@ -1700,21 +1700,21 @@ msgstr ""
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0000_global\layer5_dsg_areanotifications_schematic.xml:74
 msgctxt "0x0001e520"
 msgid "Frostback Mountains"
-msgstr ""
+msgstr "서리등선 산맥"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0000_global\layer5_dsg_areanotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[6]/Text
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0000_global\layer5_dsg_areanotifications_schematic.xml:85
 msgctxt "0x0001e51c"
 msgid "Haven"
-msgstr ""
+msgstr "헤이븐"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0000_global\layer5_dsg_areanotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[8]/Text
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0000_global\layer5_dsg_areanotifications_schematic.xml:154
 msgctxt "0x0001e4e8"
 msgid "Frost Cave"
-msgstr ""
+msgstr "서리 동굴"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0101_wartable\layer3_dsg_0101_wartable_main_schematic.xml
 #. PATH: BWPopUpEntityData[1]/Title
@@ -1933,7 +1933,7 @@ msgstr ""
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_set_0800_evacuatehaven\layer14_dsg_set_0800_evacuatehaven_schematic.xml:396
 msgctxt "0x000331d2"
 msgid "Open"
-msgstr ""
+msgstr "열기"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_set_0800_evacuatehaven\layer4_dsg_0140_set_evacbartender.xml
 #. PATH: GetLocalizedStringIDData/Text
@@ -9283,7 +9283,7 @@ msgstr ""
 #: da3_dlc_blue\Layouts\DLCBlue_Fade_Dungeon\design\layer11_dsg_doors_schematic.xml:742
 msgctxt "0x00049e1c"
 msgid "Darvaarad Keystone"
-msgstr ""
+msgstr "다르바라드 쐐기돌"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_Fade_Dungeon\design\layer14_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
