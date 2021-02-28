@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-23 08:00+0000\n"
-"Last-Translator: 큡수뎃 <quoobt@gmail.com>\n"
+"PO-Revision-Date: 2021-02-28 11:58+0000\n"
+"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -33,7 +33,7 @@ msgstr ""
 #: DA3\Party\Archived\Rogue\General\PartyStealth\party_rogue_general_partystealth_abilitydata.xml:18
 msgctxt "0x00042ab0"
 msgid "<font color=\"#BAAB7B\">This ability consumes and is powered by focus.</font>\n"
-msgstr "<font color=\"#BAAB7B\">이 능력은 집중도를 소모하여 발동됩니다.</font>\n"
+msgstr "<font color=\"#BAAB7B\">이 기술은 집중도를 소모하여 발동됩니다.</font>\n"
 
 #. FILE: DA3\Party\Archived\Rogue\General\PartyStealth\party_rogue_general_partystealth_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -101,7 +101,7 @@ msgid ""
 "You fire so quickly that enemies will swear there are at least two of you putting arrows into their ranks. While this ability is active, any archery ability you use is duplicated.\n"
 "\n"
 msgstr ""
-"어찌나 빠르게 화살을 쏴대는지 적들은 두 명이 활을 쏘고 있다고 확신할 겁니다. 이 능력이 활성화된 동안 사용하는 모든 궁술 능력이 두 "
+"어찌나 빠르게 화살을 쏴대는지 적들은 두 명이 활을 쏘고 있다고 확신할 겁니다. 이 기술이 활성화된 동안 사용하는 모든 궁술 기술이 두 "
 "번 발동됩니다.\n"
 "\n"
 
@@ -160,7 +160,7 @@ msgstr ""
 #: DA3\Party\Rogue\Archery\ArrowOfSlaying\party_rogue_archery_arrowofslaying_abilitydata.xml:85
 msgctxt "0x00043165"
 msgid "Precision detonator ability: use on incapacitated foes for a combo"
-msgstr "정밀한 기폭 능력 : 무능력한 적에게 콤보를 위해 사용하세요"
+msgstr "정밀한 기폭 기술 : 전투불능의 적에게 사용하여 콤보를 발동"
 
 #. FILE: DA3\Party\Rogue\Archery\ArrowOfSlaying\party_rogue_archery_arrowofslaying_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -1150,13 +1150,12 @@ msgstr "탈출봉쇄"
 #. FILE: DA3\Party\Rogue\FieldControl\Hookshot\Upgrade1\party_rogue_fieldcontrol_hookshot_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\FieldControl\Hookshot\Upgrade1\party_rogue_fieldcontrol_hookshot_upgrade2_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x00047569"
 msgid ""
 "You chain yourself to your target upon arrival, making it impossible for them to escape you. You can free yourself by reactivating the ability.\n"
 "\n"
 msgstr ""
-"대상에게 도착하면 본인과 대상을 묶어버립니다. 능력을 한 번 더 시전하면 풀려납니다.\n"
+"대상에게 도착하면 본인과 대상을 묶어 도망칠 수 없게 만듭니다. 기술을 한 번 더 시전하면 풀려납니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\FieldControl\Hookshot\party_rogue_fieldcontrol_hookshot_abilitydata.xml
@@ -1260,7 +1259,7 @@ msgid ""
 "You scatter spikes behind you, hurting and slowing down enemies who come after you. This ability is considered a trap for any abilities that enhance or affect traps.\n"
 "\n"
 msgstr ""
-"배후에 마름쇠를 뿌려 추격하는 적에게 피해를 입히고 둔화시킵니다. 이 능력은 함정으로 취급되며 다른 함정 강화 효과의 영향을 받습니다.\n"
+"배후에 마름쇠를 뿌려 추격하는 적에게 피해를 입히고 둔화시킵니다. 이 기술은 함정으로 취급되며 다른 함정 강화 효과의 영향을 받습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\General\Caltrops\party_rogue_general_caltrops_upgrade1_abilitydata.xml
@@ -1645,7 +1644,8 @@ msgid ""
 "You step into the shadows, all but invisible to your enemies. Attacking from stealth gives you a damage bonus and brings you back to the enemy's attention. Dealing damage to enemies reduces the ability's cooldown time.\n"
 "\n"
 msgstr ""
-"그림자 속으로 몸을 숨겨 적들의 시야에서 사라집니다. 은신 도중에 적을 공격하면 추가 피해를 입히고 다시 적에게 보이게 됩니다. 적에게 피해를 가하면 이 능력의 재사용 대기 시간이 감소합니다.\n"
+"그림자 속으로 몸을 숨겨 적들의 시야에서 사라집니다. 은신 도중에 적을 공격하면 추가 피해를 입히고 다시 적에게 보이게 됩니다. 적에게 "
+"피해를 가하면 이 기술의 재사용 대기 시간이 감소합니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\General\Stealth\party_rogue_general_stealth_upgrade1_abilitydata.xml
@@ -2245,13 +2245,12 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\Passives\Subtlety\party_rogue_passive_subtlety_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\Rogue\Passives\Subtlety\party_rogue_passive_subtlety_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x00042596"
 msgid ""
 "Enemies are likely to overlook you in combat, much to their regret. This is especially true if you're flanking them.\n"
 "\n"
 msgstr ""
-"애석하게도 전투 중인 적이 당신을 간과하는군요. 측후방에서 공격한다면 더더욱 그러합니다.\n"
+"적들은 전투 중에 당신을 눈치채지 못할 가능성이 높습니다. 측면이나 후면에서 공격하면 이 확률이 더 올라갑니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\Passives\Subtlety\party_rogue_passive_subtlety_abilitydata.xml
@@ -2497,7 +2496,7 @@ msgid ""
 "While Flask of Fire is active, all of your abilities have no cooldown.\n"
 "\n"
 msgstr ""
-"화염 비약의 효과를 받고 있을 때, 모든 능력의 재사용 대기 시간이 사라집니다.\n"
+"화염 비약의 효과를 받고 있을 때, 모든 기술의 재사용 대기 시간이 사라집니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\Stalker\AspectOfRage\party_rogue_stalker_aspectofrage_upgrade2_abilitydata.xml
@@ -2515,7 +2514,7 @@ msgid ""
 "Each unique ability you use while Flask of Fire is active increases its duration.\n"
 "\n"
 msgstr ""
-"화염 비약의 효과 아래서 발동시키는 모든 고유 능력의 지속 시간이 연장됩니다.\n"
+"화염 비약의 효과 아래서 발동시키는 모든 기술의 지속 시간이 연장됩니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\Stalker\FrozenBrew\party_rogue_stalker_frozenbrew_abilitydata.xml
@@ -2534,7 +2533,7 @@ msgid ""
 "\n"
 msgstr ""
 "서리 비약이 당신의 피부를 얼음으로 에워싸 방어력을 증가시키고, 당신의 근접 범위에서 공격하는 적들을 빙결시킵니다. 다른 비약의 효과를 "
-"받고 있을 때는 이 능력을 사용할 수 없습니다.\n"
+"받고 있을 때는 이 기술을 사용할 수 없습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\Stalker\LightningDraught\party_rogue_stalker_lightningdraught_abilitydata.xml
@@ -2553,7 +2552,7 @@ msgid ""
 "\n"
 msgstr ""
 "번개 비약이 당신을 엄청난 체감 속도의 고조된 상태로 끌어올립니다. 일정 시간 동안 전장의 다른 대상은 당신보다 훨씬 느리게 움직입니다. "
-"다른 비약의 효과를 받고 있을 때는 이 능력을 사용할 수 없습니다.\n"
+"다른 비약의 효과를 받고 있을 때는 이 기술을 사용할 수 없습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\Stalker\RageTonic\party_rogue_stalker_ragetonic_abilitydata.xml
@@ -2571,8 +2570,8 @@ msgid ""
 "This flask coats you in flames that spur you to frenzied action. For a short time, your abilities cost no stamina, and enemies who attack you are knocked backward. You can't use this ability while another elixir is active.\n"
 "\n"
 msgstr ""
-"화염 비약이 당신의 신체를 불로 휩싸 폭발적인 힘을 다루게 합니다. 일정 시간 동안 당신을 공격한 적들이 뒤로 밀려나고, 당신의 모든 "
-"능력이 기력을 소모하지 않습니다. 다른 비약의 효과를 받고 있을 때는 이 능력을 사용할 수 없습니다.\n"
+"화염 비약의 효과로 불이 신체를 감싸 폭발적인 힘을 다루게 됩니다. 일정 시간 동안 당신을 공격한 적들이 뒤로 밀려나고, 당신의 모든 "
+"기술이 기력을 소모하지 않습니다. 다른 비약의 효과를 받고 있을 때는 이 기술을 사용할 수 없습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\Support\Evade\Upgrade1\party_rogue_support_evade_upgrade1_abilitydata.xml
@@ -3134,7 +3133,7 @@ msgid ""
 "You call upon the legacy of the greatest champions in history, defying enemies as you hold your position. This stops enemies from moving past you and enables you to block choke points.\n"
 "\n"
 msgstr ""
-"전설적인 선대 투사들의 유증을 받들어 자리를 굳건히 지키고 오는 적들을 막아냅니다. 적들은 방어진 뒤로 이동할 수 없기 때문에 전투의 "
+"전설적인 선대 투사들의 유증을 받들어 자리를 굳건히 지키고 다가오는 적들을 막아냅니다. 적들은 방어진 뒤로 이동할 수 없기 때문에 전투의 "
 "요점을 만들어 낼 수 있습니다.\n"
 "\n"
 
@@ -3171,7 +3170,7 @@ msgid ""
 "Line in the Sand no longer has a cost or cooldown, and it lasts until you cancel it.\n"
 "\n"
 msgstr ""
-"사막의 전선이 더는 기력을 소비하지 않으며, 재사용 대기 시간이 사라집니다. 이제 방어진은 능력을 거둘 때 소멸합니다.\n"
+"사막의 전선이 더는 기력을 소비하지 않으며, 재사용 대기시간이 사라집니다. 이제 방어진은 기술을 거둘 때 소멸합니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\General\ClassBonus\party_warrior_general_classbonus_abilitydata.xml
@@ -3314,7 +3313,7 @@ msgid ""
 "Your faith is your protection against the elements, and not for you alone. The entire party gains increased resistance to fire, ice, electric, and spirit damage.\n"
 "\n"
 msgstr ""
-"믿음이 곧 당신과 당신의 동료를 마법으로부터 지켜주는 울타리입니다. 아군 전체가 불, 얼음, 전기, 영혼 공격에 추가 내성을 얻습니다.\n"
+"믿음이 곧 당신과 당신의 동료를 마법으로부터 지켜주는 울타리입니다. 아군 전체가 불, 얼음, 전기, 영혼 피해에 추가 저항을 얻습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\Passives\CombatPacing\party_warrior_passive_combatpacing_abilitydata.xml
@@ -3352,13 +3351,12 @@ msgstr "전투의 흐름"
 #. FILE: DA3\Party\Warrior\Passives\CriticalPriority\party_warrior_passive_criticalpriority_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\Warrior\Passives\CriticalPriority\party_warrior_passive_criticalpriority_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x0004283e"
 msgid ""
 "Every critical hit reduces the cooldown times on your abilities, giving you the edge to finish off your enemy.\n"
 "\n"
 msgstr ""
-"치명타를 가하면 능력의 재사용 대기시간이 감소합니다. 이 한 끝으로 적을 마무리하세요.\n"
+"치명타를 가하면 기술의 재사용 대기시간이 감소합니다. 이 한 끝으로 적을 마무리하세요.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\Passives\Crusader\party_warrior_passive_crusader_abilitydata.xml
@@ -3415,7 +3413,7 @@ msgid ""
 "When an enemy dies near you, the thrill of death spurs you to hit that much harder.\n"
 "\n"
 msgstr ""
-"적이 당신 근처에서 죽는다면 희열에 물들어 적들을 더 무참하게 공격할 수 있습니다.\n"
+"적이 당신 근처에서 죽는다면, 그 희열로 적들을 더 무참하게 공격할 수 있습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\Passives\DeathWish\party_warrior_passive_deathwish_abilitydata.xml
@@ -3448,7 +3446,7 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\Disarm\party_warrior_passive_disarm_abilitydata.xml:5
 msgctxt "0x00042886"
 msgid "Crippling Blows"
-msgstr ""
+msgstr "고통의 일격"
 
 #. FILE: DA3\Party\Warrior\Passives\Disarm\party_warrior_passive_disarm_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3458,6 +3456,8 @@ msgid ""
 "You know how to take the fight out of your foes. Your critical hits leave enemies weakened.\n"
 "\n"
 msgstr ""
+"당신은 적의 전투 의지를 무너뜨리는 일에 능숙합니다. 치명타를 맞은 적들이 약화됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\FinalBreath\party_warrior_passive_finalbreath_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -3603,7 +3603,7 @@ msgid ""
 "Your expertise with the shield protects you against ranged attacks from the front.\n"
 "\n"
 msgstr ""
-"방패를 다루는 숙련도가 빛을 발해 정면에서 들어오는 원거리 공격의 피해량이 감소합니다.\n"
+"방패를 다루는 숙련도가 빛을 발합니다. 정면에서 들어오는 원거리 공격의 피해량이 감소합니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\Passives\Reaver\party_warrior_passive_reaver_abilitydata.xml
@@ -3684,7 +3684,7 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\Templar\party_warrior_passive_templar_abilitydata.xml:5
 msgctxt "0x000428cf"
 msgid "Champions of the Just"
-msgstr "정의의 투사"
+msgstr "의인의 용사들"
 
 #. FILE: DA3\Party\Warrior\Passives\Templar\party_warrior_passive_templar_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3702,7 +3702,7 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\TurnTheBlade\party_warrior_passive_turntheblade_abilitydata.xml:5
 msgctxt "0x00042823"
 msgid "Bear Mauls the Wolves"
-msgstr ""
+msgstr "늑대를 찢는 곰"
 
 #. FILE: DA3\Party\Warrior\Passives\TurnTheBlade\party_warrior_passive_turntheblade_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3718,7 +3718,7 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\TwohandedSpecialization\party_warrior_passive_twohandedspecialization_abilitydata.xml:5
 msgctxt "0x0004284f"
 msgid "Clear a Path"
-msgstr ""
+msgstr "길을 비켜라"
 
 #. FILE: DA3\Party\Warrior\Passives\TwohandedSpecialization\party_warrior_passive_twohandedspecialization_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3741,7 +3741,7 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\VanguardPASSIVE2\party_warrior_passive_vanguardPASSIVE2_abilitydata.xml:5
 msgctxt "0x00042894"
 msgid "Cutting Words"
-msgstr ""
+msgstr "촌철살인"
 
 #. FILE: DA3\Party\Warrior\Passives\VanguardPASSIVE2\party_warrior_passive_vanguardPASSIVE2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3757,7 +3757,7 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\WeaponMastery\party_warrior_passive_weaponmastery_abilitydata.xml:5
 msgctxt "0x0004288c"
 msgid "Weapon Mastery"
-msgstr ""
+msgstr "무기 숙련"
 
 #. FILE: DA3\Party\Warrior\Passives\WeaponMastery\party_warrior_passive_weaponmastery_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -3767,6 +3767,8 @@ msgid ""
 "No matter what weapon fate puts in your hands, you'll be ready to make the most of it.\n"
 "\n"
 msgstr ""
+"어떤 무기를 들더라도 능숙하게 다룰 수 있게 됩니다.\n"
+"\n"
 
 #. FILE: DA3\Party\Warrior\Passives\WeaponMastery\party_warrior_passive_weaponmastery_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -3794,7 +3796,7 @@ msgstr ""
 #: DA3\Party\Warrior\Passives\ironshell\party_warrior_passive_ironshell_abilitydata.xml:5
 msgctxt "0x000428b5"
 msgid "Resilience"
-msgstr ""
+msgstr "결연함"
 
 #. FILE: DA3\Party\Warrior\Passives\ironshell\party_warrior_passive_ironshell_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -4036,7 +4038,7 @@ msgid ""
 "All of your templar abilities now affect magic-using enemies as well as demons.\n"
 "\n"
 msgstr ""
-"악마뿐만 아니라 마법을 쓰는 적을 상대로도 템플러 능력들이 발동합니다.\n"
+"악마뿐만 아니라 마법을 쓰는 적을 상대로도 템플러 기술들이 발동합니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\Templar\MakersWrath\party_warrior_templar_makerswrath_abilitydata.xml
@@ -4185,7 +4187,7 @@ msgstr ""
 #: DA3\Party\Warrior\TwoHanded\Basic\party_warrior_twohanded_basic_defensiveattack_abilitydata.xml:5
 msgctxt "0x00027017"
 msgid "Basic Attack"
-msgstr ""
+msgstr "기본 공격"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Basic\party_warrior_twohanded_basic_defensiveattack_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -4199,7 +4201,7 @@ msgstr ""
 #: DA3\Party\Warrior\TwoHanded\Basic\party_warrior_twohanded_basic_offensiveattack_abilitydata.xml:5
 msgctxt "0x00026eb8"
 msgid "Basic Attack"
-msgstr ""
+msgstr "기본 공격"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Basic\party_warrior_twohanded_basic_offensiveattack_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -4248,7 +4250,7 @@ msgid ""
 "Countering an enemy's attack now does bonus damage and adds to your guard.\n"
 "\n"
 msgstr ""
-"맞받아치는 공격의 피해량이 증가하고, 새롭게 방어도를 얻을 수 있습니다.\n"
+"맞받아치는 공격의 피해량이 증가하며, 동시에 방어도를 얻습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\TwoHanded\Counter\party_warrior_twohanded_counter_upgrade2_abilitydata.xml
@@ -4688,7 +4690,7 @@ msgid ""
 "After you finish your charge, your next ability costs no stamina.\n"
 "\n"
 msgstr ""
-"돌진이 종료된 후 다음 능력은 기력을 소모하지 않습니다.\n"
+"돌진이 종료된 후 다음 기술은 기력을 소모하지 않습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\Vanguard\Charge\party_warrior_vanguard_charge_upgrade2_abilitydata.xml
@@ -4942,7 +4944,7 @@ msgid ""
 "You push yourself to the limit, gaining full guard and taunting all nearby enemies. While the ability is active, you automatically counter all melee attacks.\n"
 "\n"
 msgstr ""
-"자신을 한계까지 몰아붙여, 방어도를 최대로 얻고 주변의 적들을 전부 도발합니다. 이 능력이 발동 중일 때, 모든 근접 공격을 자동으로 "
+"자신을 한계까지 몰아붙여, 방어도를 최대로 얻고 주변의 적들을 전부 도발합니다. 이 기술이 발동 중일 때, 모든 근접 공격을 자동으로 "
 "반격합니다.\n"
 "\n"
 
@@ -4977,8 +4979,7 @@ msgid ""
 "You recover from any disabled condition and lash out with a great blow against nearby enemies. If you've recently taken damage, you hit that much harder and stagger your foes.\n"
 "\n"
 msgstr ""
-"모든 상태 이상에서 벗어나 가까운 적들을 향해 큰 일격을 가합니다. 최근에 받은 피해가 있다면, 피해량이 증가하고 피격된 적들을 "
-"경직시킵니다.\n"
+"모든 상태 이상에서 벗어나 근접한 적들에게 일격을 날립니다. 최근에 받은 피해가 있다면 앙갚음의 피해량이 증가하며 적들을 경직시킵니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\Revenge\party_warrior_weaponshield_revenge_abilitydata.xml
@@ -5060,7 +5061,7 @@ msgid ""
 "When you use Shield Wall, your movement is not slowed as much. You also protect nearby allies by giving them improved armor.\n"
 "\n"
 msgstr ""
-"방패 벽을 유지할 때의 이동 속도가 완화됩니다. 추가로 아군의 방어력을 강화해 주변을 보호합니다.\n"
+"방패 벽을 유지할 때의 속도 감소 효과가 완화됩니다. 추가로 아군의 방어력을 강화해 주변을 보호합니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Warrior\WeaponShield\ShieldWall\party_warrior_weaponshield_shieldwall_upgrade2_abilitydata.xml
@@ -5078,7 +5079,7 @@ msgid ""
 "Blocking with Shield Wall costs less stamina and generates more guard, but you cannot move while blocking.\n"
 "\n"
 msgstr ""
-"방패 벽으로 공격을 방어할 때 얻는 방어도가 증가하고 기력 소비가 감소하지만, 방어 자세로 움직일 수 없습니다.\n"
+"방패 벽으로 공격을 방어할 때마다 얻는 방어도가 증가하고 소모되는 기력 또한 줄어들지만, 방어 자세를 취하면 더는 움직일 수 없습니다.\n"
 "\n"
 
 #. FILE: DA3\Party\general\AI\BehaviorSettings\party_behavior_enabletactics.xml
@@ -5177,7 +5178,7 @@ msgstr "전부"
 #: DA3\Party\general\AI\BehaviorSettings\party_behavior_healthpotion_reserve.xml:96
 msgctxt "0x000432dd"
 msgid "Party member will not use healing potions if this many or fewer remain."
-msgstr "파티원은 이 숫자보다 많거나 적으면 치유 물약을 사용하지 않습니다."
+msgstr "치유 물약이 해당 숫자 이하로 남으면 파티원이 사용하지 않습니다."
 
 #. FILE: DA3\Party\general\AI\BehaviorSettings\party_behavior_healthpotion_threshold.xml
 #. PATH: CharacterBehaviorSetting/SettingName
@@ -5240,7 +5241,7 @@ msgstr "파티원의 체력이 이 임계 값 아래로 떨어지면 치유 물�
 #: DA3\Party\general\AI\BehaviorSettings\party_behavior_resource_reserve.xml:5
 msgctxt "0x00040348"
 msgid "Mana/Stamina % Reserve"
-msgstr "남은 마나/기력 %"
+msgstr "보전할 마나/기력 %"
 
 #. FILE: DA3\Party\general\AI\BehaviorSettings\party_behavior_resource_reserve.xml
 #. PATH: CharacterBehaviorSetting/Choices/member[1]/CharacterBehaviorChoice/ChoiceName
@@ -5254,7 +5255,7 @@ msgstr "0%"
 #: DA3\Party\general\AI\BehaviorSettings\party_behavior_resource_reserve.xml:96
 msgctxt "0x000432df"
 msgid "If mana/stamina falls below this threshold, party member will stop using abilities that require it."
-msgstr "마나/기력이 임계 값 아래로 떨어지면 파티원은 이를 필요로 하는 능력을 사용하지 않습니다."
+msgstr "마나/기력이 임계 값 아래로 떨어지면 파티원은 이를 필요로 하는 기술을 사용하지 않습니다."
 
 #. FILE: DA3\Party\general\AI\BehaviorSettings\party_behavior_targeting.xml
 #. PATH: CharacterBehaviorSetting/SettingName
@@ -5289,7 +5290,7 @@ msgstr "다른 파티원의 표적을 따르거나 다른 파티원에 대한 �
 #: DA3\Party\general\AbilityTrees\General_Inquisitor_AbilityTree.xml:5
 msgctxt "0x00043726"
 msgid "Inquisitor"
-msgstr "인퀴지터"
+msgstr "심문관"
 
 #. FILE: DA3\Party\general\AbilityTrees\General_Inquisitor_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
@@ -5433,7 +5434,7 @@ msgstr ""
 #: DA3\Party\general\AbilityTrees\Rogue_Alchemist_Spec_AbilityTree.xml:5
 msgctxt "0x00042389"
 msgid "Tempest"
-msgstr "돌풍"
+msgstr "질풍"
 
 #. FILE: DA3\Party\general\AbilityTrees\Rogue_Alchemist_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
@@ -5599,7 +5600,7 @@ msgctxt "0x00044824"
 msgid "Long ago, the Seekers of Truth founded the Templar Order and taught them how to deal with hostile mages and their spells. Cassandra thus possesses all of a templar's abilities, without the risk of lyrium addiction."
 msgstr ""
 "오래 전, 진리의 구도자들은 템플러 연맹을 설립하고 적대적인 마법사와 그들의 주문에 대항하는 방법을 가르쳤습니다. 따라서 카산드라는 리륨 "
-"중독의 위험없이 템플러의 모든 능력을 가지고 있습니다."
+"중독의 위험없이 템플러의 모든 기술을 가지고 있습니다."
 
 #. FILE: DA3\Party\general\AbilityTrees\Warrior_Chavalier_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference
@@ -5703,7 +5704,7 @@ msgstr ""
 #: DA3\Party\general\Passive\party_general_give_ability_point_passive_abilitydata.xml:5
 msgctxt "0x000426a4"
 msgid "Gain an ability point when equipped"
-msgstr "장비 할 때 하나의 능력 점수를 얻습니다"
+msgstr "장비 할 때 하나의 기술 포인트를 얻습니다"
 
 #. FILE: DA3\Party\general\Passive\party_general_respec_passive_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -5815,7 +5816,7 @@ msgstr "기사도: 자신을 공격하는 적에게만 피해를 줄 수 있지�
 #: DA3\Party\general\Passive\unique_item_passive_coldboost_t1_abilitydata.xml:5
 msgctxt "0x0004b24c"
 msgid "Cold-based abilities are slightly more powerful at the cost of a small amount of health."
-msgstr "냉기 기반 능력은 적은 양의 체력을 희생하면서 약간 더 강력합니다."
+msgstr "냉기 기반 기술은 적은 양의 체력을 희생하면서 약간 더 강력합니다."
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_coldboost_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -6228,42 +6229,42 @@ msgstr "10초 동안 받은 피해의 25%를 치유합니다"
 #: DA3\Party\general\Passive\unique_item_passive_lowcostnodamage_abilitydata.xml:5
 msgctxt "0x00043ea5"
 msgid "Abilities cost 10% less mana/stamina if not being hit for 5 seconds"
-msgstr "5초 동안 맞지 않으면 능력의 마나/기력 비용이 10% 감소합니다"
+msgstr "5초 동안 맞지 않으면 기술의 마나/기력 비용이 10% 감소합니다"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowcostnodamage_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowcostnodamage_t2_abilitydata.xml:5
 msgctxt "0x00043ea6"
 msgid "Abilities cost 15% less mana/stamina if not being hit for 5 seconds"
-msgstr "5초 동안 맞지 않으면 능력의 마나/기력 비용이 15% 감소합니다"
+msgstr "5초 동안 맞지 않으면 기술의 마나/기력 비용이 15% 감소합니다"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowcostnodamage_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowcostnodamage_t3_abilitydata.xml:5
 msgctxt "0x00043ea7"
 msgid "Abilities cost 20% less mana/stamina if not being hit for 5 seconds"
-msgstr "5초 동안 맞지 않으면 능력의 마나/기력 비용이 20% 감소합니다"
+msgstr "5초 동안 맞지 않으면 기술의 마나/기력 비용이 20% 감소합니다"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowerabilitycost_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowerabilitycost_abilitydata.xml:5
 msgctxt "0x00043ea8"
 msgid "Abilities cost 5% less mana/stamina"
-msgstr "마나/기력 능력 비용이 5% 감소"
+msgstr "마나/기력 기술 비용이 5% 감소"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowerabilitycost_t2_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowerabilitycost_t2_abilitydata.xml:5
 msgctxt "0x00043ea9"
 msgid "Abilities cost 7.5% less mana/stamina"
-msgstr "마나/기력 능력 비용이 7.5% 감소"
+msgstr "마나/기력 기술 비용이 7.5% 감소"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowerabilitycost_t3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: DA3\Party\general\Passive\unique_item_passive_lowerabilitycost_t3_abilitydata.xml:5
 msgctxt "0x00043eaa"
 msgid "Abilities cost 10% less mana/stamina"
-msgstr "마나/기력 능력 비용이 10% 감소"
+msgstr "마나/기력 기술 비용이 10% 감소"
 
 #. FILE: DA3\Party\general\Passive\unique_item_passive_lowhplowdamage_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -7605,7 +7606,7 @@ msgstr ""
 #: DA3\Party\general\Potions\MightyOffense\party_general_potion_mightyoffense_upgrade4_abilitydata.xml:5
 msgctxt "0x00026fdc"
 msgid "Critical Damage Bonus"
-msgstr ""
+msgstr "치명타 추가 피해"
 
 #. FILE: DA3\Party\general\Potions\MightyOffense\party_general_potion_mightyoffense_upgrade4_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
@@ -8757,13 +8758,12 @@ msgstr ""
 #. FILE: DA3\Party\mage\Passives\ElementaryMagic\party_mage_passive_elementarymagic_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Party\mage\Passives\ElementaryMagic\party_mage_passive_elementarymagic_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x0003f75c"
 msgid ""
 "You use your staff's energy to fill the area with sympathetic magic. Each basic attack shortens your active cooldown times.\n"
 "\n"
 msgstr ""
-"지팡이의 에너지에 일대가 공명합니다. 기본 공격이 능력의 재사용 대기 시간을 줄여줍니다.\n"
+"지팡이의 에너지에 일대가 공명합니다. 기본 공격이 기술의 재사용 대기 시간을 줄여줍니다.\n"
 "\n"
 
 #. FILE: DA3\Party\mage\Passives\FatalCasting\party_mage_passive_fatalcasting_abilitydata.xml
@@ -9145,13 +9145,12 @@ msgstr ""
 #. FILE: DA3\Party\mage\Staff\AblativeArmor\party_mage_staff_ablativearmor_aoe_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\mage\Staff\AblativeArmor\party_mage_staff_ablativearmor_aoe_upgrade2_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x000404a3"
 msgid ""
 "You have learned to cast Barrier with a more stable magical pattern. Each time a barrier you have cast expires, the ability's cooldown time is reduced.\n"
 "\n"
 msgstr ""
-"더 안정적인 마법으로 보호막을 시전합니다. 시전한 보호막이 종료될 때마다, 능력의 재사용 대기시간이 감소합니다.\n"
+"더 안정적인 마법으로 보호막을 시전합니다. 시전한 보호막이 종료될 때마다, 기술의 재사용 대기시간이 감소합니다.\n"
 "\n"
 
 #. FILE: DA3\Party\mage\Staff\AblativeArmor\party_mage_staff_ablativearmor_aoe_upgrade3_abilitydata.xml
@@ -10007,8 +10006,8 @@ msgstr "소생"
 msgctxt "0x0003e31f"
 msgid "You call on benign spirits to restore you and your allies for continuing the fight. All party members are healed to full health, including those who have fallen unconscious, and a glyph around you provides ongoing healing to the party for the spell's duration.\n"
 msgstr ""
-"전투를 이어나갈 수 있도록 우호적인 정령들의 힘을 빌어 아군 전체를 회복합니다. 의식을 잃어 쓰러진 아군을 포함해 모두가 최대 체력으로 "
-"회복됩니다. 주위에서 흐르는 문양이 주문의 효과가 종료될 때까지 아군의 체력을 지속적으로 회복합니다.\n"
+"우호적인 정령들의 힘을 빌어 전투를 이어나갈 수 있도록 아군 전체를 회복합니다. 의식을 잃어 쓰러진 아군을 포함해 모두가 최대 체력으로 "
+"회복됩니다. 주문의 효과가 종료될 때까지 주위에서 흐르는 문양이 아군의 체력을 지속해서 회복해 줍니다.\n"
 
 #. FILE: DA3\Party\mage\Staff\Heal\party_mage_staff_heal_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
@@ -10107,7 +10106,7 @@ msgstr ""
 #: DA3\Party\mage\Staff\Phantasm\party_mage_staff_phantasm_upgrade2_abilitydata.xml:5
 msgctxt "0x000499cf"
 msgid "Terror"
-msgstr "두려움"
+msgstr "경악"
 
 #. FILE: DA3\Party\mage\Staff\Phantasm\party_mage_staff_phantasm_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -10369,7 +10368,7 @@ msgid ""
 "You summon a boulder from the Fade and smash it into your target, sending them flying.\n"
 "\n"
 msgstr ""
-"영계에서 바위를 소환하여 대상에게 투척합니다. 직격한 적은 멀리 날아갑니다.\n"
+"영계에서 바위를 소환하여 대상에게 투척합니다. 직격당한 적은 멀리 날아갑니다.\n"
 "\n"
 
 #. FILE: DA3\Party\mage\Staff\StoneFist\party_mage_staff_stonefist_abilitydata.xml
@@ -11206,7 +11205,7 @@ msgstr ""
 #: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Ring\saarebas_abilities_ring_upgrade_abilitydata.xml:5
 msgctxt "0x0004b3db"
 msgid "Ring of the Kadan"
-msgstr ""
+msgstr "카단의 반지"
 
 #. FILE: da3_dlc_blue\Party\MP\Kits\Saarebas\Abilities\Ring\saarebas_abilities_ring_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference

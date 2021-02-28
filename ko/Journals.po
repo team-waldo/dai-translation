@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-23 08:00+0000\n"
-"Last-Translator: Gladion <orcish28104@naver.com>\n"
+"PO-Revision-Date: 2021-02-28 11:58+0000\n"
+"Last-Translator: 최재형 <jason123qwe@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,7 +15,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\Adamant\ada_adamant_main_journal.xml:13
 msgctxt "0x00004bc4"
 msgid "Here Lies the Abyss"
-msgstr "여기 심연이 도래했노라"
+msgstr "여기 심연이 있노라"
 
 #. FILE: DA3\DesignContent\Journals\Adamant\ada_fade_order_puzzle_journal.xml
 #. PATH: JournalEntry/TitleReference
@@ -29,7 +29,7 @@ msgstr "깨진 창문"
 #: DA3\DesignContent\Journals\Adamant\ada_fade_phobia_journal.xml:30
 msgctxt "0x000418c2"
 msgid "Fears of the Dreamers"
-msgstr "몽상가들의 두려움"
+msgstr "꿈꾸는 자들의 공포"
 
 #. FILE: DA3\DesignContent\Journals\Ferelden\Fer_Wilderness_Main\LightQuests\fer_wild_lq1.xml
 #. PATH: JournalEntry/TitleReference
@@ -267,7 +267,7 @@ msgstr "외곽에 있는 균열"
 #: DA3\DesignContent\Journals\Ferelden\Fer_Wilderness_Main\fer_wild_faderift_camp_02.xml:13
 msgctxt "0x00036f96"
 msgid "Rifts at Dwarfson's Pass"
-msgstr "드워프 자손의 고개에 있는 균열"
+msgstr "드워프 자손의 길에 있는 균열"
 
 #. FILE: DA3\DesignContent\Journals\Ferelden\Fer_Wilderness_Main\fer_wild_faderift_camp_03.xml
 #. PATH: JournalEntry/TitleReference
@@ -477,7 +477,7 @@ msgstr "잔잔한 물"
 #: DA3\DesignContent\Journals\Ferelden\fer_Wilderness_010\fer010_naturalistQuest_journal.xml:13
 msgctxt "0x00038451"
 msgid "Wyrm Hole"
-msgstr ""
+msgstr "와이번 동굴"
 
 #. FILE: DA3\DesignContent\Journals\Ferelden\fer_Wilderness_010\fer010_naturalist_journal.xml
 #. PATH: JournalEntry/TitleReference
@@ -526,7 +526,7 @@ msgstr "브로나크 성 탈환"
 #: DA3\DesignContent\Journals\Finale\fin_main_journal.xml:13
 msgctxt "0x00017069"
 msgid "Doom Upon All the World"
-msgstr ""
+msgstr "온 세상에 파멸을"
 
 #. FILE: DA3\DesignContent\Journals\Finale\fin_the_final_piece_journal.xml
 #. PATH: JournalEntry/TitleReference
@@ -624,7 +624,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\Global\Followers\Cassandra\cas_RomanceQuest_journal.xml:13
 msgctxt "0x00035a9f"
 msgid "The Ideal Romance"
-msgstr ""
+msgstr "이상적인 로멘스 "
 
 #. FILE: DA3\DesignContent\Journals\Global\Followers\Cole\col_acquisition_journal.xml
 #. PATH: JournalEntry/TitleReference
@@ -645,7 +645,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\Global\Followers\Cullen\cullen_giftplot_journal.xml:13
 msgctxt "0x000323dd"
 msgid "Happier Times"
-msgstr ""
+msgstr "행복했던 시절"
 
 #. FILE: DA3\DesignContent\Journals\Global\Followers\Cullen\cullen_personalplot_journal.xml
 #. PATH: JournalEntry/TitleReference
@@ -881,10 +881,9 @@ msgstr "균열 마법사의 길"
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\gen_spec_tempest_journal.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\gen_spec_tempest_journal.xml:13
-#, fuzzy
 msgctxt "0x00040bc1"
 msgid "Way of the Tempest"
-msgstr "템페스트의 길"
+msgstr "질풍의 길"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\gen_spec_templar_journal.xml
 #. PATH: JournalEntry/TitleReference
@@ -1249,7 +1248,7 @@ msgstr "접근지역의 암호 요청"
 #: DA3\DesignContent\Journals\Global\Inquisition\tutorial_potion.xml:13
 msgctxt "0x00043d6f"
 msgid "Mixing Potions"
-msgstr ""
+msgstr "물약 제조"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\upgrade_courtyard.xml
 #. PATH: JournalEntry/TitleReference
@@ -1340,7 +1339,7 @@ msgstr ""
 #: DA3\DesignContent\Journals\Halamshiral\hal_exterior_search.xml:13
 msgctxt "0x00022c60"
 msgid "Montbelliard's Ring"
-msgstr ""
+msgstr "몽벨리아의 반지"
 
 #. FILE: DA3\DesignContent\Journals\Halamshiral\hal_guestwing_briala1.xml
 #. PATH: JournalEntry/TitleReference
@@ -1396,14 +1395,14 @@ msgstr ""
 #: DA3\DesignContent\Journals\Halamshiral\hal_hallastatue_RW_Bonus.xml:13
 msgctxt "0x0003fa39"
 msgid "Choose a Lower Royal Wing Door"
-msgstr "왕실관 아랫문 고르기"
+msgstr "왕실관 하층 문 고르기"
 
 #. FILE: DA3\DesignContent\Journals\Halamshiral\hal_hallastatue_RW_Empress.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Halamshiral\hal_hallastatue_RW_Empress.xml:13
 msgctxt "0x0003f9c7"
 msgid "Open the Upper Royal Wing Door"
-msgstr "왕실관 윗문 열기"
+msgstr "왕실관 상층 문 열기"
 
 #. FILE: DA3\DesignContent\Journals\Halamshiral\hal_hallastatue_SQ_Bonus.xml
 #. PATH: JournalEntry/TitleReference
@@ -1417,7 +1416,7 @@ msgstr "잃어버린 열쇠 찾기"
 #: DA3\DesignContent\Journals\Halamshiral\hal_main_journal_courtapproval.xml:13
 msgctxt "0x00023da8"
 msgid "Wicked Eyes and Wicked Hearts"
-msgstr "사악한 눈과 사악한 심장"
+msgstr "사악한 눈길과 악독한 마음"
 
 #. FILE: DA3\DesignContent\Journals\Haven\hav_main.xml
 #. PATH: JournalEntry/TitleReference
@@ -1438,7 +1437,7 @@ msgstr "무기 요청"
 #: DA3\DesignContent\Journals\Haven\hav_research.xml:13
 msgctxt "0x00041a93"
 msgid "Know Thy Enemy"
-msgstr "적 알기"
+msgstr "그대의 적을 알라"
 
 #. FILE: DA3\DesignContent\Journals\Haven\hav_search.xml
 #. PATH: JournalEntry/TitleReference
@@ -1516,7 +1515,7 @@ msgstr "희생의 증거"
 #: DA3\DesignContent\Journals\Prologue\pro_main_journal.xml:13
 msgctxt "0x00004c02"
 msgid "The Wrath of Heaven"
-msgstr "천국의 진노"
+msgstr "천상의 분노"
 
 #. FILE: DA3\DesignContent\Journals\Redcliffe\red_main_journal.xml
 #. PATH: JournalEntry/TitleReference
@@ -1552,7 +1551,7 @@ msgstr "악마적인 신조"
 #: DA3\DesignContent\Journals\SeekerFortress\see_main_journal.xml:13
 msgctxt "0x00004be7"
 msgid "Champions of the Just"
-msgstr "정의의 투사"
+msgstr "의인의 용사들"
 
 #. FILE: DA3\DesignContent\Journals\Setback\setback_evac_journal.xml
 #. PATH: JournalEntry/TitleReference
@@ -1566,7 +1565,7 @@ msgstr "헤이븐으로 피난"
 #: DA3\DesignContent\Journals\Setback\setback_main_journal.xml:13
 msgctxt "0x0002315f"
 msgid "In Your Heart Shall Burn"
-msgstr "네 속은 타오를지니"
+msgstr "너희 심장에 불꽃이 피리라"
 
 #. FILE: DA3\DesignContent\Journals\Skyhold\sky_barris_promotion.xml
 #. PATH: JournalEntry/TitleReference
@@ -1729,7 +1728,7 @@ msgstr "스카이홀드에 흩어져 있다"
 #: DA3\DesignContent\Journals\TempleOfMythal\myt_main_journal.xml:13
 msgctxt "0x00004c3a"
 msgid "What Pride Had Wrought"
-msgstr "교만이 초래한 일"
+msgstr "오만이 자초한 것"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_op_final_boss.xml
 #. PATH: JournalEntry/TitleReference
@@ -2250,7 +2249,7 @@ msgstr "그리고 아무 말 없었다"
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_investigate_western_ramparts.xml:13
 msgctxt "0x00035650"
 msgid "Undead Ramparts to the West"
-msgstr ""
+msgstr "서쪽 누벽 언데드"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_landmarks.xml
 #. PATH: JournalEntry/TitleReference
@@ -2271,7 +2270,7 @@ msgstr "데일스의 관점"
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_meet_gaspard_commander.xml:13
 msgctxt "0x00032c99"
 msgid "Another Side, Another Story"
-msgstr ""
+msgstr "다른 쪽, 다른 이야기"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_regions.xml
 #. PATH: JournalEntry/TitleReference
@@ -2299,7 +2298,7 @@ msgstr "제국을 위하여"
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_pln_wild_unlock.xml:13
 msgctxt "0x00042dc3"
 msgid "Silence on the Plains"
-msgstr ""
+msgstr "침묵이 내려앉은 평야"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_wild_treasure_map_01.xml
 #. PATH: JournalEntry/TitleReference
@@ -2320,14 +2319,14 @@ msgstr "엘가르난의 요새 지도"
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_wild_treasure_map_03.xml:13
 msgctxt "0x0003225f"
 msgid "Map of Enavuris"
-msgstr "에바누리의 지도"
+msgstr "에나뷰리의 지도"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_wild_treasure_map_04.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_wild_treasure_map_04.xml:13
 msgctxt "0x00032262"
 msgid "Sketch of Enavuris River"
-msgstr "에바누리 강의 스케치"
+msgstr "에나뷰리 강의 스케치"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_wild_treasure_map_05.xml
 #. PATH: JournalEntry/TitleReference
@@ -2348,7 +2347,7 @@ msgstr "돈테레 저택"
 #: DA3\DesignContent\Journals\TheDales\dgn_s_290\dal_290_energizePuzzle.xml:13
 msgctxt "0x0002d462"
 msgid "Safe Keeping"
-msgstr ""
+msgstr "안전 보관"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\dgs_s_140\Emerald_Tomb_Main.xml
 #. PATH: JournalEntry/TitleReference
@@ -2369,28 +2368,28 @@ msgstr "테빈터 유물 탐색"
 #: DA3\DesignContent\Journals\TheWesternApproach\D110\D110_TevinterLabs_FadeRift.xml:13
 msgctxt "0x0002ff5a"
 msgid "A Stranger Rift in the Ruins"
-msgstr ""
+msgstr "폐허 안의 수상한 균열"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\D110\D110_TevinterLabs_TimeShards.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\D110\D110_TevinterLabs_TimeShards.xml:13
 msgctxt "0x000306f0"
 msgid "The Heart of the Still Ruins"
-msgstr ""
+msgstr "고요한 유적의 심장"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_Astrarium.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_Astrarium.xml:13
 msgctxt "0x00039832"
 msgid "Astrariums in the Approach"
-msgstr ""
+msgstr "접근지역 천체 투영관"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_area_trailsigns.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_area_trailsigns.xml:13
 msgctxt "0x0002e8e3"
 msgid "On the Chantry Trail"
-msgstr ""
+msgstr "챈트리 흔적을 따라"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_campa_faderifts.xml
 #. PATH: JournalEntry/TitleReference
@@ -2402,79 +2401,81 @@ msgstr "협곡의 균열들"
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_campc_faderifts.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_campc_faderifts.xml:13
+#, fuzzy
 msgctxt "0x000380fa"
 msgid "Rifts off the Pass"
-msgstr ""
+msgstr "길에서 벗어난 균열"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_campd_faderifts.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_campd_faderifts.xml:13
 msgctxt "0x00038107"
 msgid "Rifts in Echoback"
-msgstr ""
+msgstr "메아리 협곡의 균열"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_campe_faderifts.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_campe_faderifts.xml:13
 msgctxt "0x0003810a"
 msgid "Rifts in Sand and Dust"
-msgstr ""
+msgstr "모래와 먼지에 덮인 균열"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_keep_darkspawn.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_keep_darkspawn.xml:13
 msgctxt "0x0002e497"
 msgid "The Trouble with Darkspawn"
-msgstr ""
+msgstr "어둠의 피조물과의 분쟁"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_keep_raiders.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_keep_raiders.xml:13
 msgctxt "0x0002e49c"
 msgid "Fortress Squatters"
-msgstr ""
+msgstr "요새 불청객"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_landmarks.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_landmarks.xml:13
 msgctxt "0x0002c2f8"
 msgid "Landmarks in the Approach"
-msgstr ""
+msgstr "접근지역 랜드마크"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_main_camps.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_main_camps.xml:13
 msgctxt "0x0002cba0"
 msgid "Holding the Western Approach"
-msgstr ""
+msgstr "서부 접근지역 사수"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_main_dragon_hunters.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_main_dragon_hunters.xml:13
+#, fuzzy
 msgctxt "0x0001c3e7"
 msgid "Draconology"
-msgstr ""
+msgstr "용생학"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_main_keep.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_main_keep.xml:13
 msgctxt "0x0002ddc5"
 msgid "Assault on Griffon Wing Keep"
-msgstr ""
+msgstr "그리폰 날개 성채 습격"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_main_mission_water.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_main_mission_water.xml:30
 msgctxt "0x0001dd61"
 msgid "This Water Tastes Funny"
-msgstr ""
+msgstr "물 맛이 이상해"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_main_shards.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_main_shards.xml:13
 msgctxt "0x00038127"
 msgid "Shards in the Approach"
-msgstr ""
+msgstr "접근지역 편린"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_regions.xml
 #. PATH: JournalEntry/TitleReference
@@ -2488,7 +2489,7 @@ msgstr "진입로 내 지역"
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_researcher_find_dragon.xml:13
 msgctxt "0x0002ddc7"
 msgid "Hunting Patterns"
-msgstr ""
+msgstr "사냥 패턴"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_researcher_high_dragon.xml
 #. PATH: JournalEntry/TitleReference
@@ -2502,98 +2503,98 @@ msgstr "심연의 고룡"
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_researcher_ingredients1.xml:13
 msgctxt "0x0002dcf5"
 msgid "How to Lure a Dragon"
-msgstr ""
+msgstr "용을 꾀어내는 방법"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_researcher_manuscript.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_researcher_manuscript.xml:13
 msgctxt "0x0002e153"
 msgid "A Manuscript of Some Authority"
-msgstr ""
+msgstr "권한의 원고"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_researcher_missing_supplies.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_researcher_missing_supplies.xml:13
 msgctxt "0x0002d8c3"
 msgid "Frederic's Livelihood"
-msgstr ""
+msgstr "프레데릭이 사는 법"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_researcher_poachers.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_researcher_poachers.xml:13
 msgctxt "0x0002dfee"
 msgid "Sharper White Claws"
-msgstr ""
+msgstr "날카로운 흰발톱"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_templar_cave.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_templar_cave.xml:13
 msgctxt "0x0003faac"
 msgid "The Venatori"
-msgstr ""
+msgstr "베나토리"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_unlock.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_unlock.xml:13
 msgctxt "0x00042dc8"
 msgid "Into the Approach"
-msgstr ""
+msgstr "접근지역으로"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Bog\the_Bog_Apostate.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\Bog\the_Bog_Apostate.xml:13
 msgctxt "0x000417de"
 msgid "These Demons Are Clever"
-msgstr ""
+msgstr "이 악마들은 영악하다"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Bog\the_Bog_Beacons.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\Bog\the_Bog_Beacons.xml:13
 msgctxt "0x0003fb33"
 msgid "Beacons in the Dark"
-msgstr ""
+msgstr "암흑 속 봉화"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Bog\the_Bog_CabinKey.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\Bog\the_Bog_CabinKey.xml:13
 msgctxt "0x00041f6a"
 msgid "Cabin Fever"
-msgstr ""
+msgstr "오두막 열병"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Bog\the_Bog_Landmarks.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\Bog\the_Bog_Landmarks.xml:13
 msgctxt "0x00040793"
 msgid "Landmarks in the Mire"
-msgstr ""
+msgstr "늪지의 랜드마크"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Bog\the_Bog_Main.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\Bog\the_Bog_Main.xml:13
 msgctxt "0x000269e9"
 msgid "Lost Souls"
-msgstr ""
+msgstr "잃어버린 영혼"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Bog\the_Bog_Veilfire.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\Bog\the_Bog_Veilfire.xml:13
 msgctxt "0x0004225f"
 msgid "Beneath the Mire"
-msgstr ""
+msgstr "늪지 그 아래"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Bog\the_bog_camps.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\Bog\the_bog_camps.xml:13
 msgctxt "0x0003a0ad"
 msgid "Holding the Mire"
-msgstr ""
+msgstr "늪지 사수"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Bog\the_bog_fadeRifts.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\Bog\the_bog_fadeRifts.xml:13
 msgctxt "0x00040500"
 msgid "Rifts in the Mire"
-msgstr ""
+msgstr "늪지의 균열"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Bog\the_bog_regions.xml
 #. PATH: JournalEntry/TitleReference
@@ -2607,77 +2608,77 @@ msgstr "늪지 내 지역"
 #: DA3\DesignContent\Journals\ThematicLevels\DeepRoads\the_DeepRoads_Main.xml:13
 msgctxt "0x0002bdc1"
 msgid "The Vault of Valammar"
-msgstr ""
+msgstr "발라마르의 금고"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Camps.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Camps.xml:13
 msgctxt "0x000303f9"
 msgid "Holding the Hissing Wastes"
-msgstr ""
+msgstr "칼바람 황무지 사수"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Faderifts_4Pillars.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Faderifts_4Pillars.xml:13
 msgctxt "0x0004038f"
 msgid "Rifts near the Sand Crags"
-msgstr ""
+msgstr "사막 바위산 근처 균열"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Faderifts_Canyon.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Faderifts_Canyon.xml:13
 msgctxt "0x00040393"
 msgid "Rifts near the Canyon"
-msgstr ""
+msgstr "협곡 근처 균열"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Faderifts_Cove.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Faderifts_Cove.xml:13
 msgctxt "0x0004038d"
 msgid "Rifts near the Cove"
-msgstr ""
+msgstr "해안 만 근처 균열"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Faderifts_Mountain.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Faderifts_Mountain.xml:13
 msgctxt "0x00040396"
 msgid "Rifts at the Sunstop Mountains"
-msgstr ""
+msgstr "태양이 멈추는 산의 균열"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Landmarks.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Landmarks.xml:13
 msgctxt "0x0004078d"
 msgid "Landmarks in the Wastes"
-msgstr ""
+msgstr "황무지의 랜드마크"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_LoreHunter.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_LoreHunter.xml:13
 msgctxt "0x00042a66"
 msgid "Notes on the Wastes"
-msgstr ""
+msgstr "황무지의 쪽지들"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_OasisMonster.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_OasisMonster.xml:13
 msgctxt "0x00042a64"
 msgid "Let's Slay the Beast"
-msgstr ""
+msgstr "야수 사냥을 하자"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Shards.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Shards.xml:13
 msgctxt "0x000405a3"
 msgid "Shards in the Wastes"
-msgstr ""
+msgstr "황무지의 편린"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Spiders.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Spiders.xml:13
 msgctxt "0x000303ca"
 msgid "Field of Bones"
-msgstr ""
+msgstr "뼈투성이"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_TreasureMaps.xml
 #. PATH: JournalEntry/TitleReference
@@ -2691,7 +2692,7 @@ msgstr "페이렐의 무덤"
 #: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Venatori.xml:13
 msgctxt "0x000300b2"
 msgid "Sand and Ruin"
-msgstr ""
+msgstr "모래와 유적"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_desertruins_regions.xml
 #. PATH: JournalEntry/TitleReference
@@ -2705,63 +2706,63 @@ msgstr "황무지 내 지역"
 #: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_camps.xml:13
 msgctxt "0x0003a0b2"
 msgid "Holding the Oasis"
-msgstr ""
+msgstr "오아시스 사수"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_explorer.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_explorer.xml:30
 msgctxt "0x0003b8f4"
 msgid "What It's Worth"
-msgstr ""
+msgstr "가치란 무엇인가"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_explorer_stash.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_explorer_stash.xml:13
 msgctxt "0x00043293"
 msgid "The Door in Par'as Cavern"
-msgstr ""
+msgstr "파'라스 동굴 문"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_faderift_camp_01.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_faderift_camp_01.xml:13
 msgctxt "0x0003a459"
 msgid "Rifts in the Oasis"
-msgstr ""
+msgstr "오아시스의 균열"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_faderift_camp_02.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_faderift_camp_02.xml:13
 msgctxt "0x0003a460"
 msgid "Rifts High and Low"
-msgstr ""
+msgstr "높은 곳과 낮은 곳의 균열"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_final_tomb.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_final_tomb.xml:13
 msgctxt "0x0003ab01"
 msgid "A Prideful Place"
-msgstr ""
+msgstr "교만이 넘치는 곳"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_fire_dungeon.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_fire_dungeon.xml:13
 msgctxt "0x0003aae1"
 msgid "The Fire Captured"
-msgstr ""
+msgstr "사로잡은 불꽃"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_frost_dungeon.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_frost_dungeon.xml:13
 msgctxt "0x0003aad4"
 msgid "The Cold Endured"
-msgstr ""
+msgstr "추위 견디기"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_landmarks.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_landmarks.xml:13
 msgctxt "0x0003ac2b"
 msgid "Landmarks in the Oasis"
-msgstr ""
+msgstr "오아시스의 랜드마크"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_regions.xml
 #. PATH: JournalEntry/TitleReference
@@ -2775,287 +2776,289 @@ msgstr "오아시스 내 지역"
 #: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_shard_collection.xml:13
 msgctxt "0x0003bab0"
 msgid "Shards in the Oasis"
-msgstr ""
+msgstr "오아시스의 편린"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_shards.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_shards.xml:13
 msgctxt "0x0003a0e6"
 msgid "The Temple of Pride"
-msgstr ""
+msgstr "교만의 사원"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_spirit_dungeon.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\Oasis\the_oasis_spirit_dungeon.xml:13
 msgctxt "0x0003a9a2"
 msgid "The Spirit Calmed"
-msgstr ""
+msgstr "차분한 영혼"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_astrarium.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_astrarium.xml:13
 msgctxt "0x0003fdb9"
 msgid "Astrariums on the Coast"
-msgstr ""
+msgstr "해안의 천체 투영관"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_camps.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_camps.xml:13
 msgctxt "0x0003fd3f"
 msgid "Holding the Storm Coast"
-msgstr ""
+msgstr "폭풍 해안 사수"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_drg_main.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_drg_main.xml:13
 msgctxt "0x0003fda7"
 msgid "Firestorm"
-msgstr ""
+msgstr "불폭풍"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_dsp_main.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_dsp_main.xml:13
+#, fuzzy
 msgctxt "0x0003fda3"
 msgid "Keeping the Darkspawn Down"
-msgstr ""
+msgstr "어둠의 피조물 구제작업"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_dungeon.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_dungeon.xml:13
 msgctxt "0x00041667"
 msgid "Red Water"
-msgstr ""
+msgstr "붉은 물"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_faderift_camp_01.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_faderift_camp_01.xml:13
 msgctxt "0x00040027"
 msgid "Rifts on the Coast"
-msgstr ""
+msgstr "해안의 균열"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_faderift_camp_02.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_faderift_camp_02.xml:13
 msgctxt "0x00040028"
 msgid "Rift at the Falls"
-msgstr ""
+msgstr "폭포의 균열"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_landmarks.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_landmarks.xml:13
 msgctxt "0x0003fdb3"
 msgid "Landmarks on the Coast"
-msgstr ""
+msgstr "해안의 랜드마크"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_mage_cabin.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_mage_cabin.xml:13
 msgctxt "0x0004471b"
 msgid "A Glowing Key"
-msgstr ""
+msgstr "빛나는 열쇠"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_main.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_main.xml:13
 msgctxt "0x00036e17"
 msgid "Cleaning House"
-msgstr ""
+msgstr "집 청소"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_regions.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_regions.xml:13
 msgctxt "0x0003fdb0"
 msgid "Regions on the Coast"
-msgstr ""
+msgstr "해안의 지역들"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_shard_collection.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_shard_collection.xml:13
 msgctxt "0x0003fdb5"
 msgid "Shards on the Coast"
-msgstr ""
+msgstr "해안의 편린"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_wdn_main.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_wdn_main.xml:13
 msgctxt "0x000416a9"
 msgid "Wardens of the Coast"
-msgstr ""
+msgstr "해안의 감시자"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\StormCoast\stormcoast_unlock.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\StormCoast\stormcoast_unlock.xml:13
 msgctxt "0x00042db4"
 msgid "Vigilance on the Coast"
-msgstr ""
+msgstr "해안 경계"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\WaterRuins\the_WaterRuins_Landmarks.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\WaterRuins\the_WaterRuins_Landmarks.xml:13
 msgctxt "0x0002bbc2"
 msgid "Landmarks at the Temple"
-msgstr ""
+msgstr "사원의 랜드마크"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\WaterRuins\the_WaterRuins_Main_Journal.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\WaterRuins\the_WaterRuins_Main_Journal.xml:13
 msgctxt "0x0002b26a"
 msgid "God of Secrets"
-msgstr ""
+msgstr "비밀의 신"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\WaterRuins\the_WaterRuins_Regions.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\WaterRuins\the_WaterRuins_Regions.xml:13
+#, fuzzy
 msgctxt "0x000441ff"
 msgid "Regions at the Temple"
-msgstr ""
+msgstr "사원 지역"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\WaterRuins\the_WaterRuins_Runes.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\WaterRuins\the_WaterRuins_Runes.xml:13
 msgctxt "0x000441de"
 msgid "Runes in the Lost Temple"
-msgstr ""
+msgstr "잃어버린 사원의 룬"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\the_RevenentChurch\the_RevChurch_LegendaryStaff.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ThematicLevels\the_RevenentChurch\the_RevChurch_LegendaryStaff.xml:13
 msgctxt "0x0002df8e"
 msgid "Ruined Blade"
-msgstr ""
+msgstr "부러진 칼날"
 
 #. FILE: DA3\DesignContent\Journals\ValRoyeaux\val_new_merchants.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\ValRoyeaux\val_new_merchants.xml:13
 msgctxt "0x000436db"
 msgid "New Merchant in the Market"
-msgstr ""
+msgstr "시장에 새로운 상인이 왔다"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\AvvarVillage\dlc1_avvar_approval.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\AvvarVillage\dlc1_avvar_approval.xml:13
 msgctxt "0x00046e52"
 msgid "Guests of the Hold"
-msgstr ""
+msgstr "요새의 손님"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\AvvarVillage\dlc1_avvar_arena.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\AvvarVillage\dlc1_avvar_arena.xml:13
 msgctxt "0x0004520b"
 msgid "Hakkon's Trials"
-msgstr ""
+msgstr "하콘의 시련"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\AvvarVillage\dlc1_avvar_bard_artifacts.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\AvvarVillage\dlc1_avvar_bard_artifacts.xml:13
 msgctxt "0x0004520d"
 msgid "It Remains to be Seen"
-msgstr ""
+msgstr "두고 보면 알겠지"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\AvvarVillage\dlc1_avvar_bear.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\AvvarVillage\dlc1_avvar_bear.xml:13
 msgctxt "0x00045d5e"
 msgid "Storvacker Caged"
-msgstr ""
+msgstr "갇힌 슈토어바커"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\AvvarVillage\dlc1_avvar_climber.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\AvvarVillage\dlc1_avvar_climber.xml:13
 msgctxt "0x00045df0"
 msgid "Up and Away"
-msgstr ""
+msgstr "날아오르자"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\AvvarVillage\dlc1_avvar_conspirator.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\AvvarVillage\dlc1_avvar_conspirator.xml:13
 msgctxt "0x0004703b"
 msgid "They Came From Somewhere Else"
-msgstr ""
+msgstr "그들은 다른 곳에서 왔다"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\AvvarVillage\dlc1_avvar_exile.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\AvvarVillage\dlc1_avvar_exile.xml:13
 msgctxt "0x00045e00"
 msgid "In Exile"
-msgstr ""
+msgstr "망명"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\AvvarVillage\dlc1_avvar_hunt.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\AvvarVillage\dlc1_avvar_hunt.xml:13
 msgctxt "0x00045215"
 msgid "A Father's Name"
-msgstr ""
+msgstr "아버지의 이름으로"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\AvvarVillage\dlc1_avvar_intro.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\AvvarVillage\dlc1_avvar_intro.xml:13
 msgctxt "0x000450bf"
 msgid "Avvar Allies"
-msgstr ""
+msgstr "아바르 연합"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_astrarium.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_astrarium.xml:13
 msgctxt "0x000450b2"
 msgid "Astrariums in Frostback Basin"
-msgstr ""
+msgstr "서리등선 분지 천체 투영관"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_camp01_faderifts.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_camp01_faderifts.xml:13
 msgctxt "0x000450cb"
 msgid "Rift in the Floor"
-msgstr ""
+msgstr "바닥의 균열"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_camp02_faderifts.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_camp02_faderifts.xml:13
 msgctxt "0x000450ca"
 msgid "Rifts Along the River"
-msgstr ""
+msgstr "강가의 균열"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_camp03_faderifts.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_camp03_faderifts.xml:13
 msgctxt "0x00045de6"
 msgid "Rifts in the Basin"
-msgstr ""
+msgstr "분지의 균열"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_camp04_faderifts.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_camp04_faderifts.xml:13
 msgctxt "0x000450d0"
 msgid "Rifts on the Bank"
-msgstr ""
+msgstr "강둑의 균열"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_camps.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_camps.xml:13
 msgctxt "0x0004506b"
 msgid "Holding Frostback Basin"
-msgstr ""
+msgstr "서리등선 분지 사수"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_landmarks.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_landmarks.xml:13
 msgctxt "0x00045a55"
 msgid "Landmarks in Frostback Basin"
-msgstr ""
+msgstr "서리등선 분지의 랜드마크"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_memory_investigation.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_memory_investigation.xml:13
 msgctxt "0x00045a87"
 msgid "Where Once We Walked"
-msgstr ""
+msgstr "우리가 걸었던 곳"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_occularum_dungeon.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_occularum_dungeon.xml:13
 msgctxt "0x00046f1b"
 msgid "The Mystery of Winter"
-msgstr ""
+msgstr "겨울의 신비"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_regions.xml
 #. PATH: JournalEntry/TitleReference
@@ -3069,35 +3072,35 @@ msgstr "서리등선 분지 내 지역"
 #: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_shards.xml:13
 msgctxt "0x00045aac"
 msgid "Shards in Frostback Basin"
-msgstr ""
+msgstr "서리등선 분지의 편린"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\Dragon\dlc1_dragon.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\Dragon\dlc1_dragon.xml:13
 msgctxt "0x00046545"
 msgid "Hakkon Wintersbreath"
-msgstr ""
+msgstr "하콘의 겨울숨결"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\Dungeon\dlc1_dungeon_door.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\Dungeon\dlc1_dungeon_door.xml:13
 msgctxt "0x000470a1"
 msgid "The Door in the Old Temple"
-msgstr ""
+msgstr "사원 폐허의 문"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\Dungeon\dlc1_dungeon_main.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\Dungeon\dlc1_dungeon_main.xml:13
 msgctxt "0x00045303"
 msgid "Ameridan's End"
-msgstr ""
+msgstr "아메리단의 최후"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\Global\dlc1_skyhold_opening.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\Global\dlc1_skyhold_opening.xml:13
 msgctxt "0x00046549"
 msgid "Jaws of Hakkon"
-msgstr ""
+msgstr "하콘의 아귀"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\ResearchOutpost\dlc1_outpost_bogfisher.xml
 #. PATH: JournalEntry/TitleReference
@@ -3111,91 +3114,92 @@ msgstr ""
 #: DA3_DLC1\DesignContent\Journals\DLC1\ResearchOutpost\dlc1_outpost_fight_back_hakkon.xml:13
 msgctxt "0x00045d00"
 msgid "Lead the Charge"
-msgstr ""
+msgstr "돌격 지휘"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\ResearchOutpost\dlc1_outpost_getting_started.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\ResearchOutpost\dlc1_outpost_getting_started.xml:13
 msgctxt "0x00045f08"
 msgid "The Basin Beckons"
-msgstr ""
+msgstr "분지의 부름"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\ResearchOutpost\dlc1_outpost_herbwards.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\ResearchOutpost\dlc1_outpost_herbwards.xml:13
 msgctxt "0x00045d02"
 msgid "Beasts at Bay"
-msgstr ""
+msgstr "궁지에 몰린 야수"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\ResearchOutpost\dlc1_outpost_island.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\ResearchOutpost\dlc1_outpost_island.xml:13
 msgctxt "0x00045104"
 msgid "What Yet Lingers"
-msgstr ""
+msgstr "그럼에도 남은 것"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\ResearchOutpost\dlc1_outpost_missing_soldier.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\ResearchOutpost\dlc1_outpost_missing_soldier.xml:13
 msgctxt "0x00045e8f"
 msgid "The Loss of a Friend"
-msgstr ""
+msgstr "친구의 죽음"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\ResearchOutpost\dlc1_outpost_mystery_letter.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\ResearchOutpost\dlc1_outpost_mystery_letter.xml:13
 msgctxt "0x000450f9"
 msgid "A Grand Conspiracy"
-msgstr ""
+msgstr "거대한 음모"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\ResearchOutpost\dlc1_outpost_student.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\ResearchOutpost\dlc1_outpost_student.xml:13
 msgctxt "0x00045d25"
 msgid "Worthy of Publication"
-msgstr ""
+msgstr "출판의 가치"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\ResearchOutpost\dlc1_outpost_tower.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\ResearchOutpost\dlc1_outpost_tower.xml:30
 msgctxt "0x000450ef"
 msgid "On Ameridan's Trail"
-msgstr ""
+msgstr "아메리단의 흔적"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\ResearchOutpost\dlc1_outpost_wild_safety.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3_DLC1\DesignContent\Journals\DLC1\ResearchOutpost\dlc1_outpost_wild_safety.xml:13
+#, fuzzy
 msgctxt "0x00045d42"
 msgid "Jawbreaker"
-msgstr ""
+msgstr "턱까개"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[1]/JournalTextData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:128
 msgctxt "0x00045100"
 msgid "A mysterious island in Frostback Basin may yield clues to the region's past."
-msgstr ""
+msgstr "서리등선 분지의 알 수 없는 섬이 분지의 과거에 대한 단서를 남겨 놓았을지 모른다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[2]/JournalTextData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:141
 msgctxt "0x000450cd"
 msgid "An active Fade rift has been spotted in the Basin Floor."
-msgstr ""
+msgstr "분지 바닥에 활성화 된 영계 균열이 발견되었다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[3]/JournalTextData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:154
 msgctxt "0x000450af"
 msgid "Explore all corners of Frostback Basin."
-msgstr ""
+msgstr "서리등선 분지 구석구석 탐험함."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[4]/JournalTextData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:167
 msgctxt "0x00045cff"
 msgid "The Jaws of Hakkon are attacking Inquisition soldiers."
-msgstr ""
+msgstr "하콘의 아귀가 심문회 병사들을 공격하고 있다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[5]/JournalTextData/TextReference
@@ -3203,27 +3207,28 @@ msgstr ""
 msgctxt "0x00045d43"
 msgid "Lieutenant Farrow has reports of Hakkonite camps along the river. Their hostile presence prevents the resupply of Inquisition encampments and makes travel through the region dangerous."
 msgstr ""
+"패로우 부관은 강 주변 하콘 추종자 야영지를 보고 받았다. 그 적대적인 존재들은 심문회 야영장의 보급과 지역 여행자들을 위협한다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[6]/JournalTextData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:193
 msgctxt "0x00045df1"
 msgid "An Avvar fisher cannot find her cousin, Runa. She believes Runa went climbing in the hills. Hopefully Runa has not met with any harm."
-msgstr ""
+msgstr "아바르의 어부는 사촌인 루나를 찾지 못했다. 언덕에 올라갔을 거라 믿고 있다. 바라건데 루나가 다치지 않았기를."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[7]/JournalTextData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:206
 msgctxt "0x000450c9"
 msgid "Active Fade rifts have been spotted along the Varsdotten River and Western Riverbank."
-msgstr ""
+msgstr "활성화된 영계 균열이 바스도텐 강과 서부 강기슭에서 목격됐다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[8]/JournalTextData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:219
 msgctxt "0x00045de5"
 msgid "Active Fade rifts have been spotted in the Shallows and on Endarsen Pass."
-msgstr ""
+msgstr "활성화된 영계 균열이 여울과 엔다르센 길에서 목격됐다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[9]/JournalTextData/TextReference
@@ -3231,6 +3236,8 @@ msgstr ""
 msgctxt "0x00045a86"
 msgid "Inquisitor Ameridan has granted the current Inquisition access to his final memories. Retracing his steps will offer insight into the former Inquisitor's life."
 msgstr ""
+"아메리단 심문관은 자신의 마지막 기억에 접근할 권한을 현재의 심문회에 부여했다. 그의 발자취를 되짚어 가면 과거 심문관의 삶에 대해 "
+"알려줄 것이다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[10]/JournalTextData/TextReference
@@ -3238,6 +3245,8 @@ msgstr ""
 msgctxt "0x00045214"
 msgid "A woman prepares bodies for sky burial at Stone-Bear Hold. Caldan Enversen's body should receive special rites; however, his son failed to complete them. As guests of the hold, the Inquisition may present the required offering as a gift."
 msgstr ""
+"한 여인이 돌곰 요새에서 조장을 위해 시신을 준비한다. Caldan Enversen의 시신은 특별한 의식을 치러야 했지만, 그의 자손들은 "
+"해내지 못했다. 심문회는 요새의 손님으로서 필요한 공물을 제공할 수 있을 것이다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[11]/JournalTextData/TextReference
@@ -3245,6 +3254,8 @@ msgstr ""
 msgctxt "0x00045c28"
 msgid "The offering for Caldan Enversen's sky burial can be made. Return the offering to the huntmaster as tradition dictates or give the offering to Caldan's son, Finn."
 msgstr ""
+"Caldan Enversen의 조장을 위한 공물을 만들 수 있다. 전통에 따라 사냥지휘관에게 공물을 돌려주거나 Caldan의 아들, "
+"핀에게 공물을 줄 수 있다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[12]/JournalTextData/TextReference
@@ -3252,34 +3263,37 @@ msgstr ""
 msgctxt "0x00046544"
 msgid "The Jaws of Hakkon have released a dragon said to carry the spirit of an Avvar god. The dragon flew into the Frostback Basin and will wreak havoc unless stopped."
 msgstr ""
+"하콘의 아귀가 아바르 신의 영혼이 담겼다고 하는 용을 풀었다. 용은 서리등선 분지로 날아들었고 막지 못하면 엄청난 피해를 불러올 것 이다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[13]/JournalTextData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:351
 msgctxt "0x000450ec"
 msgid "A spirit—in the guise of Inquisitor Ameridan's lover, Telana—revealed that Ameridan traveled upriver."
-msgstr ""
+msgstr "아메리단의 애인인 텔라나 모습을 한 영혼이 상류로 향하는 아메리단의 흔적을 밝혀주었다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[14]/JournalTextData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:397
+#, fuzzy
 msgctxt "0x0004613d"
 msgid "Ancient Tevinter trail markers may be used to disable the wards at the fortress gate."
-msgstr ""
+msgstr "고대 테빈터 자취 표식기가 요새 관문의 구를 비활성화 시킬 수도 있다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[15]/JournalTextData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:427
+#, fuzzy
 msgctxt "0x00046ef0"
 msgid "The wards on the wall have been disabled but the wall is still guarded by the Hakkonites."
-msgstr ""
+msgstr "성벽은 비활성화 되었지만 하콘 추종자들이 아직 지키고 있다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[16]/JournalTextData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:457
 msgctxt "0x000470a2"
 msgid "There is a locked door in the Old Temple."
-msgstr ""
+msgstr "사원 폐허에 잠긴 문이 있다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[17]/JournalTextData/TextReference
@@ -3287,27 +3301,29 @@ msgstr ""
 msgctxt "0x00045d03"
 msgid "Inquisition soldiers face delays setting up camps due to interference from the local wildlife. Baron Henri-Pierre d'Amortisan believes his herb wards may keep the beasts at bay."
 msgstr ""
+"심문회 병사들은 지역 야생동물이 들끓어 야영지를 세우는데 문제를 겪고 있다. 남작 Henri-Pierre d'Amortisan는 자신의 "
+"약초 와드가 짐승들을 내쫓을 수 있다고 믿고 있다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[18]/JournalTextData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:483
 msgctxt "0x000450be"
 msgid "Making contact with the Avvar hold to the east could provide the Inquisition with useful allies."
-msgstr ""
+msgstr "동쪽의 아바르 요새와 접촉하면 심문회에 도움이 될 동맹들을 소개시켜 줄 것이다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[19]/JournalTextData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:496
 msgctxt "0x00045a54"
 msgid "Discover all landmarks in Frostback Basin."
-msgstr ""
+msgstr "서리등선 분지의 모든 랜드마크 찾아내기."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[20]/JournalTextData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:509
 msgctxt "0x00046e51"
 msgid "Though guest status has been granted, it will take some effort for Stone-Bear Hold to view the Inquisition as a trusted friend."
-msgstr ""
+msgstr "손님 자격을 받았지만, 심문회를 돌곰 요새가 보기에 신뢰할만한 전우로 보기까진 노력이 필요하다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[21]/JournalTextData/TextReference
@@ -3315,6 +3331,8 @@ msgstr ""
 msgctxt "0x00045f0a"
 msgid "Now that the Inquisition has established a presence in Frostback Basin, Professor Kenric has a lead on Inquisitor Ameridan, and Scout Harding can outline potential risks in the region."
 msgstr ""
+"심문회가 서리등선 분지에 자리를 잡았으니, 켄릭 교수는 아메리단 심문관 조사를 이끌고 정찰병 하딩은 이 지역의 잠재적 위험들을 설명 해 "
+"줄 것이다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[22]/JournalTextData/TextReference
@@ -3398,14 +3416,14 @@ msgstr ""
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:729
 msgctxt "0x0004506c"
 msgid "Establish camps to hold Frostback Basin and support Inquisition activity in the region."
-msgstr ""
+msgstr "야영지를 설치하여 서리등선 분지를 방어하고 지역의 심문회 활동을 지원하십시오"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[34]/JournalTextData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:742
 msgctxt "0x00045d5d"
 msgid "The Avvar hold-beast has vanished. Thane Svarah Sun-Hair cannot in good conscience fight the Jaws of Hakkon until the bear is returned."
-msgstr ""
+msgstr "아바르의 수호짐승이 사라졌다. 곰이 돌아오기 전까지 태양머리칼 스바라는 하콘의 아귀와 싸울 수 없다고 한다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[35]/JournalTextData/TextReference
@@ -3419,14 +3437,14 @@ msgstr ""
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:768
 msgctxt "0x000450ce"
 msgid "Active Fade rifts have been spotted on the Eastern Riverbank."
-msgstr ""
+msgstr "활성화된 영계 균열이 동부 강둑에서 발견되었다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[37]/JournalTextData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:781
 msgctxt "0x00045d23"
 msgid "Kenric's research assistant, Colette, left to survey Tevinter ruins. Her findings could offer historical insight into the Basin's past."
-msgstr ""
+msgstr "켄릭의 조수 콜레트는 조사하러 테빈터 폐허로 떠났다. 그녀의 조사 결과는 분지의 과거에 대한 많은 역사를 알려 줄 것이다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[38]/JournalTextData/TextReference
@@ -3515,6 +3533,10 @@ msgid ""
 "\n"
 "There is the snap of arrows, a lash of magic. The rival Avvar fall, but so does the spirit. The sensations fade.{/i}"
 msgstr ""
+"{i}장막 불꽃 무리가 정교하고 생생하게 깜빡인다 . 먼 옛날 엄청난 전투를 묘사하고 있다. 한 영혼이 돌곰 요새의 아바르를 보호하듯 "
+"지켜보고 구석에는 다른 숲 속 아바르 무리가 그려져 있다. 전투가 시작되자, 영혼이 칼을 겨누며 돌곰 전사들을 보호한다.\n"
+"\n"
+"화살이 넘나들고, 마법이 번쩍인다. 숲 속 아바르 무리가 쓰러지지만 영혼도 쓰러졌다. 감각이 희미해진다.{/i}"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[42]/JournalTextData/TextReference
@@ -3527,6 +3549,15 @@ msgid ""
 "\n"
 "—From Colette's research journal"
 msgstr ""
+"나이젤의 거점에서 탐구 조사하는 걸 기다릴 수가 없어. 여긴 나이젤 경이 서리등선을 여행하며 둘러본 폐허 중 하나라고. 이 지역에 대해 "
+"그 분의 일지와 그림으로 정말 많이 배웠지. 이런데도 형제인 제니티비, 심지어 보따리 딴따라 필리엄에 비해 업적을 제대로 인정 받지 "
+"못하셨다고! 정말 끔찍한 일이야!\n"
+"\n"
+"나이젤의 거점이 원래 뭘 하던 곳인지 밝혀낼 수 있을지는 모르겠어. 고대 테빈터 시절 이름이고, 그래, 없어진지 오래지. 하지만 옛 "
+"신들에게 봉헌하려고 지어졌다고 봐. 어떤 건지 만약 알아낸다면... 물론, 하딩은 내가 오전 넘어서 더 오래 돌아다니자고 하면 엄청 "
+"무서운 얼굴로 노려봐. 그건 너무 위험하대. 걱정도 많다니깐.\n"
+"\n"
+"—콜레트의 연구 일지에서"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[43]/JournalTextData/TextReference
@@ -3552,6 +3583,9 @@ msgid ""
 "Dragon of Mystery, bestow upon your faithful servants your ineffable truth. \n"
 "Grant us eyes to pierce the darkness and souls to bear the wounds of your labyrinth."
 msgstr ""
+"지혜의 타래를 감는 그녀에게 이 성채를 바치나이다.\n"
+"신비의 용이시여, 그대의 충실한 종에게 형언할 수 없는 진실을 내려주소서.\n"
+"어둠을 꿰뚫는 눈과 당신의 미궁을 견딜 수 있는 정신을 내려주소서."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[45]/JournalTextData/TextReference
@@ -3629,6 +3663,11 @@ msgid ""
 "\n"
 "ATHO"
 msgstr ""
+"{i}서리등선 분지에서 희미한 비문을 찾았다{/i}\n"
+"\n"
+"이게 우리의 마지막이라면, 웃으며 끝내자.\n"
+"\n"
+"ATHO"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[49]/JournalTextData/TextReference
@@ -3655,6 +3694,25 @@ msgid ""
 "\n"
 "—From {i}Ruminations upon the Avvar and Their Customs{/i} by Reginald de Gorge"
 msgstr ""
+"그녀는 돌곰 요새의 수호짐승이다. 이 지역에 사는 다른 곰들은 전부 모조품일 뿐이다.\n"
+"\n"
+"슈토어바커. 어떻게 슈토어바커를 설명할 수 있단 말인가?\n"
+"\n"
+"슈토어바커는 완벽하다.\n"
+"\n"
+"그녀는 두 그루의 고대 엘프 나무로 발톱을 다듬고, 은빛 꿀을 먹는다.\n"
+"\n"
+"데네림에서는 그녀의 발톱이 금화 만 개의 가치가 있다고 한다.\n"
+"\n"
+"그녀는 털갈이를 하고 떨어진 털을 발 르와이요의 올레이 장인들에게 판다고 한다.\n"
+"\n"
+"그녀가 가장 좋아하는 이야기는 {i}하드 인 하이타운{/i}이다.\n"
+"\n"
+"언젠가 그녀는 다섯 번째 대재앙의 영웅 알리스터 테레인을 만났고, 예쁘다는 말을 들었다고 한다.\n"
+"\n"
+"언젠가 그녀는 내 얼굴을 발톱으로 갈겼다. 환상적이었다.\n"
+"\n"
+"—레지날드 드 골지 저, {i}아바르와 그들의 문화에 대한 숙고{/i}에서 발췌"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[50]/JournalTextData/TextReference
@@ -3903,6 +3961,41 @@ msgid ""
 "\n"
 "—From {i}Finding Ameridan{/i} by Professor Bram Kenric (Starkhaven University Press)"
 msgstr ""
+"아메리단 심문관에 대해 알려진 사실들은 종이 한 쪽도 간신히 채우지 못할 것이다. 그는 드레이콘 황제의 친구였다. 그는 네바라 협정이 "
+"체결되고 진실의 탐구자들이 챈트리로 합병되었을 때 심문관의 직위를 가지고 있었다. 이들은 마법사 협회와 성기사단의 전신이었다. 협정이 "
+"맺어진 후, 교황의 시대 1:22와 1:24 사이에 아메리단은 직위를 내려놓고 어딘가로 사라졌으며, 이후 아무도 그를 본 사람이 없다.\n"
+"\n"
+"이것들은 확실한 객관적 사실들이다. 이외의 모든 소문들은 확증 없는 풍문이나 대강의 추측, 혹은 음탕한 가십에 불과하다.\n"
+"\n"
+"—아메리단은 본인의 의지로 직위를 내려놓은 것이 아니다. 드레이콘은 죽음의 고통 속에서 진실의 탐구자들을 해체시켰으며, 새 챈트리에서 "
+"일어날 반란을 두려워해 심문관의 직위를 박탈했다.\n"
+"\n"
+"—아메리단은 당시 초기 단계에 있던 챈트리의 금욕주의 교리를 받아들이지 못하고 은퇴하게 되었다. 그는 챈트리에 의해서 역사에서 지워진, "
+"수수께끼의 \"마법사 아가씨\"와 깊은 관계를 맺고 있었기 때문이다.\n"
+"\n"
+"—아메리단은 난폭한 귀족이었고 탐구자들보다는 떠들썩한 유희를 더 좋아하는 사람이었다. 그는 드레이콘이 가까운 사람이 집단을 이끌어 "
+"주었으면 하는 마음에 억지로 심문관의 직위를 가지고 있던 것이었고, 탐구자들이 챈트리의 일부가 되자 아메리단은 은퇴해 드래곤을 사냥하거나 "
+"여자들을 끼고 방탕히 노는 삶으로 돌아갈 수 있게 되었던 것이다.\n"
+"\n"
+"이 이야기들은 사실일 수도 있지만, 더 구체적인 증거가 없는 한 확실한 결론을 내리는 것은 불가능하다. 그러나 나는 학자들이 역사적 "
+"전공으로 너무 깊이 들어가 핵심적인 문맥을 놓치면서, 자주 무시되곤 하는 몇 가지 사실들을 여기에 써 보려고 한다.\n"
+"\n"
+"첫 번째로, 챈트리를 현재 모습으로 만들었다고 전해지는 드레이콘 황제는 아주 신실한 사람이었다. 그는 빛의 성가를 설파하고 마법과 "
+"사람들이 안드라스테의 규칙 아래 통치되기를 원했다. 모든 문헌들이 아메리단은 드레이콘의 절친한 친구였다고 말하고 있다. 물론 아메리단은 "
+"신실하기보다는 현실적인 인물이었다고 말하는 것도 충분히 가능하지만, 드레이콘이 {i}적극적으로{/i} 챈트리에 반대하는 인물과 친구가 "
+"되었다고 생각하기는 {i}매우 어렵다{/i}. 또한, 그런 인물이 성장 중인 올레이 제국에서 높은 직위를 가질 수 있었다는 사실 역시 "
+"인정하기 어렵다.\n"
+"\n"
+"두 번째로, 아메리단 심문관은 그의 밝혀지지 않은 신앙의 깊이와는 상관없이 전투에 있어서는 아주 강력했다고 일반적으로 전해진다. 소문을 "
+"좋아하는 자들은 아메리단이 추방되었다고 하지만, 드레이콘 황제가 수 년의 경험을 가진 강력한 전사를 사용할 곳을 찾지 못해 그를 "
+"추방했다는 것 역시 납득하기 힘들다. 아메리단의 실종 후, 두 번째 대재앙이 올레이인들의 삶을 거의 15년 가까이 덮쳤다는 사실과 "
+"앤더펄스에서 올레이 북부로 쏟아져나오는 어둠의 피조물들을 생각해 보았을 때, 드레이콘이 그런 군사적 인재를 간단히 버렸을 것이라고 "
+"생각하는 것은 {i}말도 안 되는 소리{/i}다.\n"
+" \n"
+"더 구체적인 증거가 없다면, 우리는 아메리단의 실종에 대해 아무것도 알 수 없을지 모른다. 나는 우리가 현재 널리 퍼진 냉소적인 태도를 "
+"삼가고, 적어도 이런 명백한 증거들을 보며 그의 실종에는 무언가 다른 이유가 있었을 것이라고 생각했으면 한다. \n"
+"\n"
+"—브램 켄릭 교수 저, {i}아메리단을 찾아서{/i}에서 발췌 (스탁헤이븐 대학 언론지)"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[62]/JournalTextData/TextReference
@@ -3939,6 +4032,37 @@ msgid ""
 "\n"
 "{i}The rest of the letter is a series of angry sketches of axes.{/i}"
 msgstr ""
+"{i}쓰다 만 편지인 것 같다. 글씨체는 단순하고, 군데군데 지워진 곳이 많다.{/i}\n"
+"\n"
+"낮은 땅에서 온 자들아, 너희들이 충분히 용감하다면—\n"
+"\n"
+"올레이인들아, 너희들이 용감하다면—\n"
+"\n"
+"올레이의 상인들아, 만약—\n"
+"\n"
+"돌곰 요새와 거래하고 싶은 자들이라면 나를 알아야 할 것이다. 나는 태양머리칼 스바라다—\n"
+"\n"
+"나는 추장 스바라 제인스도튼이며, 태양머리칼이라 불린다. 나의 칼날이 많은 이들의 눈물을 흘리게—\n"
+"\n"
+"나의 칼날이 많은 이들의 피를 흘리게—\n"
+"\n"
+"나는 많은 전투를 겪었지만, 우리 사이의 갈등을 원하지 않는다. 우리는 무역을 원한다. 우리에겐 너희 낮은 땅에서 나는 물건들과는 비교도 "
+"되지 않을 가죽과 털이 있다. 그리고 하콘의 겨울을 맛본 무기들도—\n"
+"\n"
+"우리는 너희들의 전사들을 강하게 만들고 연인들을 만족시킬 털과 가죽을 갖고 있다. 그리고 무기도—\n"
+"\n"
+"우리에겐 완벽한 털과 가죽이 있고, 낮은 땅에서는 절대 볼 수 없는 무기도 있다. 우리와 정직하게 거래하면, 모두 이득을 볼 것이다. "
+"만약 우리를 속이면, 너희들의 피로 벽을—\n"
+"\n"
+"우리와 정직하게 거래하면, 모두 이득을 볼 수 있을 것이다.\n"
+"\n"
+"—추장, 태양머리칼 스바라\n"
+"\n"
+"이건 멍청한 짓이다. 대체 낮은 땅에 사는 인간들이 본 적도 없는 털가죽을 사러 이렇게 멀리까지 오겠나?\n"
+"\n"
+"아, 코르트여, 말하는 대신에 글로 써 버렸군. 멍청한 낮은 땅 놈들의 글은 머리를 복잡하게 해.\n"
+"\n"
+"{i}편지의 나머지 부분은 분노에 찬 도끼 그림으로 가득 차 있다.{/i}"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[63]/JournalTextData/TextReference
@@ -4085,6 +4209,21 @@ msgid ""
 "\n"
 "I can feel my fingers again. It is time to go."
 msgstr ""
+"{i}불 붙일 때 쓰인 것 같은 고대의 불길이 오래된 책을 태웠다. 얼음 덕에 몇 장은 읽을 수 있다:{/i}\n"
+"\n"
+"해론과 오리나가 아바르족을 따돌렸다. 하지만 텔리나와 내가 테빈터 얼음 방어막을 뚫고 요새에 진입했을 때, 우린 오히려 그들의 본거지에 "
+"들어왔음을 알았다. 그들의 얼음 마법은 방어막을 녹이지 않고도 지나갈 수 있는 수준이었다. 우리가 만든 함정으로 용을 유인하는 대신, "
+"적들의 집에서 싸우고 있었던 셈이다.\n"
+"\n"
+"용의 강력함은 한 번도 경험해보지 못한 것이었다. 아바르 신에게 사로잡힌 용은 전설적인 대악마 듀맛의 분노와 필적했다. 난 앤더펄스에 "
+"대재앙을 불러왔다는 또 다른 대악마의 전설들이 그저 이야기이길 빌었지만, 만약 사실이라면 왜 드레이콘 국왕이 날 여기로 보냈는지 이해가 "
+"된다. 드래이콘의 새로운 \"올레이\"는 한 번에 두 신룡을 상대할 순 없을 테니까.\n"
+"\n"
+"방금 전투에서 텔라나는 다쳤다. 싸울 수 있다고 말은 하지만, 우리의 회복 마법에도 다리를 심하게 절뚝이고 있다. 몸을 덥히고 나면, "
+"지상으로 보낼 것이다. 용을 봉인하는 마법을 쓰면 탈출할 가능성은 현저히 적고, 그녀의 상태로서는 약간의 가능성도 없다. 운이 좋다면, "
+"오리나와 해론을 만나 도시에서 지원병력을 데려올지도 모른다.\n"
+"\n"
+"다시 손가락이 움직이기 시작했다. 이제 가야겠다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[67]/JournalTextData/TextReference
@@ -4097,6 +4236,21 @@ msgid ""
 "\n"
 "—Part of a monograph entitled {i}Grand Visions of Life and Death{/i}, written by Roberto the Skeptic of Antiva in 9:31 and banned by the Chantry in 9:32"
 msgstr ""
+"일부 변방 국가들은 우리의 사후에 어떤 일이 일어나는지에 대해 다른 견해를 가지고 있다. 예를 들어, 남부의 아다르는, 죽은 자들이 "
+"자신의 동족들과 재회할 수 있는 곳이자, \"하늘의 여인들\"에 의해 지배되는 모호한 사후세계를 믿는다. 참으로 생소하지만 위안이 되는 "
+"개념이다. 챈트리는 인간이 죽고 나면 영계를 건너 창조주의 곁으로 간다고 생각하며, 이 페렐던에서 발생한 대략적인 개념은 타락한 형태로 "
+"테빈터에게 받아들여졌다. 그러나 아바르 또한 자신들 중 누군가가 \"다시 태어날 운명\"이라고 믿는다. 물론 챈트리의 어떤 이들은 이들의 "
+"믿음을 이해하지 못한다. 강조하지만, 이것은 육체를 가지고 있는 영이 아니다. 영은 신들을 불러들이는 것 외에는 이러한 과정과 무관하다. "
+"이것의 본질은 새로운 육체라는 옷을 입고 돌아오는 혼이다.\n"
+"\n"
+"이 개념의 핵심은 다음과 같다: 운명에 의해 \"선택받은\" 일부 아바르의 혼은 죽음을 통해 다른 곳으로 \"이주\"된다. 그리고 새로운 "
+"육체를 입고 다시 돌아와, 위대한 일을 행할 수 있다. 부활한 혼들은 의식적으로는 자신들의 과거를 기억할 수 없지만, 대신 환영과 조짐을 "
+"통해, 자신들이 과거에 겪었던 경험들을 기반으로 교묘하게 인도받는 것으로 추측되고 있다. 사람이 \"다시 태어났다\"거나 혹은 그런 일이 "
+"가능하다는 것을 증명할 필요성을 가장 편리하게 회피할 수 있는 방법이 아닐 수 없다. 다시 말하지만 너무 성급하게 경멸을 느낄 필요는 "
+"없다. 오늘에 이르기까지, 죽은 사람 중 누구도 영계 저편에서 다시 돌아와 창조주가 있는 천국에 대해 설명한 이는 없기 때문이다.\n"
+"\n"
+"—안티바의 회의론자 로베르토의 논문, {i}삶과 죽음의 위대한 비전{/i}에서 발췌. 이는 9:31에 작성되었으며, 9:32에 챈트리에 "
+"의해 금지됨"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[68]/JournalTextData/TextReference
@@ -4248,6 +4402,23 @@ msgid ""
 "Yours,\n"
 "Charter"
 msgstr ""
+"페렐던 내륙지역에 전초기지 설치 완료. 추가 기지 설치 장소 물색 완료. 지역 봉사자의 도움으로, 예정보다 빠르게 작업 완료됨.\n"
+"\n"
+"세부 사항은 다음을 참고하십시오:\n"
+"\n"
+"슬레이터가 도적단에게 매복당했고, 지역 주민의 도움이 아니었다면 죽을 뻔했습니다. 레이스 하딩이라 불리는 이 지역 주민은 놀라운 실력으로 "
+"새총으로 돌을 쏴 슬레이터를 구출했습니다. 그녀의 마바리가 남은 세 명의 도적까지 쫒아냈습니다. 하딩과 코테사(마바리 사냥개)는 "
+"슬레이터를 전초기지까지 데려다 주며, 멀리서 하딩 가문의 이웃이 키우는 양떼와 함께 천천히 걸었다고 합니다. 기지에 도착하자 그녀는 "
+"지도를 요청했고, 도적단 소굴이나 매복 지점 같은 유용한 사항들을 적어 주었습니다. 지도를 완성하고, 레이스 하딩은 양들을 데리고 집에 "
+"돌아갔습니다.\n"
+"\n"
+"다음 날 아침 그녀가 돌아왔는데, 사냥개와 양떼는 없이 단궁과 가죽 조끼를 입고 나타났더군요. \"지도도 나쁘지 않지만, 가이드보다 좋은 "
+"건 없죠.\" 그녀는 말했습니다.\n"
+"\n"
+"그게 일 주일 전입니다. 그녀는 아직 여기에 있습니다. 제가 자체적으로 그녀에게 정찰병직을 제안했습니다.\n"
+"\n"
+"안녕히,\n"
+"차터"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[77]/JournalTextData/TextReference
@@ -4409,6 +4580,24 @@ msgid ""
 "\n"
 "—From the private journal of Illna Allenish, a mage serving in the Fereldan army during the Fifth Blight"
 msgstr ""
+"나는 그날 밤새도록 아바르 마법사와 논쟁을 벌였다. 어둠의 피조물과 싸우기 위해 이 야만인들과 휴전만 하지 않았더라도, 분명 주먹다짐이 "
+"오갔을 것이다. 창조주에 대한 그들의 개념은 어린 아이의 것과 다름이 없다! 그들은 창조주가 \"영\"이라고 생각하고 있으며, 창조주가 "
+"\"너희의 기도에 아무런 응답도 하지 않는 것\"은 우리가 창조주를 불쾌하게 만들었기 때문이라고 생각한다. 내가 챈트리의 교리에 대해 "
+"설명해 주려고 하자, 이 마법사는 \"안드라스테는 자신만의 신을 가지고 있지 않았는가?\" \"왜 다른 창조주를 부르지 않는가?\" 등의 "
+"말도 안되는 질문을 끊임없이 했다. 나는 그녀에게 도대체 무슨 말을 하는거냐고 물었고, 그 대답은 나를 오싹하게 했다.\n"
+"\n"
+"아바르는 영을 \"신\"과 혼동하며, 그들을 달래고 구애해야 할 손님으로 취급한다. 이 마법사가 아바르인들이 어떻게 의도적으로 영을 "
+"소환하여 '전투력' 을 얻는지, 그들로부터 의견을 달라고 간청하는지에 대해 설명했을때 내 공포심은 점점 더 커졌다. 이 마법사는 마을 "
+"주변의 일부 영들이 12대에 걸쳐 자신과 함께 \"살았다\"고 주장했으며, \"그들이 지혜를 전수해 줄 때\" 는 종종 짐승이나 사망한 "
+"친족의 형태를 띄기도 한다고 말했다.\n"
+"\n"
+"그 중 가장 이상한 것은, \"신\"이 파괴될 경우 아바르는 1년 동안 제물을 바치고 기도와 의식을 시작한다고 하는데, 사실 나는 더 "
+"이상 알고 싶지 않았다. 이 기간이 끝나면 새로운 영이 옛 것의 이름과 역할을 대신한다. 나는 그것은 \"신\"이 아니라 단지 그들의 "
+"욕망에 의해 이끌려온 영이라고 설명하려 했으나, 아바르 마법사는 바로 그게 {i}요점{/i}이라며 터무니없을만큼 거만한 태도로 말했다.\n"
+"\n"
+"만약 하루 전에 그녀가 폭주하는 헐록으로부터 내 목숨을 구해주지만 않았더라도, 나는 이 모든 걸 성기사들에게 일러바쳤을 거다.\n"
+"\n"
+"—다섯번째 대재앙 당시 페렐던 군에서 복무했던 마법사 알레니쉬 일나의 개인 일지 중에서"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[88]/JournalTextData/TextReference
@@ -5071,6 +5260,55 @@ msgid ""
 "\n"
 "Long days behind. I fear there are fewer ahead. Whatever costs I've paid, they will be worth it. It doesn't matter. This night—safe beside a fire, the three of them singing that stupid song... I am content."
 msgstr ""
+"{i}서리등선 분지에서 찾은 낡은 일기장에서 발췌:{/i}\n"
+"\n"
+"아직도 맛이 이상하다. 무슨 짓을 해도 이상하다.\n"
+"\n"
+"{i}글이 다시 이어지기까지 여러 장의 책장이 물에 얼룩져 있다.{/i}\n"
+"\n"
+"우리가 이보다 더 멀리 여행했던 적이 있었나? 분명 있었을 텐데. 지금처럼 고향에서의 삶과 동떨어진 기분을 느끼는 건 생전 처음이다. \n"
+"\n"
+"{linebreak}\n"
+"\n"
+"T는 맨날 하던 주장을 펼치고 있다. 단, 그 근거로 악마의 수가 부족하다는 말을 덧붙이긴 했다. 부족한 거지 부재는 아니다, 라고 내가 "
+"바로 지적했더니 뼈가 있는 말이라고 대꾸했다. 여기에 악마가 있긴 했지만, 예전에 우리가 함께 맞닥뜨렸던 만큼 수가 많진 않았다. "
+"아바르족도 그들만의 마법사가 있다. 저번의 그 마법사들은 나 같은 사람에겐 대처할 수 없었던 것 같다. 그게 그녀의 신경을 거슬렀던 걸까?"
+"\n"
+"\n"
+"O는 항상 그렇듯이, 전혀 도움이 안 됐다. \n"
+"\n"
+"{linebreak}\n"
+"\n"
+"우리는 나아간다. 머리가 아프다. 다른 이들은 호숫가 마을에서 배웠던 노래를 부르고 있다. 마을 이름은 잊어버렸다. 눈알이 터질 것 "
+"같다. 물론, A는 이를 눈치채고 모두에게 읽고 싶은 게 있다고 말해줬다. 이제 조용하다. 여기까지의 여행은 예상보다 오래 걸렸다. "
+"오늘치 식량 좀 먹어야겠다. 일단 잠부터 좀 자고. \n"
+"\n"
+"{linebreak}\n"
+"\n"
+"예상했던 것보다 더 많았다. 여태까지의 모든 것들이 상상했던 것 그 이상이었다. 여차했으면 O는 저 자리에 서 있지 못했을 것이다. 더 "
+"악화되기 전에 마법사를 진압했다. T는 이후 이 일에 대해 언급하지 않았다. O가 죽을 뻔 했다는 걸 알고 있는 것이다. \n"
+"\n"
+"“대가가 뭐야?” T가 딱 한 번 나한테 물어본 적이 있다. 난 치른 대가가 없다고 대답했지만 잘 모르겠다. 이보다 더 오랜 세월동안 "
+"싸워왔던 남자를 만났었지만, 그의 정신은 세월에 많이 흐릿해져 있었고 그도 대답을 하지 못했다. 내가 아는 건 난 아직 더 할 수 있다는 "
+"것이다. 난 더 효과적으로 할 수 있다. 우리 모두 악마를 보았다. 그들이 한 짓도 보았다. 또한, 일부 사람들이 피로 무슨 짓을 저지를 "
+"수 있는지도 보았다. 여기서 해야 할 질문은, 아무도 이 기회를 잡지 않으면 그 대가를 감당해야 하는 건 누가 될 것인가,일 것이다. \n"
+"\n"
+"그리고 이걸 하는 것도 언제까지고 영원하지는 않을 것이다. 단지 사태가 진정될 때까지만이다. \n"
+"\n"
+"{linebreak}\n"
+"\n"
+"“여덟 번 세면, 숫자가 달라져?” O가 물었다. 그녀는 그렇게 말은 안 하지만 최근 며칠간 나를 지켜보고 있었다. 빌어먹을 파란 병들. "
+"이번 여행을 좀 더 꼼꼼히 준비하고 계획했었어야 했다.\n"
+"\n"
+"{linebreak}\n"
+"\n"
+"난 누워서 나뭇잎 사이로 별자리를 찾아보고 있었다. T가 물을 가져왔다. 그녀는 그냥 웃어 보였고, 다그치려고 하는 것 같지는 않았다. "
+"나는 그 모습에 조금 안심이 되었다. 평소처럼 A는 사람이 먹을 만한 것도 만들지 못하는 나의 요리 실력을 비웃으며 저녁을 차렸다. O는 "
+"웃겨보려 애쓰지만, 오 창조주여, 그녀의 농담은 처참했다. 그런데도 나는 왜 그녀의 농담에 웃고 있을까?\n"
+"\n"
+"많은 나날이 지나왔다. 앞으로 남은 날은 그다지 많지 않을 거란 생각에 걱정이 된다. 어떠한 대가를 치뤘더라도 그만한 가치가 있을 "
+"것이다. 크게 상관은 없다. 오늘 밤 우리는 안전하게 불 옆에 있고, 다른 세 명은 그 바보 같은 노래를 부르고 있고... 이걸로 나는 "
+"만족한다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[114]/JournalTextData/TextReference
@@ -5081,6 +5319,13 @@ msgid ""
 "\n"
 "—From {i}Journeys of the Wardens: A Comprehensive History{/i} by Lady Locke"
 msgstr ""
+"대재앙이 일어나지 않을 때는, 회색 감시자들은 어둠의 피조물에 관한 소문을 조사한다. 자유 동맹의 키르스텐 경은 그러한 목격담을 듣고 "
+"서리등선 분지로 여행을 떠났다. 산맥에서 지진이 일어나 지상으로 가는 새로운 길을 열어 어둠의 피조물들이 침공해왔고, 그녀와 동료 "
+"감시자들은 이에 피해를 입은 아바르족과 손을 잡았다. 열흘 간의 싸움 끝에, 감시자들과 아바르 부족은 어둠의 피조물을 물리치고 추가 "
+"침공을 막기 위해 입구를 봉인했다. 그녀의 용기를 칭송하기 위해 아바르 부족은 키르스텐 경과 그 동료 감시자들을 위한 연회를 열었고, 그 "
+"연회는 너무나 떠들썩하고 명랑하여 아직까지도 그들의 동맹을 그린 그림과 조각상들이 분지에 널려 있다고 한다.\n"
+"\n"
+"—로크 부인 저, {i}감시자들의 여정: 종합 역사서{/i}에서 발췌"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[115]/JournalTextData/TextReference
@@ -5280,12 +5525,12 @@ msgid ""
 msgstr ""
 "심문관,\n"
 "\n"
-"\"hold-beasts.\"를 돌보고 치료하는 일에 정통한 한 나이 많은 아바르 전사를 찾아냈습니다. 물론 꽤 많은 비용을 지불해야 "
-"했습니다. 그에게 그 일을 맡아달라고 설득하고 난 직후, 그는 제게 직접 스트로바커를 만나보라고 권했습니다. 그 생물은 제 코트 안감을 "
-"곰의 목덜미로 착각하고 저를 <i>핥았고</i>, 그걸 본 아바르는 스트로바커가 저를 \"옴투성이 새끼 곰\"으로 생각하는 것 같다면서, "
+"\"수호 짐승\" 들을 돌보고 치료하는 일에 정통한 한 나이 많은 아바르 전사를 찾아냈습니다. 물론 꽤 많은 비용을 지불해야 했습니다. "
+"그에게 그 일을 맡아 달라고 설득하고 난 직후, 그는 제게 직접 슈토어바커를 만나보라고 권했습니다. 그 생물은 제 코트 안감을 곰의 "
+"목덜미로 착각하고 저를 <i>핥았고</i>, 그걸 본 아바르는 슈토어바커가 저를 \"피부병 걸린 새끼 곰\"으로 생각하는 것 같다면서, "
 "굉장히 즐거워하더군요.\n"
 "\n"
-"그럼에도 불구하고 전 이 짐승의 용도를 생각해 보지 않을수 없습니다. 심문회의 힘을 보여주기 위해, 이 아바르 전사와 스트로바커를 한 "
+"그럼에도 불구하고 전 이 짐승의 용도를 생각해 보지 않을 수 없습니다. 심문회의 힘을 보여주기 위해, 이 아바르 전사와 슈토어바커를 한 "
 "무리의 병사들과 함께 또 다른 아바르 영향권으로 보내는 걸 제안합니다. 그렇게 하면 일부 동맹을 만들 수 있고, 산을 순찰하는 일에 "
 "아바르의 도움도 받을 수 있을 것으로 보입니다. 그들만큼 서리분지에 대해 잘 아는 사람은 없지요.\n"
 "\n"
@@ -5300,7 +5545,7 @@ msgid ""
 "\n"
 "Leliana"
 msgstr ""
-"스트로바커는 스카이홀드 보급로와 멀리 떨어진 동굴에서 안전하게 지내고 있습니다. 그곳에 커다란 물고기가 잔뜩 살고 있는 강도 있다고 "
+"슈토어바커는 스카이홀드 보급로와 멀리 떨어진 동굴에서 안전하게 지내고 있습니다. 그곳에 커다란 물고기가 잔뜩 살고 있는 강도 있다고 "
 "들었으며, 아주 만족해하고 있는 듯 합니다. 그곳을 절대로 떠나지 않으려는 게 유일한 단점이라면 단점이랄까요.\n"
 "\n"
 "렐리아나"
@@ -5322,14 +5567,14 @@ msgid ""
 "\n"
 "Cullen"
 msgstr ""
-"스트로바커가 심문회 병사들과 행진하는 광경은 확실히 인상깊었습니다. (그녀가 병사들을 도와 와이번을 물리쳤을땐, 훌륭한 전사 "
-"그자체였습니다) 거래는 성공적으로 성사되었습니다. 아바르의 정찰병 일부와 산에서 합류할 예정이며, 그들이 소유하고 있던 올레이에서 수입된 "
-"특정 물품들을 보낼 예정입니다. 우리의 기준으로 보면 이 생물이 심문회에 합류한 건 이례적인 일이지만, 스토로바커가 결국 가치가 있음을 "
+"슈토어바커가 심문회 병사들과 행진하는 광경은 확실히 인상깊었습니다. (그녀가 병사들을 도와 와이번을 물리쳤을 땐, 훌륭한 전사 그 "
+"자체였습니다) 거래는 성공적으로 성사되었습니다. 아바르의 정찰병 일부와 산에서 합류할 예정이며, 그들이 소유하고 있던 올레이에서 수입된 "
+"특정 물품들을 보낼 예정입니다. 우리의 기준으로 보면 이 생물이 심문회에 합류한 건 이례적인 일이지만, 슈토어바커가 결국 가치가 있음을 "
 "입증했다는 사실을 보고드리게 되어 기쁘게 생각합니다.\n"
 "\n"
 "컬렌 사령관\n"
 "\n"
-"사령관님. 제가 이곰의 별명을 생각해 봤습니다만... 이건 어떨까요? \"곰곰히 생각해보니 성공?\"\n"
+"사령관님. 제가 이 곰의 별명을 생각해 봤습니다만... 이건 어떨까요? \"곰곰히 생각해보니 성공?\"\n"
 "\n"
 "L\n"
 "\n"
@@ -6397,7 +6642,7 @@ msgstr ""
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:11290
 msgctxt "0x0004703e"
 msgid "Nugskin"
-msgstr ""
+msgstr "너그 가죽"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/ProgressiveTaskData/member[16]/ProgressiveTaskData/TextReference
@@ -6608,9 +6853,9 @@ msgid ""
 msgstr ""
 "컬렌,\n"
 "\n"
-"심문회가 정상회담에 참석하게 될 거라는 소문이 데너림에도 퍼졌어. 반쪽짜리 소문이긴 하지만, 사람들의 말대로 대표자들이 참석하는 일이라면 "
-"분명 편지에 자세한 내용을 적을 수 없는 심각한 일이겠지. 하지만 네가 올레이 파티가 얼마나 멋졌는지에 대해 열렬히 묘사할 편지는 "
-"기대중이야.\n"
+"심문회가 정상회담에 참석하게 될 거라는 소문이 데네림에도 퍼졌어. 반쪽짜리 소문이긴 하지만, 사람들의 말대로 대표자들이 참석하는 일이라면 "
+"분명 편지에 자세한 내용을 적을 수 없는 심각한 일이겠지. 하지만 네가 올레이 파티를 얼마나 사랑하는지 열렬히 묘사할 편지는 아주 기대 "
+"중이야.\n"
 "\n"
 "{blank}"
 
@@ -6623,8 +6868,8 @@ msgid ""
 "\n"
 "{blank}"
 msgstr ""
-"분명 이번 정상회담도 너와 {spHeroName}에게 충분히 위험한 일일거야. 항상 그래왔으니까. 나까지 두 사람한테 굳이 조심하라고 "
-"경고에 말 보탤 필요는 없겠지?\n"
+"분명 이번 정상회담도 너와 {spHeroName}에게 충분히 위험한 일일 거야. 항상 그래왔으니까. 두 사람한테 굳이 조심하라고 해 봤자 "
+"소용 없겠지?\n"
 "\n"
 "{blank}"
 
@@ -6639,7 +6884,7 @@ msgid ""
 "Mia"
 msgstr ""
 "브랜슨도 여기있어. 네 조카가 이 편지에다가 \"안녕하새요 컬 삼촌\" 이라고 써달라고 난리도 아니다. 심지어 \"안녕하세요\"가 아니라 "
-"\"안녕하새요\"라고 써야 한대. 누굴 닮았는지 고집이 보통아니라니까.\n"
+"\"안녕하새요\"라고 써야 한대. 누굴 닮았는지 고집이 보통이 아니라니까.\n"
 "\n"
 "사랑한다,\n"
 "미아"
@@ -6707,10 +6952,10 @@ msgstr ""
 "\"이거 참 고맙습니다, 경비병.\" 고맙게도 신사는 류트를 한켠으로 치워놓고는 맥주잔을 받아들고 앞쪽에 있는 탁자에 다리를 올려놓았다."
 "\n"
 "\n"
-"\"요즘엔 그냥 도넨이라고 부르더이다.\" 그가 파도 너머를 바라보며 말했다. \"커크웰 경비대원으로 지내던 시간은 이제 끝났으니까요.\""
+"\"요즘엔 그냥 도넨이라고 부르더이다.\" 그가 파도 너머를 바라보며 말했다. \"커크월 경비대원으로 지내던 시간은 이제 끝났으니까요.\""
 "\n"
 "\n"
-"\"그런 건 정말로 끝나는 법이 없어요.\" 귀족이 미소지었다. \"커크웰은 당신의 마음을 어떻게든 잡아끌 거고, 그게 일단 자리를 잡고 "
+"\"그런 건 정말로 끝나는 법이 없어요.\" 귀족이 미소지었다. \"커크월은 당신의 마음을 어떻게든 잡아끌 거고, 그게 일단 자리를 잡고 "
 "나면 계속 품고 다녀야 되는 법이거든요.\"\n"
 "\n"
 "그들 뒤편으로 해가 지면서 주점에서 바닷가에 이르기까지 긴 그림자를 드리웠다. 가마우지 한무리가 어둑어둑해진 기회를 틈타 바다로 잠수하여 "
@@ -6999,6 +7244,11 @@ msgid ""
 "\n"
 "The scene hums with quiet talk and contentment as the memory's maker reaches the city's gates, already thrown open wide.{/i}"
 msgstr ""
+"{i}이 책—기억?—의 페이지는 눈이 시릴 정보로 푸른, 유리로 된 첨탑이 있는 도시에 다가가는 엘프를 묘사하고 있다. 도시 외곽은 안개 "
+"가득한 호수에 감싸여 있고, 많은 이들이 마치 땅 위를 걷듯이 진주색으로 빛나는 수면 위를 걸어다닌다. 거대한 공원으로 엮인 숲은 그 "
+"조용한 공동에 엘프들을 숨기며, 다른 엘프들은 공중의 보이지 않는 모래톱을 따라 강 밑을 걷는다.\n"
+"\n"
+"이 기억의 창조자가 활짝 열린 도시의 정문에 도달하자, 이 광경은 조용한 대화와 만족감을 노래한다.{/i}"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[29]/JournalTextData/TextReference
@@ -7197,6 +7447,22 @@ msgid ""
 "\n"
 "Charter"
 msgstr ""
+"그들이 어떤 방법을 사용하는지에 대한 정보는 거의 없지만, 저희 요원들이 벤-하스라트 계급 제도와 조직 구조에 관한 상당한 양의 정보를 "
+"얻었습니다. 엄밀히 말하자면, 그 집단 전체가 아리쿤의 관할이기 때문에 사제라고 할 수 있습니다. 쿠나리들은 모든 벤-하스라트 임무를 세 "
+"개의 범주로 나눕니다. \"위험한 목적\", \"위험한 행동\", 그리고 \"위험한 의문\" 입니다. 일종의 간이 삼두정에 속한 세 명의 "
+"사제들이 이 임무들을 감독하며, 각각의 사제가 각각의 범주를 맡습니다. 저희들은 \"위험한 의문\" 지부의 지도자를 밝혀내기 위한 임무에 "
+"착수 중입니다. 이 지부는 쿠나리 외부 정보 수집 및 잠입, 방해 임무를 주로 다루는 것 같습니다. \"위험한 행동\"은 집행을 맡은 "
+"지부인 듯 합니다. 그곳에 속한 요원들은 탈당자들을 쫒을 때 빼고는 쿠나리 영토를 거의 떠나지 않습니다. 저희와 가장 자주 접촉한 지부는 "
+"\"위험한 목적\" 입니다.\n"
+"\n"
+"비다살라, 혹은 \"목적을 변환하는 자\" 라고 불리는 사제가 운영하는 이 지부는 외국인들의 개종과 쿠나리 반체제자들의 재교육, 그리고 "
+"마법 수집과 격리를 담당합니다. 쿠나리에 따르면 본질적으로 그들 자신과 다른 이들에게 위협이 되는 것들이라고 합니다. \n"
+"\n"
+"쿠나리 \"재교육\" 캠프에 침투하려 시도했으나 대부분 큰 성과는 없었습니다. 벤-하스라트는 개종자들 속에 섞인 저희 요원들을 색출하는 "
+"데 탁월하더군요. 대부분의 스파이들은 잘난 척 하는 메시지와 함께 돌려보내졌고, 그들의 \"비다슬록\" 시설까지 들어간 몇몇 요원들은 "
+"다시 돌아오지 않았습니다. 대신 그들의 \"다르바라드\" 마법 격리구역을 찾아 침투할 인력을 두 배로 늘려 보겠습니다.\n"
+"\n"
+"차터"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[41]/JournalTextData/TextReference
@@ -7226,6 +7492,13 @@ msgid ""
 "\n"
 "\"Mythal, in her wisdom, interceded in an argument between Elgar'nan and Falon'Din. With clever words, she convinced them to settle their grievance through a battle of their champions. Elgar'nan and Falon'Din agreed, and set their champions against each other rather than declare war among the gods. May those knights long be remembered, and Mythal's wisdom praised!\""
 msgstr ""
+"{i}이 책—기억?—의 페이지는 산 위에 있는 좁은 고원을 보여준다. 두 명의 갑옷 입은 자가 서 있다. 한 명은 금색, 한 명은 검은 "
+"갑옷을 입고 눈 속에서 싸우고 있다. 빠르게 휘두르는 칼에 공기마저 노래한다. 붉은 선혈이 땅을 적신다. 그들은 단 한 순간도 쉬지 "
+"않는다. 검은 갑옷을 입은 자의 목이 꿰뚫리고, 그는 신음조차 내지 않는다.{/i}\n"
+"\n"
+"\"지혜로운 미쌀이 엘가르난과 팔런딘의 언쟁을 중재했나니, 그녀는 지혜로운 말로 그들을 설득해, 서로의 용사들을 결투하게 해 둘의 불만을 "
+"잠재웠다. 엘가르난과 팔런딘은 동의했고, 신들 사이의 전쟁을 선포하는 대신 서로의 용사를 세워 결투하게 했다. 이 기사들이 오래도록 "
+"기억하라, 그리고 미쌀의 지혜를 칭송하라!\""
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[44]/JournalTextData/TextReference
@@ -7236,6 +7509,14 @@ msgid ""
 "\n"
 "\"The unchanging world is delicate: spells of power invite disaster and annihilation. The unchanging world is stubborn: the pull of the earth fiercely resists making fire run like water or stone rise like mist. The unchanging world rings with its own harmony. Listen with fearless hearts, and great works will unfold.\""
 msgstr ""
+"{i}이 책—기억?—의 페이지는 살아있는 나무로 이루어진 원형 극장에 둘러앉은 엄숙한 엘프들을 보여준다. 나무 전체가 의자와 계단 "
+"모양으로 자라 방청객들이 기대 쉴 수 있게 되어 있다. 두 명의 다른 엘프와 배움의 영혼은 주문을 시전할 때 물질적 세계의 특성을 "
+"변형시키는 문제에 대해 차례대로 토론하고 있다. 마지막에 존경받는 강의자의 분위기를 한 그 영혼은 앞으로 나와 놀랍도록 깊은 목소리로 "
+"선언한다. {/i}\n"
+"\n"
+"\"불변의 세계는 아주 예민합니다. 강력한 주문은 재앙과 파괴를 불러옵니다. 불변의 세계는 완고합니다. 대지의 끌어당김은 불을 물처럼 "
+"흐르게 하건나 바위가 안개처럼 떠오르게 만드는 것에 맹렬히 저항합니다. 불변의 세계는 스스로의 안에서 조화를 이룹니다. 이를 두려움 없이 "
+"듣고, 위대한 일을 이루십시오.\""
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[45]/JournalTextData/TextReference
@@ -7260,16 +7541,16 @@ msgid ""
 msgstr ""
 "심문관,\n"
 "\n"
-"안녕, 여기는 아름다운 커크웰이야!\n"
+"안녕, 여기는 아름다운 커크월이야!\n"
 "\n"
-"태양은 빛나고, 바닷새들은 꽥꽥거리고, 한달간 하이타운에서 싱크홀에 가라앉아 하수구로 빠진 건 거의 없었어. 교수대의 붉은 리륨 제거 "
+"태양은 빛나고, 바닷새들은 꽥꽥거리고, 한 달간 하이타운에서 싱크홀에 가라앉아 하수구로 빠진 건 거의 없었어. 교수대의 붉은 리륨 제거 "
 "작업은 예상보다 수월하게 진행되고 있어. 메러디스가 주춧돌에 달라붙은 채로 모두를 살벌하게 노려보는 광경은 최고의 구경거리였지. 시 "
 "경비대는 마침내 그곳에서 그녀를 꺼낸 것을 축하하며 완전히 즉흥적인 가두행진을 벌였고, 몇몇 로우타운 주민들은 \"저주받은 미치광이 "
 "성기사를 없애주신 창조주께 감사하노라\"라는 엄청난 중독성이 있는 가사를 붙여 즉석에서 노래를 작곡하기도 했어. 그럼에도 불구하고, 아니 "
 "어쩌면 그 때문인지, 사실 대부분은 음정으로 욕을 하고 있었지만 말이야.\n"
 "\n"
-"이렇게 진척이 잘 되어가는 상황인데도, 난 여기서 꼼짝 못할것 같아. 몇년 전 파편이 떨어지면서 해협이 완전히 바뀌는 바람에 오고가던 "
-"많은 배들이 난파당했고...이런 안좋은 상황에 균열까지 열리면서, {i}이상하고 빛나는 영계 바위들 {/i}이 나타났거든.\n"
+"이렇게 진척이 잘 되어가는 상황인데도, 난 여기서 꼼짝 못할 것 같아. 몇 년 전 파편이 떨어지면서 해협이 완전히 바뀌는 바람에 오고가던 "
+"많은 배들이 난파당했고...이런 안 좋은 상황에 균열까지 열리면서, {i}이상하고 빛나는 영계 바위들 {/i}이 나타났거든.\n"
 "\n"
 "덧붙이자면, 균열을 닫아 줘서 고맙게 생각해.\n"
 "\n"
@@ -7277,7 +7558,7 @@ msgstr ""
 "있어, 심문관? 그런 사람들도 구하기 힘들지만, 영계에서 나타난 {i} 빛나는 똥을 행복한 마음으로 채굴할 사람은 그보다 더 적어. 이걸 "
 "고치려면 내 돈이 수도 없이 들게 생겼어.\n"
 "\n"
-"도시에 잠깐 들러서, 나랑 위키드 그레이스 게임 한 판 해. 뭣같은 자작놈때문에 지겨워 죽기 일보 직전이야. 제발.\n"
+"도시에 잠깐 들러서, 나랑 위키드 그레이스 게임 한 판 해. 뭣같은 자작 놈 때문에 지겨워 죽기 일보 직전이야. 제발.\n"
 "\n"
 "배릭"
 
@@ -7290,6 +7571,12 @@ msgid ""
 "\n"
 "\"Epiphany requires a mind smooth as mirror glass, still as stone. Put aside ten years for practice, and the next hundred for searching. What others have learned will ease your journey. Those who never manifested outside the Fade will find it easier to find its stillest roots, but it is rare the compulsion overtakes our brethren of the air.\""
 msgstr ""
+"{i}이 책—기억?—의 페이지는 영계의 가장 깊은 곳에 도달하는 방법에 대한 교본이다. 그곳은 너무나도 닿기 힘들어, 꿈꾸는 자들조차도 "
+"도달하지 못한다.{/i}\n"
+"\n"
+"\"통찰을 위해서는 거울처럼 매끄럽고, 바위처럼 고요한 정신이 필요하다. 십 년의 수련은 물론이고, 찾는 데에 다음 백 년을 할애해야 "
+"한다. 다른 이들이 배운 것이 너의 여정을 도울 것이다. 영계 밖에서 물질화한 적 없는 이들에게는 그 고요한 뿌리를 찾는 것이 더 "
+"쉽겠지만, 그러한 충동이 우리들의 공기의 형제들을 압도하는 일은 드물다.\""
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[47]/JournalTextData/TextReference
@@ -7448,6 +7735,11 @@ msgid ""
 "\n"
 "\"Beware the forms of Fen'Harel! The Dread Wolf comes in humble guises, a wanderer who knows much of the People and their spirits. He will offer advice that seems fair, but turns slowly to poison. Remember the price of treason, and keep in your heart the mercy of your gods.\""
 msgstr ""
+"{i}이 책—기억?—의 페이지는 끔찍한 위험에 대해 경고하고 있다. 비굴한 검은 턱과 어두운 구덩이와 같은 눈을 가진 늑대가 있다. 엘프 "
+"신 에바뉴리들은 늑대 주변을 둥글게 둘러싸고 서 있다. 그것이 공격하는 것을 막고 있는 듯하다.{/i}\n"
+"\n"
+"\"펜하렐의 형태를 조심해라! 공포의 늑대는 겸손한 가장을 하고 나타난다. 그의 사람들과 영혼들에 대해 잘 알고 있는 나그네의 모습으로. "
+"그의 조언은 처음에는 정당해 보일 것이나, 서서히 독으로 변할 것이다. 배신의 대가를 기억하고, 너의 신들의 자비를 마음에 새겨라.\""
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[57]/JournalTextData/TextReference
@@ -7543,6 +7835,13 @@ msgid ""
 "\n"
 "\"By the gods, find a private chamber!\""
 msgstr ""
+"{i}이 책—기억?—의 페이지는 즐거운 시간을 보내는 두 명을 보여준다. 두 연인은 공중에서 충돌하며, 서로 입맞추고 쓰다듬으며, "
+"태양과도 같은 열기를 내뿜는다. 그들의 춤은 유연하고 마음을 휘젓는 듯하며, 영원하다. 두 연인은 웃으며 수 년 동안 서로의 몸에 "
+"기대며, 무슨 일이 일어나도 절대 떨어지지 않기를 맹세한다.\n"
+"\n"
+"이 기억이 기록된 후에 추가된 듯한, 짜증스러운 생각이 불쑥 나타난다.{/i}\n"
+"\n"
+"\"신들이시여, 어디 가서 방이나 잡아!\""
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[62]/JournalTextData/TextReference
@@ -7567,6 +7866,33 @@ msgid ""
 "\n"
 "Saarath"
 msgstr ""
+"{i}첫 부분의 잉크가 벌써 바래기 시작한 것으로 보아, 여러 날에 걸쳐 몇 줄씩 쓰여진 편지다.{/i}\n"
+"\n"
+"탈리스라 불리는 엘프에게,\n"
+"\n"
+"쿤의 다른 자들을 가르치는 것은 더 이상 나의 역할이 아니지만, 그것이 네게 평화를 가져다준다면 가르쳐 줄 수 있는 건 가르쳐 주겠다.\n"
+"\n"
+"스스로의 목적을 통달하려는 노력을 하고 있는 자들은 너뿐만이 아니다. 많은 비다타리들이 공포와 분노에 가득차 쿤에게로 온다. 이 감정들은 "
+"스스로의 안에 벽돌을 하나하나 쌓아올려 벽을 세운다. 그 벽은 네 주변에 있는 자들을 볼 수 없게 만들고, 세계를 있는 그대로 바라볼 수 "
+"없게 한다. 그리고 이것은 네가 어둠 속에 혼자이며, 스스로를 지켜야 한다고 생각하게 만든다. 이 벽들은 진짜지만, 그 어둠과 고독, "
+"스스로의 안에 만든 세계들은 전부 환상이다. 진실을 보고 싶다면 벽을 부숴야 한다. 진실은 이러하다. 그 누구도 혼자가 아니다. 이것은 "
+"오래 전 코슬룬이 사막에서 발견한 지혜다. 고독처럼 보이는 것은 사실 연결이다. 어둠처럼 보이는 것은 별들 사이의 공간일 뿐이다.\n"
+"\n"
+"{i}편지의 이 부분은 비교적 최근에 작성된 것 같고, 첫 부분에는 완벽했던 글씨가 마치 서둘러 쓴 것처럼 흐트러졌다. {/i}\n"
+"\n"
+"그리고 이런 환상과 싸우는 것은 비다타리만이 아니다. 세계는 스스로를 바꾸고, 우리는 변화하는 물결 속에서 균형에 통달해야 하다. 나는 "
+"한때 아쉬카리였고, 그 때 나는 쿤의 철학을 공부하고 코슬룬이 발견한 지식을 찾으며 시간을 보냈다. 그러나 악마들에 대한 꿈을 꾸며 나는 "
+"새로운 길로 나아갔다.\n"
+"\n"
+"{i}마지막 부분은 선을 그어 지운 단락이 가득하고, 필체는 점점 무너진다. 잉크가 아직 마르지 않은 곳도 있다.{/i}\n"
+"\n"
+"그리고 이제 액체 노래— {i}지워져 있다{/i}. 그리고 이제 나는 마법의 원천을 막고 있는 댐에 대해 공부하고 있다. 우리는— {i}"
+"지워져 있다{/i}. 우리의 목적은— {i}지워져 있다{/i} 모든 것은 변한다, 작은 탈리스여. 세계는 변한다. 주변에 있는 "
+"사람들에게서 목적을 찾아라. 그러면 너의 역할은 분명해질 것이다. 예전에 그 때— {i}지워져 있다{/i}. 소음 속에서 지혜를 찾기는 "
+"힘들 것이다. 소음은 환상이다. 마치 어둠처럼. 그러나 벽은 진짜다. 이것을 기억해라. 벽을 먼저 부숴라. 그래야 진실을 볼 수 있을 "
+"것이다.\n"
+"\n"
+"사아르아스"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[63]/JournalTextData/TextReference
@@ -7611,6 +7937,12 @@ msgid ""
 "\n"
 "\"For abandoning the People in their time of greatest need, for casting aside form to flee to where the Earth could not reach, we declare Xebenkeck and others of her ilk exiled from the lands of the Evanuris. Beware! Their familiarity with shape allows them to travel paths unaided. They may be bound, but only the protection of your gods will fully shield you from their malice. They are Forbidden from the Earth that is our right.\""
 msgstr ""
+"{i}이 책—기억?—의 페이지는 그들의 땅을 침범하는 포효하는 영혼을 영계에서 추방하는 에바뉴리의 불타는 형체를 보여준다. 단호하고 "
+"위엄있는 목소리가 울린다.{/i}\n"
+"\n"
+"\"사람들이 가장 도움을 필요로 할 때 그들을 버린 죄, 그리고 대지가 닿을 수 없는 곳으로 도망치기 위해 형태를 버린 죄로 우리는 "
+"제벤켁과 그 잔당을 에바뉴리의 땅에서 추방한다. 조심하라! 그들은 형체에 통달해 도움 없이도 길을 여행할 수 있으니. 그들은 봉인될 "
+"것이나, 너희들의 신의 가호만이 그들의 악의에서 너를 완전히 보호할 것이다. 이들은 우리의 권리인 대지에 허락되지 않을 것이다.\""
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[68]/JournalTextData/TextReference
@@ -7728,6 +8060,15 @@ msgid ""
 "\n"
 "—From {i}A Short Primer of Orlais' Most Excellent and Inspiring History{/i} by Lord Renaures, published in 9:35 Dragon"
 msgstr ""
+"대마도사 로데이어 하르두인은 마법사 협회가 교황의 시대 1:20 에 창설된 이래, 첫 번째 지도자였다. 하르두인이 두 번째 대재앙의 "
+"전투에서 두각을 나타내자, 드레이콘 황제가 직접 그를 추천했다. 전해지는 이야기들에 따르면, 대마도사의 실력은 놀라웠지만, 일부는 "
+"하르두인이 차선책이었다고 추측하기도 했다. 드레이콘이 본래 대마도사로 추천하고자 했던, 심문관 아메리단과 관련된 한 마법사가 있었다고 "
+"말이다.\n"
+"\n"
+"이런 추측들은 한 장군에게 전해진 반쯤 작성된 편지와 아메리단과 황제가 참석했던 한 만찬회의 참석객 목록에서 기인한다. 그러나 다른 "
+"증거가 있었다고 해도, 지금쯤 먼지가 되었을 것이다. 그렇기에 학자들은 이 이론에 크게 중요성을 두지 않는다.\n"
+"\n"
+"—르노레스 경 저, {i}올레이의 가장 완벽하고 흥미로운 역사에 관한 짧은 입문서{/i}에서 발췌, 용의 시대 9:35에 출간됨"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[72]/JournalTextData/TextReference
@@ -8324,7 +8665,7 @@ msgid ""
 "{blank}"
 msgstr ""
 "{blank}\n"
-"- 위들은? 내가 왜 위들도 없는 데를 가야 돼?\n"
+"- 쪼꼬미는? 내가 왜 쪼꼬미도 없는 데를 가야 돼?\n"
 "\n"
 "{i}(폭발, 벌, 그리고 폭발하는 벌 옆에 세라와 다그나의 윤곽이 그려져 있다.){/i}\n"
 "{blank}"
@@ -8601,6 +8942,8 @@ msgid ""
 "{blank}\n"
 "- Tell Widdle. Proper smart. She'll sort it."
 msgstr ""
+"{blank}\n"
+"- 쪼꼬미한테 말하자. 똑똑하니까. 걔가 해결해 줄 거야."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[137]/JournalTextData/TextReference
@@ -8715,6 +9058,7 @@ msgstr ""
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[147]/JournalTextData/TextReference
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:6443
+#, fuzzy
 msgctxt "0x0004ac69"
 msgid ""
 "{blank}\n"
@@ -8723,6 +9067,11 @@ msgid ""
 "\n"
 "- When wonder we where wanders Widdle? WWwwwords."
 msgstr ""
+"{blank}\n"
+"\n"
+"{i}(빈 페이지들이 많고, 한 쪽은 모서리가 잔뜩 접혀 있다.){/i}\n"
+"\n"
+"- 쪼꼬미가 쪄준 찐빵을 쪼금 찢으면 짜증나서 어떡하지? 마아아아아알장난."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[148]/JournalTextData/TextReference
@@ -8884,6 +9233,16 @@ msgid ""
 "\n"
 "\"Architects of the Grand Sonallium (a gift from Blessed Sylaise to Clever June as thanks for a great favor) in friendly debate over the color of the palace's roof trim.\""
 msgstr ""
+"{i}이 책—기억?—의 페이지는 공허 속에 떠 있는 섬 위에 만들어진, 정교하게 만들어진 아치형 누각 안에서 잘 차려입은 엘프들의 무리가 "
+"열띤 토론을 벌이는 장면을 보여준다. 저 멀리에 빛의 폭풍에 비춰진 수천 명의 엘프들이 영계에서 날것의 정수를 끌어들여, 공중에 있는 "
+"구체 형태로 만드는 정교한 마법 의식을 유지하고 있는 것이 보인다. 구체를 통해 쪽빛 폭포와 녹처럼 붉은 정글, 그리고 정교한 석회 "
+"타일과 조각으로 뒤덮인 장엄한 사원이 있는 세계가 보인다.\n"
+"\n"
+"잘 차려입은 엘프들의 목소리는 점점 커져, 마법 너머로도 들을 수 있다. 한 명이 다른 엘프에게 포효하며 달려들더니, 무지갯빛 불꽃으로 "
+"빛나는 칼을 꺼내든다. {/i}\n"
+"\n"
+"\"위대한 소날리엄(축복받은 사일레이스가 총명한 주네에게 호의의 보답으로 보낸 선물)의 건축가들이 궁전 지붕 색상에 대해 평화로운 토의를 "
+"하고 있다.\""
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[162]/JournalTextData/TextReference
@@ -8928,14 +9287,14 @@ msgid ""
 msgstr ""
 "심문관,\n"
 "\n"
-"할람시랄에서 고위급 회담이 개최되기 전에 당신을 만날 기회가 없을까 걱정이군요. 대학 및 단체들이 몇 달 안에 {i}또 다른{/i} 건의 "
-"선거를 한 차례 더 치를 예정이고, 저는 이에 대한 모든 것을 정리하기 위해 그곳에 출석해야 합니다. 그렇지 않으면 당신도 상상할 수 "
-"있다시피, 아이쿼타리언파와 루크로시안파가 {i}투표함과 투표용지의 갯수{/i}를 놓고 극도의 수동적 공격성을 띈 논쟁에 휘말리게 될 "
-"거예요. 내가 제국 궁정에서 맡은 바 직무를 벗어날 수 없었던 지난 두 차례에 걸쳐, 고립파들이 컴버랜드 출신의 자유파 고위 마법사로부터 "
-"모욕을 당한 것에 대한 항의의 의미로 얼음벽으로 토론장 안에 스스로를 가두는 일도 있었답니다.\n"
+"할람시랄에서 고위 평의회가 개최되기 전에 당신을 만날 기회가 없을까 걱정이군요. 마도사 연합과 다른 단체들이 몇 달 안에 {i}또 "
+"다른{/i} 건의 선거를 한 차례 더 치를 예정이고, 저는 이에 대한 모든 것을 정리하기 위해 그곳에 출석해야 합니다. 그렇지 않으면 "
+"당신도 상상할 수 있다시피, 아이쿼타리언파와 루크로시안파가 {i}투표함과 투표용지의 갯수{/i}를 놓고 극도의 수동적 공격성을 띈 논쟁에 "
+"휘말리게 될 거예요. 내가 제국 궁정에서 맡은 바 직무를 벗어날 수 없었던 지난 두 차례에 걸쳐, 고립파들이 컴벌랜드 출신의 자유파 고위 "
+"마법사로부터 모욕을 당한 것에 대한 항의의 의미로 얼음벽으로 토론장 안에 스스로를 가두는 일도 있었답니다.\n"
 "\n"
-"물론 저는 오를레앙 궁정의 계속되는 승인 전달 업무를 해야합니다. 친애하는 시릴 공작이 공의회에 대한 찬사로 진작 당신을 지루하게 만드는 "
-"모습이 벌써부터 눈에 선하군요.\n"
+"물론 저는 올레이 궁정의 계속되는 승인 전달 업무를 해야 합니다. 친애하는 시릴 공작이 고위 평의회에 대한 찬사로 진작 당신을 지루하게 "
+"만드는 모습이 벌써부터 눈에 선하군요.\n"
 "\n"
 "안녕히,\n"
 "비비엔"
@@ -8967,11 +9326,11 @@ msgid ""
 "\n"
 "Charter"
 msgstr ""
-"{/i}인퀴지션 내 문건 중 2년이 넘은 서신에서:{/i}\n"
+"{/i}심문회 내 문건 중 2년이 넘은 서신에서:{/i}\n"
 "\n"
-"챠터,\n"
+"차터,\n"
 "\n"
-"부가적으로 부탁드릴 일이 있어요. 아시다시피 블랙월 감시자는 더 이상 우리와 함께하지 않아요. 조세핀이 공식적인 방법으로 연락을 해 "
+"부가적으로 부탁할 일이 있어요. 알다시피 블랙월 감시자는 더 이상 우리와 함께하지 않아요. 조세핀이 공식적인 방법으로 연락을 해 "
 "보았지만, 감시단은 블랙월이 실종되었고, 아마 사망했을 거라고만 하네요. 견고한 요새의 전투 이후로는 블랙월을 본 적이 없대요.\n"
 "\n"
 "뭔가 잘못됐어요. 조금 더 알아봐 줄래요? 시간이 남으면요.\n"
@@ -8990,12 +9349,11 @@ msgstr ""
 "\n"
 "배릭이 늘 말하듯이, “이런 건 지어내지도 못합니다.”\n"
 "\n"
-"챠터 드림"
+"차터 드림"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[165]/JournalTextData/TextReference
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:7430
-#, fuzzy
 msgctxt "0x00048a4f"
 msgid ""
 "Inquisitor,\n"
@@ -9013,17 +9371,22 @@ msgid ""
 "Yours, \n"
 "Thom Rainier"
 msgstr ""
-"인퀴지터께, \n"
+"심문관께, \n"
 "\n"
-"이 편지가 잘 닿기를 바라오. 오랜 기간 자리를 비워 송구스럽소. 나는 내 이전 동료 하나를 수소문한 끝에 커크월에 도착하여 이 편지를 쓴다오. \n"
+"이 편지가 잘 닿기를 바라오. 오랜 기간 자리를 비워 송구스럽소. 나는 내 이전 동료 하나를 수소문한 끝에 커크월에 도착하여 이 편지를 "
+"쓴다오. \n"
 "\n"
-"니콜라우스 로리 일병. 요즘은 스스로를 클라우스라 한다 하오. 내가 저버린 수많은 자들과는 달리 클라우스는 범죄가 아닌 새로운 삶을 택했소. 그로써 내 끔찍한 과거가 더 나아질 수는 없겠으나, 누군가만은 나의 행동에 완전히 무너져버리지 않았다는 사실이 작은 위안이 되오. \n"
+"니콜라우스 로리 일병. 요즘은 스스로를 클라우스라 한다 하오. 내가 저버린 수많은 자들과는 달리 클라우스는 범죄가 아닌 새로운 삶을 "
+"택했소. 그로써 내 끔찍한 과거가 더 나아질 수는 없겠으나, 누군가만은 나의 행동에 완전히 무너져버리지 않았다는 사실이 작은 위안이 "
+"되오. \n"
 "\n"
-"클라우스는 사랑스러운 여인과 혼인하여 자그마한 빵집을 운영하오. 곧장 날 알아보았소. 두 개의 고기 파이가 내 머리로 날아들었소. 갓 오븐에서 꺼낸 파이가 말이오. 내가 때맞춰 숙였기에 망정이지. \n"
+"클라우스는 사랑스러운 여인과 혼인하여 자그마한 빵집을 운영하오. 곧장 날 알아보았소. 두 개의 고기 파이가 내 머리로 날아들었소. 갓 "
+"오븐에서 꺼낸 파이가 말이오. 내가 때맞춰 숙였기에 망정이지. \n"
 "\n"
-"그에게 사과를 했소. 수 개월동안 그를 찾아 헤매며 그토록 많은 준비를 했건만… 여전히 어려웠소. 고맙게도 클라우스가 내게 말을 할 기회를 주었고, 우리는 행드 맨에서 한 잔 걸치었소. \n"
+"그에게 사과를 했소. 수 개월동안 그를 찾아 헤매며 그토록 많은 준비를 했건만… 여전히 어려웠소. 고맙게도 클라우스가 내게 말을 할 "
+"기회를 주었고, 우리는 행드 맨에서 한 잔 걸치었소. \n"
 "\n"
-"이제 몇 달 안으로 돌아가겠소. 나에게 시간을 주어 감사하오. 인퀴지터. \n"
+"이제 몇 달 안으로 돌아가겠소. 나에게 시간을 주어 감사하오. 심문관. \n"
 "\n"
 "감사하오.\n"
 "톰 레니어 드림"
@@ -9116,6 +9479,11 @@ msgid ""
 "\n"
 "\"Hail Elgar'nan, first among the gods! Mark his victory eternal!\""
 msgstr ""
+"{i}이 책—기억?—의 페이지는 쓰러진 바위 위를 벌떼처럼 덮은 수천 명의 하인들에 의해 단 하루만에 만들어진 기념비를 묘사하고 있다. "
+"단 하루만의 작업으로 바위에 새긴 엄격한 엘가르난의 모습이 협곡을 굽어보고 있게 되었다. 노예들은 모두 사라졌다. 우상의 가늘게 뜬 눈과 "
+"으르렁거리는 입 속에서, 빛이 사방에 비춘다. {/i}\n"
+"\n"
+"\"엘가르난을 찬양하라, 신들 중의 첫 번째를! 그의 승리를 영원히 하라!\""
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[170]/JournalTextData/TextReference
@@ -9210,7 +9578,6 @@ msgstr ""
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[177]/JournalTextData/TextReference
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:7837
-#, fuzzy
 msgctxt "0x0004ae35"
 msgid ""
 "Inquisitor,\n"
@@ -9240,9 +9607,10 @@ msgid ""
 "\n"
 "Why did I write this?"
 msgstr ""
-"인퀴지터님께,\n"
+"심문관님께,\n"
 "\n"
-"이게 장난인지, 시험인지, 아니면 무슨 마법 같은 건지 몰라 인퀴지터님께 보내드립니다. 만약 마법이라면 매우 불편하다고 말씀드리고 싶지만, 결과가 너무 좋아 그러기 어렵습니다. 일이 이토록 성공적인 적이 또 없습니다.\n"
+"이게 장난인지, 시험인지, 아니면 무슨 마법 같은 건지 몰라 심문관님께 보내드립니다. 만약 마법이라면 매우 불편하다고 말씀드리고 싶지만, "
+"결과가 너무 좋아 그러기 어렵습니다. 일이 이토록 성공적인 적이 또 없습니다.\n"
 "\n"
 "저는 이런 것을 쓴 기억이 없습니다. 하지만 확실히 제 글씨체고, 제 의지로 썼다는 서명까지 붙어있습니다. 저보다는 더 잘 아시겠죠.\n"
 "\n"
@@ -9251,7 +9619,7 @@ msgstr ""
 "\n"
 "{linebreak}\n"
 "\n"
-"인퀴지터님께 보내기 회신 콜:\n"
+"심문관님께 보내기 회신 콜:\n"
 "\n"
 "분기 보고:\n"
 "\n"
@@ -9386,15 +9754,15 @@ msgid ""
 msgstr ""
 "심문관,\n"
 "\n"
-"단어 하나 하나를 장황하게 늘어놓을 필요는 없겠지요? 교황이 되었다고 없던 글솜씨가 갑자기 생기는것도 아니니까요. 농담이라도 해야할까요? "
-"사실 몇 시간이 넘도록 대주교들과 회의해야 하는 진절머리나게 지루한 일을 제가 어떻게 견디고 있는지 모르겠습니다. 저런 건 농담소재로 "
-"쓰지도 못해요. 차라리 모자를 소재로 쓰는게 낫겠네요. 이런 쪽이라면 배릭이 빠삭한테 말이죠.\n"
+"단어 하나 하나를 장황하게 늘어놓을 필요는 없겠지요? 교황이 되었다고 없던 글솜씨가 갑자기 생기는 것도 아니니까요. 농담이라도 해야 "
+"할까요? 사실 몇 시간이 넘도록 대주교들과 회의해야 하는 진절머리나게 지루한 일을 제가 어떻게 견디고 있는지 모르겠습니다. 저런 건 농담 "
+"소재로 쓰지도 못해요. 차라리 모자를 소재로 쓰는 게 낫겠네요. 이런 쪽이라면 배릭이 빠삭할 텐데 말이죠.\n"
 "\n"
-"제일 중요한 건 안심할 수 있는 모습을 보여드리는 거겠지요. 안 그래도 바쁠 심문관에게 성가회 일까지 신경쓰게 해선 안되지 않겠습니까. "
+"제일 중요한 건 안심할 수 있는 모습을 보여드리는 거겠지요. 안 그래도 바쁠 심문관에게 챈트리 일까지 신경쓰게 해선 안 되지 않겠습니까. "
 "붉은 리륨 정화 일이 얼마나 잘 되었는지에 대한 얘기를 해볼까요? 아니면 성기사단과 마법사의… 됐습니다. 그 주제는 이미 너무 많이 "
-"얘기했네요. 아니면 발 르와이요에서 심문관의 영웅적행위를 소재로 하고있는 연극에 대한 얘기는 어떠실까요? 그래, 이거면 괜찮겠네요.\n"
+"얘기했네요. 아니면 발 르와이요에서 심문관의 영웅적 행위를 소재로 하고 있는 연극에 대한 얘기는 어떠실까요? 그래, 이거면 괜찮겠네요.\n"
 "\n"
-"이런! 네바라 주임 신모들과의 회의에 늦었네요. 어쨌든 제가 드리고 싶은 말은 대충 이렇습니다.\n"
+"이런! 네바라 주임 신모들과의 회의에 늦었군요. 어쨌든 제가 드리고 싶은 말은 대충 이렇습니다.\n"
 "\n"
 "창조주의 은총과 축복을 담아,\n"
 "교황 빅토리아"
@@ -9452,7 +9820,7 @@ msgstr ""
 "\n"
 "이제 모든 균열이 봉인됐군요. 정말이지 꿈만 같습니다. 이제는 뭘 해야 할지 감도 오지 않습니다.\n"
 "\n"
-"아, 그리고 이베트 몽띠예가 당신에게 상자 하나를 보내왔는데, 차 같기도…하고 향신료같기도 하고… 어쨌든 비누 냄새가 나는 갈색의 "
+"아, 그리고 이베트 몽띠예가 당신에게 상자 하나를 보내왔는데, 차 같기도…하고 향신료 같기도 하고… 어쨌든 비누 냄새가 나는 갈색의 "
 "가루입니다. 비누일지도 모르겠네요. 쪽지에 “잘 쓰세요!!!!” 라는 글귀와 함께 동그라미와 꽃 그림을 그려 놓았습니다. 복귀하면 "
 "조세핀에게 해석해 달라고 부탁해야겠군요.\n"
 "\n"
@@ -9475,8 +9843,8 @@ msgstr ""
 "\n"
 "{i}편지에 급히 휘갈긴 추신이 덧붙여져있다:{/i}\n"
 "\n"
-"추신. 어서 복귀하여 함께 시간을 보냈으면 좋겠습니다. 그 때가 빨리 왔으면 좋겠군요. 이럴때는 우리가 해야 할 일이 많다는게 너무 화가 "
-"납니다. 제 말은, 하루빨리 당신 곁에 있고 싶다는 얘기입니다. 으, 배릭은 도대체 이런 걸 어떻게 능청스럽게 말하는 거죠?\n"
+"추신. 어서 복귀하여 함께 시간을 보냈으면 좋겠습니다. 그 때가 빨리 왔으면 좋겠군요. 이럴 때는 우리가 해야 할 일이 많다는 게 너무 "
+"화가 납니다. 제 말은, 하루빨리 당신 곁에 있고 싶다는 얘기입니다. 으, 배릭은 도대체 이런 걸 어떻게 능청스럽게 말하는 거죠?\n"
 "\n"
 "항상 몸조심하길, 사랑합니다."
 
@@ -9547,6 +9915,17 @@ msgid ""
 "\n"
 "—From {i}A Panoply of Faces: An Illustrated Official Listing of Heraldry and Masks within the Blessed Empire of Orlais{/i}, issued quarterly"
 msgstr ""
+"주요 변경사항:\n"
+"\n"
+"에네아스 공작님을 섬기는 슈발리에들은 이제 이전의 붓꽃 무늬 방패가 아닌, 사개맞춤 모양의 방패를 들게 되었습니다.\n"
+"\n"
+"아이글 가문의 포르티어 경이 소리스 가문의 보슬랭 아가씨와 혼인하게 되었습니다. 두 가문의 사촌과 육촌까지는 이제 각각의 귀족가의 색을 "
+"모두 입힌 몽시마드 주름 스타일의 가면을 쓸 수 있습니다.\n"
+"\n"
+"데네림의 웨스미스 아가씨께서 베뉴어 가문의 피에르 경과 혼인하게 되었습니다. 웨스미스 아가씨의 직계 가족들은 이제 루비, 진주, 혹은 "
+"오팔이 달리고 흰색으로 마무리된 흑백 반쪽 도미노 가면을 쓸 수 있습니다.\n"
+"\n"
+"—계간지 {i}얼굴의 전당: 축복받은 올레이 제국의 모든 문장과 가면 삽화 목록{/i}에서 발췌"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[193]/JournalTextData/TextReference
@@ -9746,12 +10125,11 @@ msgstr ""
 "혼란이란 없다. 오직 복잡함만이 있다.\n"
 "복잡함에 대한 지식을 지혜라 한다.\n"
 "세계에 대한 지혜는 자기 자신에 대한 지혜를 낳는다.\n"
-"자기 자신에 통달하는 것은 세계를 통달하게 한다.\n"
-"자기 자신을 잃는 것이 고통의 근원이다.\n"
+"자기 자신에 통달하는 것은 세계를 통달하게 한다. 자기 자신을 잃는 것이 고통의 근원이다.\n"
 "고통은 선택이며, 우리는 이를 거절할 수 있다.\n"
 "세상을 창조하고 파괴하는 것은 우리의 힘이다.\n"
-"평화를 위해, 우리는 이 곳의 어떤 공포도 견뎌낼 것이다.\n"
-"우리는 안전한 세계를 만들거나, 낡은 세계를 파괴할 것이다."
+"\n"
+"평화를 위해, 우리는 이 곳의 어떤 공포도 견뎌낼 것이다. 우리는 안전한 세계를 만들거나, 혹은 낡은 세계를 파괴할 것이다."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[200]/JournalTextData/TextReference
@@ -9893,7 +10271,7 @@ msgid ""
 msgstr ""
 "배릭 테스라스 지음.\n"
 "\n"
-"사람들은 로우타운 시장에서 살 수 없는게 없다고 말한다. 거의 맞는 말이다. 하지만 운이 좋은 날엔, 매점원들이 세헤론산 향료, 무명 "
+"사람들은 로우타운 시장에서 살 수 없는 게 없다고 말한다. 거의 맞는 말이다. 하지만 운이 좋은 날엔, 매점원들이 세헤론산 향료, 무명 "
 "드워프 파라곤의 유산, 도나크스의 숨겨진 요새 지도, 그리고 보석이 박힌 안티바 왕관을 외치며 호객하는 모습을 볼 수 있다. 그리고 "
 "테다스 대륙의 그 어떤 책방도 로우타운보다 생생한 이야기들을 거래하고 있지 않다. \n"
 "\n"
@@ -9905,14 +10283,14 @@ msgstr ""
 "먼지 한 톨 없이 깔끔한 옷을 차려입은 집사가 도넨을 맞더니 안에 들어가라는 듯 몸짓을 취했다. “위병 브레노코빅. 웨그너 경이 기다리고 "
 "계십니다.”\n"
 "\n"
-"도넨은 집사를 따라 미로같은 창고 집무실을 지나 실크 카펫과 안드라스테의 처형 장면을 수 놓은 벽걸이 융단으로 풍부하게 꾸며놓은 뒷방으로 "
-"안내받았다. 그곳에는 벨벳으로 덮힌 묵중한 팔걸이 의자 두 개가 방 한가운데에 자리하고 있었다. 그 중 하나엔 눈이 멀 정도로 하얗고, "
-"금실로 자수가 놓인 비단 옷을 머리부터 발끝까지 입고 있는 빨간 머리의 사나이가 거만한 표정을 하고 앉아 있었다. 다른 의자는 "
+"도넨은 집사를 따라 미로 같은 창고 집무실을 지나 실크 카펫과 안드라스테의 처형 장면을 수 놓은 벽걸이 융단으로 풍부하게 꾸며 놓은 "
+"뒷방으로 안내받았다. 그곳에는 벨벳으로 덮인 육중한 팔걸이 의자 두 개가 방 한가운데에 자리하고 있었다. 그 중 하나엔 눈이 멀 정도로 "
+"하얗고, 금실로 자수가 놓인 비단 옷을 머리부터 발끝까지 입고 있는 빨간 머리의 사나이가 거만한 표정을 하고 앉아 있었다. 다른 의자는 "
 "비어있었다. \n"
 "\n"
 "“위병! 앉으십시오.” 신사가 강한 스탁헤이븐 억양으로 말했다. \n"
 "\n"
-"“웨그너경이신가요?” 도넨이 물었다.\n"
+"“웨그너 경이신가요?” 도넨이 물었다.\n"
 "\n"
 "“던왈드 부인이 이미 설명하셨겠지만, 전 유물 수집가입니다. 브레노코빅.” 웨그너는 조심스럽게 혈석으로 만든 담배 파이프에 불을 붙이고 "
 "연기를 들이마셨다. “본론부터 얘기하자면, 위병, 당신은 은퇴를 앞두고 있지 않습니까? 제가 한탕 할 수 있는 기회를 드리겠습니다.”\n"
@@ -9926,12 +10304,12 @@ msgstr ""
 "\n"
 "“헤사리안의 검.” 웨그너는 몸을 숙여 도넨을 자세히 들여다 보았다. “안드라스테의 심장을 꿰뚫은 바로 그 검 말입니다.”\n"
 "\n"
-"도넨은 담담하게 웨그너의 시선을 받아쳤다. “그게 가당키나 한 일이긴 하며, 설령 그게 사실이라 해도, 그 검은 엄청난 가치의 금화와 "
+"도넨은 담담하게 웨그너의 시선을 받아쳤다. “그게 가당키나 한 일입니까? 설령 그게 사실이라 해도, 그 검은 엄청난 가치의 금화와 "
 "맞먹습니다.”\n"
 "\n"
-"“대부분 그걸 봐도 녹슨 고물정도로 취급하겠지요. 더이상 보석으로 치장된 아르콘의 검이 아니니까요. 그렇지만 적절한 구매자는 그 검의 "
+"“대부분 그걸 봐도 녹슨 고물 정도로 취급하겠지요. 더 이상 보석으로 치장된 집정관의 검이 아니니까요. 그렇지만 적절한 구매자는 그 검의 "
 "가치가 국왕 하나의 몸값이라는 걸 알아봅니다, 위병. 그리고 전 적절한 구매자들을 알고 있지요.” 웨그너가 미소지었다. “그 검이 이 "
-"곳, 커크월에 있습니다. 그걸 찾는 데 도움을 주신다면 제가 당신을 떼 부자로 만들어 드리지요.”"
+"곳, 커크월에 있습니다. 그걸 찾는 데 도움을 주신다면 제가 당신을 떼부자로 만들어 드리지요.”"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[206]/JournalTextData/TextReference
@@ -10074,11 +10452,11 @@ msgstr ""
 "아마투스,\n"
 "\n"
 "당신이 최근 보낸 편지는 재밌게 읽었어. 내 방에서 그걸 훔쳐서 부엌 직원들에게 큰 소리로 읽어준 하인들도 마찬가지고. 이런 작은 "
-"스캔들이 한 달동안 있었던 일중에 유일하게 밝은 일이었다니. 당신이 없는 민라투스는 따분해 미칠 지경이야.\n"
+"스캔들이 한 달 동안 있었던 일 중에 유일하게 밝은 일이었다니. 당신이 없는 민라투스는 따분해 미칠 지경이야.\n"
 "\n"
 "매바리스와 나는 우리의 신생 정당인 루체니에서 만남을 가졌어. 제국의 부패에 대해 불타는 증오를 가진 12명의 후배 마지스터 당원들은 "
 "말도 안 되는 소리를 지르는것 말고는, 뭘 어떻게 바꾸어야 할지 아무 생각도 없는 것 같아. 그들을 빈틈없는 마지스테리움 정치인으로 "
-"만들려면 매이와 내가 갈길이 멀다. 웃지마.\n"
+"만들려면 매이와 내가 갈길이 멀다. 웃지 마.\n"
 "\n"
 "당신이 심문회 일에 발이 묶여서 어쩔 수 없다는 건 알아. 하지만 난 당신을 어떻게든 만나야겠어. 이런 편지 따위로는 당신을 대신할 수 "
 "없어.\n"
@@ -10108,8 +10486,8 @@ msgstr ""
 "상당한 숙련을 요하는 일이야. 실제적인 정치 세력이 될 수 있을만큼 충분히 긴 계획을 가지고 민라투스의 통상적인 일정을 통과해야 하거든. "
 "하지만 다행히도, 그들에게는 내가 있지.\n"
 "\n"
-"정치적인 문제가 당신을 괴롭히고 있다니 유감이야. 전염병이나 오를레인 패션 유행같은 뭔가가 돌고 있는 게 틀림없어. 조세핀이 페렐던의 "
-"항의를 진정시킬 수 있기를 바라. 그리고 올레이인들이 목걸이랑 줄을 들고 당신의 주위를 에워싸는 걸 그만두도록 설득해달라고 부탁해 봐. "
+"정치적인 문제가 당신을 괴롭히고 있다니 유감이야. 전염병이나 올레이 패션 유행같은 뭔가가 돌고 있는 게 틀림없어. 조세핀이 페렐던의 "
+"항의를 진정시킬 수 있기를 바라. 그리고 올레이인들이 목걸이랑 줄을 들고 당신의 주위를 에워싸는 걸 그만두도록 설득해 달라고 부탁해 봐. "
 "당신도 알다시피 그녀는 항상 도전을 좋아하잖아.\n"
 "\n"
 "나는 곧 남쪽으로 여행할 핑계거리를 찾을 예정이야. 진심으로 우리 직접 볼 때도 됐잖아, 안 그래?\n"
@@ -10129,9 +10507,9 @@ msgid ""
 msgstr ""
 "심문관,\n"
 "\n"
-"반대로 가려는 나의 모든 노력에도 불구하고, 우린 그리 멀지 않은 미래에 다시 만나게 될 것 같군. 내가 정치적 선동으로 정부의 누군가를 "
-"설득시킨 덕분에 나라 밖으로 나갈 수 있게 됐거든. 난 할람시랄의 겨울 궁전에서 당신과 함께 끔찍한 국제회담에 참석할 예정이야. "
-"확신하는데 당신은 그 날을 손꼽아 기다리게 될 거야.\n"
+"이렇게 되는 것을 막으려던 나의 모든 노력에도 불구하고, 우린 그리 멀지 않은 미래에 다시 만나게 될 것 같군. 내가 정치적 선동으로 "
+"정부의 누군가를 설득시킨 덕분에 나라 밖으로 나갈 수 있게 됐거든. 난 할람시랄의 겨울 궁전에서 당신과 함께 끔찍한 국제회담에 참석할 "
+"예정이야. 확신하는데 당신은 그 날을 손꼽아 기다리게 될 거야.\n"
 "\n"
 "도리안 파부스"
 
@@ -10176,13 +10554,13 @@ msgstr ""
 "구했습니다.\n"
 "\n"
 "\"아이언불과 그의 돌격대원들이 페런데일에서 활약한 덕분에 또 다른 내전이 올레이를 휩쓸지 못하도록 막을 수 있었습니다. 특히나 아이언 "
-"불은 전투에서 강탈자를 물리쳤습니다.\"\n"
+"불은 전투에서 찬탈자의 싹을 잘랐습니다.\"\n"
 "\n"
-"우리는 사우스리치에서의 불의 돌격대의 행동에 이의를 제기할 필요가 있습니다. 붉은 리륨으로 타락한 악마와 성기사의 존재는 명백한 "
+"우리는 사우스 리치에서의 불의 돌격대의 행동에 이의를 제기할 필요가 있습니다. 붉은 리륨으로 타락한 악마와 성기사의 존재는 명백한 "
 "사실이지만, 드워프 광부들이 적군의 산 대부분을 무너뜨려 평지로 만들게 한 건 이 일에서 전혀 필요한 일이 아니었습니다.\"\n"
 "\n"
-"\"불의 돌격대는 캘런헤드 호수를 공격한 악마들을 몰아내는 데 큰 도움을 주었습니다. 자신을 '데일스'라고 부르는 엘프가 특히 큰 "
-"도움이되었고, 그녀는 데일스 양궁 기술로 얼음벽을 만드는 방법과 마법 장벽을 없애는 방법에 대해 설명해주기로 약속했습니다.\"\n"
+"\"불의 돌격대는 캘런해드 호수를 공격한 악마들을 몰아내는 데 큰 도움을 주었습니다. 자신을 '데일스'라고 부르는 엘프가 특히 큰 도움이 "
+"되었고, 그녀는 데일스 양궁 기술로 얼음벽을 만드는 방법과 마법 장벽을 없애는 방법에 대해 설명해주기로 약속했습니다.\"\n"
 "\n"
 "—지난 2년간 불의 돌격대가 수행한 활동과 관련된 감사 서신으로부터 발췌한 내용\n"
 "\n"
@@ -10203,7 +10581,7 @@ msgid ""
 "\n"
 "{blank}"
 msgstr ""
-"\"정보 감사드립니다. 베나토리 정보원은 제거했습니다 앙스부르크는 심문회와 벤-하스라트 요원들에게 더 안전한 곳이어야 합니다.\"\n"
+"\"정보 감사드립니다. 베나토리 정보원은 제거했습니다. 안스버그는 심문회와 벤-하스라트 요원들에게 더 안전한 곳이어야 합니다.\"\n"
 "\n"
 "\"할람시랄 북쪽에서 탈리스가 발견한 유적의 위치를 동봉합니다. 명백한 마법의 활동으로 보아 심문회 군이 우리 국민보다 이 일에 대한 "
 "위협의 본질과 규모를 더 잘 파악할 수 있을 거라고 판단됩니다.\"\n"
@@ -10224,10 +10602,9 @@ msgid ""
 "\n"
 "—The least tawdry excerpt from the gossip page of {i}Masqued Murmurs Monthly{/i}"
 msgstr ""
-"죄송합니다, 여러분들! 스카이홀드의 소식통에 따르면, 이 {i}황소{/i}를 {i}탈수 있는{/i} 오직 한 사람이 있다면, 그건 바로 "
-"심문관 뿐이라는군요! {i}딱딱함{/i}을 느끼거나 {i}안장 위로{/i}에 올라타고 싶은 누구라도, {i}종아리{/i}가 당신을 태울 "
-"수 있는 한, 가능한 빨리 다른 방향으로 몸을 틀어야 합니다. 우리가 좋아하는 쿠나리 용병은 당신에게 낭만적으로 구는 {i}황소{/i}가 "
-"아니까요!\"\n"
+"\"죄송합니다, 여러분들! 스카이홀드의 소식통에 따르면, 이 {i}황소{/i}를 {i}탈수 있는{/i} 오직 한 사람이 있다면, 그건 "
+"바로 심문관 뿐이라는군요! {i}딱딱함{/i}을 느끼거나 {i}안장 위로{/i}에 올라타고 싶은 누구라도, {i}종아리{/i}에 힘이 "
+"들어가는 한, 다른 곳을 찾아봐야 할 겁니다. 우리가 좋아하는 쿠나리 용병은 당신이 꼬실 수 있는 {i}황소{/i}가 아니까요!\"\n"
 "\n"
 "—{i}월간 속삭이는 마스퀘이드{/i}의 가십 페이지 중 가장 덜 저속한 부분 발췌"
 
@@ -10320,6 +10697,12 @@ msgid ""
 "\n"
 "\"Treasure this thought, for it was the last of its kind, and so much more than the last of me.\""
 msgstr ""
+"{i}이 책—기억?—의 페이지는 어마어마하게 거대하고 우아한 덩굴과 그 꽃에 대한 내용이다. 그 꽃은 구릿빛 노을과 같은 색을 띠고, "
+"크기는 연못만큼 크며, 꽃잎은 사람의 키 만하며, 시트러스 과일의 향기와 하늘, 그리고 썩은 짐승 고기가 섞인 향기를 풍긴다.\n"
+"\n"
+"마지막 덩굴이 시드는 날, 이 기억의 창조자는 눈물을 흘리고, 꽃의 모습과 소리를 기억한 뒤, 우서네라에 든다.{/i}\n"
+"\n"
+"\"이 생각을 소중히 여기라. 이것은 그들 중 마지막의 기억이고, 나의 마지막보다 훨씬 귀중한 것이니.\""
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[224]/JournalTextData/TextReference
@@ -11398,7 +11781,7 @@ msgstr ""
 "치즈로 그의 식욕을 채워라.\n"
 "오래된 것일수록 좋다.\n"
 "\n"
-"—파라곤 에브라이언 저, {i}너그만이 들을 수 있는 노래들{/i}에서 발췌, 고양 시대 5:84\n"
+"—파라곤 에브라이언 저, {i}너그만이 들을 수 있는 노래들{/i}에서 발췌, 숭고한 시대 5:84\n"
 "\n"
 "{linebreak}\n"
 "{blank}"
@@ -11520,6 +11903,59 @@ msgid ""
 "\n"
 "Renn"
 msgstr ""
+"{i}렌 중위와 군단용사 버냇이 주고받은 쪽지:{/i}\n"
+"\n"
+"렌 중위님께,\n"
+"\n"
+"중위님, 물품 요청서를 검토했습니다. 중위님의 보좌관으로서, 목록에 적힌 에일의 양이 말도 안 된다는 점을 지적해 드려야 할 것 "
+"같습니다. 어둠의 피조물들을 에일에 담가 버릴 계획이 아니시라면요.\n"
+"\n"
+"존경을 담아,\n"
+"군단용사 버냇\n"
+"\n"
+"{linebreak}\n"
+"\n"
+"버냇,\n"
+"\n"
+"웃기지 마. 세상에 \"말도 안 되는\" 양의 에일이란 건 없어.\n"
+"\n"
+"렌\n"
+"\n"
+"{linebreak}\n"
+"\n"
+"렌 중위님께,\n"
+"\n"
+"중위님께서 요청하신 술통 수가 저희 병사 수보다 많습니다.\n"
+"\n"
+"존경을 담아,\n"
+"군단용사 버냇\n"
+"\n"
+"{linebreak}\n"
+"\n"
+"버냇,\n"
+"\n"
+"죽은 사람이 재미 좀 보겠다는데 너무하네. 알겠어. 술통 갯수는 반으로 줄여. 하지만 저번에 보낸 오줌 같은 건 못 참아. 최고급품으로 "
+"보내라고 해.\n"
+"\n"
+"렌\n"
+"\n"
+"{linebreak}\n"
+"\n"
+"렌 중위님께,\n"
+"\n"
+"알겠습니다. 에일을 요청한 사람이 어둠의 피조물을 쳐부순 자, 다섯 번째 대재앙의 영웅, 존경받는 렌 중위님이라고 확실히 "
+"전달드리겠습니다. 앞에 붙일 수식어가 더 있지 않았나요? 기억이 안 나는군요.\n"
+"\n"
+"존경을 담아,\n"
+"군단용사 버냇\n"
+"\n"
+"{linebreak}\n"
+"\n"
+"버냇,\n"
+"\n"
+"그리고 니 엉덩이 걷어찰 사람이지, 살로카.\n"
+"\n"
+"렌"
 
 #. FILE: da3_dlc_red\DesignContent\Journals\JournalSystem\DLC_Red_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[71]/JournalTextData/TextReference
@@ -11688,6 +12124,24 @@ msgid ""
 "\n"
 "I hope to use them well—and someday understand why I was chosen to receive them."
 msgstr ""
+"{i}조세핀은 그녀의 책상 위 종이들 사이에 끼워져 있던 찢어진 수기 일지의 페이지를 발견하자, 즉시 이것을 심문관에게 전달했다. "
+"페이지는 명백히 발타 기록관에 의해 작성된 것이지만, 어떻게 이것이 스카이홀드에서 발견되었는지 아무도 설명할 수 없었다.{/i}\n"
+"\n"
+"마지막에 무슨 일이 일어났는지, 거의 기억나지 않는다. {spHeroLastName} 심문관은 지진을 멈추기 위해 싸웠고, 우리는 함께 "
+"여태까지 내가 본 그 어떤 곳보다도 아름다운 장소를 가로질러 달려갔다. 그렇게 아름다운 곳이 그런 끔찍한 파괴의 원인일 수 있다는 사실이 "
+"나를 혼란스럽게 했다. 아직도 혼란스럽다.\n"
+"\n"
+"거대한 원을 향해 달려가는 모든 발걸음에서 렌의 부재를 느꼈다. 강력한 리륨 광맥들이 생명으로 맥동했고, 그들의 힘이 원 안으로 "
+"흘러들어왔다. 무언가가 그곳에서 자라고 있었다. 돌에서 태어난 거대한 존재가 우리를 멈추려 깨어났다. 그것은 우리를 맹렬히 공격했고, "
+"나는 따뜻한 빛 속에 쓰러졌다.\n"
+"\n"
+"나는 그 때 내가 돌로 돌아갔다고 생각했다. 어쩌면 정말 그랬을지도 모른다.\n"
+"\n"
+"빛이 잦아들고, 나는 낙원에서 깨어났다. 수호자는 박살난 채 쓰러져 있었다. 심문관은 당당히 서 있었다. 승리였지만, 나는 도저히 기뻐할 "
+"수 없었다. 수호자는 타이탄을 보호하기 위해 깨어난 것이다. 그는 돌이 약해지는 것을 막기 위해 싸웠다. 그것은 심문관을 죽이려 했지만, "
+"나에게는 오직 선물만을 주었다.\n"
+"\n"
+"나는 이것을 잘 사용할 수 있길 바란다. 그리고 언젠가 내가 선택받은 이유를 알 수 있기를 바란다."
 
 #. FILE: da3_dlc_red\DesignContent\Journals\JournalSystem\DLC_Red_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[82]/JournalTextData/TextReference
@@ -11702,6 +12156,19 @@ msgid ""
 "\n"
 "Its blood now flows through me, and its song fills the gaps in our history. I close my eyes and see glimpses of the world that was, before everything changed and the dwarven race broke in two. Something caused the Titans to fall, and the fate of my people fell with them. The Titan wants me to know. No, more than that. It wants me to understand. There is a loneliness to its song."
 msgstr ""
+"{i}해릿이 스카이홀드의 지하실에서 이상한 것을 발견했다. 발타 기록관의 수기 일지에서 찢어진 한 페이지다.{/i}\n"
+"\n"
+"타이탄들은 실재한다. 그 고대 글귀를 발견한 순간 나는 알았다. 렌은 코웃음을 쳤다. 진실이 따뜻한 망토처럼 내 위에 씌워지는 것을 "
+"느꼈지만, 그를 탓할 수는 없다. 우리의 역사의 많은 부분은 유실되었고, 기억의 벽도 어느 부분까지만 존재한다. 우리 민족에게는 더 많은 "
+"이야기가 있었을 것이고. 내가 드디어 그 잃어버린 장 중 하나를 찾은 것이다.\n"
+"\n"
+"타이탄이 얼마나 거대한지 언어로 설명하기는 불가능하다. 내가 만난 타이탄은 너무 거대해, 그 일부밖에 볼 수 없었다. 나는 기억나지도 "
+"않을 만큼 오랜 시간 동안 알지도 못한 채 그것의 몸 속을 방황했다. 나는 지상에 있는 드래곤이나 거인에 대한 이야기들을 들은 적이 "
+"있지만, 내가 들었던 그들의 크기는 이 타이탄에 비하면 아무 것도 아니었다.\n"
+"\n"
+"이제 그것의 피가 내 몸을 타고 흐르고, 그것의 노래가 우리의 역사의 빈 부분을 채우고 있다. 눈을 감으면, 모든 것이 변하기 전, "
+"드워프들이 둘로 갈라지기 전에 존재했던 세계를 훔쳐볼 수 있다. 어떤 것이 타이탄을 몰락시켰고, 우리 민족의 운명 또한 그들과 함께 "
+"몰락했다. 타이탄은 나에게 알려주려고 한다. 아니, 그 이상이다. 그것은 내가 이해하길 원한다. 그것의 노래에는 외로움이 깃들어 있다."
 
 #. FILE: da3_dlc_red\DesignContent\Journals\JournalSystem\DLC_Red_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[83]/JournalTextData/TextReference
@@ -11720,7 +12187,7 @@ msgid ""
 "\n"
 "I have no interest in finding that citadel of the Sha-Brytol, but another might."
 msgstr ""
-"{i}오늘 아침 스카이홀드로 배달되는 무역 서신 사이에서  쉐이퍼 발타의 수기 일기에서 찢어진 한 장이 발견되었다. 인퀴지터의 배달부는 "
+"{i}오늘 아침 스카이홀드로 배달되는 무역 서신 사이에서  기록관 발타의 수기 일기에서 찢어진 한 장이 발견되었다. 심문관의 배달부는 "
 "이게 어떻게 그녀의 손에 들어왔는지는 기억해낼 수 없었다.{/i}\n"
 "\n"
 "렌의 살인자들이 그림자에 숨어 일정 거리에서 나를 지켜보고 있다. 타이탄이 나에게 형성석을 선물로 주면서 편애하는 걸, 샤 브리톨이 "
@@ -11729,19 +12196,19 @@ msgstr ""
 "필요한 적이 없었다. 이 난쟁이들이 예전에 무엇이었든, 그들을 여기에 남게 된 동기가 무엇이었든, 지금 그들은 방황하고 있을 뿐이다. \n"
 "\n"
 "난 더이상 잠을 자지 않지만, 잘 듣기 위해 가끔 멈춘다. 어제, 아니 한 시간 전이었던가?, 샤 브리톨 갑옷 한 벌을 공물로 바치기 "
-"위해 소리를 죽여 걷던 샤 브리톨 한 명을 알아차렸다. 내가 그걸 입을거라고 생각이라도 한 걸까? 입고 그들을 이끌기라도? 그들의 선물은 "
-"예전 내가 죽은 친구를 “돌”에게 돌려줄때 당시의 모습만 떠올리게 만들 뿐이다. 난 갑옷을 그대로 두고 떠났다.\n"
+"위해 소리를 죽여 걷던 샤 브리톨 한 명을 알아차렸다. 내가 그걸 입을 거라고 생각이라도 한 걸까? 입고 그들을 이끌기라도? 그들의 "
+"선물은 예전 내가 죽은 친구를 “돌”에게 돌려줄 때 당시의 모습만 떠올리게 만들 뿐이다. 난 갑옷을 그대로 두고 떠났다.\n"
 "\n"
-"내일, 아니 방금 전, 타워 중 하나에 진입했다. 내가 접근하자 그들이 재빠르게 도망치는 걸 느꼈다. 그들은 내가 그들을 궤멸하기 위해 "
-"온 줄로 생각하고 있지만, 내가 그럴 생각이였으면 굳이 가까이 접근할 필요도 없다. 난 단지 그들이 어떻게 사는지 궁금했을 뿐이다. "
-"{i}살아있기는{/i} 한걸까? 타워는 대답이 없다. 조용하고 텅 비어있는 모습은 탑사이더스들이 신을 모시는 사원에 대한 묘사를 "
-"상기시켰다. 타워들은 사원인가? 요새? 둘다일지도. \n"
+"내일, 아니 방금 전, 탑 중 하나에 진입했다. 내가 접근하자 그들이 재빠르게 도망치는 걸 느꼈다. 그들은 내가 그들을 궤멸시키기 위해 "
+"온 줄로 생각하고 있지만, 내가 그럴 생각이었으면 굳이 가까이 접근할 필요도 없다. 난 단지 그들이 어떻게 사는지 궁금했을 뿐이다. "
+"{i}살아있기는{/i} 한 걸까? 탑은 대답이 없다. 조용하고 텅 비어있는 모습은 지상인들이 신을 모시는 사원에 대한 묘사를 상기시켰다. "
+"이 탑들은 사원인가? 요새? 둘 다일지도. \n"
 "\n"
-"단 하나의 방만이 내 흥미를 돋우였다. 둥근 지붕의 원형 정원 정가운데에 타이탄의 피로 된 웅덩이가 고여있었다. 텅 빈 갑주들이 웅덩이 "
+"단 하나의 방만이 내 흥미를 돋구었다. 둥근 지붕의 원형 정원 정 가운데에 타이탄의 피로 된 웅덩이가 고여있었다. 텅 빈 갑주들이 웅덩이 "
 "주변을 원으로 둘러싸고 있었다. 여기가 샤 브리톨들이 그들의 금속 피부에 매장되기 위해 오는 곳일까? 어떤 대장장이가 이 갑주를 만들고, "
 "이 갑주는 어디서 오는 곳일까? 나의 잃어버린 혈연이 무언가를 감추고 있다. 그들의 타이그가 어디엔가 있다. \n"
 "\n"
-"난 샤 브리톨의 성 찾기같은 건 흥미없지만, 흥미있는 사람이 있겠지."
+"난 샤 브리톨의 성 찾기같은 건 흥미 없지만, 흥미 있는 사람이 있겠지."
 
 #. FILE: da3_dlc_red\DesignContent\Journals\JournalSystem\DLC_Red_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[84]/JournalTextData/TextReference
@@ -11828,6 +12295,21 @@ msgid ""
 "\n"
 "Your father"
 msgstr ""
+"딸아,\n"
+"\n"
+"네가 오잠마를 떠날 때 그렇게 보낸 것이 후회되는구나. 내가 뱉은 말들은 우리 가문과 조상들을 수치스럽게 했다. 네 어머니도 나와 말하려 "
+"하질 않는구나.\n"
+"\n"
+"어제, 군단 용사의 장례식을 보았다. 그녀의 얼굴에 문신을 새기는 것을 지켜보았단다. 잉크의 무게가 너무나도 무겁게 느껴지더구나. 그녀는 "
+"고작 스무 살이었어. 네가 군단 소속이 아니라는 건 알지만, 가끔은 내 딸을 그렇게 잃은 것 같은 기분이 든다.\n"
+"\n"
+"네가 작은 소녀였을 때가 생각나는구나. 기록회에 나를 끌고 가서는 온갖 책과 기록들 사이를 신나 뛰어다니곤 했지. 너는 콧노래를 부르며 "
+"작은 손가락으로 나중에 공부할 책등을 어루만지고는 했어. 아직도 그곳에 가면 네가 있을 것만 같구나.\n"
+"\n"
+"너와 다니는 군단 사령관이 아주 훌륭한 분이고 걱정할 필요가 없다고들 한다. 이런 말이 무슨 소용이 있겠냐마는, 나는 아직 너를 돌에 "
+"잃을 준비가 안 되었다. 제발 몸조심하렴.\n"
+"\n"
+"아버지가"
 
 #. FILE: da3_dlc_red\DesignContent\Journals\JournalSystem\DLC_Red_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[89]/JournalTextData/TextReference
@@ -13356,7 +13838,7 @@ msgstr "발견한 명소"
 #: da3_dlc_red\DesignContent\Journals\JournalSystem\DLC_Red_JournalSystemCategories.xml:12
 msgctxt "0x0004ab9e"
 msgid "Gates of Segrummar "
-msgstr ""
+msgstr "세그러마의 관문 "
 
 #. FILE: da3_dlc_red\DesignContent\Journals\JournalSystem\DLC_Red_JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[1]/DescriptionReference
@@ -13364,6 +13846,9 @@ msgstr ""
 msgctxt "0x0004ab9c"
 msgid "Locked away in the Deep Roads are any number of secrets. Sometimes those secrets are especially hard to find. They may even be locked behind doors of mysterious purpose and unspeakable complexity. Treasure and a tough fight await those with the gumption to open all Gates of Segrummar."
 msgstr ""
+"지하 가도에는 수많은 비밀이 존재한다. 때때로 그런 비밀들은 찾아내기란 매우 힘든 일이다. 심지어 그 비밀들은 기이한 의도와 형언하기 "
+"힘든 복잡한 특징을 가진 문 뒤에 있을 수도 있다. 보물과 치열한 전투가 세그러마의 모든 관문을 열려고 시도하는 배짱 있는 이들을 "
+"기다리고 있다."
 
 #. FILE: da3_dlc_red\DesignContent\Journals\JournalSystem\DLC_Red_JournalSystemCategories.xml
 #. PATH: JournalSystemCategory[2]/TitleReference
@@ -13441,7 +13926,7 @@ msgstr "잊혀진 전쟁의 이야기"
 #: da3_dlc_red\DesignContent\Journals\SideContent\ogre\a_warm_welcome.xml:30
 msgctxt "0x0004a7cc"
 msgid "A Warm Welcome"
-msgstr ""
+msgstr "따뜻한 환영"
 
 #. FILE: da3_dlc_red\DesignContent\Journals\SideContent\towers\dlcred_towers_journal.xml
 #. PATH: JournalEntry/TitleReference
@@ -13476,7 +13961,7 @@ msgstr ""
 #: da3_dlc_red\DesignContent\Journals\dlcred\Global\dlcred_skyhold_opening.xml:13
 msgctxt "0x00049a95"
 msgid "Disaster in the Deep Roads"
-msgstr ""
+msgstr "지하 가도의 재앙"
 
 #. FILE: da3_dlc_red\DesignContent\Journals\dlcred_camps_journal.xml
 #. PATH: JournalEntry/TitleReference

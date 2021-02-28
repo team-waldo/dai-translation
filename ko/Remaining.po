@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-23 08:00+0000\n"
+"PO-Revision-Date: 2021-02-28 11:57+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
@@ -26,8 +26,8 @@ msgctxt "0x00043846"
 msgid "{controller}Revive fallen party members by targeting them and holding {StringBtnA}.{/controller}{notcontroller}Hold {StringBtnMouseRight} fallen party members to revive them.{/notcontroller}"
 msgstr ""
 "{controller}쓰러진 파티원에 다가가 대상으로 지정하고 {StringBtnA}를 꾹 눌러 "
-"되살리세요.{/controller}{notcontroller}{StringBtnMounseRight}을 꾹 눌러 쓰러진 파티원을 "
-"되살리세요.{/notcontroller}"
+"되살리십시오.{/controller}{notcontroller}{StringBtnMounseRight}을 꾹 눌러 쓰러진 파티원을 "
+"되살리십시오.{/notcontroller}"
 
 #. FILE: DA3\Actors\party\Specializations\Follower\gen_partymember_plot_warden_alistair.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -104,7 +104,7 @@ msgstr "연금술사"
 #: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_arcanewarrior.xml:7710
 msgctxt "0x0003f951"
 msgid "Arcane Warrior"
-msgstr ""
+msgstr "비전 전사"
 
 #. FILE: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_archer.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -189,14 +189,14 @@ msgstr "되살리기 (꾹 눌러서)"
 #: DA3\Actors\party\gen_partymember.xml:15386
 msgctxt "0x00044872"
 msgid "All Ability Points Refunded"
-msgstr "모든 능력 점수가 반환됨"
+msgstr "모든 기술 포인트가 반환됨"
 
 #. FILE: DA3\Actors\party\gen_partymember.xml
 #. PATH: NotificationEntityData[2]/TitleTextReference
 #: DA3\Actors\party\gen_partymember.xml:15404
 msgctxt "0x00041b72"
 msgid "Ability Point Gained"
-msgstr "능력 점수 획득함"
+msgstr "기술 포인트 획득함"
 
 #. FILE: DA3\Ambients\Prefabs\Reactive\Groups\Inquisition_Supplies_Patrol_fer_Crestwood.xml
 #. PATH: LootContainerData/LootContainerName
@@ -231,7 +231,7 @@ msgstr ""
 #: DA3\Combat\DisplayBuffs\Ability_Passive_Meditation_Buff.xml:11
 msgctxt "0x0002b48f"
 msgid "Mana Restoration Bonus"
-msgstr ""
+msgstr "마나 회복 보너스"
 
 #. FILE: DA3\Combat\DisplayBuffs\Armored_Buff.xml
 #. PATH: StatusEffect/Description
@@ -287,14 +287,14 @@ msgstr ""
 #: DA3\Combat\DisplayBuffs\Panic_Buff.xml:11
 msgctxt "0x00043007"
 msgid "Fear"
-msgstr ""
+msgstr "공포"
 
 #. FILE: DA3\Combat\DisplayBuffs\ResistCold_Buff.xml
 #. PATH: StatusEffect/Description
 #: DA3\Combat\DisplayBuffs\ResistCold_Buff.xml:11
 msgctxt "0x000408a2"
 msgid "Cold Resistance"
-msgstr ""
+msgstr "냉기 저항"
 
 #. FILE: DA3\Combat\DisplayBuffs\Stealth_Buff.xml
 #. PATH: StatusEffect/Description
@@ -333,13 +333,16 @@ msgid ""
 "\n"
 "Each party member has their own personal focus meter, but all party members gain focus when a single member deals damage."
 msgstr ""
+"집중도는 파티원이 피해를 가할 때마다 얻을 수 있는 자원입니다.\n"
+"\n"
+"모든 파티원은 각자의 집중도 수치를 가지고 있지만, 파티원 한 명이 공격을 할 때라도 모든 파티원이 집중도를 얻습니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Ammo_Bonus.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_Ammo_Bonus.xml:5
 msgctxt "0x00018228"
 msgid "Maximum Focus Bonus"
-msgstr ""
+msgstr "추가 최대 집중도"
 
 #. FILE: DA3\Combat\Stats\Stat_Ammo_Cost.xml
 #. PATH: BWModifiableStat/StatName
@@ -360,7 +363,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Ammo_Gain_Modifier.xml:10
 msgctxt "0x000417e4"
 msgid "Focus gained from all sources is increased by this percentage amount."
-msgstr ""
+msgstr "모든 집중도 생성량이 해당 비율만큼 증가합니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Ammo_Max.xml
 #. PATH: BWModifiableStat/StatName
@@ -374,7 +377,7 @@ msgstr "최대 집중도"
 #: DA3\Combat\Stats\Stat_Ammo_Max.xml:10
 msgctxt "0x00032ae2"
 msgid "The maximum amount of focus this character can generate."
-msgstr ""
+msgstr "해당 캐릭터가 만들 수 있는 집중도의 최대치입니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Armor_2_Max.xml
 #. PATH: BWModifiableStat/StatName
@@ -402,14 +405,14 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Armor_Front_Rating.xml:5
 msgctxt "0x00042621"
 msgid "Armor Rating: Front"
-msgstr ""
+msgstr "방어 수치: 정면"
 
 #. FILE: DA3\Combat\Stats\Stat_Armor_Front_Rating.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\Stat_Armor_Front_Rating.xml:10
 msgctxt "0x00042622"
 msgid "Physical damage inflicted on the character from the front is reduced by armor rating before being applied."
-msgstr ""
+msgstr "해당 캐릭터의 정면에서 들어오는 공격의 피해량이 방어력만큼 감소됩니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Armor_Penetration.xml
 #. PATH: BWModifiableStat/StatName
@@ -423,7 +426,7 @@ msgstr "방어력 관통"
 #: DA3\Combat\Stats\Stat_Armor_Penetration.xml:10
 msgctxt "0x00032ac8"
 msgid "Each point of armor penetration ignores one point of the target's armor when inflicting damage."
-msgstr ""
+msgstr "매 방어력 관통 수치가 적에게 피해를 가할 때 무시하는 방어력의 양을 증가시킵니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Armor_Penetration_Percentage.xml
 #. PATH: BWModifiableStat/StatName
@@ -437,14 +440,14 @@ msgstr "방어력 관통"
 #: DA3\Combat\Stats\Stat_Armor_Rating.xml:5
 msgctxt "0x0001de6e"
 msgid "Armor Rating"
-msgstr ""
+msgstr "방어 수치"
 
 #. FILE: DA3\Combat\Stats\Stat_Armor_Rating.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\Stat_Armor_Rating.xml:10
 msgctxt "0x00032adc"
 msgid "Physical damage is reduced by a character's Armor Rating."
-msgstr ""
+msgstr "방어력에 따라 물리 피해가 감소됩니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Attack.xml
 #. PATH: BWModifiableStat/StatName
@@ -458,14 +461,14 @@ msgstr "공격"
 #: DA3\Combat\Stats\Stat_Attack.xml:10
 msgctxt "0x00032ac5"
 msgid "The Attack stat increases all damage that a character does."
-msgstr ""
+msgstr "공격 능력치는 해당 캐릭터가 가하는 모든 피해량을 증가시킵니다."
 
 #. FILE: DA3\Combat\Stats\Stat_AutoResurrectHealValue.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_AutoResurrectHealValue.xml:5
 msgctxt "0x00018e0d"
 msgid "Lifeward Heal"
-msgstr ""
+msgstr "생명선 회복"
 
 #. FILE: DA3\Combat\Stats\Stat_AvoidKillingBlowChance.xml
 #. PATH: BWModifiableStat/StatName
@@ -570,7 +573,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Constitution.xml:10
 msgctxt "0x0003242d"
 msgid "The character's physical robustness and endurance. Each point increases Health and Melee Defense."
-msgstr ""
+msgstr "해당 캐릭터의 체격적인 건장함과 강인함입니다. 매 포인트가 체력과 근접 방어력을 증가시킵니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Consumable.xml
 #. PATH: BWDepletableStat/StatName
@@ -584,7 +587,7 @@ msgstr "마나/지구력"
 #: DA3\Combat\Stats\Stat_Consumable.xml:10
 msgctxt "0x00032ae3"
 msgid "The current amount of mana/stamina this character has. Use mana/stamina to trigger special abilities."
-msgstr ""
+msgstr "해당 캐릭터가 현재 보유한 마나/기력입니다. 마나/기력을 사용하여 특수한 기술을 사용하십시오."
 
 #. FILE: DA3\Combat\Stats\Stat_Consumable_GenerationMultiplier.xml
 #. PATH: BWModifiableStat/StatName
@@ -605,7 +608,7 @@ msgstr "최대 마나/지구력"
 #: DA3\Combat\Stats\Stat_Consumable_Max.xml:10
 msgctxt "0x00032ae4"
 msgid "The maximum amount of mana/stamina this character can have. Use mana/stamina to trigger special abilities."
-msgstr ""
+msgstr "해당 캐릭터가 가질 수 있는 마나/기력의 최대치입니다. 마나/기력을 사용하여 특수한 기술을 사용하십시오."
 
 #. FILE: DA3\Combat\Stats\Stat_Consumable_Regeneration.xml
 #. PATH: BWModifiableStat/StatName
@@ -724,28 +727,28 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Creature_XPReward.xml:5
 msgctxt "0x0001fd57"
 msgid "Experience Reward"
-msgstr ""
+msgstr "경험치 보상"
 
 #. FILE: DA3\Combat\Stats\Stat_Critical_Chance.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_Critical_Chance.xml:5
 msgctxt "0x0001331a"
 msgid "Critical Chance"
-msgstr ""
+msgstr "치명타 확률"
 
 #. FILE: DA3\Combat\Stats\Stat_Critical_Chance.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\Stat_Critical_Chance.xml:10
 msgctxt "0x00032acb"
 msgid "The chance to score a critical hit for each attack."
-msgstr ""
+msgstr "매 공격이 치명타로 가해질 확률입니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Critical_Resistance.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_Critical_Resistance.xml:5
 msgctxt "0x0001bd8c"
 msgid "Critical Resistance"
-msgstr ""
+msgstr "치명타 저항"
 
 #. FILE: DA3\Combat\Stats\Stat_CrowPoisonCount.xml
 #. PATH: BWDepletableStat/StatName
@@ -759,7 +762,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Cunning.xml:10
 msgctxt "0x00032430"
 msgid "The character's intelligence and deviousness. Each point increases Critical Chance and Ranged Defense."
-msgstr ""
+msgstr "해당 캐릭터의 지능과 간계의 척도입니다. 매 포인트가 치명타 확률과 원거리 방어력을 증가시킵니다."
 
 #. FILE: DA3\Combat\Stats\Stat_DamageMultiplier.xml
 #. PATH: BWModifiableStat/StatName
@@ -787,14 +790,14 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Damage_Bonus_Barrier.xml:5
 msgctxt "0x0001804a"
 msgid "Barrier Damage Bonus"
-msgstr ""
+msgstr "방어막 추가 피해"
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Bonus_Barrier.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\Stat_Damage_Bonus_Barrier.xml:10
 msgctxt "0x00032ac9"
 msgid "Increases the damage against enemies that are under the effect of Barrier."
-msgstr ""
+msgstr "방어막의 영향을 받는 적에게 가하는 피해량이 증가합니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Bonus_Beasts.xml
 #. PATH: BWModifiableStat/StatName
@@ -815,14 +818,14 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Damage_Bonus_Critical.xml:5
 msgctxt "0x0001330a"
 msgid "Critical Damage Bonus"
-msgstr ""
+msgstr "치명타 추가 피해"
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Bonus_Critical.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\Stat_Damage_Bonus_Critical.xml:10
 msgctxt "0x00032aca"
 msgid "Increases the extra damage inflicted with a critical hit."
-msgstr ""
+msgstr "치명타를 가할 때 입히는 추가 피해량이 증가합니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Bonus_Darkspawn.xml
 #. PATH: BWModifiableStat/StatName
@@ -871,7 +874,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Damage_Bonus_Flanking.xml:10
 msgctxt "0x000342ab"
 msgid "The damage bonus, as a percentage, when attacking a target from the side or behind."
-msgstr ""
+msgstr "대상을 옆이나 뒤에서 타격했을 때 가하는 추가 피해량입니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Bonus_Giants.xml
 #. PATH: BWModifiableStat/StatName
@@ -885,14 +888,14 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Damage_Bonus_Guard.xml:5
 msgctxt "0x00018049"
 msgid "Guard Damage Bonus"
-msgstr ""
+msgstr "방어도 추가 피해"
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Bonus_Guard.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\Stat_Damage_Bonus_Guard.xml:10
 msgctxt "0x00032ac7"
 msgid "Increases the damage against enemies under the effect of Guard."
-msgstr ""
+msgstr "방어도의 영향을 받는 적에게 추가적인 피해를 가합니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Bonus_Humanoids.xml
 #. PATH: BWModifiableStat/StatName
@@ -955,14 +958,14 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Damage_Left.xml:5
 msgctxt "0x000132fd"
 msgid "Off-Hand Damage"
-msgstr ""
+msgstr "보조무기 피해량"
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Left.xml
 #. PATH: BWStat/StatDescription
 #: DA3\Combat\Stats\Stat_Damage_Left.xml:10
 msgctxt "0x00032acd"
 msgid "How much damage is inflicted by the rogue's offhand weapon."
-msgstr ""
+msgstr "도적의 보조 무기로 타격 시 입히는 피해량입니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Left_Rune.xml
 #. PATH: BWStat/StatName
@@ -976,105 +979,105 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Damage_Resistance_All.xml:5
 msgctxt "0x00013282"
 msgid "Damage Resistance (All)"
-msgstr ""
+msgstr "(모든)피해 저항"
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Resistance_Barrier.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_Damage_Resistance_Barrier.xml:5
 msgctxt "0x0001bda4"
 msgid "Barrier Damage Resistance"
-msgstr ""
+msgstr "방어막 피해 저항"
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Resistance_Cold.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_Damage_Resistance_Cold.xml:5
 msgctxt "0x0001327a"
 msgid "Cold Resistance"
-msgstr ""
+msgstr "냉기 저항"
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Resistance_Cold.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\Stat_Damage_Resistance_Cold.xml:10
 msgctxt "0x00032ad5"
 msgid "The percentage of damage resistance to cold damage attacks."
-msgstr ""
+msgstr "냉기 피해에 저항하는 비율입니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Resistance_Electricity.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_Damage_Resistance_Electricity.xml:5
 msgctxt "0x00013283"
 msgid "Electrical Resistance"
-msgstr ""
+msgstr "전격 저항"
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Resistance_Electricity.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\Stat_Damage_Resistance_Electricity.xml:10
 msgctxt "0x00032ad6"
 msgid "The percentage of damage resistance to electric damage attacks."
-msgstr ""
+msgstr "전격 피해에 저항하는 비율입니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Resistance_Fire.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_Damage_Resistance_Fire.xml:5
 msgctxt "0x00013273"
 msgid "Fire Resistance"
-msgstr ""
+msgstr "화염 저항"
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Resistance_Fire.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\Stat_Damage_Resistance_Fire.xml:10
 msgctxt "0x00032ad7"
 msgid "The percentage of damage resistance to fire damage attacks."
-msgstr ""
+msgstr "화염 피해에 저항하는 비율입니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Resistance_Guard.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_Damage_Resistance_Guard.xml:5
 msgctxt "0x0001bda5"
 msgid "Guard Damage Resistance"
-msgstr ""
+msgstr "방어도 피해 저항"
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Resistance_Nature.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_Damage_Resistance_Nature.xml:5
 msgctxt "0x00013278"
 msgid "Nature Resistance"
-msgstr ""
+msgstr "자연 저항"
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Resistance_Physical.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_Damage_Resistance_Physical.xml:5
 msgctxt "0x00013274"
 msgid "Physical Resistance"
-msgstr ""
+msgstr "물리 저항"
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Resistance_Spirit.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_Damage_Resistance_Spirit.xml:5
 msgctxt "0x00013276"
 msgid "Spirit Resistance"
-msgstr ""
+msgstr "영혼 저항"
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Resistance_Spirit.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\Stat_Damage_Resistance_Spirit.xml:10
 msgctxt "0x00032ad8"
 msgid "The percentage of damage resistance to spirit damage attacks."
-msgstr ""
+msgstr "영혼 피해에 저항하는 비율입니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Right.xml
 #. PATH: BWStat/StatName
 #: DA3\Combat\Stats\Stat_Damage_Right.xml:5
 msgctxt "0x000132fc"
 msgid "Main-Hand Damage"
-msgstr ""
+msgstr "주무기 피해량"
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Right.xml
 #. PATH: BWStat/StatDescription
 #: DA3\Combat\Stats\Stat_Damage_Right.xml:10
 msgctxt "0x00032acc"
 msgid "How much damage the weapon in the character's main hand inflicts on each hit."
-msgstr ""
+msgstr "캐릭터의 주 무기로 타격 시 입히는 피해량입니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Damage_Right_Rune.xml
 #. PATH: BWStat/StatName
@@ -1109,42 +1112,42 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Defense_Magic.xml:5
 msgctxt "0x00018168"
 msgid "Magic Defense"
-msgstr ""
+msgstr "마법 방어"
 
 #. FILE: DA3\Combat\Stats\Stat_Defense_Magic.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\Stat_Defense_Magic.xml:10
 msgctxt "0x00032ad2"
 msgid "The percentage of damage resistance to all magical or elemental attacks."
-msgstr ""
+msgstr "모든 마법 혹은 속성 피해에 저항하는 비율입니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Defense_Melee.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_Defense_Melee.xml:5
 msgctxt "0x0001816a"
 msgid "Melee Defense"
-msgstr ""
+msgstr "물리 방어"
 
 #. FILE: DA3\Combat\Stats\Stat_Defense_Melee.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\Stat_Defense_Melee.xml:10
 msgctxt "0x00032ad3"
 msgid "The percentage of damage resistance to all melee physical attacks."
-msgstr ""
+msgstr "모든 근접 물리 피해에 저항하는 비율입니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Defense_Ranged.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_Defense_Ranged.xml:5
 msgctxt "0x00018169"
 msgid "Ranged Defense"
-msgstr ""
+msgstr "원거리 방어"
 
 #. FILE: DA3\Combat\Stats\Stat_Defense_Ranged.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\Stat_Defense_Ranged.xml:10
 msgctxt "0x00032ad4"
 msgid "The percentage of damage resistance to all ranged physical attacks."
-msgstr ""
+msgstr "모든 원거리 물리 피해에 저항하는 비율입니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Dexterity.xml
 #. PATH: BWModifiableStat/StatName
@@ -1158,7 +1161,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Dexterity.xml:10
 msgctxt "0x0003242f"
 msgid "The character's agility, reflexes, and coordination. Each point increases Attack (rogues only) and Critical Damage Bonus."
-msgstr ""
+msgstr "해당 캐릭터의 민첩합, 날렵함, 그리고 능수능란함입니다. 매 포인트가 공격력과(도적만) 치명타 피해량을 증가시킵니다."
 
 #. FILE: DA3\Combat\Stats\Stat_DisableCSM.xml
 #. PATH: BWStat/StatName
@@ -1193,7 +1196,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Experience.xml:10
 msgctxt "0x00032ae5"
 msgid "The character's current experience points."
-msgstr ""
+msgstr "해당 캐릭터의 현재 경험치입니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Experience_Bonus.xml
 #. PATH: BWModifiableStat/StatName
@@ -1249,7 +1252,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Guard.xml:10
 msgctxt "0x00032adb"
 msgid "Enemies must first damage the character's Guard, if any, before they can damage Health."
-msgstr ""
+msgstr "적은 해당 캐릭터의 방어도가 남아있다면 체력에 피해를 입힐 수 없습니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Guard_2.xml
 #. PATH: BWDepletableStat/StatName
@@ -1298,28 +1301,28 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Health.xml:5
 msgctxt "0x00013271"
 msgid "Health"
-msgstr ""
+msgstr "체력"
 
 #. FILE: DA3\Combat\Stats\Stat_Health.xml
 #. PATH: BWDepletableStat/StatDescription
 #: DA3\Combat\Stats\Stat_Health.xml:10
 msgctxt "0x00032add"
 msgid "A character whose Health drops to 0 falls unconscious and is unable to attack."
-msgstr ""
+msgstr "캐릭터의 체력이 0으로 떨어지면 전투불능이 되며 공격할 수 없습니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Health_Max.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_Health_Max.xml:5
 msgctxt "0x00013285"
 msgid "Maximum Health"
-msgstr ""
+msgstr "최대 체력"
 
 #. FILE: DA3\Combat\Stats\Stat_Health_Max.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\Stat_Health_Max.xml:10
 msgctxt "0x00032ade"
 msgid "The maximum amount of Health this character can be healed up to."
-msgstr ""
+msgstr "해당 캐릭터가 회복할 수 있는 체력의 최대치입니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Health_Override.xml
 #. PATH: BWModifiableStat/StatName
@@ -1361,7 +1364,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Level.xml:10
 msgctxt "0x00032ae6"
 msgid "The character's current combat level."
-msgstr ""
+msgstr "해당 캐릭터의 현재 전투 레벨입니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Level_Max.xml
 #. PATH: BWStat/StatName
@@ -1396,7 +1399,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Magic.xml:10
 msgctxt "0x0003242c"
 msgid "The character's connection to the Fade and ability to manipulate it. Each point increases Attack (mages only) and Barrier Damage Bonus."
-msgstr ""
+msgstr "해당 캐릭터의 영계와의 결속과 이를 다루는 능력입니다. 매 포인트가 공격력과(마법사만) 방어막 피해량을 증가시킵니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Mana_Max.xml
 #. PATH: BWModifiableStat/StatName
@@ -1452,42 +1455,42 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_OnBeingHit_BleedChance.xml:5
 msgctxt "0x00018209"
 msgid "Bleed on Being Hit"
-msgstr ""
+msgstr "피격 시 출혈"
 
 #. FILE: DA3\Combat\Stats\Stat_OnBeingHit_BleedChance.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\Stat_OnBeingHit_BleedChance.xml:10
 msgctxt "0x00032adf"
 msgid "The chance per enemy attack on the character that the attack inflicts a bleed effect on the enemy. The effect lasts a few seconds."
-msgstr ""
+msgstr "해당 캐릭터에게 가해지는 적의 공격이 적에게 출혈 효과를 부여할 확률입니다. 해당 효과는 수 초간 지속됩니다."
 
 #. FILE: DA3\Combat\Stats\Stat_OnBeingHit_StunChance.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_OnBeingHit_StunChance.xml:5
 msgctxt "0x00018207"
 msgid "Stagger on Being Hit"
-msgstr "적중 시 경직"
+msgstr "피격 시 경직"
 
 #. FILE: DA3\Combat\Stats\Stat_OnBeingHit_StunChance.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\Stat_OnBeingHit_StunChance.xml:10
 msgctxt "0x00032ae0"
 msgid "The chance per enemy attack on the character that the attack stuns the enemy. The effect lasts a few seconds."
-msgstr ""
+msgstr "해당 캐릭터에게 가해지는 적의 공격이 적을 기절시킬 확률입니다. 해당 효과는 수 초간 지속됩니다."
 
 #. FILE: DA3\Combat\Stats\Stat_OnHit_BleedChance.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_OnHit_BleedChance.xml:5
 msgctxt "0x00018208"
 msgid "Bleed on Hit"
-msgstr ""
+msgstr "적중 시 출혈"
 
 #. FILE: DA3\Combat\Stats\Stat_OnHit_BleedChance.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\Stat_OnHit_BleedChance.xml:10
 msgctxt "0x00032ace"
 msgid "The chance per hit to inflict a bleed effect on the target. The effect lasts a few seconds."
-msgstr ""
+msgstr "대상을 타격할 시 출혈 효과를 부여할 확률입니다. 해당 효과는 수 초간 지속됩니다."
 
 #. FILE: DA3\Combat\Stats\Stat_OnHit_StunChance.xml
 #. PATH: BWModifiableStat/StatName
@@ -1501,7 +1504,7 @@ msgstr "적중 시 경직"
 #: DA3\Combat\Stats\Stat_OnHit_StunChance.xml:10
 msgctxt "0x00032acf"
 msgid "The chance per hit to stun the target. The effect lasts a few seconds."
-msgstr ""
+msgstr "대상을 타격할 시 기절시킬 확률입니다. 해당 효과는 수 초간 지속됩니다."
 
 #. FILE: DA3\Combat\Stats\Stat_OnKill_Heal.xml
 #. PATH: BWModifiableStat/StatName
@@ -1515,7 +1518,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_OnKill_Heal.xml:10
 msgctxt "0x00032ad1"
 msgid "Amount of damage to be healed by each killing blow."
-msgstr ""
+msgstr "마지막 타격을 가했을 때 회복하는 수치입니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Panic_Duration_Modifier.xml
 #. PATH: BWModifiableStat/StatName
@@ -1550,7 +1553,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Points_Ability.xml:5
 msgctxt "0x00013295"
 msgid "Ability Points"
-msgstr ""
+msgstr "기술 포인트"
 
 #. FILE: DA3\Combat\Stats\Stat_Points_Ability_Bonus.xml
 #. PATH: BWStat/StatName
@@ -1746,7 +1749,7 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Strength.xml:10
 msgctxt "0x0003242b"
 msgid "The character's physical strength and ability. Each point increases Attack (warriors only) and Guard Damage Bonus."
-msgstr ""
+msgstr "해당 캐릭터의 물리적인 완력과 능력입니다. 매 포인트가 공격력과(전사만) 방어도 피해량을 증가시킵니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Stun_Duration_Modifier.xml
 #. PATH: BWModifiableStat/StatName
@@ -1921,21 +1924,21 @@ msgstr ""
 #: DA3\Combat\Stats\Stat_Willpower.xml:10
 msgctxt "0x0003242e"
 msgid "The character's strength of mind and personality. Each point increases Attack (all classes) and Magic Defense."
-msgstr ""
+msgstr "해당 캐릭터의 정신과 인격의 강인함입니다. 매 포인트가 공격력과(모든 직업에서) 마법 방어력을 증가시킵니다."
 
 #. FILE: DA3\Combat\Stats\stat_Cooldown_Modifier.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\stat_Cooldown_Modifier.xml:5
 msgctxt "0x000343d2"
 msgid "Cooldown Modifier"
-msgstr ""
+msgstr "재사용 대기 시간 보정"
 
 #. FILE: DA3\Combat\Stats\stat_Cooldown_Modifier.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\stat_Cooldown_Modifier.xml:10
 msgctxt "0x000343d3"
 msgid "Reduces the cooldown on all of the character's abilities."
-msgstr ""
+msgstr "해당 캐릭터의 모든 기술의 재사용 대기 시간을 감소시킵니다."
 
 #. FILE: DA3\Combat\StatusEffects\combat_immunity_all_statuseffect.xml
 #. PATH: StatusEffect/Description
@@ -2117,28 +2120,28 @@ msgstr ""
 #: DA3\Combat\StatusEffects\combat_resistance_electricity_buff_statuseffect.xml:11
 msgctxt "0x000408a3"
 msgid "Electricity Resistance"
-msgstr ""
+msgstr "전격 저항"
 
 #. FILE: DA3\Combat\StatusEffects\combat_resistance_fire_buff_statuseffect.xml
 #. PATH: StatusEffect/Description
 #: DA3\Combat\StatusEffects\combat_resistance_fire_buff_statuseffect.xml:11
 msgctxt "0x000408a4"
 msgid "Fire Resistance"
-msgstr ""
+msgstr "화염 저항"
 
 #. FILE: DA3\Combat\StatusEffects\combat_resistance_nature_statuseffect.xml
 #. PATH: StatusEffect/Description
 #: DA3\Combat\StatusEffects\combat_resistance_nature_statuseffect.xml:11
 msgctxt "0x000408a5"
 msgid "Nature Resistance"
-msgstr ""
+msgstr "자연 저항"
 
 #. FILE: DA3\Combat\StatusEffects\combat_resistance_spirit_buff_statuseffect.xml
 #. PATH: StatusEffect/Description
 #: DA3\Combat\StatusEffects\combat_resistance_spirit_buff_statuseffect.xml:11
 msgctxt "0x000408a6"
 msgid "Spirit Resistance"
-msgstr ""
+msgstr "영혼 저항"
 
 #. FILE: DA3\Combat\StatusEffects\combat_weakness_cold_buff_statuseffect.xml
 #. PATH: StatusEffect/Description
@@ -2299,7 +2302,7 @@ msgstr ""
 #: DA3\Configurations\Online\MPServerMappingConfiguration.xml:1278
 msgctxt "0x000429a2"
 msgid "Tevinter Invader"
-msgstr ""
+msgstr "테빈터 침입자"
 
 #. FILE: DA3\Configurations\Online\MPServerMappingConfiguration.xml
 #. PATH: MPServerMappingChallengeRewardText[7]/RewardText
@@ -2614,7 +2617,7 @@ msgstr ""
 #: DA3\Configurations\Online\MPServerMappingConfiguration.xml:5413
 msgctxt "0x000429d7"
 msgid "Deep Road Veteran"
-msgstr ""
+msgstr "지하 가도 퇴역군인"
 
 #. FILE: DA3\Configurations\Online\MPServerMappingConfiguration.xml
 #. PATH: MPServerMappingChallengeRewardText[56]/RewardText
@@ -4434,7 +4437,7 @@ msgstr ""
 #: DA3\Creatures\Boss\creature_boss_highdragon_morrigan.xml:4842
 msgctxt "0x000188a0"
 msgid "Morrigan"
-msgstr ""
+msgstr "모리건"
 
 #. FILE: DA3\Creatures\Boss\creature_boss_highdragon_westernapproach.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -4455,7 +4458,7 @@ msgstr ""
 #: DA3\Creatures\Boss\creature_boss_samson.xml:5472
 msgctxt "0x000188a3"
 msgid "Samson"
-msgstr ""
+msgstr "샘슨"
 
 #. FILE: DA3\Creatures\Faction\Biotic\Human\creature_apostate_footsoldier.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -5050,7 +5053,7 @@ msgstr ""
 #: DA3\Creatures\Faction\Demonic\Undead\creature_undead_arcanehorror.xml:3920
 msgctxt "0x00018922"
 msgid "Arcane Horror"
-msgstr ""
+msgstr "비전 공포귀"
 
 #. FILE: DA3\Creatures\Faction\Demonic\Undead\creature_undead_archer_t0.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -5127,14 +5130,14 @@ msgstr ""
 #: DA3\Creatures\Multiplayer\Wilderness\creature_mp_golden_nug.xml:4950
 msgctxt "0x000326d7"
 msgid "Golden Nug"
-msgstr ""
+msgstr "황금 너그"
 
 #. FILE: DA3\Creatures\Multiplayer\Wilderness\creature_mp_golden_nug_fighter.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 #: DA3\Creatures\Multiplayer\Wilderness\creature_mp_golden_nug_fighter.xml:4956
 msgctxt "0x00018932"
 msgid "Nug"
-msgstr ""
+msgstr "너그"
 
 #. FILE: DA3\Creatures\Multiplayer\Wilderness\creature_mp_spider.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -5428,7 +5431,7 @@ msgstr "개틀록"
 #: DA3\DesignContent\CreatureInstances\Adamant\creature_ada_alistair_warden.xml:5464
 msgctxt "0x0001864f"
 msgid "Alistair"
-msgstr ""
+msgstr "알리스터"
 
 #. FILE: DA3\DesignContent\CreatureInstances\Adamant\creature_ada_erimond.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -5449,14 +5452,14 @@ msgstr ""
 #: DA3\DesignContent\CreatureInstances\Adamant\creature_ada_loghain_warden.xml:4132
 msgctxt "0x00018650"
 msgid "Loghain"
-msgstr ""
+msgstr "로게인"
 
 #. FILE: DA3\DesignContent\CreatureInstances\Adamant\creature_ada_stroud_warden.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 #: DA3\DesignContent\CreatureInstances\Adamant\creature_ada_stroud_warden.xml:4917
 msgctxt "0x00018651"
 msgid "Stroud"
-msgstr ""
+msgstr "스트라우드"
 
 #. FILE: DA3\DesignContent\CreatureInstances\Adamant\npc_t_ada_warden_commander_clarel.xml
 #. PATH: CreatureEntitySpawnData/CharacterNameReference
@@ -5470,7 +5473,7 @@ msgstr ""
 #: DA3\DesignContent\CreatureInstances\Adamant\npc_t_hmf_ada_divine_fade.xml:401
 msgctxt "0x00018784"
 msgid "The Divine"
-msgstr ""
+msgstr "교황"
 
 #. FILE: DA3\DesignContent\CreatureInstances\Ferelden\fer_Wilderness_010\creature_ferelden_guardsman.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -5897,7 +5900,7 @@ msgstr ""
 #: DA3\DesignContent\CreatureProfiles\Haven\in1_apothecary.xml:24
 msgctxt "0x00039974"
 msgid "Adan"
-msgstr ""
+msgstr "에이단"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\Haven\in1_bartender.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -5911,14 +5914,14 @@ msgstr ""
 #: DA3\DesignContent\CreatureProfiles\Haven\in1_blacksmith.xml:24
 msgctxt "0x00039977"
 msgid "Harritt"
-msgstr ""
+msgstr "해릿"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\Haven\in1_merchant.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 #: DA3\DesignContent\CreatureProfiles\Haven\in1_merchant.xml:24
 msgctxt "0x00039975"
 msgid "Seggrit"
-msgstr ""
+msgstr "세그릿"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\Haven\in1_quartermaster.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -6107,7 +6110,7 @@ msgstr ""
 #: DA3\DesignContent\CreatureProfiles\SeekerFortress\see_lord_seeker_CreatureProfile.xml:24
 msgctxt "0x000355bf"
 msgid "Lord Seeker Lucius"
-msgstr ""
+msgstr "탐구자 지휘관 루시우스"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\SeekerFortress\see_noble_abernache_CreatureProfile.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -6282,21 +6285,21 @@ msgstr ""
 #: DA3\DesignContent\CreatureProfiles\Skyhold\sky_trainer_champion.xml:24
 msgctxt "0x00042f37"
 msgid "Lord Chancer de Lion"
-msgstr ""
+msgstr "챈서 드 리옹 경"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\Skyhold\sky_trainer_knightenchanter.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 #: DA3\DesignContent\CreatureProfiles\Skyhold\sky_trainer_knightenchanter.xml:24
 msgctxt "0x00042dc6"
 msgid "Commander Helaine"
-msgstr ""
+msgstr "헬레인 사령관"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\Skyhold\sky_trainer_necromancer.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 #: DA3\DesignContent\CreatureProfiles\Skyhold\sky_trainer_necromancer.xml:24
 msgctxt "0x00042dba"
 msgid "Viuus Anaxas"
-msgstr ""
+msgstr "비우스 아낙사스"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\Skyhold\sky_trainer_reaver.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -6478,7 +6481,7 @@ msgstr ""
 #: DA3\DesignContent\CreatureProfiles\TheDales\dal_hld_louis_creatureprofile.xml:24
 msgctxt "0x000373b8"
 msgid "Louis"
-msgstr ""
+msgstr "루이"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\TheDales\dal_hld_mae_creatureprofile.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -6492,7 +6495,7 @@ msgstr ""
 #: DA3\DesignContent\CreatureProfiles\TheDales\dal_hld_poulin_creatureprofile.xml:24
 msgctxt "0x0003babb"
 msgid "Mistress Poulin"
-msgstr ""
+msgstr "폴린 여주인"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\TheDales\dal_hld_ser_michel_creatureprofile.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -6611,7 +6614,7 @@ msgstr ""
 #: DA3\DesignContent\CreatureProfiles\TheDales\dgn_s_290\venatori_maliphant_12-15_villa_creatureprofile.xml:24
 msgctxt "0x000328fd"
 msgid "Maliphant"
-msgstr ""
+msgstr "말리펀트"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\TheDales\dragon1_DalesHighlands_creatureprofile.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -6828,7 +6831,7 @@ msgstr ""
 #: DA3\DesignContent\CreatureProfiles\ValRoyeaux\val_turnin_scholar.xml:24
 msgctxt "0x00043041"
 msgid "Sister Andrea"
-msgstr ""
+msgstr "안드레아 수녀"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\ValRoyeaux\val_viv_messenger.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -6842,7 +6845,7 @@ msgstr ""
 #: DA3\DesignContent\CreatureProfiles\WesternApproach\dgn_l_110\venatori_Lucanus_14_creatureprofile.xml:24
 msgctxt "0x00037f2a"
 msgid "Lucanus"
-msgstr ""
+msgstr "루캐너스"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\WesternApproach\wes_dragon_hunter1.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -6878,7 +6881,7 @@ msgstr ""
 #: DA3\DesignContent\CreatureProfiles\WesternApproach\wes_tevinter_servis.xml:24
 msgctxt "0x00038705"
 msgid "Servis"
-msgstr ""
+msgstr "세르비스"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\WesternApproach\wes_wild_main_keep_merchant.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -7066,7 +7069,7 @@ msgstr ""
 #: DA3\DesignContent\Items\Dales\DalishTomb\dal_tomb_elven_amulet.xml:6
 msgctxt "0x00029707"
 msgid "Emerald Seal"
-msgstr ""
+msgstr "에메랄드 인장"
 
 #. FILE: DA3\DesignContent\Items\Dales\DalishTomb\dal_tomb_elven_amulet.xml
 #. PATH: StackedItemAsset/Description
@@ -7451,7 +7454,7 @@ msgstr ""
 #: DA3\DesignContent\Items\Followers\Varric\var_personal_quest_key.xml:6
 msgctxt "0x0003f943"
 msgid "Deep Roads Key"
-msgstr ""
+msgstr "지하 가도 열쇠"
 
 #. FILE: DA3\DesignContent\Items\Followers\Varric\var_personal_quest_key.xml
 #. PATH: StackedItemAsset/Description
@@ -7968,826 +7971,826 @@ msgstr ""
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_chantry_1.xml:6
 msgctxt "0x00042bba"
 msgid "Chantry Drapery"
-msgstr ""
+msgstr "챈트리 휘장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_chantry_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_chantry_1.xml:11
 msgctxt "0x00042bbb"
 msgid "Drapes bearing the holy emblems of the Andrastian Chantry."
-msgstr ""
+msgstr "안드라스테 챈트리의 신성한 상징을 새긴 휘장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_chasind_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_chasind_1.xml:6
 msgctxt "0x00043898"
 msgid "Chasind Drapery"
-msgstr ""
+msgstr "체이신드 휘장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_chasind_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_chasind_1.xml:11
 msgctxt "0x0004389e"
 msgid "Simple drapes in a style meant to evoke early Chasind tribes."
-msgstr ""
+msgstr "초기 체이신드 부족 느낌을 주는 단순한 휘장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_circle_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_circle_1.xml:6
 msgctxt "0x00042bbc"
 msgid "Mage Circle Drapery"
-msgstr ""
+msgstr "마법사 협회 휘장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_circle_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_circle_1.xml:11
 msgctxt "0x00042bbd"
 msgid "Drapes decorated with the symbols of the Circle of Magi."
-msgstr ""
+msgstr "마법사 협회의 상징으로 장식된 휘장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_dalish_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_dalish_1.xml:6
 msgctxt "0x00042bbe"
 msgid "Dalish Drapery"
-msgstr ""
+msgstr "데일스 휘장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_dalish_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_dalish_1.xml:11
 msgctxt "0x00042bbf"
 msgid "Drapes marked with common Dalish motifs."
-msgstr ""
+msgstr "데일스 엘프들이 흔히 쓰는 문양으로 장식된 휘장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_dwarven_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_dwarven_1.xml:6
 msgctxt "0x00042bc0"
 msgid "Dwarven Drapery"
-msgstr ""
+msgstr "드워프 휘장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_dwarven_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_dwarven_1.xml:11
 msgctxt "0x00042bc1"
 msgid "Drapes featuring distinctive dwarven elements."
-msgstr ""
+msgstr "드워프들만의 독특한 요소가 들어간 휘장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_elven_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_elven_1.xml:6
 msgctxt "0x00042bc2"
 msgid "Elven Drapery"
-msgstr ""
+msgstr "엘프 휘장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_elven_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_elven_1.xml:11
 msgctxt "0x00042bc3"
 msgid "Drapes featuring distinctive elven elements."
-msgstr ""
+msgstr "엘프들만의 독특한 요소가 들어간 휘장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_ferelden_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_ferelden_1.xml:6
 msgctxt "0x00042bc4"
 msgid "Fereldan Drapery"
-msgstr ""
+msgstr "페렐던 휘장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_ferelden_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_ferelden_1.xml:11
 msgctxt "0x00042bc5"
 msgid "Drapes bearing distinctive Fereldan elements."
-msgstr ""
+msgstr "페렐던의 장식요소가 들어간 휘장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_freemarches_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_freemarches_1.xml:6
 msgctxt "0x00042bc6"
 msgid "Free Marcher Drapery"
-msgstr ""
+msgstr "자유 동맹 휘장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_freemarches_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_freemarches_1.xml:11
 msgctxt "0x00042bc7"
 msgid "Drapes decorated with heraldry of the Free Marcher states."
-msgstr ""
+msgstr "자유 동맹 도시국가들의 문장으로 장식된 휘장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_greywarden_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_greywarden_1.xml:6
 msgctxt "0x00042bc8"
 msgid "Grey Warden Drapery"
-msgstr ""
+msgstr "회색 감시자 휘장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_greywarden_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_greywarden_1.xml:11
 msgctxt "0x00042bc9"
 msgid "Drapes embroidered with Grey Warden insignias."
-msgstr ""
+msgstr "회색 감시자들의 상징으로 장식된 휘장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_inquisition_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_inquisition_1.xml:6
 msgctxt "0x00042bca"
 msgid "Inquisition Drapery"
-msgstr ""
+msgstr "심문회 휘장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_inquisition_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_inquisition_1.xml:11
 msgctxt "0x00042bcb"
 msgid "Drapes made specially for the new Inquisition."
-msgstr ""
+msgstr "새로운 심문회를 위해 특별히 만들어진 휘장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_orlesian_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_orlesian_1.xml:6
 msgctxt "0x00042bcc"
 msgid "Orlesian Drapery"
-msgstr ""
+msgstr "올레이 휘장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_orlesian_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_orlesian_1.xml:11
 msgctxt "0x00042bcd"
 msgid "The finest drapes, woven with traditional Orlesian designs."
-msgstr ""
+msgstr "올레이 전통 디자인으로 수놓아진 아름다운 휘장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_qunari_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_qunari_1.xml:6
 msgctxt "0x00043897"
 msgid "Qunari Drapery"
-msgstr ""
+msgstr "쿠나리 휘장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_qunari_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_qunari_1.xml:11
 msgctxt "0x00043899"
 msgid "Drapes designed with distinctive Qunari elements."
-msgstr ""
+msgstr "쿠나리의 독특한 장식요소를 담은 휘장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_templar_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_templar_1.xml:6
 msgctxt "0x00042bce"
 msgid "Templar Drapery"
-msgstr ""
+msgstr "성기사단 휘장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_templar_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_templar_1.xml:11
 msgctxt "0x00042bcf"
 msgid "Drapes bearing the symbols of the Templar Order."
-msgstr ""
+msgstr "성기사단의 상징이 달린 휘장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_tevinter_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_tevinter_1.xml:6
 msgctxt "0x00042bd0"
 msgid "Tevinter Drapery"
-msgstr ""
+msgstr "테빈터 휘장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_tevinter_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Drapes\sky_drapes_tevinter_1.xml:11
 msgctxt "0x00042bd1"
 msgid "Drapery from the Tevinter Imperium, emblazoned with striking Tevinter symbols."
-msgstr ""
+msgstr "화려한 테빈터 상징으로 꾸며진, 테빈터산 휘장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_dwarven_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_dwarven_1.xml:6
 msgctxt "0x00042bdd"
 msgid "Dwarven Bed"
-msgstr ""
+msgstr "드워프 침대"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_dwarven_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_dwarven_1.xml:11
 msgctxt "0x00042bde"
 msgid "A bed, dwarven in style."
-msgstr ""
+msgstr "드워프 스타일의 침대."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_freemarches_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_freemarches_1.xml:6
 msgctxt "0x00042bdf"
 msgid "Free Marches I"
-msgstr ""
+msgstr "자유 동맹 침대 I"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_freemarches_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_freemarches_1.xml:11
 msgctxt "0x00042be0"
 msgid "A bed featuring decorations from the Free Marches."
-msgstr ""
+msgstr "자유 동맹 양식으로 장식된 침대."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_freemarches_2.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_freemarches_2.xml:6
 msgctxt "0x00042be1"
 msgid "Free Marches Bed II"
-msgstr ""
+msgstr "자유 동맹 침대 II"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_freemarches_2.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_freemarches_2.xml:11
 msgctxt "0x00042be2"
 msgid "A bed featuring decorations from the Free Marches."
-msgstr ""
+msgstr "자유 동맹 양식으로 장식된 침대."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_orlesian_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_orlesian_1.xml:6
 msgctxt "0x00042be3"
 msgid "Orlesian Bed I"
-msgstr ""
+msgstr "올레이 침대 I"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_orlesian_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_orlesian_1.xml:11
 msgctxt "0x00042be4"
 msgid "A bed, adorned in Orlesian style."
-msgstr ""
+msgstr "올레이 양식으로 장식된 침대."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_orlesian_2.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_orlesian_2.xml:6
 msgctxt "0x00042be5"
 msgid "Orlesian Bed II"
-msgstr ""
+msgstr "올레이 침대 II"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_orlesian_2.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_orlesian_2.xml:11
 msgctxt "0x00042be6"
 msgid "A bed, adorned in Orlesian style."
-msgstr ""
+msgstr "올레이 양식으로 장식된 침대."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_orlesian_3.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_orlesian_3.xml:6
 msgctxt "0x00042be8"
 msgid "Orlesian Bed III"
-msgstr ""
+msgstr "올레이 침대 III"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_orlesian_3.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Dwarven\sky_bed_orlesian_3.xml:11
 msgctxt "0x00042be9"
 msgid "A bed, adorned in Orlesian style."
-msgstr ""
+msgstr "올레이 양식으로 장식된 침대."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_chantry.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_chantry.xml:6
 msgctxt "0x00042bee"
 msgid "Andrastian Chantry Heraldry"
-msgstr ""
+msgstr "안드라스테 챈트리 문장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_chantry.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_chantry.xml:11
 msgctxt "0x00042bef"
 msgid "Heraldry of the Andrastian Chantry."
-msgstr ""
+msgstr "안드라스테 챈트리의 문장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_circle.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_circle.xml:6
 msgctxt "0x00042bf0"
 msgid "Circle of Magi Heraldry"
-msgstr ""
+msgstr "마법사 협회 문장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_circle.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_circle.xml:11
 msgctxt "0x00042bf1"
 msgid "Heraldry of the Circle of Magi."
-msgstr ""
+msgstr "마법사 협회의 문장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_dalish.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_dalish.xml:6
 msgctxt "0x00042bf2"
 msgid "Dalish Heraldry"
-msgstr ""
+msgstr "데일스 문장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_dalish.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_dalish.xml:11
 msgctxt "0x00042bf3"
 msgid "Heraldry of the Dalish elves."
-msgstr ""
+msgstr "데일스 엘프의 문장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_dwarven.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_dwarven.xml:6
 msgctxt "0x00042bf4"
 msgid "Dwarven Heraldry"
-msgstr ""
+msgstr "드워프 문장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_dwarven.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_dwarven.xml:11
 msgctxt "0x00042bf5"
 msgid "Traditional heraldry of the dwarves of Orzammar."
-msgstr ""
+msgstr "오잠마 드워프들의 전통 문장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_ferelden.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_ferelden.xml:6
 msgctxt "0x00042bf6"
 msgid "Fereldan Heraldry"
-msgstr ""
+msgstr "페렐던 문장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_ferelden.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_ferelden.xml:11
 msgctxt "0x00042bf7"
 msgid "Heraldry from Ferelden, a nation in southern Thedas."
-msgstr ""
+msgstr "남부 테다스에 위치한 국가, 페렐던의 문장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_freemarches.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_freemarches.xml:6
 msgctxt "0x00042bf8"
 msgid "Free Marches Heraldry"
-msgstr ""
+msgstr "자유 동맹 문장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_freemarches.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_freemarches.xml:11
 msgctxt "0x00042bf9"
 msgid "Heraldry from Kirkwall, a prominent city-state of the Free Marches."
-msgstr ""
+msgstr "자유 동맹의 도시국가인 커크월의 문장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_greywarden.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_greywarden.xml:6
 msgctxt "0x00042bfa"
 msgid "Grey Warden Heraldry"
-msgstr ""
+msgstr "회색 감시자 문장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_greywarden.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_greywarden.xml:11
 msgctxt "0x00042bfb"
 msgid "Heraldry of the Grey Wardens."
-msgstr ""
+msgstr "회색 감시자들의 문장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_inquisition.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_inquisition.xml:6
 msgctxt "0x00042bff"
 msgid "Inquisition Heraldry"
-msgstr ""
+msgstr "심문회 문장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_inquisition.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_inquisition.xml:11
 msgctxt "0x00042c01"
 msgid "Heraldry of the new Inquisition."
-msgstr ""
+msgstr "새로운 심문회의 문장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_orlesian.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_orlesian.xml:6
 msgctxt "0x00042c02"
 msgid "Orlesian Heraldry"
-msgstr ""
+msgstr "올레이 문장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_orlesian.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_orlesian.xml:11
 msgctxt "0x00042c03"
 msgid "The elaborate heraldry of the most powerful empire in Thedas, Orlais."
-msgstr ""
+msgstr "테다스에서 가장 강력한 국가, 올레이의 정교한 문장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_templar.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_templar.xml:6
 msgctxt "0x00042c06"
 msgid "Templar Order Heraldry"
-msgstr ""
+msgstr "성기사단 문장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_templar.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_templar.xml:11
 msgctxt "0x00042c07"
 msgid "Heraldry of the Templar Order."
-msgstr ""
+msgstr "성기사단의 문장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_tevinter.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_tevinter.xml:6
 msgctxt "0x00042c08"
 msgid "Tevinter Heraldry"
-msgstr ""
+msgstr "테빈터 문장"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_tevinter.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Heraldry\sky_heraldry_tevinter.xml:11
 msgctxt "0x00042c09"
 msgid "Heraldry of the Tevinter Imperium."
-msgstr ""
+msgstr "테빈터 제국의 문장."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chantry_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chantry_1.xml:6
 msgctxt "0x00042c27"
 msgid "Andrastian Throne"
-msgstr ""
+msgstr "안드라스테 옥좌"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chantry_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chantry_1.xml:11
 msgctxt "0x00042c28"
 msgid "An ornate seat decorated with religious iconography from the Andrastian Chantry."
-msgstr ""
+msgstr "안드라스테 챈트리의 종교적 상징으로 장식된 화려한 좌석."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chantry_2.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chantry_2.xml:6
 msgctxt "0x00042c29"
 msgid "Andrastian Throne Accessory I"
-msgstr ""
+msgstr "안드라스테 옥좌 장식 I"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chantry_2.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chantry_2.xml:11
 msgctxt "0x00042c2a"
 msgid "Additional ornamentation for the Andrastian throne."
-msgstr ""
+msgstr "안드라스테 옥좌를 위한 추가 장식물."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chantry_3.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chantry_3.xml:6
 msgctxt "0x00042c2b"
 msgid "Andrastian Throne Accessory II"
-msgstr ""
+msgstr "안드라스테 옥좌 장식 II"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chantry_3.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chantry_3.xml:11
 msgctxt "0x00042c2c"
 msgid "Additional ornamentation for the Andrastian throne."
-msgstr ""
+msgstr "안드라스테 옥좌를 위한 추가 장식물."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chasind_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chasind_1.xml:6
 msgctxt "0x00042c2d"
 msgid "Chasind Throne"
-msgstr ""
+msgstr "체이신드 옥좌"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chasind_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chasind_1.xml:11
 msgctxt "0x00042c2e"
 msgid "An ancient stone chair, carved by the Chasind of the Fereldan wilds."
-msgstr ""
+msgstr "페렐던 야생지의 체이신드 부족이 조각한, 고대의 돌로 만든 의자."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chasind_2.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chasind_2.xml:6
 msgctxt "0x00042c2f"
 msgid "Chasind Throne Accessory I"
-msgstr ""
+msgstr "체이신드 옥좌 장식 I"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chasind_2.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chasind_2.xml:11
 msgctxt "0x00042c30"
 msgid "Additional ornamentation for the Chasind throne."
-msgstr ""
+msgstr "체이신드 옥좌를 위한 추가 장식물."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chasind_3.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chasind_3.xml:6
 msgctxt "0x00042c31"
 msgid "Chasind Throne Accessory II"
-msgstr ""
+msgstr "체이신드 옥좌 장식 II"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chasind_3.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_chasind_3.xml:11
 msgctxt "0x00042c32"
 msgid "Additional ornamentation for the Chasind throne."
-msgstr ""
+msgstr "체이신드 옥좌를 위한 추가 장식물."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_circle_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_circle_1.xml:6
 msgctxt "0x00042c33"
 msgid "Enchanter's Seat"
-msgstr ""
+msgstr "마도사의 옥좌"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_circle_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_circle_1.xml:11
 msgctxt "0x00042c34"
 msgid "A magnificent chair that once belonged to First Enchanter Willow of the White Spire."
-msgstr ""
+msgstr "흰 첨탑의 수석 마도사 윌로우가 한때 가지고 있었던 장엄한 의자."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_circle_2.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_circle_2.xml:6
 msgctxt "0x00042c36"
 msgid "Enchanter's Seat Accessory I"
-msgstr ""
+msgstr "마도사의 옥좌 장식 I"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_circle_2.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_circle_2.xml:11
 msgctxt "0x00042c37"
 msgid "Additional ornamentation for the Enchanter's Seat."
-msgstr ""
+msgstr "마도사의 옥좌를 위한 추가 장식물."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_circle_3.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_circle_3.xml:6
 msgctxt "0x00042c38"
 msgid "Enchanter's Seat Accessory II"
-msgstr ""
+msgstr "마도사의 옥좌 장식 II"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_circle_3.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_circle_3.xml:11
 msgctxt "0x00042c39"
 msgid "Additional ornamentation for the Enchanter's Seat."
-msgstr ""
+msgstr "마도사의 옥좌를 위한 추가 장식물."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_ferelden_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_ferelden_1.xml:6
 msgctxt "0x00042c3a"
 msgid "Fereldan Throne"
-msgstr ""
+msgstr "페렐던 옥좌"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_ferelden_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_ferelden_1.xml:11
 msgctxt "0x00042c3b"
 msgid "A sturdy seat, handcrafted in Ferelden, surmounted by carved wooden mabari heads."
-msgstr ""
+msgstr "페렐던 장인이 만든 튼튼한 의자. 나무로 된 마바리 머리 조각으로 장식되어 있다."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_ferelden_2.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_ferelden_2.xml:6
 msgctxt "0x00042c3c"
 msgid "Fereldan Throne Accessory I"
-msgstr ""
+msgstr "페렐던 옥좌 장식 I"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_ferelden_2.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_ferelden_2.xml:11
 msgctxt "0x00042c3d"
 msgid "Additional ornamentation for the Fereldan throne."
-msgstr ""
+msgstr "페렐던 옥좌를 위한 추가 장식물."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_ferelden_3.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_ferelden_3.xml:6
 msgctxt "0x00042c3e"
 msgid "Fereldan Throne Accessory II"
-msgstr ""
+msgstr "페렐던 옥좌 장식 II"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_ferelden_3.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_ferelden_3.xml:11
 msgctxt "0x00042c3f"
 msgid "Additional ornamentation for the Fereldan throne."
-msgstr ""
+msgstr "페렐던 옥좌를 위한 추가 장식물."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_inquisition_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_inquisition_1.xml:6
 msgctxt "0x00042c40"
 msgid "Inquisitor's Throne"
-msgstr ""
+msgstr "심문관의 옥좌"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_inquisition_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_inquisition_1.xml:11
 msgctxt "0x00042c41"
 msgid "The Inquisitor's seat of power."
-msgstr ""
+msgstr "심문관의 권력을 나타내는 의자."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_inquisition_2.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_inquisition_2.xml:6
 msgctxt "0x00042c42"
 msgid "Inquisitor's Throne Accessory I"
-msgstr ""
+msgstr "심문관의 옥좌 장식 I"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_inquisition_2.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_inquisition_2.xml:11
 msgctxt "0x00042c43"
 msgid "Additional ornamentation for the Inquisitor's throne."
-msgstr ""
+msgstr "심문관의 옥좌를 위한 추가 장식물."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_inquisition_3.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_inquisition_3.xml:6
 msgctxt "0x00042c44"
 msgid "Inquisitor's Throne Accessory II"
-msgstr ""
+msgstr "심문관의 옥좌 장식 II"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_inquisition_3.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_inquisition_3.xml:11
 msgctxt "0x00042c45"
 msgid "Additional ornamentation for the Inquisitor's throne."
-msgstr ""
+msgstr "심문관의 옥좌를 위한 추가 장식물."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_orlais_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_orlais_1.xml:6
 msgctxt "0x00042c46"
 msgid "Orlesian Throne"
-msgstr ""
+msgstr "올레이 옥좌"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_orlais_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_orlais_1.xml:11
 msgctxt "0x00042c47"
 msgid "A showy chair, featuring gilded embellishments handmade by the finest craftsmen in Val Royeaux."
-msgstr ""
+msgstr "발 르와이요 최고의 장인들이 직접 만든 금도금된 장식물이 달린 화려한 의자."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_orlais_2.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_orlais_2.xml:6
 msgctxt "0x00042c48"
 msgid "Orlesian Throne Accessory I"
-msgstr ""
+msgstr "올레이 옥좌 장식 I"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_orlais_2.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_orlais_2.xml:11
 msgctxt "0x00042c49"
 msgid "Additional ornamentation for the Orlesian throne."
-msgstr ""
+msgstr "올레이 옥좌를 위한 추가 장식물."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_orlais_3.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_orlais_3.xml:6
 msgctxt "0x00042c4a"
 msgid "Orlesian Throne Accessory II"
-msgstr ""
+msgstr "올레이 옥좌 장식 II"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_orlais_3.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_orlais_3.xml:11
 msgctxt "0x00042c4b"
 msgid "Additional ornamentation for the Orlesian throne."
-msgstr ""
+msgstr "올레이 옥좌를 위한 추가 장식물."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_qunari_1.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_qunari_1.xml:6
 msgctxt "0x00042c4c"
 msgid "Qunari Bench"
-msgstr ""
+msgstr "쿠나리 옥좌"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_qunari_1.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_qunari_1.xml:11
 msgctxt "0x00042c4d"
 msgid "An imposing seat taken from a Qunari dreadnought."
-msgstr ""
+msgstr "쿠나리 전함에서 수복한 권력이 느껴지는 의자."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_qunari_2.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_qunari_2.xml:6
 msgctxt "0x00042c4e"
 msgid "Qunari Bench Accessory I"
-msgstr ""
+msgstr "쿠나리 옥좌 장식 I"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_qunari_2.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_qunari_2.xml:11
 msgctxt "0x00042c4f"
 msgid "Additional ornamentation for the Qunari bench."
-msgstr ""
+msgstr "쿠나리 옥좌를 위한 추가 장식물."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_qunari_3.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_qunari_3.xml:6
 msgctxt "0x00042c50"
 msgid "Qunari Bench Accessory II"
-msgstr ""
+msgstr "쿠나리 옥좌 장식 II"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_qunari_3.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_qunari_3.xml:11
 msgctxt "0x00042c51"
 msgid "Additional ornamentation for the Qunari bench."
-msgstr ""
+msgstr "쿠나리 옥좌를 위한 추가 장식물."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_chantry.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_chantry.xml:6
 msgctxt "0x00042c52"
 msgid "Andrastian Glass"
-msgstr ""
+msgstr "안드라스테 유리창"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_chantry.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_chantry.xml:11
 msgctxt "0x00042c53"
 msgid "Stained glass windows depicting scenes and figures from Chantry history."
-msgstr ""
+msgstr "챈트리 역사에 등장하는 장면과 인물들을 표현한 색유리창."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_dalish.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_dalish.xml:6
 msgctxt "0x00042c54"
 msgid "Dalish Glass"
-msgstr ""
+msgstr "데일스 유리창"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_dalish.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_dalish.xml:11
 msgctxt "0x00042c55"
 msgid "Stained glass windows of elven design."
-msgstr ""
+msgstr "엘프 디자인의 색유리창."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_dwarven.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_dwarven.xml:6
 msgctxt "0x00042c56"
 msgid "Dwarven Glass"
-msgstr ""
+msgstr "드워프 유리창"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_dwarven.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_dwarven.xml:11
 msgctxt "0x00042c57"
 msgid "Stained glass windows of dwarven design."
-msgstr ""
+msgstr "드워프 디자인의 색유리창."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_ferelden.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_ferelden.xml:6
 msgctxt "0x00042c58"
 msgid "Fereldan Glass"
-msgstr ""
+msgstr "페렐던 유리창"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_ferelden.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_ferelden.xml:11
 msgctxt "0x00042c59"
 msgid "Stained glass from Ferelden, with a design heavily featuring mabari."
-msgstr ""
+msgstr "마바리 사냥개가 그려진 페렐던산 색유리창."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_inquisition.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_inquisition.xml:6
 msgctxt "0x00042c5a"
 msgid "Inquisition Glass"
-msgstr ""
+msgstr "심문회 유리창"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_inquisition.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_inquisition.xml:11
 msgctxt "0x00042c5b"
 msgid "The Inquisition emblem is the focus of this stained glass window."
-msgstr ""
+msgstr "이 색유리창의 중심에는 심문회 상징이 그려져 있다."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_orlesian.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_orlesian.xml:6
 msgctxt "0x00042c5c"
 msgid "Orlesian Glass"
-msgstr ""
+msgstr "올레이 유리창"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_orlesian.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_orlesian.xml:11
 msgctxt "0x00042c5d"
 msgid "Beautiful stained glass, crowned with the golden lion symbol of the Valmonts."
-msgstr ""
+msgstr "발몽 가의 황금 사자가 그려진, 아름답게 색이 입혀진 유리창."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_qunari.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_qunari.xml:6
 msgctxt "0x00042c5e"
 msgid "Qunari Glass"
-msgstr ""
+msgstr "쿠나리 유리창"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_qunari.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\Windows\sky_windows_qunari.xml:11
 msgctxt "0x00042c5f"
 msgid "Windows featuring the distinctive symbol of the House of Tides."
-msgstr ""
+msgstr "타이드 가 특유의 상징이 그려진 유리창."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_amritavein.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -8808,28 +8811,28 @@ msgstr "암리타 잎맥의 씨앗이다."
 #: DA3\DesignContent\Items\Skyhold\sky_seeds_arborblessing.xml:6
 msgctxt "0x00042b07"
 msgid "Arbor Blessing Seeds"
-msgstr ""
+msgstr "수목의 축복 씨앗"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_arborblessing.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\sky_seeds_arborblessing.xml:11
 msgctxt "0x00042b3e"
 msgid "Seeds of the arbor blessing plant."
-msgstr ""
+msgstr "수목의 축복 식물의 씨앗이다."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_blacklotus.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\sky_seeds_blacklotus.xml:6
 msgctxt "0x00042b08"
 msgid "Black Lotus Seeds"
-msgstr ""
+msgstr "검은 연꽃 씨앗"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_blacklotus.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\sky_seeds_blacklotus.xml:11
 msgctxt "0x00042b3f"
 msgid "Seeds from the black lotus."
-msgstr ""
+msgstr "검은 연꽃에서 나온 씨앗이다."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_bloodlotus.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -8843,7 +8846,7 @@ msgstr "핏빛 연꽃 씨앗"
 #: DA3\DesignContent\Items\Skyhold\sky_seeds_bloodlotus.xml:11
 msgctxt "0x00042b40"
 msgid "Seeds from the blood lotus."
-msgstr ""
+msgstr "핏빛 연꽃에서 나온 씨앗이다."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_crystalgrace.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -8857,35 +8860,35 @@ msgstr "품위의 결정체 씨앗"
 #: DA3\DesignContent\Items\Skyhold\sky_seeds_crystalgrace.xml:11
 msgctxt "0x00042b41"
 msgid "Seeds of the crystal grace plant."
-msgstr ""
+msgstr "품위의 결정체 식물의 씨앗이다."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_dawnlotus.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\sky_seeds_dawnlotus.xml:6
 msgctxt "0x00042b0b"
 msgid "Dawn Lotus Seeds"
-msgstr ""
+msgstr "새벽 연꽃 씨앗"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_dawnlotus.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\sky_seeds_dawnlotus.xml:11
 msgctxt "0x00042b42"
 msgid "Seeds from the dawn lotus."
-msgstr ""
+msgstr "새벽 연꽃에서 나온 씨앗이다."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_deathroot.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\Skyhold\sky_seeds_deathroot.xml:6
 msgctxt "0x00042b0c"
 msgid "Deathroot Seeds"
-msgstr ""
+msgstr "죽음뿌리 씨앗"
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_deathroot.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\Skyhold\sky_seeds_deathroot.xml:11
 msgctxt "0x00042b43"
 msgid "Seeds from the deathroot plant."
-msgstr ""
+msgstr "죽음뿌리 식물의 씨앗."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_deepmushroom.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -8899,7 +8902,7 @@ msgstr "지하 버섯 포자"
 #: DA3\DesignContent\Items\Skyhold\sky_seeds_deepmushroom.xml:11
 msgctxt "0x00042b44"
 msgid "Spores of a deep mushroom."
-msgstr "지하 버섯의 포자다."
+msgstr "지하 버섯의 포자."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_dragonthorn.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -8913,7 +8916,7 @@ msgstr "용가시나무 씨앗"
 #: DA3\DesignContent\Items\Skyhold\sky_seeds_dragonthorn.xml:11
 msgctxt "0x00042b45"
 msgid "Seeds from the dragonthorn."
-msgstr "용가시나무의 씨앗이다."
+msgstr "용가시나무의 씨앗."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_elfroot.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -8955,7 +8958,7 @@ msgstr "펠란다리스 씨앗"
 #: DA3\DesignContent\Items\Skyhold\sky_seeds_felandris.xml:11
 msgctxt "0x00042b48"
 msgid "Seeds of the felandaris plant."
-msgstr ""
+msgstr "펠란다리스 식물의 씨앗이다."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\sky_seeds_ghoulsbeard.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -9256,7 +9259,7 @@ msgstr "쐐기돌"
 #: DA3\DesignContent\Items\WesternApproach\dgn_l_110\dgn_l_110_shard.xml:11
 msgctxt "0x00037efb"
 msgid "An ancient key found on Lucanus's corpse in the Tevinter laboratory."
-msgstr ""
+msgstr "테빈터 실험실에 있던 루캐너스의 시체에서 발견된 고대 열쇠."
 
 #. FILE: DA3\DesignContent\Items\WesternApproach\dgn_l_120\dgn_l_120_digsite_key.xml
 #. PATH: StackedItemAsset/Description
@@ -9340,14 +9343,14 @@ msgstr ""
 #: DA3\DesignContent\Items\WesternApproach\wes_servis_plans.xml:6
 msgctxt "0x0003a378"
 msgid "Servis's Journal"
-msgstr ""
+msgstr "세르비스의 일지"
 
 #. FILE: DA3\DesignContent\Items\WesternApproach\wes_servis_plans.xml
 #. PATH: StackedItemAsset/Description
 #: DA3\DesignContent\Items\WesternApproach\wes_servis_plans.xml:11
 msgctxt "0x0003a379"
 msgid "The Western Approach Venatori leader Servis's personal journal."
-msgstr ""
+msgstr "서부 접근지역 베나토리들의 지도자 세르비스의 개인적 일지다."
 
 #. FILE: DA3\DesignContent\Items\WesternApproach\wes_venatori_orders.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -9428,7 +9431,7 @@ msgstr ""
 #: DA3\DesignContent\Perks\Connections\Perk_Connections_Agent_Enchanter_Ellendra.xml:5
 msgctxt "0x00043dbc"
 msgid "Enchanter Ellendra"
-msgstr ""
+msgstr "마도사 엘렌드라"
 
 #. FILE: DA3\DesignContent\Perks\Connections\Perk_Connections_Agent_Enchanter_Ellendra.xml
 #. PATH: UIInquisitionCustomizeItemAsset/Description
@@ -9440,6 +9443,9 @@ msgid ""
 "\n"
 "{string}277971{/string}"
 msgstr ""
+"마도사 엘렌드라는 그녀가 가진 치유 마법과 보호 마법에 대한 놀라운 지식을 심문회를 돕기 위해 사용하기로 했다.\n"
+"\n"
+"{string}277971{/string}"
 
 #. FILE: DA3\DesignContent\Perks\Connections\Perk_Connections_Agent_Fairbanks.xml
 #. PATH: UIInquisitionCustomizeItemAsset/Title
@@ -9682,7 +9688,7 @@ msgstr ""
 #: DA3\DesignContent\Perks\Forces\Perk_Forces_Agent_DLC1_Storvaker.xml:5
 msgctxt "0x00046e5e"
 msgid "Storvacker"
-msgstr ""
+msgstr "슈토어바커"
 
 #. FILE: DA3\DesignContent\Perks\Forces\Perk_Forces_Agent_DLC1_Storvaker.xml
 #. PATH: UIInquisitionCustomizeItemAsset/Description
@@ -9779,7 +9785,7 @@ msgstr ""
 #: DA3\DesignContent\Perks\Forces\Perk_Forces_Agent_celmence.xml:5
 msgctxt "0x00044222"
 msgid "Clemence the Tranquil"
-msgstr ""
+msgstr "안식자 클레멘스"
 
 #. FILE: DA3\DesignContent\Perks\Forces\Perk_Forces_Agent_celmence.xml
 #. PATH: UIInquisitionCustomizeItemAsset/Description
@@ -9791,6 +9797,9 @@ msgid ""
 "\n"
 "{string}277985{/string}"
 msgstr ""
+"레드클리프에서 온 안식자 마법사 클레멘스는 이제 심문회를 위해 그의 지식을 사용해 장비에 마법을 부여한다.\n"
+"\n"
+"{string}277985{/string}"
 
 #. FILE: DA3\DesignContent\Perks\Forces\Perk_Forces_CombatXPBonus.xml
 #. PATH: UIInquisitionCustomizeItemAsset/Title
@@ -10001,7 +10010,7 @@ msgstr ""
 #: DA3\DesignContent\Perks\Inquisition\perk_inquisition_agent_horsemaster_dennet.xml:5
 msgctxt "0x00043dcc"
 msgid "Horsemaster Dennet"
-msgstr ""
+msgstr "조마사 데넷"
 
 #. FILE: DA3\DesignContent\Perks\Inquisition\perk_inquisition_agent_horsemaster_dennet.xml
 #. PATH: UIInquisitionCustomizeItemAsset/Description
@@ -10116,7 +10125,7 @@ msgstr ""
 #: DA3\DesignContent\Perks\Secrets\Perk_Secrets_Agent_Servis.xml:5
 msgctxt "0x0004422b"
 msgid "Servis"
-msgstr ""
+msgstr "세르비스"
 
 #. FILE: DA3\DesignContent\Perks\Secrets\Perk_Secrets_Agent_Servis.xml
 #. PATH: UIInquisitionCustomizeItemAsset/Description
@@ -10199,7 +10208,7 @@ msgstr ""
 #: DA3\DesignContent\Perks\Secrets\Perk_Secrets_Conversation.xml:5
 msgctxt "0x00031e09"
 msgid "Arcane Knowledge"
-msgstr ""
+msgstr "비전 지식"
 
 #. FILE: DA3\DesignContent\Perks\Secrets\Perk_Secrets_Conversation.xml
 #. PATH: UIInquisitionCustomizeItemAsset/Description
@@ -10233,7 +10242,7 @@ msgstr ""
 #: DA3\DesignContent\Perks\Secrets\Perk_Secrets_Herb_Collection_1.xml:5
 msgctxt "0x0003814d"
 msgid "Trainee Herbalists"
-msgstr ""
+msgstr "도제 약초사들"
 
 #. FILE: DA3\DesignContent\Perks\Secrets\Perk_Secrets_Herb_Collection_1.xml
 #. PATH: UIInquisitionCustomizeItemAsset/Description
@@ -10247,7 +10256,7 @@ msgstr ""
 #: DA3\DesignContent\Perks\Secrets\Perk_Secrets_Herb_Collection_2.xml:5
 msgctxt "0x0003814f"
 msgid "Veteran Herbalists"
-msgstr ""
+msgstr "노련한 약초사들"
 
 #. FILE: DA3\DesignContent\Perks\Secrets\Perk_Secrets_Herb_Collection_2.xml
 #. PATH: UIInquisitionCustomizeItemAsset/Description
@@ -10264,7 +10273,7 @@ msgstr ""
 #: DA3\DesignContent\Perks\Secrets\Perk_Secrets_Herb_Collection_3.xml:5
 msgctxt "0x00038151"
 msgid "Master Herbalists"
-msgstr ""
+msgstr "장인 약초사들"
 
 #. FILE: DA3\DesignContent\Perks\Secrets\Perk_Secrets_Herb_Collection_3.xml
 #. PATH: UIInquisitionCustomizeItemAsset/Description
@@ -10298,7 +10307,7 @@ msgstr ""
 #: DA3\DesignContent\Perks\Secrets\Perk_Secrets_ImpSearch.xml:5
 msgctxt "0x00031e15"
 msgid "Eagle-Eyed"
-msgstr ""
+msgstr "매의 눈"
 
 #. FILE: DA3\DesignContent\Perks\Secrets\Perk_Secrets_ImpSearch.xml
 #. PATH: UIInquisitionCustomizeItemAsset/Description
@@ -10315,7 +10324,7 @@ msgstr ""
 #: DA3\DesignContent\Perks\Secrets\Perk_Secrets_LockpickA.xml:5
 msgctxt "0x00031e02"
 msgid "Deft Hands, Fine Tools"
-msgstr ""
+msgstr "능숙한 손놀림, 섬세한 도구"
 
 #. FILE: DA3\DesignContent\Perks\Secrets\Perk_Secrets_LockpickA.xml
 #. PATH: UIInquisitionCustomizeItemAsset/Description
@@ -10356,14 +10365,14 @@ msgstr ""
 #: DA3\DesignContent\Plots\Global\ClassSpecialization\Item_AssassinsWeapon.xml:6
 msgctxt "0x00040d87"
 msgid "Assassin Weapon"
-msgstr ""
+msgstr "암살자 무기"
 
 #. FILE: DA3\DesignContent\Plots\Global\ClassSpecialization\Item_BrokenPhilter.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Plots\Global\ClassSpecialization\Item_BrokenPhilter.xml:6
 msgctxt "0x00040d55"
 msgid "Broken Philter"
-msgstr ""
+msgstr "부서진 용액 병"
 
 #. FILE: DA3\DesignContent\Plots\Global\ClassSpecialization\Item_EssenceContainmentAppartus.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -10377,7 +10386,7 @@ msgstr ""
 #: DA3\DesignContent\Plots\Global\ClassSpecialization\Item_HeraldicSymbol.xml:6
 msgctxt "0x00040d7b"
 msgid "Heraldic Symbol"
-msgstr ""
+msgstr "전령의 상징"
 
 #. FILE: DA3\DesignContent\Plots\Global\ClassSpecialization\Item_Infusion_Primer.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -10391,21 +10400,21 @@ msgstr ""
 #: DA3\DesignContent\Plots\Global\ClassSpecialization\Item_NevarranSkull.xml:6
 msgctxt "0x00040d9c"
 msgid "Nevarran Skull"
-msgstr ""
+msgstr "네바라 해골"
 
 #. FILE: DA3\DesignContent\Plots\Global\ClassSpecialization\Item_VenatoriTomb.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Plots\Global\ClassSpecialization\Item_VenatoriTomb.xml:6
 msgctxt "0x00040d9b"
 msgid "Venatori Tome"
-msgstr ""
+msgstr "베나토리 마법서"
 
 #. FILE: DA3\DesignContent\Plots\Global\ClassSpecialization\Item_Wisp.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Plots\Global\ClassSpecialization\Item_Wisp.xml:6
 msgctxt "0x00040d9f"
 msgid "Wisp Essence "
-msgstr ""
+msgstr "도깨비불 정수 "
 
 #. FILE: DA3\DesignContent\Plots\Global\Collections\Action_CollectedVial.xml
 #. PATH: UberNotificationEntityData/SubTextReference
@@ -10501,7 +10510,6 @@ msgstr ""
 #. FILE: DA3\DesignContent\PrefabComponents\General\CMP_CraftingArmor.xml
 #. PATH: BWPopUpEntityData[1]/Text
 #: DA3\DesignContent\PrefabComponents\General\CMP_CraftingArmor.xml:1623
-#, fuzzy
 msgctxt "0x0004385d"
 msgid ""
 "To craft new armor or weapons, you need a schematic and enough materials.\n"
@@ -10525,11 +10533,13 @@ msgid ""
 "\n"
 "The final value of the stat coming from a slot is determined by multiplying this value by the number of materials placed in the slot."
 msgstr ""
+"각 제작 재료는 슬롯마다 부여하는 능력 수치가 정해져있습니다. 재료를 선택하여 확인할 수 있습니다.\n"
+"\n"
+"슬롯에서 부여되는 최종 능력치는 해당 수치를 재료의 갯수만큼 곱하여 결정됩니다."
 
 #. FILE: DA3\DesignContent\PrefabComponents\General\CMP_CraftingArmor.xml
 #. PATH: BWPopUpEntityData[3]/Text
 #: DA3\DesignContent\PrefabComponents\General\CMP_CraftingArmor.xml:1709
-#, fuzzy
 msgctxt "0x00043860"
 msgid ""
 "Each crafting schematic has one or more slots. Each slot accepts a specific number of materials of either metal, cloth, or leather.\n"
@@ -10553,6 +10563,13 @@ msgid ""
 "\n"
 "Experiment with different combinations of materials and slots to create unique items that fit your needs."
 msgstr ""
+"제작 슬롯에는 다섯 가지 종류가 있습니다: 보조, 공격, 방어, 피해량, 그리고 방어 수치.\n"
+"\n"
+"슬롯의 종류에 따라 제작 재료에서 뽑아내는 능력치가 달리 결정됩니다.\n"
+"\n"
+"예를 들면, 철을 방어 슬롯에 장착하면 추가 근접 방어력을 얻고, 철을 보조 슬롯에 장착하면 추가 근력 점수를 얻습니다.\n"
+"\n"
+"여러 가지 재료와 슬롯을 조합하여 필요에 알맞는 나만의 장비를 제작해보십시오."
 
 #. FILE: DA3\DesignContent\PrefabComponents\General\CMP_CraftingModification.xml
 #. PATH: BWGameInteractionEntityData[1]/InteractionTextReference
@@ -10584,6 +10601,9 @@ msgid ""
 "\n"
 "New upgrades can be crafted in crafting stations."
 msgstr ""
+"강화품은 각기 다른 아이템에서 자유롭게 떼고 붙일 수 있습니다.\n"
+"\n"
+"제작소에서 새 강화품을 만들 수 있습니다."
 
 #. FILE: DA3\DesignContent\PrefabComponents\General\CMP_CraftingModification.xml
 #. PATH: BWPopUpEntityData[2]/Text
@@ -10594,13 +10614,16 @@ msgid ""
 "\n"
 "For example, attaching a hilt with a +3 Cunning bonus to a sword adds this bonus to the sword."
 msgstr ""
+"아이템을 강화하면 외형이 바뀔 뿐만 아니라 부여된 능력치도 더욱 상승합니다.\n"
+"\n"
+"예를 들어, +3 교활 점수가 부여된 칼자루를 검에 장착하면 해당 점수가 검에 부여됩니다."
 
 #. FILE: DA3\DesignContent\PrefabComponents\General\CMP_CraftingSpecial.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
 #: DA3\DesignContent\PrefabComponents\General\CMP_CraftingSpecial.xml:467
 msgctxt "0x00030ed0"
 msgid "Inspect Requisitions"
-msgstr ""
+msgstr "보급요청 확인하기"
 
 #. FILE: DA3\DesignContent\PrefabComponents\General\CMP_CraftingWeapons.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
@@ -10635,12 +10658,11 @@ msgstr ""
 #: DA3\DesignContent\PrefabComponents\General\CMP_PotionCrafting.xml:614
 msgctxt "0x0003a864"
 msgid "Upgrade Potions"
-msgstr ""
+msgstr "물약 개선하기"
 
 #. FILE: DA3\DesignContent\PrefabComponents\General\CMP_PotionCrafting.xml
 #. PATH: BWPopUpEntityData/Title
 #: DA3\DesignContent\PrefabComponents\General\CMP_PotionCrafting.xml:1967
-#, fuzzy
 msgctxt "0x00043d74"
 msgid "Potion Upgrading"
 msgstr "물약 개선"
@@ -10648,14 +10670,13 @@ msgstr "물약 개선"
 #. FILE: DA3\DesignContent\PrefabComponents\General\CMP_PotionCrafting.xml
 #. PATH: BWPopUpEntityData/Text
 #: DA3\DesignContent\PrefabComponents\General\CMP_PotionCrafting.xml:1973
-#, fuzzy
 msgctxt "0x00043d76"
 msgid ""
 "You can upgrade potions you have already unlocked. To upgrade a potion, select a category, select a potion, then select the upgrade.\n"
 "\n"
 "Potion upgrades require a significant amount of herbs to unlock; in return, they give permanent and significant bonuses to your potions."
 msgstr ""
-"획득한 물약을 개선시킬 수 있습니다. 물약을 개선하려면 분류를 선택한 후, 물약을 선택하고, 개선을 선택하세요.\n"
+"획득한 물약을 개선시킬 수 있습니다. 물약을 개선하려면 분류를 선택한 후, 물약을 선택하고, 개선을 선택하십시오.\n"
 "\n"
 "물약을 개선하기 위해서는 상당한 양의 약초를 모아야 합니다. 대신 영구적이고 상당한 성능 향상을 기대할 수 있습니다."
 
@@ -10678,14 +10699,14 @@ msgstr ""
 #: DA3\DesignContent\PrefabComponents\General\Doors\CMP_Door_MasterLockCheck.xml:604
 msgctxt "0x00042de1"
 msgid "Requires Perk: {CUSTOM0}"
-msgstr ""
+msgstr "요구되는 특전: {CUSTOM0}"
 
 #. FILE: DA3\DesignContent\PrefabComponents\General\cmp_creaturecodex_nongroupable_autogen_Win32.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
 #: DA3\DesignContent\PrefabComponents\General\cmp_creaturecodex_nongroupable_autogen_Win32.xml:224
 msgctxt "0x00041b8e"
 msgid "Turn In Research"
-msgstr ""
+msgstr "연구물품 제출하기"
 
 #. FILE: DA3\DesignContent\PrefabComponents\General\cmp_tintingarmor_nongroupable_autogen_Win32.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
@@ -10730,7 +10751,7 @@ msgstr ""
 #: DA3\DesignContent\PrefabComponents\Notifications\ExperienceNotifications.xml:2933
 msgctxt "0x00043954"
 msgid "Each Inquisition rank unlocks access to perks for the Inquisition, which can be purchased at the war table."
-msgstr ""
+msgstr "심문회 레벨이 올라가면 심문회 특전 포인트를 획득합니다. 특전 포인트는 작전 지도에서 사용할 수 있습니다."
 
 #. FILE: DA3\DesignContent\PrefabComponents\Notifications\ExperienceNotifications.xml
 #. PATH: NotificationEntityData[1]/TitleTextReference
@@ -11230,7 +11251,7 @@ msgstr ""
 #: DA3\DesignContent\PrefabComponents\Notifications\ExperienceNotifications.xml:4508
 msgctxt "0x0001d054"
 msgid "{CUSTOM0} has reached level {CUSTOM1}."
-msgstr ""
+msgstr "{CUSTOM0}가 {CUSTOM1} 레벨에 도달했습니다."
 
 #. FILE: DA3\DesignContent\PrefabComponents\Notifications\ExperienceNotifications.xml
 #. PATH: UberNotificationEntityData[2]/TitleTextReference
@@ -11377,7 +11398,7 @@ msgstr ""
 #: DA3\DesignContent\Prefabs\Crafting\Garden\Garden_Herb_Elfroot.xml:403
 msgctxt "0x0001862b"
 msgid "Elfroot"
-msgstr "엘프 뿌리"
+msgstr "엘프뿌리"
 
 #. FILE: DA3\DesignContent\Prefabs\Crafting\Garden\Garden_Herb_Elfroot.xml
 #. PATH: NotificationEntityData/TitleTextReference
@@ -11953,7 +11974,7 @@ msgstr ""
 #: DA3\DesignContent\Prefabs\CreatureCodex\CreatureCodexSubPrefab_nug.xml:853
 msgctxt "0x00042001"
 msgid "Nug Feet {string}281367{/string}: {CUSTOM0}"
-msgstr ""
+msgstr "너그 발 {string}281367{/string}: {CUSTOM0}"
 
 #. FILE: DA3\DesignContent\Prefabs\CreatureCodex\CreatureCodexSubPrefab_pheonix.xml
 #. PATH: NotificationEntityData[2]/TitleTextReference
@@ -12107,7 +12128,7 @@ msgstr ""
 #: DA3\DesignContent\Prefabs\Followers\Blackwall\Follower_Blackwall_ApprovalItem_DeepRoadsMaps.xml:772
 msgctxt "0x000439b8"
 msgid "Maps of the Deep Roads"
-msgstr ""
+msgstr "지하 가도의 지도"
 
 #. FILE: DA3\DesignContent\Prefabs\Followers\Blackwall\Follower_Blackwall_ApprovalItem_GreyWardenArmor.xml
 #. PATH: GetLocalizedStringIDData/Text
@@ -12210,22 +12231,20 @@ msgstr ""
 #. FILE: DA3\DesignContent\Prefabs\Inquisition\Inquisition_Camp.xml
 #. PATH: BWPopUpEntityData[1]/Title
 #: DA3\DesignContent\Prefabs\Inquisition\Inquisition_Camp.xml:5097
-#, fuzzy
 msgctxt "0x0001b812"
 msgid "Inquisition Camps"
-msgstr "인퀴지션 전초기지"
+msgstr "심문회 전초기지"
 
 #. FILE: DA3\DesignContent\Prefabs\Inquisition\Inquisition_Camp.xml
 #. PATH: BWPopUpEntityData[2]/Text
 #: DA3\DesignContent\Prefabs\Inquisition\Inquisition_Camp.xml:5146
-#, fuzzy
 msgctxt "0x0001b813"
 msgid ""
 "Once established, Inquisition camps allow the party to rest, refill potions and regenerate health, change party members, and fulfill requisitions.\n"
 "\n"
 "Camps also serve as fast travel points."
 msgstr ""
-"한 번 건설되면, 인퀴지션 전초기지에서 파티 휴식, 물약을 충전, 체력 보충, 파티원 교체, 보급품 조달이 가능합니다.\n"
+"한 번 건설되면, 심문회 전초기지에서 파티 휴식, 물약을 충전, 체력 보충, 파티원 교체, 보급품 조달이 가능합니다.\n"
 "\n"
 "전초기지로 빠른 이동 또한 가능합니다."
 
@@ -12389,21 +12408,20 @@ msgstr ""
 #. FILE: DA3\DesignContent\Prefabs\Interactions\Search\CMP_SearchManager.xml
 #. PATH: BWPopUpEntityData[1]/Text
 #: DA3\DesignContent\Prefabs\Interactions\Search\CMP_SearchManager.xml:742
-#, fuzzy
 msgctxt "0x00033513"
 msgid ""
 "When the compass pulses, press {controller}{StringBtnLStickClick}{/controller}{notcontroller}{ConceptSearch}{/notcontroller} to search.\n"
 "\n"
 "Searching indicates the direction of hidden objects with an additional pulse on the ground and, if you're close enough, reveals them."
 msgstr ""
-"나침반이 울리면, {controller}{StringBtnLStickClick}{/controller}{notcontroller}{ConceptSearch}{/notcontroller}를 눌러 탐색하세요.\n"
+"나침반이 울리면, {controller}{StringBtnLStickClick}{/controller}{notcontroller}{Conc"
+"eptSearch}{/notcontroller}를 눌러 탐색하세요.\n"
 "\n"
 "탐색은 지면에 추가로 울리어 숨겨진 물품의 방향도 알려줍니다. 만약 물품에서 가깝다면, 표시합니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Interactions\Search\CMP_SearchManager.xml
 #. PATH: BWPopUpEntityData[2]/Text
 #: DA3\DesignContent\Prefabs\Interactions\Search\CMP_SearchManager.xml:785
-#, fuzzy
 msgctxt "0x000432ad"
 msgid "Searching reveals nearby loot, codex entries, and crafting nodes."
 msgstr "탐색은 근방의 전리품, 도감 일지, 제작 재료를 표시합니다."
@@ -13002,7 +13020,7 @@ msgstr ""
 #: DA3\DesignContent\Prefabs\Levels\Skyhold\WarTable\WT_InvestigationLocator_Adamant.xml:1752
 msgctxt "0x000251f8"
 msgid "Here Lies the Abyss"
-msgstr ""
+msgstr "여기 심연이 있노라"
 
 #. FILE: DA3\DesignContent\Prefabs\Levels\Skyhold\WarTable\WT_InvestigationLocator_Adamant.xml
 #. PATH: CritPathWarTableLocatorData/CritPathDescription
@@ -13021,7 +13039,7 @@ msgstr ""
 #: DA3\DesignContent\Prefabs\Levels\Skyhold\WarTable\WT_InvestigationLocator_Finale.xml:1752
 msgctxt "0x000251f5"
 msgid "Doom Upon All the World"
-msgstr ""
+msgstr "온 세상에 파멸을"
 
 #. FILE: DA3\DesignContent\Prefabs\Levels\Skyhold\WarTable\WT_InvestigationLocator_Finale.xml
 #. PATH: CritPathWarTableLocatorData/CritPathDescription
@@ -13042,7 +13060,7 @@ msgstr ""
 #: DA3\DesignContent\Prefabs\Levels\Skyhold\WarTable\WT_InvestigationLocator_Halamshiral.xml:1752
 msgctxt "0x000251f2"
 msgid "Wicked Eyes and Wicked Hearts"
-msgstr ""
+msgstr "사악한 눈길과 악독한 마음"
 
 #. FILE: DA3\DesignContent\Prefabs\Levels\Skyhold\WarTable\WT_InvestigationLocator_Halamshiral.xml
 #. PATH: CritPathWarTableLocatorData/CritPathDescription
@@ -13061,7 +13079,7 @@ msgstr ""
 #: DA3\DesignContent\Prefabs\Levels\Skyhold\WarTable\WT_InvestigationLocator_Mythal.xml:1752
 msgctxt "0x000251f4"
 msgid "What Pride Had Wrought"
-msgstr ""
+msgstr "오만이 자초한 것"
 
 #. FILE: DA3\DesignContent\Prefabs\Levels\Skyhold\WarTable\WT_InvestigationLocator_Mythal.xml
 #. PATH: CritPathWarTableLocatorData/CritPathDescription
@@ -13080,7 +13098,7 @@ msgstr ""
 #: DA3\DesignContent\Prefabs\Levels\Skyhold\WarTable\WT_InvestigationLocator_Redcliffe.xml:1752
 msgctxt "0x000251f6"
 msgid "In Hushed Whispers"
-msgstr ""
+msgstr "숨죽인 속삭임"
 
 #. FILE: DA3\DesignContent\Prefabs\Levels\Skyhold\WarTable\WT_InvestigationLocator_Redcliffe.xml
 #. PATH: CritPathWarTableLocatorData/CritPathDescription
@@ -13131,7 +13149,7 @@ msgstr ""
 #: DA3\DesignContent\Prefabs\Levels\Skyhold\WarTable\WT_InvestigationLocator_Setback.xml:1752
 msgctxt "0x000251f3"
 msgid "In Your Heart Shall Burn"
-msgstr ""
+msgstr "너희 심장에 불꽃이 피리라"
 
 #. FILE: DA3\DesignContent\Prefabs\Levels\Skyhold\WarTable\WT_InvestigationLocator_Setback.xml
 #. PATH: CritPathWarTableLocatorData/CritPathDescription
@@ -13163,8 +13181,8 @@ msgid ""
 "\n"
 "{string}281195{/string}: {string}281191{/string}"
 msgstr ""
-"남아있는 챈트리 주교들이 사문회를 이단으로 선언하였다. 대균열에 맞서기 위한 동맹을 모으려는 시도는 묵살당했고, 현재 군중들에게 "
-"공격당하거나 체포되는 일 없이 수도에 발을 들이는 것은 불가능하다. \"안드라스테의 전령\"은 그들이 생각하는 괴물이 아니라는 것을 "
+"남아있는 챈트리 주교들이 심문회를 이단으로 선언하였다. 대균열에 맞서기 위한 동맹을 모으려는 시도는 묵살당했고, 현재 군중들에게 "
+"공격당하거나 체포되는 일 없이 수도에 발을 들이는 것은 불가능하다. \"안드라스테의 전령\"이 그들이 생각하는 괴물이 아니라는 것을 "
 "증명하려면 챈트리를 설득하여 도시 출입을 허락받아야 한다.\n"
 "\n"
 "{string}281195{/string}: {string}281191{/string}"
@@ -13752,10 +13770,12 @@ msgstr ""
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[29]/Text
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml:5511
-#, fuzzy
 msgctxt "0x000475ff"
 msgid "Winter's Grasp {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: Use this ability to freeze your target and inflict moderate cold damage. While frozen, enemies cannot move or attack and are susceptible to combo attacks from Rogues and Warriors."
-msgstr "겨울의 손아귀 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: 이 능력을 사용하여 대상을 빙결시키고 냉기 피해를 입히세요. 빙결된 적은 움직이거나 공격할 수 없고, 도적이나 전사가 콤보 공격을 가할 수 있습니다."
+msgstr ""
+"겨울의 손아귀 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInv"
+"entoryItem1}{/notcontroller}: 이 기술을 사용하여 대상을 빙결시키고 냉기 피해를 입히십시오. 빙결된 적은 "
+"움직이거나 공격할 수 없고, 도적이나 전사가 콤보 공격을 가할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[30]/Text
@@ -13780,6 +13800,11 @@ msgid ""
 "\n"
 "{controller}Hold {StringBtnRT} to continuously attack.{/controller}{notcontroller}Hold {ConceptMeleeAttack} or {StringBtnMouseLeft} to continuously attack.{/notcontroller}"
 msgstr ""
+"{controller}{StringBtnRT}{/controller}{notcontroller}{ConceptMeleeAttack} 혹은 "
+"{StringBtnMouseLeft}{/notcontroller}를 눌러 공격하세요.\n"
+"\n"
+"{controller}{StringBtnRT}{/controller}{notcontroller}}{ConceptMeleeAttack} "
+"혹은 {StringBtnMouseLeft}{/notcontroller}를 꾹 눌러 계속해서 공격하세요."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[33]/Text
@@ -13855,10 +13880,12 @@ msgstr ""
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[43]/Text
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml:6113
-#, fuzzy
 msgctxt "0x000475f8"
 msgid "Winter's Grasp {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: Use this ability to freeze your target and inflict moderate cold damage. While frozen, enemies cannot move or attack and are susceptible to combo attacks from Rogues and Warriors."
-msgstr "겨울의 손아귀 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: 이 능력을 사용하여 대상을 빙결시키고 냉기 피해를 입히세요. 빙결된 적은 움직이거나 공격할 수 없고, 도적이나 전사가 콤보 공격을 가할 수 있습니다."
+msgstr ""
+"겨울의 손아귀 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInv"
+"entoryItem1}{/notcontroller}: 이 기술을 사용하여 대상을 빙결시키고 냉기 피해를 입히십시오. 빙결된 적은 "
+"움직이거나 공격할 수 없고, 도적이나 전사가 콤보 공격을 가할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[45]/Text
@@ -14025,7 +14052,6 @@ msgstr "행동"
 #. FILE: DA3\DesignContent\Tutorials\TutorialManager.xml
 #. PATH: BWPopUpEntityData[3]/Text
 #: DA3\DesignContent\Tutorials\TutorialManager.xml:208
-#, fuzzy
 msgctxt "0x00043687"
 msgid ""
 "The Behaviors screen allows you to provide instructions to your party on how they should fight, cooperate, and defend themselves in combat.\n"
@@ -14228,7 +14254,7 @@ msgstr ""
 #: DA3\Logic\Levels\GlobalSPLevelStart.xml:6377
 msgctxt "0x00016dce"
 msgid "Codex Unlocked: {CUSTOM0}"
-msgstr ""
+msgstr "코덱스 열림: {CUSTOM0}"
 
 #. FILE: DA3\Logic\Levels\GlobalSPLevelStart.xml
 #. PATH: JournalSystemEntityData/QuestUpdateMessage
@@ -14249,7 +14275,7 @@ msgstr ""
 #: DA3\Logic\Levels\GlobalSPLevelStart.xml:6392
 msgctxt "0x0002c2b2"
 msgid "Quest Completed: {CUSTOM0}"
-msgstr ""
+msgstr "퀘스트 완료: {CUSTOM0}"
 
 #. FILE: DA3\Logic\Levels\GlobalSPLevelStart.xml
 #. PATH: JournalSystemEntityData/QuestTaskPresentationMessage
@@ -14277,28 +14303,28 @@ msgstr ""
 #: DA3\Logic\Levels\GlobalSPLevelStart.xml:6674
 msgctxt "0x0003e68d"
 msgid "Would you like to gather your party and venture to {CUSTOM0} now?"
-msgstr ""
+msgstr "파티원을 모아 {CUSTOM0}로 나아가시겠습니까?"
 
 #. FILE: DA3\Logic\Levels\GlobalSPLevelStart.xml
 #. PATH: MissionManagerEntityData/LevelConfirmButtonString
 #: DA3\Logic\Levels\GlobalSPLevelStart.xml:6679
 msgctxt "0x0003e68f"
 msgid "Venture Forth"
-msgstr ""
+msgstr "나아가기"
 
 #. FILE: DA3\Logic\Levels\GlobalSPLevelStart.xml
 #. PATH: MissionManagerEntityData/LevelCancelButtonString
 #: DA3\Logic\Levels\GlobalSPLevelStart.xml:6684
 msgctxt "0x0003e68c"
 msgid "Not Now"
-msgstr ""
+msgstr "나중에"
 
 #. FILE: DA3\Logic\Levels\GlobalSPLevelStart.xml
 #. PATH: MissionManagerEntityData/LevelTitleString
 #: DA3\Logic\Levels\GlobalSPLevelStart.xml:6689
 msgctxt "0x0003e68e"
 msgid "Travel?"
-msgstr ""
+msgstr "이동합니까?"
 
 #. FILE: DA3\Logic\Levels\MultiplayerSession.xml
 #. PATH: TextNotificationEntityData[1]/TitleTextReference
@@ -14368,7 +14394,7 @@ msgstr ""
 #: DA3\Logic\Levels\SingletonEntities.xml:130
 msgctxt "0x000438d5"
 msgid "Basic Attack"
-msgstr ""
+msgstr "기본 공격"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities.xml
 #. PATH: EnumToLocalizedStringMapperEntityData/MappedInputConcepts/member[7]/InputConceptAndLocalizedStringPair/InputConceptString
@@ -14739,35 +14765,35 @@ msgstr ""
 #: DA3\Logic\Levels\SingletonEntities_MP.xml:510
 msgctxt "0x00037a34"
 msgid "<font color=\"#{CUSTOM2}\">Requirement: {CUSTOM0} {CUSTOM1}</font>"
-msgstr ""
+msgstr "<font color=\"#{CUSTOM2}\">요구사항: {CUSTOM0} {CUSTOM1}</font>"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities_MP.xml
 #. PATH: ItemManagerEntityData/RestrictionText
 #: DA3\Logic\Levels\SingletonEntities_MP.xml:515
 msgctxt "0x00037a33"
 msgid "<font color=\"#{CUSTOM0}\">Restriction: {CUSTOM1} only</font>"
-msgstr ""
+msgstr "<font color=\"#{CUSTOM0}\">제한: {CUSTOM1} 전용</font>"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities_MP.xml
 #. PATH: ItemManagerEntityData/DoubleRestrictionText
 #: DA3\Logic\Levels\SingletonEntities_MP.xml:520
 msgctxt "0x0003925e"
 msgid "<font color=\"#{CUSTOM0}\">Restriction: {CUSTOM1} or {CUSTOM2} only</font>"
-msgstr ""
+msgstr "<font color=\"#{CUSTOM0}\">제한: {CUSTOM1} 혹은 {CUSTOM2} 전용</font>"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities_MP.xml
 #. PATH: ItemManagerEntityData/NegFollowerRestrictionText
 #: DA3\Logic\Levels\SingletonEntities_MP.xml:525
 msgctxt "0x00044aa7"
 msgid "<font color=\"#{CUSTOM0}\">Restriction: Not {CUSTOM1}</font>"
-msgstr ""
+msgstr "<font color=\"#{CUSTOM0}\">제한: {CUSTOM1} 불가</font>"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities_MP.xml
 #. PATH: ItemManagerEntityData/NegRaceRestrictionText
 #: DA3\Logic\Levels\SingletonEntities_MP.xml:530
 msgctxt "0x00037cd7"
 msgid "<font color=\"#{CUSTOM0}\">Restriction: elf, dwarf, or human</font>"
-msgstr ""
+msgstr "<font color=\"#{CUSTOM0}\">제한: 엘프, 드워프, 혹은 인간</font>"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities_MP.xml
 #. PATH: ItemManagerEntityData/EquippedByText
@@ -14781,7 +14807,7 @@ msgstr ""
 #: DA3\Logic\Levels\SingletonEntities_MP.xml:540
 msgctxt "0x00038734"
 msgid "Item Level {CUSTOM0}"
-msgstr ""
+msgstr "아이템 레벨 {CUSTOM0}"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities_MP.xml
 #. PATH: ItemManagerEntityData/ItemTypeText
@@ -14830,14 +14856,14 @@ msgstr ""
 #: DA3\Logic\Levels\SingletonEntities_MP.xml:590
 msgctxt "0x00044965"
 msgid "Restriction: Staff only"
-msgstr ""
+msgstr "제한: 스태프 전용"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities_MP.xml
 #. PATH: ItemManagerEntityData/NonStaffRuneRestrictionText
 #: DA3\Logic\Levels\SingletonEntities_MP.xml:595
 msgctxt "0x00044966"
 msgid "Restriction: Non-staff only"
-msgstr ""
+msgstr "제한: 스태프 불가"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities_MP.xml
 #. PATH: ItemManagerEntityData/ClassInfos/member[1]/ItemManagerEntity_ClassInfo/Name
@@ -14949,7 +14975,7 @@ msgstr ""
 #: DA3\Logic\Levels\SingletonEntities_MP.xml:1314
 msgctxt "0x00043682"
 msgid "DPS"
-msgstr ""
+msgstr "DPS"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities_SP.xml
 #. PATH: ItemManagerEntityData/RaceInfos/member[1]/ItemManagerEntity_RaceInfo/Name
@@ -15005,7 +15031,7 @@ msgstr ""
 #: DA3\Logic\Levels\SingletonEntities_SP.xml:5516
 msgctxt "0x000440f5"
 msgid "Acquired Recipe: {CUSTOM0}"
-msgstr ""
+msgstr "조제법 획득: {CUSTOM0}"
 
 #. FILE: DA3\NPCs\Elven\npc_t_briala.xml
 #. PATH: CreatureEntitySpawnData/CharacterNameReference
@@ -15103,7 +15129,7 @@ msgstr "비비엔"
 #: DA3\NPCs\Global\npc_t_alistair_king.xml:401
 msgctxt "0x00018691"
 msgid "Alistair"
-msgstr ""
+msgstr "알리스터"
 
 #. FILE: DA3\NPCs\Global\npc_t_anora.xml
 #. PATH: CreatureEntitySpawnData/CharacterNameReference
@@ -15145,7 +15171,7 @@ msgstr "렐리아나"
 #: DA3\NPCs\Human\npc_t_Flemeth.xml:389
 msgctxt "0x000424b5"
 msgid "Flemeth"
-msgstr ""
+msgstr "플레메스"
 
 #. FILE: DA3\NPCs\Human\npc_t_empress_celene.xml
 #. PATH: CreatureEntitySpawnData/CharacterNameReference
@@ -15222,7 +15248,7 @@ msgstr ""
 #: DA3\NPCs\Human\npc_t_morrigan.xml:401
 msgctxt "0x00018678"
 msgid "Morrigan"
-msgstr ""
+msgstr "모리건"
 
 #. FILE: DA3\NPCs\Human\npc_t_pro_roderick.xml
 #. PATH: CreatureEntitySpawnData/CharacterNameReference
@@ -15236,7 +15262,7 @@ msgstr ""
 #: DA3\Persistence\AchievementTree.xml:106
 msgctxt "0x00042e3c"
 msgid "Level up the Inquisition to rank 10."
-msgstr ""
+msgstr "심문회 10레벨을 달성하세요."
 
 #. FILE: DA3\Persistence\AchievementTree.xml
 #. PATH: AwardAchievementData[1]/LocalizedName
@@ -15285,7 +15311,7 @@ msgstr ""
 #: DA3\Persistence\AchievementTree.xml:272
 msgctxt "0x00042858"
 msgid "Here Lies the Abyss"
-msgstr ""
+msgstr "여기 심연이 있노라"
 
 #. FILE: DA3\Persistence\AchievementTree.xml
 #. PATH: AwardAchievementData[5]/LocalizedDescription
@@ -15355,7 +15381,7 @@ msgstr ""
 #: DA3\Persistence\AchievementTree.xml:705
 msgctxt "0x00042847"
 msgid "In Your Heart Shall Burn"
-msgstr ""
+msgstr "너희 심장에 불꽃이 피리라"
 
 #. FILE: DA3\Persistence\AchievementTree.xml
 #. PATH: AwardAchievementData[10]/LocalizedDescription
@@ -15747,7 +15773,7 @@ msgstr ""
 #: DA3\Persistence\AchievementTree.xml:2360
 msgctxt "0x00042861"
 msgid "Doom upon All the World"
-msgstr ""
+msgstr "온 세상에 파멸을"
 
 #. FILE: DA3\Persistence\AchievementTree.xml
 #. PATH: AwardAchievementData[38]/LocalizedDescription
@@ -15803,7 +15829,7 @@ msgstr ""
 #: DA3\Persistence\AchievementTree.xml:2676
 msgctxt "0x0004285d"
 msgid "What Pride Had Wrought"
-msgstr ""
+msgstr "오만이 자초한 것"
 
 #. FILE: DA3\Persistence\AchievementTree.xml
 #. PATH: AwardAchievementData[42]/LocalizedDescription
@@ -16084,7 +16110,7 @@ msgstr ""
 #: DA3\Persistence\AchievementTree.xml:3923
 msgctxt "0x00042851"
 msgid "Wicked Eyes and Wicked Hearts"
-msgstr ""
+msgstr "사악한 눈길과 악독한 마음"
 
 #. FILE: DA3\Persistence\AchievementTree.xml
 #. PATH: AwardAchievementData[62]/LocalizedDescription
@@ -16168,7 +16194,7 @@ msgstr ""
 #: DA3\Persistence\AchievementTree.xml:4321
 msgctxt "0x00041b80"
 msgid "The Wrath of Heaven"
-msgstr ""
+msgstr "천상의 분노"
 
 #. FILE: DA3\Persistence\AchievementTree.xml
 #. PATH: AwardAchievementData[68]/LocalizedDescription
@@ -16518,7 +16544,7 @@ msgstr ""
 #: DA3_DLC1\DesignContent\Items\Skyhold\Drapes\dlc1_sky_drapes_1.xml:6
 msgctxt "0x00047157"
 msgid "Avvar Drapery"
-msgstr ""
+msgstr "아바르 휘장"
 
 #. FILE: DA3_DLC1\DesignContent\Items\Skyhold\Heraldry\dlc1_sky_heraldry_1.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -16763,7 +16789,7 @@ msgstr ""
 #: DA3_ItemPacks\ItemPack2\ip2_Stables_Warpaint_Nug.xml:5
 msgctxt "0x000476fc"
 msgid "Avvar War Nug"
-msgstr ""
+msgstr "아바르 전쟁 너그"
 
 #. FILE: DA3_ItemPacks\ItemPack2\ip2_Stables_Warpaint_Nug.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
@@ -16791,56 +16817,56 @@ msgstr ""
 #: DA3_ItemPacks\ItemPack2\ip2_equip_armor_medium_1p_avvar.xml:6
 msgctxt "0x000476c7"
 msgid "Avvar Armor"
-msgstr ""
+msgstr "아바르 방어구"
 
 #. FILE: DA3_ItemPacks\ItemPack2\ip2_equip_armor_medium_1p_barbarian.xml
 #. PATH: EquipItemAsset/DisplayName
 #: DA3_ItemPacks\ItemPack2\ip2_equip_armor_medium_1p_barbarian.xml:6
 msgctxt "0x00047651"
 msgid "Stone-Bear Armor"
-msgstr ""
+msgstr "돌곰 방어구"
 
 #. FILE: DA3_ItemPacks\ItemPack2\ip2_recipe_medium_1p_avvar.xml
 #. PATH: Recipe/CraftingName
 #: DA3_ItemPacks\ItemPack2\ip2_recipe_medium_1p_avvar.xml:39
 msgctxt "0x00047c88"
 msgid "Avvar Armor"
-msgstr ""
+msgstr "아바르 방어구"
 
 #. FILE: DA3_ItemPacks\ItemPack2\ip2_recipe_medium_1p_avvar_enhanced.xml
 #. PATH: Recipe/DisplayName
 #: DA3_ItemPacks\ItemPack2\ip2_recipe_medium_1p_avvar_enhanced.xml:6
 msgctxt "0x000476c9"
 msgid "Enhanced Avvar Armor"
-msgstr ""
+msgstr "증진된 아바르 방어구"
 
 #. FILE: DA3_ItemPacks\ItemPack2\ip2_recipe_medium_1p_avvar_superb.xml
 #. PATH: Recipe/DisplayName
 #: DA3_ItemPacks\ItemPack2\ip2_recipe_medium_1p_avvar_superb.xml:6
 msgctxt "0x000476c6"
 msgid "Superb Avvar Armor"
-msgstr ""
+msgstr "훌륭한 아바르 방어구"
 
 #. FILE: DA3_ItemPacks\ItemPack2\ip2_recipe_medium_1p_barbarian.xml
 #. PATH: Recipe/CraftingName
 #: DA3_ItemPacks\ItemPack2\ip2_recipe_medium_1p_barbarian.xml:39
 msgctxt "0x00047c89"
 msgid "Stone-Bear Armor"
-msgstr ""
+msgstr "돌곰 방어구"
 
 #. FILE: DA3_ItemPacks\ItemPack2\ip2_recipe_medium_1p_barbarian_enhanced.xml
 #. PATH: Recipe/DisplayName
 #: DA3_ItemPacks\ItemPack2\ip2_recipe_medium_1p_barbarian_enhanced.xml:6
 msgctxt "0x00047652"
 msgid "Enhanced Stone-Bear Armor"
-msgstr ""
+msgstr "증진된 돌곰 방어구"
 
 #. FILE: DA3_ItemPacks\ItemPack2\ip2_recipe_medium_1p_barbarian_superb.xml
 #. PATH: Recipe/DisplayName
 #: DA3_ItemPacks\ItemPack2\ip2_recipe_medium_1p_barbarian_superb.xml:6
 msgctxt "0x000476c8"
 msgid "Superb Stone-Bear Armor"
-msgstr ""
+msgstr "훌륭한 돌곰 방어구"
 
 #. FILE: DA3_ItemPacks\ItemPack3\ip3_BaseCust_Banner.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
@@ -16868,7 +16894,7 @@ msgstr ""
 #: DA3_ItemPacks\ItemPack3\ip3_equip_armor_heavy_1p_qunari.xml:6
 msgctxt "0x00048332"
 msgid "Shokra-taar"
-msgstr ""
+msgstr "쇼크라-타르"
 
 #. FILE: DA3_ItemPacks\ItemPack3\ip3_equip_armor_heavy_1p_qunari.xml
 #. PATH: EquipItemAsset/Description
@@ -16882,49 +16908,49 @@ msgstr ""
 #: DA3_ItemPacks\ItemPack3\ip3_equip_armor_light_1p_qunari.xml:6
 msgctxt "0x0004832d"
 msgid "Antaam-saar"
-msgstr ""
+msgstr "안탐-사르"
 
 #. FILE: DA3_ItemPacks\ItemPack3\ip3_recipe_heavy_1p_qunari_t1.xml
 #. PATH: Recipe/CraftingName
 #: DA3_ItemPacks\ItemPack3\ip3_recipe_heavy_1p_qunari_t1.xml:39
 msgctxt "0x00048337"
 msgid "Shokra-taar "
-msgstr ""
+msgstr "쇼크라-타르 "
 
 #. FILE: DA3_ItemPacks\ItemPack3\ip3_recipe_heavy_1p_qunari_t2.xml
 #. PATH: Recipe/DisplayName
 #: DA3_ItemPacks\ItemPack3\ip3_recipe_heavy_1p_qunari_t2.xml:6
 msgctxt "0x00048331"
 msgid "Enhanced Shokra-taar"
-msgstr ""
+msgstr "증진된 쇼크라-타르"
 
 #. FILE: DA3_ItemPacks\ItemPack3\ip3_recipe_heavy_1p_qunari_t3.xml
 #. PATH: Recipe/DisplayName
 #: DA3_ItemPacks\ItemPack3\ip3_recipe_heavy_1p_qunari_t3.xml:6
 msgctxt "0x00048330"
 msgid "Superb Shokra-taar"
-msgstr ""
+msgstr "훌륭한 쇼크라-타르"
 
 #. FILE: DA3_ItemPacks\ItemPack3\ip3_recipe_light_1p_qunari_t1.xml
 #. PATH: Recipe/CraftingName
 #: DA3_ItemPacks\ItemPack3\ip3_recipe_light_1p_qunari_t1.xml:39
 msgctxt "0x00048336"
 msgid "Antaam-saar"
-msgstr ""
+msgstr "안탐-사르"
 
 #. FILE: DA3_ItemPacks\ItemPack3\ip3_recipe_light_1p_qunari_t2.xml
 #. PATH: Recipe/DisplayName
 #: DA3_ItemPacks\ItemPack3\ip3_recipe_light_1p_qunari_t2.xml:6
 msgctxt "0x0004832f"
 msgid "Enhanced Antaam-saar"
-msgstr ""
+msgstr "증진된 안탐-사르"
 
 #. FILE: DA3_ItemPacks\ItemPack3\ip3_recipe_light_1p_qunari_t3.xml
 #. PATH: Recipe/DisplayName
 #: DA3_ItemPacks\ItemPack3\ip3_recipe_light_1p_qunari_t3.xml:6
 msgctxt "0x0004832e"
 msgid "Superb Antaam-saar"
-msgstr ""
+msgstr "훌륭한 안탐-사르"
 
 #. FILE: DA3_ItemPacks\ItemPack4\ip4_BaseCust_Drapes.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
@@ -17169,392 +17195,392 @@ msgstr ""
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:1069
 msgctxt "0x00038dd0"
 msgid "Scar Position"
-msgstr ""
+msgstr "흉터 위치"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIAudioSlider[1]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:7196
 msgctxt "0x0003e690"
 msgid "Voice"
-msgstr ""
+msgstr "목소리"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphPresetOption[1]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:7641
 msgctxt "0x0002db22"
 msgid "Head 4"
-msgstr ""
+msgstr "머리 4"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphPresetOption[2]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:7655
 msgctxt "0x0002db20"
 msgid "Head 2"
-msgstr ""
+msgstr "머리 2"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphPresetOption[3]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:7669
 msgctxt "0x0002db21"
 msgid "Head 3"
-msgstr ""
+msgstr "머리 3"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphPresetOption[6]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:7711
 msgctxt "0x0002db1f"
 msgid "Head 1"
-msgstr ""
+msgstr "머리 1"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphPresetOption[10]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:7767
 msgctxt "0x0002db23"
 msgid "Head 5"
-msgstr ""
+msgstr "머리 5"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[1]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8257
 msgctxt "0x00038dd6"
 msgid "Cheekbones"
-msgstr ""
+msgstr "광대뼈"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[2]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8274
 msgctxt "0x0004208b"
 msgid "Chin Shape"
-msgstr ""
+msgstr "앞턱 모양"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[3]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8291
 msgctxt "0x00038dd3"
 msgid "Ear Size"
-msgstr ""
+msgstr "귀 크기"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[4]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8308
 msgctxt "0x00041ec3"
 msgid "Nose Size"
-msgstr ""
+msgstr "코 크기"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[5]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8325
 msgctxt "0x00041ec8"
 msgid "Lip Thickness"
-msgstr ""
+msgstr "입술 두께"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[6]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8342
 msgctxt "0x0004286b"
 msgid "Eye Rotation and Spacing"
-msgstr ""
+msgstr "눈 각도와 미간"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[7]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8359
 msgctxt "0x00041eb7"
 msgid "Nose Tip Position"
-msgstr ""
+msgstr "코끝 위치"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[8]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8376
 msgctxt "0x0002c099"
 msgid "Forehead"
-msgstr ""
+msgstr "이마"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[9]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8393
 msgctxt "0x00042d10"
 msgid "Mouth Width"
-msgstr ""
+msgstr "입 너비"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[10]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8410
 msgctxt "0x00041ec7"
 msgid "Mouth Position"
-msgstr ""
+msgstr "입 위치"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[11]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8427
 msgctxt "0x00038dc4"
 msgid "Nostril Size"
-msgstr ""
+msgstr "콧구멍 크기"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[12]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8444
 msgctxt "0x00042867"
 msgid "Double Chin"
-msgstr ""
+msgstr "이중 턱"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[13]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8461
 msgctxt "0x00043a13"
 msgid "Eye Position"
-msgstr ""
+msgstr "눈 위치"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[18]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8546
 msgctxt "0x00041efd"
 msgid "Jaw Size"
-msgstr ""
+msgstr "아래턱 크기"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[19]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8563
 msgctxt "0x00042012"
 msgid "Earlobe Size"
-msgstr ""
+msgstr "귓볼 크기"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[21]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8595
 msgctxt "0x00041eba"
 msgid "Eye Size"
-msgstr ""
+msgstr "눈 크기"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[23]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8629
 msgctxt "0x00042034"
 msgid "Broken Nose"
-msgstr ""
+msgstr "부러진 코"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[25]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8663
 msgctxt "0x00041efe"
 msgid "Chin Size"
-msgstr ""
+msgstr "앞턱 크기"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[26]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8680
 msgctxt "0x0004204a"
 msgid "Cheek Shape"
-msgstr ""
+msgstr "광대 모양"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[27]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8697
 msgctxt "0x0004208a"
 msgid "Brow Size"
-msgstr ""
+msgstr "눈썹 크기"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[31]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8765
 msgctxt "0x00038dd8"
 msgid "Jawline"
-msgstr ""
+msgstr "턱선"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[32]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8782
 msgctxt "0x00041efc"
 msgid "Jowls"
-msgstr ""
+msgstr "턱살"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[34]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8816
 msgctxt "0x00042011"
 msgid "Ear Position"
-msgstr ""
+msgstr "귀 위치"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[38]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8884
 msgctxt "0x00038dd5"
 msgid "Adam's Apple"
-msgstr ""
+msgstr "목젖"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[39]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:8901
 msgctxt "0x00041eb4"
 msgid "Nose Position"
-msgstr ""
+msgstr "코 위치"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[47]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:9037
 msgctxt "0x00038dca"
 msgid "Bridge Position"
-msgstr ""
+msgstr "콧대 위치"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[49]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:9071
 msgctxt "0x00041eb6"
 msgid "Nose Bridge Size"
-msgstr ""
+msgstr "콧대 크기"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderBlend[63]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:9307
 msgctxt "0x00041eb3"
 msgid "Nose Tip Size"
-msgstr ""
+msgstr "코끝 크기"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderColorParameter[1]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:12997
 msgctxt "0x00042960"
 msgid "Under-Brow Color"
-msgstr ""
+msgstr "아랫눈썹 색깔"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderColorParameter[2]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:13011
 msgctxt "0x00042054"
 msgid "Blush Color"
-msgstr ""
+msgstr "블러쉬 색깔"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderColorParameter[3]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:13025
 msgctxt "0x00041ec6"
 msgid "Lip Liner Color"
-msgstr ""
+msgstr "립 라이너 색깔"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderColorParameter[5]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:13053
 msgctxt "0x0004295d"
 msgid "Under-Eye Color"
-msgstr ""
+msgstr "눈밑 색깔"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderColorParameter[6]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:13067
 msgctxt "0x00041ebd"
 msgid "Outer Iris Color"
-msgstr ""
+msgstr "바깥홍채 색깔"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderColorParameter[9]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:13109
 msgctxt "0x00042482"
 msgid "Eyelash Color"
-msgstr ""
+msgstr "속눈썹 색깔"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderColorParameter[10]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:13474
 msgctxt "0x00040e14"
 msgid "Tattoo Color"
-msgstr ""
+msgstr "문신 색깔"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderColorParameter[12]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:13502
 msgctxt "0x00042961"
 msgid "Eyeliner Color"
-msgstr ""
+msgstr "아이라이너 색깔"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderColorParameter[14]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:13530
 msgctxt "0x00041ec4"
 msgid "Lip Color"
-msgstr ""
+msgstr "입술 색깔"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderColorParameter[16]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:13558
 msgctxt "0x00041ebe"
 msgid "Inner Iris Color"
-msgstr ""
+msgstr "안쪽 홍채 색깔"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderColorParameter[43]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:14989
 msgctxt "0x0004295e"
 msgid "Eye Shadow Color"
-msgstr ""
+msgstr "아이섀도우 색깔"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderGroup[1]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:18019
 msgctxt "0x00038de3"
 msgid "Makeup"
-msgstr ""
+msgstr "화장"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderGroup[2]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:18053
 msgctxt "0x0002c09e"
 msgid "Mouth and Jaw"
-msgstr ""
+msgstr "입과 턱"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderGroup[3]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:18082
 msgctxt "0x0002c09a"
 msgid "Eyes"
-msgstr ""
+msgstr "눈"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderGroup[4]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:18109
 msgctxt "0x0001f1f4"
 msgid "Nose"
-msgstr ""
+msgstr "코"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderGroup[5]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:18136
 msgctxt "0x00043a15"
 msgid "Scars and Tattoos"
-msgstr ""
+msgstr "흉터 및 문신"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderGroup[5]/Gen3AltTitle
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:18145
 msgctxt "0x00037a5b"
 msgid "Tattoos"
-msgstr ""
+msgstr "문신"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderGroup[13]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:18344
 msgctxt "0x0004230c"
 msgid "General"
-msgstr ""
+msgstr "일반"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderGroup[28]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:18756
 msgctxt "0x00038dd2"
 msgid "Head and Ears"
-msgstr ""
+msgstr "두상과 귀"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderGroup[41]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:19129
 msgctxt "0x00037a66"
 msgid "Scars"
-msgstr ""
+msgstr "흉터"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderShape[1]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:23470
 msgctxt "0x00042ce5"
 msgid "Face Shape"
-msgstr ""
+msgstr "얼굴 모양"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderShape[1]/BlendTitle
@@ -17568,203 +17594,203 @@ msgstr ""
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:23494
 msgctxt "0x00042d0f"
 msgid "Mouth Shape"
-msgstr ""
+msgstr "입 모양"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderShape[5]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:23571
 msgctxt "0x00041ebb"
 msgid "Eye Shape"
-msgstr ""
+msgstr "눈 모양"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderShape[16]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:23845
 msgctxt "0x00042d0e"
 msgid "Nose Shape"
-msgstr ""
+msgstr "코 모양"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderSliderParameter[1]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:24468
 msgctxt "0x00041ec0"
 msgid "Eyebrow Style"
-msgstr ""
+msgstr "눈썹 모양"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderSliderParameter[2]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:24485
 msgctxt "0x00037eb9"
 msgid "Eye Shadow Coverage"
-msgstr ""
+msgstr "아이 섀도우 두께"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderSliderParameter[3]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:24502
 msgctxt "0x00037eba"
 msgid "Blush Coverage"
-msgstr ""
+msgstr "블러쉬 두께"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderSliderParameter[5]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:24536
 msgctxt "0x00037eb7"
 msgid "Eye Accent"
-msgstr ""
+msgstr "눈 강조"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderSliderParameter[7]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:24570
 msgctxt "0x00038ddf"
 msgid "Eye Shadow Intensity"
-msgstr ""
+msgstr "아이 섀도우 진하기"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderSliderParameter[8]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:24587
 msgctxt "0x00040e11"
 msgid "Vertical Position"
-msgstr ""
+msgstr "상하 위치"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderSliderParameter[9]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:24604
 msgctxt "0x00037ebb"
 msgid "Under-Brow Intensity"
-msgstr ""
+msgstr "아랫눈썹 진하기"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderSliderParameter[12]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:24655
 msgctxt "0x00037eb3"
 msgid "Eye Shadow"
-msgstr ""
+msgstr "아이 섀도우"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderSliderParameter[15]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:24706
 msgctxt "0x00038dde"
 msgid "Eyeliner Intensity"
-msgstr ""
+msgstr "아이라이너 진하기"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderSliderParameter[16]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:24723
 msgctxt "0x00038de1"
 msgid "Blush Intensity"
-msgstr ""
+msgstr "블러쉬 진하기"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderSliderParameter[17]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:24740
 msgctxt "0x00038de0"
 msgid "Lip Color Intensity"
-msgstr ""
+msgstr "입술 색깔 진하기"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderSliderParameter[22]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:24825
 msgctxt "0x00041ec2"
 msgid "Eyebrow Position"
-msgstr ""
+msgstr "눈썹 위치"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderSliderParameter[40]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:25131
 msgctxt "0x00040e12"
 msgid "Horizontal Position"
-msgstr ""
+msgstr "좌우 위치"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderSliderParameter[44]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:25199
 msgctxt "0x00037e9a"
 msgid "Eyebrow Opacity"
-msgstr ""
+msgstr "눈썹 투명도"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderSliderParameter[64]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:25539
 msgctxt "0x00041ec5"
 msgid "Lip Shine"
-msgstr ""
+msgstr "입술 반짝임"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderSliderParameter[65]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:25556
 msgctxt "0x00038db1"
 msgid "Under Brow"
-msgstr ""
+msgstr "아랫눈썹"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderStyle[1]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:29908
 msgctxt "0x0004249f"
 msgid "Hair"
-msgstr ""
+msgstr "헤어"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderStyle[2]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:34580
 msgctxt "0x00043da5"
 msgid "Complexion"
-msgstr ""
+msgstr "피부"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderStyle[4]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:39840
 msgctxt "0x0004200f"
 msgid "Eyelash Style"
-msgstr ""
+msgstr "속눈썹 모양"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderStyle[5]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:40319
 msgctxt "0x00042488"
 msgid "Tattoo Design"
-msgstr ""
+msgstr "문신 디자인"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderStyle[6]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:41884
 msgctxt "0x0004208f"
 msgid "Hair Color"
-msgstr ""
+msgstr "헤어 색깔"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderStyle[8]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:45957
 msgctxt "0x00043da6"
 msgid "Scar Intensity"
-msgstr ""
+msgstr "흉터 진하기"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderStyle[10]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:47874
 msgctxt "0x00041ebc"
 msgid "Eye Color"
-msgstr ""
+msgstr "눈 색깔"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderStyle[12]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:50959
 msgctxt "0x0001ef55"
 msgid "Beard"
-msgstr ""
+msgstr "수염"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderStyle[35]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:101474
 msgctxt "0x00037e9b"
 msgid "Eyebrow Style"
-msgstr ""
+msgstr "눈썹 모양"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderStyle[40]/Title
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:108784
 msgctxt "0x00040e13"
 msgid "Horns"
-msgstr ""
+msgstr "뿔"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderStyle[71]/Title
@@ -17778,14 +17804,14 @@ msgstr ""
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:237144
 msgctxt "0x0002c09c"
 msgid "Skin Tone"
-msgstr ""
+msgstr "피부색"
 
 #. FILE: Systems\Conversation\WheelData.xml
 #. PATH: ConversationSubchooserType[1]/SubChooserCaption
 #: Systems\Conversation\WheelData.xml:201
 msgctxt "0x0001b8bf"
 msgid "[Special.]"
-msgstr ""
+msgstr "[특수.]"
 
 #. FILE: Systems\Conversation\WheelData.xml
 #. PATH: ConversationSubchooserType[1]/BackCaption
@@ -18477,7 +18503,7 @@ msgstr ""
 #: da3_dlc_blue\designcontent\Wardrobe\dlcblue_wardrobe_base2_var1.xml:5
 msgctxt "0x0004a8f7"
 msgid "Venture Forth"
-msgstr ""
+msgstr "나아가기"
 
 #. FILE: da3_dlc_blue\designcontent\Wardrobe\dlcblue_wardrobe_base2_var1.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
@@ -19535,7 +19561,7 @@ msgstr ""
 #: da3_mp2\Combat\Kits\Bard\passive\Cprimer\party_mage_mp2_bard_passive_Cprimer_abilitydata.xml:5
 msgctxt "0x00047081"
 msgid "Tempest Music"
-msgstr ""
+msgstr "질풍의 음악"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\Cprimer\party_mage_mp2_bard_passive_Cprimer_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
