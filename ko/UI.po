@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-28 11:57+0000\n"
-"Last-Translator: 이하주 <haju9807@gmail.com>\n"
+"PO-Revision-Date: 2021-03-04 06:57+0000\n"
+"Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -133,7 +133,7 @@ msgstr ""
 #: UI\Flow\PRE_ChangeCharacter_Prefab.xml:546
 msgctxt "0x00042436"
 msgid "Character Promotion"
-msgstr ""
+msgstr "캐릭터 승급"
 
 #. FILE: UI\Flow\PRE_ChangeCharacter_Prefab.xml
 #. PATH: BWPopUpEntityData[1]/Text
@@ -155,13 +155,15 @@ msgstr "이 캐릭터를 승급 시키면 레벨과 기술이 초기화 되지�
 msgctxt "0x000491a2"
 msgid "<font color=\"#CCDDAA\">You are currently in a lobby. If you enter the Proving Grounds now, you'll be removed from this lobby. Continue?</font>"
 msgstr ""
+"<font color=\"#CCDDAA\">당신은 현재 로비에 있습니다. 결투장에 들어가게 되면 로비에서 나가게 됩니다. "
+"계속하시겠습니까?</font>"
 
 #. FILE: UI\Flow\PRE_ChangeCharacter_Prefab.xml
 #. PATH: BWPopUpEntityData[4]/Text
 #: UI\Flow\PRE_ChangeCharacter_Prefab.xml:681
 msgctxt "0x000491a4"
 msgid "<font color=\"#CCDDAA\">Are you sure you'd like to enter the Proving Grounds?</font>"
-msgstr ""
+msgstr "<font color=\"#CCDDAA\">결투장에 진입하시겠습니까?</font>"
 
 #. FILE: UI\Flow\PRE_ChangeCharacter_Prefab.xml
 #. PATH: BWPopUpEntityData[5]/Text
@@ -175,7 +177,7 @@ msgstr "이 캐릭터를 승급 시키면 레벨과 기술이 초기화 되지�
 #: UI\Flow\PRE_ChangeCharacter_Prefab.xml:761
 msgctxt "0x00048ac2"
 msgid "<font color=\"#CCDDAA\">Enter Proving Grounds</font>"
-msgstr ""
+msgstr "<font color=\"#CCDDAA\">증명의 장으로 입장</font>"
 
 #. FILE: UI\Flow\PRE_ChangeCharacter_Prefab.xml
 #. PATH: BWPopUpEntityData[6]/Text
@@ -183,6 +185,9 @@ msgstr ""
 msgctxt "0x000491a3"
 msgid "<font color=\"#CCDDAA\">We recommend new players start at the Proving Grounds. This typically takes about 10 minutes, and you'll receive a reward chest upon completion. If you skip it now, you can always enter the Proving Grounds from the Character Select screen. Would you like to enter the Proving Grounds now?</font>"
 msgstr ""
+"<font color=\"#CCDDAA\">신규 유저들은 증명의 장을 시작하는 것을 추천합니다. 이는 통상적으로 10분 정도 걸리며 모든 "
+"과정을 완료시 보상 상자를 제공합니다. 이를 건너뛰더라도 캐릭터 선택 화면에서 언제든지 증명의 장으로 진입할 수 있습니다. 지금 증명의 "
+"장으로 입장하시겠습니까?</font>"
 
 #. FILE: UI\Flow\PRE_ChangeCharacter_Prefab.xml
 #. PATH: BWPopUpEntityData[7]/Title
@@ -427,7 +432,7 @@ msgstr "제작한 물건:"
 #: UI\Flow\Screen\ENV\ENV_Crafting.xml:240
 msgctxt "0x0000bf13"
 msgid "MODIFICATION SLOTS:"
-msgstr ""
+msgstr "개조 슬롯:"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Crafting.xml
 #. PATH: UICraftingScreenAsset/LocalizedLabels/member[4]/UIScreenAssetLocalizedLabel/LocString
@@ -546,7 +551,7 @@ msgstr "방어구 제작"
 #: UI\Flow\Screen\ENV\ENV_Crafting.xml:410
 msgctxt "0x000437f6"
 msgid "Requisitions"
-msgstr ""
+msgstr "보급요청"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Crafting.xml
 #. PATH: UICraftingScreenAsset/LocalizedLabels/member[21]/UIScreenAssetLocalizedLabel/LocString
@@ -756,14 +761,14 @@ msgstr "도안"
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:234
 msgctxt "0x0000e337"
 msgid "Weapon Modification"
-msgstr ""
+msgstr "무기 개조"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/LocalizedLabels/member[2]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:244
 msgctxt "0x0000e33a"
 msgid "Armor Modification"
-msgstr ""
+msgstr "방어구 개조"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
@@ -805,7 +810,7 @@ msgstr "<font color=\"#{CUSTOM1}\">{CUSTOM0}</font>"
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:324
 msgctxt "0x00021d98"
 msgid "CONFIRM CHANGES"
-msgstr ""
+msgstr "변경 사항 저장"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/LocalizedLabels/member[12]/UIScreenAssetLocalizedLabel/LocString
@@ -882,14 +887,14 @@ msgstr ""
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:454
 msgctxt "0x00044f5a"
 msgid "Modify Weapon"
-msgstr ""
+msgstr "무기 개조하기"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/LocalizedLabels/member[24]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:464
 msgctxt "0x00044f59"
 msgid "Modify Armor"
-msgstr ""
+msgstr "방어구 개조하기"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/DamageTypeLabels/member[1]/UIItemDamageTypeLocalizationData/DamageTypeLabel
@@ -1051,7 +1056,7 @@ msgstr ""
 #: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml:183
 msgctxt "0x0003c0e9"
 msgid "Use tonics to enhance resistance or augment combat"
-msgstr ""
+msgstr "강장제를 사용해 저항을 높이거나 전투력을 강화하십시오"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml
 #. PATH: UIPotionCraftingScreenAsset/PotionCategories/member[2]/PotionCategoryData/UnknownPotionType
@@ -1389,7 +1394,7 @@ msgstr ""
 #: UI\Flow\Screen\ENV\ENV_WarTable.xml:88
 msgctxt "0x000272f8"
 msgid "Power Cost: {CUSTOM0}"
-msgstr ""
+msgstr "소모되는 역량: {CUSTOM0}"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_WarTable.xml
 #. PATH: UIWarTableScreenAsset/LocalizedLabels/member[6]/UIScreenAssetLocalizedLabel/LocString
@@ -1526,7 +1531,7 @@ msgstr "미지의 심연"
 msgctxt "0x0004a48f"
 msgid "A maze of long-forgotten caverns and tunnels winds down to the very heart of Thedas, awaiting the brave or foolish who would delve into the darkness."
 msgstr ""
-"오래 전 잊혀진 이 동굴과 지하통로들은 테다스의 최심부까지 이어지며, 어둠 속으로 뛰어들 용감한 자들, 혹은 어리석은 자들을 기다립니다."
+"오래 전 잊힌 이 동굴과 지하통로들은 테다스의 최심부까지 이어지며, 어둠 속으로 뛰어들 용감한 자들, 혹은 어리석은 자들을 기다립니다."
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Wartable_AfterActionReport.xml
 #. PATH: UIAfterActionReportScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
@@ -1953,7 +1958,7 @@ msgstr "시작 메뉴로 돌아가시겠습니까?"
 #: UI\Flow\Screen\PRE\PRE_CharGen_Head.xml:259
 msgctxt "0x00040d7f"
 msgid "Modify"
-msgstr ""
+msgstr "개조"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CharGen_Head.xml
 #. PATH: UICharGenHeadScreenAsset/LocalizedLabels/member[7]/UIScreenAssetLocalizedLabel/LocString
@@ -3383,7 +3388,7 @@ msgstr "표시한 아이템 재활용"
 #: UI\Flow\Screen\REC\REC_Inventory.xml:425
 msgctxt "0x000494b9"
 msgid "Runes and Sigils"
-msgstr ""
+msgstr "룬과 인장"
 
 #. FILE: UI\Flow\Screen\REC\REC_Inventory.xml
 #. PATH: UIBWInventoryScreenAsset/MaterialLabels/member[1]/UIItemMaterialTypeLocalizationData/MaterialLabel
@@ -3670,7 +3675,7 @@ msgstr "관심지"
 #: UI\Flow\Screen\REC\REC_WorldMap.xml:246
 msgctxt "0x0001fd42"
 msgid "Landmark"
-msgstr "랜드마크"
+msgstr "명소"
 
 #. FILE: UI\Flow\Screen\REC\REC_WorldMap.xml
 #. PATH: UIBWMapScreenAsset/LocalizedLabels/member[20]/UIScreenAssetLocalizedLabel/LocString
@@ -13815,14 +13820,14 @@ msgstr "심문관의 처소에 색유리창을 설치하십시오."
 #: UI\assets\BaseCustomization\BaseCust_Windows_Gonzalo.xml:5
 msgctxt "0x00043194"
 msgid "Serault Glass"
-msgstr "쇠라웃 유리창"
+msgstr "세로 유리창"
 
 #. FILE: UI\assets\BaseCustomization\BaseCust_Windows_Gonzalo.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\BaseCustomization\BaseCust_Windows_Gonzalo.xml:10
 msgctxt "0x00043195"
 msgid "Beautiful stained glass panels from the legendary Serault Glassworks. The envy of empires."
-msgstr "전설적인 쇠라웃 후작령의 유리공예소에서 만들어진 아름다운 색유리창이다. 제국의 모든 이가 부러워한다."
+msgstr "전설적인 세로 후작령의 유리공예소에서 만들어진 아름다운 색유리창이다. 제국의 모든 이가 부러워한다."
 
 #. FILE: UI\assets\CharacterCreation\CharacterClassUIData.xml
 #. PATH: UICharacterClassDataAsset/CharacterClasses/member[1]/CharacterClassUIData/ClassTitle
@@ -15644,7 +15649,7 @@ msgid ""
 "\n"
 "{string}308082{/string}"
 msgstr ""
-"모든 힐링 포션의 회복량이 1이 됩니다.\n"
+"모든 치유 물약의 회복량이 1이 됩니다.\n"
 "{string}307966{/string}\n"
 "\n"
 "{string}308082{/string}"
@@ -28060,28 +28065,28 @@ msgstr "그림자사냥꾼 드라콜리스크"
 #: UI\assets\Stables\Stables_Dracolisk.xml:10
 msgctxt "0x00042c0d"
 msgid "Rarely seen, the hunter shade is hardy and powerful. It requires a disciplined rider to take advantage of its skittish nature."
-msgstr ""
+msgstr "그림자사냥꾼은 아주 튼튼하고 강력하며 희귀한 탈것입니다. 변덕스러운 성질 때문에 잘 훈련된 기수만이 제대로 다룰 수 있습니다."
 
 #. FILE: UI\assets\Stables\Stables_Dracolisk2.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Dracolisk2.xml:5
 msgctxt "0x00042c0e"
 msgid "Abyssal Hang-Tooth"
-msgstr ""
+msgstr "심연의 엄니"
 
 #. FILE: UI\assets\Stables\Stables_Dracolisk2.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_Dracolisk2.xml:10
 msgctxt "0x00042c0f"
 msgid "At home in the Western Approach, none of its kind can be called \"common.\" Responsive, but not shy about testing the reins."
-msgstr ""
+msgstr "서부 접근지역에 서식하며, 절대 \"일반\"적인 생물은 아닙니다. 영민하지만, 종종 고삐의 튼튼함을 시험하는 것을 즐깁니다."
 
 #. FILE: UI\assets\Stables\Stables_Dracolisk3.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Dracolisk3.xml:5
 msgctxt "0x00042c10"
 msgid "Basking Longma"
-msgstr ""
+msgstr "그을린 용마"
 
 #. FILE: UI\assets\Stables\Stables_Dracolisk3.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
@@ -28089,20 +28094,21 @@ msgstr ""
 msgctxt "0x00042c11"
 msgid "A rare northern variant. Tevinter made efforts to breed them, but found them too spirited for riders without the will to match."
 msgstr ""
+"북쪽 지방에 서식하는 희귀한 아종입니다. 테빈터 제국은 이들을 교배시키려 했으나, 지나치게 기운이 넘쳐 감당할 수 있는 기수가 없었습니다."
 
 #. FILE: UI\assets\Stables\Stables_Dracolisk4.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Dracolisk4.xml:5
 msgctxt "0x000432c2"
 msgid "Blue River Bane"
-msgstr ""
+msgstr "푸른강 맹독"
 
 #. FILE: UI\assets\Stables\Stables_Dracolisk4.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_Dracolisk4.xml:10
 msgctxt "0x000432c3"
 msgid "While others of its species can be too wild to approach, this mount has been expertly trained while losing none of its spirit."
-msgstr ""
+msgstr "같은 종의 다른 개체들은 지나친 야생성 때문에 다가갈 수 없었지만, 이 탈것은 특유의 성질을 유지하면서도 훌륭히 길들여졌습니다."
 
 #. FILE: UI\assets\Stables\Stables_Dracolisk5.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
@@ -28116,7 +28122,7 @@ msgstr "사막의 번개"
 #: UI\assets\Stables\Stables_Dracolisk5.xml:10
 msgctxt "0x000432c5"
 msgid "Uncommon, fierce, and fast. An incredible find."
-msgstr ""
+msgstr "희귀하고, 흉포하며, 빠릅니다. 놀라운 발견입니다."
 
 #. FILE: UI\assets\Stables\Stables_Dracolisk6.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
@@ -28130,21 +28136,21 @@ msgstr "뾰족꼬리"
 #: UI\assets\Stables\Stables_Dracolisk6.xml:10
 msgctxt "0x000432c7"
 msgid "Rare coloration for a dracolisk. A particularly hardy mount."
-msgstr ""
+msgstr "드라콜리스크에서 찾아보기 힘든 배색입니다. 튼튼함이 두드러지는 탈것입니다."
 
 #. FILE: UI\assets\Stables\Stables_Dracolisk_Prima.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Dracolisk_Prima.xml:5
 msgctxt "0x000432be"
 msgid "Primal-Trained Longma"
-msgstr ""
+msgstr "태고의 훈련된 용마"
 
 #. FILE: UI\assets\Stables\Stables_Dracolisk_Prima.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_Dracolisk_Prima.xml:10
 msgctxt "0x000432bf"
 msgid "An impressively trained mount, stronger by half than other examples of the breed."
-msgstr ""
+msgstr "같은 종의 다른 개체에 비해 두 배는 강력한, 훌륭히 길들여진 탈것입니다."
 
 #. FILE: UI\assets\Stables\Stables_Dracolisk_Root.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
@@ -28165,147 +28171,147 @@ msgstr "말"
 #: UI\assets\Stables\Stables_Horse1.xml:5
 msgctxt "0x00042c12"
 msgid "Fereldan Forder"
-msgstr ""
+msgstr "페렐던 사역마"
 
 #. FILE: UI\assets\Stables\Stables_Horse1.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_Horse1.xml:10
 msgctxt "0x00042c13"
 msgid "A proud animal, the Fereldan forder ranges well beyond its namesake, at home in stables and armies across Thedas."
-msgstr ""
+msgstr "자긍심 넘치는 페렐던 사역마는 그 이름이 시사하는 바보다 널리, 테다스 전역의 가정과 군대에 퍼져 있습니다."
 
 #. FILE: UI\assets\Stables\Stables_Horse2.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Horse2.xml:5
 msgctxt "0x00042c14"
 msgid "Taslin Strider"
-msgstr ""
+msgstr "타슬린 질주마"
 
 #. FILE: UI\assets\Stables\Stables_Horse2.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_Horse2.xml:10
 msgctxt "0x00042c15"
 msgid "A refined breed common in the warm climes of Antiva. Suited to long distances and spirited charges."
-msgstr ""
+msgstr "안티바의 따뜻한 기후 속에 주로 서식하는 세련된 종입니다. 장거리 이동과 고속 질주에 알맞습니다."
 
 #. FILE: UI\assets\Stables\Stables_Horse3.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Horse3.xml:5
 msgctxt "0x00042c16"
 msgid "Green Dales Feral"
-msgstr ""
+msgstr "녹빛 데일스 야생마"
 
 #. FILE: UI\assets\Stables\Stables_Horse3.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_Horse3.xml:10
 msgctxt "0x00042c17"
 msgid "A fine example of a breed rarely seen on the field. Descended from stock that escaped during Qunari incursions in the north."
-msgstr ""
+msgstr "평야에서 드물게 발견되는 아름다운 종입니다. 쿠나리가 북쪽을 침공할 당시에 도망친 가축의 후손입니다."
 
 #. FILE: UI\assets\Stables\Stables_Horse4.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Horse4.xml:5
 msgctxt "0x00042c18"
 msgid "Dalish All-Bred"
-msgstr ""
+msgstr "데일스 혼혈종"
 
 #. FILE: UI\assets\Stables\Stables_Horse4.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_Horse4.xml:10
 msgctxt "0x00042c19"
 msgid "A hardy and sure-footed mount. Fiercely loyal, fully trained examples are highly prized, despite the breed's humble origins."
-msgstr ""
+msgstr "튼튼하고 믿음직스러운 탈것입니다. 소박한 혈통에도 불구하고 이들은 매우 충성스럽기에, 잘 훈련된 개체들은 높은 값에 거래됩니다."
 
 #. FILE: UI\assets\Stables\Stables_Horse5.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Horse5.xml:5
 msgctxt "0x00042c1a"
 msgid "Orlesian Courser"
-msgstr ""
+msgstr "올레이 준마"
 
 #. FILE: UI\assets\Stables\Stables_Horse5.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_Horse5.xml:10
 msgctxt "0x00042c1b"
 msgid "Spirited, with a lineage longer than most noble names. The pride of many a chevalier."
-msgstr ""
+msgstr "대부분의 귀족 가문보다도 오래된 혈통을 가졌으며 활기가 넘칩니다. 수많은 슈발리에의 자랑입니다."
 
 #. FILE: UI\assets\Stables\Stables_Horse6.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Horse6.xml:5
 msgctxt "0x000432b1"
 msgid "Amaranthine Charger"
-msgstr ""
+msgstr "아마란틴 군마"
 
 #. FILE: UI\assets\Stables\Stables_Horse6.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_Horse6.xml:10
 msgctxt "0x000432b2"
 msgid "Spirited but not unruly; an uncommon mount sure to impress."
-msgstr ""
+msgstr "기운이 넘치지만 제멋대로는 아닙니다. 사람들에게 인상을 남기기 충분한 희귀한 탈것입니다."
 
 #. FILE: UI\assets\Stables\Stables_Horse7.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Horse7.xml:5
 msgctxt "0x000432b3"
 msgid "Free Marches Ranger"
-msgstr ""
+msgstr "자유 동맹 삼림마"
 
 #. FILE: UI\assets\Stables\Stables_Horse7.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_Horse7.xml:10
 msgctxt "0x000432b4"
 msgid "A recently recognized breed coordinated by several Free Marcher city-states; the largest numbers pass through Tantervale."
-msgstr ""
+msgstr "몇몇 자유 동맹 도시국가에서 최근에 인정된 종입니다. 탠터베일 근방에 가장 큰 무리가 서식합니다."
 
 #. FILE: UI\assets\Stables\Stables_Horse8.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Horse8.xml:5
 msgctxt "0x000432b5"
 msgid "Anderfel Courser"
-msgstr ""
+msgstr "앤더펄스 준마"
 
 #. FILE: UI\assets\Stables\Stables_Horse8.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_Horse8.xml:10
 msgctxt "0x000432b6"
 msgid "Originally bred for the Grey Wardens, this uncommon breed is highly prized across Thedas."
-msgstr ""
+msgstr "회색 감시자들을 위해 교배된 이 희귀한 품종은 테다스 전역에서 높이 평가되고 있습니다."
 
 #. FILE: UI\assets\Stables\Stables_Horse9.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Horse9.xml:5
 msgctxt "0x000432b7"
 msgid "Imperial Warmblood"
-msgstr ""
+msgstr "제국 온혈마"
 
 #. FILE: UI\assets\Stables\Stables_Horse9.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_Horse9.xml:10
 msgctxt "0x000432bd"
 msgid "An imposing mount descended from stock that spread across Thedas during the height of Tevinter expansionism."
-msgstr ""
+msgstr "테빈터의 팽창주의가 극에 달했을 무렵, 테다스 전역에 전파된 가축의 후손인 인상적인 탈것입니다."
 
 #. FILE: UI\assets\Stables\Stables_Horse_AMD.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Horse_AMD.xml:5
 msgctxt "0x00042c1c"
 msgid "Avvar Mixed Draft"
-msgstr ""
+msgstr "아바르 혼혈종"
 
 #. FILE: UI\assets\Stables\Stables_Horse_AMD.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_Horse_AMD.xml:10
 msgctxt "0x00042c1d"
 msgid "A proud and adaptable variant of the breed, this horse is uniquely trained by a master."
-msgstr ""
+msgstr "적응력이 강하며 자긍심이 강한 아종입니다. 이 말은 조마사에게 특별히 훈련받았습니다."
 
 #. FILE: UI\assets\Stables\Stables_Horse_Armored.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Horse_Armored.xml:5
 msgctxt "0x00042c1e"
 msgid "Inquisition Barded Charger"
-msgstr ""
+msgstr "심문회 마갑 군마"
 
 #. FILE: UI\assets\Stables\Stables_Horse_Armored.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
@@ -28313,6 +28319,7 @@ msgstr ""
 msgctxt "0x00042c1f"
 msgid "Best of breed, clad in the barding of a master. Mount and armor are tailored for each other. One of a kind, and it knows it."
 msgstr ""
+"진정한 순종 혈통 말에, 명인이 벼린 마갑입니다. 탈것도 기수도 최고만 모였습니다. 아주 독보적인 조합이며, 이 녀석도 알고 있습니다."
 
 #. FILE: UI\assets\Stables\Stables_Horse_Logitech.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
@@ -28326,182 +28333,182 @@ msgstr "빛에 찢긴 준마"
 #: UI\assets\Stables\Stables_Horse_Logitech.xml:10
 msgctxt "0x00042c21"
 msgid "More construction than breed. A wondrous creature built by careful hands."
-msgstr ""
+msgstr "품종이라기보다는 구조물에 가깝습니다. 섬세한 손길로 빚어낸 놀라운 창조물입니다."
 
 #. FILE: UI\assets\Stables\Stables_Nug.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Nug.xml:5
 msgctxt "0x00042c22"
 msgid "Greater Nuggalope"
-msgstr ""
+msgstr "거대 너갈롭"
 
 #. FILE: UI\assets\Stables\Stables_Nug.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_Nug.xml:10
 msgctxt "0x00042c23"
 msgid "Stubborn and hardy, the Greater Mountain Nuggalope—or \"Deth Nug\"—makes a statement, and that statement is \"hands.\""
-msgstr ""
+msgstr "고집 세고 튼튼한 거대 산 너갈롭—혹은 \"죽음 너그\"—는 무언가를 상징합니다. 그리고 그 무언가는 \"손\" 입니다."
 
 #. FILE: UI\assets\Stables\Stables_Nug2.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Nug2.xml:5
 msgctxt "0x00044747"
 msgid "Knuckled Thunderer"
-msgstr ""
+msgstr "천둥 너갈롭"
 
 #. FILE: UI\assets\Stables\Stables_Nug2.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_Nug2.xml:10
 msgctxt "0x00044740"
 msgid "Some say thunder is the sound of distant nuggalopes rutting. Six of one, really."
-msgstr ""
+msgstr "어떤 사람들은 천둥이 사실 너갈롭들이 발정기에 내는 소리라고 합니다. 여섯 번 중에 한 번은요, 적어도."
 
 #. FILE: UI\assets\Stables\Stables_Nug3.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Nug3.xml:5
 msgctxt "0x00044746"
 msgid "Gwaren Land-Hammer"
-msgstr ""
+msgstr "그와렌 대지망치"
 
 #. FILE: UI\assets\Stables\Stables_Nug3.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_Nug3.xml:10
 msgctxt "0x0004473f"
 msgid "Fairly self-explanatory as breeds go."
-msgstr ""
+msgstr "이 종이 거의 그렇듯이, 이름에 보이는 그대로입니다."
 
 #. FILE: UI\assets\Stables\Stables_Nug4.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Nug4.xml:5
 msgctxt "0x0004238c"
 msgid "Battle Nug"
-msgstr ""
+msgstr "전투 너그"
 
 #. FILE: UI\assets\Stables\Stables_Nug4.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_Nug4.xml:10
 msgctxt "0x00044744"
 msgid "Avvar-harnessed and trained for war. Somehow."
-msgstr ""
+msgstr "아바르족이 고삐를 채워 전쟁을 위해 훈련시켰습니다. 어떻게든요."
 
 #. FILE: UI\assets\Stables\Stables_Nug5.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Nug5.xml:5
 msgctxt "0x00044743"
 msgid "Tiddles Majoris"
-msgstr ""
+msgstr "티들스 마졸리스"
 
 #. FILE: UI\assets\Stables\Stables_Nug5.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_Nug5.xml:10
 msgctxt "0x00044748"
 msgid "Powerful, but forever branded by similar coloration to a storied regent's lapnug."
-msgstr ""
+msgstr "강력하지만, 설화 속의 섭정이 키우던 애완 너그와 비슷한 색깔이라는 오명을 쓰고 살아갑니다."
 
 #. FILE: UI\assets\Stables\Stables_Nug_Root.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Nug_Root.xml:5
 msgctxt "0x000447ce"
 msgid "Exotics"
-msgstr ""
+msgstr "특수"
 
 #. FILE: UI\assets\Stables\Stables_RedHart.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_RedHart.xml:5
 msgctxt "0x00042c25"
 msgid "Red Hart"
-msgstr ""
+msgstr "붉은 숫사슴"
 
 #. FILE: UI\assets\Stables\Stables_RedHart.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_RedHart.xml:10
 msgctxt "0x00042c26"
 msgid "A great stag of impeccable health and ability. Such mounts are a triumph of breeding and careful training."
-msgstr ""
+msgstr "완벽한 체력과 기술을 가진 훌륭한 숫사슴입니다. 섬세한 교배와 꼼꼼한 훈련으로 인해 탄생했습니다."
 
 #. FILE: UI\assets\Stables\Stables_RedHart2.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_RedHart2.xml:5
 msgctxt "0x0004474b"
 msgid "Brecilian Sure-Foot"
-msgstr ""
+msgstr "브레실리안 큰발사슴"
 
 #. FILE: UI\assets\Stables\Stables_RedHart2.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_RedHart2.xml:10
 msgctxt "0x00044749"
 msgid "Silent when it wishes; fearsome when demanded."
-msgstr ""
+msgstr "원할 때는 얌전하지만, 명령에 따라서는 무시무시해집니다."
 
 #. FILE: UI\assets\Stables\Stables_RedHart3.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_RedHart3.xml:5
 msgctxt "0x00044742"
 msgid "Tirashan Swiftwind"
-msgstr ""
+msgstr "티라샨 날파람"
 
 #. FILE: UI\assets\Stables\Stables_RedHart3.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_RedHart3.xml:10
 msgctxt "0x00044741"
 msgid "Unnervingly intelligent; willing to \"correct\" its rider. It will not suffer fools."
-msgstr ""
+msgstr "무서울 정도로 지능적입니다. 기수의 잘못을 \"지적\"하기도 합니다. 멍청이는 태우기를 거부합니다."
 
 #. FILE: UI\assets\Stables\Stables_RedHart4.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_RedHart4.xml:5
 msgctxt "0x0004474c"
 msgid "Pride of Arlathan"
-msgstr ""
+msgstr "알라산의 오만"
 
 #. FILE: UI\assets\Stables\Stables_RedHart4.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_RedHart4.xml:10
 msgctxt "0x0004473e"
 msgid "Wide ranging along what may have been the route of elven exodus before Tevinter expansion."
-msgstr ""
+msgstr "테빈터의 침공 전 엘프들이 이주했던 길을 따라 넓게 분포한 종입니다."
 
 #. FILE: UI\assets\Stables\Stables_RedHart5.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_RedHart5.xml:5
 msgctxt "0x00044745"
 msgid "Wild Hart"
-msgstr ""
+msgstr "야생 숫사슴"
 
 #. FILE: UI\assets\Stables\Stables_RedHart5.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_RedHart5.xml:10
 msgctxt "0x0004474e"
 msgid "Tamed, but not broken. Nor could it be."
-msgstr ""
+msgstr "길들여졌지만, 부서지지는 않았습니다."
 
 #. FILE: UI\assets\Stables\Stables_RedHart6.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_RedHart6.xml:5
 msgctxt "0x0004473d"
 msgid "Royal Sixteen"
-msgstr ""
+msgstr "왕실 숫사슴"
 
 #. FILE: UI\assets\Stables\Stables_RedHart6.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
 #: UI\assets\Stables\Stables_RedHart6.xml:10
 msgctxt "0x0004474a"
 msgid "Southern lineage. Impressive points, but regal by any measure."
-msgstr ""
+msgstr "남쪽 혈통입니다. 특이한 모습이지만, 어떻게 보아도 왕의 기품이 넘칩니다."
 
 #. FILE: UI\assets\Stables\Stables_RedHart_Root.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_RedHart_Root.xml:5
 msgctxt "0x000447cc"
 msgid "Harts"
-msgstr ""
+msgstr "숫사슴"
 
 #. FILE: UI\assets\Stables\Stables_Unicorn_Bog.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
 #: UI\assets\Stables\Stables_Unicorn_Bog.xml:5
 msgctxt "0x00042c0a"
 msgid "Bog Unicorn"
-msgstr ""
+msgstr "습지 유니콘"
 
 #. FILE: UI\assets\Stables\Stables_Unicorn_Bog.xml
 #. PATH: UIBaseCustomizeItemAsset/Description
@@ -28509,3 +28516,5 @@ msgstr ""
 msgctxt "0x00042c0b"
 msgid "A proud charger made strange by fate. Whether possessed of a spirit, or whatever makes horses run, it yet wants to serve."
 msgstr ""
+"운명에 의해 변형된 긍지 높은 군마입니다. 이것에 빙의한 존재가 말을 뛰게 하는 어떤 것인지, 혹은 영혼인지는 모르지만, 여전히 주인을 "
+"섬기고 싶어합니다."

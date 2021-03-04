@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-28 11:55+0000\n"
-"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
+"PO-Revision-Date: 2021-03-04 06:57+0000\n"
+"Last-Translator: ㅇㅇ <sh916089@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -120,28 +120,28 @@ msgstr "성소 내부"
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\design\layer7_dsg_regions_schematic.xml:150
 msgctxt "0x0004302b"
 msgid "Petitioner's Chamber"
-msgstr ""
+msgstr "청원실"
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\map\myt_TempleOfMythal_floor0.xml
 #. PATH: BWMap/TitleReference
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\map\myt_TempleOfMythal_floor0.xml:25
 msgctxt "0x00043935"
 msgid "Temple of Mythal - Main Level"
-msgstr ""
+msgstr "미쌀의 사원 - 본관"
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\map\myt_TempleOfMythal_floor1.xml
 #. PATH: BWMap/TitleReference
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\map\myt_TempleOfMythal_floor1.xml:25
 msgctxt "0x00043936"
 msgid "Temple of Mythal - Lower Level"
-msgstr ""
+msgstr "미쌀의 사원 - 하층"
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\map\myt_TempleOfMythal_floor2.xml
 #. PATH: BWMap/TitleReference
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\map\myt_TempleOfMythal_floor2.xml:25
 msgctxt "0x00043938"
 msgid "Temple of Mythal - Exterior"
-msgstr ""
+msgstr "미쌀의 사원 - 외부"
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\myt_TempleOfMythal.xml
 #. PATH: UILevelDescriptionComponent/LocationName
@@ -162,14 +162,14 @@ msgstr "펜하렐의 조각상"
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\qst_370_falondin_lore\layer0_dsg_370_falondin_lore.xml:72
 msgctxt "0x000405f0"
 msgid "Mosaic of Falon'Din"
-msgstr "팔론딘의 모자이크"
+msgstr "팔런딘의 모자이크"
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\qst_380_andruil_lore\layer0_dsg_390_andruil_lore.xml
 #. PATH: BWGameInteractionEntityData[1]/InteractionTextReference
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\qst_380_andruil_lore\layer0_dsg_390_andruil_lore.xml:72
 msgctxt "0x0004061b"
 msgid "Mosaic of Andruil"
-msgstr "안두릴의 모자이크"
+msgstr "안드루일의 모자이크"
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\qst_560_lorestatues\layer2_dsg_560_lore_codex.xml
 #. PATH: BWGameInteractionEntityData[1]/InteractionTextReference
@@ -692,7 +692,7 @@ msgstr "포랜넌 골짜기"
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\dsg_lightquests_q03_waitingman\layer1_dsg_lightquests_q03_waitingman_general_schematic.xml:98
 msgctxt "0x000446d2"
 msgid "Agent Acquired"
-msgstr ""
+msgstr "요원 영입함"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\dsg_lightquests_q08_encounter\layer1_dsg_lightquests_q08_encounter_general_schematic.xml
 #. PATH: GetLocalizedStringIDData/Text
@@ -748,7 +748,7 @@ msgstr "편지 놓기"
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\grp_quests\layer7_str_characters_schematic.xml:1611
 msgctxt "0x000313ec"
 msgid "Power"
-msgstr ""
+msgstr "역량"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\grp_quests\layer7_str_characters_schematic.xml
 #. PATH: BWPopUpEntityData/Text
@@ -773,7 +773,7 @@ msgstr ""
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\map\Ferelden_Wilderness_Main_floor0.xml:549
 msgctxt "0x00029ebd"
 msgid "Landmark"
-msgstr "랜드마크"
+msgstr "명소"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\map\Ferelden_Wilderness_Main_floor0.xml
 #. PATH: BWMapPinLocation[15]/TitleReference
@@ -1060,7 +1060,7 @@ msgstr "이장"
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\chr_naturalist\layer0_chr_naturalist_main.xml:188
 msgctxt "0x00040809"
 msgid "Judith"
-msgstr ""
+msgstr "주디스"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\chr_savedelf\layer0_chr_savedelf_main.xml
 #. PATH: AppearanceOverrideSpawnData/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
@@ -1074,14 +1074,14 @@ msgstr ""
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer1_dsg_global_schematic.xml:59
 msgctxt "0x0001e4fd"
 msgid "Village of Crestwood"
-msgstr "산마루숲 민가"
+msgstr "크레스트우드 민가"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer1_dsg_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[2]/Text
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer1_dsg_global_schematic.xml:70
 msgctxt "0x0001e4e7"
 msgid "Old Crestwood"
-msgstr "구 산마루숲"
+msgstr "구 크레스트우드"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer1_dsg_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[3]/Text
@@ -1145,7 +1145,7 @@ msgstr "글렌모건 광산"
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml:122
 msgctxt "0x0001e4de"
 msgid "Dead Man's Pass"
-msgstr "죽은 자의 고갯길"
+msgstr "망자의 건널목"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[5]/Text
@@ -1210,7 +1210,7 @@ msgstr "남쪽 도로"
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml:232
 msgctxt "0x0001e518"
 msgid "New Crestwood Docks"
-msgstr "신 산마루숲 선창"
+msgstr "신 크레스트우드 선창"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[16]/Text
@@ -1238,7 +1238,7 @@ msgstr "평지"
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml:287
 msgctxt "0x000383d9"
 msgid "East Side Hills"
-msgstr ""
+msgstr "동부 고개"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[20]/Text
@@ -1322,7 +1322,7 @@ msgstr "이장의 옛 자택"
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_landmark_e\layer1_dsg_landmark_e_content_schematic.xml:43
 msgctxt "0x0002c276"
 msgid "Lawspeaker's Assembly"
-msgstr ""
+msgstr "규율지기의 집회소"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_landmark_f\layer1_dsg_landmark_f_content_schematic.xml
 #. PATH: GetLocalizedStringIDData/Text
@@ -1380,14 +1380,14 @@ msgstr "여관 들어가기"
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_tavern\layer3_dsg_tavern_global_schematic.xml:186
 msgctxt "0x000419aa"
 msgid "Crestwood Mayor's Key Required"
-msgstr "산마루숲 이장의 열쇠가 필요함"
+msgstr "크레스트우드 이장의 열쇠가 필요함"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_tavern\layer3_dsg_tavern_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[3]/Text
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\dsg_tavern\layer3_dsg_tavern_global_schematic.xml:223
 msgctxt "0x0002b8ed"
 msgid "Enter Crestwood"
-msgstr "산마루숲 들어가기"
+msgstr "크레스트우드 들어가기"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\map\fer_Wilderness_010_floor0.xml
 #. PATH: BWMap/TitleReference
@@ -1430,7 +1430,7 @@ msgstr "범람한 동굴"
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\map\fer_Wilderness_010_floor0.xml:1968
 msgctxt "0x00029e67"
 msgid "Village of Crestwood"
-msgstr "산마루숲 민가"
+msgstr "크레스트우드 민가"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\map\fer_Wilderness_010_floor0.xml
 #. PATH: BWMapPinLocation[42]/TitleReference
@@ -1452,7 +1452,7 @@ msgstr "북쪽 관문 야영지"
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\map\fer_Wilderness_010_floor0.xml:2766
 msgctxt "0x00029ebc"
 msgid "South Road"
-msgstr ""
+msgstr "남쪽 도로"
 
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\map\fer_Wilderness_010_floor0.xml
 #. PATH: BWMapPinLocation[69]/TitleReference
@@ -1691,14 +1691,14 @@ msgstr "강변 도로"
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0000_global\layer5_dsg_areanotifications_schematic.xml:41
 msgctxt "0x000187ab"
 msgid "The Approach"
-msgstr ""
+msgstr "접근지역"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0000_global\layer5_dsg_areanotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[3]/Text
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0000_global\layer5_dsg_areanotifications_schematic.xml:52
 msgctxt "0x0001e4e9"
 msgid "Forward Camp"
-msgstr ""
+msgstr "전초기지"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0000_global\layer5_dsg_areanotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[4]/Text
@@ -1748,6 +1748,13 @@ msgid ""
 "\n"
 "Some missions have a \"preferred\" type, which results in less time required when undertaken by the associated advisor. Missions may also provide different rewards, depending on which advisor completes them."
 msgstr ""
+"이제 작전을 실행할 수 있습니다. {appropriation}\n"
+"\n"
+"작전에는 시간이 들며, 심문회 자원과 보상을 얻을 수 있습니다.\n"
+"\n"
+"한 명의 고문은 한 번에 하나의 작전에만 착수할 수 있습니다.\n"
+"\n"
+"몇몇 임무에서는 특정 고문을 선택할 경우 더 적은 시간이 듭니다. 또한, 선택한 고문에 따라 보상이 달라질 수 있습니다."
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0101_wartable\layer3_dsg_0101_wartable_main_schematic.xml
 #. PATH: BWPopUpEntityData[2]/Title
@@ -2183,7 +2190,7 @@ msgstr "새로운 파티원 추가됨"
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0151_set_corpheus_templars\layer1_qst_0151_set_corpheus_templars_default.xml:3460
 msgctxt "0x00042acc"
 msgid "Knight-Captain Denam"
-msgstr "지휘관 데넘"
+msgstr "기사대장 데넘"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0190_pro_bridge\layer1_dsg_0190_pro_bridge_schematic.xml
 #. PATH: BWPopUpEntityData[1]/Title
@@ -2359,7 +2366,7 @@ msgstr ""
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml:502
 msgctxt "0x000335a0"
 msgid "Abilities"
-msgstr ""
+msgstr "기술"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml
 #. PATH: BWPopUpEntityData[4]/Text
@@ -2373,7 +2380,7 @@ msgstr "기술은 마나와 지구력을 소비하여 강력한 전투 효과를
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml:611
 msgctxt "0x00044946"
 msgid "Flashfire"
-msgstr ""
+msgstr "순간발화"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml
 #. PATH: BWPopUpEntityData[5]/Text
@@ -2398,13 +2405,15 @@ msgstr "은신"
 msgctxt "0x00044944"
 msgid "Stealth {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInventoryItem2}{/notcontroller}: Escape foes' notice until you attack or take damage."
 msgstr ""
+"은신 {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInventor"
+"yItem2}{/notcontroller}: 피해를 입거나 입힐 때까지 적의 시야에서 벗어납니다."
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml
 #. PATH: BWPopUpEntityData[7]/Title
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml:955
 msgctxt "0x00041f91"
 msgid "Long Shot"
-msgstr ""
+msgstr "장거리 사격"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml
 #. PATH: BWPopUpEntityData[7]/Text
@@ -2412,6 +2421,8 @@ msgstr ""
 msgctxt "0x00041f96"
 msgid "Long Shot {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: Fire at a foe, doing more damage to foes that are farther away."
 msgstr ""
+"장거리 사격 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInve"
+"ntoryItem1}{/notcontroller}: 적에게 사격을 가합니다. 더 멀리 떨어진 적에게 더 큰 피해를 입힙니다."
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml
 #. PATH: BWPopUpEntityData[8]/Title
@@ -2426,6 +2437,8 @@ msgstr "앙갚음"
 msgctxt "0x00041f94"
 msgid "Payback Strike {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: Lash out at nearby foes, doing more damage if you were just hurt."
 msgstr ""
+"앙갚음 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInvento"
+"ryItem1}{/notcontroller}: 주위의 적에게 무기를 휘두릅니다. 방금 피해를 입었다면 더 큰 피해를 가합니다."
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml
 #. PATH: BWPopUpEntityData[9]/Title
@@ -2440,6 +2453,8 @@ msgstr "함성"
 msgctxt "0x00044943"
 msgid "War Cry {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInventoryItem2}{/notcontroller}: Taunt nearby foes and build guard to absorb damage."
 msgstr ""
+"전장의 외침 {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInve"
+"ntoryItem2}{/notcontroller}: 주위의 적을 도발하고 방어도를 쌓아 피해를 막아냅니다."
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml
 #. PATH: BWPopUpEntityData[10]/Title
@@ -2463,7 +2478,7 @@ msgstr ""
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml:1493
 msgctxt "0x00041f92"
 msgid "Twin Fangs"
-msgstr ""
+msgstr "쌍 송곳니"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml
 #. PATH: BWPopUpEntityData[11]/Text
@@ -2471,13 +2486,15 @@ msgstr ""
 msgctxt "0x00041f8e"
 msgid "Twin Fangs {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: Strike with both daggers, doing more damage if attacking from behind."
 msgstr ""
+"쌍 송곳니 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInven"
+"toryItem1}{/notcontroller}: 양 손의 단검으로 적을 내리찌릅니다. 뒤에서 공격할 경우 추가 피해를 입힙니다."
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml
 #. PATH: BWPopUpEntityData[12]/Title
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml:1682
 msgctxt "0x00041f8d"
 msgid "Mighty Blow"
-msgstr ""
+msgstr "호쾌한 강타"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml
 #. PATH: BWPopUpEntityData[12]/Text
@@ -2485,6 +2502,8 @@ msgstr ""
 msgctxt "0x00041f90"
 msgid "Mighty Blow {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: Crumple nearby foes, doing more damage to already downed foes."
 msgstr ""
+"강렬한 일격 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInve"
+"ntoryItem1}{/notcontroller}: 주위의 적을 무너뜨립니다. 이미 쓰러진 적에게는 더 많은 피해를 입힙니다."
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0320_pro_lakecombat\layer1_dsg_0320_pro_lakecombat_schematic.xml
 #. PATH: BWPopUpEntityData[1]/Title
@@ -2536,7 +2555,7 @@ msgstr ""
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0320_pro_lakecombat\layer1_dsg_0320_pro_lakecombat_schematic.xml:398
 msgctxt "0x00042f8f"
 msgid "Party Switching"
-msgstr ""
+msgstr "동료 변경"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0320_pro_lakecombat\layer1_dsg_0320_pro_lakecombat_schematic.xml
 #. PATH: BWPopUpEntityData[3]/Text
@@ -2653,7 +2672,7 @@ msgstr ""
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0330_pro_firstrift\layer2_dsg_0330_pro_charrec_tutorial.xml:153
 msgctxt "0x0004382f"
 msgid "This is the Abilities screen, where you can purchase new powers from your characters' ability trees."
-msgstr ""
+msgstr "이것은 기술 화면입니다. 이곳에서 당신의 캐릭터를 위한 새로운 능력을 해금할 수 있습니다."
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0330_pro_firstrift\layer2_dsg_0330_pro_charrec_tutorial.xml
 #. PATH: BWPopUpEntityData[2]/Text
@@ -2767,6 +2786,8 @@ msgstr "전술 시점으로 파티 전원의 기술을 지휘하고 위치를 �
 msgctxt "0x00042eb3"
 msgid "{controller}Press {StringBtnLB} to open the radial menu for advanced controls and to use other potions.{/controller}"
 msgstr ""
+"{controller}{StringBtnLB}을 눌러 원형 메뉴를 열고 상세 조작을 하거나 다른 물약을 "
+"사용하십시오.{/controller}"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0810_pro_rift\layer1_dsg_0810_pro_rift_schematic.xml
 #. PATH: BWPopUpEntityData/Text
@@ -2779,13 +2800,20 @@ msgid ""
 "\n"
 "{controller}Hold {StringBtnA} when disrupt is available{/controller}{notcontroller}{StringBtnMouseRight} a rift to disrupt it when available{/notcontroller}."
 msgstr ""
+"당신의 캐릭터의 표식은 균열을 불안정화해 적들에게 피해를 줄 수 있습니다.\n"
+"\n"
+"불안정화가 가능할 때 기회를 노리십시오. 단, 피해를 입어 중간에 방해받는 것을 주의하십시오.\n"
+"\n"
+"불안정화가 가능할 때{controller}{StringBtnA}을 꾹 "
+"눌러{/controller}{notcontroller}{StringBtnMouseRight}를 눌러{/notcontroller} 균열을 "
+"불안정화하십시오."
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_1100_prologue\layer3_qst_1100_pro_flow_schematic.xml
 #. PATH: BWPopUpEntityData[1]/Text
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_1100_prologue\layer3_qst_1100_pro_flow_schematic.xml:180
 msgctxt "0x00034f3e"
 msgid "Are you sure you want to quit? Any unsaved progress will be lost."
-msgstr ""
+msgstr "정말로 나가시겠습니까? 저장되지 않은 진행 상황은 사라집니다."
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_1100_prologue\layer3_qst_1100_pro_flow_schematic.xml
 #. PATH: BWPopUpEntityData[2]/Text
@@ -2855,6 +2883,9 @@ msgid ""
 "\n"
 "Mark of the Rift causes massive damage and can even kill some enemies instantly."
 msgstr ""
+"균열의 표식을 획득했습니다. 이는 집중도를 사용하는 기술입니다.\n"
+"\n"
+"균열의 표식은 엄청난 피해를 주며 일부 적들을 즉사시킬 수 있습니다."
 
 #. FILE: DA3\Layouts\InquisitorBase2\MainBase\crit_0002_wildernesswander\layer3_crit_0001_wildernessphase1_schematic.xml
 #. PATH: BWPopUpEntityData[2]/Text
@@ -2867,6 +2898,11 @@ msgid ""
 "\n"
 "Each party member has a personal focus meter, but all party members gain focus when a single member deals damage."
 msgstr ""
+"균열의 표식은 집중도를 사용하는 기술입니다.\n"
+"\n"
+"집중도는 파티원이 피해를 입힐 때마다 얻을 수 있는 자원입니다.\n"
+"\n"
+"모든 파티원들에게는 각각의 집중도 게이지가 있으나, 한 명이 피해를 입히면 모든 파티원이 집중도를 얻습니다."
 
 #. FILE: DA3\Layouts\InquisitorBase2\MainBase\crit_0002_wildernesswander\layer3_crit_0001_wildernessphase1_schematic.xml
 #. PATH: BWPopUpEntityData[3]/Text
@@ -2874,6 +2910,8 @@ msgstr ""
 msgctxt "0x000448fe"
 msgid "Press {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller} to use Mark of the Rift."
 msgstr ""
+"{controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryIt"
+"em1}{/notcontroller}를 눌러 균열의 표식을 사용하십시오."
 
 #. FILE: DA3\Layouts\InquisitorBase2\MainBase\crit_0310_halamshiral_wrapup\layer1_crit_0310_main_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -2894,14 +2932,14 @@ msgstr "{CUSTOM0} {CUSTOM1}"
 #: DA3\Layouts\InquisitorBase2\MainBase\crit_0310_halamshiral_wrapup\layer1_crit_0310_main_schematic.xml:153
 msgctxt "0x000424a8"
 msgid "Mask of the Empress Acquired!"
-msgstr ""
+msgstr "여제의 가면 획득함!"
 
 #. FILE: DA3\Layouts\InquisitorBase2\MainBase\crit_0310_halamshiral_wrapup\layer1_crit_0310_main_schematic.xml
 #. PATH: NotificationEntityData[6]/TitleTextReference
 #: DA3\Layouts\InquisitorBase2\MainBase\crit_0310_halamshiral_wrapup\layer1_crit_0310_main_schematic.xml:770
 msgctxt "0x0002e8cd"
 msgid "Mask of the Ambassador Acquired!"
-msgstr ""
+msgstr "대사의 가면 획득함!"
 
 #. FILE: DA3\Layouts\InquisitorBase2\MainBase\design\layer0_zon_dsg_streaming.xml
 #. PATH: BWGameInteractionEntityData[1]/InteractionTextReference
@@ -3158,7 +3196,6 @@ msgstr "도서관"
 #. FILE: DA3\Layouts\Multiplayer\zones\prefabs\MPOrlais\DSG\Orl_Int_4E_L08_DSG.xml
 #. PATH: GetLocalizedStringIDData/Text
 #: DA3\Layouts\Multiplayer\zones\prefabs\MPOrlais\DSG\Orl_Int_4E_L08_DSG.xml:11212
-#, fuzzy
 msgctxt "0x000394af"
 msgid "Palace Grounds"
 msgstr "궁전 마당"
@@ -3331,7 +3368,7 @@ msgstr "대전당"
 #: DA3\Layouts\OneUseAreas\cal_Vicinius_House\cal_Vicinius_House.xml:4003
 msgctxt "0x00041b17"
 msgid "Vicinius's Home"
-msgstr "비키니우스의 집"
+msgstr "비시니우스의 집"
 
 #. FILE: DA3\Layouts\OneUseAreas\cal_Vicinius_House\design\layer2_dsg_areatransitions.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
@@ -3380,7 +3417,7 @@ msgstr "나탈리"
 #: DA3\Layouts\OneUseAreas\lel_Chantry\lel_Chantry.xml:4067
 msgctxt "0x000421fd"
 msgid "Valence Cloister"
-msgstr "발렌스 수도원"
+msgstr "발렁스 수도원"
 
 #. FILE: DA3\Layouts\OneUseAreas\nem_Final_Area\map\nem_Final_Area_floor1.xml
 #. PATH: BWMap/TitleReference
@@ -3534,7 +3571,7 @@ msgstr ""
 #: DA3\Layouts\TheDales\TheDales_Forest\design\layer3_dsg_regionnotifications_schematic.xml:233
 msgctxt "0x000383c3"
 msgid "Southfinger Watch"
-msgstr ""
+msgstr "남손가락 감시소"
 
 #. FILE: DA3\Layouts\TheDales\TheDales_Forest\design\layer3_dsg_regionnotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[18]/Text
@@ -3569,7 +3606,7 @@ msgstr "은보라 횃대"
 #: DA3\Layouts\TheDales\TheDales_Forest\design\layer3_dsg_regionnotifications_schematic.xml:288
 msgctxt "0x0003855c"
 msgid "Southfinger Tower"
-msgstr ""
+msgstr "남손가락 탑"
 
 #. FILE: DA3\Layouts\TheDales\TheDales_Forest\design\layer3_dsg_regionnotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[23]/Text
@@ -4486,7 +4523,7 @@ msgstr "은닉처"
 #: DA3\Layouts\TheDales\TheDales_Plains\TheDales_Plains\map\TheDales_Plains_floor0.xml:1424
 msgctxt "0x0003f815"
 msgid "Blow Horn"
-msgstr "뿔피리 불기"
+msgstr "뿔나팔 불기"
 
 #. FILE: DA3\Layouts\TheDales\TheDales_Plains\TheDales_Plains\map\TheDales_Plains_floor0.xml
 #. PATH: BWMapPinLocation[41]/TitleReference
@@ -4507,7 +4544,7 @@ msgstr "편린"
 #: DA3\Layouts\TheDales\TheDales_Plains\TheDales_Plains\map\TheDales_Plains_floor0.xml:8272
 msgctxt "0x00042eab"
 msgid "Riverwatch Camp"
-msgstr ""
+msgstr "강둑 감시 야영지"
 
 #. FILE: DA3\Layouts\TheDales\dgn_s_140\design\layer1_dsg_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -5860,7 +5897,7 @@ msgstr "전쟁"
 #: DA3\Layouts\TheFade\qst_0310_spideralley\layer0_qst_0310_ada_main.xml:1531
 msgctxt "0x00042522"
 msgid "Corruption"
-msgstr "부패"
+msgstr "타락"
 
 #. FILE: DA3\Layouts\TheFade\qst_0310_spideralley\layer0_qst_0310_ada_main.xml
 #. PATH: AppearanceOverrideSpawnData[4]/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
@@ -6112,7 +6149,7 @@ msgstr "메아리 협곡"
 #: DA3\Layouts\TheWesternApproach\TheWesternApproach_Main\design\layer7_dsg_regionnotifications_schematic.xml:62
 msgctxt "0x0001e4f5"
 msgid "Lost Wash Creek"
-msgstr "잊혀진 빨래터"
+msgstr "잊힌 빨래터"
 
 #. FILE: DA3\Layouts\TheWesternApproach\TheWesternApproach_Main\design\layer7_dsg_regionnotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[3]/Text
@@ -6154,7 +6191,7 @@ msgstr "사암 광산"
 #: DA3\Layouts\TheWesternApproach\TheWesternApproach_Main\design\layer7_dsg_regionnotifications_schematic.xml:182
 msgctxt "0x0001e4eb"
 msgid "Lost Spring Canyon"
-msgstr "잊혀진 샘 협곡"
+msgstr "잊힌 샘 협곡"
 
 #. FILE: DA3\Layouts\TheWesternApproach\TheWesternApproach_Main\design\layer7_dsg_regionnotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[9]/Text
@@ -6203,7 +6240,7 @@ msgstr "그리폰 날개 성채"
 #: DA3\Layouts\TheWesternApproach\TheWesternApproach_Main\design\layer7_dsg_regionnotifications_schematic.xml:317
 msgctxt "0x0001cf83"
 msgid "Forgotten Mine"
-msgstr "잊혀진 광산"
+msgstr "잊힌 광산"
 
 #. FILE: DA3\Layouts\TheWesternApproach\TheWesternApproach_Main\design\layer7_dsg_regionnotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[17]/Text
@@ -6294,7 +6331,7 @@ msgstr ""
 #: DA3\Layouts\TheWesternApproach\TheWesternApproach_Main\grp_collections\layer1_dsg_landmarks_schematic.xml:126
 msgctxt "0x0002c04b"
 msgid "The Lost Idol"
-msgstr "잊혀진 우상"
+msgstr "잊힌 우상"
 
 #. FILE: DA3\Layouts\TheWesternApproach\TheWesternApproach_Main\grp_collections\layer1_dsg_landmarks_schematic.xml
 #. PATH: GetLocalizedStringIDData[4]/Text
@@ -6399,7 +6436,7 @@ msgstr "오아시스 동굴"
 #: DA3\Layouts\TheWesternApproach\TheWesternApproach_Main\map\TheWesternApproach_Main_floor0.xml:1502
 msgctxt "0x00029ec1"
 msgid "Forgotten Mine"
-msgstr "잊혀진 광산"
+msgstr "잊힌 광산"
 
 #. FILE: DA3\Layouts\TheWesternApproach\TheWesternApproach_Main\map\TheWesternApproach_Main_floor0.xml
 #. PATH: BWMapPinLocation[27]/TitleReference
@@ -6455,7 +6492,7 @@ msgstr "메아리 협곡 야영지"
 #: DA3\Layouts\TheWesternApproach\TheWesternApproach_Main\map\TheWesternApproach_Main_floor0.xml:6174
 msgctxt "0x0003f65a"
 msgid "Lost Spring Canyon Camp"
-msgstr "잊혀진 샘 협곡 야영지"
+msgstr "잊힌 샘 협곡 야영지"
 
 #. FILE: DA3\Layouts\TheWesternApproach\TheWesternApproach_Main\map\TheWesternApproach_Main_floor0.xml
 #. PATH: BWMapPinLocation[101]/TitleReference
@@ -6801,7 +6838,7 @@ msgstr ""
 #: DA3\Layouts\ThematicLevels\the_Bog_530\design\layer31_dsg_codex_schematic.xml:563
 msgctxt "0x00041888"
 msgid "In memory of Aubrey, who died while carrying a message to the Inquisition."
-msgstr ""
+msgstr "심문회에 전언을 전하다 사망한 오브리를 기리며."
 
 #. FILE: DA3\Layouts\ThematicLevels\the_Bog_530\dsg_castle\layer0_dsg_castle_encounters.xml
 #. PATH: AppearanceOverrideSpawnData[3]/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
@@ -7103,7 +7140,7 @@ msgstr ""
 #: DA3\Layouts\ThematicLevels\the_DesertRuins_510\dsg_canyonstore\layer1_dsg_canyonstore_main_schematic.xml:101
 msgctxt "0x0004486b"
 msgid "Welcome to my shop! Be back soon. Betyar will make change for you!"
-msgstr ""
+msgstr "우리 가게에 어서오세요! 금방 돌아오겠습니다. 베트야르가 거스름돈을 드릴 겁니다!"
 
 #. FILE: DA3\Layouts\ThematicLevels\the_DesertRuins_510\dsg_canyonstore\layer1_dsg_canyonstore_main_schematic.xml
 #. PATH: GetLocalizedStringIDData[3]/Text
@@ -7770,7 +7807,7 @@ msgstr ""
 #: DA3\Layouts\ThematicLevels\the_StormCoast_540\dsg_ironbull_acquire\layer2_dsg_bul_acq_combat.xml:3411
 msgctxt "0x000433a5"
 msgid "Tevinter Gladiator"
-msgstr ""
+msgstr "테빈터 검투사"
 
 #. FILE: DA3\Layouts\ThematicLevels\the_StormCoast_540\dsg_ironbull_venatori_combat\layer0_dsg_ironbull_venatori_combat_main.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
@@ -7868,7 +7905,7 @@ msgstr "비밀의 길"
 #: DA3\Layouts\ThematicLevels\the_WaterRuins_520\design\layer18_dsg_regionnotifications_schematic.xml:165
 msgctxt "0x0002ba32"
 msgid "The Sanctuary"
-msgstr ""
+msgstr "성소"
 
 #. FILE: DA3\Layouts\ThematicLevels\the_WaterRuins_520\design\layer18_dsg_regionnotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[9]/Text
@@ -7882,7 +7919,7 @@ msgstr "더타멘의 잃어버린 사원"
 #: DA3\Layouts\ThematicLevels\the_WaterRuins_520\design\layer18_dsg_regionnotifications_schematic.xml:187
 msgctxt "0x0002ba34"
 msgid "Crypts of the Forgotten"
-msgstr "잊혀진 자의 지하실"
+msgstr "잊힌 자의 지하실"
 
 #. FILE: DA3\Layouts\ThematicLevels\the_WaterRuins_520\design\layer18_dsg_regionnotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[11]/Text
@@ -8137,7 +8174,7 @@ msgstr "발 르와이요 - 상층"
 #: DA3\Layouts\ValRoyeaux\ValRoyeaux_Main\qst_calperniamerchant\layer0_qst_calperniamerchant_main.xml:71
 msgctxt "0x00034d60"
 msgid "Travel to Vicinius's Home"
-msgstr "비키니우스의 집으로 이동"
+msgstr "비시니우스의 집으로 이동"
 
 #. FILE: DA3\Layouts\ValRoyeaux\ValRoyeaux_Main\qst_ser_arrow\layer1_dsg_arrow_main_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -8347,7 +8384,7 @@ msgstr "감옥 열쇠 필요"
 #: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\dsg_0400_ghe_captainencounter\layer2_dsg_0400_ghe_ce_main.xml:1140
 msgctxt "0x000286ff"
 msgid "Knight-Captain Denam"
-msgstr "지휘관 데넘"
+msgstr "기사대장 데넘"
 
 #. FILE: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\dsg_0400_grandhallentrance\layer10_dsg_0400_main.xml
 #. PATH: BWGameInteractionEntityData[1]/InteractionTextReference
@@ -8376,6 +8413,14 @@ msgid ""
 "\n"
 "Venner"
 msgstr ""
+"마리온:\n"
+"\n"
+"나도 두통 있어. 근데 붉은 거 먹는 애들이 하는 말이 다 괜찮아진다더라. 너도 곧 강해질 거야. 나는 어제 훈련에서 드디어 폴렛 병장님 "
+"이겼잖아. 두 번이나! 그 어이없는 표정이 아직도 생생해.\n"
+"\n"
+"붉은 리륨 하는 사람은 배급도 더 줄 건 가 봐. 내일은 너도 나랑 훈련가자. 보조를 맞춰줄 수 있는 사람이 필요해.\n"
+"\n"
+"베너"
 
 #. FILE: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\dsg_0400_grandhallentrance\layer11_dsg_0400_main_schematic.xml
 #. PATH: BWPopUpEntityData[2]/Title
@@ -8397,7 +8442,7 @@ msgid ""
 "\n"
 "Lord Seeker Lucius Corin"
 msgstr ""
-"부사령관 시그릭에게\n"
+"시그릭 기사대장에게\n"
 "\n"
 "내 분명 장교들이 우리의 다음 작전을 구상하는 동안은 기사들은 하급 병영에 제한된다는 지시를 내렸다. 기사단의 자부심은 너무나도 상처 "
 "입었고 나는 전우애 따위는 용납하지 않을 것이다. 세린팔 보루가 바로 우리의 목적을 되찾을 곳이란 말이다.\n"
@@ -8471,7 +8516,7 @@ msgid ""
 "\n"
 "Is it me, or does red lyrium sound different than the rest? I caught the new boy listening to it after stacking the crates. Dragged him out by his ears, but the knight-captain says put him on the red lyrium from now on. Too lenient if you ask me."
 msgstr ""
-"—세 상자, 고급품. 서부 분지 광산, 오잠마. 켈타르 가문.\n"
+"—세 상자, 고급품. 서부 분지 광산, 오자마르. 켈타르 가문.\n"
 "—두 상자, 일반품. 스테르난 봉우리, 앤더펄스. 겔트버그 마을.\n"
 "—\"붉은\" 리륨 다섯 상자. 출처 불분명함. 탐구자 지휘관의 명령에 따라서만 배급할 것.\n"
 "\n"
@@ -8480,7 +8525,7 @@ msgstr ""
 "이스릭, \n"
 "\n"
 "붉은 리륨은 다른 거랑 좀 달라 보이지 않아? 나만 그렇게 보이나? 새로 온 애가 상자를 쌓다가 거기에 귀를 대고 뭘 들으려고 하는 걸 "
-"봤어. 귀때기 잡고 끌고 나왔는데, 부사령관님이 이제부턴 걔한테 붉은 리륨을 맡기라고 하시더라. 너무 관대한 거 아닌가."
+"봤어. 귀때기 잡고 끌고 나왔는데, 기사대장님이 이제부턴 걔한테 붉은 리륨을 맡기라고 하시더라. 너무 관대한 거 아닌가."
 
 #. FILE: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\dsg_0610_wa_lordseekersoffice\layer1_dsg_0610_wa_lordseekersoffice_main_schematic.xml
 #. PATH: GetLocalizedStringIDData[2]/Text
@@ -8644,7 +8689,7 @@ msgstr "기슬레인 저택"
 #: DA3\Layouts\WorldMap\gen_da3_world_map\map\gen_da3_world_map_floor0.xml:1225
 msgctxt "0x00029f1f"
 msgid "Crestwood"
-msgstr "산마루숲"
+msgstr "크레스트우드"
 
 #. FILE: DA3\Layouts\WorldMap\gen_da3_world_map\map\gen_da3_world_map_floor0.xml
 #. PATH: BWMapPinLocation[11]/TitleReference
@@ -8838,7 +8883,7 @@ msgstr ""
 #: DA3_DLC1\Layouts\DLC1_Wilderness\design\layer14_dsg_regions_schematic.xml:139
 msgctxt "0x00045075"
 msgid "Swamp Kuldsdotten"
-msgstr ""
+msgstr "쿨즈도튼 늪"
 
 #. FILE: DA3_DLC1\Layouts\DLC1_Wilderness\design\layer14_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[8]/Text
@@ -8866,7 +8911,7 @@ msgstr "분지 바닥"
 #: DA3_DLC1\Layouts\DLC1_Wilderness\design\layer14_dsg_regions_schematic.xml:183
 msgctxt "0x0004709e"
 msgid "Research Outpost"
-msgstr "조사 전초기지"
+msgstr "연구 전초기지"
 
 #. FILE: DA3_DLC1\Layouts\DLC1_Wilderness\design\layer14_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[12]/Text
@@ -8950,7 +8995,7 @@ msgstr ""
 #: DA3_DLC1\Layouts\DLC1_Wilderness\design\layer14_dsg_regions_schematic.xml:385
 msgctxt "0x00046e30"
 msgid "Nigel's Point"
-msgstr ""
+msgstr "나이젤의 거점"
 
 #. FILE: DA3_DLC1\Layouts\DLC1_Wilderness\design\layer14_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[24]/Text
@@ -8978,7 +9023,7 @@ msgstr "메아리치는 입"
 #: DA3_DLC1\Layouts\DLC1_Wilderness\design\layer26_dsg_landmarks_schematic.xml:102
 msgctxt "0x00045a45"
 msgid "Nigel's Point"
-msgstr ""
+msgstr "나이젤의 거점"
 
 #. FILE: DA3_DLC1\Layouts\DLC1_Wilderness\design\layer26_dsg_landmarks_schematic.xml
 #. PATH: GetLocalizedStringIDData[4]/Text
@@ -9055,7 +9100,7 @@ msgstr "살인자의 황금 줍기"
 #: DA3_DLC1\Layouts\DLC1_Wilderness\map\DLC1_Wilderness_floor0.xml:560
 msgctxt "0x00045701"
 msgid "Trail Marker"
-msgstr ""
+msgstr "자취 표식기"
 
 #. FILE: DA3_DLC1\Layouts\DLC1_Wilderness\map\DLC1_Wilderness_floor0.xml
 #. PATH: BWMapPinLocation[7]/TitleReference
@@ -9160,7 +9205,7 @@ msgstr "짐승 유인"
 #: DA3_DLC1\Layouts\DLC1_Wilderness\qst_fight_back_hakkon\layer0_qst_fight_back_hakkon_general.xml:1703
 msgctxt "0x00046eee"
 msgid "Lieutenant Farrow"
-msgstr "패로우 중위"
+msgstr "패로우 부관"
 
 #. FILE: DA3_DLC1\Layouts\DLC1_Wilderness\qst_fight_back_hakkon\layer0_qst_fight_back_hakkon_general.xml
 #. PATH: AppearanceOverrideSpawnData[2]/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
@@ -9174,7 +9219,7 @@ msgstr "심문회 병사"
 #: DA3_DLC1\Layouts\DLC1_Wilderness\qst_islandencounter\layer1_qst_islandencounter_general_schematic.xml:1356
 msgctxt "0x000470db"
 msgid "New Ability: Aegis of the Rift"
-msgstr ""
+msgstr "새로운 능력: 균열의 방패"
 
 #. FILE: DA3_DLC1\Layouts\DLC1_Wilderness\qst_islandencounter\layer1_qst_islandencounter_general_schematic.xml
 #. PATH: BWPopUpEntityData/Text
@@ -9185,6 +9230,9 @@ msgid ""
 "\n"
 "Use this ability to turn the Veil itself into a magical shield that deflects enemy projectiles. It can be upgraded in the Inquisitor ability tree."
 msgstr ""
+"심문관이 새로운 능력을 얻었습니다: 균열의 방패\n"
+"\n"
+"이 능력은 장막을 마법 방패로 변화시켜 적들이 보내는 투사체를 빗나가게 합니다. 심문관의 기술 트리에서 등급을 올릴 수 있습니다."
 
 #. FILE: DA3_DLC1\Layouts\DLC1_Wilderness\qst_missingsoldiercarnage_props\layer1_qst_missingsoldiercarnage_props_general_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -9296,7 +9344,7 @@ msgstr "전망소"
 #: da3_dlc_blue\Layouts\DLCBlue_Dwarven_Dungeon\design\layer46_dsg_qunpowder_schematic.xml:70
 msgctxt "0x00049ced"
 msgid "Place Primer"
-msgstr ""
+msgstr "뇌관 설치"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_Dwarven_Dungeon\design\layer66_dsg_tutorials_schematic.xml
 #. PATH: BWPopUpEntityData/Text
@@ -9324,7 +9372,7 @@ msgstr "광산"
 #: da3_dlc_blue\Layouts\DLCBlue_Elven_Dungeon\DLCBlue_Elven_Dungeon.xml:5784
 msgctxt "0x00047e1a"
 msgid "Elven Mountain Ruins"
-msgstr ""
+msgstr "엘프 산 폐허"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_Elven_Dungeon\design\layer14_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -9408,7 +9456,7 @@ msgstr ""
 #: da3_dlc_blue\Layouts\DLCBlue_Fade_Dungeon\DLCBlue_Fade_Dungeon.xml:5232
 msgctxt "0x00047e1b"
 msgid "Shattered Library"
-msgstr ""
+msgstr "훼손된 도서관"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_Fade_Dungeon\design\layer11_dsg_doors_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -9478,7 +9526,7 @@ msgstr ""
 #: da3_dlc_blue\Layouts\DLCBlue_Fade_Dungeon\design\layer31_dsg_banter.xml:1331
 msgctxt "0x0004b046"
 msgid "Archivist"
-msgstr ""
+msgstr "기록 보관 담당자"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_Fade_Dungeon\design\layer32_dsg_banter_schematic.xml
 #. PATH: BWPopUpEntityData/Text
@@ -9499,7 +9547,7 @@ msgstr "사서"
 #: da3_dlc_blue\Layouts\DLCBlue_Fade_Dungeon\design\layer53_dsg_puzzle_schematic.xml:29
 msgctxt "0x0004b066"
 msgid "Light"
-msgstr ""
+msgstr "켜기"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_Fade_Dungeon\design\layer53_dsg_puzzle_schematic.xml
 #. PATH: BWPopUpEntityData/Text
@@ -9513,14 +9561,14 @@ msgstr ""
 #: da3_dlc_blue\Layouts\DLCBlue_Fade_Dungeon\prefabs\veilfire_offering_statue_nongroupable_autogen_Win32.xml:1111
 msgctxt "0x00041ae0"
 msgid "Requires Veilfire"
-msgstr ""
+msgstr "장막 불꽃이 필요합니다"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_Qunari_Dungeon\DLCBlue_Qunari_Dungeon.xml
 #. PATH: UILevelDescriptionComponent/LocationName
 #: da3_dlc_blue\Layouts\DLCBlue_Qunari_Dungeon\DLCBlue_Qunari_Dungeon.xml:5060
 msgctxt "0x00048c91"
 msgid "The Darvaarad"
-msgstr ""
+msgstr "다르바라드"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_Qunari_Dungeon\design\layer11_dsg_doors_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -9534,14 +9582,14 @@ msgstr ""
 #: da3_dlc_blue\Layouts\DLCBlue_Qunari_Dungeon\design\layer11_dsg_doors_schematic.xml:1865
 msgctxt "0x00047f0e"
 msgid "Storage Room Key Required"
-msgstr ""
+msgstr "창고 열쇠가 필요합니다"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_Qunari_Dungeon\design\layer14_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
 #: da3_dlc_blue\Layouts\DLCBlue_Qunari_Dungeon\design\layer14_dsg_regions_schematic.xml:31
 msgctxt "0x00048c96"
 msgid "Study"
-msgstr ""
+msgstr "서재"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_Qunari_Dungeon\design\layer14_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[2]/Text
@@ -9562,7 +9610,7 @@ msgstr ""
 #: da3_dlc_blue\Layouts\DLCBlue_Qunari_Dungeon\design\layer14_dsg_regions_schematic.xml:64
 msgctxt "0x00048c92"
 msgid "Research Tower"
-msgstr ""
+msgstr "탑을 조사하세요"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_Qunari_Dungeon\design\layer14_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[5]/Text
@@ -9583,14 +9631,14 @@ msgstr ""
 #: da3_dlc_blue\Layouts\DLCBlue_Qunari_Dungeon\design\layer14_dsg_regions_schematic.xml:97
 msgctxt "0x00048c94"
 msgid "Darvaarad Barracks"
-msgstr ""
+msgstr "다르바라드 병영"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_Qunari_Dungeon\design\layer14_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[9]/Text
 #: da3_dlc_blue\Layouts\DLCBlue_Qunari_Dungeon\design\layer14_dsg_regions_schematic.xml:166
 msgctxt "0x00048c98"
 msgid "Venom Extraction Chamber"
-msgstr ""
+msgstr "독극물 추출실"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_Qunari_Dungeon\design\layer54_dsg_firepit_schematic.xml
 #. PATH: NotificationEntityData/TitleTextReference
@@ -9695,7 +9743,7 @@ msgstr "대광장"
 #: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\design\layer11_dsg_regions_schematic.xml:200
 msgctxt "0x00047b14"
 msgid "The Crossroads"
-msgstr ""
+msgstr "교차로"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\design\layer11_dsg_regions_schematic.xml
 #. PATH: GetLocalizedStringIDData[8]/Text
@@ -9716,21 +9764,21 @@ msgstr "목욕탕"
 #: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\dsg_conferenceroom\layer0_dsg_conferenceroom_content.xml:14631
 msgctxt "0x000479e9"
 msgid "Duke Cyril"
-msgstr ""
+msgstr "시릴 공작"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\dsg_conferenceroom\layer0_dsg_conferenceroom_content.xml
 #. PATH: AppearanceOverrideSpawnData[3]/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
 #: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\dsg_conferenceroom\layer0_dsg_conferenceroom_content.xml:14651
 msgctxt "0x000479bf"
 msgid "Arl Teagan"
-msgstr ""
+msgstr "티건 백작"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\dsg_fireworks\layer0_dsg_fireworks_general.xml
 #. PATH: BWGameInteractionEntityData[2]/InteractionTextReference
 #: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\dsg_fireworks\layer0_dsg_fireworks_general.xml:1113
 msgctxt "0x00049f76"
 msgid "Detonate"
-msgstr ""
+msgstr "폭파하기"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\dsg_fireworks\layer1_dsg_fireworks_general_schematic.xml
 #. PATH: NotificationEntityData/TitleTextReference
@@ -9765,70 +9813,70 @@ msgstr ""
 #: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\map\DLCBlue_WinterPalace_floor2.xml:25
 msgctxt "0x0004b34d"
 msgid "Hidden Hollow"
-msgstr ""
+msgstr "숨겨진 굴"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\map\DLCBlue_WinterPalace_floor3.xml
 #. PATH: BWMap/TitleReference
 #: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\map\DLCBlue_WinterPalace_floor3.xml:25
 msgctxt "0x0004b34b"
 msgid "Abandoned Chateau"
-msgstr ""
+msgstr "버려진 성"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\map\DLCBlue_WinterPalace_floor4.xml
 #. PATH: BWMap/TitleReference
 #: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\map\DLCBlue_WinterPalace_floor4.xml:25
 msgctxt "0x0004b34e"
 msgid "Ancient Jail"
-msgstr ""
+msgstr "고대 감옥"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\map\DLCBlue_WinterPalace_floor5.xml
 #. PATH: BWMap/TitleReference
 #: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\map\DLCBlue_WinterPalace_floor5.xml:25
 msgctxt "0x0004b34c"
 msgid "Forgotten Tower"
-msgstr ""
+msgstr "잊혀진 탑"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\DLC_Red_Dungeon.xml
 #. PATH: UILevelDescriptionComponent/LocationName
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\DLC_Red_Dungeon.xml:10254
 msgctxt "0x0004a485"
 msgid "The Deep Roads"
-msgstr ""
+msgstr "지하 가도"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\DLC_Red_Dungeon\layer8_dsg_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\DLC_Red_Dungeon\layer8_dsg_global_schematic.xml:299
 msgctxt "0x0004810f"
 msgid "Bastion of the Pure"
-msgstr ""
+msgstr "순수의 요새"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\DLC_Red_Dungeon\layer8_dsg_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[2]/Text
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\DLC_Red_Dungeon\layer8_dsg_global_schematic.xml:318
 msgctxt "0x0004777a"
 msgid "Darkspawn Warrens"
-msgstr ""
+msgstr "어둠의 피조물 황무지"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\DLC_Red_Dungeon\layer8_dsg_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[3]/Text
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\DLC_Red_Dungeon\layer8_dsg_global_schematic.xml:631
 msgctxt "0x00048110"
 msgid "The Wellspring"
-msgstr ""
+msgstr "원천"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\DLC_Red_Dungeon\layer8_dsg_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[5]/Text
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\DLC_Red_Dungeon\layer8_dsg_global_schematic.xml:2115
 msgctxt "0x00049c84"
 msgid "Storm Coast Deep Roads"
-msgstr ""
+msgstr "폭풍 해안 지하 가도"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\DLC_Red_Dungeon\layer8_dsg_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[6]/Text
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\DLC_Red_Dungeon\layer8_dsg_global_schematic.xml:2173
 msgctxt "0x0004810e"
 msgid "Forgotten Caverns"
-msgstr ""
+msgstr "잊혀진 동굴"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\DLC_Red_Dungeon\layer8_dsg_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[7]/Text
@@ -9842,7 +9890,7 @@ msgstr ""
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\camp_improvements\layer0_camp_improvements_main.xml:471
 msgctxt "0x00040c19"
 msgid "Quartermaster"
-msgstr ""
+msgstr "병참장교"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\dsg_camp_streaming\layer0_camp_streaming.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
@@ -9863,7 +9911,7 @@ msgstr ""
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\dsg_level_2_the_descent_plot\layer0_qst_the_descent_content_level_2.xml:2485
 msgctxt "0x0004aa9d"
 msgid "Investigate the Corpses"
-msgstr ""
+msgstr "시신을 조사하세요"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\dsg_shared_level_2\layer1_dsg_shared_level_2_main_schematic.xml
 #. PATH: LootContainerData[1]/LootContainerName
@@ -9877,7 +9925,7 @@ msgstr ""
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\dsg_shared_level_2\layer9_dsg_shared_level_2_side_4_schematic.xml:946
 msgctxt "0x000491a8"
 msgid "Chest"
-msgstr ""
+msgstr "상자"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\dsg_shared_level_3\layer5_dsg_shared_level_3_exploration_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -9919,49 +9967,49 @@ msgstr ""
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor0.xml:245
 msgctxt "0x0004a078"
 msgid "Sha-Brytol Shrine"
-msgstr ""
+msgstr "샤브라이톨 성소"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor0.xml
 #. PATH: BWMapPinArea/TitleReference
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor0.xml:434
 msgctxt "0x0004ab10"
 msgid "To the Bastion of the Pure"
-msgstr ""
+msgstr "순수의 요새로"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor1.xml
 #. PATH: BWMapPinArea[1]/TitleReference
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor1.xml:184
 msgctxt "0x0004ab11"
 msgid "To the Forgotten Caverns"
-msgstr ""
+msgstr "잊혀진 동굴로"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor1.xml
 #. PATH: BWMapPinLocation[1]/TitleReference
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor1.xml:273
 msgctxt "0x000132ff"
 msgid "Barrier"
-msgstr ""
+msgstr "방어막"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor1.xml
 #. PATH: BWMapPinArea[2]/TitleReference
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor1.xml:561
 msgctxt "0x0004ab12"
 msgid "To the Wellspring"
-msgstr ""
+msgstr "원천으로"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor1.xml
 #. PATH: BWMapPinLocation[8]/TitleReference
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor1.xml:722
 msgctxt "0x0004a2e8"
 msgid "Place Earthshaker Weapon"
-msgstr "대지를 흔드는 자의 무기 놓기"
+msgstr "대지분쇄자의 무기를 놓자"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor1.xml
 #. PATH: BWMapPinLocation[12]/TitleReference
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor1.xml:963
 msgctxt "0x0004a3d7"
 msgid "Small Campsite"
-msgstr ""
+msgstr "소규모 야영지"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor1.xml
 #. PATH: BWMapPinLocation[14]/TitleReference
@@ -9982,7 +10030,7 @@ msgstr ""
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor1.xml:1335
 msgctxt "0x00047485"
 msgid "Sha-Brytol Earthshaker"
-msgstr "샤 브라이톨 대지를 흔드는 자"
+msgstr "샤브라이톨 대지분쇄자"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor2.xml
 #. PATH: BWMapPinSearchZone/TitleReference
@@ -9996,7 +10044,7 @@ msgstr ""
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor2.xml:276
 msgctxt "0x0004aa99"
 msgid "Explore the Forgotten Caverns"
-msgstr ""
+msgstr "잊혀진 동굴을 탐사하세요"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor2.xml
 #. PATH: BWMapPinLocation[4]/TitleReference
@@ -10066,14 +10114,14 @@ msgstr ""
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor3.xml:917
 msgctxt "0x0004a067"
 msgid "Establish Camp"
-msgstr ""
+msgstr "야영지를 세우세요"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor3.xml
 #. PATH: BWMapPinSearchZone[6]/TitleReference
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor3.xml:1103
 msgctxt "0x00047788"
 msgid "Darkspawn Nest"
-msgstr ""
+msgstr "어둠의 피조물 둥지"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor3.xml
 #. PATH: BWMapPinLocation[16]/TitleReference
@@ -10094,14 +10142,14 @@ msgstr ""
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor3.xml:1494
 msgctxt "0x0004ab17"
 msgid "Lift Up to the Darkspawn Warrens"
-msgstr ""
+msgstr "어둠의 피조물 황무지로 승강기를 타고 올라가세요"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor4.xml
 #. PATH: BWMapPinArea[1]/TitleReference
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor4.xml:215
 msgctxt "0x0004ab15"
 msgid "Lift Up to the Storm Coast Fissure"
-msgstr ""
+msgstr "폭풍 해안 균열로 승강기를 타고 올라가세요"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor4.xml
 #. PATH: BWMapPinLocation[2]/TitleReference
@@ -10115,7 +10163,7 @@ msgstr ""
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor4.xml:378
 msgctxt "0x0004a06f"
 msgid "Investigate the Corpses"
-msgstr ""
+msgstr "시신을 조사하세요"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor4.xml
 #. PATH: BWMapPinLocation[5]/TitleReference
@@ -10129,7 +10177,7 @@ msgstr ""
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor4.xml:440
 msgctxt "0x0004a7d5"
 msgid "Navigate the Darkspawn Warrens"
-msgstr ""
+msgstr "어둠의 피조물 황무지로 가는 길을 찾으세요"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor4.xml
 #. PATH: BWMapPinSearchZone[1]/TitleReference
@@ -10144,14 +10192,14 @@ msgstr ""
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor4.xml:549
 msgctxt "0x0004aa80"
 msgid "Solve the Puzzle"
-msgstr ""
+msgstr "수수께끼를 푸세요"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor4.xml
 #. PATH: BWMapPinArea[2]/TitleReference
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor4.xml:661
 msgctxt "0x0004ab16"
 msgid "Lift Down to the Ruins of Heidrun Thaig"
-msgstr ""
+msgstr "헤이드룬 타이크 폐허로 승강기를 타고 내려가세요"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor4.xml
 #. PATH: BWMapPinLocation[10]/TitleReference
@@ -10165,14 +10213,14 @@ msgstr ""
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor5.xml:336
 msgctxt "0x0004a894"
 msgid "Activate Lyrium Charges"
-msgstr ""
+msgstr "리륨 충전기를 작동하세요"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor5.xml
 #. PATH: BWMapPinArea/TitleReference
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor5.xml:659
 msgctxt "0x00047786"
 msgid "Lift Down"
-msgstr ""
+msgstr "내려가기"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor5.xml
 #. PATH: BWMapPinSearchZone[1]/TitleReference
@@ -10186,7 +10234,7 @@ msgstr ""
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor5.xml:785
 msgctxt "0x0004a04d"
 msgid "Ogre Alpha"
-msgstr ""
+msgstr "오우거 우두머리"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor5.xml
 #. PATH: BWMapPinLocation[10]/TitleReference
