@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-04 06:57+0000\n"
-"Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
+"PO-Revision-Date: 2021-03-08 03:58+0000\n"
+"Last-Translator: 박성범 <psb3421@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -223,6 +223,10 @@ msgstr "세이브 데이터를 가져오지 못했습니다. 나중에 다시 �
 msgctxt "0x00049ace"
 msgid "This searches the Dragon Age server for save data exported from your {ps4}PlayStation®3 system {/ps4}{xboxone}Xbox 360 {/xboxone}while using your current {ps4}Sony Entertainment Network account {/ps4}{xboxone}profile {/xboxone}and EA Origin account. <br>If your save data is present on the server, this feature will download and load that save data. <br><br>Do you wish to continue?"
 msgstr ""
+"현재 {ps4} Sony Entertainment Network 계정 {/ ps4} {xboxone}을 사용하면서 {ps4} "
+"PlayStation®3 시스템 {/ ps4} {xboxone} Xbox 360 {/ xboxone}에서 내 보낸 저장 데이터를 드래곤 "
+"에이지 서버에서 찾고있습니다.  프로필 {/ xboxone} 과 EA Origin 계정에 <br> 저장 데이터가 서버에있는 경우이 기능은 "
+"해당 저장 데이터를 다운로드를한다음 불러옵니다.  <br> 계속 하시겠습니까?"
 
 #. FILE: UI\Flow\PRE_MigrationSavegameImport_Prefab.xml
 #. PATH: MigrationSavegameImportEntityData/RequiresDlcString
@@ -237,13 +241,16 @@ msgstr "저장 파일을 불러오는데 필요한 DLC 정보가 없습니다. �
 msgctxt "0x0004a7cd"
 msgid "Your stored save data was uploaded from a different {ps4}Sony Entertainment Network account {/ps4}{xboxone}profile {/xboxone}than the one you are currently using. You must use the original {ps4}SEN account {/ps4}{xboxone}profile {/xboxone}to proceed."
 msgstr ""
+"해당 저장 파일은 현재 사용 중인 계정과 다른 {ps4}Sony Entertainment Network 계정 {/ps4}{xboxone}"
+"profile {/xboxone}에서 업로드 되었습니다. 계속 진행하기 위해서는 기존의 {ps4}SEN 계정 {/ps4}{xboxone}"
+"profile {/xboxone}이 필요합니다."
 
 #. FILE: UI\Flow\PRE_MigrationSavegameImport_Prefab.xml
 #. PATH: MigrationSavegameImportEntityData/SavegamePropertiesConfirmationString
 #: UI\Flow\PRE_MigrationSavegameImport_Prefab.xml:204
 msgctxt "0x00049acd"
 msgid "You have a saved game with the following information ready for import. Continue?"
-msgstr ""
+msgstr "해당 정보의 저장 파일에 대해 업로드 준비가 완료되었습니다. 계속하시겠습니까?"
 
 #. FILE: UI\Flow\PRE_MigrationSavegameImport_Prefab.xml
 #. PATH: MigrationSavegameImportEntityData/SavegamePropertiesKeyValuePairString
@@ -258,27 +265,29 @@ msgstr "{CUSTOM0}: {CUSTOM1}"
 msgctxt "0x00049aca"
 msgid "The EA Origin account linked to your current {ps4}Sony Entertainment Network account {/ps4}{xboxone}profile {/xboxone}has no previously uploaded save data to import."
 msgstr ""
+"현재 {ps4}Sony Entertainment Network account {/ps4}{xboxone}profile {/xboxone}"
+"과 연결된 EA Origin 계정에 내보낼 수 있는 과거 업로드 되었던 저장 파일이 없습니다."
 
 #. FILE: UI\Flow\PRE_MigrationSavegameImport_Prefab.xml
 #. PATH: MigrationSavegameImportEntityData/DownloadingMetadataString
 #: UI\Flow\PRE_MigrationSavegameImport_Prefab.xml:224
 msgctxt "0x00049ea4"
 msgid "Checking for save data on server"
-msgstr ""
+msgstr "서버에 있는 저장 파일을 확인하고 있습니다."
 
 #. FILE: UI\Flow\PRE_MigrationSavegameImport_Prefab.xml
 #. PATH: MigrationSavegameImportEntityData/DownloadingSavegameString
 #: UI\Flow\PRE_MigrationSavegameImport_Prefab.xml:229
 msgctxt "0x00049ea2"
 msgid "Downloading save data from server"
-msgstr ""
+msgstr "서버에 있는 저장 파일을 다운로드 하는 중입니다."
 
 #. FILE: UI\Flow\PRE_MigrationSavegameImport_Prefab.xml
 #. PATH: MigrationSavegameImportEntityData/DownloadSaveSucceededString
 #: UI\Flow\PRE_MigrationSavegameImport_Prefab.xml:234
 msgctxt "0x00049ad4"
 msgid "You have successfully downloaded your save data."
-msgstr ""
+msgstr "저장된 파일을 성공적으로 다운로드 했습니다."
 
 #. FILE: UI\Flow\PRE_MigrationSavegameImport_Prefab.xml
 #. PATH: MigrationSavegameImportEntityData/NameString
@@ -460,7 +469,7 @@ msgstr "<font>{CUSTOM0} {CUSTOM1}</font>"
 #: UI\Flow\Screen\ENV\ENV_Crafting.xml:280
 msgctxt "0x00023f99"
 msgid "{CUSTOM0}% chance of Masterwork"
-msgstr ""
+msgstr "{CUSTOM0}% 확률로 명품 제작"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Crafting.xml
 #. PATH: UICraftingScreenAsset/LocalizedLabels/member[8]/UIScreenAssetLocalizedLabel/LocString
@@ -488,28 +497,28 @@ msgstr "선택사항: {CUSTOM0} {CUSTOM1}"
 #: UI\Flow\Screen\ENV\ENV_Crafting.xml:320
 msgctxt "0x000245c6"
 msgid "Masterwork Success!"
-msgstr ""
+msgstr "명품 제작 성공!"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Crafting.xml
 #. PATH: UICraftingScreenAsset/LocalizedLabels/member[12]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Crafting.xml:330
 msgctxt "0x000245c5"
 msgid "Masterwork Failure"
-msgstr ""
+msgstr "명품 제작 실패"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Crafting.xml
 #. PATH: UICraftingScreenAsset/LocalizedLabels/member[13]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Crafting.xml:340
 msgctxt "0x0001bc04"
 msgid "{CUSTOM0} Damage"
-msgstr ""
+msgstr "{CUSTOM0} 피해"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Crafting.xml
 #. PATH: UICraftingScreenAsset/LocalizedLabels/member[14]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Crafting.xml:350
 msgctxt "0x00021de7"
 msgid "EMPTY"
-msgstr ""
+msgstr "비어 있음"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Crafting.xml
 #. PATH: UICraftingScreenAsset/LocalizedLabels/member[15]/UIScreenAssetLocalizedLabel/LocString
@@ -649,7 +658,7 @@ msgstr "무기 룬"
 #: UI\Flow\Screen\ENV\ENV_Crafting.xml:580
 msgctxt "0x0002e8f4"
 msgid "All Armor"
-msgstr "모든 갑옷"
+msgstr "모든 방어구"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Crafting.xml
 #. PATH: UICraftingScreenAsset/Categories/member[10]/UICraftingCategoryData/CategoryLabel
@@ -663,35 +672,35 @@ msgstr "투구"
 #: UI\Flow\Screen\ENV\ENV_Crafting.xml:606
 msgctxt "0x0002ba85"
 msgid "Light Armor"
-msgstr "경장 갑옷"
+msgstr "경량 방어구"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Crafting.xml
 #. PATH: UICraftingScreenAsset/Categories/member[12]/UICraftingCategoryData/CategoryLabel
 #: UI\Flow\Screen\ENV\ENV_Crafting.xml:619
 msgctxt "0x0002ba86"
 msgid "Medium Armor"
-msgstr ""
+msgstr "평갑 방어구"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Crafting.xml
 #. PATH: UICraftingScreenAsset/Categories/member[13]/UICraftingCategoryData/CategoryLabel
 #: UI\Flow\Screen\ENV\ENV_Crafting.xml:632
 msgctxt "0x0002ba87"
 msgid "Heavy Armor"
-msgstr "중장 갑옷"
+msgstr "중갑 방어구"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_InquisitionCustomization.xml
 #. PATH: UIInquisitionCustomizationScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_InquisitionCustomization.xml:54
 msgctxt "0x0002f0bb"
 msgid "POINTS TO SPEND"
-msgstr ""
+msgstr "사용 가능 점수"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_InquisitionCustomization.xml
 #. PATH: UIInquisitionCustomizationScreenAsset/LocalizedLabels/member[2]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_InquisitionCustomization.xml:64
 msgctxt "0x0002f0bc"
 msgid "ACQUIRE"
-msgstr ""
+msgstr "획득"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_InquisitionCustomization.xml
 #. PATH: UIInquisitionCustomizationScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
@@ -733,21 +742,21 @@ msgstr "요구사항:"
 #: UI\Flow\Screen\ENV\ENV_InquisitionCustomization.xml:124
 msgctxt "0x00032428"
 msgid "Points Needed in Category"
-msgstr ""
+msgstr "포인트 필요"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_LootPopup.xml
 #. PATH: UILootPopupScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_LootPopup.xml:48
 msgctxt "0x00029c16"
 msgid "{CUSTOM0} Gold"
-msgstr ""
+msgstr "{CUSTOM0} 금화"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_LootPopup.xml
 #. PATH: UILootPopupScreenAsset/LocalizedLabels/member[2]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_LootPopup.xml:58
 msgctxt "0x00043de8"
 msgid "Recipe"
-msgstr ""
+msgstr "조제법"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_LootPopup.xml
 #. PATH: UILootPopupScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
@@ -775,7 +784,7 @@ msgstr "방어구 개조"
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:254
 msgctxt "0x0000e33d"
 msgid "Remove Upgrade"
-msgstr ""
+msgstr "강화 제거"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/LocalizedLabels/member[5]/UIScreenAssetLocalizedLabel/LocString
@@ -817,70 +826,70 @@ msgstr "변경 사항 저장"
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:344
 msgctxt "0x00021deb"
 msgid "No items available"
-msgstr ""
+msgstr "사용 가능한 아이템이 없습니다."
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/LocalizedLabels/member[13]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:354
 msgctxt "0x00027129"
 msgid "Toggle Item Filtering by User"
-msgstr ""
+msgstr "사용자별 아이템 필터링 전환"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/LocalizedLabels/member[14]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:364
 msgctxt "0x0002c2da"
 msgid "No upgrades available for this item"
-msgstr ""
+msgstr "이 아이템에 적용 가능한 강화가 없습니다."
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/LocalizedLabels/member[15]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:374
 msgctxt "0x0002c2db"
 msgid "No {CUSTOM0} upgrades available"
-msgstr ""
+msgstr "가능한 {CUSTOM0} 강화 없음"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/LocalizedLabels/member[16]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:384
 msgctxt "0x0004295b"
 msgid "Confirm Rune Changes"
-msgstr ""
+msgstr "룬 변경 확인"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/LocalizedLabels/member[17]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:394
 msgctxt "0x0004295c"
 msgid "Enchanting an item will consume the rune. Do you want to continue?"
-msgstr ""
+msgstr "아이템에 마법을 부여하면 하면 룬이 소모됩니다. 계속하시겠습니까?"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/LocalizedLabels/member[19]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:414
 msgctxt "0x00044b1d"
 msgid "Do you want to keep your changes?"
-msgstr ""
+msgstr "변경 사항을 유지하겠습니까?"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/LocalizedLabels/member[20]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:424
 msgctxt "0x00044acd"
 msgid "Enchanting an item will consume the rune. Do you want to keep your changes?"
-msgstr ""
+msgstr "아이템에 마법을 부여하면 룬이 소모됩니다. 변경 사항을 유지하겠습니까?"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/LocalizedLabels/member[21]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:434
 msgctxt "0x00044f52"
 msgid "Upgrading an item will consume the upgrade(s). Do you want to continue?"
-msgstr ""
+msgstr "아이템을 강화하면 강화 재료를 소모합니다. 계속하시겠습니까?"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/LocalizedLabels/member[22]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:444
 msgctxt "0x00013347"
 msgid "Upgrades"
-msgstr ""
+msgstr "강화"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/LocalizedLabels/member[23]/UIScreenAssetLocalizedLabel/LocString
@@ -901,147 +910,147 @@ msgstr "방어구 개조하기"
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:477
 msgctxt "0x00023791"
 msgid "N/A"
-msgstr ""
+msgstr "없음"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/DamageTypeLabels/member[2]/UIItemDamageTypeLocalizationData/DamageTypeLabel
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:487
 msgctxt "0x0001b3f2"
 msgid "Physical"
-msgstr ""
+msgstr "물리"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/DamageTypeLabels/member[3]/UIItemDamageTypeLocalizationData/DamageTypeLabel
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:497
 msgctxt "0x0001b3f1"
 msgid "Fire"
-msgstr ""
+msgstr "화염"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/DamageTypeLabels/member[4]/UIItemDamageTypeLocalizationData/DamageTypeLabel
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:507
 msgctxt "0x0001b3f0"
 msgid "Cold"
-msgstr ""
+msgstr "냉기"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/DamageTypeLabels/member[5]/UIItemDamageTypeLocalizationData/DamageTypeLabel
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:517
 msgctxt "0x0001b3f3"
 msgid "Electricity"
-msgstr ""
+msgstr "전기"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/DamageTypeLabels/member[6]/UIItemDamageTypeLocalizationData/DamageTypeLabel
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:527
 msgctxt "0x0001b3ee"
 msgid "Nature"
-msgstr ""
+msgstr "자연"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Modification.xml
 #. PATH: UIModificationScreenAsset/DamageTypeLabels/member[7]/UIItemDamageTypeLocalizationData/DamageTypeLabel
 #: UI\Flow\Screen\ENV\ENV_Modification.xml:537
 msgctxt "0x0001b3ed"
 msgid "Spirit"
-msgstr ""
+msgstr "영혼"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PartyPicker.xml
 #. PATH: UIPartyPickerScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_PartyPicker.xml:73
 msgctxt "0x000415aa"
 msgid "BACK"
-msgstr ""
+msgstr "뒤로가기"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PartyPicker.xml
 #. PATH: UIPartyPickerScreenAsset/LocalizedLabels/member[2]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_PartyPicker.xml:83
 msgctxt "0x000415b8"
 msgid "ADD/REMOVE"
-msgstr ""
+msgstr "추가/제거"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PartyPicker.xml
 #. PATH: UIPartyPickerScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_PartyPicker.xml:93
 msgctxt "0x000440ed"
 msgid "Are you sure you want to venture forth without a full party?"
-msgstr ""
+msgstr "파티원이 부족한 채로 모험에 나서시겠습니까?"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PartyPicker.xml
 #. PATH: UIPartyPickerScreenAsset/Title
 #: UI\Flow\Screen\ENV\ENV_PartyPicker.xml:101
 msgctxt "0x0001cf16"
 msgid "Party Selection"
-msgstr ""
+msgstr "파티 선택"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PartyPicker.xml
 #. PATH: BWButtonLegendBinding/LegendButtons/member[1]/BWButtonLegendEntry/LocalizedDisplayString
 #: UI\Flow\Screen\ENV\ENV_PartyPicker.xml:657
 msgctxt "0x000415b9"
 msgid "CONFIRM"
-msgstr ""
+msgstr "확인"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PartyPicker.xml
 #. PATH: BWButtonLegendBinding/LegendButtons/member[2]/BWButtonLegendEntry/LocalizedDisplayString
 #: UI\Flow\Screen\ENV\ENV_PartyPicker.xml:673
 msgctxt "0x000415ba"
 msgid "REMOVE ALL"
-msgstr ""
+msgstr "모두 제거"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml
 #. PATH: UIPotionCraftingScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml:76
 msgctxt "0x0003ab3d"
 msgid "Alchemical Upgrades"
-msgstr ""
+msgstr "연금술 업그레이드"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml
 #. PATH: UIPotionCraftingScreenAsset/LocalizedLabels/member[2]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml:86
 msgctxt "0x0003ab3c"
 msgid "Materials Required"
-msgstr ""
+msgstr "필요한 재료"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml
 #. PATH: UIPotionCraftingScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml:96
 msgctxt "0x0003f609"
 msgid "RESEARCH"
-msgstr ""
+msgstr "연구"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml
 #. PATH: UIPotionCraftingScreenAsset/LocalizedLabels/member[4]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml:106
 msgctxt "0x0003f91b"
 msgid "Requires at least one of the following:"
-msgstr ""
+msgstr "다음 중 적어도 1개가 필요합니다:"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml
 #. PATH: UIPotionCraftingScreenAsset/LocalizedLabels/member[5]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml:116
 msgctxt "0x0003f91c"
 msgid "Requires all of the following:"
-msgstr ""
+msgstr "필요한 것들:"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml
 #. PATH: UIPotionCraftingScreenAsset/LocalizedLabels/member[6]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml:126
 msgctxt "0x00043760"
 msgid "Requires:"
-msgstr ""
+msgstr "필요:"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml
 #. PATH: UIPotionCraftingScreenAsset/LocalizedLabels/member[7]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml:136
 msgctxt "0x00044233"
 msgid "Research"
-msgstr ""
+msgstr "연구"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml
 #. PATH: UIPotionCraftingScreenAsset/PotionCategories/member[1]/PotionCategoryData/PotionDescription
 #: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml:162
 msgctxt "0x0003c0ea"
 msgid "Use potions to restore health or enhance magic"
-msgstr ""
+msgstr "체력을 회복하거나 마력을 증가 시키기 위해 물약을 사용하세요"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml
 #. PATH: UIPotionCraftingScreenAsset/PotionCategories/member[1]/PotionCategoryData/UnknownPotionType
@@ -1049,7 +1058,7 @@ msgstr ""
 #: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml:167
 msgctxt "0x0004485c"
 msgid "Unknown {string}279345{/string}"
-msgstr ""
+msgstr "미확인 {string}279345{/string}"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml
 #. PATH: UIPotionCraftingScreenAsset/PotionCategories/member[2]/PotionCategoryData/PotionDescription
@@ -1064,7 +1073,7 @@ msgstr "강장제를 사용해 저항을 높이거나 전투력을 강화하십�
 #: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml:188
 msgctxt "0x0004485a"
 msgid "Unknown {string}279348{/string}"
-msgstr ""
+msgstr "미확인 {string}279348{/string}"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml
 #. PATH: UIPotionCraftingScreenAsset/PotionCategories/member[3]/PotionCategoryData/UnknownPotionType
@@ -1072,42 +1081,42 @@ msgstr ""
 #: UI\Flow\Screen\ENV\ENV_PotionCrafting.xml:209
 msgctxt "0x0004485b"
 msgid "Unknown {string}279347{/string}"
-msgstr ""
+msgstr "미확인 {string}279347{/string}"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionMapping.xml
 #. PATH: UIPotionMappingScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_PotionMapping.xml:81
 msgctxt "0x0001fbb5"
 msgid "Select which potions to take on the next journey."
-msgstr ""
+msgstr "다음 여정에 가지고 갈 물약을 선택하세요."
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionMapping.xml
 #. PATH: UIPotionMappingScreenAsset/LocalizedLabels/member[4]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_PotionMapping.xml:111
 msgctxt "0x0001fbad"
 msgid "Potion Belt"
-msgstr ""
+msgstr "물약 벨트"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionMapping.xml
 #. PATH: UIPotionMappingScreenAsset/LocalizedLabels/member[5]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_PotionMapping.xml:121
 msgctxt "0x00029025"
 msgid "Map Potion"
-msgstr ""
+msgstr "지도 물약"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionMapping.xml
 #. PATH: UIPotionMappingScreenAsset/LocalizedLabels/member[8]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_PotionMapping.xml:151
 msgctxt "0x0002b942"
 msgid "Replenish"
-msgstr ""
+msgstr "보충하기"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionMapping.xml
 #. PATH: UIPotionMappingScreenAsset/LocalizedLabels/member[9]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_PotionMapping.xml:161
 msgctxt "0x0002bc1b"
 msgid "Replenish All"
-msgstr ""
+msgstr "전부 보충하기"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionMapping.xml
 #. PATH: UIPotionMappingScreenAsset/LocalizedLabels/member[11]/UIScreenAssetLocalizedLabel/LocString
@@ -1121,7 +1130,7 @@ msgstr "요구되는 약재"
 #: UI\Flow\Screen\ENV\ENV_PotionMapping.xml:191
 msgctxt "0x00039c88"
 msgid "No potions are available yet"
-msgstr ""
+msgstr "사용 가능한 물약이 없습니다"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionMapping.xml
 #. PATH: UIPotionMappingScreenAsset/LocalizedLabels/member[13]/UIScreenAssetLocalizedLabel/LocString
@@ -1163,63 +1172,63 @@ msgstr "잠김"
 #: UI\Flow\Screen\ENV\ENV_PotionMappingPC.xml:234
 msgctxt "0x00044dce"
 msgid "Click to Replenish"
-msgstr ""
+msgstr "클릭하여 보충하기"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Store.xml:149
 msgctxt "0x000317a9"
 msgid "Buy"
-msgstr ""
+msgstr "구입"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[2]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Store.xml:159
 msgctxt "0x0002cc5b"
 msgid "Nothing for Sale"
-msgstr ""
+msgstr "판매하는 물건이 없습니다"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Store.xml:169
 msgctxt "0x000317aa"
 msgid "Sell"
-msgstr ""
+msgstr "판매"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[4]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Store.xml:179
 msgctxt "0x00033911"
 msgid "Nothing to Sell"
-msgstr ""
+msgstr "판매할 물건이 없습니다"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[5]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Store.xml:189
 msgctxt "0x00006380"
 msgid "Exit"
-msgstr ""
+msgstr "나가기"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[7]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Store.xml:209
 msgctxt "0x0003bd86"
 msgid "Compare"
-msgstr ""
+msgstr "비교"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[9]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Store.xml:229
 msgctxt "0x0003fa44"
 msgid "Buy Back"
-msgstr ""
+msgstr "재구입"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[10]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Store.xml:239
 msgctxt "0x000287c8"
 msgid "Examine"
-msgstr ""
+msgstr "조사하기"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[13]/UIScreenAssetLocalizedLabel/LocString
@@ -1240,21 +1249,21 @@ msgstr "{CUSTOM0} ({CUSTOM1})"
 #: UI\Flow\Screen\ENV\ENV_Store.xml:289
 msgctxt "0x00044126"
 msgid "How many would you like to purchase?"
-msgstr ""
+msgstr "얼마나 구매하시겠습니까?"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[16]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Store.xml:299
 msgctxt "0x00044127"
 msgid "How many would you like to sell?"
-msgstr ""
+msgstr "얼마나 판매하시겠습니까?"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[17]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Store.xml:309
 msgctxt "0x00043458"
 msgid "Core Stats"
-msgstr ""
+msgstr "주요 능력치"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[18]/UIScreenAssetLocalizedLabel/LocString
@@ -1268,35 +1277,35 @@ msgstr ""
 #: UI\Flow\Screen\ENV\ENV_Store.xml:329
 msgctxt "0x000449ac"
 msgid "Sell All"
-msgstr ""
+msgstr "전부 판매"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[20]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Store.xml:339
 msgctxt "0x00038e37"
 msgid "Destroy"
-msgstr ""
+msgstr "파괴"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[21]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Store.xml:349
 msgctxt "0x00038e35"
 msgid "Are you sure you want to destroy <font color=\"#{CUSTOM0}\">{CUSTOM1}</font>?"
-msgstr ""
+msgstr "정말로 <font color=\"#{CUSTOM0}\">{CUSTOM1}</font> 를 파괴하시겠습니까?"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[22]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Store.xml:359
 msgctxt "0x00045f25"
 msgid "Deposit"
-msgstr ""
+msgstr "보관하기"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[23]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Store.xml:369
 msgctxt "0x00045f24"
 msgid "Withdraw"
-msgstr ""
+msgstr "가져가기"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[24]/UIScreenAssetLocalizedLabel/LocString
@@ -1331,7 +1340,7 @@ msgstr ""
 #: UI\Flow\Screen\ENV\ENV_Store.xml:419
 msgctxt "0x00045f23"
 msgid "Storage"
-msgstr ""
+msgstr "창고"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[29]/UIScreenAssetLocalizedLabel/LocString
@@ -1345,35 +1354,35 @@ msgstr ""
 #: UI\Flow\Screen\ENV\ENV_Store.xml:439
 msgctxt "0x00028656"
 msgid "No items of this type"
-msgstr ""
+msgstr "이 종류의 아이템이 없습니다"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Tinting.xml
 #. PATH: UITintingScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Tinting.xml:139
 msgctxt "0x00045c33"
 msgid "Tint Item"
-msgstr ""
+msgstr "염색 아이템"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Tinting.xml
 #. PATH: UITintingScreenAsset/LocalizedLabels/member[4]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Tinting.xml:149
 msgctxt "0x00045c78"
 msgid "Weapon Tinting"
-msgstr ""
+msgstr "무기 염색"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Tinting.xml
 #. PATH: UITintingScreenAsset/LocalizedLabels/member[5]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Tinting.xml:159
 msgctxt "0x00045c79"
 msgid "Armor Tinting"
-msgstr ""
+msgstr "방어구 염색"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Tinting.xml
 #. PATH: UITintingScreenAsset/LocalizedLabels/member[9]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Tinting.xml:199
 msgctxt "0x000466cc"
 msgid "Some items do not use every tinting slot."
-msgstr ""
+msgstr "모든 염색 슬롯을 사용하지 않는 아이템도 있습니다."
 
 #. FILE: UI\Flow\Screen\ENV\ENV_ViewSkull.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member/UIScreenAssetLocalizedLabel/LocString
@@ -1387,7 +1396,7 @@ msgstr "발견한 편린"
 #: UI\Flow\Screen\ENV\ENV_WarTable.xml:78
 msgctxt "0x0002f0c9"
 msgid "Power"
-msgstr ""
+msgstr "행동력"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_WarTable.xml
 #. PATH: UIWarTableScreenAsset/LocalizedLabels/member[4]/UIScreenAssetLocalizedLabel/LocString
@@ -1401,21 +1410,21 @@ msgstr "소모되는 역량: {CUSTOM0}"
 #: UI\Flow\Screen\ENV\ENV_WarTable.xml:108
 msgctxt "0x0003a491"
 msgid "Scouting"
-msgstr ""
+msgstr "정찰"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_WarTable.xml
 #. PATH: UIWarTableScreenAsset/LocalizedLabels/member[7]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_WarTable.xml:118
 msgctxt "0x0003a493"
 msgid "Mission"
-msgstr ""
+msgstr "임무"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_WarTable.xml
 #. PATH: UIWarTableScreenAsset/LocalizedLabels/member[8]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_WarTable.xml:128
 msgctxt "0x0003a492"
 msgid "Completed"
-msgstr ""
+msgstr "완료됨"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_WarTable.xml
 #. PATH: UIWarTableScreenAsset/LocalizedLabels/member[9]/UIScreenAssetLocalizedLabel/LocString
@@ -1501,22 +1510,21 @@ msgstr ""
 #: UI\Flow\Screen\ENV\ENV_WarTableDaggerSelection.xml:37
 msgctxt "0x0001ce26"
 msgid "Confirm Operation."
-msgstr ""
+msgstr "작전을 승인하세요."
 
 #. FILE: UI\Flow\Screen\ENV\ENV_WarTableDaggerSelection.xml
 #. PATH: BWButtonLegendBinding/LegendButtons/member[1]/BWButtonLegendEntry/LocalizedDisplayString
 #: UI\Flow\Screen\ENV\ENV_WarTableDaggerSelection.xml:191
 msgctxt "0x0004367e"
 msgid "Confirm"
-msgstr ""
+msgstr "승인"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_WarTable_DLCRed.xml
 #. PATH: UIWarTableScreenAsset/LeftMapInfo/MapBinaryChoiceInfo/Description
 #: UI\Flow\Screen\ENV\ENV_WarTable_DLCRed.xml:270
 msgctxt "0x0004a48e"
 msgid "Grand subterranean passageways once connected the dwarven empire's greatest thaigs, but darkspawn have laid claim to this territory since the First Blight."
-msgstr ""
-"한때 드워프 제국의 위대한 타이그들을 연결하는 거대한 지하 통로였으나, 최초의 대재앙 이후 어둠의 피조물들이 이곳을 점령했습니다."
+msgstr "한때 드워프 제국의 위대한 타이그들을 연결하는 거대한 지하 통로였으나, 최초의 대재앙 이후 암흑피조물들이 이곳을 점령했습니다."
 
 #. FILE: UI\Flow\Screen\ENV\ENV_WarTable_DLCRed.xml
 #. PATH: UIWarTableScreenAsset/RightMapInfo/MapBinaryChoiceInfo/Title
@@ -1545,7 +1553,7 @@ msgstr "심문회 레벨"
 #: UI\Flow\Screen\ENV\ENV_Wartable_AfterActionReport.xml:42
 msgctxt "0x00020808"
 msgid "Power"
-msgstr ""
+msgstr "행동력"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Wartable_AfterActionReport.xml
 #. PATH: UIAfterActionReportScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
@@ -1853,7 +1861,7 @@ msgstr ""
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:192
 msgctxt "0x00041a2c"
 msgid "Unset Title"
-msgstr ""
+msgstr "제목 취소"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Challenges.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[13]/UIScreenAssetLocalizedLabel/LocString
@@ -1978,13 +1986,19 @@ msgid ""
 "\n"
 "Once you are satisfied with the image, select \"confirm.\""
 msgstr ""
+"캐릭터 스크린샷을 찍습니다. 촬영한 스크린샷은 캐릭터 프로필의 일부로 Dragon Age Keep에 업로드됩니다.\n"
+"\n"
+"스크린샷을 찍으려면 화면상의 작은 정사각형을 원하는 각도로 이동한 뒤, 카메라 회전 및 축소/확대 기능을 이용하여 이상적인 구도를 "
+"만드십시오.\n"
+"\n"
+"이미지가 마음에 드는 경우, \"확인\" 버튼을 선택하십시오."
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CharGen_Head.xml
 #. PATH: UICharGenHeadScreenAsset/LocalizedLabels/member[9]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_CharGen_Head.xml:289
 msgctxt "0x0002dcfa"
 msgid "Accept Changes"
-msgstr ""
+msgstr "변경 사항 저장"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CharGen_Head.xml
 #. PATH: UICharGenHeadScreenAsset/LocalizedLabels/member[10]/UIScreenAssetLocalizedLabel/LocString
@@ -2097,7 +2111,7 @@ msgstr "재시도"
 #: UI\Flow\Screen\PRE\PRE_CharGen_Head.xml:469
 msgctxt "0x00044299"
 msgid "Uploading character portrait..."
-msgstr ""
+msgstr "캐릭터 초상화를 업로드하고 있습니다..."
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CharGen_Head.xml
 #. PATH: UICharGenHeadScreenAsset/LocalizedLabels/member[28]/UIScreenAssetLocalizedLabel/LocString
@@ -2111,56 +2125,56 @@ msgstr "목소리 듣기"
 #: UI\Flow\Screen\PRE\PRE_CharGen_Head.xml:499
 msgctxt "0x00046b66"
 msgid "If you cancel, you will lose all changes to your character's appearance. Do you want to continue?"
-msgstr ""
+msgstr "취소하면, 변경한 캐릭터 외형이 모두 초기화됩니다. 계속하시겠습니까?"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CharGen_Head.xml
 #. PATH: UICharGenHeadScreenAsset/LocalizedLabels/member[31]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_CharGen_Head.xml:509
 msgctxt "0x00046b67"
 msgid "Save changes and exit?"
-msgstr ""
+msgstr "변경 사항을 저장하고 나가시겠습니까?"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CreateMatch.xml
 #. PATH: UIMultiplayerCreateMatchScreenAsset/DragonMapping/member[1]/MultiplayerDragonStringMapping/DisplayString
 #: UI\Flow\Screen\PRE\PRE_CreateMatch.xml:108
 msgctxt "0x00027d1c"
 msgid "Random"
-msgstr ""
+msgstr "무작위 설정"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CreateMatch.xml
 #. PATH: UIMultiplayerCreateMatchScreenAsset/DragonMapping/member[2]/MultiplayerDragonStringMapping/DisplayString
 #: UI\Flow\Screen\PRE\PRE_CreateMatch.xml:118
 msgctxt "0x000475f1"
 msgid "Inferno"
-msgstr ""
+msgstr "지옥불"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CreateMatch.xml
 #. PATH: UIMultiplayerCreateMatchScreenAsset/DragonMapping/member[3]/MultiplayerDragonStringMapping/DisplayString
 #: UI\Flow\Screen\PRE\PRE_CreateMatch.xml:128
 msgctxt "0x000475f0"
 msgid "Frost"
-msgstr ""
+msgstr "서리"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CreateMatch.xml
 #. PATH: UIMultiplayerCreateMatchScreenAsset/DragonMapping/member[4]/MultiplayerDragonStringMapping/DisplayString
 #: UI\Flow\Screen\PRE\PRE_CreateMatch.xml:138
 msgctxt "0x000475ef"
 msgid "Storm"
-msgstr ""
+msgstr "폭풍"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CreateMatch.xml
 #. PATH: BWButtonLegendBinding[2]/LegendButtons/member[1]/BWButtonLegendEntry/LocalizedDisplayString
 #: UI\Flow\Screen\PRE\PRE_CreateMatch.xml:1380
 msgctxt "0x00027a9a"
 msgid "Create Lobby"
-msgstr ""
+msgstr "대기실 생성하기"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CreateMatch.xml
 #. PATH: BWButtonLegendBinding[3]/LegendButtons/member[1]/BWButtonLegendEntry/LocalizedDisplayString
 #: UI\Flow\Screen\PRE\PRE_CreateMatch.xml:1429
 msgctxt "0x00027c6f"
 msgid "Search"
-msgstr ""
+msgstr "검색하기"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CreateMatch.xml
 #. PATH: UIMultiplayerFrameTopBinding[1]/LocalizedTitleString
@@ -2209,35 +2223,35 @@ msgstr ""
 #: UI\Flow\Screen\PRE\PRE_CreateMatch.xml:2079
 msgctxt "0x00018771"
 msgid "High Dragon"
-msgstr ""
+msgstr "고룡"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CreateOriginAccount.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_CreateOriginAccount.xml:95
 msgctxt "0x00020d58"
 msgid "Create New Account"
-msgstr ""
+msgstr "새 계정 생성하기"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CreateOriginAccount.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[2]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_CreateOriginAccount.xml:105
 msgctxt "0x00020d59"
 msgid "Login with Existing Account"
-msgstr ""
+msgstr "기존 계정으로 로그인"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CreateOriginAccount.xml
 #. PATH: BWButtonLegendBinding/LegendButtons/member[1]/BWButtonLegendEntry/LocalizedDisplayString
 #: UI\Flow\Screen\PRE\PRE_CreateOriginAccount.xml:1188
 msgctxt "0x0001fb3b"
 msgid "Continue"
-msgstr ""
+msgstr "계속하기"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CustomDifficulty.xml
 #. PATH: UICharGenCustomDifficultyScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_CustomDifficulty.xml:49
 msgctxt "0x0003cc08"
 msgid "Confirm Changes?"
-msgstr ""
+msgstr "변경 사항을 저장하시겠습니까?"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CustomDifficulty.xml
 #. PATH: UICharGenCustomDifficultyScreenAsset/LocalizedLabels/member[2]/UIScreenAssetLocalizedLabel/LocString
@@ -2251,7 +2265,7 @@ msgstr "캐릭터 생성"
 #: UI\Flow\Screen\PRE\PRE_CustomDifficulty.xml:69
 msgctxt "0x0004a498"
 msgid "Custom Difficulty"
-msgstr ""
+msgstr "사용자 지정 난이도"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_EndOfMatch.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
@@ -2286,7 +2300,7 @@ msgstr ""
 #: UI\Flow\Screen\PRE\PRE_EndOfMatch.xml:106
 msgctxt "0x00027606"
 msgid "Personal Best Time"
-msgstr ""
+msgstr "개인 최고 기록"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_EndOfMatch.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[7]/UIScreenAssetLocalizedLabel/LocString
@@ -2300,7 +2314,7 @@ msgstr ""
 #: UI\Flow\Screen\PRE\PRE_EndOfMatch.xml:834
 msgctxt "0x00018146"
 msgid "Level"
-msgstr ""
+msgstr "레벨"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_EndOfMatch.xml
 #. PATH: UIMultiplayerEndOfMatchTabsBinding/LocalizedPersonalBestTimeString
@@ -2321,14 +2335,14 @@ msgstr "기술 탭으로"
 #: UI\Flow\Screen\PRE\PRE_EndOfMatch.xml:849
 msgctxt "0x00043329"
 msgid "Go to Store"
-msgstr ""
+msgstr "상점으로"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_EndOfMatch.xml
 #. PATH: UIMultiplayerEndOfMatchTabsBinding/LocalizedGoToChallengeString
 #: UI\Flow\Screen\PRE\PRE_EndOfMatch.xml:854
 msgctxt "0x0004332b"
 msgid "Go to Challenge"
-msgstr ""
+msgstr "도전으로"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_GameMessages.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member/UIScreenAssetLocalizedLabel/LocString
@@ -2337,76 +2351,80 @@ msgstr ""
 msgctxt "0x00027f55"
 msgid "{string}269180{/string} automatically saves data. When this icon is displayed, please do not {pc}close the game{/pc}{notpc}turn off the {/notpc}{anyxbox}console{/anyxbox}{ps3}PlayStation®3 {/ps3}{ps4}PlayStation®4 {/ps4}{anyplaystation}system{/anyplaystation}."
 msgstr ""
+"{string}269180{/string}은 데이터를 자동으로 저장합니다. 이 아이콘이 표시되는 경우, "
+"{pc}게임을{/pc}{notpc}기기를{/notpc}{anyxbox}콘솔을{/anyxbox}{ps3}PlayStation®3 "
+"을{/ps3}{ps4}PlayStation®4 를{/ps4}{anyplaystation}시스템을{/anyplaystation} 종료하지 "
+"마십시오."
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Leaderboards.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[2]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Leaderboards.xml:61
 msgctxt "0x00026c0c"
 msgid "Leaderboard information is not currently available. Please try again later."
-msgstr ""
+msgstr "순위표 정보를 불러올 수 없습니다. 나중에 다시 시도해 주십시오."
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Leaderboards.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Leaderboards.xml:71
 msgctxt "0x00026b3a"
 msgid "Page Up"
-msgstr ""
+msgstr "위로 넘기기"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Leaderboards.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[4]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Leaderboards.xml:81
 msgctxt "0x00026b3b"
 msgid "Page Down"
-msgstr ""
+msgstr "아래로 넘기기"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Leaderboards.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[5]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Leaderboards.xml:91
 msgctxt "0x00031a91"
 msgid "Me"
-msgstr ""
+msgstr "나"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Leaderboards.xml
 #. PATH: UIMultiplayerFrameTopBinding/LocalizedTitleString
 #: UI\Flow\Screen\PRE\PRE_Leaderboards.xml:645
 msgctxt "0x00022716"
 msgid "Leaderboards"
-msgstr ""
+msgstr "순위표"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Leaderboards.xml
 #. PATH: UIMultiplayerFrameTopBinding/LocalizedTab1Title
 #: UI\Flow\Screen\PRE\PRE_Leaderboards.xml:650
 msgctxt "0x00026a43"
 msgid "Global"
-msgstr ""
+msgstr "글로벌"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Leaderboards.xml
 #. PATH: UIMultiplayerFrameTopBinding/LocalizedTab2Title
 #: UI\Flow\Screen\PRE\PRE_Leaderboards.xml:655
 msgctxt "0x00026a42"
 msgid "Friends"
-msgstr ""
+msgstr "친구들"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Lobby.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Lobby.xml:148
 msgctxt "0x000189e4"
 msgid "Select Character"
-msgstr ""
+msgstr "캐릭터 선택하기"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Lobby.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[9]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Lobby.xml:208
 msgctxt "0x00018b2b"
 msgid "Lobby"
-msgstr ""
+msgstr "대기실"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Lobby.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[11]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Lobby.xml:228
 msgctxt "0x000194a9"
 msgid "Characters"
-msgstr ""
+msgstr "캐릭터"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Lobby.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[12]/UIScreenAssetLocalizedLabel/LocString
@@ -2420,112 +2438,112 @@ msgstr "기술"
 #: UI\Flow\Screen\PRE\PRE_Lobby.xml:248
 msgctxt "0x000194a7"
 msgid "Potions"
-msgstr ""
+msgstr "물약"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Lobby.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[14]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Lobby.xml:258
 msgctxt "0x00041b71"
 msgid "Crafting"
-msgstr ""
+msgstr "제작"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Lobby.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[15]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Lobby.xml:268
 msgctxt "0x000194ab"
 msgid "Inventory"
-msgstr ""
+msgstr "인벤토리"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Lobby.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[16]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Lobby.xml:278
 msgctxt "0x000194a8"
 msgid "Weapon Crafting"
-msgstr ""
+msgstr "무기 제작"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Lobby.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[17]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Lobby.xml:288
 msgctxt "0x0001d2ac"
 msgid "Armor Crafting"
-msgstr ""
+msgstr "방어구 제작"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Lobby.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[18]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Lobby.xml:298
 msgctxt "0x00026c0e"
 msgid "Weapon Upgrades"
-msgstr ""
+msgstr "무기 강화"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Lobby.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[19]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Lobby.xml:308
 msgctxt "0x00026c0f"
 msgid "Armor Upgrades"
-msgstr ""
+msgstr "방어구 강화"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Lobby.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[20]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Lobby.xml:318
 msgctxt "0x0003cdd6"
 msgid "Mute"
-msgstr ""
+msgstr "음소거"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Lobby.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[21]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Lobby.xml:328
 msgctxt "0x00040aeb"
 msgid "Prestige"
-msgstr ""
+msgstr "명성"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Lobby.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[24]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Lobby.xml:358
 msgctxt "0x00042fe1"
 msgid "Invite Friends"
-msgstr ""
+msgstr "친구 초대하기"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Lobby.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[25]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Lobby.xml:368
 msgctxt "0x0001ff02"
 msgid "Options"
-msgstr ""
+msgstr "설정"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Lobby.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[26]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Lobby.xml:378
 msgctxt "0x00044ed3"
 msgid "Invite Xbox Live Party"
-msgstr ""
+msgstr "Xbox Live Party 초대하기"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Lobby.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[27]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Lobby.xml:388
 msgctxt "0x00044dd0"
 msgid "Ready"
-msgstr ""
+msgstr "게임 준비"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Multiplayer.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[14]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Multiplayer.xml:239
 msgctxt "0x0003f8bf"
 msgid "Potions"
-msgstr ""
+msgstr "물약"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Multiplayer.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[15]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Multiplayer.xml:249
 msgctxt "0x00040494"
 msgid "Loadout"
-msgstr ""
+msgstr "장비"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Multiplayer.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[16]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Multiplayer.xml:259
 msgctxt "0x000404a0"
 msgid "Items"
-msgstr ""
+msgstr "아이템"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Multiplayer.xml
 #. PATH: UIMenuScreenAsset/LocalizedLabels/member[18]/UIScreenAssetLocalizedLabel/LocString
@@ -2539,14 +2557,14 @@ msgstr "물약 & 기술"
 #: UI\Flow\Screen\PRE\PRE_Multiplayer.xml:289
 msgctxt "0x00040b6b"
 msgid "Inventory & Crafting"
-msgstr ""
+msgstr "인벤토리 & 제작"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Multiplayer.xml
 #. PATH: UIMenuItem[2]/DisplayLabel
 #: UI\Flow\Screen\PRE\PRE_Multiplayer.xml:1570
 msgctxt "0x0003f96f"
 msgid "Quick Match"
-msgstr ""
+msgstr "빠른 게임"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Multiplayer.xml
 #. PATH: UIMultiplayerCharacterInfoBinding/LocalizedClassLabelString
@@ -2560,63 +2578,63 @@ msgstr ""
 #: UI\Flow\Screen\PRE\PRE_Multiplayer.xml:1953
 msgctxt "0x000221ea"
 msgid "Multiplayer"
-msgstr ""
+msgstr "멀티플레이어"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[7]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml:113
 msgctxt "0x00016051"
 msgid "Characters"
-msgstr ""
+msgstr "캐릭터"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[8]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml:123
 msgctxt "0x00022dbf"
 msgid "Create"
-msgstr ""
+msgstr "생성하기"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[9]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml:133
 msgctxt "0x0004230b"
 msgid "Promote"
-msgstr ""
+msgstr "승급"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[12]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml:163
 msgctxt "0x00043ab2"
 msgid "{CUSTOM0} of {CUSTOM1} Collected"
-msgstr ""
+msgstr "{CUSTOM1}개 중 {CUSTOM0}개 수집함"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[13]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml:173
 msgctxt "0x00013316"
 msgid "Constitution"
-msgstr ""
+msgstr "건강"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[14]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml:183
 msgctxt "0x00013321"
 msgid "Willpower"
-msgstr ""
+msgstr "정신력"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[15]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml:193
 msgctxt "0x00013307"
 msgid "Cunning"
-msgstr ""
+msgstr "교활"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[16]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml:203
 msgctxt "0x00043adb"
 msgid "Promoted"
-msgstr ""
+msgstr "승급 완료"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[17]/UIScreenAssetLocalizedLabel/LocString
@@ -2630,21 +2648,21 @@ msgstr ""
 #: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml:223
 msgctxt "0x00043afd"
 msgid "Statistics"
-msgstr ""
+msgstr "통계"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[19]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml:233
 msgctxt "0x000474c3"
 msgid "Reset Ability Points"
-msgstr ""
+msgstr "기술 점수 초기화"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerPromo.xml
 #. PATH: BWButtonLegendBinding/LegendButtons/member/BWButtonLegendEntry/LocalizedDisplayString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerPromo.xml:106
 msgctxt "0x00006382"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerScorecard.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
@@ -2652,20 +2670,22 @@ msgstr ""
 msgctxt "0x00029c34"
 msgid "{anyxbox}Gamercard{/anyxbox}{anyplaystation}Display Profile{/anyplaystation}{pc}Display Profile{/pc}"
 msgstr ""
+"{anyxbox}게이머 카드{/anyxbox}{anyplaystation}프로필 보기{/anyplaystation}{pc}프로필 "
+"보기{/pc}"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerScorecard.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[2]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerScorecard.xml:59
 msgctxt "0x00029c32"
 msgid "Return to Game"
-msgstr ""
+msgstr "게임으로 돌아가기"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerScorecard.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerScorecard.xml:69
 msgctxt "0x00029c33"
 msgid "Quit Game"
-msgstr ""
+msgstr "게임 나가기"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerStore.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
@@ -2686,84 +2706,84 @@ msgstr ""
 #: UI\Flow\Screen\PRE\PRE_MultiplayerStore.xml:125
 msgctxt "0x00044b4b"
 msgid "How would you like to purchase this item?"
-msgstr ""
+msgstr "어떤 결제 수단을 사용해 이 아이템을 구매하시겠습니까?"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerStore.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[4]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerStore.xml:135
 msgctxt "0x00044f58"
 msgid "This content is not available in your region."
-msgstr ""
+msgstr "귀하의 지역에서는 이 콘텐츠를 이용할 수 없습니다."
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerStore.xml
 #. PATH: BWButtonLegendBinding/LegendButtons/member[1]/BWButtonLegendEntry/LocalizedDisplayString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerStore.xml:1137
 msgctxt "0x00044b4a"
 msgid "Purchase"
-msgstr ""
+msgstr "구매"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerStore.xml
 #. PATH: UIMultiplayerFrameTopBinding/LocalizedTab1Title
 #: UI\Flow\Screen\PRE\PRE_MultiplayerStore.xml:1308
 msgctxt "0x000245a9"
 msgid "FREE"
-msgstr ""
+msgstr "무료"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerStore.xml
 #. PATH: UIMultiplayerFrameTopBinding/LocalizedTab2Title
 #: UI\Flow\Screen\PRE\PRE_MultiplayerStore.xml:1313
 msgctxt "0x000245a8"
 msgid "Chests"
-msgstr ""
+msgstr "상자"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerStore.xml
 #. PATH: UIMultiplayerFrameTopBinding/LocalizedTab3Title
 #: UI\Flow\Screen\PRE\PRE_MultiplayerStore.xml:1318
 msgctxt "0x000245a7"
 msgid "Potions"
-msgstr ""
+msgstr "물약"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerStore.xml
 #. PATH: UIMultiplayerFrameTopBinding/LocalizedTab4Title
 #: UI\Flow\Screen\PRE\PRE_MultiplayerStore.xml:1323
 msgctxt "0x00024cdf"
 msgid "Platinum"
-msgstr ""
+msgstr "플래티넘"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerStore_RevealScr.xml
 #. PATH: UIMultiplayerStoreRevealScreenAsset/LocalizedLabels/member[2]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerStore_RevealScr.xml:55
 msgctxt "0x000471c2"
 msgid "Back (Salvage)"
-msgstr ""
+msgstr "돌아가기 (분해)"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerStore_RevealScr.xml
 #. PATH: UIMultiplayerStoreRevealScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerStore_RevealScr.xml:65
 msgctxt "0x000471c4"
 msgid "Mark for Salvage"
-msgstr ""
+msgstr "분해 표시하기"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerStore_RevealScr.xml
 #. PATH: UIMultiplayerStoreRevealScreenAsset/LocalizedLabels/member[4]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerStore_RevealScr.xml:75
 msgctxt "0x000471c6"
 msgid "Remove Salvage Mark"
-msgstr ""
+msgstr "분해 표시 제거"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerStore_RevealScr.xml
 #. PATH: UIMultiplayerStoreRevealScreenAsset/LocalizedLabels/member[5]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerStore_RevealScr.xml:85
 msgctxt "0x000471c5"
 msgid "Salvage these <font color=\"#FFFF00\">{CUSTOM0} marked items</font> for crafting materials?"
-msgstr ""
+msgstr "<font color=\"#FFFF00\">{CUSTOM0} 표시된 아이템을</font> 제작 재료로 분해하시겠습니까?"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerStore_RevealScr.xml
 #. PATH: UIMultiplayerStoreRevealScreenAsset/LocalizedLabels/member[6]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerStore_RevealScr.xml:95
 msgctxt "0x0001fb51"
 msgid "Salvage"
-msgstr ""
+msgstr "분해하기"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerStore_RevealScr.xml
 #. PATH: UIMultiplayerWaitingInfoBinding/LocalizedReadyUpString
@@ -2771,6 +2791,8 @@ msgstr ""
 msgctxt "0x00018e49"
 msgid "Press {controller}{GuiInteractionMPReadyUp}{/controller}{notcontroller}{ConceptMPReadyUp}{/notcontroller} to ready..."
 msgstr ""
+"준비된 경우 {controller}{GuiInteractionMPReadyUp}{/controller}{notcontroller}{Conc"
+"eptMPReadyUp}{/notcontroller} 를 눌러주세요..."
 
 #. FILE: UI\Flow\Screen\PRE\PRE_NewGame.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
@@ -3507,7 +3529,7 @@ msgstr "이전 코덱스"
 #: UI\Flow\Screen\REC\REC_JournalQuest.xml:202
 msgctxt "0x00043889"
 msgid "Journal"
-msgstr ""
+msgstr "일지"
 
 #. FILE: UI\Flow\Screen\REC\REC_Tactics.xml
 #. PATH: UITacticsAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
@@ -3766,7 +3788,7 @@ msgstr "편린경"
 #: UI\Flow\Screen\REC\REC_WorldMap.xml:436
 msgctxt "0x000404ac"
 msgid "Quest {CUSTOM0} of {CUSTOM1}"
-msgstr ""
+msgstr "{CUSTOM1} 의 {CUSTOM0} 임무"
 
 #. FILE: UI\Flow\Screen\REC\REC_WorldMap.xml
 #. PATH: UIBWMapScreenAsset/LocalizedLabels/member[39]/UIScreenAssetLocalizedLabel/LocString
@@ -3850,7 +3872,7 @@ msgstr "중요 퀘스트"
 #: UI\Flow\Screen\REC\REC_WorldMap.xml:576
 msgctxt "0x00044ee1"
 msgid "View"
-msgstr ""
+msgstr "보기"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Credits.xml
 #. PATH: UICreditsScreenAsset/TitleCredits/member[1]/UITitleCreditEntry/Title
@@ -9348,7 +9370,7 @@ msgstr ""
 #: UI\Flow\Screen\SYS\SYS_Options.xml:137
 msgctxt "0x00038770"
 msgid "On"
-msgstr ""
+msgstr "확인"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/LocalizedLabels/member[6]/UIScreenAssetLocalizedLabel/LocString
@@ -9423,1522 +9445,1521 @@ msgstr "{CUSTOM0}초 후 기존 디스플레이 설정으로 돌아갑니다."
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[1]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:329
-#, fuzzy
 msgctxt "0x00043cf3"
 msgid "Character Record"
-msgstr "캐릭터 기록지"
+msgstr "Character Record"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[2]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:334
 msgctxt "0x00043d04"
 msgid "Inventory"
-msgstr "인벤토리"
+msgstr "Inventory"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[3]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:339
 msgctxt "0x00043cd8"
 msgid "Journal"
-msgstr "일지"
+msgstr "Journal"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[4]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:344
 msgctxt "0x00043ced"
 msgid "Quest Map"
-msgstr "퀘스트 지도"
+msgstr "Quest Map"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[5]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:349
 msgctxt "0x00043cef"
 msgid "Summon mount"
-msgstr "탈것 소환"
+msgstr "Summon mount"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[6]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:354
 msgctxt "0x00043ce4"
 msgid "Switch to Blackwall"
-msgstr "블랙월로 전환"
+msgstr "Switch to Blackwall"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[7]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:359
 msgctxt "0x00043cee"
 msgid "Switch to Cassandra"
-msgstr "카산드라로 전환"
+msgstr "Switch to Cassandra"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[8]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:364
 msgctxt "0x00043ce2"
 msgid "Switch to Cole"
-msgstr "콜로 전환"
+msgstr "Switch to Cole"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[9]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:369
 msgctxt "0x00043ce7"
 msgid "Switch to Dorian"
-msgstr "도리안으로 전환"
+msgstr "Switch to Dorian"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[10]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:374
 msgctxt "0x00043d08"
 msgid "Switch to Herald"
-msgstr "전령으로 전환"
+msgstr "Switch to Herald"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[11]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:379
 msgctxt "0x00043cf9"
 msgid "Switch to Inquisitor"
-msgstr "심문관으로 전환"
+msgstr "Switch to Inquisitor"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[12]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:384
 msgctxt "0x00043ce0"
 msgid "Switch to Iron Bull"
-msgstr "아이언 불로 전환"
+msgstr "Switch to Iron Bull"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[13]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:389
 msgctxt "0x00043cff"
 msgid "Switch to Sera"
-msgstr "세라로 전환"
+msgstr "Switch to Sera"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[14]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:394
 msgctxt "0x00043cfc"
 msgid "Switch to Solas"
-msgstr "솔라스로 전환"
+msgstr "Switch to Solas"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[15]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:399
 msgctxt "0x00043cec"
 msgid "Switch to Varric"
-msgstr "배릭으로 전환"
+msgstr "Switch to Varric"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[16]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:404
 msgctxt "0x00043cdf"
 msgid "Switch to Vivienne"
-msgstr "비비엔으로 전환"
+msgstr "Switch to Vivienne"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[17]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:409
 msgctxt "0x00043c30"
 msgid "Blackwall attack my target"
-msgstr ""
+msgstr "Blackwall attack my target"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[18]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:414
 msgctxt "0x00043c67"
 msgid "Blackwall clear behavior"
-msgstr ""
+msgstr "Blackwall clear behavior"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[19]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:419
 msgctxt "0x00043c45"
 msgid "Blackwall come to me"
-msgstr ""
+msgstr "Blackwall come to me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[20]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:424
 msgctxt "0x00043c19"
 msgid "Blackwall defend Cole"
-msgstr ""
+msgstr "Blackwall defend Cole"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[21]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:429
 msgctxt "0x00043c57"
 msgid "Blackwall defend Dorian"
-msgstr ""
+msgstr "Blackwall defend Dorian"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[22]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:434
 msgctxt "0x00043c40"
 msgid "Blackwall defend Herald"
-msgstr ""
+msgstr "Blackwall defend Herald"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[23]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:439
 msgctxt "0x00043c25"
 msgid "Blackwall defend Inquisitor"
-msgstr ""
+msgstr "Blackwall defend Inquisitor"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[24]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:444
 msgctxt "0x00043cf0"
 msgid "Blackwall defend Iron Bull"
-msgstr ""
+msgstr "Blackwall defend Iron Bull"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[25]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:449
 msgctxt "0x00043c5e"
 msgid "Blackwall defend me"
-msgstr ""
+msgstr "Blackwall defend me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[26]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:454
 msgctxt "0x00043c54"
 msgid "Blackwall defend Sera"
-msgstr ""
+msgstr "Blackwall defend Sera"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[27]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:459
 msgctxt "0x00043cb4"
 msgid "Blackwall defend Solas"
-msgstr ""
+msgstr "Blackwall defend Solas"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[28]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:464
 msgctxt "0x00043cc2"
 msgid "Blackwall defend Varric"
-msgstr ""
+msgstr "Blackwall defend Varric"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[29]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:469
 msgctxt "0x00043cb3"
 msgid "Blackwall defend Vivienne"
-msgstr ""
+msgstr "Blackwall defend Vivienne"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[30]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:474
 msgctxt "0x00043c18"
 msgid "Blackwall heal"
-msgstr ""
+msgstr "Blackwall heal"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[31]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:479
 msgctxt "0x00043c60"
 msgid "Blackwall hold position"
-msgstr ""
+msgstr "Blackwall hold position"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[32]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:484
 msgctxt "0x00043c35"
 msgid "Blackwall move freely"
-msgstr ""
+msgstr "Blackwall move freely"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[33]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:489
 msgctxt "0x00043c4c"
 msgid "Cassandra attack my target"
-msgstr ""
+msgstr "Cassandra attack my target"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[34]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:494
 msgctxt "0x00043c7f"
 msgid "Cassandra clear behavior"
-msgstr ""
+msgstr "Cassandra clear behavior"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[35]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:499
 msgctxt "0x00043c3c"
 msgid "Cassandra come to me"
-msgstr ""
+msgstr "Cassandra come to me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[36]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:504
 msgctxt "0x00043c38"
 msgid "Cassandra defend Blackwall"
-msgstr ""
+msgstr "Cassandra defend Blackwall"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[37]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:509
 msgctxt "0x00043c16"
 msgid "Cassandra defend Cole"
-msgstr ""
+msgstr "Cassandra defend Cole"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[38]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:514
 msgctxt "0x00043c42"
 msgid "Cassandra defend Dorian"
-msgstr ""
+msgstr "Cassandra defend Dorian"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[39]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:519
 msgctxt "0x00043c12"
 msgid "Cassandra defend Herald"
-msgstr ""
+msgstr "Cassandra defend Herald"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[40]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:524
 msgctxt "0x00043c71"
 msgid "Cassandra defend Inquisitor"
-msgstr ""
+msgstr "Cassandra defend Inquisitor"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[41]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:529
 msgctxt "0x00043d01"
 msgid "Cassandra defend Iron Bull"
-msgstr ""
+msgstr "Cassandra defend Iron Bull"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[42]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:534
 msgctxt "0x00043c6c"
 msgid "Cassandra defend me"
-msgstr ""
+msgstr "Cassandra defend me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[43]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:539
 msgctxt "0x00043c53"
 msgid "Cassandra defend Sera"
-msgstr ""
+msgstr "Cassandra defend Sera"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[44]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:544
 msgctxt "0x00043ca1"
 msgid "Cassandra defend Solas"
-msgstr ""
+msgstr "Cassandra defend Solas"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[45]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:549
 msgctxt "0x00043cc9"
 msgid "Cassandra defend Varric"
-msgstr ""
+msgstr "Cassandra defend Varric"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[46]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:554
 msgctxt "0x00043cbb"
 msgid "Cassandra defend Vivienne"
-msgstr ""
+msgstr "Cassandra defend Vivienne"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[47]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:559
 msgctxt "0x00043c48"
 msgid "Cassandra heal"
-msgstr ""
+msgstr "Cassandra heal"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[48]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:564
 msgctxt "0x00043c24"
 msgid "Cassandra hold position"
-msgstr ""
+msgstr "Cassandra hold position"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[49]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:569
 msgctxt "0x00043c34"
 msgid "Cassandra move freely"
-msgstr ""
+msgstr "Cassandra move freely"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[50]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:574
 msgctxt "0x00043c7a"
 msgid "Cole attack my target"
-msgstr ""
+msgstr "Cole attack my target"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[51]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:579
 msgctxt "0x00043c43"
 msgid "Cole clear behavior"
-msgstr ""
+msgstr "Cole clear behavior"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[52]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:584
 msgctxt "0x00043c68"
 msgid "Cole come to me"
-msgstr ""
+msgstr "Cole come to me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[53]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:589
 msgctxt "0x00043c55"
 msgid "Cole defend Blackwall"
-msgstr ""
+msgstr "Cole defend Blackwall"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[56]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:604
 msgctxt "0x00043c21"
 msgid "Cole defend Inquisitor"
-msgstr ""
+msgstr "Cole defend Inquisitor"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[57]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:609
 msgctxt "0x00043ce5"
 msgid "Cole defend Iron Bull"
-msgstr ""
+msgstr "Cole defend Iron Bull"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[58]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:614
 msgctxt "0x00043c4e"
 msgid "Cole defend me"
-msgstr ""
+msgstr "Cole defend me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[59]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:619
 msgctxt "0x00043c46"
 msgid "Cole defend Sera"
-msgstr ""
+msgstr "Cole defend Sera"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[60]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:624
 msgctxt "0x00043cae"
 msgid "Cole defend Solas"
-msgstr ""
+msgstr "Cole defend Solas"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[61]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:629
 msgctxt "0x00043cbf"
 msgid "Cole defend Varric"
-msgstr ""
+msgstr "Cole defend Varric"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[62]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:634
 msgctxt "0x00043c9e"
 msgid "Cole defend Vivienne"
-msgstr ""
+msgstr "Cole defend Vivienne"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[63]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:639
 msgctxt "0x00043c4b"
 msgid "Cole heal"
-msgstr ""
+msgstr "Cole heal"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[64]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:644
 msgctxt "0x00043c2a"
 msgid "Cole hold position"
-msgstr ""
+msgstr "Cole hold position"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[65]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:649
 msgctxt "0x00043c49"
 msgid "Cole move freely"
-msgstr ""
+msgstr "Cole move freely"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[66]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:654
 msgctxt "0x00043c5c"
 msgid "Dorian attack my target"
-msgstr ""
+msgstr "Dorian attack my target"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[67]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:659
 msgctxt "0x00043c1f"
 msgid "Dorian clear behavior"
-msgstr ""
+msgstr "Dorian clear behavior"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[68]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:664
 msgctxt "0x00043c58"
 msgid "Dorian come to me"
-msgstr ""
+msgstr "Dorian come to me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[69]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:669
 msgctxt "0x00043c3e"
 msgid "Dorian defend Blackwall"
-msgstr ""
+msgstr "Dorian defend Blackwall"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[70]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:674
 msgctxt "0x00043c50"
 msgid "Cole defend Cassandra"
-msgstr ""
+msgstr "Cole defend Cassandra"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[71]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:679
 msgctxt "0x00043c6b"
 msgid "Dorian defend Cole"
-msgstr ""
+msgstr "Dorian defend Cole"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[72]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:684
 msgctxt "0x00043c8e"
 msgid "Dorian defend Herald"
-msgstr ""
+msgstr "Dorian defend Herald"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[73]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:689
 msgctxt "0x00043c78"
 msgid "Dorian defend Cassandra"
-msgstr ""
+msgstr "Dorian defend Cassandra"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[76]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:704
 msgctxt "0x00043c2b"
 msgid "Dorian defend Inquisitor"
-msgstr ""
+msgstr "Dorian defend Inquisitor"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[77]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:709
 msgctxt "0x00043cdc"
 msgid "Dorian defend Iron Bull"
-msgstr ""
+msgstr "Dorian defend Iron Bull"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[78]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:714
 msgctxt "0x00043c1a"
 msgid "Dorian defend me"
-msgstr ""
+msgstr "Dorian defend me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[79]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:719
 msgctxt "0x00043c7e"
 msgid "Dorian defend Sera"
-msgstr ""
+msgstr "Dorian defend Sera"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[80]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:724
 msgctxt "0x00043cb6"
 msgid "Dorian defend Solas"
-msgstr ""
+msgstr "Dorian defend Solas"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[81]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:729
 msgctxt "0x00043ccf"
 msgid "Dorian defend Varric"
-msgstr ""
+msgstr "Dorian defend Varric"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[82]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:734
 msgctxt "0x00043c9b"
 msgid "Dorian defend Vivienne"
-msgstr ""
+msgstr "Dorian defend Vivienne"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[83]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:739
 msgctxt "0x00043c4f"
 msgid "Dorian heal"
-msgstr ""
+msgstr "Dorian heal"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[84]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:744
 msgctxt "0x00043c13"
 msgid "Dorian hold position"
-msgstr ""
+msgstr "Dorian hold position"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[85]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:749
 msgctxt "0x00043c1b"
 msgid "Dorian move freely"
-msgstr ""
+msgstr "Dorian move freely"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[86]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:754
 msgctxt "0x00043cf2"
 msgid "Everyone attack my target"
-msgstr ""
+msgstr "Everyone attack my target"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[87]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:759
 msgctxt "0x00043d00"
 msgid "Everyone clear behavior"
-msgstr ""
+msgstr "Everyone clear behavior"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[88]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:764
 msgctxt "0x00043cf5"
 msgid "Everyone come to me"
-msgstr ""
+msgstr "Everyone come to me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[89]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:769
 msgctxt "0x00043ce8"
 msgid "Everyone defend Blackwall"
-msgstr ""
+msgstr "Everyone defend Blackwall"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[90]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:774
 msgctxt "0x00043cf8"
 msgid "Everyone defend Cassandra"
-msgstr ""
+msgstr "Everyone defend Cassandra"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[91]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:779
 msgctxt "0x00043cdb"
 msgid "Everyone defend Cole"
-msgstr ""
+msgstr "Everyone defend Cole"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[92]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:784
 msgctxt "0x00043d07"
 msgid "Everyone defend Dorian"
-msgstr ""
+msgstr "Everyone defend Dorian"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[93]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:789
 msgctxt "0x00043cde"
 msgid "Everyone defend Herald"
-msgstr ""
+msgstr "Everyone defend Herald"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[94]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:794
 msgctxt "0x00043cfd"
 msgid "Everyone defend Inquisitor"
-msgstr ""
+msgstr "Everyone defend Inquisitor"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[95]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:799
 msgctxt "0x00043cda"
 msgid "Everyone defend Iron Bull"
-msgstr ""
+msgstr "Everyone defend Iron Bull"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[96]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:804
 msgctxt "0x00043cfa"
 msgid "Everyone defend me"
-msgstr ""
+msgstr "Everyone defend me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[97]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:809
 msgctxt "0x00043d02"
 msgid "Everyone defend Sera"
-msgstr ""
+msgstr "Everyone defend Sera"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[98]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:814
 msgctxt "0x00043ce3"
 msgid "Everyone defend Solas"
-msgstr ""
+msgstr "Everyone defend Solas"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[99]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:819
 msgctxt "0x00043cf4"
 msgid "Everyone defend Varric"
-msgstr ""
+msgstr "Everyone defend Varric"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[100]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:824
 msgctxt "0x00043d03"
 msgid "Everyone defend Vivienne"
-msgstr ""
+msgstr "Everyone defend Vivienne"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[101]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:829
 msgctxt "0x00043ce1"
 msgid "Everyone disengage"
-msgstr ""
+msgstr "Everyone disengage"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[102]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:834
 msgctxt "0x00043ceb"
 msgid "Everyone heal"
-msgstr ""
+msgstr "Everyone heal"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[103]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:839
 msgctxt "0x00043cf7"
 msgid "Everyone hold position"
-msgstr ""
+msgstr "Everyone hold position"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[104]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:844
 msgctxt "0x00043ce9"
 msgid "Everyone move freely"
-msgstr ""
+msgstr "Everyone move freely"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[105]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:849
 msgctxt "0x00043c64"
 msgid "Herald attack my target"
-msgstr ""
+msgstr "Herald attack my target"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[106]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:854
 msgctxt "0x00043c80"
 msgid "Herald clear behavior"
-msgstr ""
+msgstr "Herald clear behavior"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[107]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:859
 msgctxt "0x00043c93"
 msgid "Herald come to me"
-msgstr ""
+msgstr "Herald come to me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[108]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:864
 msgctxt "0x00043c56"
 msgid "Herald defend Blackwall"
-msgstr ""
+msgstr "Herald defend Blackwall"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[109]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:869
 msgctxt "0x00043c5d"
 msgid "Herald defend Cassandra"
-msgstr ""
+msgstr "Herald defend Cassandra"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[110]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:874
 msgctxt "0x00043c2f"
 msgid "Herald defend Cole"
-msgstr ""
+msgstr "Herald defend Cole"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[111]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:879
 msgctxt "0x00043c1e"
 msgid "Herald defend Dorian"
-msgstr ""
+msgstr "Herald defend Dorian"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[112]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:884
 msgctxt "0x00043cc1"
 msgid "Herald defend Iron Bull"
-msgstr ""
+msgstr "Herald defend Iron Bull"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[113]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:889
 msgctxt "0x00043c17"
 msgid "Herald defend me"
-msgstr ""
+msgstr "Herald defend me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[114]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:894
 msgctxt "0x00043c77"
 msgid "Herald defend Sera"
-msgstr ""
+msgstr "Herald defend Sera"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[115]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:899
 msgctxt "0x00043cad"
 msgid "Herald defend Solas"
-msgstr ""
+msgstr "Herald defend Solas"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[116]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:904
 msgctxt "0x00043cd3"
 msgid "Herald defend Varric"
-msgstr ""
+msgstr "Herald defend Varric"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[117]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:909
 msgctxt "0x00043cab"
 msgid "Herald defend Vivienne"
-msgstr ""
+msgstr "Herald defend Vivienne"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[118]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:914
 msgctxt "0x00043c87"
 msgid "Herald heal"
-msgstr ""
+msgstr "Herald heal"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[119]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:919
 msgctxt "0x00043c20"
 msgid "Herald hold position"
-msgstr ""
+msgstr "Herald hold position"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[120]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:924
 msgctxt "0x00043c1c"
 msgid "Herald move freely"
-msgstr ""
+msgstr "Herald move freely"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[121]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:929
 msgctxt "0x00043c76"
 msgid "Inquisitor attack my target"
-msgstr ""
+msgstr "Inquisitor attack my target"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[122]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:934
 msgctxt "0x00043c22"
 msgid "Inquisitor clear behavior"
-msgstr ""
+msgstr "Inquisitor clear behavior"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[123]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:939
 msgctxt "0x00043c84"
 msgid "Inquisitor come to me"
-msgstr ""
+msgstr "Inquisitor come to me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[124]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:944
 msgctxt "0x00043c51"
 msgid "Inquisitor defend Blackwall"
-msgstr ""
+msgstr "Inquisitor defend Blackwall"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[125]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:949
 msgctxt "0x00043c28"
 msgid "Inquisitor defend Cassandra"
-msgstr ""
+msgstr "Inquisitor defend Cassandra"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[126]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:954
 msgctxt "0x00043c14"
 msgid "Inquisitor defend Cole"
-msgstr ""
+msgstr "Inquisitor defend Cole"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[127]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:959
 msgctxt "0x00043c32"
 msgid "Inquisitor defend Dorian"
-msgstr ""
+msgstr "Inquisitor defend Dorian"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[128]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:964
 msgctxt "0x00043cfe"
 msgid "Inquisitor defend Iron Bull"
-msgstr ""
+msgstr "Inquisitor defend Iron Bull"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[129]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:969
 msgctxt "0x00043c15"
 msgid "Inquisitor defend me"
-msgstr ""
+msgstr "Inquisitor defend me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[131]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:979
 msgctxt "0x00043c6a"
 msgid "Inquisitor defend Sera"
-msgstr ""
+msgstr "Inquisitor defend Sera"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[132]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:984
 msgctxt "0x00043ca7"
 msgid "Inquisitor defend Solas"
-msgstr ""
+msgstr "Inquisitor defend Solas"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[133]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:989
 msgctxt "0x00043cd2"
 msgid "Inquisitor defend Varric"
-msgstr ""
+msgstr "Inquisitor defend Varric"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[134]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:994
 msgctxt "0x00043ca0"
 msgid "Inquisitor defend Vivienne"
-msgstr ""
+msgstr "Inquisitor defend Vivienne"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[135]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:999
 msgctxt "0x00043c65"
 msgid "Inquisitor heal"
-msgstr ""
+msgstr "Inquisitor heal"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[136]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1004
 msgctxt "0x00043c5f"
 msgid "Inquisitor hold position"
-msgstr ""
+msgstr "Inquisitor hold position"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[137]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1009
 msgctxt "0x00043c23"
 msgid "Inquisitor move freely"
-msgstr ""
+msgstr "Inquisitor move freely"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[138]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1014
 msgctxt "0x00043cd4"
 msgid "Iron Bull attack my target"
-msgstr ""
+msgstr "Iron Bull attack my target"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[139]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1019
 msgctxt "0x00043cc3"
 msgid "Iron Bull clear behavior"
-msgstr ""
+msgstr "Iron Bull clear behavior"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[140]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1024
 msgctxt "0x00043cd1"
 msgid "Iron Bull come to me"
-msgstr ""
+msgstr "Iron Bull come to me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[141]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1029
 msgctxt "0x00043c75"
 msgid "Iron Bull defend Blackwall"
-msgstr ""
+msgstr "Iron Bull defend Blackwall"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[142]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1034
 msgctxt "0x00043c85"
 msgid "Iron Bull defend Cassandra"
-msgstr ""
+msgstr "Iron Bull defend Cassandra"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[143]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1039
 msgctxt "0x00043c90"
 msgid "Iron Bull defend Cole"
-msgstr ""
+msgstr "Iron Bull defend Cole"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[144]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1044
 msgctxt "0x00043c4a"
 msgid "Iron Bull defend Dorian"
-msgstr ""
+msgstr "Iron Bull defend Dorian"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[145]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1049
 msgctxt "0x00043c41"
 msgid "Iron Bull defend Herald"
-msgstr ""
+msgstr "Iron Bull defend Herald"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[146]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1054
 msgctxt "0x00043c1d"
 msgid "Iron Bull defend Inquisitor"
-msgstr ""
+msgstr "Iron Bull defend Inquisitor"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[147]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1059
 msgctxt "0x00043ce6"
 msgid "Iron Bull defend me"
-msgstr ""
+msgstr "Iron Bull defend me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[148]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1064
 msgctxt "0x00043c2c"
 msgid "Iron Bull defend Sera"
-msgstr ""
+msgstr "Iron Bull defend Sera"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[149]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1069
 msgctxt "0x00043ca5"
 msgid "Iron Bull defend Solas"
-msgstr ""
+msgstr "Iron Bull defend Solas"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[150]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1074
 msgctxt "0x00043cd7"
 msgid "Iron Bull defend Varric"
-msgstr ""
+msgstr "Iron Bull defend Varric"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[151]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1079
 msgctxt "0x00043cbe"
 msgid "Iron Bull defend Vivienne"
-msgstr ""
+msgstr "Iron Bull defend Vivienne"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[152]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1084
 msgctxt "0x00043cc4"
 msgid "Iron Bull heal"
-msgstr ""
+msgstr "Iron Bull heal"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[153]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1089
 msgctxt "0x00043cce"
 msgid "Iron Bull hold position"
-msgstr ""
+msgstr "Iron Bull hold position"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[154]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1094
 msgctxt "0x00043cc7"
 msgid "Iron Bull move freely"
-msgstr ""
+msgstr "Iron Bull move freely"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[155]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1099
 msgctxt "0x00043c7c"
 msgid "Sera attack my target"
-msgstr ""
+msgstr "Sera attack my target"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[156]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1104
 msgctxt "0x00043c79"
 msgid "Sera clear behavior"
-msgstr ""
+msgstr "Sera clear behavior"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[157]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1109
 msgctxt "0x00043c94"
 msgid "Sera come to me"
-msgstr ""
+msgstr "Sera come to me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[158]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1114
 msgctxt "0x00043c92"
 msgid "Sera defend Blackwall"
-msgstr ""
+msgstr "Sera defend Blackwall"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[159]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1119
 msgctxt "0x00043c26"
 msgid "Sera defend Cassandra"
-msgstr ""
+msgstr "Sera defend Cassandra"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[160]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1124
 msgctxt "0x00043c62"
 msgid "Sera defend Cole"
-msgstr ""
+msgstr "Sera defend Cole"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[161]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1129
 msgctxt "0x00043c83"
 msgid "Sera defend Dorian"
-msgstr ""
+msgstr "Sera defend Dorian"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[162]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1134
 msgctxt "0x00043c61"
 msgid "Sera defend Herald"
-msgstr ""
+msgstr "Sera defend Herald"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[163]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1139
 msgctxt "0x00043c8b"
 msgid "Sera defend Inquisitor"
-msgstr ""
+msgstr "Sera defend Inquisitor"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[164]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1144
 msgctxt "0x00043cf6"
 msgid "Sera defend Iron Bull"
-msgstr ""
+msgstr "Sera defend Iron Bull"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[165]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1149
 msgctxt "0x00043c29"
 msgid "Sera defend me"
-msgstr ""
+msgstr "Sera defend me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[166]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1154
 msgctxt "0x00043cb7"
 msgid "Sera defend Solas"
-msgstr ""
+msgstr "Sera defend Solas"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[167]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1159
 msgctxt "0x00043ccd"
 msgid "Sera defend Varric"
-msgstr ""
+msgstr "Sera defend Varric"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[168]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1164
 msgctxt "0x00043cb9"
 msgid "Sera defend Vivienne"
-msgstr ""
+msgstr "Sera defend Vivienne"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[169]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1169
 msgctxt "0x00043c66"
 msgid "Sera heal"
-msgstr ""
+msgstr "Sera heal"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[170]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1174
 msgctxt "0x00043c59"
 msgid "Sera hold position"
-msgstr ""
+msgstr "Sera hold position"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[171]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1179
 msgctxt "0x00043c3a"
 msgid "Sera move freely"
-msgstr ""
+msgstr "Sera move freely"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[172]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1184
 msgctxt "0x00043cba"
 msgid "Solas attack my target"
-msgstr ""
+msgstr "Solas attack my target"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[173]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1189
 msgctxt "0x00043cbc"
 msgid "Solas clear behavior"
-msgstr ""
+msgstr "Solas clear behavior"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[174]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1194
 msgctxt "0x00043cb2"
 msgid "Solas come to me"
-msgstr ""
+msgstr "Solas come to me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[175]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1199
 msgctxt "0x00043c2d"
 msgid "Solas defend Blackwall"
-msgstr ""
+msgstr "Solas defend Blackwall"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[176]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1204
 msgctxt "0x00043c98"
 msgid "Solas defend Cassandra"
-msgstr ""
+msgstr "Solas defend Cassandra"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[177]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1209
 msgctxt "0x00043c33"
 msgid "Solas defend Cole"
-msgstr ""
+msgstr "Solas defend Cole"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[178]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1214
 msgctxt "0x00043c74"
 msgid "Solas defend Dorian"
-msgstr ""
+msgstr "Solas defend Dorian"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[179]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1219
 msgctxt "0x00043c5b"
 msgid "Solas defend Herald"
-msgstr ""
+msgstr "Solas defend Herald"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[180]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1224
 msgctxt "0x00043c81"
 msgid "Solas defend Inquisitor"
-msgstr ""
+msgstr "Solas defend Inquisitor"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[181]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1229
 msgctxt "0x00043cf1"
 msgid "Solas defend Iron Bull"
-msgstr ""
+msgstr "Solas defend Iron Bull"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[182]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1234
 msgctxt "0x00043cac"
 msgid "Solas defend me"
-msgstr ""
+msgstr "Solas defend me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[183]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1239
 msgctxt "0x00043c6e"
 msgid "Solas defend Sera"
-msgstr ""
+msgstr "Solas defend Sera"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[184]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1244
 msgctxt "0x00043ccc"
 msgid "Solas defend Varric"
-msgstr ""
+msgstr "Solas defend Varric"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[185]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1249
 msgctxt "0x00043cb1"
 msgid "Solas defend Vivienne"
-msgstr ""
+msgstr "Solas defend Vivienne"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[186]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1254
 msgctxt "0x00043ca8"
 msgid "Solas heal"
-msgstr ""
+msgstr "Solas heal"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[187]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1259
 msgctxt "0x00043ca6"
 msgid "Solas hold position"
-msgstr ""
+msgstr "Solas hold position"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[188]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1264
 msgctxt "0x00043c9c"
 msgid "Solas move freely"
-msgstr ""
+msgstr "Solas move freely"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[189]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1269
 msgctxt "0x00043cd5"
 msgid "Varric attack my target"
-msgstr ""
+msgstr "Varric attack my target"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[190]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1274
 msgctxt "0x00043ccb"
 msgid "Varric clear behavior"
-msgstr ""
+msgstr "Varric clear behavior"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[191]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1279
 msgctxt "0x00043cc0"
 msgid "Varric come to me"
-msgstr ""
+msgstr "Varric come to me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[192]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1284
 msgctxt "0x00043c3d"
 msgid "Varric defend Blackwall"
-msgstr ""
+msgstr "Varric defend Blackwall"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[193]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1289
 msgctxt "0x00043c8a"
 msgid "Varric defend Cassandra"
-msgstr ""
+msgstr "Varric defend Cassandra"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[194]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1294
 msgctxt "0x00043c73"
 msgid "Varric defend Cole"
-msgstr ""
+msgstr "Varric defend Cole"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[195]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1299
 msgctxt "0x00043c91"
 msgid "Varric defend Dorian"
-msgstr ""
+msgstr "Varric defend Dorian"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[196]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1304
 msgctxt "0x00043c63"
 msgid "Varric defend Herald"
-msgstr ""
+msgstr "Varric defend Herald"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[197]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1309
 msgctxt "0x00043c86"
 msgid "Varric defend Inquisitor"
-msgstr ""
+msgstr "Varric defend Inquisitor"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[198]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1314
 msgctxt "0x00043cea"
 msgid "Varric defend Iron Bull"
-msgstr ""
+msgstr "Varric defend Iron Bull"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[199]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1319
 msgctxt "0x00043cc8"
 msgid "Varric defend me"
-msgstr ""
+msgstr "Varric defend me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[200]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1324
 msgctxt "0x00043c99"
 msgid "Varric defend Sera"
-msgstr ""
+msgstr "Varric defend Sera"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[201]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1329
 msgctxt "0x00043cb0"
 msgid "Varric defend Solas"
-msgstr ""
+msgstr "Varric defend Solas"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[202]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1334
 msgctxt "0x00043ca4"
 msgid "Varric defend Vivienne"
-msgstr ""
+msgstr "Varric defend Vivienne"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[203]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1339
 msgctxt "0x00043cd6"
 msgid "Varric heal"
-msgstr ""
+msgstr "Varric heal"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[204]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1344
 msgctxt "0x00043cc5"
 msgid "Varric hold position"
-msgstr ""
+msgstr "Varric hold position"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[205]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1349
 msgctxt "0x00043cc6"
 msgid "Varric move freely"
-msgstr ""
+msgstr "Varric move freely"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[206]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1354
 msgctxt "0x00043c6d"
 msgid "Vivienne attack my target"
-msgstr ""
+msgstr "Vivienne attack my target"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[207]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1359
 msgctxt "0x00043caf"
 msgid "Vivienne clear behavior"
-msgstr ""
+msgstr "Vivienne clear behavior"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[208]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1364
 msgctxt "0x00043c95"
 msgid "Vivienne come to me"
-msgstr ""
+msgstr "Vivienne come to me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[209]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1369
 msgctxt "0x00043c82"
 msgid "Vivienne defend Blackwall"
-msgstr ""
+msgstr "Vivienne defend Blackwall"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[210]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1374
 msgctxt "0x00043c69"
 msgid "Vivienne defend Cassandra"
-msgstr ""
+msgstr "Vivienne defend Cassandra"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[211]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1379
 msgctxt "0x00043c27"
 msgid "Vivienne defend Cole"
-msgstr ""
+msgstr "Vivienne defend Cole"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[212]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1384
 msgctxt "0x00043c3f"
 msgid "Vivienne defend Dorian"
-msgstr ""
+msgstr "Vivienne defend Dorian"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[213]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1389
 msgctxt "0x00043c7d"
 msgid "Vivienne defend Herald"
-msgstr ""
+msgstr "Vivienne defend Herald"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[214]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1394
 msgctxt "0x00043c52"
 msgid "Vivienne defend Inquisitor"
-msgstr ""
+msgstr "Vivienne defend Inquisitor"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[215]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1399
 msgctxt "0x00043d05"
 msgid "Vivienne defend Iron Bull"
-msgstr ""
+msgstr "Vivienne defend Iron Bull"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[216]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1404
 msgctxt "0x00043cb5"
 msgid "Vivienne defend me"
-msgstr ""
+msgstr "Vivienne defend me"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[217]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1409
 msgctxt "0x00043c7b"
 msgid "Vivienne defend Sera"
-msgstr ""
+msgstr "Vivienne defend Sera"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[218]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1414
 msgctxt "0x00043ca9"
 msgid "Vivienne defend Solas"
-msgstr ""
+msgstr "Vivienne defend Solas"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[219]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1419
 msgctxt "0x00043cca"
 msgid "Vivienne defend Varric"
-msgstr ""
+msgstr "Vivienne defend Varric"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[220]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1424
 msgctxt "0x00043c36"
 msgid "Vivienne heal"
-msgstr ""
+msgstr "Vivienne heal"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[221]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1429
 msgctxt "0x00043c9d"
 msgid "Vivienne hold position"
-msgstr ""
+msgstr "Vivienne hold position"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_Options.xml
 #. PATH: UIGameOptionsScreenAsset/KinectCommands/member[222]
 #: UI\Flow\Screen\SYS\SYS_Options.xml:1434
 msgctxt "0x00043ca3"
 msgid "Vivienne move freely"
-msgstr ""
+msgstr "Vivienne move freely"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_SafeFrameAdjust.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
@@ -11126,6 +11147,18 @@ msgid ""
 "Bare your blade and raise it high.\n"
 "-The Dragon Age Team"
 msgstr ""
+"<i>드래곤 에이지: 인퀴지션</i> 을 하며 웃거나 울거나\n"
+"SNS에서 관심을 보여주시거나\n"
+"팬아트, 만화, 코스프레나 농담을 해주시는 모든 여러분께\n"
+"감사드립니다.\n"
+"\n"
+"<i>드래곤 에이지: 인퀴지션</i> 은 사랑의 매였습니다.\n"
+"당신 없이는, 이뤄질 리 없는 일이지요.\n"
+"당신의 지지와 열정이 우리에게 깊게 와 닿았습니다.\n"
+"작더라도, 우리는 이 게임이 당신에게 닿기를 바랍니다.\n"
+"\n"
+"칼을 빼어 들고 치켜올려라.\n"
+"-드래곤 에이지 팀 올림"
 
 #. FILE: UI\ImmediateMode\widgets\MPKillstreakWidget.xml
 #. PATH: GetLocalizedStringIDData/Text
@@ -12662,6 +12695,8 @@ msgstr "기다려 주세요…"
 msgctxt "0x00027f96"
 msgid "Autosave failed due to insufficient space. {anyplaystation}{CUSTOM0} {ps4}MB {/ps4}{ps3}KB {/ps3}is required to save data. {/anyplaystation}Please free up additional space."
 msgstr ""
+"공간이 부족해 자동저장에 실패했습니다. {anyplaystation}저장에는 {CUSTOM0} {ps4}MB {/ps4}{ps3}KB "
+"{/ps3}의 용량이 필요합니다. {/anyplaystation}저장 공간을 비워주십시오."
 
 #. FILE: UI\Settings\ExternalLocStringTranslator.xml
 #. PATH: UIExternalLocStringTranslator/Data/member[20]/UIExternalLocStringIDToLocalizedString/DisplayString
@@ -12669,6 +12704,9 @@ msgstr ""
 msgctxt "0x00027f95"
 msgid "Save failed due to insufficient space. {anyplaystation}{CUSTOM0} {ps4}MB {/ps4}{ps3}KB {/ps3}is required to save data. {/anyplaystation}Please overwrite {notps3}or delete {/notps3}an existing save."
 msgstr ""
+"공간이 부족해 저장에 실패했습니다. {anyplaystation}저장에는 {CUSTOM0} {ps4}MB {/ps4}{ps3}KB "
+"{/ps3}의 용량이 필요합니다. {/anyplaystation}존재하는 저장 파일{notps3}을 지우거나 {/notps3} 위에 "
+"덮어쓰십시오."
 
 #. FILE: UI\Settings\ExternalLocStringTranslator.xml
 #. PATH: UIExternalLocStringTranslator/Data/member[25]/UIExternalLocStringIDToLocalizedString/DisplayString
@@ -12696,7 +12734,7 @@ msgstr ""
 #: UI\Settings\ExternalLocStringTranslator.xml:379
 msgctxt "0x00044f75"
 msgid "The save operation failed. The save file being overwritten is corrupt or the save device cannot be accessed."
-msgstr ""
+msgstr "작전 저장에 실패했습니다. 덮어 씌울 저장 파일이 손상되었거나 저장 장치에 접근 할 수 없습니다."
 
 #. FILE: UI\Settings\ExternalLocStringTranslator.xml
 #. PATH: UIExternalLocStringTranslator/Data/member[40]/UIExternalLocStringIDToLocalizedString/DisplayString
@@ -12746,7 +12784,7 @@ msgstr "상호작용"
 #: UI\Settings\UIDamageTypeSettings.xml:246
 msgctxt "0x0002ecfa"
 msgid "Dragons"
-msgstr "드래곤"
+msgstr "용"
 
 #. FILE: UI\Settings\UIDamageTypeSettings.xml
 #. PATH: UIDamageTypeSettings/DamageTypeDisplayInfos/member[9]/UIDamageTypeDisplayInfo/DescriptionTemplate
@@ -12774,14 +12812,14 @@ msgstr "생물"
 #: UI\Settings\UIDamageTypeSettings.xml:330
 msgctxt "0x00044148"
 msgid "Corrupted"
-msgstr ""
+msgstr "타락"
 
 #. FILE: UI\Settings\UIObjectiveTypeSettings.xml
 #. PATH: UIObjectiveTypeSettings/ObjectiveTypeDisplayInfos/member[1]/UIObjectiveDisplayInfo/DisplayText
 #: UI\Settings\UIObjectiveTypeSettings.xml:15
 msgctxt "0x00043355"
 msgid "Hold Position"
-msgstr ""
+msgstr "위치 사수"
 
 #. FILE: UI\Settings\UIObjectiveTypeSettings.xml
 #. PATH: UIObjectiveTypeSettings/ObjectiveTypeDisplayInfos/member[2]/UIObjectiveDisplayInfo/DisplayText
@@ -12795,112 +12833,112 @@ msgstr "공격"
 #: UI\Settings\UIObjectiveTypeSettings.xml:63
 msgctxt "0x00043356"
 msgid "Disengage"
-msgstr ""
+msgstr "철수"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[1]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:22
 msgctxt "0x00041b4e"
 msgid "Sundered"
-msgstr ""
+msgstr "찢어짐"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[2]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:45
 msgctxt "0x00028d3a"
 msgid "Burning"
-msgstr ""
+msgstr "화상"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[3]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:68
 msgctxt "0x00028d3f"
 msgid "Chilled"
-msgstr ""
+msgstr "서리"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[4]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:91
 msgctxt "0x000422a6"
 msgid "Dispelled"
-msgstr ""
+msgstr "해제"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[5]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:114
 msgctxt "0x0002a294"
 msgid "Frozen"
-msgstr ""
+msgstr "결빙"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[6]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:137
 msgctxt "0x0002ed1a"
 msgid "Panicked"
-msgstr ""
+msgstr "공황"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[7]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:160
 msgctxt "0x00042229"
 msgid "Paralyzed"
-msgstr ""
+msgstr "마비됨"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[8]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:183
 msgctxt "0x00028d3d"
 msgid "Poisoned"
-msgstr ""
+msgstr "중독됨"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[9]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:206
 msgctxt "0x00028d3c"
 msgid "Weakened"
-msgstr ""
+msgstr "약화됨"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[10]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:229
 msgctxt "0x00028d3e"
 msgid "Shocked"
-msgstr ""
+msgstr "감전됨"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[11]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:252
 msgctxt "0x00028d3b"
 msgid "Asleep"
-msgstr ""
+msgstr "잠듦"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[12]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:275
 msgctxt "0x000312b5"
 msgid "Slowed"
-msgstr ""
+msgstr "둔화됨"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[13]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:298
 msgctxt "0x0002ed1b"
 msgid "Stunned"
-msgstr ""
+msgstr "기절함"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[14]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:321
 msgctxt "0x0002a290"
 msgid "Taunted"
-msgstr ""
+msgstr "도발됨"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[15]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:344
 msgctxt "0x000422a7"
 msgid "Immune"
-msgstr ""
+msgstr "면역"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[16]/UIStatusEffectDisplayInfo/DisplayName
@@ -12921,14 +12959,14 @@ msgstr ""
 #: UI\Settings\UIStatusEffectTypeSettings.xml:413
 msgctxt "0x00043008"
 msgid "DISCHARGE"
-msgstr ""
+msgstr "방출"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[19]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:436
 msgctxt "0x0004300a"
 msgid "RUPTURE"
-msgstr ""
+msgstr "파열"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[20]/UIStatusEffectDisplayInfo/DisplayName
@@ -13048,7 +13086,7 @@ msgstr "일지"
 #: UI\UIComponents\UIBWInventoryComp.xml:79
 msgctxt "0x00018153"
 msgid "Level {CUSTOM0} {CUSTOM1}"
-msgstr ""
+msgstr "레벨 {CUSTOM0} {CUSTOM1}"
 
 #. FILE: UI\UIComponents\UICharGenComp.xml
 #. PATH: UICharGenCompData/CharacterImportTitle
@@ -13069,7 +13107,7 @@ msgstr "드래곤 에이지 킵에서 캐릭터 데이터 다운로드중..."
 #: UI\UIComponents\UICharGenComp.xml:46
 msgctxt "0x000446d7"
 msgid "Please log into Origin to download previously created characters from the Dragon Age Keep."
-msgstr "드래곤 에이지 킵에서 이전에 생성된 캐릭터를 다운로드하려면 오리진에 로그인하십시오."
+msgstr "용 에이지 킵에서 이전에 생성된 캐릭터를 다운로드하려면 오리진에 로그인하십시오."
 
 #. FILE: UI\UIComponents\UICharGenComp.xml
 #. PATH: UICharGenCompData/CharacterImportCardTitle
@@ -13153,7 +13191,7 @@ msgstr "이 설정은 게임패드 사용시에만 변경 가능합니다."
 #: UI\UIComponents\UIGameOptionsComp.xml:58
 msgctxt "0x000349b9"
 msgid "Change the speech recognition locale. Modifying this setting may result in a suboptimal Kinect experience."
-msgstr ""
+msgstr "음성 인식 지역을 변경합니다. 해당 설정을 수정하면 키넥트가 원활히 작동하지 않을 수 있습니다."
 
 #. FILE: UI\UIComponents\UIOnlineHubComp.xml
 #. PATH: UIOnlineHubCompData/ImportDialogTitle
@@ -13181,7 +13219,7 @@ msgstr "드래곤 에이지 킵에서 불러들이는 중..."
 #: UI\UIComponents\UIOnlineHubComp.xml:37
 msgctxt "0x00044112"
 msgid "Importing World State from the Dragon Age Keep cannot be used due to Family Settings"
-msgstr ""
+msgstr "가족 설정으로 인해 드래곤 에이지 Keep에서 세계 설정을 불러올 수 없습니다"
 
 #. FILE: UI\UIComponents\UIOnlineHubComp.xml
 #. PATH: UIOnlineHubCompData/DefaultCanonTitle
@@ -13244,7 +13282,7 @@ msgstr ""
 #: UI\UIComponents\UIPartyComp.xml:62
 msgctxt "0x0001fbe4"
 msgid "Attack My Target"
-msgstr ""
+msgstr "내 목표를 공격"
 
 #. FILE: UI\UIComponents\UIPartyComp.xml
 #. PATH: UIPartyCompData/ComeToMeCommand/UIPartyCommandData/DisplayName
@@ -13258,7 +13296,7 @@ msgstr ""
 #: UI\UIComponents\UIPotionLoadoutComp.xml:43
 msgctxt "0x0002bc74"
 msgid "<font color=\"#{CUSTOM3}\">{CUSTOM0} {CUSTOM1} (Have {CUSTOM2})</font>"
-msgstr ""
+msgstr "<font color=\"#{CUSTOM3}\">{CUSTOM0} {CUSTOM1} ({CUSTOM2} 소지)</font>"
 
 #. FILE: UI\UIComponents\UIRadarComp.xml
 #. PATH: UIRadarCompData/LocStringNorth
@@ -13280,6 +13318,8 @@ msgstr "손상된 세이브"
 msgctxt "0x0004423b"
 msgid "Dragon Age™: Inquisition supports {CUSTOM0} saves across all characters. You have reached the maximum number of saves. Please overwrite or delete an existing save."
 msgstr ""
+"Dragon Age™: Inquisition은 모든 캐릭터를 통틀어 {CUSTOM0}개의 저장 파일을 생성할 수 있습니다. 저장 파일 "
+"최대 한도에 도달했습니다. 기존의 저장 파일을 덮어씌우거나 삭제하여 주십시오."
 
 #. FILE: UI\UIComponents\UISaveLoadComp.xml
 #. PATH: UISaveLoadCompData/NewGameMaxSaveLocString
@@ -13287,6 +13327,8 @@ msgstr ""
 msgctxt "0x0004423d"
 msgid "Dragon Age™: Inquisition supports {CUSTOM0} saves across all characters. You have reached the maximum number of saves. Please delete {CUSTOM1} save game(s) and try again."
 msgstr ""
+"Dragon Age™: Inquisition은 모든 캐릭터를 통틀어 {CUSTOM0}개의 저장 파일을 생성할 수 있습니다. 저장 파일 "
+"최대 한도에 도달했습니다. {CUSTOM1} 개의 저장 파일을 삭제한 후 다시 시도해주십시오."
 
 #. FILE: UI\UIComponents\UISaveLoadComp.xml
 #. PATH: UISaveLoadCompData/AutoSaveMaxSaveLocString
@@ -13294,6 +13336,8 @@ msgstr ""
 msgctxt "0x0004423c"
 msgid "Dragon Age™: Inquisition supports {CUSTOM0} saves across all characters. You have reached the maximum number of saves, and an Autosave has failed."
 msgstr ""
+"Dragon Age™: Inquisition은 모든 캐릭터를 통틀어 {CUSTOM0}개의 저장 파일을 생성할 수 있습니다. 저장 파일 "
+"최대 한도에 도달하여 자동저장에 실패했습니다."
 
 #. FILE: UI\UIComponents\UISaveLoadComp.xml
 #. PATH: UISaveLoadCompData/LoadErrorMissingDLCContent
@@ -14171,7 +14215,7 @@ msgstr "카르타 드워프"
 msgctxt "0x00043130"
 msgid "The dwarves of Thedas are known for their once-vast underground empire and guilds of merchants and warriors held in high esteem by the other races of Thedas. Not you. A cast-off \"surfacer,\" unwelcome among the dwarves or most humans, you have scraped by as part of a criminal fraternity known as the Carta, smuggling magical ore known as lyrium. As part of the ruthless Cadash crime family, you spent your life on the streets of various Free Marcher city-states—until you were sent to the Chantry Conclave as a spy and everything changed."
 msgstr ""
-"테다스의 드워프들은 한때 웅장했던 그들의 지하 제국, 그들의 상인 길드, 그리고 다른 종들에게 존경받는 용맹한 전사들로 테다스 전역에 "
+"테다스의 드워프들은 한때 웅장했던 그들의 지하 제국, 그들의 상인 조합, 그리고 다른 종들에게 존경받는 용맹한 전사들로 테다스 전역에 "
 "알려져 있습니다. 그렇지만 당신은 아닙니다. 비계급층의 \"지상민\"인 당신은 드워프 사이에서도, 인간 사이에서도 환영받지 못합니다. "
 "당신은 카르타라 불리는 범죄 집단에 들어가, 리륨이라는 마법 광석을 밀수하며 간신히 생계를 유지해왔습니다. 무자비한 범죄 가문, 카다쉬의 "
 "일원인 당신은 자유 동맹에 있는 여러 도시의 뒷골목에서 인생의 대부분을 보냈습니다. 당신이 콘클라베에 스파이로 파견되고, 모든 것이 "
@@ -14252,7 +14296,7 @@ msgstr "어려움"
 #: UI\assets\CharacterCreation\DifficultySelectionUIData.xml:51
 msgctxt "0x0003f991"
 msgid "For seasoned players looking for a significant challenge in combat. Enemies are punishing and battles require a clever mind for tactics."
-msgstr "상당한 수준의 전투 난이도를 원하는 베테랑 플레이어에게 권합니다. 적들은 강할 것이며 영리한 전략 플레이가 요구됩니다."
+msgstr "상당한 수준의 전투 난이도를 원하는 베테랑 플레이어에게 권합니다. 적은 강할 것이며 영리한 전략 플레이가 요구됩니다."
 
 #. FILE: UI\assets\CharacterCreation\DifficultySelectionUIData.xml
 #. PATH: UIDifficultySelectionDataAsset/DifficultyModes/member[4]/DifficultyModeUIData/DifficultyName
@@ -14557,14 +14601,14 @@ msgstr "전투 중에 캐릭터들에게 걸린 상태 이상을 텍스트로 �
 #: UI\assets\GameOptions\GameOptions_EnableGore.xml:5
 msgctxt "0x0003fb28"
 msgid "Enable persistent gore"
-msgstr "유혈 표현 켜기"
+msgstr "혈흔 지속 표현"
 
 #. FILE: UI\assets\GameOptions\GameOptions_EnableGore.xml
 #. PATH: UIGameOptionsItemAsset/Description
 #: UI\assets\GameOptions\GameOptions_EnableGore.xml:10
 msgctxt "0x00044d86"
 msgid "Whether or not blood and gore should be visible on characters after combat."
-msgstr "피나 내장 등의 잔인한 연출이 전투 후 캐릭터에게 적용되는지 설정합니다."
+msgstr "혈흔 등의 잔인한 연출이 전투 이후에도 캐릭터에게 표현될지 설정합니다."
 
 #. FILE: UI\assets\GameOptions\GameOptions_EnableSubtitles.xml
 #. PATH: UIGameOptionsItemAsset/Title
@@ -15091,7 +15135,7 @@ msgstr "어조 아이콘 숨기기"
 #: UI\assets\GameOptions\GameOptions_HideToneIcons.xml:10
 msgctxt "0x00044d8a"
 msgid "Whether or not the tone icons on the conversation wheel should be hidden."
-msgstr "대화 휠 위에 어조 아이콘을 표시할지 선택합니다."
+msgstr "대화판 내에 어조 아이콘을 표시할지 선택합니다."
 
 #. FILE: UI\assets\GameOptions\GameOptions_InvertXAxis.xml
 #. PATH: UIGameOptionsItemAsset/Title
@@ -15249,42 +15293,42 @@ msgstr "전술 시점으로 진입할 시 자동으로 게임이 정지시킬지
 #: UI\assets\GameOptions\GameOptions_PauseWhileTargetingAOEs.xml:5
 msgctxt "0x00040df8"
 msgid "Pause while targeting AOEs"
-msgstr ""
+msgstr "광역 능력 조준 시 일시정지"
 
 #. FILE: UI\assets\GameOptions\GameOptions_PauseWhileTargetingAOEs.xml
 #. PATH: UIGameOptionsItemAsset/Description
 #: UI\assets\GameOptions\GameOptions_PauseWhileTargetingAOEs.xml:10
 msgctxt "0x00044d87"
 msgid "Whether or not the game should automatically stop time when targeting area-of-effect spells and abilities."
-msgstr ""
+msgstr "광역 기술과 주문을 사용할 때 자동으로 게임을 정지시킬지 여부를 설정합니다."
 
 #. FILE: UI\assets\GameOptions\GameOptions_QuestTracker.xml
 #. PATH: UIGameOptionsItemAsset/Title
 #: UI\assets\GameOptions\GameOptions_QuestTracker.xml:5
 msgctxt "0x0003c6fc"
 msgid "Quest Tracker Fades While Inactive"
-msgstr ""
+msgstr "비활성화 시 퀘스트 추적기 숨김"
 
 #. FILE: UI\assets\GameOptions\GameOptions_QuestTracker.xml
 #. PATH: UIGameOptionsItemAsset/Description
 #: UI\assets\GameOptions\GameOptions_QuestTracker.xml:10
 msgctxt "0x00044d8d"
 msgid "Whether or not the Quest Tracker should be automatically hidden when there are no active quests."
-msgstr ""
+msgstr "활성화된 퀘스트가 없을 때 퀘스트 추적기를 숨길지를 설정합니다."
 
 #. FILE: UI\assets\GameOptions\GameOptions_RadialMenuBehavior.xml
 #. PATH: UIGameOptionsItemAsset/Title
 #: UI\assets\GameOptions\GameOptions_RadialMenuBehavior.xml:5
 msgctxt "0x00043da1"
 msgid "Radial Menu Behavior "
-msgstr ""
+msgstr "원형 메뉴 표시법 "
 
 #. FILE: UI\assets\GameOptions\GameOptions_RadialMenuBehavior.xml
 #. PATH: UIGameOptionsItemAsset/Description
 #: UI\assets\GameOptions\GameOptions_RadialMenuBehavior.xml:10
 msgctxt "0x00044d8b"
 msgid "Specify if the radial menu should be displayed by either toggling, or holding, the corresponding button."
-msgstr ""
+msgstr "원형 메뉴를 표시하는 방법을 설정하십시오. 해당 버튼을 꾹 누른 동안만 표시하거나, 토글식으로 표시할 수 있습니다."
 
 #. FILE: UI\assets\GameOptions\GameOptions_RadialMenuBehavior.xml
 #. PATH: UIGameOptionsItemAsset/DisabledDescription
@@ -15298,7 +15342,7 @@ msgstr ""
 #: UI\assets\GameOptions\GameOptions_RadialMenuBehavior.xml:48
 msgctxt "0x00043da3"
 msgid "Toggle On/Off"
-msgstr ""
+msgstr "토글로 켜고 끄기"
 
 #. FILE: UI\assets\GameOptions\GameOptions_RadialMenuBehavior.xml
 #. PATH: UIGameOptionsItemAsset/EnumDisplayStrings/member[2]
@@ -15481,7 +15525,7 @@ msgid ""
 "\n"
 "{string}308082{/string}"
 msgstr ""
-"심문회의 적들에게 전투 시 새로운 특성이나 능력이 생길 수 있습니다.\n"
+"심문회의 적에게 전투 시 새로운 특성이나 능력이 생길 수 있습니다.\n"
 "{string}307966{/string}\n"
 "\n"
 "{string}308082{/string}"
@@ -15553,7 +15597,7 @@ msgid ""
 "\n"
 "{string}308082{/string}"
 msgstr ""
-"적들의 레벨이 언제나 심문관과 같거나 더 높도록 조정됩니다.\n"
+"적의 레벨이 언제나 심문관과 같거나 더 높도록 조정됩니다.\n"
 "{string}307966{/string}\n"
 "\n"
 "{string}308082{/string}"
@@ -15694,7 +15738,7 @@ msgstr ""
 #: UI\assets\GameOptions\GameOptions_VerticalSync.xml:10
 msgctxt "0x00044dab"
 msgid "Whether the game should display images in sync with the monitor's refresh, producing a cleaner and more consistent image."
-msgstr ""
+msgstr "모니터의 리프레시 타이밍과 게임 화면을 동기화 할지 여부를 선택합니다. 선택 시 더 깨끗하고 안정적인 이미지를 보여 줍니다."
 
 #. FILE: UI\assets\GameOptions\GameOptions_VoiceOverLanguage.xml
 #. PATH: UIGameOptionsItemAsset/Title
@@ -15750,7 +15794,7 @@ msgstr ""
 #: UI\assets\GameOptions\GameOptions_VoipRXVolume.xml:10
 msgctxt "0x00044eb2"
 msgid "Set the volume of other players' voice chat."
-msgstr ""
+msgstr "다른 플레이어들의 음성 대화 볼륨을 설정합니다."
 
 #. FILE: UI\assets\GameOptions\OptionsCategory_Account.xml
 #. PATH: UIGameOptionsItemAsset/Title
@@ -27940,7 +27984,7 @@ msgstr ""
 #: UI\assets\PotionCrafting\GrenadeCategory_ConfusionGrenade.xml:10
 msgctxt "0x000430ba"
 msgid "Unknown"
-msgstr ""
+msgstr "Unknown"
 
 #. FILE: UI\assets\PotionCrafting\GrenadeCraftingRoot.xml
 #. PATH: UIPotionCraftingItemAsset/Title
@@ -28459,7 +28503,7 @@ msgstr "무서울 정도로 지능적입니다. 기수의 잘못을 \"지적\"�
 #: UI\assets\Stables\Stables_RedHart4.xml:5
 msgctxt "0x0004474c"
 msgid "Pride of Arlathan"
-msgstr "알라산의 오만"
+msgstr "알라싼의 오만"
 
 #. FILE: UI\assets\Stables\Stables_RedHart4.xml
 #. PATH: UIBaseCustomizeItemAsset/Description

@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-04 06:58+0000\n"
-"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
+"PO-Revision-Date: 2021-03-08 03:56+0000\n"
+"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
 "Language: ko\n"
@@ -170,7 +170,7 @@ msgstr "빛나는 도끼 티르다의 무기를 찾아라"
 #: DA3\DesignContent\Operations\Ferelden\FereldenRegion\fer_region_saga_ax.xml:147
 msgctxt "0x000422c8"
 msgid "Sister Dorcas has distant ties to Fereldan nobility. There are nobles who would happily gain favor with Arl Eamon by helping her."
-msgstr "도르카스 수녀님은 페렐던의 귀족들과 관계가 있습니다. 기꺼이 그녀를 도와 아몬 백작의 호의를 얻으려는 귀족들이 있을겁니다."
+msgstr "도르카스 수녀님은 페렐던의 귀족들과 관계가 있습니다. 기꺼이 그녀를 도와 이몬 백작의 호의를 얻으려는 귀족들이 있을 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Ferelden\fer_royal1_op.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -276,7 +276,7 @@ msgstr "하이에버의 공작"
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml:10
 msgctxt "0x000403ca"
 msgid "I can smooth things over so the Ben-Hassrath can investigate openly. The time this takes will be saved if they can operate freely."
-msgstr "벤-하스라쓰가 자유롭게 조사할 수 있도록 유연하게 조치하겠습니다. 준비에 걸린 시간은 자유로운 조사로 만회될 겁니다."
+msgstr "벤-하스라트가 자유롭게 조사할 수 있도록 유연하게 조치하겠습니다. 준비에 걸린 시간은 자유로운 조사로 만회될 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
@@ -311,7 +311,7 @@ msgstr "페렐던의 신뢰를 얻을 시간이 없습니다. 벤-하스라트�
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_2.xml:15
 msgctxt "0x000403d5"
 msgid "The Ben-Hassrath must travel through the Brecilian Forest. It is the only way they will reach Gwaren without alerting those they pursue."
-msgstr "벤-하스라쓰는 브레실리안 숲을 통과해야 합니다. 그 방법이 경계를 피해 쫓아가면서 그와렌에 도달 할 수 있는 유일한 방법입니다."
+msgstr "벤-하스라트는 브레실리안 숲을 통과해야 합니다. 그 방법이 경계를 피해 쫓아가면서 그와렌에 도달 할 수 있는 유일한 방법입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_2.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -327,14 +327,14 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_2.xml:179
 msgctxt "0x000403d4"
 msgid "I can get the Ben-Hassrath passage on a ship that will take them most of the way to Gwaren."
-msgstr "벤-하스라쓰들을 태우고 그와렌으로 통하는 대부분의 방법이 가능한 배를 구할 수 있습니다."
+msgstr "벤-하스라트들을 태우고 그와렌으로 통하는 대부분의 방법이 가능한 배를 구할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml:15
 msgctxt "0x000403d9"
 msgid "The Qunari have the best ships on the seas. A dreadnought could blow that Venatori fire ship out of the water."
-msgstr "쿠나리는 바다에서 최강의 배를 가지고 있습니다. 드레드노트 한 척으로 충분히 베나토리 화공선을 박살내 버릴 수 있습니다."
+msgstr "쿠나리는 바다에서 최강의 배를 가지고 있습니다. 전함 한 척으로 충분히 베나토리 화공선을 박살내 버릴 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml
 #. PATH: WarTableEntry/TitleReference
@@ -348,7 +348,7 @@ msgstr "베나토리 화공선 막기"
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml:150
 msgctxt "0x000403dc"
 msgid "We must warn Ferelden. I can have the ships of three arls ready to stop the fire ship from reaching the harbor."
-msgstr "페렐던에게 경고해야합니다. 화공선이 항구에 도달하는 것을 막기 위해 세명의 백작으로 부터 배를 확보 할 수 있습니다."
+msgstr "페렐던에 경고해야 합니다. 세 명의 백작으로부터 화공선이 항구에 도달하는 것을 막을 배를 확보할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_fire_ship_3.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -412,7 +412,7 @@ msgstr "탈리스에게 들으셨죠. 요원들을 대거 움직여야 합니다
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_3.xml:125
 msgctxt "0x00040dcc"
 msgid "We should send agents in force to ensure we have enough manpower."
-msgstr "충분한 인력을 확보하기 위해 요원들을 대거 파견해야 합니다."
+msgstr "요원들을 대거 파견해 충분한 인력을 확보해야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_3.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -455,7 +455,7 @@ msgstr "네바라의 첩자 추적"
 msgctxt "0x00040ddd"
 msgid "I can have my diplomats cause scandals in Tevinter. It won't add to our strength in the area, but it might draw attention away from the Ben-Hassrath."
 msgstr ""
-"외교관으로 하여 테빈터에서 스캔들을 일으킬 수 있습니다. 영향력을 늘릴 순 없겠지만, 벤-하스라쓰에 대한 관심을 돌릴 순 있겠지요."
+"외교관으로 하여 테빈터에서 스캔들을 일으킬 수 있습니다. 영향력을 늘릴 순 없겠지만, 벤-하스라트에 대한 관심을 돌릴 순 있겠지요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_5.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -483,7 +483,7 @@ msgstr "베나토리 첩자들의 연락망 파괴"
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_6.xml:120
 msgctxt "0x00040de6"
 msgid "We can move in a few more agents to help Tallis without raising any alarms."
-msgstr "몇명의 요원을 경보를 울리지 않고 탈리스를 돕기 위해 움직일 수 있습니다."
+msgstr "탈리스를 도울 수 있는 요원 몇 명을 경보를 울리지 않고 투입할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_6.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -497,7 +497,7 @@ msgstr "승리의 기회를 극대화하려면 가능한 한 많은 요원들을
 #: DA3\DesignContent\Operations\Global\Ben-Hassrath\bh_knives_6.xml:183
 msgctxt "0x00040deb"
 msgid "My diplomats can occupy the Tevinter magisters and draw attention away from the Ben-Hassrath."
-msgstr "제 외교관은 그 테빈터 마지스터들을 바쁘게 만들어 벤-하스라쓰로부터 주의를 끌 수 있습니다."
+msgstr "제 외교관은 그 테빈터 매지스터들을 바쁘게 만들어 벤-하스라트로부터 주의를 끌 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_adamant.xml
 #. PATH: WarTableEntry/TitleReference
@@ -511,8 +511,7 @@ msgstr "아다만트 요새 파괴"
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_adamant.xml:121
 msgctxt "0x0003fe22"
 msgid "It took all our forces to break Adamant. I'd happily spare some men to ensure the safety of the Chargers."
-msgstr ""
-"아다만트를 무너뜨리는 데 우리의 모든 힘이 필요했습니다. 저는 돌격대의 안전을 보장하기 위해 병력의 일부를 기꺼이 남겨두고 싶습니다."
+msgstr "최대 병력을 동원해서야 아다만트를 무너뜨릴 수 있었습니다. 돌격대의 안전을 위해 병력 일부를 지원하는 것이 좋겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_adamant.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
@@ -691,7 +690,7 @@ msgstr "레드클리프 성 조사"
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe.xml:146
 msgctxt "0x0003fde8"
 msgid "There are Fereldan nobles who would support any effort to retake Redcliffe Castle from the mages."
-msgstr "마법사들로부터 레드 클리프 성을 되찾기 위해서라면 그 어떤 노력도 아끼지 않고 지원해 줄만한 페렐던 귀족들이 있습니다."
+msgstr "마법사들로부터 레드클리프 성을 되찾기 위해서라면 그 어떤 노력도 아끼지 않고 지원해 줄 페렐던 귀족들이 몇 있어요."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_redcliffe_bonus.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -740,7 +739,7 @@ msgstr "이 일에는 조심스러운 접근이 필요합니다. 돌격대가 �
 #: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal.xml:146
 msgctxt "0x0003fdd0"
 msgid "I can send the Chargers in with Inquisition troops to bolster their numbers."
-msgstr "돌격대의 인원을 강화하기 위해 심문회 병력을 함께 보낼 수 있습니다."
+msgstr "돌격대의 머릿수를 늘리기 위해 심문회 병력을 함께 보낼 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\BullsChargers\chargers_therinfal_bonus.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -1020,7 +1019,7 @@ msgstr "돈 모으기"
 #: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_op.xml:20
 msgctxt "0x000404b6"
 msgid "My family has earned coin as honest traders for generations. I would be happy to employ my skills on the Inquisition's behalf."
-msgstr "제 가문은 대대로 정직한 상인으로서 돈을 모았습니다. 제 기술이 심문회를 위해 쓰인다면 기쁠 것입니다."
+msgstr "제 가문은 대대로 정직한 상인으로서 돈을 모았습니다. 심문회를 위해 제 기술을 쓸 수 있다면 기쁠 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crafting\gen_gold_skyhold_op.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -1261,7 +1260,7 @@ msgstr "무엇을 보낼지 제가 정확히 알고 있습니다. 이제 전령�
 #: DA3\DesignContent\Operations\Global\CritPathReactivity\Halamshiral\gen_ham_gaspard.xml:10
 msgctxt "0x0003fd51"
 msgid "The emperor giving us first crack at the new chevaliers is unheard of. I suggest we send an officer to attend."
-msgstr "국왕이 우리에게 신입 기사를 첫 순서로 제공하는 것은 전대미문의 일입니다. 제가 장교를 보내 참석시키도록 하겠습니다."
+msgstr "국왕이 우리에게 신입 슈발리에를 첫 순서로 제공하는 것은 전대미문의 일입니다. 제가 장교를 보내 참석시키도록 하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\CritPathReactivity\Halamshiral\gen_ham_gaspard.xml
 #. PATH: WarTableEntry/TitleReference
@@ -1707,8 +1706,8 @@ msgstr "까마귀 단의 손아귀에서 벗어나라"
 msgctxt "0x00040541"
 msgid "Zevran <i>was</i> helpful. We could send soldiers to sweep Hercinia for any remaining Venatori. If Zevran left with our men, it may go unnoticed."
 msgstr ""
-"제브란은 우리에게 도움이 됐습니다. 남아있는 베나토리를 쓸어버리기 위해 헤르시니아로 병사를 보냅시다. 제브란을 우리 병사들과 함께 "
-"떠나보내면 발각되지 않을겁니다."
+"제브란은 도움이 <i> 됐습니다 <i>. 남아있는 베나토리를 쓸어버리기 위해 헤르시니아로 병사를 보내죠. 우리 병사들과 함께 떠나게 하면 "
+"발각되지 않을 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Crows\gen_ops_zevran_proceed.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -1987,7 +1986,7 @@ msgstr "오자마르와의 친선 도모"
 #: DA3\DesignContent\Operations\Global\DwarfCities\orzammar_ops_1.xml:90
 msgctxt "0x00040152"
 msgid "I would advise sending a delegation to Orzammar as soon as possible to cement this alliance."
-msgstr "이 동맹을 강화하기 위해 가능한 빨리 오자마르에 대표단을 보내는 게 좋겠어요."
+msgstr "가능한 빨리 오자마르에 대표단을 보내 이 동맹을 강화하는 게 좋겠어요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Blackwall\blackwall_ops_conscription_1.xml
 #. PATH: WarTableEntry/TitleReference
@@ -2002,7 +2001,7 @@ msgstr "회색 감시자의 조약 활용"
 msgctxt "0x0003fc13"
 msgid "This could work. The Blight is but ten years past and Thedas remembers how we were saved. I can use the treaties, leverage the goodwill owed the Wardens and use it for the Inquisition."
 msgstr ""
-"가능해요. 대재앙은 10년 전에 종식되었지만 테다스는 우리가 감시자들에게 어떻게 구원받았는지 아직 기억하고 있어요. 조약을 활용해서 "
+"가능해요. 대재앙은 10년 전에 종식되었지만, 테다스는 감시자들이 어떻게 이 땅을 구원했는지 아직 기억하고 있어요. 조약을 활용해 "
 "감시자들을 향한 사람들의 호의를 심문회를 위해 이용할 수 있을 것 같네요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Blackwall\blackwall_ops_conscription_2.xml
@@ -2099,8 +2098,7 @@ msgstr ""
 msgctxt "0x0003fa75"
 msgid "An offer whispered in the right circles. A dozen factions vying for our favor. We'll see who desires it most."
 msgstr ""
-"적당한 협회에 제안을 흘려넣었습니다. 열두군데의 파벌에서 우리의 호의를 얻기 위해 경쟁중입니다. 누가 가장 간절히 원하는지 지켜보도록 "
-"하죠."
+"적당한 협회에 제안을 흘려넣었습니다. 열두 군데의 파벌이 우리의 호의를 얻기 위해 경쟁 중입니다. 누가 가장 간절한지 지켜보도록 하죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Blackwall\blk_mainplot_prisonbreak_underworld.xml
 #. PATH: WarTableEntry/TitleReference
@@ -2545,7 +2543,7 @@ msgstr "사냥에 나선 레드 제니들"
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_06.xml:57
 msgctxt "0x00040076"
 msgid "Red Jenny and the Trail"
-msgstr "레드 제니와 흔적들"
+msgstr "레드 제니와 흔적"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_06.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -2585,7 +2583,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_08.xml:13
 msgctxt "0x000402c5"
 msgid "Red Jenny and the Trail"
-msgstr "레드 제니와 흔적들"
+msgstr "레드 제니와 흔적"
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Sera\ops_sera_red_jenny_08.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -2869,7 +2867,7 @@ msgstr "교황이 죽었다는 걸 증명할 수는 없지만, 사람들에게 �
 #: DA3\DesignContent\Operations\Global\Followers\Vivienne\gen_ops_viv1.xml:39
 msgctxt "0x000405ed"
 msgid "We need the support of the nobles to combat this rumor. I can arrange a few key visits."
-msgstr "이 소문에 대항하기 위해서는 귀족들의 지지가 필요해요. 제가 중요한 방문을 몇 건 주선할 수 있습니다."
+msgstr "이 소문에 대항하기 위해서는 귀족들의 지지가 필요해요. 중요한 방문을 몇 건 주선해 보겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Vivienne\gen_ops_viv1.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -2918,14 +2916,14 @@ msgstr "이 리륨 조각상 중 하나에 공개적으로 \"사고\"를 일으�
 #: DA3\DesignContent\Operations\Global\Followers\Vivienne\gen_ops_viv5.xml:10
 msgctxt "0x0004080b"
 msgid "Send our agents in. We can expose his connection to Florianne for all the world to see."
-msgstr "우리 요원들을 보내죠. 그자와 플로리안느의 관계를 온 세상에 폭로시키겠습니다."
+msgstr "우리 요원들을 보내죠. 그자와 플로리안의 관계를 온 세상에 폭로시키겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Vivienne\gen_ops_viv5.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\Followers\Vivienne\gen_ops_viv5.xml:39
 msgctxt "0x0004080a"
 msgid "If Duke Blanchard was conspiring with Florianne, the Imperial Court would like to know."
-msgstr "블랑샤드 공작이 플로리안느와 공모한거라면 황실에서도 이에 대해 알아야해요."
+msgstr "블랑샤드 공작이 플로리안과 공모한거라면 황실에서도 이에 대해 알아야해요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Followers\Vivienne\gen_ops_viv5.xml
 #. PATH: WarTableEntry/TitleReference
@@ -2960,28 +2958,28 @@ msgstr "현재 크트망쉬 저택 근처에 요원들이 대기하고 있습니
 #: DA3\DesignContent\Operations\Global\GreyWardens\ops_grey_wardens_1.xml:10
 msgctxt "0x0003fbb3"
 msgid "It is odd to see a town threatened by darkspawn. I suggest we investigate before committing forces."
-msgstr "마을 하나가 어둠의 피조물에게 위협을 받다니 이상하군요. 병력을 보내기전에 조사해보는 게 좋겠습니다."
+msgstr "마을 하나가 암흑피조물에게 위협을 받다니 이상하군요. 병력을 보내기전에 조사해보는 게 좋겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\GreyWardens\ops_grey_wardens_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
 #: DA3\DesignContent\Operations\Global\GreyWardens\ops_grey_wardens_1.xml:25
 msgctxt "0x0003fc35"
 msgid "Find Source of Darkspawn Attacks"
-msgstr "어둠의 피조물 공격의 근원을 찾아라"
+msgstr "암흑피조물 공격의 근원을 찾아라"
 
 #. FILE: DA3\DesignContent\Operations\Global\GreyWardens\ops_grey_wardens_1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\GreyWardens\ops_grey_wardens_1.xml:32
 msgctxt "0x0003fbb2"
 msgid "The Grey Wardens are in the best in the world against darkspawn. This is their chance to shine."
-msgstr "어둠의 피조물에 맞서는 일이라면 회색감시자가 제격입니다. 이건 그들의 이름을 빛낼 수 있는 기회입니다."
+msgstr "암흑피조물에 맞서는 일이라면 회색감시자가 제격입니다. 이건 그들의 이름을 빛낼 수 있는 기회입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\GreyWardens\ops_grey_wardens_1.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\Global\GreyWardens\ops_grey_wardens_1.xml:57
 msgctxt "0x0003fbb1"
 msgid "Protect Val Gamord from Darkspawn"
-msgstr "어둠의 피조물에게서 발 가몬드를 보호하라"
+msgstr "암흑피조물에게서 발 가몬드를 보호하라"
 
 #. FILE: DA3\DesignContent\Operations\Global\GreyWardens\ops_grey_wardens_1.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -2996,7 +2994,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\GreyWardens\ops_grey_wardens_2.xml:138
 msgctxt "0x0003fc3e"
 msgid "Let the Wardens spread out scour the area. They'll find out where those darkspawn are coming from soon enough."
-msgstr "감시자들을 보내 해당 지역을 샅샅이 뒤지게 하겠습니다. 어둠의 피조물이 어디서 나오고 있는지 그들이 빠르게 알아낼 수 있습니다."
+msgstr "감시자들을 보내 해당 지역을 샅샅이 뒤지게 하겠습니다. 암흑피조물이 어디서 나오고 있는지 그들이 빠르게 알아낼 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\GreyWardens\ops_grey_wardens_2.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -3010,7 +3008,7 @@ msgstr "대재앙은 여러 특징이 있지만 감지하기 힘든 편은 아�
 #: DA3\DesignContent\Operations\Global\GreyWardens\ops_grey_wardens_2.xml:191
 msgctxt "0x0003fc36"
 msgid "Someone may have been mining the area and freed the darkspawn that way. Let me examine the finances of nobles nearby."
-msgstr "누군가 그 지역을 채굴하면서 어둠의 피조물이 나올만한 통로를 만들었을 수도 있어요. 근처 귀족들의 재정상황을 조사해보겠습니다."
+msgstr "누군가 그 지역을 채굴하면서 암흑피조물이 나올만한 통로를 만들었을 수도 있어요. 근처 귀족들의 재정상황을 조사해보겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\GreyWardens\ops_grey_wardens_3.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -3075,14 +3073,14 @@ msgstr "정찰대를 보내 요새의 다른 입구를 찾아내면, 베나토�
 #: DA3\DesignContent\Operations\Global\GreyWardens\ops_grey_wardens_5.xml:10
 msgctxt "0x0003fcfa"
 msgid "We have sappers who can collapse the tunnels and bring most of the mountain down on the darkspawn."
-msgstr "광산을 무너뜨리고, 산의 대부분을 어둠의 피조물 위로 떨어뜨리게 할 수 있는 공병들이 있습니다."
+msgstr "광산을 무너뜨리고, 산의 대부분을 암흑피조물 위로 떨어뜨리게 할 수 있는 공병들이 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\GreyWardens\ops_grey_wardens_5.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\Global\GreyWardens\ops_grey_wardens_5.xml:44
 msgctxt "0x0003fcf7"
 msgid "If we trust the Wardens in nothing else, trust them to kill darkspawn. They know what to do."
-msgstr "어둠의 피조물을 죽이는 일이라면 누구보다도 감시자를 믿어야 합니다. 그들은 뭘 해야 할지 알고 있습니다."
+msgstr "암흑피조물을 죽이는 일이라면 누구보다도 감시자를 믿어야 합니다. 그들은 뭘 해야 할지 알고 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\GreyWardens\ops_grey_wardens_5.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -3096,7 +3094,7 @@ msgstr "이런 위험한 일을 감시자들에게만 맡길 순 없어요. 해�
 #: DA3\DesignContent\Operations\Global\GreyWardens\ops_grey_wardens_5.xml:95
 msgctxt "0x0003fcf0"
 msgid "Destroy Darkspawn Outbreak"
-msgstr "출몰하는 어둠의 피조물을 제거하라"
+msgstr "출몰하는 암흑피조물을 제거하라"
 
 #. FILE: DA3\DesignContent\Operations\Global\Haven\gen_haven_op_1.xml
 #. PATH: WarTableEntry/TitleReference
@@ -3203,7 +3201,7 @@ msgstr "그의 말이 사실이라면 서둘러야 합니다. 그의 주장을 �
 #: DA3\DesignContent\Operations\Global\Judgments\Ops_judgment_Denam.xml:56
 msgctxt "0x00040c68"
 msgid "There's very little time. Send Knight-Captain Denam to deal with this threat, but we must warn Val Henar."
-msgstr "시간이 얼마 없어요. 이 위협에 대처하기위해 지휘관 데넘을 보내고, 발 에나르에도 경고해야 해요."
+msgstr "시간이 얼마 없어요. 지휘관 데넘을 보내 이 위협에 대처하고, 발 에나르에도 경고해야 해요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\Ops_judgment_Denam.xml
 #. PATH: WarTableEntry/TitleReference
@@ -3217,7 +3215,7 @@ msgstr "재판: 데넘의 붉은 성기사단 순찰"
 #: DA3\DesignContent\Operations\Global\Judgments\Ops_judgment_Poulin.xml:25
 msgctxt "0x00040c4a"
 msgid "Orlesian guilds rely on this quarry. I will appeal to their business sense, and they will lend us boats to move the supplies upriver."
-msgstr "올레이 길드들은 이 채석장에 의존합니다. 그들에게 사업적 이익을 어필해 물품을 상류로 이동시킬 수 있도록 배를 빌려 보죠."
+msgstr "올레이 조합들은 이 채석장에 의존합니다. 그들에게 사업적 이익을 어필해 물품을 상류로 이동시킬 수 있도록 배를 빌려 보죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\Ops_judgment_Poulin.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -3270,7 +3268,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Judgments\Ops_judgment_Servis.xml:143
 msgctxt "0x00040c2f"
 msgid "I can send my soldiers to help this mage. They'll keep a close eye on him."
-msgstr "그 마법사를 돕기 위해 제 병사들을 보낼 수 있습니다. 그들이 그 자를 주의깊이 주시할 겁니다."
+msgstr "제 병사들을 보내 그 마법사를 도울 수 있습니다. 그들이 그 자를 주의 깊이 감시할 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_avaar_01.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -3425,7 +3423,7 @@ msgctxt "0x00040a75"
 msgid "They're afraid. Send one templar and one mage, Inquisitor. Two veterans, to explain and to remind them that mages created this punishment protect the rest."
 msgstr ""
 "그들은 두려워하고 있습니다. 성기사와 마법사를 한 명씩 보내십시오, 심문관. 이 두 명의 전문가들을 앞세워, 다른 사람들을 보호하기 위해 "
-"이 처벌을 만들어낸 것이 다름 아닌 마법사들이라는 사실을 그들에게 설명하고, 상기시키면 됩니다."
+"이 처벌을 만들어낸 것은 다름 아닌 마법사들이라는 사실을 그들에게 상기시키면 됩니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_tranquil.xml
 #. PATH: WarTableEntry/TitleReference
@@ -3456,8 +3454,8 @@ msgstr "재판: 선한 루스 경의 죽음"
 msgctxt "0x000408da"
 msgid "Many of our soldiers lost family to the Blight. I've no doubt many would volunteer to escort the Warden. My concern is that they would not stop at escorting."
 msgstr ""
-"우리 병사들 중 많은 수가 대재앙에서 가족을 잃었습니다. 분명 많은 병사들이 이 감시자를 호위하기 위해 자원할겁니다. 하지만 호위로 "
-"그치지 않을 것 같다는게 걱정이라면 걱정이로군요."
+"우리 병사들 중 많은 수가 대재앙에서 가족을 잃었습니다. 분명 많은 병사들이 이 감시자를 호위하는 데 자원할 겁니다. 하지만 호위로 "
+"그치지 않을 것 같다는 게 걱정이라면 걱정이로군요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Judgments\gen_ops_judgments_warden_01.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -3529,7 +3527,7 @@ msgctxt "0x0004050e"
 msgid "One can learn quite a bit by dissection, and many minds are better than one. My agents can search all of Thedas for naturalists like Frederic, to join him in poring over dragon carcasses to their hearts' content."
 msgstr ""
 "해부를 하면 많은 것을 알 수 있고, 여러 명이 한 명보다 낫지요. 제 요원들이 테다스 전역에서 프레데릭과 같은 자연학자들을 모아 다같이 "
-"드래곤 시체를 조사하게 할 수 있습니다."
+"용 시체를 조사하게 할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\KillCollection\dragonkills_op_2.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -3538,7 +3536,7 @@ msgctxt "0x00040510"
 msgid "No one knows more about the beasts than the Pentaghast family of Nevarra. With Cassandra's help, I could secure permission for Frederic to peruse their archives for information about dragons past and present."
 msgstr ""
 "네바라의 펜타가스트 가문보다 이 짐승들에 대해 더 잘 아는 자들은 없습니다. 카산드라의 도움을 받아 펜타가스트 가문이 가진 과거와 현재의 "
-"드래곤에 관한 문헌을 프레데릭이 사용할 수 있도록 하겠습니다."
+"용에 관한 문헌을 프레데릭이 사용할 수 있도록 하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\KillCollection\dragonkills_op_2.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -3546,7 +3544,7 @@ msgstr ""
 msgctxt "0x00040511"
 msgid "Didn't you recently discover a dragon nesting ground? Frederic might be able to learn something from it. Get him to lead a research expedition. I can supply an entourage of soldiers to protect them."
 msgstr ""
-"최근에 드래곤 보금자리를 발견하시지 않았나요? 프레데릭이 거기서 뭔가 알아낼 수 있을지 모릅니다. 그에게 조사대를 이끌 권한을 주시죠. "
+"최근에 용 보금자리를 발견하시지 않았나요? 프레데릭이 거기서 뭔가 알아낼 수 있을지 모릅니다. 그에게 조사대를 이끌 권한을 주시죠. "
 "그들을 호위할 병사를 보내겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\KillCollection\dragonkills_op_2.xml
@@ -3554,7 +3552,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\KillCollection\dragonkills_op_2.xml:100
 msgctxt "0x0004050f"
 msgid "Learn More about Dragons"
-msgstr "드래곤에 대해 더 알아보기"
+msgstr "용에 대해 더 알아보기"
 
 #. FILE: DA3\DesignContent\Operations\Global\KillCollection\gen_ops_rifts_1.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -4200,8 +4198,7 @@ msgstr "오스트윅 귀족 가문 사이에서 중재하라"
 msgctxt "0x000409b9"
 msgid "Let's hold a talk between the wounded parties in Orlais. It's wise to remove them from their power base for discussions."
 msgstr ""
-"올레이에 싸움의 당사자들끼리 대화를 나눌수 있는 자리를 마련하죠. 논의를 위해 그들이 세력 기반으로부터 떠나있도록 하는 것도 현명한 "
-"방법입니다."
+"올레이에 싸움의 당사자들끼리 대화를 나눌 수 있는 자리를 마련하죠. 그들이 세력 기반으로부터 떠나 논의하게 하는 것도 현명한 방법입니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_human_2_secrets.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -4285,8 +4282,8 @@ msgstr ""
 msgctxt "0x0004093e"
 msgid "Albrecht uses cowards' tactics. I'll send patrols to guard our messengers. His type never threatens when they're outmatched."
 msgstr ""
-"알브레트는 겁쟁이나 쓸만한 전략을 쓰는군요. 우리 전령을 보호하기 위해 순찰대를 보내겠습니다. 저런 부류는 머릿수가 딸린다 싶으면 바로 "
-"꼬리를 내리거든요."
+"알브레트는 겁쟁이나 쓸 만한 전략을 쓰는군요. 순찰대를 보내 우리 전령을 보호하겠습니다. 저런 부류는 머릿수가 딸린다 싶으면 바로 꼬리를 "
+"내리거든요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Race\gen_race_human_forces_2.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -4407,7 +4404,7 @@ msgstr "제 요원들이라면 실종된 용병들이 어디에 있든 추적할
 #: DA3\DesignContent\Operations\Global\Race\gen_race_qunari_4.xml:10
 msgctxt "0x0003fb86"
 msgid "Send in troops for an assault on the cavern."
-msgstr "동굴을 공격하기 위해 병사들을 보내겠습니다."
+msgstr "병사들을 보내 동굴을 공격하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Global\Serault\serault_ops_1.xml
 #. PATH: WarTableEntry/TitleReference
@@ -4829,8 +4826,8 @@ msgstr ""
 msgctxt "0x00040a64"
 msgid "A ransom large enough to seem serious, but not enough to require capital. Nobility pay such things all the time. For simplicity, I recommend the same."
 msgstr ""
-"진지한 문제로 보일 만큼의 금액을 요구하고 있지만, 저희에게 큰 손실이 되는 자금까지는 아니에요. 귀족들은 이런 걸 항상 지불하곤 "
-"한답니다. 간단하게 끝내기 위해, 저희도 그렇게 하는 것을 추천드려요."
+"진지한 문제로 보일 만큼의 금액을 요구하고 있지만, 이 정도면 저희에게 큰 손실이 되는 액수는 아니에요. 이 정도는 귀족들도 항상 "
+"지불하곤 한답니다. 간단하게 려면 저희도 그렇게 하는 것을 추천드려요."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_ops_skyhold_merchant_hidden.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -4879,7 +4876,7 @@ msgstr "그 제작법은 심문회에게 더 필요합니다. 제게 맡겨주�
 #: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_ops_skyhold_quartermaster.xml:44
 msgctxt "0x00040834"
 msgid "I could attempt to find a compromise. Knowledge can be shared, after all. I'm sure the nobleman will be reasonable."
-msgstr "타협안을 찾기 위해 시도해 볼 순 있습니다. 지식은 공유되어야 마땅한 개념입니다. 그 귀족이 합리적인 사람일거라고 믿어보지요."
+msgstr "타협안을 찾아볼 순 있습니다. 지식은 공유되어야 마땅한 개념입니다. 그 귀족이 합리적인 사람일 거라 믿어보지요."
 
 #. FILE: DA3\DesignContent\Operations\Global\SkyholdPeople\gen_ops_skyhold_quartermaster.xml
 #. PATH: WarTableEntry/TitleReference
@@ -5424,9 +5421,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_3.xml:10
 msgctxt "0x0003fc8a"
 msgid "We can spare some templars for this. If those in the Order wish to live up to their ideals, let them."
-msgstr ""
-"이 일을 위해 템플러들을 일부 파견할 수 있습니다. 기사단의 템플러들이 자신들의 이상에 부끄럽지 않은 삶을 살고자 한다면 그렇게 하게 "
-"해주고 싶군요."
+msgstr "성기사들을 일부 파견할 수 있습니다. 성기사들이 자신들의 이상에 부끄럽지 않은 삶을 살고자 한다면 그렇게 하게 해주고 싶군요."
 
 #. FILE: DA3\DesignContent\Operations\Global\Templars\gen_templar_op_3.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -5925,8 +5920,8 @@ msgstr "중매 결혼을 고려중이시라면, 제가 린드라를 조용히 �
 msgctxt "0x000407bc"
 msgid "Do we truly need this? I suggest discrete maneuvers in the Free Marches. A standard retinue. Plus two. Get the young couple out of range."
 msgstr ""
-"이 중매결혼이 정말 필요한 일입니까? 이 일과 별개로 기동 훈련을 위해 병사들을 자유 동맹으로 보내는 걸 제안합니다. 두 명을 추가한 "
-"일반적인 수행단의 개념으로 말입니다. 이 젊은 연인들을 이곳에서 멀리 떨어진 곳으로 보내도록 하죠."
+"이 중매결혼이 정말 필요한 일입니까? 이 일과 별개로 병사들을 자유 동맹으로 보내 기동 훈련을 하는 걸 제안합니다. 일반적인 수행단에 두 "
+"명만 더해서 말입니다. 이 젊은 연인들을 여기서 멀리 떨어진 곳으로 보내도록 하죠."
 
 #. FILE: DA3\DesignContent\Operations\Global\TheWedding\gen_chain_wedding_08.xml
 #. PATH: WarTableEntry/TitleReference
@@ -6152,7 +6147,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\Orlais\Chantry\chantry_main5_op.xml:44
 msgctxt "0x0004082a"
 msgid "We have the manpower. I would gladly send soldiers in."
-msgstr "우리에게는 인력이 있습니다. 이 일을 위해 기꺼이 병사들을 보내겠습니다."
+msgstr "우리에게는 인력이 있습니다. 기꺼이 병사들을 보내겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\Orlais\Chantry\chantry_main5_op.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -6272,7 +6267,7 @@ msgstr "헌터펠 조사"
 #: DA3\DesignContent\Operations\Orlais\belles_of_hunter_fell_1.xml:135
 msgctxt "0x000402fb"
 msgid "Dragon-hunting is a noble's sport, usually. I should be able to find out about this hunter."
-msgstr "드래곤 사냥은 일반적으로 귀족들이 즐기는 취미입니다. 이 사냥꾼에 대해 알아낼 수 있을것 같네요."
+msgstr "용 사냥은 일반적으로 귀족들이 즐기는 취미입니다. 이 사냥꾼에 대해 알아낼 수 있을것 같네요."
 
 #. FILE: DA3\DesignContent\Operations\Orlais\belles_of_hunter_fell_1.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -6508,7 +6503,7 @@ msgstr "폭풍 해안 항구 복원"
 #: DA3\DesignContent\Operations\StormCoast\storm_ops_blades_port.xml:94
 msgctxt "0x0003fd83"
 msgid "We can send some of our workers to assist the Blades of Hessarian."
-msgstr "헤사리안의 검날단을 돕기 위해 우리 일꾼을 몇 명 보낼 수 있습니다."
+msgstr "우리 일꾼을 몇 명 보내 헤사리안의 칼날을 도울 수 있습니다."
 
 #. FILE: DA3\DesignContent\Operations\StormCoast\storm_ops_blades_port.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -6523,21 +6518,21 @@ msgstr "인근의 도시에서 추가 지원을 받을 수 있을거예요."
 msgctxt "0x00042c87"
 msgid "It's risky, but a few scouts could sneak past the darkspawn and try to determine where they are coming from."
 msgstr ""
-"위험하긴 하지만, 요원을 몇 명 보내서 어둠의 피조물을 피해 몰래 주변을 조사한다면 놈들이 어디서 출몰하는지 알아낼 수 있을 겁니다."
+"위험하긴 하지만, 요원을 몇 명 보내서 암흑피조물을 피해 몰래 주변을 조사한다면 놈들이 어디서 출몰하는지 알아낼 수 있을 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\StormCoast\storm_ops_darkspawn.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
 #: DA3\DesignContent\Operations\StormCoast\storm_ops_darkspawn.xml:32
 msgctxt "0x00042dac"
 msgid "The darkspawn are emerging from underground. Our soldiers can sweep the area to determine where they're most concentrated."
-msgstr "어둠의 피조물은 지하에서 출몰합니다. 우리 병사들이 지역을 훑어 놈들이 가장 집중적으로 나타나는 곳을 찾아낼겁니다."
+msgstr "암흑피조물은 지하에서 출몰합니다. 우리 병사들이 지역을 훑어 놈들이 가장 집중적으로 나타나는 곳을 찾아낼겁니다."
 
 #. FILE: DA3\DesignContent\Operations\StormCoast\storm_ops_darkspawn.xml
 #. PATH: WarTableEntry/TitleReference
 #: DA3\DesignContent\Operations\StormCoast\storm_ops_darkspawn.xml:57
 msgctxt "0x00042c85"
 msgid "Reports of Darkspawn Activity"
-msgstr "어둠의 피조물 활동에 관한 보고"
+msgstr "암흑피조물 활동에 관한 보고"
 
 #. FILE: DA3\DesignContent\Operations\StormCoast\storm_ops_dungeon.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -6636,7 +6631,7 @@ msgstr "카리누스의 동료"
 #: DA3\DesignContent\Operations\Tevinter\tev_dorian_op_1.xml:109
 msgctxt "0x0004084f"
 msgid "I have contacts in Tevinter, although not many. Still, trading a few favors could help this magister a great deal."
-msgstr "많지는 않지만 테빈터에 제 연락책이 있습니다. 어느정도 청을 주고받으면 이 마지스터에게 큰 도움을 줄 수 있을거예요."
+msgstr "많지는 않지만 테빈터에 제 연락책이 있습니다. 어느정도 청을 주고받으면 이 매지스터에게 큰 도움을 줄 수 있을거예요."
 
 #. FILE: DA3\DesignContent\Operations\Tevinter\tev_dorian_op_1.xml
 #. PATH: SpecialistMissionInfo[2]/OperationTextReference
@@ -6768,7 +6763,7 @@ msgstr ""
 msgctxt "0x0003fd9c"
 msgid "A rebel helping the helpless? Fighting the enemies of the empire? And all the while hiding the secret of his noble blood! It makes for a romantic story, and Orlesians love their romance. Sell Lord Evariste right, and we'll have all the wealthy ladies of southern Orlais eating out of his hand, and ours."
 msgstr ""
-"힘없는 사람들을 돕는 반란군인데다 제국의 적들을 상대하다니. 심지어 줄곧 자신의 고귀한 혈통에 대한 비밀을 숨겨오면서! 이건 낭만적인 "
+"힘없는 사람들을 돕는 반란군인데다 제국의 적을 상대하다니. 심지어 줄곧 자신의 고귀한 혈통에 대한 비밀을 숨겨오면서! 이건 낭만적인 "
 "이야깃거리를 만들어내기에 제격인 소재예요. 더군다나 올레이인들은 낭만을 좋아하죠. 이바리스테 경을 좋은 쪽으로 팔죠. 그렇게 하면 남부 "
 "올레이의 부유한 여인들을 그와 우리의 손으로 쥐락펴락 할 수 있을겁니다."
 
@@ -6824,7 +6819,7 @@ msgstr "붉은 성기사단 부관 제거"
 msgctxt "0x0003fe91"
 msgid "Michel was once a renowned chevalier. He even bested Grand Duke Gaspard in single combat. I could use an officer with that kind of experience."
 msgstr ""
-"미셸은 한때 유명한 슈발리에였습니다. 일대일 전투에서 가스파드 대공을 이긴적도 있을 정돕니다. 그런 경험이 있는 장교라면 언제든지 "
+"미셸은 한때 유명한 슈발리에였습니다. 일대일 전투에서 가스파드 대공을 이긴 적도 있을 정도입니다. 그런 경험이 있는 장교라면 언제든지 "
 "환영이지요."
 
 #. FILE: DA3\DesignContent\Operations\TheDales\Highlands\Michel\dal_michel_agent_ops_1.xml
@@ -6866,7 +6861,7 @@ msgstr ""
 msgctxt "0x0003fe9b"
 msgid "Very heartwarming, but Celene could have found Michel before now if she had a mind to reconcile. No, she is playing at something more, and we will not be drawn into her game. Test her resolve. If she wants a reconciliation, let her make it public."
 msgstr ""
-"굉장히 마음이 따듯해지는 소식이긴 하지만, 만약 셀린느에게 화해할 마음이 있었다면, 진작에 미셸을 찾았을 겁니다. 아뇨, 그녀에게는 지금 "
+"굉장히 마음이 따듯해지는 소식이긴 하지만, 만약 셀린에게 화해할 마음이 있었다면, 진작에 미셸을 찾았을 겁니다. 아뇨, 그녀에게는 지금 "
 "뭔가 다른 속셈이 있습니다. 그녀의 게임에 휩쓸려선 안돼요. 여제의 결의를 시험해보죠. 화해를 원한다면 공개적으로 하라고 하세요."
 
 #. FILE: DA3\DesignContent\Operations\TheDales\Highlands\Michel\dal_michel_agent_ops_2_celene.xml
@@ -6874,7 +6869,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\TheDales\Highlands\Michel\dal_michel_agent_ops_2_celene.xml:71
 msgctxt "0x0003fe97"
 msgid "Reconciliation for Celene and Michel"
-msgstr "셀린느와 미셸의 화해"
+msgstr "셀린와 미셸의 화해"
 
 #. FILE: DA3\DesignContent\Operations\TheDales\Highlands\Michel\dal_michel_agent_ops_2_gaspard.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -7079,7 +7074,7 @@ msgstr "조사할 가치가 있는 일입니다. 첫번째 정찰대가 죽은 �
 #: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens.xml:32
 msgctxt "0x000402cd"
 msgid "Drive Darkspawn from Val Gamord"
-msgstr "발 가몬드에서 어둠의 피조물을 몰아내라"
+msgstr "발 가몬드에서 암흑피조물을 몰아내라"
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens.xml
 #. PATH: WarTableEntry/TitleReference
@@ -7093,14 +7088,14 @@ msgstr "발 가모드 조사"
 #: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens.xml:134
 msgctxt "0x000402c9"
 msgid "Our only option is to send more scouts to find out what happened."
-msgstr "우리가 할 수 있는 유일한 방법은 무슨 일이 일어났는지 알아내기 위해 더 많은 정찰대를 보내는 것 뿐입니다."
+msgstr "우리가 할 수 있는 유일한 방법은 더 많은 정찰대를 보내 무슨 일이 일어났는지 알아내는 것 뿐입니다."
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens_2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
 #: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens_2.xml:10
 msgctxt "0x000402d0"
 msgid "Such a force is beyond the Inquisition's strength. We must draw on Orlesian allies and attack the darkspawn with a united force."
-msgstr "심문회 병력으로는 이 일을 감당할 수 없어요. 올레이 동맹의 도움을 받고, 연합군을 동원해 어둠의 피조물을 공격해야 합니다."
+msgstr "심문회 병력으로는 이 일을 감당할 수 없어요. 올레이 동맹의 도움을 받고, 연합군을 동원해 암흑피조물을 공격해야 합니다."
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens_2.xml
 #. PATH: SpecialistMissionInfo[1]/OperationToUnlockName
@@ -7114,7 +7109,7 @@ msgstr "가모단 봉우리의 광산 수색"
 #: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens_2.xml:129
 msgctxt "0x000402d1"
 msgid "We have little choice in the matter. The darkspawn will spread unless we strike now."
-msgstr "이 문제는 선택의 여지가 없습니다. 지금 공격하지 않으면 어둠의 피조물이 퍼져나갈 겁니다."
+msgstr "이 문제는 선택의 여지가 없습니다. 지금 공격하지 않으면 암흑피조물이 퍼져나갈 겁니다."
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens_3.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -7128,7 +7123,7 @@ msgstr "땅굴에서 싸우는 건 힘든 일이지만, 그곳을 조사하려�
 #: DA3\DesignContent\Operations\WesternApproach\ValGamord\darkspawn_no_wardens_3.xml:114
 msgctxt "0x000402d4"
 msgid "My contacts in the Carta can get in and out of those mines without alerting the darkspawn."
-msgstr "카르타에 있는 제 연락책들이라면 어둠의 피조물에게 들키지 않고 광산 안을 드나들 수 있어요."
+msgstr "카르타에 있는 제 연락책들이라면 암흑피조물에게 들키지 않고 광산 안을 드나들 수 있어요."
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\WesternApproachArea\wes_area_dragon_manuscript.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -7142,7 +7137,7 @@ msgstr "친구의 친구에게 호의를 보이면, 전문가가 번역한 문�
 #: DA3\DesignContent\Operations\WesternApproach\WesternApproachArea\wes_area_dragon_manuscript.xml:35
 msgctxt "0x0002e112"
 msgid "Translate the Dragon Text"
-msgstr "드래곤 문서 번역"
+msgstr "용 문서 번역"
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\WesternApproachArea\wes_area_dragon_manuscript.xml
 #. PATH: WarTableEntry/LevelNameLocalizedString
@@ -7156,7 +7151,7 @@ msgstr "서부 접근지역"
 #: DA3\DesignContent\Operations\WesternApproach\WesternApproachArea\wes_area_fort_entrance.xml:13
 msgctxt "0x0001c1ba"
 msgid "Find the Source of Darkspawn"
-msgstr "어둠의 피조물의 근원지 찾기"
+msgstr "암흑피조물의 근원지 찾기"
 
 #. FILE: DA3\DesignContent\Operations\WesternApproach\WesternApproachArea\wes_area_fort_entrance.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -7425,8 +7420,8 @@ msgstr "어둠속의 외침"
 msgctxt "0x0004a11f"
 msgid "The situation may be best handled by Orzammar itself. Let us ask the king to send forces from the Legion of the Dead to search for Shaper Valta."
 msgstr ""
-"이 상황은 오자마르에서 자체적으로 대처하는게 제일 좋을 것 같아요. 왕에게 요청해서 기록관 발타를 찾기 위해 망자의 군단의 병력을 "
-"보내달라고 요청하겠습니다."
+"이 상황은 오자마르에서 자체적으로 대처하는 게 제일 좋을 것 같아요. 왕에게 기록관 발타를 찾기 위해 망자의 군단 병력을 보내 달라고 "
+"요청하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\dlcred_region_thedescent_epilogue_1.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
@@ -7495,7 +7490,7 @@ msgstr "오자마르가 기록관에 대해 뭔가를 숨기고 있다면, 제�
 #: DA3\DesignContent\Operations\WorldUnlocks\dlcred_region_thedescent_epilogue_3.xml:128
 msgctxt "0x0004a127"
 msgid "The Inquisition still has forces aiding recovery efforts in the Deep Roads, which gives us leverage for getting answers."
-msgstr "지하 가도를 복구하기 위해서는 여전히 심문회의 도움이 필요합니다. 이건 우리에게 답을 쥐어줄 수 있는 카드입니다."
+msgstr "지하 가도를 복구하기 위해서는 여전히 심문회의 도움이 필요합니다. 이건 우리가 답을 찾을 수 있는 기회입니다."
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\dlcred_region_thedescent_hardmode.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -7565,7 +7560,7 @@ msgstr "에메랄드 무덤"
 #: DA3\DesignContent\Operations\WorldUnlocks\wld_region_dalesforest.xml:99
 msgctxt "0x00035d6f"
 msgid "At your word, I'll send emissaries to meet with Fairbanks—along with hidden agents to watch him."
-msgstr "지시하신 대로, 페어뱅스를 감시할 비밀 요원들과 함께, 그를 만나기 위해 사절을 보내겠습니다."
+msgstr "지시하신 대로, 페어뱅스를 감시할 비밀 요원들과 함께 사절을 보내 그와 접선하겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\wld_region_daleshighlands.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -7630,7 +7625,7 @@ msgstr "내륙지역 정찰"
 #: DA3\DesignContent\Operations\WorldUnlocks\wld_region_hinterlands.xml:33
 msgctxt "0x00029d63"
 msgid "The Hinterlands"
-msgstr "내륙 지역"
+msgstr "내륙지역"
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\wld_region_hinterlands.xml
 #. PATH: SpecialistMissionInfo/OperationTextReference
@@ -7662,7 +7657,7 @@ msgstr ""
 #: DA3\DesignContent\Operations\WorldUnlocks\wld_region_westernapproach.xml:10
 msgctxt "0x00035d83"
 msgid "I recommend immediate deployment of troops to secure a position in the Western Approach."
-msgstr "서부 접근지역 내의 위치를 확보하기 위해 즉시 병력을 파견하는 게 좋겠습니다."
+msgstr "즉시 병력을 파견해 서부 접근지역 내의 위치를 확보하는 게 좋겠습니다."
 
 #. FILE: DA3\DesignContent\Operations\WorldUnlocks\wld_region_westernapproach.xml
 #. PATH: WarTableEntry/TitleReference
@@ -7973,7 +7968,7 @@ msgstr "심문관님께서 준비되기 전까지는 빅토리아 교황께서 �
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_01.xml:13
 msgctxt "0x000483ca"
 msgid "{string}305810{/string}: Heidrun Thaig Upper Bridge"
-msgstr "{string}305810{/string}: 헤이룬 타이그 상층부 다리"
+msgstr "{string}305810{/string}: 헤이드룬 타이그 상층부 다리"
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_01.xml
 #. PATH: SpecialistMissionInfo[1]/OperationTextReference
@@ -8030,7 +8025,7 @@ msgstr "{string}305810{/string}: 헤이드룬 타이그 중앙 다리 건설"
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_03.xml:10
 msgctxt "0x0004a2d3"
 msgid "Our troops know how to handle darkspawn that might threaten the construction efforts."
-msgstr "우리 병사들이 건설 업무를 위협하는 어둠의 피조물을 상대할 수 있습니다."
+msgstr "우리 병사들이 건설 업무를 위협하는 암흑피조물을 상대할 수 있습니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_03.xml
 #. PATH: WarTableEntry/TitleReference
@@ -8045,15 +8040,14 @@ msgstr "{string}305810{/string}: 헤이드룬 타이그 하층부 다리"
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_03.xml:90
 msgctxt "0x0004a2d4"
 msgid "Let us ensure that the construction team has the supplies they need to build the bridge quickly, before the darkspawn notice."
-msgstr "어둠의 피조물들이 눈치채기 전에 다리 건설에 필요한 물자를 건설 인부들에게 빠르게 공급할 수 있는지 확인해보겠습니다."
+msgstr "암흑피조물들이 눈치채기 전에 다리 건설에 필요한 물자를 건설 인부들에게 빠르게 공급할 수 있는지 확인해보겠습니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_03.xml
 #. PATH: SpecialistMissionInfo[3]/OperationTextReference
 #: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_03.xml:112
 msgctxt "0x0004a2d2"
 msgid "An agent knowledgeable about the Deep Roads can keep the construction team away from the worst of the darkspawn nests."
-msgstr ""
-"지하 가도에 대해 잘 알고 있는 요원이 있다면, 건설 인부들이 최악의 어둠의 피조물 본거지를 피하는데 도움을 줄 수 있을 겁니다."
+msgstr "지하 가도에 대해 잘 알고 있는 요원이 있다면, 건설 인부들이 최악의 암흑피조물 본거지를 피하는데 도움을 줄 수 있을 겁니다."
 
 #. FILE: da3_dlc_red\DesignContent\Operations\da3_dlc_red_rebuild_mission_04.xml
 #. PATH: WarTableEntry/TitleReference
@@ -8248,4 +8242,4 @@ msgstr "우리의 최고의 명사수들이라면 이 짐승들을 빠르게 해
 #: da3_dlc_red\DesignContent\Operations\dlcred_rebuild_mission_14.xml:42
 msgctxt "0x0004a9b8"
 msgid "{string}305810{/string}: Bastion of the Pure Cretahl Hunting"
-msgstr "{string}305810{/string}: 순수한 요새 크레탈 사냥"
+msgstr "{string}305810{/string}: 순수의 요새 크레탈 사냥"

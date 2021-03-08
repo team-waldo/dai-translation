@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-04 06:57+0000\n"
-"Last-Translator: ㅇㅇ <sh916089@gmail.com>\n"
+"PO-Revision-Date: 2021-03-08 03:57+0000\n"
+"Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
 "Language: ko\n"
@@ -283,7 +283,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_InfusedVyranriumSamite_2.xml:6
 msgctxt "0x0004488b"
 msgid "Fade-Touched Infused Vyrantium Samite"
-msgstr "영계에 물든 뷔란티움이 주입된 사마이트"
+msgstr "영계에 물든 수놓인 뷔란티움 세이마이트"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_InfusedVyranriumSamite_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -322,7 +322,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_InfusedVyrantiumSamite.xml:6
 msgctxt "0x00024b01"
 msgid "Masterwork Infused Vyrantium Samite"
-msgstr "명품 뷔란티움 주입된 사마이트"
+msgstr "명품 수놓인 뷔란티움 세이마이트"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_KingsWillowWeave.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
@@ -481,7 +481,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_PlushFustianVelvelt_2.xml:6
 msgctxt "0x0004488d"
 msgid "Fade-Touched Plush Fustian Velvet"
-msgstr "영계에 물든 플러시 퍼스티언 벨벳"
+msgstr "영계에 물든 호화로운 퍼스티언 벨벳"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_PlushFustianVelvelt_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -520,7 +520,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_PlushFustianVelvet.xml:6
 msgctxt "0x00024b06"
 msgid "Masterwork Plush Fustian Velvet"
-msgstr "명품 플러시 퍼스티언 벨벳"
+msgstr "명품 호화로운 퍼스티언 벨벳"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Cloth\crafting_masterwork_RingVelvelt_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
@@ -1063,14 +1063,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Druffalo.xml:6
 msgctxt "0x00024aec"
 msgid "Masterwork Druffalo Hide"
-msgstr "명품 드루팔로 가죽"
+msgstr "명품 드러팔로 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Druffalo_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Druffalo_2.xml:6
 msgctxt "0x00044893"
 msgid "Fade-Touched Druffalo Hide"
-msgstr "영계에 물든 드루팔로 가죽"
+msgstr "영계에 물든 드러팔로 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_Druffalo_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -2141,7 +2141,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Metal\crafting_masterwork_Stormheart.xml:6
 msgctxt "0x00024ae6"
 msgid "Masterwork Stormheart"
-msgstr "명품 폭풍심"
+msgstr "명품 폭풍심석"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Metal\crafting_masterwork_Stormheart_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
@@ -2654,7 +2654,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Dales_Loden_Wool.xml:6
 msgctxt "0x0001faa8"
 msgid "Dales Loden Wool"
-msgstr "데일즈 로덴 양모"
+msgstr "데일스 로덴 양모"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Dales_Loden_Wool.xml
 #. PATH: RecipeMaterial/Description
@@ -2894,7 +2894,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Plush_Fustian_Velvet.xml:6
 msgctxt "0x000189cb"
 msgid "Plush Fustian Velvet"
-msgstr "플러시 퍼스티언 벨벳"
+msgstr "호화로운 퍼스티언 벨벳"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Cloth\recipe_material_Ring_Velvet.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -3351,7 +3351,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Druffalo_Fur.xml:6
 msgctxt "0x0001fa8f"
 msgid "Druffalo Hide"
-msgstr "드루팔로 가죽"
+msgstr "드러팔로 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Druffalo_Fur.xml
 #. PATH: RecipeMaterial/Description
@@ -3908,7 +3908,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Stormheart.xml:6
 msgctxt "0x0001fa96"
 msgid "Stormheart"
-msgstr "폭풍심"
+msgstr "폭풍심석"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Metal\recipe_material_Summer_Stone.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -5149,7 +5149,7 @@ msgstr "최상급 중장 용의 방어구"
 #: DA3\Equipment\Crafting\Recipes\Armors\Heavy\OnePiece\recipe_heavy_1p_dwarf_legion.xml:6
 msgctxt "0x0003720a"
 msgid "Legion of the Dead Armor"
-msgstr "죽음의 군단 갑옷"
+msgstr "망자의 군단 갑옷"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Armors\Heavy\OnePiece\recipe_heavy_1p_dwarf_legion.xml
 #. PATH: Recipe/CraftingName
@@ -8581,9 +8581,8 @@ msgstr "연기가 담긴 병"
 msgctxt "0x0004286a"
 msgid "How does one put lightning in a bottle? How does one capture the essence of fire and place it with the essence of cold so they exist in harmony? To those asking such questions, understanding the storm leads to becoming the storm. More practically, the \"bottle of smoke\" will house the elemental forces upon which they draw to coat their blades and become a force of nature on the battlefield."
 msgstr ""
-"어떻게 번개를 병에 담을 수 있는 것일까? 어떻게 화염의 정수를 사로잡아 냉기의 정수와 조화로이 둘 수 있는 것일까? 폭풍을 이해하는 "
-"것은 곧 폭풍 그 자체가 되는 것으로 이어진다. \"연기가 담긴 병\"이란 원소의 힘을 칼날에 덧씌우고 전장의 섭리로 거듭나기 위해 "
-"사용하는 도구인 것이다."
+"어떻게 번개를 병에 담을 수 있는 것일까? 어떻게 화염의 정수를 사로잡아 냉기의 정수와 조화를 이루게 하는 것일까? 폭풍을 이해하면 곧 "
+"폭풍 그 자체가 될 수 있다. 이 \"연기가 담긴 병\"은 원소의 힘을 칼날에 덧씌우고 당신을 전장의 섭리로 거듭나게 만들어 줄 것이다."
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Special\recipe_Crestwood_Covered_Caravans.xml
 #. PATH: Recipe/DisplayName
@@ -8599,8 +8598,7 @@ msgstr "페렐던 짐마차"
 msgctxt "0x0003b4ec"
 msgid "There is a growing need for covered wagons to transport goods back to the Inquisition. The quartermaster is requesting assistance. {string}277940{/string}"
 msgstr ""
-"병참장교가 도움을 청해 왔다. 심문회로 물품을 조달하기 위한 짐마차가 더 필요하다고 한다.\n"
-"{string}277940{/string}"
+"병참장교가 도움을 청해왔다. 심문회로 물품을 조달하기 위한 짐마차가 더 필요하다고 한다. {string}277940{/string}"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Special\recipe_Crestwood_GeoSurvey_01.xml
 #. PATH: Recipe/DisplayName
@@ -8632,8 +8630,8 @@ msgstr "심문회 선전물"
 msgctxt "0x0003b4eb"
 msgid "It has been proposed that the Inquisition combat rampant rumors by allowing scribes to create high-quality books telling the truth of the Herald of Andraste. {string}277940{/string}"
 msgstr ""
-"필경사들에게 안드라스테의 전령에 관한 진실을 충실하게 담은 서적을 편찬하게 하면, 심문회를 향한 근거 없는 소문에 맞설 수 "
-"있다.{string}277940{/string}"
+"필경사들에게 안드라스테의 전령에 관한 진실을 충실하게 담은 서적을 편찬하게 하면, 심문회를 향한 근거 없는 소문을 잠재울 수 있을 "
+"것이다. {string}277940{/string}"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Special\recipe_Crestwood_Longbows_For_Spies.xml
 #. PATH: Recipe/DisplayName
@@ -8649,7 +8647,7 @@ msgstr "네바라산 장궁"
 msgctxt "0x0003b4ea"
 msgid "A number of our agents and messengers have gone missing while out in the field. Outfitting them with quality Nevarran longbows should ensure they're better able to defend themselves. {string}277940{/string}"
 msgstr ""
-"아군 요원과 전령 다수가 현장 파견중에 실종되었다. 그들을 질좋은 네바라산 장궁으로 무장시키면 자기방어 능력이 향상될 것이다. "
+"아군 요원과 전령 몇몇이 현장 파견 중 실종되었다. 그들에게 질좋은 네바라산 장궁을 제공하면 자신을 방어하기 용이할 것이다. "
 "{string}277940{/string}"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Special\recipe_DalesHighlands_Braziers.xml
@@ -8749,8 +8747,8 @@ msgstr "거인 미끼"
 msgctxt "0x0003ab56"
 msgid "Giants are a problem for Inquisition scouts. They've requested the creation of special person-sized lures that can draw the giants away from their camps. {string}277940{/string}"
 msgstr ""
-"거인들이 심문회 정찰병들에게 골칫거리가 되고 있다. 정찰병들은 야영지에서 놈들을 유인해낼 수 있도록 특수한 맞춤 크기 미끼를 만들어줄 "
-"것을 요청했다. {string}277940{/string}"
+"거인들이 심문회 정찰병들에게 골칫거리가 되고 있다. 정찰병들이 놈들을 유인해낼 수 있는 특수한 맞춤 크기 미끼를 요청했다. "
+"{string}277940{/string}"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Special\recipe_Dales_Forest_culture_dalish.xml
 #. PATH: Recipe/DisplayName
@@ -8766,7 +8764,7 @@ msgstr "데일스 엘프 유물"
 msgctxt "0x0002bf57"
 msgid "A number of Dalish elders have asked for the Inquisition's help in recovering elven artifacts that have been stolen by Orlesian deserters. {string}277940{/string}"
 msgstr ""
-"데일스 엘프 장로 다수가 올레이 탈영병들이 훔쳐간 엘프 유물을 되찾는 데 심문회가 도움을 주면 좋겠다고 청해 왔다. "
+"데일스 엘프 장로 다수가 올레이 탈영병들이 훔쳐간 엘프 유물을 되찾는 데 심문회의 도움을 요청해 왔다. "
 "{string}277940{/string}"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Special\recipe_Dales_Plains_Ceremonial_Burial_Armor.xml
@@ -8783,8 +8781,8 @@ msgstr "제례용 장의갑옷"
 msgctxt "0x000425b7"
 msgid "Several prominent Nevarran noble families are completing a set of ceremonial burial armor for their king, but are short some key ingredients. They would be grateful for the Inquisition's assistance. {string}277940{/string}"
 msgstr ""
-"저명한 네바라 귀족 가문 다수가 그들의 국왕을 위한 제례용 장의 갑옷을 준비하고 있으나, 핵심 재료 몇 가지가 부족해 애를 먹고 있다. "
-"심문회가 도움을 건네면 그들은 크게 감사할 것이다. {string}277940{/string}"
+"저명한 네바라 귀족 가문 다수가 국왕을 위한 제례용 장의 갑옷을 준비하고 있으나, 핵심 재료 몇 가지가 부족해 애를 먹고 있다. 심문회가 "
+"도움을 건네면 그들은 크게 감사할 것이다. {string}277940{/string}"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Special\recipe_Dales_Plains_GeoSurvey_02.xml
 #. PATH: Recipe/DisplayName
@@ -8816,8 +8814,8 @@ msgstr "제국 양식 마구"
 msgctxt "0x000425b8"
 msgid "If Inquisition diplomats wish to be taken more seriously in Orlais, we should craft the ornamental harnesses employed by proper courtiers and recognized across the empire. {string}277940{/string}"
 msgstr ""
-"심문회 외교관들이 올레이에서 보다 나은 대우를 받기를 원한다면, 제국 궁정 조신들이 사용하여 널리 알려진 장식적인 마구를 채용하는 것이 "
-"좋겠다. {string}277940{/string}"
+"제국 궁정 조신들이 사용하여 널리 알려진 장식적인 마구를 채용한다면, 심문회 외교관들이 올레이에서 보다 나은 대우를 받을 것이다. "
+"{string}277940{/string}"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Special\recipe_Dales_Plains_SeraultSpyglasses.xml
 #. PATH: Recipe/DisplayName
@@ -8850,7 +8848,7 @@ msgstr "올레이 문화 교양서"
 msgctxt "0x0002bf56"
 msgid "Not all of the Inquisition's agents and diplomats are from Orlais. Gathering lore on Orlesian culture would aid them in interacting with locals. {string}277940{/string}"
 msgstr ""
-"심문회의 요원과 외교관 모두가 올레이 출신인 것은 아니다. 올레이 문화에 대한 구전 지식을 모아 펴내면 그들이 지역민과 상호작용하는 데 "
+"심문회의 요원과 외교관 모두가 올레이 출신인 것은 아니다. 올레이 문화에 대한 구전 지식을 모아 펴내면 그들이 지역민과 소통하는 데 "
 "도움이 될 것이다. {string}277940{/string}"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Special\recipe_Desert_Ruins_Dwarven_Cultural_Study.xml
@@ -8867,7 +8865,7 @@ msgstr "드워프 역사서"
 msgctxt "0x00040c8e"
 msgid "A wealthy dwarven merchant has put out a bounty on dwarven artifacts in the Hissing Wastes, believing they will help reconstruct the history of his lost clan. {string}277941{/string}"
 msgstr ""
-"부유한 드워프 상인 한 명이 그의 잊힌 혈족 역사를 복원하고자 하는 바람으로 칼바람 황무지의 드워프 유물을 가져다주는 이에게 포상금을 "
+"부유한 드워프 상인 한 명이 잊혀진 드워프 역사를 복원하고자 하는 바람으로 칼바람 황무지의 드워프 유물을 가져다주는 이에게 포상금을 "
 "내걸었다. {string}277941{/string}"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Special\recipe_DragonBloodDistillation.xml
@@ -8884,8 +8882,8 @@ msgctxt "0x00042868"
 msgid "It is unknown why dragon blood transforms as it does because the answer requires a knowledge of both forbidden magic and dragons that hasn't existed since the early days of the Tevinter Imperium—and even then was a closely guarded secret. All that's known is that dragon blood is a source of immense power to those willing and strong enough to embrace its dangers."
 msgstr ""
 "어째서 용의 혈액이 그처럼 변화하는 성질을 띠는지는 알려져 있지 않다. 용은 테빈터 제국 시대 초기 이후로 멸절한 데다, 그 당시에도 "
-"그에 관한 지식은 엄중하게 비밀로 지켜졌기 때문이다. 뿐만 아니라 그 답을 구하려면 금지된 마법에 손을 대기까지 해야 한다. 확실한 것은 "
-"그 위험을 받아들이기를 꺼리지 않고 견뎌낼 만큼 강인한 이에게는 용의 혈액이 막대한 힘의 원천으로 작용한다는 사실 뿐이다."
+"그에 관한 지식은 엄중하게 비밀로 지켜졌기 때문이다. 뿐만 아니라 그 답을 구하려면 금지된 마법에 손을 대기까지 해야 한다. 그러나 그 "
+"위험을 받아들이기를 꺼리지 않고 견뎌낼 만큼 강인한 이라면 용의 혈액에서 막대한 힘을 얻을 수 있을 것이다."
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Special\recipe_ForceBladeHilt.xml
 #. PATH: Recipe/DisplayName
@@ -9367,7 +9365,7 @@ msgstr "개선된 심문회 무기"
 #: DA3\Equipment\Crafting\Recipes\Special\recipe_UNUSED_imp_inquisition_weapons.xml:11
 msgctxt "0x0002bf5f"
 msgid "Our troops need to be more effective against the supernatural enemies we face. {string}277940{/string}"
-msgstr "심문회 병력이 초자연적인 적들에 더 효율적으로 맞설 수 있어야 한다. {string}277940{/string}"
+msgstr "심문회 병력이 초자연적인 적에 더 효율적으로 맞설 수 있어야 한다. {string}277940{/string}"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Special\recipe_UNUSED_mas_inquisition_weapons.xml
 #. PATH: Recipe/DisplayName
@@ -9671,7 +9669,7 @@ msgstr "마도사 지팡이날"
 #: DA3\Equipment\Crafting\Recipes\Weapons\Mage\Staff\recipe_staff_blade_t2_4_rare.xml:6
 msgctxt "0x0001fcd7"
 msgid "Masterwork Magister Staff Blade"
-msgstr "명품 마지스터 지팡이날"
+msgstr "명품 매지스터 지팡이날"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Weapons\Mage\Staff\recipe_staff_blade_t3_1.xml
 #. PATH: Recipe/DisplayName
@@ -9930,7 +9928,7 @@ msgstr "봉"
 #: DA3\Equipment\Crafting\Recipes\Weapons\Mage\Staff\recipe_staff_t2_2.xml:6
 msgctxt "0x0001fa49"
 msgid "Magister Staff"
-msgstr "마지스터 지팡이"
+msgstr "매지스터 지팡이"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Weapons\Mage\Staff\recipe_staff_t2_3.xml
 #. PATH: Recipe/DisplayName
@@ -11001,7 +10999,7 @@ msgstr "정화의 룬"
 #: DA3\Equipment\Crafting\Recipes\Weapons\Runes\recipe_rune_vs_corrupted_1.xml:11
 msgctxt "0x000447f8"
 msgid "Inflicts bonus damage against red templars and darkspawn on each weapon strike."
-msgstr "무기 공격이 적중할 때마다 붉은 성기사 혹은 어둠의 피조물 유형 대상에 추가 피해를 입힌다."
+msgstr "무기 공격이 적중할 때마다 붉은 성기사 혹은 암흑피조물 유형 대상에 추가 피해를 입힌다."
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Weapons\Runes\recipe_rune_vs_corrupted_2.xml
 #. PATH: Recipe/DisplayName
@@ -12465,7 +12463,7 @@ msgstr "겨울숨결"
 #: DA3\Equipment\Crafting\Recipes\Weapons\Warrior\Shields\recipe_BE_Shield_3.xml:6
 msgctxt "0x0001bea8"
 msgid "Darkspawn Alpha Shield"
-msgstr "어둠의 피조물 우두머리 방패"
+msgstr "암흑피조물 우두머리 방패"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Weapons\Warrior\Shields\recipe_shield_t1_1.xml
 #. PATH: Recipe/DisplayName
@@ -12535,7 +12533,7 @@ msgstr "원형 방패"
 #: DA3\Equipment\Crafting\Recipes\Weapons\Warrior\Shields\recipe_shield_t2_2.xml:6
 msgctxt "0x0001be85"
 msgid "Darkspawn Shield"
-msgstr "어둠의 피조물 방패"
+msgstr "암흑피조물 방패"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Weapons\Warrior\Shields\recipe_shield_t2_3.xml
 #. PATH: Recipe/DisplayName
@@ -12549,7 +12547,7 @@ msgstr "중갑 방패"
 #: DA3\Equipment\Crafting\Recipes\Weapons\Warrior\Shields\recipe_shield_t2_4.xml:6
 msgctxt "0x0001be87"
 msgid "Darkspawn Alpha Shield"
-msgstr "어둠의 피조물 우두머리 방패"
+msgstr "암흑피조물 우두머리 방패"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Weapons\Warrior\Shields\recipe_shield_t2_5_rare.xml
 #. PATH: Recipe/DisplayName
@@ -13082,7 +13080,7 @@ msgstr "안드라스테의 희생"
 msgctxt "0x0004b50b"
 msgid "Against all odds, Inquisition scouts discovered this amulet under the charred, fallen rafters of a burned-down chantry. A mage who examined it said it “felt like all the power in the world.”"
 msgstr ""
-"이 목걸이는 심문회 정찰병이 갖은 고생 끝에 불타 무너진 성당의 서까래 밑에서 찾아낸 것이다. 이 목걸이를 살펴본 한 마법사는 “이 "
+"이 목걸이는 심문회 정찰병이 불타 무너진 성당의 서까래 밑에서 갖은 고생 끝에 찾아낸 것이다. 이 목걸이를 살펴본 한 마법사는 “이 "
 "세상의 온 힘이 느껴진다”는 말을 남겼다."
 
 #. FILE: DA3\Equipment\Items\Accessories\Amulets\dlcblue_equip_acc_amulet_relic_kitty.xml
@@ -13114,7 +13112,7 @@ msgstr "말리카의 경계"
 msgctxt "0x0004b507"
 msgid "This crude yet distinctive amulet can be traced back to Regsith, a dwarven warrior dating from the time of the original darkspawn incursions against the dwarven empire."
 msgstr ""
-"이 조잡하지만 특색 있는 목걸이의 유래는 드워프 전사 레그지스의 시대까지 거슬러 올라간다. 그는 어둠의 피조물이 최초로 드워프 제국을 "
+"이 조잡하지만 특색 있는 목걸이의 유래는 드워프 전사 레그지스의 시대까지 거슬러 올라간다. 그는 암흑피조물이 최초로 드워프 제국을 "
 "침공했을 당시의 인물이었다."
 
 #. FILE: DA3\Equipment\Items\Accessories\Amulets\equip_BE_acc_amulet_mage.xml
@@ -13257,7 +13255,7 @@ msgstr "위력의 목걸이"
 msgctxt "0x0004074d"
 msgid "The mage's staff attacks now generate powerful force waves, based on the staff's element. The force wave damages all enemies in an arc in front of the mage. The amulet also grants a +10% damage bonus to barriers."
 msgstr ""
-"마법사의 기본 공격이 지팡이에 부여된 원소의 성질에 따라 강력한 충격파를 생성한다. 충격파는 마법사 전방의 부채꼴 범위 내 모든 적들을 "
+"마법사의 기본 공격이 지팡이에 부여된 원소의 성질에 따라 강력한 충격파를 생성한다. 충격파는 마법사 전방의 부채꼴 범위 내 모든 적을 "
 "공격한다. 또한 방어막에 입히는 피해가 10% 증가한다."
 
 #. FILE: DA3\Equipment\Items\Accessories\Amulets\equip_acc_amulet_mage_staff_cone_2.xml
@@ -13273,7 +13271,7 @@ msgstr "증진된 위력의 목걸이"
 msgctxt "0x0004074e"
 msgid "The mage's staff attacks now generate powerful force waves, based on the staff's element. The force wave damages all enemies in an arc in front of the mage. The amulet also grants a +10% damage bonus to barriers."
 msgstr ""
-"마법사의 기본 공격이 지팡이에 부여된 원소의 성질에 따라 강력한 충격파를 생성한다. 충격파는 마법사 전방의 부채꼴 범위 내 모든 적들을 "
+"마법사의 기본 공격이 지팡이에 부여된 원소의 성질에 따라 강력한 충격파를 생성한다. 충격파는 마법사 전방의 부채꼴 범위 내 모든 적을 "
 "공격한다. 또한 방어막에 입히는 피해가 10% 증가한다."
 
 #. FILE: DA3\Equipment\Items\Accessories\Amulets\equip_acc_amulet_mage_staff_cone_3.xml
@@ -13289,7 +13287,7 @@ msgstr "최상급 위력의 목걸이"
 msgctxt "0x0004074f"
 msgid "The mage's staff attacks now generate powerful force waves, based on the staff's element. The force wave damages all enemies in an arc in front of the mage. The amulet also grants a +10% damage bonus to barriers."
 msgstr ""
-"마법사의 기본 공격이 지팡이에 부여된 원소의 성질에 따라 강력한 충격파를 생성한다. 충격파는 마법사 전방의 부채꼴 범위 내 모든 적들을 "
+"마법사의 기본 공격이 지팡이에 부여된 원소의 성질에 따라 강력한 충격파를 생성한다. 충격파는 마법사 전방의 부채꼴 범위 내 모든 적을 "
 "공격한다. 또한 방어막에 입히는 피해가 10% 증가한다."
 
 #. FILE: DA3\Equipment\Items\Accessories\Amulets\equip_acc_amulet_mage_static_field.xml
@@ -14016,7 +14014,7 @@ msgstr "의혹의 반지"
 #: DA3\Equipment\Items\Accessories\Rings\dlcblue_equip_acc_ring_relic_doubt.xml:11
 msgctxt "0x0004b509"
 msgid "A young Tevinter magister forced into an arranged marriage enchanted this, his wedding ring, with the power of invisibility."
-msgstr "본인의 의사와 상관없는 결혼에 억지로 떠밀린 젊은 테빈터 마지스터가, 자신의 결혼반지인 이 반지에 투명화의 마법을 부여했다."
+msgstr "본인의 의사와 상관없는 결혼에 억지로 떠밀린 젊은 테빈터 매지스터가, 자신의 결혼반지인 이 반지에 투명화의 마법을 부여했다."
 
 #. FILE: DA3\Equipment\Items\Accessories\Rings\equip_BE_acc_ring_assault.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -14485,7 +14483,7 @@ msgstr "증진된 숨은 칼날 반지"
 #: DA3\Equipment\Items\Accessories\Rings\equip_mp2_ring_upgrade_rogue_snipe.xml:6
 msgctxt "0x0004a183"
 msgid "Enhanced Full Draw Ring"
-msgstr "증진된 만궁 반지"
+msgstr "증진된 정조준 반지"
 
 #. FILE: DA3\Equipment\Items\Accessories\Rings\equip_mp2_ring_upgrade_warrior_devour.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -14583,7 +14581,7 @@ msgstr "증진된 얼음 지뢰 반지"
 #: DA3\Equipment\Items\Accessories\Rings\equip_ring_upgrade_mage_lightning.xml:6
 msgctxt "0x00040973"
 msgid "Enhanced Lightning Bolt Ring"
-msgstr "증진된 번개 작렬 반지"
+msgstr "증진된 벼락 반지"
 
 #. FILE: DA3\Equipment\Items\Accessories\Rings\equip_ring_upgrade_mage_seeker_swarm.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -14660,14 +14658,14 @@ msgstr "증진된 폭발 사격 반지"
 #: DA3\Equipment\Items\Accessories\Rings\equip_ring_upgrade_rogue_flicker.xml:6
 msgctxt "0x00040a89"
 msgid "Enhanced Thousand Cuts Ring"
-msgstr "증진된 천번베기 반지"
+msgstr "증진된 천번 베기 반지"
 
 #. FILE: DA3\Equipment\Items\Accessories\Rings\equip_ring_upgrade_rogue_flurry.xml
 #. PATH: EquipItemAsset/DisplayName
 #: DA3\Equipment\Items\Accessories\Rings\equip_ring_upgrade_rogue_flurry.xml:6
 msgctxt "0x00040a81"
 msgid "Enhanced Spinning Blades Ring"
-msgstr "증진된 회전 칼날 반지"
+msgstr "증진된 회전하는 칼날 반지"
 
 #. FILE: DA3\Equipment\Items\Accessories\Rings\equip_ring_upgrade_rogue_heartseeker.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -14695,7 +14693,7 @@ msgstr "증진된 맹독 구름 반지"
 #: DA3\Equipment\Items\Accessories\Rings\equip_ring_upgrade_rogue_parry.xml:6
 msgctxt "0x00040a8f"
 msgid "Enhanced Parry Ring"
-msgstr "증진된 무기 막기 반지"
+msgstr "증진된 응수 반지"
 
 #. FILE: DA3\Equipment\Items\Accessories\Rings\equip_ring_upgrade_rogue_party_stealth.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -14800,7 +14798,7 @@ msgstr "증진된 용맹의 뿔피리 반지"
 #: DA3\Equipment\Items\Accessories\Rings\equip_ring_upgrade_warrior_judgement.xml:6
 msgctxt "0x00040a91"
 msgid "Enhanced Mighty Blow Ring"
-msgstr "증진된 막강한 일격 반지"
+msgstr "증진된 호쾌한 강타 반지"
 
 #. FILE: DA3\Equipment\Items\Accessories\Rings\equip_ring_upgrade_warrior_mighty_blow.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -14856,7 +14854,7 @@ msgstr "증진된 전쟁의 뿔피리 반지"
 #: DA3\Equipment\Items\Accessories\Rings\equip_ring_upgrade_warrior_war_horn.xml:11
 msgctxt "0x000426e3"
 msgid "Increased ability duration by 30%"
-msgstr "기술의 지속시간을 30% 증가시킨다."
+msgstr "기술 지속시간 30% 증가"
 
 #. FILE: DA3\Equipment\Items\Accessories\Rings\equip_ring_upgrade_warrior_whirlwind.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -14907,8 +14905,8 @@ msgctxt "0x00042261"
 msgid "Those dwarves who join the Legion die before they leave their thaigs. They hold a funeral, say goodbye to their loved ones, and then head off into the Deep Roads with the rest of their fellows—all sins forgiven, never to return. To the dwarves of Orzammar, who face a never-ending battle against the darkspawn that stole their ancient lands, this is the highest honor possible."
 msgstr ""
 "망자의 군단에 입단하는 드워프는 타이그를 떠나기 전에 죽음을 맞는다. 장례식을 치르고, 사랑하는 이들과 작별 인사를 나눈 뒤 동료 "
-"군단원과 함께 지하 가도로 향한다. 그들은 생전에 지었던 모든 죄를 사면받으며 다시는 돌아올 수 없게 된다. 옛 영토를 앗아간 어둠의 "
-"피조물과 끝없는 전투를 벌이는 처지인 오자마르의 드워프에게 있어, 망자의 군단원이 되는 것은 최고의 영예이다."
+"군단원과 함께 지하 가도로 향한다. 그들은 생전에 지었던 모든 죄를 사면받으며 다시는 돌아올 수 없게 된다. 옛 영토를 앗아간 "
+"암흑피조물과 끝없는 전투를 벌이는 처지인 오자마르의 드워프에게 있어, 망자의 군단원이 되는 것은 최고의 영예이다."
 
 #. FILE: DA3\Equipment\Items\Armors\Heavy\equip_armor_heavy_1p_elf_dalish.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -15208,7 +15206,7 @@ msgstr "절망"
 msgctxt "0x00042204"
 msgid "\"Let my enemies see me on the battlefield. Let the dread seep into their bones, knowing their end is nigh, for at this moment I am not a man. I am a force of nature and the bringer of death.\""
 msgstr ""
-"\"적들이 전장에 선 나의 모습을 목도하게 하라. 그리하여 공포가 그 뼛속에 스며들고 파멸이 임박함을 알리라. 이 순간부터 나는 사람됨을 "
+"\"적이 전장에 선 나의 모습을 목도하게 하라. 그리하여 공포가 그 뼛속에 스며들고 파멸이 임박함을 알리라. 이 순간부터 나는 사람됨을 "
 "저버리니 나는 곧 자연의 섭리요 죽음의 인도자라.\""
 
 #. FILE: DA3\Equipment\Items\Armors\Helms\Heavy\equip_helmet_heavy_t1_1.xml
@@ -15342,7 +15340,7 @@ msgctxt "0x00042203"
 msgid "An \"overseer\" was a position common within the ancient Tevinter Imperium, given solely to mages of altus rank. They were sent to distant outposts, usually important mines and strategically important forts, and given authority to act on the Magisterium's behalf with impunity."
 msgstr ""
 "\"감독관\"이란 고대 테빈터 제국에서는 흔한 지위로, 오직 알투스 계급의 마법사에게만 주어졌다. 그들은 중요성이 높은 광산이나 전술적 "
-"가치가 높은 요새 등 주로 외딴 곳의 거점에 파견되었으며, 면책 특권을 지니고 매지스티리움의 권위를 대리하여 행사했다."
+"가치가 높은 요새 등 주로 외딴 곳의 거점에 파견되었으며, 면책 특권을 지니고 매지스테리움의 권위를 대리하여 행사했다."
 
 #. FILE: DA3\Equipment\Items\Armors\Helms\Light\equip_helmet_light_t2_3.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -16109,7 +16107,7 @@ msgstr ""
 #: DA3\Equipment\Items\Armors\Masks\equip_mask_5.xml:6
 msgctxt "0x00042240"
 msgid "Mask of Valmont"
-msgstr "발몬트의 가면"
+msgstr "발몽의 가면"
 
 #. FILE: DA3\Equipment\Items\Armors\Masks\equip_mask_5.xml
 #. PATH: EquipItemAsset/Description
@@ -16133,7 +16131,7 @@ msgstr "여제의 가면"
 msgctxt "0x00042aec"
 msgid "This is one of the personal masks used by Empress Celene de Valmont, rumored to have been crafted for her by the gifted artisan, Kaloch. The dwarf was always choosy regarding the Orlesian families for whom he worked, and after refusing any sitting emperor his entire life, he bestowed a set upon Celene in 9:33 Dragon—something which was considered a great honor at the time. This mask has been granted to the Inquisition with the empress's blessing, as well as the approval of the court."
 msgstr ""
-"이것은 황제 셀린 드 발몽이 사용했던 가면 중 하나로, 재능 있는 장인 칼록이 황제를 위해 만들어 바친 물건이라는 소문이 전해진다. "
+"이것은 여제 셀린 드 발몽이 사용했던 가면 중 하나로, 재능 있는 장인 칼록이 황제를 위해 만들어 바친 물건이라는 소문이 전해진다. "
 "드워프 칼록은 올레이 귀족가의 주문을 받을 때면 언제나 까다롭게 굴었으며, 줄곧 황가의 요청을 거절해 왔으나 용의 시대 9:33년 마침내 "
 "셀린에게 가면 한 벌을 지어 진상했다고 한다. 당시 칼록이 만든 가면을 받는 것은 큰 영예로 여겨졌으며, 이제 이 가면은 황제의 축복과 "
 "올레이 궁정의 호의를 함께 얻은 심문회에게 수여되었다."
@@ -16633,7 +16631,7 @@ msgstr "대형 무기 파편"
 #: DA3\Equipment\Items\CreatureCodex\creature_codex_item_buzzard.xml:6
 msgctxt "0x00041e6a"
 msgid "Quillback Fang"
-msgstr "가시등 송곳니"
+msgstr "퀼백 송곳니"
 
 #. FILE: DA3\Equipment\Items\CreatureCodex\creature_codex_item_corpse.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -16647,7 +16645,7 @@ msgstr "시체 뇌간"
 #: DA3\Equipment\Items\CreatureCodex\creature_codex_item_darkspawn.xml:6
 msgctxt "0x00041e73"
 msgid "Darkspawn Teeth"
-msgstr "어둠의 피조물 이빨"
+msgstr "암흑피조물 이빨"
 
 #. FILE: DA3\Equipment\Items\CreatureCodex\creature_codex_item_deepstalker.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -18670,7 +18668,7 @@ msgstr "수호자 지팡이날"
 #: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t2_4.xml:6
 msgctxt "0x0001fce8"
 msgid "Magister Staff Blade"
-msgstr "마지스터 지팡이날"
+msgstr "매지스터 지팡이날"
 
 #. FILE: DA3\Equipment\Items\Upgrades\Weapons\Staffs\upgrade_staff_blade_t2_5.xml
 #. PATH: UpgradeItemAsset/DisplayName
@@ -19601,7 +19599,7 @@ msgstr "수정 그리폰 장식품"
 #: DA3\Equipment\Items\Valuables\Tier4\valuable_Darkspawn_totem.xml:6
 msgctxt "0x0002995b"
 msgid "Darkspawn Totem"
-msgstr "어둠피조물 토템"
+msgstr "암흑피조물 토템"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier4\valuable_Dwarven_Dragon_Statue.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -20138,16 +20136,15 @@ msgstr "성실한 보복"
 #. FILE: DA3\Equipment\Items\Weapons\Mage\Staff\equip_BE_Staff_1a.xml
 #. PATH: EquipItemAsset/Description
 #: DA3\Equipment\Items\Weapons\Mage\Staff\equip_BE_Staff_1a.xml:11
-#, fuzzy
 msgctxt "0x00046451"
 msgid "Earnest Artelli lost his voice permanently due to a terrible fever during his tenure as Prelate of the Order of Mortalitasi in 7:45 Storm. This forced Artelli to find other ways to communicate with his fellow death mages, including writing on a small slate, hand gestures, and most frequently, angrily shaking his staff at subordinates who failed to attend to his instructions quickly enough. This last had the unintended consequence of occasionally setting fires in the vicinity; more than one acolyte fled the irritated prelate's offices with charred robes. By 7:47, every Mortalitasi in Nevarra knew to watch the prelate's staff for signs of Earnest's imminent reprisal."
 msgstr ""
-"어니스트 아르텔리는 폭풍의 시대 7:45에 모탈리타시의 추기경으로 재임하던 도중 끔찍한 열병으로 목소리를 영영 잃게 되었다. 이는 "
-"아르텔리가 죽음의 마법사 동료들과 소통하기 위해 작은 석판을 이용한 필담, 손짓과 같은 다른 방법들을 강구하게 하였는데 그가 가장 자주 "
-"사용했던 방법은 지시를 재빠르게 수행하지 못한 부하들에게 분노에 차서 지팡이를 휘두르는 것이었다. 그 방법은 가끔 근처에 화재를 내는 "
-"의도치 않은 결과를 냈다; 그때마다 한 명 이상의 시종들이 새까맣게 탄 로브를 휘날리며 짜증이 난 고위 성직자의 방으로부터 도망쳐 나오곤 "
-"했다. 7:47 경에는, 네바라의 모든 모탈리타시 마법사들이 어니스트의 긴박한 보복 징후를 파악하기 위해 그의 지팡이를 지켜봐야 한다는 "
-"사실을 알게 되었다."
+"어니스트 아르텔리는 폭풍의 시대 7:45에 모탈리타시 추기경으로 재임하던 도중 끔찍한 열병으로 목소리를 영영 잃게 되었다. 때문에 "
+"아르텔리는 동료 죽음의 마법사들과 소통하기 위해 작은 석판을 이용한 필담, 손짓과 같은 방법을 강구해야 했다. 그가 가장 자주 사용했던 "
+"방법은 지시를 재빠르게 수행하지 못한 부하들에게 분노에 차서 지팡이를 휘두르는 것이었다. 그 방법은 가끔 근처에 화재를 내는 의도치 않은 "
+"결과를 냈다. 그때마다 한 명 이상의 시종이 새까맣게 탄 로브를 휘날리며 짜증에 찬 고위 성직자의 방으로부터 도망쳐 나오곤 했다. 7:"
+"47 경에는, 네바라의 모든 모탈리타시 마법사들이 어니스트의 긴박한 보복 징후를 파악하려면 그의 지팡이를 지켜봐야 한다는 사실을 알게 "
+"되었다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Mage\Staff\equip_mp2_staff_dragon_t4.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -20166,12 +20163,11 @@ msgstr "눈보라의 길"
 #. FILE: DA3\Equipment\Items\Weapons\Mage\Staff\equip_patch8_staff_t2_10_v2.xml
 #. PATH: EquipItemAsset/Description
 #: DA3\Equipment\Items\Weapons\Mage\Staff\equip_patch8_staff_t2_10_v2.xml:11
-#, fuzzy
 msgctxt "0x000422bf"
 msgid "Carved along the staff's length: \"Be cold, my son. Empty yourself of compassion, for the blizzard's path strikes fear. If you feel rage, let it be righteous. Unleash it, and you will achieve greatness.\""
 msgstr ""
-"지팡이에 글귀가 새겨져있다: \"내 아들아, 냉정해지거라. 눈보라가 지나는 길은 두려움을 불어넣으니 스스로의 동정심을 버려라. 만약 "
-"분노를 느낀다면, 정당한 분노를 느껴라. 그 분노를 쏟아내면, 너는 위업을 달성할 것이다.\""
+"지팡이에 글귀가 새겨져 있다. \"아들아, 냉정해지거라. 눈보라가 지나는 길은 두려움을 불어넣으니 자신의 동정심을 버려야 하니라. 만약 "
+"분노를 느낀다면, 의분만을 느껴라. 그 분노를 쏟아내면, 너는 위업을 달성할 것이다.\""
 
 #. FILE: DA3\Equipment\Items\Weapons\Mage\Staff\equip_patch8_staff_t2_13_rare_v2.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -20525,21 +20521,21 @@ msgstr "수호자 전격 지팡이"
 #: DA3\Equipment\Items\Weapons\Mage\Staff\equip_staff_t2_4_rare.xml:6
 msgctxt "0x0001fa59"
 msgid "Magister Fire Staff"
-msgstr "마지스터 화염 지팡이"
+msgstr "매지스터 화염 지팡이"
 
 #. FILE: DA3\Equipment\Items\Weapons\Mage\Staff\equip_staff_t2_5_rare.xml
 #. PATH: EquipItemAsset/DisplayName
 #: DA3\Equipment\Items\Weapons\Mage\Staff\equip_staff_t2_5_rare.xml:6
 msgctxt "0x0001fa57"
 msgid "Magister Ice Staff"
-msgstr "마지스터 빙결 지팡이"
+msgstr "매지스터 빙결 지팡이"
 
 #. FILE: DA3\Equipment\Items\Weapons\Mage\Staff\equip_staff_t2_6_rare.xml
 #. PATH: EquipItemAsset/DisplayName
 #: DA3\Equipment\Items\Weapons\Mage\Staff\equip_staff_t2_6_rare.xml:6
 msgctxt "0x0001fa62"
 msgid "Magister Lightning Staff"
-msgstr "마지스터 전격 지팡이"
+msgstr "매지스터 전격 지팡이"
 
 #. FILE: DA3\Equipment\Items\Weapons\Mage\Staff\equip_staff_t2_7.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -20575,9 +20571,9 @@ msgstr "아이단 동맹의 지팡이"
 msgctxt "0x000449b4"
 msgid "The spread of red lyrium is inexorable, unending—the key for turning corrupted foes against their masters. This nightmarish practicality identifies the work as that of inimitable Arcanist Dagna. Like all children of the Stone, she doesn't have to worry how such experiments might affect her dreams. She keeps track of their names, though. That's about respect."
 msgstr ""
-"붉은 리륨의 확산은 거침없고 영원하다—그것이 타락한 적들을 제 주인으로부터 등 돌리게 만드는 열쇠가 될 것이다. 이 악몽과도 같은 "
-"현실성은 이 지팡이가 결코 모방할 수 없는 비전술사 다그나의 작품임을 드러낸다. 다른 모든 돌의 자손과 마찬가지로 그는 이런 실험이 "
-"자신의 꿈에 영향을 끼칠까 걱정할 필요가 없다. 대신 다그나는 이름만은 꼼꼼하게 기록한다. 그것은 존중의 문제이니까."
+"붉은 리륨의 확산은 거침없고 영원하다—그것이 타락한 적을 제 주인으로부터 등 돌리게 만드는 열쇠가 될 것이다. 이 악몽과도 같은 현실성은 "
+"이 지팡이가 결코 모방할 수 없는 비전술사 다그나의 작품임을 드러낸다. 다른 모든 돌의 자손과 마찬가지로 그는 이런 실험이 자신의 꿈에 "
+"영향을 끼칠까 걱정할 필요가 없다. 대신 다그나는 이름만은 꼼꼼하게 기록한다. 그것은 존중의 문제이니까."
 
 #. FILE: DA3\Equipment\Items\Weapons\Mage\Staff\equip_staff_t3_10.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -20986,8 +20982,8 @@ msgid "The Qunari ranged weapons of choice are spear or cannon, but one famous Q
 msgstr ""
 "보통 쿠나리는 투창이나 대포 같은 원거리 무기를 선호하지만, 폭풍의 시대, 신 숭고한 거병 당시 활약했던 한 쿠나리 궁사의 이야기는 널리 "
 "알려져 있다. 테다스군 병력에게는 \"새매\"라는 별칭으로 유명했던 그는 깜깜한 곳에서 아무런 조짐도 없이 날아드는 화살로 적진을 "
-"두려움에 떨게 했다고 전해진다. 그는 백 명이 넘는 처치 횟수를 기록하며 여성 쿠나리 전사의 전설이 되었지만, 실상 그의 정체는 "
-"벤하스라스 집행자였을 가능성이 높다."
+"두려움에 떨게 했다고 전해진다. 그는 백 명이 넘는 처치 횟수를 기록하며 여성 쿠나리 전사의 전설이 되었지만, 실상 그의 정체는 벤-"
+"하스라트 집행자였을 가능성이 높다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Rogue\Bows\equip_bow_t2_15_unique.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -21160,7 +21156,7 @@ msgstr "기사단장의 장궁"
 msgctxt "0x00042e91"
 msgid "The Anderfels' \"Green Men\" warriors began with a hunter of the Merdaine: Grunsmann, who famously saved the people of Hossberg from starvation by crossing darkspawn lines in the First Blight. The order begun in his name leads caravans though the dangerous Wandering Hills to the distant port of Laysh and comprise the best marksmen in Thedas."
 msgstr ""
-"앤더펄스의 \"녹의단\" 전사들의 시조는 머데인의 사냥꾼, 그런즈맨이다. 그는 첫 번째 대재앙 당시 어둠의 피조물 전선을 넘어 호스버그 "
+"앤더펄스의 \"녹의단\" 전사들의 시조는 머데인의 사냥꾼, 그런즈맨이다. 그는 첫 번째 대재앙 당시 암흑피조물 전선을 넘어 호스버그 "
 "주민들을 굶주림으로부터 구한 것으로 명망이 높다. 그의 이름을 따라 창립된 녹의단은 테다스 최고의 명사수로 구성되어 있으며, 위험천만한 "
 "굽은구릉을 넘어 머나먼 레이슈의 항구로 대상단을 인도한다."
 
@@ -21203,7 +21199,7 @@ msgctxt "0x00044091"
 msgid "Named for an old Imperium fable that reflects a nation's fears of Tranquility. Ehrie Naius claimed to be a healer. Too late, her victims learned the hate behind her meaning: her father dead to magisters, her lands forfeit. Her singsong taunt frightens Tevinter children to this day: \"So much pressure, so much sickness. It's your thinking, too much quickness. Harrowed arrows stop your dreaming. Outside smiling, inside screaming.\""
 msgstr ""
 "이 활의 이름은 테빈터 제국의 옛 우화에서 비롯되었다. 제국민들이 안식화에 갖는 두려움이 반영된 이 이야기의 주인공, 이리 나이우스는 "
-"자신을 치유사라 칭했다. 그러나 그 희생양들은 그 말뜻에 숨은 증오를 뒤늦게야 알아챘으니, 그녀에게는 아버지가 마지스터들에게 살해달하고 "
+"자신을 치유사라 칭했다. 그러나 그 희생양들은 그 말뜻에 숨은 증오를 뒤늦게야 알아챘으니, 그녀에게는 아버지가 매지스터들에게 살해달하고 "
 "토지를 몰수당한 이력이 있었던 것이다. \"머리가 너무 무겁지, 머리가 너무 아프지. 다 생각이 많아서 그렇단다, 너무너무 잽싸서 "
 "그렇단다. 빼앗은 화살로 꿈을 멈춰줄 테니. 겉으론 웃고 속에서 비명을 지르려무나.\" 그의 도발적인 노래는 오늘날까지도 테빈터 제국의 "
 "아이들을 겁에 질리게 만든다."
@@ -21304,7 +21300,7 @@ msgstr "보순의 칼날"
 msgctxt "0x0004b1f7"
 msgid "Raiders of the Waking Sea tell many tales about the ill-fated crew of the ship Lady Lenore. The captain fell prey to a demon, and the Lady disappeared with all hands—save one. The bosun, known far and wide as the most cowardly soul ever to sail, leapt into the sea just moments before the Lady sank. A year and a day after he'd fled, the bosun vanished, leaving nothing behind but a lingering stink of fear. The Lady would have no deserters."
 msgstr ""
-"일깨우는 바다의 해적들은 비참한 말로를 맞은 르노어 부인 호의 선원들에 대한 이야기를 자주 한다. 선장은 악마의 희생양이 되었고 배는 전 "
+"일깨우는 바다의 해적은 비참한 말로를 맞은 르노어 부인 호의 선원들에 대한 이야기를 자주 한다. 선장은 악마의 희생양이 되었고 배는 전 "
 "선원과 함께 사라졌다고 한다—단 한 사람, 보순을 제외하고. 세상천지 뱃사람 중에 가장 겁이 많은 것으로 유명했던 보순은 르노어 부인 "
 "호가 침몰하기 직전 바다로 뛰어들었다. 그렇게 도망친 이후 일년 하고도 하루가 지난 어느 날, 보순은 무엇 하나 남기지 않고 사라져 "
 "버리고 말았드. 그 빈 자리엔 공포스런 낌새만이 느껴졌으니, 르노어 부인은 탈주자를 용서치 않은 것이다."
@@ -21346,13 +21342,12 @@ msgstr ""
 #. FILE: DA3\Equipment\Items\Weapons\Rogue\Daggers\dlcblue_equip_dualdagger_the20_weaponchain.xml
 #. PATH: EquipItemAsset/Description
 #: DA3\Equipment\Items\Weapons\Rogue\Daggers\dlcblue_equip_dualdagger_the20_weaponchain.xml:11
-#, fuzzy
 msgctxt "0x0004b1f9"
 msgid "The Queen of the Eastern Seas has dueled a great many fools in her day. The seaside markets of the Amaranthine Coast all the way up to Rialto Bay carry any number of knives rumored to be pulled from the ribs of a raider, smuggler, or even Talon of the Crows. To have once left the hand of a notorious raider captain is a magic worth more than all the enchantments of the Formari combined."
 msgstr ""
-"남해의 여왕은 수많은 멍청이들과 오랫동안 싸워왔다. 리알토 해안까지 이어진 아마란틴 해안의 시장에는 약탈자, 밀수꾼 또는 까마귀의 "
-"갈귀발톱들의 갈비뼈에서 뽑혀나왔다는 소문이 있는 칼들이 있다. 포마리의 모든 마법들보다 가치 있는 그 마법은 악명높은 약탈자 대장의 손을 "
-"떠났다."
+"남해의 여왕은 수많은 멍청한 이들과 오랫동안 결투해 왔다. 리알토 해안까지 이어진 아마란틴 해안의 시장에는 약탈자, 밀수꾼 또는 까마귀 "
+"발톱단의 갈비뼈로 만들었다는 소문이 도는 칼들이 있다. 포마리의 마법보다도 가치 있는 그 마법같은 칼은 악명높은 약탈자 대장의 손을 "
+"떠났다고 전해진다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Rogue\Daggers\equip_BE_Dagger_1a.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -21370,9 +21365,9 @@ msgid ""
 "mage and his new wife as they slept, taking her revenge and her freedom in one night."
 msgstr ""
 "테빈터 제국의 전성기, 민라투스에는 오로라라는 알라마리 혈통의 여인이 살고 있었다. 노예 출신인 그는 강력한 마법사의 소유가 되었으며, "
-"마법사는 오로라의 아름다움과 지성에 매혹되었다. 두 사람은 끝내 서로를 사랑하게 되었고, 마법사는 매지스티리움의 관직을 얻으면 오로라에게 "
+"마법사는 오로라의 아름다움과 지성에 매혹되었다. 두 사람은 끝내 서로를 사랑하게 되었고, 마법사는 매지스테리움의 관직을 얻으면 오로라에게 "
 "자유를 주고 그와 결혼하겠노라고 약속했다. 오로라는 그를 믿고 수 년간 그의 모든 시중을 들면서 기다렸지만, 마법사가 마침내 탐내던 "
-"벼슬자리를 얻었을 때 그는 오로라와의 약속을 지키지 않고 동료이던 알투스 계위 마지스터와 혼인했다. 오로라는 마법사의 신부에게 선물로 "
+"벼슬자리를 얻었을 때 그는 오로라와의 약속을 지키지 않고 동료이던 알투스 계위 매지스터와 혼인했다. 오로라는 마법사의 신부에게 선물로 "
 "보내져 혼례식 날 신부의 시중을 들라는 분부를 받았고, 실연의 아픔에 사무친 오로라는 그날 밤 스스로 목숨을 끊기로 결심했다. 마법사가 "
 "부리던 경호대의 대장은 그들의 속사정을 낱낱이 알고 있었으며, 자신이 섬기는 마법사가 아닌 오로라를 동정했다. 경호대장은 잔인한 기만자인 "
 "마법사야말로 죽어 마땅하다고 오로라를 설득했고, 정신을 멍하게 해 마법 구사를 불가능하게 만드는 마법이 걸린 단검을 오로라에게 건넸다. "
@@ -21964,7 +21959,7 @@ msgstr ""
 #: DA3\Equipment\Items\Weapons\Rogue\Daggers\equip_dagger_t3_6_rare.xml:6
 msgctxt "0x00020303"
 msgid "Darkspawn Sickle"
-msgstr "어둠의 피조물 낫"
+msgstr "암흑피조물 낫"
 
 #. FILE: DA3\Equipment\Items\Weapons\Rogue\Daggers\equip_dagger_t3_8.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22088,7 +22083,7 @@ msgstr "스텐 전투도끼"
 #: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Greataxes\equip_greataxe_t2_3_rare.xml:6
 msgctxt "0x0001f727"
 msgid "Darkspawn Alpha Greataxe"
-msgstr "어둠의 피조물 우두머리 거대 도끼"
+msgstr "암흑피조물 우두머리 거대 도끼"
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Greataxes\equip_greataxe_t2_4_rare.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22141,7 +22136,7 @@ msgstr "빛나는 다르말론"
 msgctxt "0x00042b9f"
 msgid "The dwarven thaig Darmallon was one of Thedas's greatest sources of gold. This axe predates the thaig's loss to the darkspawn, and from flecks on the hilt, the blade was once coated in gold."
 msgstr ""
-"드워프의 다르맬런 타이그는 테다스의 가장 큰 금광 중 하나였다. 이 도끼는 어둠의 피조물의 공격에 다르맬런 타이그를 잃기 전에 만들어진 "
+"드워프의 다르맬런 타이그는 테다스의 가장 큰 금광 중 하나였다. 이 도끼는 암흑피조물의 공격에 다르맬런 타이그를 잃기 전에 만들어진 "
 "것으로, 자루 부분의 얼룩으로 보건대 한때 그 칼날에는 금박이 씌워졌던 것으로 보인다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Greataxes\equip_greataxe_t3_1.xml
@@ -22219,18 +22214,20 @@ msgstr "선더랜드의 질타"
 msgctxt "0x00044156"
 msgid "Forged both well and true, though as far as it has traveled, it has never truly left the will of its master. An axe that demands an accounting, the approval of some faraway smithy granted or rebuked with every swing."
 msgstr ""
+"훌륭하고 진실되게 벼려내어서 멀리 여행을 떠나도 절대 주인의 뜻을 저버리지 않는다. 도끼에게 요구되는 것은 장부와 휘두를 때 마다 멀리 "
+"떨어진 대장간에서 부여한 인증 혹은 질타다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Greatswords\dlcblue_equip_staff_the20_swordstaff.xml
 #. PATH: EquipItemAsset/Description
 #: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Greatswords\dlcblue_equip_staff_the20_swordstaff.xml:11
-#, fuzzy
 msgctxt "0x0004acf2"
 msgid "Archon Tidarion was of indisputably low birth. He learned swordplay and tactics at his legate father's knee before his magical talent drew attention and Archon Almadrius took him as an apprentice. When Tidarion inherited the throne, the magisters declared him unfit to rule: a soldier's son, with no Dreamer blood to speak of. In the civil war that followed, Tidarion took to the field himself, fighting with a blade like a commoner and casting spells as only an Archon could. He carved and burned a brutal path across Tevinter before he died on the battlefield, sword in hand."
 msgstr ""
-"집정관 티다리온은 비천한 태생이었다. 그의 마법재능에 이끌린 집정관 알마드리우스가 그를 제자로 데려가기 전까지 그는 양아버지에게 검술과 "
-"전략을 배웠다. 티다리온이 집정관 직위를 물려받았을 때, 마법사들은 그는 군인의 아들에 불과하며, 꿈꾸는 자의 혈통도 물려받지 못했기 "
-"때문에 통치자로서 적합하지 않다고 주장했다. 이어진 내전에서 티다리온은 직접 전장에 나가 평민들처럼 검을 휘두르고 집정관만이 사용할 수 "
-"있는 마법 주문을 시전하며 싸웠다. 그는 전쟁속에서 테빈터 제국까지 이르는 죽음의 길을 만들었으며, 죽을 때조차 검을 놓지 않았다."
+"집정관 티다리온은 비천한 태생이었다. 그는 양아버지에게 검술과 전략을 배웠는데, 이후 그의 마법적 재능에 이끌린 집정관 알마드리우스가 "
+"그를 제자로 데려갔다. 티다리온이 집정관 직위를 물려받게 되자, 마법사들은 그는 군인의 아들에 불과하며 꿈꾸는 자의 혈통도 물려받지 "
+"못했기 때문에 통치자로서 적합하지 않다고 주장했다. 그러나 티다리온은 이어진 내전에서 직접 전장에 나가 평민들처럼 검을 휘두르고, "
+"집정관만이 사용할 수 있는 마법을 시전하며 싸웠다. 그는 전쟁속에서 테빈터 제국까지 이르는 죽음의 길을 만들었으며, 죽을 때조차도 검을 "
+"놓지 않았다고 한다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Greatswords\dlcblue_equip_sword_the20_evileye.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22245,6 +22242,10 @@ msgstr "조여오는 아귀"
 msgctxt "0x0004b2d9"
 msgid "\"Whatever made this weapon, its flesh appears to be {i}alive{/i}. It could be an abomination's blood magic, a spirit twisted into physical form, or some other affront to the Maker. It unleashes—I don't know what to call it—an {i}energy{/i} that tangles foes together. The power thrills right up your arm. I'd cast it back into that cave I found it in if the thing weren't so... useful.\" —Final entry in an anonymous journal"
 msgstr ""
+"\"누가 이 무기를 만들었는지는 모르겠지만, 이 살점은 {i}살아 있는{/i} 것 같다. 흉물의 혈마법일 수도 있고, 영혼이 물리적 "
+"형체로 뒤틀린 것일 수도 있고, 창조주에 대한 또 다른 모욕일 수도 있겠지. 이 무기는 적을 한데 엉키게 하는 {i}힘{/i}을 —뭐라고 "
+"불러야 할 지는 모르겠지만— 방출한다. 이 힘은 내 팔을 타고 오른다. 마음 같아서는 이걸 원래 발견했던 동굴에 다시 던져넣고 싶다. 이 "
+"무기가 이렇게... 유용하지 않았다면 말이다.\" —익명의 일지의 마지막 항목"
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Greatswords\dlcblue_equip_sword_the20_prismatic.xml
 #. PATH: EquipItemAsset/Description
@@ -22252,6 +22253,8 @@ msgstr ""
 msgctxt "0x0004b2d5"
 msgid "This greatsword pulses with shifting energy that adds a devastating elemental effect, chosen at random, to each blow. The crafting style is ancient elven, forged before their empire fell. Inside a gem on the hilt is a highly detailed carving of a hawk snatching up a hare."
 msgstr ""
+"이 대검은 변화하는 힘과 함께 고동치며, 매 번의 타격마다 무작위로 선택된 파괴적인 원소의 힘이 더해진다. 제작 양식은 고대 엘프의 "
+"것이고, 제국이 멸망하기 전에 제련되었다. 자루에 박힌 보석 속에는 토끼를 낚아채는 매의 모습이 세밀하게 새겨져 있다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Greatswords\dlcblue_equip_sword_the20_warcry.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22266,6 +22269,11 @@ msgstr "슬기자락"
 msgctxt "0x0004b1ef"
 msgid "Countess Helmine of Sundarin in the Anderfels had flayed scores of opponents verbally (and one or two physically) before Baroness Liese of Kassel made her debut at King Johann the Great's court. Instantly jealous, Liese spent wagonloads of coin to train in elocution, rhetoric, and satire—and still fell to the countess's figurative sword. So she poured her fortune into crafting a weapon that could get a word in where wit had failed. After a second meeting where first verbal and then metal ripostes flew before the astonished court, Helmine was impressed with the baroness's tenacity. They became fast friends, although they never did talk much."
 msgstr ""
+"카셀의 리제 남작부인이 요한 대왕의 궁정에 처음으로 등장하기 전, 앤더펄스의 선다린 백작부인 헬미네는 여러 명의 반대자들을 언어적으로 ("
+"그리고 한 두명 정도는 신체적으로) 골탕먹이곤 했다. 즉시 질투심에 사로잡힌 리제는 금화를 수레째 쏟아 부으며 온갖 발성법과 미사여구, "
+"풍자법을 훈련했지만, 여전히 백작부인의 비유적인 칼날에 당하기 일쑤였다. 그래서 그녀는 재치가 먹히지 않을 때 말을 이어갈 수 있는 "
+"무기를 만드는 데 재산을 쏟아부었다. 둘의 두 번째 만남에서 리제는 강철과도 같은 응수를 날리며 사람들을 놀라게 했고, 헬미네는 "
+"남작부인의 집념에 깊은 인상을 받았다. 그 둘은 비록 많은 이야기를 나누지는 않았지만, 곧 친구가 되었다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Greatswords\equip_greatsword_mp_dragon.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22314,7 +22322,7 @@ msgstr "헤이더의 날"
 #: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Greatswords\equip_greatsword_t2_2_rare.xml:6
 msgctxt "0x0001f751"
 msgid "Knight-Enchanter Greatsword"
-msgstr "마검사 대검"
+msgstr "기사마도사 대검"
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Greatswords\equip_greatsword_t2_3_rare.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22364,6 +22372,9 @@ msgstr "최종판결"
 msgctxt "0x00042d3d"
 msgid "This blade was at every execution in the reign of Antivan King Guiomar the Younger, who personally decapitated those he decreed guilty, claiming a Maker-granted right as judge and executioner. When the Antivan Crows' Callisto di Bastion killed him, the sword was on display until stolen by an unknown party."
 msgstr ""
+"이 검은 안티바의 젊은 왕 기오마르 치하의 모든 사형 집행에 쓰였다. 그는 유죄를 선고받은 모든 사람을 직접 참수하여 죽였고, 재판관이자 "
+"사형집행인이 되어 창조주가 하사한 권리를 주장하기도 했다. 안티바의 까마귀단 칼리스토 디 바스티온이 그를 암살한 후, 이 검은 계속 "
+"전시되어 있다가 정체불명의 일당들에게 도난당했다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Greatswords\equip_greatsword_t2_9_unique.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22378,6 +22389,9 @@ msgstr "랜도르의 검"
 msgctxt "0x00042d23"
 msgid "King Venedrin Theirin offered Rendor knighthood numerous times for \"service to the Fereldan throne.\" Historians believe Rendor was an adventurer or mercenary regularly hired to ambush Orlesian patrols trying to bypass the Frostback Mountains or make overtures to enemies among the Avvar—thus his nickname, \"the Mountain Terror.\""
 msgstr ""
+"베네드린 테이린 국왕은 렌도르에게 \"페렐던 왕조에 대한 헌신\"을 명목으로 여러 차례 기사 작위를 수여했다. 역사가들은 렌도르가 "
+"서리등선 산맥을 우회하는 올레이 순찰대를 습격하거나 아바르의 적에게 접근하기 위해 정기적으로 고용되었던 모험가 혹은 용병이었며, 그래서 "
+"그의 별명이 \"산의 공포\"였던 것이라 믿고 있다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Greatswords\equip_greatsword_t3_1.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22399,6 +22413,8 @@ msgstr "발로-카스 이스"
 msgctxt "0x000422cb"
 msgid "\"Sulevin\" is elven for \"purpose.\" For the Dalish, that purpose is finding a new homeland. Keepers collect ancient lore and use it to create the weapons for a future war: to conquer a homeland or to defend it."
 msgstr ""
+"\"술레빈\"은 엘프어로 \"목적\"이라는 뜻이다. 데일스 엘프들의 목적은 바로 고향 땅을 찾는 것이다. 수호자들은 고향 땅을 정복하거나 "
+"방어하기 위한 전쟁에 대비하고자 고대의 지식들을 모아 그것들을 무기로 만들고는 한다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Greatswords\equip_greatsword_t3_5_rare.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22413,6 +22429,8 @@ msgstr "별송곳니"
 msgctxt "0x00044718"
 msgid "The stoic blacksmith, Mikhael Dryden, crafted this peerless weapon out of a metal that fell from the heavens. The world has never seen its like, nor ever will again."
 msgstr ""
+"엄격한 대장장이였던 미카엘 드라이덴은 어느 날 하늘에서 떨어진 금속으로 이 뛰어난 무기를 제작했다. 이런 무기는 여태까지 존재한 적이 "
+"없었으며, 앞으로도 그럴 것이다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Greatswords\equip_greatsword_t3_6.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22441,6 +22459,10 @@ msgstr "확신"
 msgctxt "0x000446b8"
 msgid "A sword of deepest corruption and conviction, it cannot be the red lyrium blade that drove Kirkwall's Knight-Commander Meredith to madness. It cannot have been reborn in arcane energies somehow elven and Tevinter and Blight intertwined. And it cannot have inspired in the name of a magister who once entered heaven and would dare so again. One wonders what this sword cannot be next, in the hands of {spHeroName} {spHeroLastName}, if {shehe} is not careful."
 msgstr ""
+"가장 깊은 타락과 신념의 검, 이 검이 커크월의 기사단장 메레디스를 광기로 몰고 간 붉은 리륨 검일 리가 없다. 이 검이 엘프와 테빈터와 "
+"대재앙이 서로 뒤엉킨 비전의 힘 속에서 재탄생했을 리도 없다. 그리고 이것이 한 때 천국에 들어갔으며 감히 또 한 번 그러려 하는 "
+"마법사의 이름에 영감을 주었을 리는 더더욱 없다. 한 가지 궁금한 것은, 이것이 만약 {spHeroName} {spHeroLastName}"
+"의 손에 넘어간다면, 그리고 {shehe}가 조심하지 않는다면, 다음에는 이 검이 또 무엇을 할 수 없게 될까 하는 것이다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\dlcblue_equip_maul_the20_attackchain.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22478,34 +22500,34 @@ msgid ""
 "\n"
 "They wander still, so the Avvar say. Though they found the daughters' great hammer and blade, no sign of the warriors themselves was ever discovered, save an occasional echo of dispute heard far off in the mountains.\n"
 msgstr ""
-"옛 아바르 전설에 따르면, 어떤 영주에게는 모든 것에 대해 끊임없이 말다툼하는 두 딸이자 위대한 전사가 있었다. 그녀들은 한사람이 비가 "
+"옛 아바르 전설에 따르면, 어떤 영주에게는 모든 것에 대해 끊임없이 말다툼하는 두 딸이자 위대한 전사가 있었다. 그녀들은 한 사람이 비가 "
 "올 것이라고 말하면 다른 한 명은 가뭄이 올 것이라고 말다툼을 하거나, 과연 산이 솟아오른 것인지 하늘이 가라앉은 것인지에 대한 말다툼을 "
 "하기도 했다. 그녀들의 말다툼은 끝이 없었고, 종종 싸움으로 번지기도 했다.\n"
 "\n"
-"잠시의 평화를 위해, 어느날 영주는 영지 주위를 배회하는 와이번들을 처리를 위해 두 딸을 보내면서 서로 와이번이 죽었다고 의견이 일치하기 "
-"전까지는 돌아오지 말라고 말하였다. 두 딸은 그 말을 듣고 거대한 망치와 양손 검을 각자 들고 와이번을 죽이기 위해 깊은 숲속으로 "
-"향하였다.\n"
+"잠시의 평화를 위해, 어느 날 영주는 영지 주위를 배회하는 와이번들을 처리하기 위해 두 딸을 보내면서 서로 와이번이 죽었다고 의견이 "
+"일치하기 전까지는 돌아오지 말라고 말하였다. 두 딸은 그 말을 듣고 거대한 망치와 양손 검을 각자 들고 와이번을 죽이기 위해 깊은 숲 "
+"속으로 향하였다.\n"
 "\n"
-"나뭇잎의 색깔이나 땅의 각도와 같은 의미 없는 것들을 논쟁하며 오랫동안 숲속에서 헤매던 그녀들은 어디서, 그리고 무엇을 위해 숲 속에 "
+"나뭇잎의 색깔이나 땅의 각도와 같은 의미 없는 것들을 논쟁하며 오랫동안 숲 속에서 헤매던 그녀들은 어디서, 그리고 무엇을 위해 숲 속에 "
 "왔는지 잊어버리게 되었다. 그녀들의 말다툼은 우연히 와이번들을 쫓아냈지만, 그녀들은 왜 이곳으로 사냥하러 왔는지 잊어버렸기 때문에 서로 "
 "사냥을 멈출 것을 협의하지 못하고 사냥을 계속 이어나갔다.\n"
 "\n"
-"그녀들은 여전히 헤매고 있다고 아바르는 말하였다.  그녀들의 무기를 제외하고는 그 어떠한 흔적도 찾을 수 없었으며, 그저 가끔씩 산 "
-"깊숙한 곳에서 그녀들이 말다툼하는 메아리가 들려오곤 한다고 말했다.\n"
+"그녀들은 여전히 헤매고 있다고 아바르는 말하였다. 그녀들의 무기를 제외하고는 그 어떠한 흔적도 찾을 수 없었으며, 그저 가끔씩 산 깊숙한 "
+"곳에서 그녀들이 말다툼하는 메아리가 들려오곤 한다고 말했다.\n"
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_maul_mp_dragon.xml
 #. PATH: EquipItemAsset/DisplayName
 #: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_maul_mp_dragon.xml:6
 msgctxt "0x0004032e"
 msgid "Maul of the Dragon"
-msgstr "드래곤의 도끼"
+msgstr "용의 도끼"
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_maul_spoon.xml
 #. PATH: EquipItemAsset/DisplayName
 #: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_maul_spoon.xml:6
 msgctxt "0x00043d97"
 msgid "The Boon of the Spoon"
-msgstr ""
+msgstr "숟가락의 은혜"
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_maul_spoon.xml
 #. PATH: EquipItemAsset/Description
@@ -22519,6 +22541,12 @@ msgid ""
 "\n"
 "\"What did Mama say about rhyming? Mama said you'd get the spoon!\""
 msgstr ""
+"이것은 한 광인이 룬으로 깎은 숟가락이라네.\n"
+"\"난 무적이야,\" 그는 흥얼거렸네, 축하하기에는 너무 일렀는데도.\n"
+"그는 운명이 너무나 하찮다고 생각하며, 비난하고 비웃고는 했네.\n"
+"쿤보다도 엄격한 자가 입을 떼자, 이 장인은 한갓 바보가 되었다네:\n"
+"\n"
+"\"자꾸 운율 맞추면 엄마가 어떻게 한다고 했지? 그러면 숟가락으로 맞는다고 했지!\""
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_maul_t1_1.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22553,7 +22581,7 @@ msgstr "드워프 바위분쇄자"
 #: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_maul_t2_2_rare.xml:6
 msgctxt "0x0001fb95"
 msgid "Merkel's First"
-msgstr ""
+msgstr "메르켈의 첫경험"
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_maul_t2_3_rare.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22567,7 +22595,7 @@ msgstr "심판자"
 #: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_maul_t2_4_rare.xml:6
 msgctxt "0x0001fb91"
 msgid "The Whale"
-msgstr ""
+msgstr "고래"
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_maul_t2_5.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22581,12 +22609,11 @@ msgstr "뛰어난 드워프 바위분쇄자"
 #: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_maul_t2_6.xml:6
 msgctxt "0x0001fb8c"
 msgid "Legion of the Dead Maul"
-msgstr "죽은 도끼들의 군단"
+msgstr "망자의 군단 대망치"
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_maul_t2_7_unique.xml
 #. PATH: EquipItemAsset/DisplayName
 #: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_maul_t2_7_unique.xml:6
-#, fuzzy
 msgctxt "0x0004255b"
 msgid "The Last Stand"
 msgstr "최후의 저항"
@@ -22597,6 +22624,9 @@ msgstr "최후의 저항"
 msgctxt "0x00042b9e"
 msgid "This maul reportedly made the difference in Hossberg's survival of a darkspawn siege in the Third Blight. To this day, paintings in the Anderfels depict Lord Ansel atop the city's Black Tower, lofting the maul defiantly. However, while Hossberg did force the horde into retreat, Grey Wardens entering the city found only chaos and no Ansel."
 msgstr ""
+"이 대망치는 3차 대재앙 시절 암흑피조물 공성전 때 호스버그가 살아남는 차이를 만들어낸 물건이라 전해진다. 오늘날까지, 앤더펄스의 그림은 "
+"도시의 검은 탑 꼭대기에 군림한 안셀 경을 대망치를 고결하게 들여 올린 모습으로 그려낸다. 하지만 호스버그가 적들을 몰아내는 동안, 회색 "
+"감시자가 도시에 들어서고 안셀은 간데없이 도시에는 혼란만 남았다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_maul_t3_1_rare.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22656,7 +22686,7 @@ msgstr "어둠의 부름"
 msgctxt "0x00042e52"
 msgid "\"Lusacan, the Dragon of Night, calls to you. He lives where it is darkest and waits for the day he will rise. Drink of his blood and know the power in darkness: either fear the Night or wield it.\""
 msgstr ""
-"“밤의 드래곤인 루사칸이 당신을 부르고 있습니다. 그는 가장 어두운 곳에서 살고 있으며, 언가 자신이 어둠에서 올라올 날만을 기다리고 "
+"“밤의 용인 루사칸이 당신을 부르고 있습니다. 그는 가장 어두운 곳에서 살고 있으며, 언가 자신이 어둠에서 올라올 날만을 기다리고 "
 "있습니다. 그의 피를 마시고 어둠의 힘을 깨달으십시오. 선택은 두가지밖에 없습니다. 밤을 두려워하거나, 밤의 힘을 취하거나.”"
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Axes\dlcblue_equip_axe_the20_chivalry.xml
@@ -22820,6 +22850,8 @@ msgstr "달도끼"
 msgctxt "0x000422ea"
 msgid "The inscription at the axe blade's base reads \"Karolis\": the famous bounty hunter and friend to Lord Remi Vascal, the Black Fox. It's unknown why he surrendered his beloved axe, which was a gift from his dead Antivan wife and reportedly came from across the eastern ocean."
 msgstr ""
+"도끼날에 유명한 현상금 사냥꾼이자 흑여우 레미 바스칼 경의 친구인 \"카롤리스\"가 새겨져 있다. 전해지기로는 동쪽 바다 건너온 도끼를 "
+"사별한 안티바의 부인이 선물했는데, 애용하던 도끼를 버린 이유는 알려지지 않았다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Axes\equip_axe_t3_3.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22862,6 +22894,10 @@ msgstr "늪지인의 노래"
 msgctxt "0x00042e8d"
 msgid "Briefly during the Glory Age, the Nahashin Marshes were a kingdom under Lord Roux Marchette, who declared that Val Royeaux rule—always tentative at best—was over. While Orlais warred with the elves, the marshes were left alone, but once attention turned to putting down the rebellion, forays were hard-put to even find their opponents. \"King Roux\" is a legend among the marshfolk, who portray him wielding a mighty axe against an Orlesian knight."
 msgstr ""
+"영광의 시대, 나하신 늪지대는 짧은 기간 루 마셰트 경이 다스리는 왕국이 되었던 적이 있다. 마셰트 경은 발 르와이요는 늪지대를 확실히 "
+"장악한 적이 없었다며 그 치세가 끝났다 천명했고, 엘프와 전쟁을 벌이던 올레이는 늪지대에 눈길을 돌릴 틈이 없었다. 그러나 반역을 진압할 "
+"순간이 되자 무자비한 급습이 가해졌고, 마셰트 경으ㅏ 세력은 흔적조차 찾을 수 없게 되었다. \"루 대왕\"은 늪지대 주민들 사이에서는 "
+"전설적인 존재로 여겨지며, 흔히 올레이 기사들에 맞서 막강한 도끼를 휘두르는 모습으로 묘사된다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Maces\dlcblue_equip_mace_the20_beehive.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22969,6 +23005,9 @@ msgstr "비다티스"
 msgctxt "0x00042b97"
 msgid "A Qunari weapon carried by Vidathiss, a well-known \"re-educator\" in the New Exalted Marches, who was said to crush the heads of captured knights—though this claim has never been proven. She died in the Battle of Afsaana in 7:75 Storm, her mace claimed by the Orlesian knight who killed her."
 msgstr ""
+"신 숭고한 거병 당시 이름을 떨쳤던 \"재교육자\" 비다티스가 사용했던 쿠나리 무기다. 그는 이 무기로 포로가 된 기사들의 머리를 "
+"박살냈다고 전해지나, 사실로 확인된 바는 없다. 비다티스는 폭풍의 시대 7:75년 벌어진 아프사아나 전투에서 죽음을 맞았고, 둔기는 그 "
+"목숨을 빼앗은 올레이 기사의 소유가 되었다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Maces\equip_mace_t2_8_unique.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22983,6 +23022,8 @@ msgstr "영혼입맞춤"
 msgctxt "0x00042b98"
 msgid "Inscribed on the hilt in Antivan script: \"I shall kiss my foes' souls, all the better to draw them into my embrace. Leave me your darkness, and I shall give you my light.\""
 msgstr ""
+"자루에 안티바식 필기체로 문구가 각인되어 있다. \"내 적의 혼에 입맞춤하리, 그들을 내 품에 안으리. 내게 그대 어둠을 주면 나의 빛을 "
+"전하리라.\""
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Maces\equip_mace_t3_1.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -22996,7 +23037,7 @@ msgstr "성기사단 철퇴"
 #: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Maces\equip_mace_t3_2_unique.xml:6
 msgctxt "0x0001bc85"
 msgid "Fist of the Magister"
-msgstr "마지스터의 주먹"
+msgstr "매지스터의 주먹"
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Maces\equip_mace_t3_2_unique.xml
 #. PATH: EquipItemAsset/Description
@@ -23004,6 +23045,8 @@ msgstr "마지스터의 주먹"
 msgctxt "0x000422dd"
 msgid "Humming with a dark power, this weapon was forged from a metal unused since the old Tevinter Imperium—primarily because it renders smiths unconscious unless they know how to properly handle it, and none do."
 msgstr ""
+"어둠의 힘이 흐르는 이 무기는 고대 테빈터 제국 이래로 사용되지 않는 금속으로 제작되었다. 금속을 제대로 다루지 못하면 대장장이가 "
+"기절하기 때문인데, 누구도 그 방법을 모르기 때문이다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Maces\equip_mace_t3_3.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23039,13 +23082,15 @@ msgstr "낙뢰"
 msgctxt "0x00042d5d"
 msgid "Inscribed on the hilt: \"For thy heart, which has wronged me.\" This weapon of vengeance is strongest against an enemy beyond its wielder's power—according to the Alamarri legends that give it to the Avvar chieftain, Morrighan'nan."
 msgstr ""
+"자루에는 \"나를 모욕한 네 심장에\" 라는 글귀가 각인되어 있다. 알라마리 전설에 의하면, 아바르 부족장 모리간난이 사용한 이 복수의 "
+"무기는 자신을 능가하는 적을 상대할 때 가장 강력하다고 한다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Maces\equip_mace_t3_8_unique.xml
 #. PATH: EquipItemAsset/DisplayName
 #: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Maces\equip_mace_t3_8_unique.xml:6
 msgctxt "0x00044159"
 msgid "The Jade Ham"
-msgstr "경옥 햄"
+msgstr "비취 햄"
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Maces\equip_mace_t3_8_unique.xml
 #. PATH: EquipItemAsset/Description
@@ -23053,6 +23098,10 @@ msgstr "경옥 햄"
 msgctxt "0x00044158"
 msgid "While you are beset by a bric-a-brac whirlwind of deaths and a wounded sky, here is something unusual fit for a so-gracious few. The Jade Ham, honeyed well with wild flower (the dawn's are radiant generally, but better still if you hew the lowest blossom), and possessed of a spurious mingling of seasoning masterly planned. The result hits hard, a litany to harangue the mad as the enemy's ilk flocks to their sunken fates. Spiral-cut, of course."
 msgstr ""
+"잇따른 죽음과 찢어진 하늘 때문에 지긋지긋하게 시달리는 와중에도 품위를 지키는, 당신같은 이에게 딱 어울리는 이례적인 물건이다. 비취 "
+"햄. 야생화 꿀에 절이고(막 피기 시작한 것들은 보통 방사형으로 자라지만 아래쪽 꽃을 잘라 쓰면 괜찮다), 걸출한 양념의 향취를 한껏 "
+"품게 한 결과 그 위력이 미친 듯한 장광설로도 다 묘사할 수 없을 만큼 매서워 적 무리를 심연으로 가라앉힐 수 있을 만한 무기가 "
+"탄생했다. 나선형으로 잘라냈음은 물론이다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\dlcblue_equip_shield_the20_counterstrike.xml
 #. PATH: EquipItemAsset/Description
@@ -23060,6 +23109,10 @@ msgstr ""
 msgctxt "0x0004b1f6"
 msgid "The shape of this shield suggests a Marcher origin, and the style was one common to knights and nobles along the Amaranthine Coast during the Black Age. Its heraldry is curiously absent, and the faintest shimmer of lyrium proves the Formari had a hand in its forging. The outer face is scarred from blows beyond counting, but the inside is perfectly smooth except near the center, where \"I'm sorry\" is etched in small letters."
 msgstr ""
+"형태로 추측컨대 자유 동맹에서 만들어진 방패다. 검은 교황의 시대에 아마란틴 해안 지역의 기사와 귀족 사이에 유행했던 기법으로 "
+"제작되었다. 문장이 그려져 있어야 할 곳은 의아하게도 비어 있으며, 아주 희미하게 리륨의 빛이 나는 것으로 보아 포마리가 제작에 관여한 "
+"것이 분명하다. 바깥 면은 무수한 타격으로 심하게 긁혀 있지만 안쪽 면은 가운데 부분을 제외하면 완벽하달 정도로 매끄럽다. 중심 부위에는 "
+"작은 글씨로 \"미안하다\"라는 글귀가 새겨져 있다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\dlcblue_equip_shield_the20_shieldsplosion.xml
 #. PATH: EquipItemAsset/Description
@@ -23067,6 +23120,8 @@ msgstr ""
 msgctxt "0x0004acbc"
 msgid "Stamped on the inside of this shield: \"Property of Xenon the Antiquarian. Absolutely not for resale! If found, return to urchin immediately.\""
 msgstr ""
+"방패 안쪽에 문구가 찍혀 있다. \"골동품 수집가 제논의 소유임. 재판매 절대 불가! 발견하신 경우 꼬마 녀석에게 즉시 돌려주시기 바람."
+"\""
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\dlcblue_equip_shield_the20_toxiccloud.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23098,6 +23153,10 @@ msgstr "영광의 길"
 msgctxt "0x00046454"
 msgid "This shield bears the marks of the great smiths of Halamshiral, from the second and last elven kingdom. The gentle curves and knots in its design were made to evoke the beauty of nature, of leaves and petals. Inscribed on the shield's inner lip is the elven phrase \"Suledin ghilana hanin.\" However, close inspection reveals inexpertly made scratches on the word \"Suledin,\" proving that the phrase originally read \"Sulevin ghilana hanin.\""
 msgstr ""
+"이 방패에는 두 번째이자 최후의 엘프 왕국, 할람시랄의 명인 대장장이의 징표가 찍혀 있다. 부드러운 곡선과 장식끈은 잎사귀와 꽃잎이 지닌 "
+"자연의 아름다움을 연상시키도록 설계되었다. 안쪽 끄트머리에는 \"Suledin ghilana hanin.\"이란 엘프어 문구가 새겨져 "
+"있다. 자세히 관찰하니, 각인 일부를 서툰 손길로 긁어내 억지로 \"Suledin\"이라는 단어로 바꾼 흔적이 보인다. 그렇다면 문구는 "
+"본래 \"Sulevin ghilana hanin.\"이었을 것이다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_mp2_shield_dragon_t4.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23112,6 +23171,9 @@ msgstr "용의 방패"
 msgctxt "0x00042e62"
 msgid "Egon Wintersbreath, one of history's greatest dwarven warriors, achieved Paragon status in his own lifetime, leading the defense of the Kingdom of Hormak during the First Blight until it fell in -35 Ancient. When word came that Orzammar would seal its passages from the other kingdoms, he dropped his hammer and left for the surface, grieving, \"I would rather die under an alien sky than be buried in the Stone that betrayed us.\""
 msgstr ""
+"역사상 가장 위대한 드워프 전사 중 하나인 이곤 윈터즈브레스는 첫 번째 대재앙 당시 호르마크 왕국을 사수했다. 기원전 35년, 왕국이 "
+"멸망할 때까지 방어군을 이끈 공로로 생전에 파라곤 지위를 획득한 그는 오자마르가 다른 왕국과 통하는 길을 봉쇄한다는 소식을 듣자 망치를 "
+"내려놓고, \"우리를 배반한 '돌' 사이 파묻하느니 낯선 하늘 아래서 죽겠다\"고 비통해하며 지상을 향해 떠났다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_patch8_shield_t2_17_unique_v2.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23126,6 +23188,9 @@ msgstr "성자의 방패"
 msgctxt "0x00042d27"
 msgid "Granted Anointed status by Divine Rosamund in 5:65 Exalted, Clothilde of Crechy was a warrior renowned for defending the innocent. Popularly depicted with a shaven head, Clothilde was often mistaken for a man and is most famous for not fighting but protesting the tyrannical Baron of Rosfort's taxes on the poor. She was arrested, but the Divine ordered her released before she could be executed."
 msgstr ""
+"숭고의 시대 5:65년, 로자먼드 교황에 의해 성인으로 추대된 크레쉬의 클로틸드는 무고한 이들을 지키는 것으로 널리 알려진 전사였다. "
+"주로 머리를 빡빡 민 모습으로 묘사되는 클로틸드는 종종 남성이라는 오해를 받았으며, 폭압적인 로스포르의 남작이 빈곤층에게 세금을 매긴 "
+"처사에 맞서 무력을 쓰지 않고 시위한 것으로 가장 유명하다. 클로틸드는 체포되었으나, 교황이 석방을 명함에 따라 처형을 면할 수 있었다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_shield_t1_1.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23185,6 +23250,11 @@ msgid ""
 "\"Whether stony plain or caged court, don't wait. Rely on the spurs. The big fundamental should push power forward. Fight the fight in front of you, until your better is best.\"\n"
 "A shield that sets an example, grounded not in extremes of alignment but in the perseverance that everyone who steps into battle must have."
 msgstr ""
+"끈질긴 북부의 용사를 위해 제작된 이 방패는 그 이름값을 하는 동시에, 이미 증명된 바 있는 그의 필승의 싸움법을 체현하고 있다.\n"
+"\"바위투성이 벌판에서건 갑갑한 궁정에서건, 기다리지 마라. 순간의 직감에 몸을 맡겨라. 가장 기본적인 원칙을 지킴으로서 힘을 밀어붙일 "
+"수 있다. 눈앞의 적에 집중하며 가장 강한 적수가 남을 때까지 싸워라.\"\n"
+"이 방패는 그 본보기와 같으며, 정합성에 집착하는 대신 악착스러움에 바탕을 두고 있다. 그야말로 싸움에 나서는 모든 이들이 지녀 마땅한 "
+"덕목이다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_shield_t2_1.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23241,6 +23311,10 @@ msgstr "기사단의 방패"
 msgctxt "0x00042e53"
 msgid "\"The Templar Order protects the innocents who wield magic and who suffer at its hands. No one can truly command magic, so how can we blame those who cannot control it? We must watch without judging, harness their power when it benefits us, and contain it when it does not. Our calling is to be the shield between the unnatural and the folly of man.\" —Knight-Commander Ilyas Berasa of Rivain, 8:61 Blessed"
 msgstr ""
+"\"성기사단은 마법을 지녀 그로 인해 고통받는 무고한 이들을 수호한다. 누구도 마법을 진정 통제할 수는 없는 것이니, 마법을 제어하지 "
+"못한다 하여 어찌 탓할 수 있겠는가? 우리는 판가름하지 않고 감독해야만 하며, 이로운 마법은 받아들이되 해악의 마법은 제압해야 한다. "
+"우리의 소명이란 부자연의 힘과 인간의 어리석음 사이에 서는 방패가 되는 것이로다.\"—축복의 시대 8:61, 리베인의 기사단장 일리아스 "
+"베라사"
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_shield_t2_16_unique.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23271,6 +23345,9 @@ msgstr "에스트워치 수호대"
 msgctxt "0x00042d37"
 msgid "Over the ages, Estwatch guards have defended their eastern outpost from both pirates and Qunari, and were defeated only once, by a massive Qunari invasion in 7:70 Storm. After joining a successful Orlesian attack to retake the island, they were awarded the emblem emblazoned on their shields ever since."
 msgstr ""
+"수 시대 동안 에스트워치 경비대는 해적과 쿠나리로부터 그네들의 동쪽 전초기지를 지켜 왔으며, 그동안 단 한 번의 패배만을 겪었다. 폭풍의 "
+"시대 7:70년, 대대적인 쿠나리 침공이 있었던 것이다. 올레이군의 공세에 합류해 섬을 탈환하는 데 성공한 뒤, 그들은 상징을 포상받아 "
+"오늘날까지 그 문장을 자신의 방패에 또렷이 새긴다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_shield_t2_2.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23298,7 +23375,7 @@ msgstr "명품 다리미꼴 방패"
 #: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_shield_t2_5_rare.xml:6
 msgctxt "0x0001bea9"
 msgid "Masterwork Darkspawn Shield"
-msgstr "명품 어둠의 피조물 방패"
+msgstr "명품 암흑피조물 방패"
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_shield_t2_6.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23319,7 +23396,7 @@ msgstr "성기사단 지휘관 방패"
 #: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_shield_t2_8.xml:6
 msgctxt "0x00028744"
 msgid "Darkspawn Shield"
-msgstr "어둠의 피조물 방패"
+msgstr "암흑피조물 방패"
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_shield_t2_9.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23341,6 +23418,10 @@ msgstr "운명의 쐐기"
 msgctxt "0x00044ab7"
 msgid "A good and colorful item for those who have hearty constitutions, this shield formed when a dragon shed her scales and fragments wafted on the soft and flavorful breeze into a dairy farm. Wielding it, Ser Jacques de Monterey was unstoppable until he fought <i>par méchant</i>, or dishonorably. His wistful last words as he lay full of holes: it was he who had failed, not the shield."
 msgstr ""
+"원기왕성한 체질을 지닌 이들이 요긴하게 다룰법한 이채로운 방패다. 용이 탈피할 때 떨어진 비늘 파편이 부드러운 바람을 타고 어느 낙농가에 "
+"내리면서 만들어졌다. 이 방패를 들고 활약한 몬테레이의 자크 경은 무적으로 일컬어졌으나, 올레이어로 <i>파르 메산</i>, 즉 "
+"'불명예스럽게' 싸운 순간 최후를 맞고 말았다. 그는 몸에 숭숭 구멍이 뚫린 채 쓰러질 때 애석하다는 듯이, 실패한 것은 자신이지 방패가 "
+"아니라는 단말마를 남겼다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_shield_t3_1.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23376,6 +23457,9 @@ msgstr "불멸자의 행진"
 msgctxt "0x00042e8e"
 msgid "This shield may have been forged in Arlathan, like the varterrals that guard ancient elven tombs. If so, it fell into the hands of Tevinter conquerors, who reshaped it with their own magic. During the Black Age's Exalted Marches, Orlesian Circle mages re-enchanted it and gave it to the chevaliers."
 msgstr ""
+"고대 엘프 무덤을 수호하는 바테랄과 마찬가지로, 이 방패는 알라싼 시절 제작되었는지도 모른다. 만일 그렇다면, 이 방패는 테빈터 "
+"정복자들의 손에 들어가 그 마법으로 변형을 거쳤을 것이다. 흑의 교황의 시대 벌어진 숭고한 거병 동안, 올레이 마법사 협회의 마법사들이 "
+"이 방패에 다시 한 번 마법을 부여해 슈발리에에게 전했다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_shield_t3_15_unique.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23390,6 +23474,10 @@ msgstr "마법사냥꾼"
 msgctxt "0x00042e55"
 msgid "The third time the Right of Annulment was invoked on a Circle of Magi, in 3:09 Towers, Knight-Commander Gervasio of Antiva killed all of the city's mages for demonic possession. However, a massacre may have already occurred at the hands of Knight-Captain Nicolas, with the right invoked as cover-up. The Seekers of Truth later apprehended Ser Nicolas, who had left the Order to kill mages and admitted to having murdered over a hundred."
 msgstr ""
+"쌍탑의 시대 3:09년, 마법사 협회에 역대 세 번째의 무효화의 권리가 선언되었을 때, 당시 기사단장이던 안티바의 제르바지오는 악마 "
+"빙의를 빌미로 도시의 마법사들을 모조리 살해했다. 하지만 이 학살은 실상 기사대장 니콜라스에 의해 촉발되었을 가능성이 있으며, 권리의 "
+"선언은 그저 이를 은폐하기 위한 것이었는지도 모른다. 마법사를 죽이기 위해 기사단을 떠난 니콜라스 경은 후일 진실의 탐구자들에게 "
+"체포되었고, 그는 백 명이 넘는 마법사를 살해했다고 시인하였다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_shield_t3_2.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23404,6 +23492,10 @@ msgstr "회색 감시단 정찰대 방패"
 msgctxt "0x000422ed"
 msgid "The tomb of Kordillus Drakon was plundered in 2:14 Glory, after the sacking of Val Royeaux by the elven armies during the Exalted March against the Dales, and the arms and armor of the fabled emperor were returned to Halamshiral for display as a trophy. When the tide turned against the elves and Halamshiral was itself sacked, a large bounty was named for any soldier who could find any of the artifacts and return them. None reappeared, and it is assumed the artifacts scattered to the winds in the hands of either the elves or soldiers who thought they could do better than the bounty."
 msgstr ""
+"영광의 시대 2:14년, 데일스 엘프를 향한 숭고한 거병 도중 엘프 군대가 발 르와이요를 점거한 때가 있었다. 이때 코딜리우스 드레이콘의 "
+"무덤은 약탈을 당했고, 엘프는 전설적인 황제의 무구를 할람시랄에 가져가 기념물로 삼았다. 전세가 뒤집히고 할람시랄이 역으로 약탈을 당하게 "
+"되었을 때 이 유물에는 큰 현상금이 매겨졌으나, 어느 병사도 이를 찾아 반환하지 않았다. 지금 유물은 엘프, 혹은 현상금보다 더 나은 "
+"보상을 바라고 이를 탈취한 병사에 의해 사방팔방으로 흩어져 있지 않을까 짐작될 뿐이다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_shield_t3_4.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23453,6 +23545,10 @@ msgstr "초승달의 그림자"
 msgctxt "0x0004b416"
 msgid "This sword was crafted by Lady Diana Von Haden of the Nevarran Von Hadens, a family obsessed with both excellence and exquisitely-balance weaponry. Lady Diana's particular passions were metallurgy, blacksmithing, and charting the course of the stars. She combined the three in the Crescent's Shadow,\" a blade made to reflect the silver of the moon,\" which connoisseurs agree is her masterpiece."
 msgstr ""
+"이 검은 만듦새가 뛰어나고 절묘한 균형을 지닌 무기에 열성적이었던 네바라 가문, 폰 헤이든 집안의 일원 다이애나 폰 헤이든 경에 의해 "
+"제작되었다. 다이애나 경은 금속공예와 대장기술, 그리고 별의 운행을 기록하는 일에 큰 관심을 쏟은 사람으로, 세 분야에 대한 조예를 "
+"결합하여 초승달의 그림자, 달리 이름하여 \"달의 은빛을 비추기 위한 검\"을 만들어냈다. 감정가들은 이 검을 다이애나 경의 역작으로 "
+"호평한다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Swords\dlcblue_equip_lsword_the20_elementalweapon_cold_mp.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23548,6 +23644,8 @@ msgstr "달콤한 손가락"
 msgctxt "0x00044157"
 msgid "A challenge to wield in battle, for while the blade offers overwhelming feedback, it takes little from the handler. You'll dispatch no end of foes together, but for all the effort it takes to command, you may as well talk to the hand."
 msgstr ""
+"전투에서 다루기가 난감한 검이다. 칼날의 반동이 어마어마한 데 비해 휘두르는 것은 그리 힘들지 않기 때문이다. 적들을 끝없이 처치할 수 "
+"있겠지만, 다루기가 너무 까다로워 절로 군소리가 나올지 모른다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Swords\equip_lsword_t2_10.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23569,6 +23667,10 @@ msgstr "결투검"
 msgctxt "0x00042b94"
 msgid "Many suspected Lord Kyril had his sword enchanted for his famous duel with the Verdant Knight—and that the knight (whose identity was never proven) said nothing. Kyril's victory led to cries of foul play, an assault on Tantervale in the Free Marches, and the disappearance of both Kyril and his blade, by assassins or because he fled to Ferelden and changed his identity."
 msgstr ""
+"키릴 경이 신록의 기사와 그 유명한 결투를 벌였을 때, 많은 이들이 키릴 경이 자신이 쓸 검에 마법을 걸었으며, 신록의 기사(그 정체는 "
+"끝내 밝혀지지 않았다)가 이를 알면서도 아무 말을 하지 않았던 것이라고 의심했다. 키릴 경이 승리하자 비겁한 짓이라는 항변이 여럿 "
+"터져나왔고, 이는 자유 동맹의 탠터베일을 향한 공격으로까지 이어졌다. 키릴 경과 그 검은 함께 모습을 감추었는데, 이는 암살자의 짓이거나 "
+"그가 신원을 바꾸고 페렐던으로 잠적했기 때문일 것이다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Swords\equip_lsword_t2_1_rare.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23653,6 +23755,9 @@ msgstr "에바뉴라"
 msgctxt "0x000422dc"
 msgid "Forged by the High Keeper of June, God of the Craft, after the elven homeland's creation in the Dales, this sword passed from the first Emerald Knight, Mathalin, to his squire, Sulan, after the boy saved him in battle. The last Emerald Knight to wield it was Lindiranae, who fell in the Second Exalted March's final battle."
 msgstr ""
+"이 검은 엘프 왕국 데일스의 건립 이후, 공예의 신 주네의 고위수호자에 의해 벼려졌다. 검은 최초의 에메랄드 기사인 마탈린의 소유였다가 "
+"후일 그의 종자, 술란에게 전해졌으니 이는 술란이 전투에서 마탈린의 목숨을 구한 뒤의 일이다. 에메랄드 기사 중 가장 마지막으로 이 검을 "
+"다룬 자는 린디라네이로, 그는 2차 숭고한 거병 최후의 전투에서 숨을 거두었다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Swords\equip_lsword_t3_11_rare.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23688,6 +23793,9 @@ msgstr "칼리반"
 msgctxt "0x00042d59"
 msgid "First wielded by Caliban, the most famous non-Pentaghast dragon hunter (he claimed to have slain the last dragon in the early Steel Age), notorious for his commoner heritage and sexual appetite. After the death of his lover, Queen Fionne Theirin, he went into self-imposed exile and, some say, trained a secret warrior order in the Frostback Mountains called the Calibanites."
 msgstr ""
+"펜타가스트가 아닌 용 사냥꾼 중 가장 유명하며, (그는 철의 시대 초기에 마지막 용을 살해했다고 주장한다) 평민 출신인 것과 특이한 성적 "
+"취향으로 악명 높은 캘리반이 처음 휘두른 것이다. 그의 연인이던 피온느 테이린 여왕의 죽음 이후로 그는 스스로 유배 생활에 들어갔으며, "
+"일부 사람들은 그가 서리등선 산맥에서 캘리버나이트라 불리는 비밀 전사 조직을 훈련시켰다고도 한다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Swords\equip_lsword_t3_1_rare.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23724,7 +23832,7 @@ msgctxt "0x000422db"
 msgid "Lady Shayna, the warrior who was both general and lover to legendary King Calenhad, offered this blade to Queen Mairyn to heal the rift between the queen and her husband. When Arl Myrddin killed Shayna, the blade passed to Mairyn's son and has remained in Theirin hands."
 msgstr ""
 "장군이자 전설적인 왕 캘런해드의 연인이기도 했던 전사 셰이나는 여왕과 그녀의 남편 간의 불화를 해결하기 위해 이 검을 여왕에게 바쳤다. "
-"미르딘 백작이 셰이나를 죽이고 난 후, 이 검은 마이린의 아들에게 전달되었고, 테린의 손에 들어갔다."
+"미르딘 백작이 셰이나를 죽이고 난 후, 이 검은 마이린의 아들에게 전달되었고, 테이린 가의 손에 들어갔다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Swords\equip_lsword_t3_6.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23766,7 +23874,7 @@ msgstr "촘촘한 장검 손잡이"
 #: DA3\Equipment\Items\creature_codex_item_enchanter.xml:6
 msgctxt "0x0004197c"
 msgid "Burnt Tome"
-msgstr ""
+msgstr "불탄 고서"
 
 #. FILE: DA3\Equipment\Items\creature_codex_item_enchanter.xml
 #. PATH: StackedItemAsset/Description
@@ -23788,6 +23896,8 @@ msgstr "남부 페렐던 독립 협정"
 msgctxt "0x000432fc"
 msgid "An inclusive trade and travel arrangement that also suggests immunity from certain prohibitions when crossing the territories of certain independent freeholders. Grants a significant increase to Inquisition Power and Influence."
 msgstr ""
+"상거래 및 이동에 관한 포괄적인 협정 내용을 담은 문서로, 일부 개인 소유 토지를 지날 때 적용되는 특정 금지 규약에 대한 면책권을 "
+"포함하고 있습니다. 심문회 행동력과 영향력을 크게 증가시킵니다."
 
 #. FILE: DA3\Equipment\Loot\MercenaryContracts\mercenary_contract_large_2.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -23822,7 +23932,7 @@ msgstr "안티바 연안 독립 협정"
 #: DA3\Equipment\Loot\MercenaryContracts\mercenary_contract_major_1.xml:6
 msgctxt "0x00043317"
 msgid "A Pact of Certain Favors"
-msgstr ""
+msgstr "유리한 서약서"
 
 #. FILE: DA3\Equipment\Loot\MercenaryContracts\mercenary_contract_major_1.xml
 #. PATH: StackedItemAsset/Description
@@ -23830,6 +23940,9 @@ msgstr ""
 msgctxt "0x00043315"
 msgid "Marked in wax with a coat of arms that draws from several royal houses, it promises unstated favor in several capitals by indeterminate actors within. Inflammatory if any of it could be proven, but the actors in this matter are well practiced. Grants a major increase to Inquisition Power and Influence."
 msgstr ""
+"행위자가 불분명하고 상세 내용 또한 명시되지 않았으나, 다수 국가에서의 지원 및 혜택을 약속하는 내용의 서약서입니다. 밀랍 위에 다수 "
+"여러 왕가의 인장이 찍혀 있습니다. 내용이 사실로 확인되는 경우 큰 논란의 여지가 있으나 이 안건의 시행자들은 능수능란한 이들입니다. "
+"심문회 행동력과 영향력이 상당히 증가합니다."
 
 #. FILE: DA3\Equipment\Loot\MercenaryContracts\mercenary_contract_major_2.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -23844,13 +23957,16 @@ msgstr "여행 협정서: 자유동맹"
 msgctxt "0x00043312"
 msgid "A rare consensus of guilds and trade partners in some of the influential city states of the Free Marches, though no magistrate could penetrate its obfuscating mire of language to draw out names. Subtle but far-reaching. Grants a major increase to Inquisition Power and Influence."
 msgstr ""
+"자유 동맹 중에서도 일부 영향력 있는 도시국가 내 길드 및 무역 협력자들의 합의서입니다. 쉽게 얻을 수 없는 물건으로, 어느 행정관도 이 "
+"고의적으로 복잡하게 작성된 문자의 나열 속에서 특정한 이름을 추려낼 수 없을 것입니다. 은밀하면서도 파급력이 큽니다. 심문회 행동력과 "
+"영향력을 상당히 증가시킵니다."
 
 #. FILE: DA3\Equipment\Loot\MercenaryContracts\mercenary_contract_major_3.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Loot\MercenaryContracts\mercenary_contract_major_3.xml:6
 msgctxt "0x0004330a"
 msgid "Estwatch Alliance of Names"
-msgstr ""
+msgstr "에스트워치 귀족 가문 결연서"
 
 #. FILE: DA3\Equipment\Loot\MercenaryContracts\mercenary_contract_major_3.xml
 #. PATH: StackedItemAsset/Description
@@ -23858,13 +23974,15 @@ msgstr ""
 msgctxt "0x0004331a"
 msgid "An alliance with certain noble interests in Estwatch, who pledge to inform the Inquisition of any suspicious activity in surrounding waters and impede said activity with artful bureaucracy. Grants a major increase to Inquisition Power and Influence."
 msgstr ""
+"에스트워치 지역의 일부 귀족과 결연하였음을 증빙하는 서류입니다. 이들은 인근 해역에 수상한 움직임이 관측되는 경우 그 내용을 심문회에 "
+"보고하고 교묘한 사무 절차로 해당 활동을 지연시키기로 약속했습니다. 심문회 행동력과 영향력을 상당히 증가시킵니다."
 
 #. FILE: DA3\Equipment\Loot\MercenaryContracts\mercenary_contract_major_4.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Loot\MercenaryContracts\mercenary_contract_major_4.xml:6
 msgctxt "0x0004330b"
 msgid "Favors of Marque and Reprisal"
-msgstr ""
+msgstr "적선 나포 면허장"
 
 #. FILE: DA3\Equipment\Loot\MercenaryContracts\mercenary_contract_major_4.xml
 #. PATH: StackedItemAsset/Description
@@ -23872,6 +23990,8 @@ msgstr ""
 msgctxt "0x00043311"
 msgid "Offered to certain trustworthy members of the Felicisima Armada, giving them the freedom to subdue and seize the vessels belonging to enemies of the issuing power. A sizable donation will ensure that vessels supplying the enemies of the Inquisition are included in that unfortunate number. Grants a major increase to Inquisition Power and Influence. "
 msgstr ""
+"펠리시시마 함대의 신임을 받는 특정 인사에게 주어지는 허가서입니다. 적 함선을 자유로이 수장시키거나 점령할 면허를 부여합니다. 상당량의 "
+"금전적 후원을 통해 심문회의 적을 지원하는 함선을 그 불행의 목록에 추가할 수 있습니다. 심문회 행동력과 영향력을 상당히 증가시킵니다. "
 
 #. FILE: DA3\Equipment\Loot\MercenaryContracts\mercenary_contract_major_5.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -23886,6 +24006,8 @@ msgstr "페런데일 우호 협정"
 msgctxt "0x00043318"
 msgid "An agreement of friendship with the historically disputed territory, it is signed by the governor of Perendale and promises resources from Perendale's famed mines. Grants a major increase to Inquisition Power and Influence."
 msgstr ""
+"역사적인 분쟁 지역, 페런데일과의 우호 협정서입니다. 페런데일의 통치자의 서명을 받은 문서로 그 유명한 페런데일의 광산에서 채굴되는 "
+"자원을 심문회에 조달하겠다는 내용을 포함하고 있습니다. 심문회 행동력과 영향력을 상당히 증가시킵니다."
 
 #. FILE: DA3\Equipment\Loot\MercenaryContracts\mercenary_contract_medium_1.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -23899,14 +24021,14 @@ msgstr "하이에버 협정"
 #: DA3\Equipment\Loot\MercenaryContracts\mercenary_contract_medium_1.xml:11
 msgctxt "0x00043305"
 msgid "A document committing the undeclared assistance of certain city officials. Grants a moderate increase to Inquisition Power and Influence."
-msgstr ""
+msgstr "지원을 약속하는 특정 도시 공직자들의 공표되지 않은 서약서입니다. 심문회 행동력과 영향력을 증가시킵니다."
 
 #. FILE: DA3\Equipment\Loot\MercenaryContracts\mercenary_contract_medium_2.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\Equipment\Loot\MercenaryContracts\mercenary_contract_medium_2.xml:6
 msgctxt "0x00043306"
 msgid "Mont-de-Glace Accord"
-msgstr ""
+msgstr "몽드글라스 협정"
 
 #. FILE: DA3\Equipment\Loot\MercenaryContracts\mercenary_contract_medium_3.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -23941,7 +24063,7 @@ msgstr "민간 무역 협정:아이즐리"
 #: DA3\Equipment\Loot\MercenaryContracts\mercenary_contract_small_1.xml:11
 msgctxt "0x000432fa"
 msgid "Subtly favorable trade agreements with a merchant house. Grants a small increase to Inquisition Power and Influence."
-msgstr "살짝 이득인 상가와의 무역 협정. 심문회 역량과 영향이 약간 증가한다."
+msgstr "살짝 이득인 상가와의 무역 협정입니다. 심문회 행동력과 영향이 약간 증가합니다."
 
 #. FILE: DA3\Equipment\Loot\MercenaryContracts\mercenary_contract_small_2.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -23976,70 +24098,70 @@ msgstr "민간 무역 협정: 데일스 엔드 "
 #: DA3\Equipment\Stores\store_Respec.xml:5
 msgctxt "0x00040c8b"
 msgid "Val Royeaux 9 (bed and drapes)"
-msgstr ""
+msgstr "Val Royeaux 9 (bed and drapes)"
 
 #. FILE: DA3\Equipment\Stores\store_ValRoyauex1.xml
 #. PATH: StoreData/StoreName
 #: DA3\Equipment\Stores\store_ValRoyauex1.xml:5
 msgctxt "0x0002de1c"
 msgid "Val Royeaux Store 1 (mage armor and weapons: items and schematics)"
-msgstr ""
+msgstr "Val Royeaux Store 1 (mage armor and weapons: items and schematics)"
 
 #. FILE: DA3\Equipment\Stores\store_ValRoyauex2.xml
 #. PATH: StoreData/StoreName
 #: DA3\Equipment\Stores\store_ValRoyauex2.xml:5
 msgctxt "0x0002de19"
 msgid "Val Royeaux Store 2 (high-level and rare armor and weapons: items only)"
-msgstr ""
+msgstr "Val Royeaux Store 2 (high-level and rare armor and weapons: items only)"
 
 #. FILE: DA3\Equipment\Stores\store_ValRoyauex3.xml
 #. PATH: StoreData/StoreName
 #: DA3\Equipment\Stores\store_ValRoyauex3.xml:5
 msgctxt "0x00034fd3"
 msgid "Val Royeaux 3 (all armors, level 12-15)"
-msgstr ""
+msgstr "Val Royeaux 3 (all armors, level 12-15)"
 
 #. FILE: DA3\Equipment\Stores\store_ValRoyauex4.xml
 #. PATH: StoreData/StoreName
 #: DA3\Equipment\Stores\store_ValRoyauex4.xml:5
 msgctxt "0x0002de1a"
 msgid "Val Royeaux Store 4 (high-level schematics: all classes)"
-msgstr ""
+msgstr "Val Royeaux Store 4 (high-level schematics: all classes)"
 
 #. FILE: DA3\Equipment\Stores\store_ValRoyauex5.xml
 #. PATH: StoreData/StoreName
 #: DA3\Equipment\Stores\store_ValRoyauex5.xml:5
 msgctxt "0x00034fd9"
 msgid "Val Royeaux 5 (warrior, level 8-11: armors, weapons, and schematics)"
-msgstr ""
+msgstr "Val Royeaux 5 (warrior, level 8-11: armors, weapons, and schematics)"
 
 #. FILE: DA3\Equipment\Stores\store_ValRoyauex6.xml
 #. PATH: StoreData/StoreName
 #: DA3\Equipment\Stores\store_ValRoyauex6.xml:5
 msgctxt "0x0003501d"
 msgid "Val Royeaux 6 (mage, level 12-15: weapons and armor)"
-msgstr ""
+msgstr "Val Royeaux 6 (mage, level 12-15: weapons and armor)"
 
 #. FILE: DA3\Equipment\Stores\store_ValRoyauex7.xml
 #. PATH: StoreData/StoreName
 #: DA3\Equipment\Stores\store_ValRoyauex7.xml:5
 msgctxt "0x00040c89"
 msgid "Val Royeaux 7 (valuables)"
-msgstr ""
+msgstr "Val Royeaux 7 (valuables)"
 
 #. FILE: DA3\Equipment\Stores\store_ValRoyauex8.xml
 #. PATH: StoreData/StoreName
 #: DA3\Equipment\Stores\store_ValRoyauex8.xml:5
 msgctxt "0x00040c88"
 msgid "Val Royeaux 8 (books)"
-msgstr ""
+msgstr "Val Royeaux 8 (books)"
 
 #. FILE: DA3\Equipment\Stores\store_crestwood_keep.xml
 #. PATH: StoreData/StoreName
 #: DA3\Equipment\Stores\store_crestwood_keep.xml:5
 msgctxt "0x00035284"
 msgid "Crestwood Keep (rogue, level 16-19: weapons, armors, and schematics)"
-msgstr ""
+msgstr "Crestwood Keep (rogue, level 16-19: weapons, armors, and schematics)"
 
 #. FILE: DA3\Equipment\Stores\store_crestwood_village.xml
 #. PATH: StoreData/StoreName
@@ -24047,41 +24169,42 @@ msgstr ""
 msgctxt "0x0003524b"
 msgid "Crestwood Village (warrior, level 12-15: weapons, armors, and accessories)"
 msgstr ""
+"Crestwood Village (warrior, level 12-15: weapons, armors, and accessories)"
 
 #. FILE: DA3\Equipment\Stores\store_dales_brigands.xml
 #. PATH: StoreData/StoreName
 #: DA3\Equipment\Stores\store_dales_brigands.xml:5
 msgctxt "0x000350ff"
 msgid "Dales Brigands (Tier 2 rune recipes)"
-msgstr ""
+msgstr "Dales Brigands (Tier 2 rune recipes)"
 
 #. FILE: DA3\Equipment\Stores\store_dales_dalish_camp.xml
 #. PATH: StoreData/StoreName
 #: DA3\Equipment\Stores\store_dales_dalish_camp.xml:5
 msgctxt "0x00035100"
 msgid "Dales Dalish Camp (Tier 3 accessories for all classes)"
-msgstr ""
+msgstr "Dales Dalish Camp (Tier 3 accessories for all classes)"
 
 #. FILE: DA3\Equipment\Stores\store_dales_keep.xml
 #. PATH: StoreData/StoreName
 #: DA3\Equipment\Stores\store_dales_keep.xml:5
 msgctxt "0x000351e6"
 msgid "Dales Keep (mage, level 16-19: weapons, armors, and schematics)"
-msgstr ""
+msgstr "Dales Keep (mage, level 16-19: weapons, armors, and schematics)"
 
 #. FILE: DA3\Equipment\Stores\store_ferelden_crossroads.xml
 #. PATH: StoreData/StoreName
 #: DA3\Equipment\Stores\store_ferelden_crossroads.xml:5
 msgctxt "0x00034f8d"
 msgid "Fereldan Crossroads (mage weapons, armors, schematics, and accessories)"
-msgstr ""
+msgstr "Fereldan Crossroads (mage weapons, armors, schematics, and accessories)"
 
 #. FILE: DA3\Equipment\Stores\store_haven.xml
 #. PATH: StoreData/StoreName
 #: DA3\Equipment\Stores\store_haven.xml:5
 msgctxt "0x0002de18"
 msgid "Haven Store (armors and weapons: items only)"
-msgstr ""
+msgstr "Haven Store (armors and weapons: items only)"
 
 #. FILE: DA3\Equipment\Stores\store_mounts.xml
 #. PATH: StoreData/StoreName
@@ -24089,27 +24212,29 @@ msgstr ""
 msgctxt "0x00035030"
 msgid "Skyhold (unique weapons and armors, Tier 1 runes schematics, special-order schematics, lockpicks)"
 msgstr ""
+"Skyhold (unique weapons and armors, Tier 1 runes schematics, special-order "
+"schematics, lockpicks)"
 
 #. FILE: DA3\Equipment\Stores\store_redcliffe1.xml
 #. PATH: StoreData/StoreName
 #: DA3\Equipment\Stores\store_redcliffe1.xml:5
 msgctxt "0x0002de1b"
 msgid "Redcliffe Store 1 (warrior armor and weapons: items and schematics)"
-msgstr ""
+msgstr "Redcliffe Store 1 (warrior armor and weapons: items and schematics)"
 
 #. FILE: DA3\Equipment\Stores\store_redcliffe2.xml
 #. PATH: StoreData/StoreName
 #: DA3\Equipment\Stores\store_redcliffe2.xml:5
 msgctxt "0x0002de17"
 msgid "Redcliffe Store 2 (rogue armor and weapons: items and schematics)"
-msgstr ""
+msgstr "Redcliffe Store 2 (rogue armor and weapons: items and schematics)"
 
 #. FILE: DA3\Equipment\Stores\store_redcliffe3.xml
 #. PATH: StoreData/StoreName
 #: DA3\Equipment\Stores\store_redcliffe3.xml:5
 msgctxt "0x00034fa2"
 msgid "Fereldan Village 3 (all weapons for all classes, level 12-15)"
-msgstr ""
+msgstr "Fereldan Village 3 (all weapons for all classes, level 12-15)"
 
 #. FILE: DA3\Equipment\Stores\store_western_approach_keep.xml
 #. PATH: StoreData/StoreName
@@ -24117,6 +24242,7 @@ msgstr ""
 msgctxt "0x000350fd"
 msgid "Western Approach Keep (rogue, level 12-15: weapons, armors, and accessories)"
 msgstr ""
+"Western Approach Keep (rogue, level 12-15: weapons, armors, and accessories)"
 
 #. FILE: DA3\Equipment\UpgradeItemTypes\upgrade_type_1h_handle.xml
 #. PATH: UpgradeItemType/DisplayName
@@ -24130,49 +24256,49 @@ msgstr "자루"
 #: DA3\Equipment\UpgradeItemTypes\upgrade_type_armor_arms_heavy.xml:5
 msgctxt "0x00043e4a"
 msgid "Heavy Arms"
-msgstr ""
+msgstr "중장 완갑"
 
 #. FILE: DA3\Equipment\UpgradeItemTypes\upgrade_type_armor_arms_light.xml
 #. PATH: UpgradeItemType/DisplayName
 #: DA3\Equipment\UpgradeItemTypes\upgrade_type_armor_arms_light.xml:5
 msgctxt "0x00043e49"
 msgid "Light Arms"
-msgstr ""
+msgstr "경량 완갑"
 
 #. FILE: DA3\Equipment\UpgradeItemTypes\upgrade_type_armor_arms_medium.xml
 #. PATH: UpgradeItemType/DisplayName
 #: DA3\Equipment\UpgradeItemTypes\upgrade_type_armor_arms_medium.xml:5
 msgctxt "0x000289a2"
 msgid "Medium Arms"
-msgstr ""
+msgstr "평장 완갑"
 
 #. FILE: DA3\Equipment\UpgradeItemTypes\upgrade_type_armor_legs_heavy.xml
 #. PATH: UpgradeItemType/DisplayName
 #: DA3\Equipment\UpgradeItemTypes\upgrade_type_armor_legs_heavy.xml:5
 msgctxt "0x000142e6"
 msgid "Heavy Legs"
-msgstr ""
+msgstr "중장 다리보호대"
 
 #. FILE: DA3\Equipment\UpgradeItemTypes\upgrade_type_armor_legs_light.xml
 #. PATH: UpgradeItemType/DisplayName
 #: DA3\Equipment\UpgradeItemTypes\upgrade_type_armor_legs_light.xml:5
 msgctxt "0x000289a3"
 msgid "Light Legs"
-msgstr ""
+msgstr "경량 다리보호대"
 
 #. FILE: DA3\Equipment\UpgradeItemTypes\upgrade_type_armor_legs_medium.xml
 #. PATH: UpgradeItemType/DisplayName
 #: DA3\Equipment\UpgradeItemTypes\upgrade_type_armor_legs_medium.xml:5
 msgctxt "0x000289a4"
 msgid "Medium Legs"
-msgstr ""
+msgstr "평장 다리보호대"
 
 #. FILE: DA3\Equipment\UpgradeItemTypes\upgrade_type_bianca_aiming.xml
 #. PATH: UpgradeItemType/DisplayName
 #: DA3\Equipment\UpgradeItemTypes\upgrade_type_bianca_aiming.xml:5
 msgctxt "0x000324f1"
 msgid "Aiming"
-msgstr ""
+msgstr "조준기"
 
 #. FILE: DA3\Equipment\UpgradeItemTypes\upgrade_type_bianca_grip.xml
 #. PATH: UpgradeItemType/DisplayName
@@ -24186,7 +24312,7 @@ msgstr "손잡이"
 #: DA3\Equipment\UpgradeItemTypes\upgrade_type_bianca_wings.xml:5
 msgctxt "0x000289a1"
 msgid "Arms"
-msgstr ""
+msgstr "쇠뇌 몸통"
 
 #. FILE: DA3\Equipment\UpgradeItemTypes\upgrade_type_rune_all.xml
 #. PATH: UpgradeItemType/DisplayName
@@ -24214,14 +24340,16 @@ msgid ""
 "{string}278921{/string}\n"
 "{string}278152{/string}"
 msgstr ""
+"{string}262103{/string}\n"
+"{string}278921{/string}\n"
+"{string}278152{/string}"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Masterwork\Leather\dlc1_crafting_masterwork_tusket.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3_DLC1\Equipment\Crafting\Masterwork\Leather\dlc1_crafting_masterwork_tusket.xml:6
-#, fuzzy
 msgctxt "0x00046e61"
 msgid "Fade-Touched Tusket Hide"
-msgstr "영계에 물든 터스켓 가죽"
+msgstr "영계에 물든 코뿔돼지 가죽"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Cloth\dlc1_recipe_material_Avvar_Cotton.xml
 #. PATH: RecipeMaterial/DisplayName
@@ -24252,7 +24380,7 @@ msgstr ""
 #: DA3_DLC1\Equipment\Crafting\Materials\Cloth\dlc1_recipe_material_dlc1_cloth_1.xml:6
 msgctxt "0x00045720"
 msgid "Silken Nether Cloth"
-msgstr ""
+msgstr "부드러운 황천 옷감"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Cloth\dlc1_recipe_material_dlc1_cloth_1.xml
 #. PATH: RecipeMaterial/Description
@@ -24276,7 +24404,7 @@ msgstr ""
 #: DA3_DLC1\Equipment\Crafting\Materials\Cloth\dlc1_recipe_material_dlc1_cloth_2.xml:6
 msgctxt "0x00045722"
 msgid "Avvar Twill"
-msgstr ""
+msgstr "아바르 능직물"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Cloth\dlc1_recipe_material_dlc1_cloth_2.xml
 #. PATH: RecipeMaterial/Description
@@ -24317,14 +24445,14 @@ msgstr ""
 #: DA3_DLC1\Equipment\Crafting\Materials\Leather\dlc1_recipe_material_HardenedGurgut_Skin.xml:6
 msgctxt "0x0004571c"
 msgid "Hardened Gurgut Skin"
-msgstr ""
+msgstr "경화된 걸것 가죽"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Leather\dlc1_recipe_material_dlc1_leather_1.xml
 #. PATH: RecipeMaterial/DisplayName
 #: DA3_DLC1\Equipment\Crafting\Materials\Leather\dlc1_recipe_material_dlc1_leather_1.xml:6
 msgctxt "0x0004571a"
 msgid "Ice Dragon Hide"
-msgstr ""
+msgstr "얼음 용가죽"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Leather\dlc1_recipe_material_dlc1_leather_1.xml
 #. PATH: RecipeMaterial/Description
@@ -24372,7 +24500,7 @@ msgstr ""
 #: DA3_DLC1\Equipment\Crafting\Materials\Leather\dlc1_recipe_material_dlc1_leather_3.xml:6
 msgctxt "0x0004571e"
 msgid "Hardened Tusket Skin"
-msgstr ""
+msgstr "경화된 코뿔돼지 가죽"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Leather\dlc1_recipe_material_dlc1_leather_3.xml
 #. PATH: RecipeMaterial/Description
@@ -24396,7 +24524,7 @@ msgstr ""
 #: DA3_DLC1\Equipment\Crafting\Materials\Metal\dlc1_recipe_material_dlc1_metal_1.xml:6
 msgctxt "0x0004571f"
 msgid "Ice Dragon Bone"
-msgstr ""
+msgstr "얼음 용 뼈"
 
 #. FILE: DA3_DLC1\Equipment\Crafting\Materials\Metal\dlc1_recipe_material_dlc1_metal_1.xml
 #. PATH: RecipeMaterial/Description
@@ -24819,6 +24947,8 @@ msgstr "고발자의 지팡이"
 msgctxt "0x00046ef9"
 msgid "Andrastian mages once used staves like this one to exact justice against maleficarum. None have been made since the Towers Age."
 msgstr ""
+"안드라스테 신앙을 지닌 마법사들은 한때 이런 지팡이를 사악한 마법사들을 처단하는 데 사용했다. 이 종류의 지팡이는 쌍탑의 시대 이후로는 "
+"일절 제작되지 않았다."
 
 #. FILE: DA3_DLC1\Equipment\Items\Weapons\Mage\Staff\dlc1_equip_dlc1_staff_energy.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -24833,6 +24963,8 @@ msgstr "하콘의 지혜"
 msgctxt "0x000454ba"
 msgid "Before he fell silent to the Avvar, Hakkon Wintersbreath granted this gift only to augurs willing to put their visions to practical use in battle for their holds. Few have ever had the honor of carrying Hakkon's Wisdom in their own hands, and fewer still lived to tell the tale."
 msgstr ""
+"아바르에게 침묵하기 전, 겨울숨결 하콘은 예지력을 요새를 위한 싸움에 실용적으로 쓰려고 하는 점쟁이들에게만 이 선물을 하사했다. 소수만이 "
+"하콘의 지혜를 지니는 영예를 누렸고, 이 이야기를 전하기 위해 살아있는 이들은 그보다도 적다."
 
 #. FILE: DA3_DLC1\Equipment\Items\Weapons\Rogue\Bows\dlc1_equip_dlc1_bow_1.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -24847,6 +24979,8 @@ msgstr "달 발라산"
 msgctxt "0x00046e17"
 msgid "The fabled elven smith Tanaleth of Halamshiral once made bows for the Fade Hunters, those Emerald Knights tasked with protecting the Dalish kingdom from maleficarum and demons."
 msgstr ""
+"할람시랄의 타나레스라는 전설의 엘프 대장장이는 한때 사악한 마법사와 악마들로부터 데일스 왕국을 보호하는 임무를 맡은 에메랄드 기사들인, "
+"영계 사냥꾼들을 위해 활을 만들었다."
 
 #. FILE: DA3_DLC1\Equipment\Items\Weapons\Rogue\Bows\dlc1_equip_dlc1_bow_2.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -24860,7 +24994,7 @@ msgstr "심장시위 활"
 #: DA3_DLC1\Equipment\Items\Weapons\Rogue\Bows\dlc1_equip_dlc1_bow_2.xml:11
 msgctxt "0x00046e15"
 msgid "This bow seems to have its own pulse and is oddly warm to the touch."
-msgstr ""
+msgstr "이 활은 저만의 맥박을 지녔다. 만지면 기묘하게도 온기가 느껴진다."
 
 #. FILE: DA3_DLC1\Equipment\Items\Weapons\Rogue\Bows\dlc1_equip_dlc1_bow_energy.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -24875,6 +25009,8 @@ msgstr "하콘의 격노"
 msgctxt "0x000454b9"
 msgid "The Avvar say that before Hakkon Wintersbreath fell silent, he granted gifts to warriors who proved their worth through acts of valor in war. His Wrath he bestowed only upon those who sought to avenge great wrongs through bloody battle, so that its arrows would visit divine retribution, not mortal, on their targets."
 msgstr ""
+"아바르는 겨울숨결 하콘이 침묵하기 전에, 전쟁에서 용맹한 행위로 자신의 가치를 증명한 전사들에게 선물을 수여했다고 전한다. 그 화살은 "
+"필멸의 복수가 아닌 신성한 응보를 내리기 위한 것으로, 혈전을 통해 대죄를 앙갚음하려는 이들에게만 하사되었다."
 
 #. FILE: DA3_DLC1\Equipment\Items\Weapons\Rogue\Daggers\dlc1_equip_dlc1_dagger_1.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -24903,8 +25039,8 @@ msgstr "파괴자의 칼"
 msgctxt "0x00046e1e"
 msgid "This knife was clearly made for agents sent to slow approaching armies. Its design allows a skilled hand to find the weakest points in a suit of armor with astonishing ease."
 msgstr ""
-"갑옷의 가장 약한 부분을 놀라울 정도로 쉽게 찾을 수 있게 끔 만들어져 있는 것을 보면, 이 칼은 서서히 다가오는 적들에게 보내진 "
-"요원들을 위해 만들어진 것이 분명하다."
+"갑옷의 가장 약한 부분을 놀라울 정도로 쉽게 찾을 수 있게 끔 만들어져 있는 것을 보면, 이 칼은 서서히 다가오는 적에게 보내진 요원들을 "
+"위해 만들어진 것이 분명하다."
 
 #. FILE: DA3_DLC1\Equipment\Items\Weapons\Rogue\Daggers\dlc1_equip_dlc1_dagger_energy.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -24919,6 +25055,8 @@ msgstr "하콘의 자비"
 msgctxt "0x000454b8"
 msgid "To end the suffering of those dying on the battlefield, Hakkon has granted the gift of his Mercy to warriors and Skywatchers. The dead belong to the Lady of the Skies, of course, but it is Hakkon who releases them to her first."
 msgstr ""
+"전장에서 죽어가는 이들의 고통을 끝내주기 위해 하콘은 전사와 하늘감시자에게 자비를 베풀었다. 물론 망자들은 하늘의 여인에게 속하지만, "
+"망자들이 그녀에게 닿도록 해방시키는 일은 하콘의 몫이다."
 
 #. FILE: DA3_DLC1\Equipment\Items\Weapons\Warrior\TwoHanded\Greataxes\dlc1_equip_dlc1_greataxe_1.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -24930,10 +25068,9 @@ msgstr "재빠른 거대 도끼"
 #. FILE: DA3_DLC1\Equipment\Items\Weapons\Warrior\TwoHanded\Greataxes\dlc1_equip_dlc1_greataxe_1.xml
 #. PATH: EquipItemAsset/Description
 #: DA3_DLC1\Equipment\Items\Weapons\Warrior\TwoHanded\Greataxes\dlc1_equip_dlc1_greataxe_1.xml:11
-#, fuzzy
 msgctxt "0x00046e1c"
 msgid "The blades of this axe cut the air smoothly, almost eagerly."
-msgstr "이 도끼의 칼날은 공기를 부드러우면서도 열정적으로 잘라낸다."
+msgstr "이 도끼의 칼날은 공기를 부드럽게 가른다. 어떤 열정마저 느껴진다."
 
 #. FILE: DA3_DLC1\Equipment\Items\Weapons\Warrior\TwoHanded\Greatswords\dlc1_equip_dlc1_greatsword_1.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -24962,13 +25099,16 @@ msgstr "하콘의 용맹"
 msgctxt "0x000454b7"
 msgid "Long ago, the Avvar say, the god of war and death once took the field of battle himself, armored in iron and ice and wielding a great blade made of the bitterest winds of winter. When he could no longer fight alongside his loyal warriors, he gave his Blade of Valor to a champion to wage war in his name."
 msgstr ""
+"아바르에 의하면 오랜 옛날, 전쟁과 죽음의 신은 한때 강철과 얼음으로 무장하고 겨울의 가장 혹독한 한파로 이루어진 대검을 들고서 직접 "
+"전장에 나섰다고 한다. 충성스런 전사들과 더는 함께 싸울 수 없게 되었을 때, 그는 용사가 자신의 대리로서 전쟁을 계속하도록 용맹의 검을 "
+"하사했다고 한다."
 
 #. FILE: DA3_DLC1\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\dlc1_equip_dlc1_maul_1.xml
 #. PATH: EquipItemAsset/DisplayName
 #: DA3_DLC1\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\dlc1_equip_dlc1_maul_1.xml:6
 msgctxt "0x000454b1"
 msgid "Avvar War-Maul"
-msgstr ""
+msgstr "아바르 전쟁망치"
 
 #. FILE: DA3_DLC1\Equipment\Items\Weapons\Warrior\WeaponShield\Axes\dlc1_equip_dlc1_axe_1.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -24996,7 +25136,7 @@ msgstr "의식 파기자"
 #: DA3_DLC1\Equipment\Items\Weapons\Warrior\WeaponShield\Maces\dlc1_equip_dlc1_mace_1.xml:11
 msgctxt "0x00046e18"
 msgid "Maces like this one are usually carried by Skywatchers for shattering the bones of the dead before offering them to the Lady of the Skies."
-msgstr ""
+msgstr "이런 철퇴는 하늘감시자들이 망자를 하늘의 여인께 바치기 앞서 뼈를 조각낼 때 사용하는 것이다."
 
 #. FILE: DA3_DLC1\Equipment\Items\Weapons\Warrior\WeaponShield\Swords\dlc1_equip_dlc1_lsword_1.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -25011,6 +25151,7 @@ msgstr "기사의 사냥검"
 msgctxt "0x00046e1b"
 msgid "This fine old Orlesian blade appears to have been forged for wyvern hunters, though it lacks a maker's mark."
 msgstr ""
+"이 질 좋은 올레이 검은 와이번 사냥꾼들을 위해 제작된 것으로 보인다. 검을 누가 만들었는지는 제작자의 징표가 없어 알 수 없다."
 
 #. FILE: DA3_DLC1\Equipment\Items\Weapons\Warrior\WeaponShield\Swords\dlc1_equip_dlc1_lsword_energy.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -25025,6 +25166,9 @@ msgstr "하콘의 명예"
 msgctxt "0x000454bb"
 msgid "Among the Avvar, the longsword is the weapon of those who defend their holds. No house is without at least one, hung in a prominent place, in case invaders come in the night. It is the tool of honor, to keep one's people safe or to end one's life before being taken by the enemy. Hakkon once granted his Honor to warriors who kept watch in the darkest hours in his name."
 msgstr ""
+"아바르에게 있어 장검이란 요새를 방어하기 위한 무기다. 모든 가구가 밤에 침입자가 닥칠 것을 대비해 눈에 잘 띄는 곳에 적어도 한 자루의 "
+"장검을 걸어둔다. 그들에게 검은 자신의 민족을 지키고, 적에게 수치스런 죽음을 맞기 전에 목숨을 거두기 위한 명예로운 무기다. 하콘은 "
+"한때 가장 어두운 밤에 경계하는 전사들을 기리기 위해 그의 이름으로 하콘의 명예를 하사했다."
 
 #. FILE: da3_dlc_blue\equipment\NewArmors\dlcblue_equip_armor_heavy_1p_legion.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -25045,42 +25189,42 @@ msgstr "사도의 방어구"
 #: da3_dlc_blue\equipment\NewArmors\dlcblue_equip_armor_heavy_arcane_warrior.xml:6
 msgctxt "0x0004b1dc"
 msgid "Sentinel Plate"
-msgstr ""
+msgstr "파수꾼 판금 갑옷"
 
 #. FILE: da3_dlc_blue\equipment\NewArmors\dlcblue_equip_armor_light_1p_alchemist.xml
 #. PATH: EquipItemAsset/DisplayName
 #: da3_dlc_blue\equipment\NewArmors\dlcblue_equip_armor_light_1p_alchemist.xml:6
 msgctxt "0x0004b1de"
 msgid "Alchemical Rigging"
-msgstr ""
+msgstr "연금술 의장"
 
 #. FILE: da3_dlc_blue\equipment\NewArmors\dlcblue_equip_armor_light_1p_bloodmage.xml
 #. PATH: EquipItemAsset/DisplayName
 #: da3_dlc_blue\equipment\NewArmors\dlcblue_equip_armor_light_1p_bloodmage.xml:6
 msgctxt "0x0004b1e0"
 msgid "Robes of the Forbidden School"
-msgstr ""
+msgstr "금지된 학파의 로브"
 
 #. FILE: da3_dlc_blue\equipment\NewArmors\dlcblue_equip_armor_light_1p_keeper.xml
 #. PATH: EquipItemAsset/DisplayName
 #: da3_dlc_blue\equipment\NewArmors\dlcblue_equip_armor_light_1p_keeper.xml:6
 msgctxt "0x0004b1e2"
 msgid "Dalish Robes"
-msgstr ""
+msgstr "데일스 엘프 로브"
 
 #. FILE: da3_dlc_blue\equipment\NewArmors\dlcblue_equip_armor_light_solas_hooded.xml
 #. PATH: EquipItemAsset/DisplayName
 #: da3_dlc_blue\equipment\NewArmors\dlcblue_equip_armor_light_solas_hooded.xml:6
 msgctxt "0x0004b1e8"
 msgid "Wolf's Coat"
-msgstr ""
+msgstr "늑대 모피"
 
 #. FILE: da3_dlc_blue\equipment\NewArmors\dlcblue_equip_armor_light_solas_hoodless.xml
 #. PATH: EquipItemAsset/DisplayName
 #: da3_dlc_blue\equipment\NewArmors\dlcblue_equip_armor_light_solas_hoodless.xml:6
 msgctxt "0x0004b1ea"
 msgid "Vestments of Rebellion"
-msgstr ""
+msgstr "저항자의 의복"
 
 #. FILE: da3_dlc_blue\equipment\Sets\dlcblue_equipment_set_nexus_1_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -25092,13 +25236,17 @@ msgid ""
 "3 pieces: +10% movement speed\n"
 "4 pieces: +1% heal on hit"
 msgstr ""
+"기술을 사용할 때마다 다음 효과가 중첩됩니다.\n"
+"2 부위: 공격 속도 +10% \n"
+"3 부위: 이동 속도 +10%\n"
+"4 부위: 적중 시 치유 +1%"
 
 #. FILE: da3_dlc_blue\equipment\Sets\dlcblue_equipment_set_nexus_buff_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\equipment\Sets\dlcblue_equipment_set_nexus_buff_abilitydata.xml:5
 msgctxt "0x0004ae0a"
 msgid "The Taken Shape"
-msgstr ""
+msgstr "구체화된 형상"
 
 #. FILE: da3_dlc_blue\equipment\Sigils\dlcblue_part_type_sigil.xml
 #. PATH: ItemPartType/DisplayName
@@ -25112,112 +25260,112 @@ msgstr "인장"
 #: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_attack_abilitydata.xml:5
 msgctxt "0x00049b1f"
 msgid "+10% to attack / -100% critical chance"
-msgstr ""
+msgstr "공격력 +10% / 치명타 확률-100%"
 
 #. FILE: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_barrier_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_barrier_abilitydata.xml:5
 msgctxt "0x00049f37"
 msgid "+50% barrier / -50% health"
-msgstr ""
+msgstr "방어막 +50% / 체력 -50%"
 
 #. FILE: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_cold_damage_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_cold_damage_abilitydata.xml:5
 msgctxt "0x00049efa"
 msgid "+10% cold damage / -50% all other damage"
-msgstr ""
+msgstr "냉기 피해 +10% / 다른 모든 피해 -50%"
 
 #. FILE: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_draining_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_draining_abilitydata.xml:5
 msgctxt "0x00049b21"
 msgid "+35% heal on kill / -50% maximum health"
-msgstr "+35% 처치 시 회복 / -50% 최대 체력"
+msgstr "처치 시 회복량 +35% / 최대 체력 -50%"
 
 #. FILE: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_fire_damage_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_fire_damage_abilitydata.xml:5
 msgctxt "0x00049ef9"
 msgid "+10% fire damage / -50% all other damage"
-msgstr ""
+msgstr "화염 피해 +10% / 다른 모든 피해 -50%"
 
 #. FILE: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_flanking_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_flanking_abilitydata.xml:5
 msgctxt "0x00049b2a"
 msgid "+200% flanking damage / -50% attack"
-msgstr "+200% 측후방 공격 피해량 / -50% 공격력"
+msgstr "측후방 공격 피해량 +200% / 공격력 -50%"
 
 #. FILE: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_front_armor_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_front_armor_abilitydata.xml:5
 msgctxt "0x00049efc"
 msgid "+15% front armor / -50% all other armor"
-msgstr ""
+msgstr "전방 방어 수치 +15% / 다른 모든 방어 수치 -50%"
 
 #. FILE: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_guard_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_guard_abilitydata.xml:5
 msgctxt "0x00049b18"
 msgid "+100% maximum guard / -100% maximum barrier"
-msgstr ""
+msgstr "최대 방어도 +100% / 최대 방어막 -100%"
 
 #. FILE: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_healing_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_healing_abilitydata.xml:5
 msgctxt "0x00049f35"
 msgid "+25% healing bonus / -25% attack"
-msgstr ""
+msgstr "치유량 증가 +25% / 공격력 -25%"
 
 #. FILE: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_health_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_health_abilitydata.xml:5
 msgctxt "0x00049b20"
 msgid "+100% maximum health / -100% armor rating"
-msgstr "+100% 최대 체력 / -100% 방어 수치"
+msgstr "최대 체력 +100% / 방어 수치 -100%"
 
 #. FILE: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_lightning_damage_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_lightning_damage_abilitydata.xml:5
 msgctxt "0x00049ef4"
 msgid "+10% electricity damage / -50% all other damage"
-msgstr ""
+msgstr "전격 피해 +10% / 다른 모든 피해 -50%"
 
 #. FILE: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_offense_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_offense_abilitydata.xml:5
 msgctxt "0x00048ad8"
 msgid "+10% attack / -50% healing bonus"
-msgstr ""
+msgstr "공격력 +10% / 치유량 증가 -50%"
 
 #. FILE: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_plenty_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_plenty_abilitydata.xml:5
 msgctxt "0x00049b29"
 msgid "+50% mana/stamina regeneration /+100% cooldown times"
-msgstr "+50% 마나/기력 재생력 /+100% 재사용 대기시간"
+msgstr "마나/기력 재생 속도 +50% / 재사용 대기시간 +100%"
 
 #. FILE: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_poison_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_poison_abilitydata.xml:5
 msgctxt "0x00049b28"
 msgid "+100% poison damage / -50% attack"
-msgstr ""
+msgstr "독 피해 +100% / 공격력 -50%"
 
 #. FILE: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_spirit_damage_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_spirit_damage_abilitydata.xml:5
 msgctxt "0x00049ef3"
 msgid "+10% spirit damage / -50% all other damage"
-msgstr ""
+msgstr "영혼 피해 +10% / 다른 모든 피해 -50%"
 
 #. FILE: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_vigor_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_dlc_blue\equipment\Sigils\dlcblue_sigil_vigor_abilitydata.xml:5
 msgctxt "0x00049b16"
 msgid "+100% maximum mana/stamina / -50% mana/stamina regeneration"
-msgstr ""
+msgstr "최대 마나/기력 +100% / 마나/기력 회복 속도 -50%"
 
 #. FILE: da3_dlc_blue\equipment\Sigils\dlcblue_upgrade_Sigil_Attack.xml
 #. PATH: UpgradeItemAsset/DisplayName
@@ -25541,11 +25689,11 @@ msgstr "침묵자"
 #. FILE: da3_dlc_red\Equipment\Items\Weapons\Rogue\Daggers\equip_DLC_Red_dlcred_dagger_t4_unique.xml
 #. PATH: EquipItemAsset/Description
 #: da3_dlc_red\Equipment\Items\Weapons\Rogue\Daggers\equip_DLC_Red_dlcred_dagger_t4_unique.xml:11
-#, fuzzy
 msgctxt "0x0004aa20"
 msgid "This blade makes almost no sound, whether slicing through air or flesh. Even when it strikes stone or armor, the clang of the metal is muffled."
 msgstr ""
-"이 칼날이 가르는 게 살점이든 공기든 간에 소리가 거의 안 납니다. 심지어 돌이나 갑옷을 쳤을 때 나는 금속성의 쨍그랑 소리도 덮여버리죠."
+"이 칼은 살점을 가를 때도, 공기를 가를 때도 아무 소리도 내지 않는다. 심지어 돌이나 갑옷을 쳤을 때 나는 금속성의 쨍그랑 소리조차도 "
+"덮여 버린다."
 
 #. FILE: da3_dlc_red\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_DLC_Red_dlcred_maul_t4_unique.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -25557,11 +25705,10 @@ msgstr "바위 파괴자"
 #. FILE: da3_dlc_red\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_DLC_Red_dlcred_maul_t4_unique.xml
 #. PATH: EquipItemAsset/Description
 #: da3_dlc_red\Equipment\Items\Weapons\Warrior\TwoHanded\Mauls\equip_DLC_Red_dlcred_maul_t4_unique.xml:11
-#, fuzzy
 msgctxt "0x0004aa1b"
 msgid "The head of this great hammer is scarred and pitted where the metal has repeatedly met stone. Some previous owner may have used it to batter down a wall… or several… and possibly a magma fountain."
 msgstr ""
-"반복적으로 돌과 부딪혔던 거대한 망치의 머리 부분은 흠집투성이에 움푹 패어 있다. 몇몇 전 소유자들이 벽이나... 아니면 몇몇... "
+"반복적으로 돌과 부딪혔던 거대한 망치의 머리 부분은 흠집 투성이에 움푹 패어 있다. 전 소유자들 몇몇이 벽이나... 아니면 몇몇... "
 "그리고 어쩌면 용암 온천을 후려갈겼을지도 모른다."
 
 #. FILE: da3_dlc_red\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_DLC_Red_dlcred_shield_t4_unique.xml
@@ -25577,6 +25724,8 @@ msgstr "이사투놀"
 msgctxt "0x0004aa1c"
 msgid "The unyielding angles and planes of this shield channel protection like that of the Stone itself. It bears an uncanny resemblance to the walls of a lost fortress in the Deep Roads, as if it had been pried from a bulwark."
 msgstr ""
+"이 탄탄한 방패는 마치 돌 그 자체와 같은 방호력을 선사한다. 그 모습은 마치 성채에서 그대로 떼어낸 듯, 지하 가도에 자리한 잃어버린 "
+"요새의 벽과 기이할 정도로 닮았다."
 
 #. FILE: da3_dlc_red\Equipment\Items\Weapons\Warrior\WeaponShield\Swords\equip_DLC_Red_dlcred_sword_t4_unique.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -25591,3 +25740,4 @@ msgstr "발로스 아트레둠"
 msgctxt "0x0004aa1f"
 msgid "This blade is curiously weighted, making it difficult to stop a swing in progress. A reminder, perhaps, that once the Ancestors have spoken, their word is final."
 msgstr ""
+"이 검은 이상하리만치 무거운 나머지 한번 휘두르면 멈추기 어렵다. 선조의 말씀은 돌이킬 수 없다는 사실을 떠올리게 하기 위함인지도 모른다."
