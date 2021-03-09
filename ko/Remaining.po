@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-08 03:56+0000\n"
-"Last-Translator: nochimchak <jannette3387@gmail.com>\n"
+"PO-Revision-Date: 2021-03-09 16:56+0000\n"
+"Last-Translator: Stellar <xlsksh3@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -3504,13 +3504,12 @@ msgstr "병독"
 #. FILE: DA3\Configurations\Online\Multiplayer\Abilities\Passives\KitUnique\Necromancer\Virulence\MP_necromancer_passive_virulence_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
 #: DA3\Configurations\Online\Multiplayer\Abilities\Passives\KitUnique\Necromancer\Virulence\MP_necromancer_passive_virulence_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x00042d68"
 msgid ""
 "Killing an enemy causes any elemental status effects on it to spread to nearby targets: burning, chilled, frozen, panicked, paralyzed, poisoned, shocked, and weakened.\n"
 "\n"
 msgstr ""
-"적을 처치하면 적이 갖고 있던 상태 효과(화상, 서리, 빙결, 혼란, 마비, 중독, 감전, 약화)가 주변으로 전이됩니다.\n"
+"적을 처치하면 적이 갖고 있던 상태 효과(화상, 서리, 결빙, 공황, 마비, 중독, 감전, 약화)가 주변으로 전이됩니다.\n"
 "\n"
 
 #. FILE: DA3\Configurations\Online\Multiplayer\Abilities\Passives\KitUnique\Reaver\Bloodbath\MP_reaver_passive_bloodbath_abilitydata.xml
@@ -7037,10 +7036,9 @@ msgstr "비에르"
 #. FILE: DA3\DesignContent\CreatureProfiles\ValRoyeaux\val_post_merchant01.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 #: DA3\DesignContent\CreatureProfiles\ValRoyeaux\val_post_merchant01.xml:24
-#, fuzzy
 msgctxt "0x00043031"
 msgid "Belle"
-msgstr "미녀"
+msgstr "멋쟁이"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\ValRoyeaux\val_post_noble01.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -9340,10 +9338,9 @@ msgstr "해진 종이조각 위에 무언가 그려져 있다."
 #. FILE: DA3\DesignContent\Items\ThematicLevels\Desert_Ruins\Treasure_Enchantment.xml
 #. PATH: StackedItemAsset/DisplayName
 #: DA3\DesignContent\Items\ThematicLevels\Desert_Ruins\Treasure_Enchantment.xml:6
-#, fuzzy
 msgctxt "0x00034a0a"
 msgid "Powerful Enchantment"
-msgstr "강력한 마법부여"
+msgstr "강력한 마법주문"
 
 #. FILE: DA3\DesignContent\Items\ThematicLevels\Oasis\the_oasis_explorer_ring.xml
 #. PATH: StackedItemAsset/Description
@@ -10681,16 +10678,15 @@ msgstr "능숙한 손놀림, 섬세한 도구"
 #. FILE: DA3\DesignContent\Perks\Secrets\Perk_Secrets_LockpickA.xml
 #. PATH: UIInquisitionCustomizeItemAsset/Description
 #: DA3\DesignContent\Perks\Secrets\Perk_Secrets_LockpickA.xml:10
-#, fuzzy
 msgctxt "0x00031df7"
 msgid ""
 "The training, gear, and experience working with master locksmiths needed to tackle the toughest and most ingenious locking mechanisms. \n"
 "\n"
 "Allows all rogues in the party to open masterwork locks."
 msgstr ""
-"가장 어렵고 독창적인 잠금장치까지 풀 수 있게 만드는 훈련, 장비, 그리고 장인 열쇠공의 도움이다.\n"
+"가장 어렵고 독창적인 잠금장치까지 풀 수 있도록, 훈련을 거치고 장비를 갖추며 장인 열쇠공과 함께 수련한다.\n"
 "\n"
-"파티의 모든 도적이 masterwork 자물쇠를 풀 수 있게 된다."
+"파티의 모든 도적이 최고 등급 자물쇠를 풀 수 있게 된다."
 
 #. FILE: DA3\DesignContent\Perks\Secrets\Perk_Secrets_OutpostScouting.xml
 #. PATH: UIInquisitionCustomizeItemAsset/Title
@@ -10983,7 +10979,7 @@ msgstr ""
 #: DA3\DesignContent\PrefabComponents\General\CMP_CraftingSpecial.xml:467
 msgctxt "0x00030ed0"
 msgid "Inspect Requisitions"
-msgstr "보급요청 확인하기"
+msgstr "보급 요청 확인하기"
 
 #. FILE: DA3\DesignContent\PrefabComponents\General\CMP_CraftingWeapons.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
@@ -11661,10 +11657,9 @@ msgstr "야영지 건설"
 #. FILE: DA3\DesignContent\PrefabComponents\Wildernesses\Outpost\CMP_PartySelector.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
 #: DA3\DesignContent\PrefabComponents\Wildernesses\Outpost\CMP_PartySelector.xml:222
-#, fuzzy
 msgctxt "0x0001daba"
 msgid "Change Party"
-msgstr "동료 변경"
+msgstr "일행 변경"
 
 #. FILE: DA3\DesignContent\Prefabs\AreaTransitions\AreaTransition_FromHub.xml
 #. PATH: NotificationEntityData/TitleTextReference
@@ -12376,10 +12371,9 @@ msgstr "단검 조각 {string}281367{/string}: {CUSTOM0}"
 #. PATH: NotificationEntityData[2]/TitleTextReference
 #. STRING 281367(0x00044b17) : Removed
 #: DA3\DesignContent\Prefabs\CreatureCodex\CreatureCodexSubPrefab_rage_demon.xml:853
-#, fuzzy
 msgctxt "0x00041a50"
 msgid "Smoldering Cores {string}281367{/string}: {CUSTOM0}"
-msgstr "들끓는 중심부 {string}281367{/string}: {CUSTOM0}"
+msgstr "들끓는 핵 {string}281367{/string}: {CUSTOM0}"
 
 #. FILE: DA3\DesignContent\Prefabs\CreatureCodex\CreatureCodexSubPrefab_ram.xml
 #. PATH: NotificationEntityData[1]/TitleTextReference
@@ -14017,14 +14011,13 @@ msgstr ""
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[4]/Text
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml:4436
-#, fuzzy
 msgctxt "0x0004760f"
 msgid "Hakkon's Charge {controller}{StringBtnB}{/controller}{notcontroller}{ConceptSelectInventoryItem3}{/notcontroller}: {controller}Hold{/controller}{notcontroller}Toggle{/notcontroller} this ability to charge forward, hitting all enemies in your path. Your stamina slowly drains as you charge; at the end of your charge, you unleash a heavy attack in the direction you face. This ability attunes to the element of cold."
 msgstr ""
 "하콘의 돌격 {controller}{StringBtnB}{/controller}{notcontroller}{ConceptSelectInve"
-"ntoryItem3}{/notcontroller}: {controller}{/controller}{notcontroller} 를 누르고 "
-"{/notcontroller} 로 이 기능을 켜서 앞 길을 가로막고 있는 적을에게 돌격할 수 있다. 돌격시 기력이 서서히 닳으며, "
-"마지막에는 보고있는 방향에 강공격을 가한다. 이 기술은 element of cold와 맞물린다."
+"ntoryItem3}{/notcontroller}: {controller}버튼을 눌러{/controller}{notcontroller}"
+"버튼으로 기술을 활성화하면{/notcontroller} 전방으로 돌진하여 경로의 모든 적을 공격합니다. 공격 중에는 서서히 기력이 "
+"소모됩니다. 돌격이 끝날 때 바라보는 방향에 육중한 일격을 날립니다. 이 기술은 냉기 원소에 조정됩니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[5]/Text
@@ -14174,6 +14167,9 @@ msgstr ""
 msgctxt "0x0004760b"
 msgid "Korth's Might {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: This unleashes the currently attuned element in a mighty attack upon your target. If an element is not attuned, this ability inflicts physical damage."
 msgstr ""
+"코르트의 힘 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInve"
+"ntoryItem1}{/notcontroller}: 이 기술을 사용하면 대상에게 현재 조정된 원소에 따라 막강한 공격을 가합니다. 원소가 "
+"조정되지 않은 경우 물리 피해를 줍니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[21]/Text
@@ -14204,10 +14200,12 @@ msgstr ""
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[24]/Text
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml:5296
-#, fuzzy
 msgctxt "0x000475f3"
 msgid "Chain Lightning {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: This ability inflicts lightning damage on your foes. As this attack bounces between nearby enemies, use it when two or more foes are in close proximity for maximum effectiveness."
-msgstr "연쇄 번개 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: 적에게 전격 피해를 가합니다. 근처의 적에게 튕기며 연쇄적인 피해를 입히기 때문에, 둘 이상의 적이 모여있을 때 사용하면 가장 효율적입니다."
+msgstr ""
+"연쇄 번개 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInven"
+"toryItem1}{/notcontroller}: 적에게 전격 피해를 가합니다. 근처의 적에게 튕기며 연쇄적인 피해를 입히기 때문에, 둘 "
+"이상의 적이 모여있을 때 사용하면 가장 효율적입니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[25]/Text
@@ -14246,6 +14244,10 @@ msgstr "각 구역 시작점에 있는 체력의 샘에서 아군의 체력을 �
 msgctxt "0x0004760e"
 msgid "Charging Bull {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: {controller}Hold{/controller}{notcontroller}Toggle{/notcontroller} this ability to charge forward, knocking over all enemies in your path. Your stamina slowly drains as you charge, and you gain Guard for each enemy you strike."
 msgstr ""
+"황소 돌진 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInven"
+"toryItem1}{/notcontroller}: {controller}버튼을 유지하면{/controller}{notcontroller}"
+"기술을 활성화하면{/notcontroller} 전방으로 돌격하여 경로의 모든 적을 넘어뜨립니다. 돌진 중에는 서서히 기력이 소모됩니다. "
+"적에게 피해를 줄 때마다 방어도를 얻습니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[29]/Text
@@ -14292,10 +14294,12 @@ msgstr ""
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[33]/Text
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml:5683
-#, fuzzy
 msgctxt "0x0004760c"
 msgid "Chain Lightning {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: This ability inflicts lightning damage on your foes. As this attack bounces between nearby enemies, use it when two or more foes are in close proximity for maximum effectiveness."
-msgstr "연쇄 번개 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: 적에게 전격 피해를 가합니다. 근처의 적에게 튕기며 연쇄적인 피해를 입히기 때문에, 둘 이상의 적이 모여있을 때 사용하면 가장 효율적입니다."
+msgstr ""
+"연쇄 번개 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInven"
+"toryItem1}{/notcontroller}: 적에게 전격 피해를 가합니다. 근처의 적에게 튕기며 연쇄적인 피해를 입히기 때문에, 둘 "
+"이상의 적이 모여있을 때 사용하면 가장 효율적입니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[34]/Text
@@ -14323,6 +14327,12 @@ msgstr ""
 msgctxt "0x00047601"
 msgid "Chords {controller}{StringBtnX},{StringBtnY},{StringBtnB}{/controller}{notcontroller}{ConceptSelectInventoryItem1},{ConceptSelectInventoryItem2},{ConceptSelectInventoryItem3}{/notcontroller}: Create songs of power by pressing the {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInventoryItem4}{/notcontroller} button. At first, ZITHER! can only play FIRE FIRE FIRE, COLD COLD COLD, or ELEC ELEC ELEC songs; as you unlock new abilities, more complex and powerful combinations become available."
 msgstr ""
+"화음{controller}{StringBtnX},{StringBtnY},{StringBtnB}{/controller}{notcontroll"
+"er}{ConceptSelectInventoryItem1},{ConceptSelectInventoryItem2},{ConceptSelect"
+"InventoryItem3}{/notcontroller}: 힘이 담긴 노래를{controller}{StringBtnRB}{/controll"
+"er}{notcontroller}{ConceptSelectInventoryItem4}{/notcontroller} 버튼을 눌러 "
+"만들어내세요. 처음에 지터!는 불 불 불, 냉기 냉기 냉기나 전격 전격 전격 조합만 연주할 수 있지만, 새로운 기술을 해제함에 따라 더 "
+"복잡하고 강력한 조합을 사용할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[37]/Text
@@ -14341,6 +14351,11 @@ msgstr ""
 msgctxt "0x00047600"
 msgid "Shield Wall {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInventoryItem4}{/notcontroller}: {controller}Holding{/controller}{notcontroller}Toggling{/notcontroller} this ability draws on your stamina to block incoming attacks. As long as you have enough stamina, you will fully block the attack and generate guard. Using Shield Wall on larger creatures consumes more stamina."
 msgstr ""
+"방어벽 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInvent"
+"oryItem4}{/notcontroller}: "
+"{controller}Holding{/controller}{notcontroller}Toggling{/notcontroller} 이 "
+"기술은 당신의 기력을 소모하여 공격을 막습니다. 기력이 충분하다면, 방어막을 생성하여 공격을 완벽히 방어할 수 있습니다. 큰 적일수록 "
+"기력을 더 많이 소모합니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[39]/Text
@@ -14369,6 +14384,9 @@ msgstr "부가목표를 성공적으로 완수했습니다. 모든 아군에게 
 msgctxt "0x0004761c"
 msgid "Some areas are blocked by magical barriers. As a mage, you can approach this doorway and press {controller}{StringBtnA}{/controller}{notcontroller}{StringBtnMouseRight}{/notcontroller} to remove it with a spell and pass through. "
 msgstr ""
+"일부 지역은 마법 방벽으로 막혀 있습니다. 마법사인 당신은 이런 통로에 접근하여 {controller}{StringBtnA}{/contro"
+"ller}{notcontroller}{StringBtnMouseRight}{/notcontroller}을 눌러 마법으로 방벽을 해제하고 "
+"지나갈 수 있습니다. "
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[43]/Text
@@ -14405,6 +14423,9 @@ msgstr ""
 msgctxt "0x00047604"
 msgid "Flashing Steel {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInventoryItem2}{/notcontroller}: This inflicts physical damage on all nearby enemies. If any of those enemies have a vendetta mark, you gain Elusive and the next attack against you will miss."
 msgstr ""
+"은빛 섬광 {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInven"
+"toryItem2}{/notcontroller}: 이 기술은 주변 모든 적군에게 물리 피해를 줍니다. 앙갚음 표식이 있는 적이 있다면 "
+"회피를 얻으며, 다음 받게 되는 공격은 빗나가게 됩니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[48]/Text
@@ -14412,6 +14433,9 @@ msgstr ""
 msgctxt "0x00047603"
 msgid "Devour {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInventoryItem4}{/notcontroller}: This damages your target while also restoring your health. The lower your current health level, the more healing you receive."
 msgstr ""
+"탐식 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInvento"
+"ryItem4}{/notcontroller}: 대상에게 피해를 주면서 동시에 체력이 회복됩니다. 현재 체력이 낮을수록 회복량이 더 "
+"많아집니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[49]/Text
@@ -14419,6 +14443,8 @@ msgstr ""
 msgctxt "0x0004761a"
 msgid "Side passages and areas hidden behind doorways are \"treasure rooms\" that contain valuable chests. But be careful—some treasure chests are guarded by enemies or evil spirits."
 msgstr ""
+"샛길이나 문 뒤에 숨겨진 공간에는 값진 보물 상자가 들어 있는 보물 방이 있습니다. 하지만 조심하세요. 어떤 보물 상자는 적이나 악령들이 "
+"지키고 있습니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[50]/Text
@@ -14445,6 +14471,7 @@ msgstr ""
 msgctxt "0x00047616"
 msgid "Congratulations—you have successfully completed your mission! The Inquisitor would be proud! You may now review the details of your battle on the end-of-match screen."
 msgstr ""
+"축하합니다. 임무를 성공적으로 완수하셨습니다! 심문관께서 자랑스러워 하실 것입니다! 전투의 세부사항은 경기 종료 화면에서 볼 수 있습니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[53]/Text
@@ -14538,7 +14565,7 @@ msgstr "열쇠를 찾자."
 #: DA3\DesignContent\Prefabs\Multiplayer\PFB_MPKeyChest.xml:1405
 msgctxt "0x0002b9a9"
 msgid "Key Collected"
-msgstr ""
+msgstr "수집한 열쇠"
 
 #. FILE: DA3\DesignContent\Tutorials\TutorialManager.xml
 #. PATH: BWPopUpEntityData[2]/Text
@@ -14630,7 +14657,7 @@ msgstr "<font color=\"#CCDDAA\">인벤토리를 눌러 새 아이템을 장착�
 #: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer13_tutorial.xml:174
 msgctxt "0x00049aac"
 msgid "<font color=\"#CCDDAA\">Select the \"Store\" tab to collect a free chest containing a new weapon for your character.</font>"
-msgstr ""
+msgstr "<font color=\"#CCDDAA\">\"상점\" 탭에서 캐릭터의 새 무기가 들어 있는 무료 상자를 받으세요.</font>"
 
 #. FILE: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer13_tutorial.xml
 #. PATH: BWPopUpEntityData[3]/Text
@@ -14638,6 +14665,8 @@ msgstr ""
 msgctxt "0x00049fda"
 msgid "<font color=\"#CCDDAA\">You're ready to head out on another operation! Select \"Quick Match\" or \"Create Match\" to start a new Multiplayer operation.</font>"
 msgstr ""
+"<font color=\"#CCDDAA\">다른 작전을 개시할 준비가 되었습니다! \"빠른 매치\" 나 \"매치 생성하기\"를 선택해 "
+"새로운 멀티플레이 작전을 개시하세요.</font>"
 
 #. FILE: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer13_tutorial.xml
 #. PATH: BWPopUpEntityData[4]/Text
@@ -14645,6 +14674,7 @@ msgstr ""
 msgctxt "0x0004a2b4"
 msgid "<font color=\"#CCDDAA\">Select \"Potions\" to ensure you are prepared with an assortment of potions to use during the next operation.</font>"
 msgstr ""
+"<font color=\"#CCDDAA\">다음 작전 수행을 위한 물약들이 준비되었는지 \"물약\" 탭에서 확인하세요.</font>"
 
 #. FILE: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer13_tutorial.xml
 #. PATH: BWPopUpEntityData[5]/Text
@@ -14652,34 +14682,36 @@ msgstr ""
 msgctxt "0x00049fd9"
 msgid "<font color=\"#CCDDAA\">Select \"Abilities\", and use with the points you received from leveling up to choose a new ability!</font>"
 msgstr ""
+"<font color=\"#CCDDAA\">\"기술\" 탭을 선택하시고 레벨업을 통해 얻은 포인트를 소모해 새 기술을 "
+"습득하세요!</font>"
 
 #. FILE: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer1_default_schematic.xml
 #. PATH: BWPopUpEntityData[1]/Text
 #: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer1_default_schematic.xml:278
 msgctxt "0x000380ef"
 msgid "Are you sure you want to exit Multiplayer?"
-msgstr ""
+msgstr "멀티플레이어를 나가시겠습니까?"
 
 #. FILE: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer1_default_schematic.xml
 #. PATH: BWPopUpEntityData[3]/Text
 #: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer1_default_schematic.xml:640
 msgctxt "0x000438ce"
 msgid "Challenge data is temporarily unavailable."
-msgstr ""
+msgstr "일시적으로 도전 정보에 접근할 수 없습니다."
 
 #. FILE: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer1_default_schematic.xml
 #. PATH: BWPopUpEntityData[4]/Title
 #: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer1_default_schematic.xml:879
 msgctxt "0x00043462"
 msgid "Inventory Full"
-msgstr ""
+msgstr "가방 가득 참"
 
 #. FILE: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer1_default_schematic.xml
 #. PATH: BWPopUpEntityData[4]/Text
 #: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer1_default_schematic.xml:885
 msgctxt "0x0004333d"
 msgid "Your inventory contains too many items. Until you salvage some, you cannot craft new items or access the store."
-msgstr ""
+msgstr "인벤토리에 너무 많은 아이템이 있습니다.일부 아이템을 재활용하기 전까지는 새 아이템을 제작하거나 상점에 접근할 수 없습니다."
 
 #. FILE: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer1_default_schematic.xml
 #. PATH: BWPopUpEntityData[5]/Title
@@ -14723,7 +14755,7 @@ msgstr "현재 사용자가 EA Access 체험판을 소유하고 있지않습니�
 #: DA3\Levels\StartMenu\StartMenu\layer1_default_schematic.xml:546
 msgctxt "0x0004a408"
 msgid "The 2014 Game of the Year awaits—Unlock the full game to continue your journey and bring an end to the chaos that grips Thedas!"
-msgstr ""
+msgstr "2014년 올해의 게임이 기다리고 있습니다—모험을 계속하려면 전체 게임을 해제하고 테다스를 거머쥔 혼돈에 끝을 내세요!"
 
 #. FILE: DA3\Levels\StartMenu\StartMenu\layer1_default_schematic.xml
 #. PATH: BWPopUpEntityData[4]/Text
@@ -14731,6 +14763,9 @@ msgstr ""
 msgctxt "0x00044fe9"
 msgid "There is downloadable content present that requires the latest version of the game. It will not be accessible until you download the latest {xbox360}Title Update{/xbox360}{xboxone}content update{/xboxone}{anyplaystation}patch{/anyplaystation}{pc}patch{/pc}."
 msgstr ""
+"게임의 최신 버전을 필요로 하는 다운로드 가능 콘텐츠가 있습니다. 최신{xbox360}타이틀 업데이트{/xbox360}{xboxone}"
+"콘텐츠 업데이트{/xboxone}{anyplaystation}패치{/anyplaystation}{pc}패치{/pc}를 다운로드 하기 "
+"전까지 접근할 수 없습니다."
 
 #. FILE: DA3\Levels\StartMenu\StartMenu\layer1_default_schematic.xml
 #. PATH: BWPopUpEntityData[6]/Text
@@ -15066,7 +15101,7 @@ msgstr "빠른 불러오기"
 #: DA3\Logic\Levels\SingletonEntities.xml:625
 msgctxt "0x00044a08"
 msgid "Scorecard (MP)"
-msgstr ""
+msgstr "점수표 (MP)"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities.xml
 #. PATH: EnumToLocalizedStringMapperEntityData/MappedInputConcepts/member[40]/InputConceptAndLocalizedStringPair/InputConceptString
@@ -15078,7 +15113,6 @@ msgstr "일시정지 / 정지풀기"
 #. FILE: DA3\Logic\Levels\SingletonEntities.xml
 #. PATH: EnumToLocalizedStringMapperEntityData/MappedInputConcepts/member[41]/InputConceptAndLocalizedStringPair/InputConceptString
 #: DA3\Logic\Levels\SingletonEntities.xml:655
-#, fuzzy
 msgctxt "0x00044acb"
 msgid "Pan Tactical Camera"
 msgstr "전술 시점 카메라 이동"
@@ -15207,7 +15241,7 @@ msgstr "무기 꺼내기/넣기"
 #: DA3\Logic\Levels\SingletonEntities.xml:895
 msgctxt "0x0004acbf"
 msgid "Mark/Unmark for Salvage (MP)"
-msgstr ""
+msgstr "분해할 물건으로 표시/표시 해제 (MP)"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities.xml
 #. PATH: EnumToLocalizedStringMapperEntityData/MappedInputActionsMouse/member[1]/InputActionMouseAndLocalizedStringPair/InputActionString
@@ -15270,7 +15304,7 @@ msgstr "마우스 버튼 7"
 #: DA3\Logic\Levels\SingletonEntities_MP.xml:505
 msgctxt "0x000286cf"
 msgid "Empty {CUSTOM0}"
-msgstr ""
+msgstr "비어있음 {CUSTOM0}"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities_MP.xml
 #. PATH: ItemManagerEntityData/RequirementText
@@ -15802,7 +15836,7 @@ msgstr "여제의 시련"
 #: DA3\Persistence\AchievementTree.xml:207
 msgctxt "0x00042e4b"
 msgid "Complete 20 requisition requests in a single playthrough."
-msgstr "한 회차를 플레이하며 20번의 보급요청 퀘스트를 완료하십시오."
+msgstr "한 회차를 플레이하며 20번의 보급 요청 퀘스트를 완료하십시오."
 
 #. FILE: DA3\Persistence\AchievementTree.xml
 #. PATH: AwardAchievementData[3]/LocalizedName
@@ -16831,7 +16865,7 @@ msgstr "하콘 거인"
 #: DA3_DLC1\Creatures\wilderness\creature_dlc1_wilderness_gibberinghorror_avvar.xml:4614
 msgctxt "0x000466f5"
 msgid "Frosted Gibbering Horror"
-msgstr ""
+msgstr "서리 맺힌 중얼거리는 공포"
 
 #. FILE: DA3_DLC1\Creatures\wilderness\creature_dlc1_wilderness_imbued_tusket_electricity.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -17246,7 +17280,7 @@ msgstr "골동품 수집가 제논 (잠듦)"
 #: DA3_DLC_BlackEmporium\map\DA3_DLC_BlackEmporium_floor0.xml:25
 msgctxt "0x00045a7a"
 msgid "The Black Emporium"
-msgstr "검은 상점"
+msgstr "검은 만물상"
 
 #. FILE: DA3_ItemPacks\ItemPack2\ip2_BaseCust_Banner.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
@@ -17535,7 +17569,7 @@ msgstr "{anyxbox}A 버튼{/anyxbox}{anyplaystation}X 버튼{/anyplaystation}"
 #: Localization\StringMarkup\MarkupTags.xml:1191
 msgctxt "0x00043b1c"
 msgid "{notpc}the right stick up and down{/notpc}"
-msgstr ""
+msgstr "{notpc}오른쪽 스틱을 위아래로 움직여{/notpc}"
 
 #. FILE: Localization\StringMarkup\MarkupTags.xml
 #. PATH: UIStringMarkupInputAsset[8]/ImageDatas/member[1]/UIStringMarkupInputAssetData/Text
@@ -17556,7 +17590,7 @@ msgstr "{anyxbox}RB{/anyxbox}{anyplaystation}R1{/anyplaystation}"
 #: Localization\StringMarkup\MarkupTags.xml:1864
 msgctxt "0x00037d0d"
 msgid "[Enter]"
-msgstr ""
+msgstr "[Enter]"
 
 #. FILE: Localization\StringMarkup\MarkupTags.xml
 #. PATH: UIStringMarkupInputAsset[12]/ImageDatas/member[1]/UIStringMarkupInputAssetData/Text
@@ -17610,6 +17644,7 @@ msgstr "{anyxbox}LB{/anyxbox}{anyplaystation}L1{/anyplaystation}"
 msgctxt "0x00043b13"
 msgid "{anyxbox}up and down on the directional pad{/anyxbox}{anyplaystation}the up and down buttons{/anyplaystation}"
 msgstr ""
+"{anyxbox}방향패드를 위아래로 움직여{/anyxbox}{anyplaystation}상하 버튼을 눌러{/anyplaystation}"
 
 #. FILE: Localization\StringMarkup\MarkupTags.xml
 #. PATH: UIStringMarkupInputAsset[19]/ImageDatas/member[1]/UIStringMarkupInputAssetData/Text
@@ -17630,7 +17665,7 @@ msgstr "{pc}마우스 왼쪽 클릭{/pc}"
 #: Localization\StringMarkup\MarkupTags.xml:3414
 msgctxt "0x00037d0b"
 msgid "[Esc]"
-msgstr ""
+msgstr "[Esc]"
 
 #. FILE: Localization\StringMarkup\MarkupTags.xml
 #. PATH: UIStringMarkupInputAsset[22]/ImageDatas/member[1]/UIStringMarkupInputAssetData/Text
@@ -17694,6 +17729,7 @@ msgstr "{notpc}오른쪽 스틱 위 아래{/notpc}"
 msgctxt "0x00043b15"
 msgid "{anyxbox}left and right on the directional pad{/anyxbox}{anyplaystation}the left and right buttons{/anyplaystation}"
 msgstr ""
+"{anyxbox}방향 패드를 좌우로 움직여{/anyxbox}{anyplaystation}좌우 버튼을 눌러{/anyplaystation}"
 
 #. FILE: Localization\StringMarkup\MarkupTags.xml
 #. PATH: UIStringMarkupInputAsset[31]/ImageDatas/member[1]/UIStringMarkupInputAssetData/Text
@@ -18106,7 +18142,7 @@ msgstr "얼굴 모양"
 #: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml:23479
 msgctxt "0x00042d0d"
 msgid "Shape Blend"
-msgstr ""
+msgstr "외형 혼합"
 
 #. FILE: Systems\CharacterCreation\CharacterCreationLogicPrefab.xml
 #. PATH: UIHeadMorphSliderShape[2]/Title
@@ -19353,7 +19389,7 @@ msgstr "리륨 덩어리"
 #: da3_dlc_red\Creatures\Faction\eidolon\creature_DLC_Red_Heart_Guardian_Tentacles.xml:3978
 msgctxt "0x0004abf9"
 msgid "Rock Flail"
-msgstr ""
+msgstr "암석 도리깨질"
 
 #. FILE: da3_dlc_red\Creatures\Faction\eidolon\creature_DLC_Red_Heart_Guardian_Torso.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -19636,13 +19672,15 @@ msgid ""
 "Your magical song deals fire damage and ricochets to nearby enemies as well.\n"
 "\n"
 msgstr ""
+"마법이 담긴 노래를 불러 화염 피해를 주고 주변의 적에게도 튕깁니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\AAA_\party_mage_mp2_bard_aaa_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 #: da3_mp2\Combat\Kits\Bard\10slot\Songs\AAA_\party_mage_mp2_bard_aaa_abilitydata.xml:31
 msgctxt "0x0004704f"
 msgid "<br><font color=\"#BAAB7B\">Requires the following chords:</font> </br>"
-msgstr ""
+msgstr "<br><font color=\"#BAAB7B\">다음 화음 필요:</font> </br>"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\AAB_\party_mage_mp2_bard_aab_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -19659,6 +19697,8 @@ msgid ""
 "Your magical song causes cold damage over time.\n"
 "\n"
 msgstr ""
+"마법의 노래가 냉기 지속 피해를 줍니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\AAB_\party_mage_mp2_bard_aab_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -19675,6 +19715,8 @@ msgid ""
 "Every time your target takes damage, enemies around it take a small amount of cold damage as well.\n"
 "\n"
 msgstr ""
+"대상이 피해를 받을 때마다 주변의 적도 함께 소량의 냉기 피해를 받습니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\AAC_\party_mage_mp2_bard_aac_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -19691,6 +19733,8 @@ msgid ""
 "Your magical song deals electricity damage to all nearby enemies. Closer enemies take more damage.\n"
 "\n"
 msgstr ""
+"마법의 노래가 주변의 모든 적에게 전격 피해를 줍니다. 가까이 있는 적은 더 큰 피해를 받습니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\AAC_\party_mage_mp2_bard_aac_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -19707,6 +19751,8 @@ msgid ""
 "Power Chord now removes hostile magic and status effects from allies while shattering beneficial effects from enemies.\n"
 "\n"
 msgstr ""
+"이제 파워 코드를 사용하면 아군에게 걸린 해로운 마법과 상태이상을 제거하고, 적에게 걸린 이로운 효과를 해제합니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\ABB_\party_mage_mp2_bard_abb_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -19723,6 +19769,8 @@ msgid ""
 "Your magical song bolsters the fortitude of your allies, increasing their armor.\n"
 "\n"
 msgstr ""
+"마법의 노래가 아군의 방어 수치를 높입니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\ABB_\party_mage_mp2_bard_abb_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -19730,6 +19778,8 @@ msgstr ""
 msgctxt "0x00047068"
 msgid "<font color=\"#BAAB7B\">Armor Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">방어력 보너스: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}</font>\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\ABB_\party_mage_mp2_bard_abb_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -19746,13 +19796,15 @@ msgid ""
 "A Little Knight Music now reduces the armor of enemies in the area.\n"
 "\n"
 msgstr ""
+"작은 기사의 노래가 주변 적의 방어력을 떨어뜨립니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\ABC_\party_mage_mp2_bard_abc_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: da3_mp2\Combat\Kits\Bard\10slot\Songs\ABC_\party_mage_mp2_bard_abc_abilitydata.xml:5
 msgctxt "0x00047065"
 msgid "Mark of the Riff"
-msgstr ""
+msgstr "리프의 표식"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\ABC_\party_mage_mp2_bard_abc_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -19762,21 +19814,24 @@ msgid ""
 "Your magical song conjures elemental energy around your allies' weapons, adding bonus damage to their attacks.\n"
 "\n"
 msgstr ""
+"마법의 노래를 줄러 아군의 무기를 원소력으로 강화합니다. 매 공격 시 추가 피해를 줍니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\ABC_\party_mage_mp2_bard_abc_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
 #: da3_mp2\Combat\Kits\Bard\10slot\Songs\ABC_\party_mage_mp2_bard_abc_abilitydata.xml:18
-#, fuzzy
 msgctxt "0x00047067"
 msgid "<font color=\"#BAAB7B\">Damage Bonus per Hit: </font><font color=\"#F5ECCE\">{CUSTOM0} elemental damage</font>\n"
-msgstr "<font color=\"#BAAB7B\">타격 당 추가 피해량: </font><font color=\"#F5ECCE\">{CUSTOM0} 원소 피해</font>\n"
+msgstr ""
+"<font color=\"#BAAB7B\">타격 당 추가 피해량: </font><font color=\"#F5ECCE\">{CUSTOM0}"
+" 원소 피해</font>\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\ABC_\party_mage_mp2_bard_abc_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: da3_mp2\Combat\Kits\Bard\10slot\Songs\ABC_\party_mage_mp2_bard_abc_upgrade1_abilitydata.xml:5
 msgctxt "0x00047070"
 msgid "Break It Down"
-msgstr ""
+msgstr "춤출 시간"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\ABC_\party_mage_mp2_bard_abc_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -19786,13 +19841,15 @@ msgid ""
 "Mark of the Riff now shakes the resolve of your enemies, weakening their attacks.\n"
 "\n"
 msgstr ""
+"리프의 표식은 적의 의지를 흔들어 공격을 약화시킵니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\ACC_\party_mage_mp2_bard_acc_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: da3_mp2\Combat\Kits\Bard\10slot\Songs\ACC_\party_mage_mp2_bard_acc_abilitydata.xml:5
 msgctxt "0x0004704d"
 msgid "Battle of the Bands"
-msgstr ""
+msgstr "악단의 전투"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\ACC_\party_mage_mp2_bard_acc_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -19802,6 +19859,8 @@ msgid ""
 "Your magical song increases the attack speed of your allies.\n"
 "\n"
 msgstr ""
+"마법의 노래가 아군의 공격 속도를 증가시킵니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\ACC_\party_mage_mp2_bard_acc_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -19809,6 +19868,8 @@ msgstr ""
 msgctxt "0x00047209"
 msgid "<font color=\"#BAAB7B\">Attack Speed Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">공격 속도 증가량: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}%</font>"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\ACC_\party_mage_mp2_bard_acc_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -19825,13 +19886,15 @@ msgid ""
 "Battle of the Bands now reduces the movement speed of enemies in the area.\n"
 "\n"
 msgstr ""
+"악단의 전투가 범위 내 적의 이동 속도를 저하시킵니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\BBB_\party_mage_mp2_bard_bbb_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: da3_mp2\Combat\Kits\Bard\10slot\Songs\BBB_\party_mage_mp2_bard_bbb_abilitydata.xml:5
 msgctxt "0x00047053"
 msgid "Hometown Anthem"
-msgstr ""
+msgstr "고향의 찬가"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\BBB_\party_mage_mp2_bard_bbb_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -19841,13 +19904,15 @@ msgid ""
 "Your magical song generates barriers around your allies to shield them from their foes.\n"
 "\n"
 msgstr ""
+"마법의 노래가 아군 주변에 방어막을 생성하여 아군을 보호합니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\BBC_\party_mage_mp2_bard_bbc_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: da3_mp2\Combat\Kits\Bard\10slot\Songs\BBC_\party_mage_mp2_bard_bbc_abilitydata.xml:5
 msgctxt "0x0004705d"
 msgid "Bolstering Ballad"
-msgstr ""
+msgstr "북돋는 발라드"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\BBC_\party_mage_mp2_bard_bbc_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -19857,6 +19922,8 @@ msgid ""
 "Your magical song improves the party's resistance to elemental and spirit damage.\n"
 "\n"
 msgstr ""
+"마법의 노래가 아군의 원소 및 영혼 저항력을 증가시킵니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\BBC_\party_mage_mp2_bard_bbc_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -19864,6 +19931,8 @@ msgstr ""
 msgctxt "0x0004705f"
 msgid "<font color=\"#BAAB7B\">Elemental Resistance: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">원소 저항: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}%</font>\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\BBC_\party_mage_mp2_bard_bbc_abilitydata.xml
 #. PATH: BWActivatedAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -19871,13 +19940,15 @@ msgstr ""
 msgctxt "0x00047060"
 msgid "<font color=\"#BAAB7B\">Spirit Resistance: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">영혼 저항: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}%</font>\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\BBC_\party_mage_mp2_bard_bbc_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: da3_mp2\Combat\Kits\Bard\10slot\Songs\BBC_\party_mage_mp2_bard_bbc_upgrade1_abilitydata.xml:5
 msgctxt "0x00047074"
 msgid "Tug the Heartstrings"
-msgstr ""
+msgstr "심금 울리기"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\BBC_\party_mage_mp2_bard_bbc_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -19887,6 +19958,8 @@ msgid ""
 "Bolstering Ballad also reduces your enemies' resistance to elemental and spirit damage.\n"
 "\n"
 msgstr ""
+"북돋는 발라드가 적의 원소 및 영혼 저항력을 감소시킵니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\BCC_\party_mage_mp2_bard_bcc_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -19929,7 +20002,7 @@ msgstr ""
 #: da3_mp2\Combat\Kits\Bard\10slot\Songs\Badnote\party_mage_mp2_bard_song_Badnote_abilitydata.xml:5
 msgctxt "0x00046eeb"
 msgid "Invalid Song"
-msgstr ""
+msgstr "노래 효과 없음"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\CCC_\party_mage_mp2_bard_ccc_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -19955,6 +20028,8 @@ msgstr ""
 msgctxt "0x00042911"
 msgid "<font color=\"#BAAB7B\">Movement Speed Amount: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">이동 속도량: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}%</font>\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\Notes\Anote\party_mage_mp2_bard_Anote_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -19973,6 +20048,10 @@ msgid ""
 "This ability lets you play Hot Licks, which deals fire damage and ricochets to nearby enemies.\n"
 "\n"
 msgstr ""
+"현재 활성화된 노래에 뜨겁고 공격적인 가락을 추가합니다.\n"
+"\n"
+"이 기술을 사용하면 열정적 릭을 사용할 수 있습니다. 열정적 릭은 화염 피해를 주고 주변 적에게 퍼져니갑니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\Notes\Bnote\party_mage_mp2_bard_Bnote_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -19991,6 +20070,10 @@ msgid ""
 "This ability lets you play Hometown Anthem, which generates barriers for all allies around you.\n"
 "\n"
 msgstr ""
+"현재 활성화된 노래에 얼어붙은 방어적인 가락을 추가합니다.\n"
+"\n"
+"이 기술을 사용하면 고향의 찬가를 부를 수 있습니다. 고향의 찬가는 주변 모든 아군에게 방어막을 생성합니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\Notes\Cnote\party_mage_mp2_bard_Cnote_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -20009,6 +20092,10 @@ msgid ""
 "This ability lets you play Fast Beat, which increases your allies' movement speed.\n"
 "\n"
 msgstr ""
+"현재 활성화된 노래에 활력의 전격 가락을 추가합니다.\n"
+"\n"
+"이 기술을 사용하면 빠른 박자를 연주할 수 있습니다. 빠른 박자는 아군의 이동 속도를 증가시킵니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\Powerchord\party_mage_mp2_bard_Powerchord_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -20025,6 +20112,8 @@ msgid ""
 "You unleash a magical melody whose effect depends on the notes currently queued. You must have learned the song to play it.\n"
 "\n"
 msgstr ""
+"현재까지 입력된 가락에 따라 효과가 달라지는 마법의 선율을 연주합니다. 곡을 연주하려면 먼저 해당 기술을 습득해야 합니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\4Cast\party_mage_mp2_bard_passive_4cast_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -20041,13 +20130,15 @@ msgid ""
 "Your barrier increases for each ally in the area whenever you play any song.\n"
 "\n"
 msgstr ""
+"곡을 연주할 때마다 범위 내 아군의 숫자에 비례해 방어막이 추가됩니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\Aprimer\party_mage_mp2_bard_passive_Aprimer_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_mp2\Combat\Kits\Bard\passive\Aprimer\party_mage_mp2_bard_passive_Aprimer_abilitydata.xml:5
 msgctxt "0x00047079"
 msgid "Infernal Music"
-msgstr ""
+msgstr "업화의 음악"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\Aprimer\party_mage_mp2_bard_passive_Aprimer_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -20057,13 +20148,15 @@ msgid ""
 "For each active Fire Chord currently queued, you gain a bonus to the damage you do.\n"
 "\n"
 msgstr ""
+"입력된 화염 코드 하나당 추가 피해를 줍니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\Audio\party_mage_mp2_bard_passive_audio_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
 #: da3_mp2\Combat\Kits\Bard\passive\Audio\party_mage_mp2_bard_passive_audio_abilitydata.xml:5
 msgctxt "0x00047144"
 msgid "BAD NOTE"
-msgstr ""
+msgstr "삑사리"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\BasicAttack\party_mage_mp2_bard_passive_basicattack_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -20080,6 +20173,8 @@ msgid ""
 "Your basic magic attacks now generate mana.\n"
 "\n"
 msgstr ""
+"기본 공격을 할 때마다 마나를 생성합니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\Bprimer\party_mage_mp2_bard_passive_Bprimer_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -20096,6 +20191,8 @@ msgid ""
 "For each active Ice Chord currently queued, you gain a bonus to your defense.\n"
 "\n"
 msgstr ""
+"입력된 냉기 코드 하나당 추가 방어력을 얻습니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\Bprimer\party_mage_mp2_bard_passive_Bprimer_abilitydata.xml
 #. PATH: BWPassiveAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -20103,6 +20200,8 @@ msgstr ""
 msgctxt "0x0004720a"
 msgid "<font color=\"#BAAB7B\">Defense Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">추가 방어력: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}%</font>\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\Cprimer\party_mage_mp2_bard_passive_Cprimer_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -20119,6 +20218,8 @@ msgid ""
 "For each active Lightning Chord currently queued, you gain a bonus to your movement speed.\n"
 "\n"
 msgstr ""
+"입력된 전격 코드 하나당 이동 속도가 추가로 증가합니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\Evasion\party_mage_mp2_bard_passive_evasion_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -20135,6 +20236,8 @@ msgid ""
 "Your amazing performing skills occasionally cause enemy attacks to miss you completely.\n"
 "\n"
 msgstr ""
+"당신의 경이로운 연주솜씨는 간혹 당신을 향한 적들의 공격이 완전히 빗나가도록 만듭니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\OnKill\party_mage_mp2_bard_passive_onkill_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -20151,6 +20254,8 @@ msgid ""
 "Whenever you kill an enemy with a song, the next song you play is free.\n"
 "\n"
 msgstr ""
+"곡 연주로 적을 처치하면 다음 곡에는 비용이 소모되지 않습니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\OnSong3\party_mage_mp2_bard_passive_OnSong3_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -20167,6 +20272,8 @@ msgid ""
 "When you play songs quickly, you do more damage. Playing multiple songs quickly generates multiple stacks of this bonus.\n"
 "\n"
 msgstr ""
+"곡을 빠르게 연주하면 추가 피해를 줍니다. 이 효과는 중첩됩니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\OnSong4\party_mage_mp2_bard_passive_OnSong4_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -20183,6 +20290,8 @@ msgid ""
 "When you play songs quickly, your armor is increased. Playing multiple songs quickly generates multiple stacks of this bonus.\n"
 "\n"
 msgstr ""
+"곡을 빠르게 연주하면 방어 수치가 증가합니다. 이 효과는 중첩됩니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\PartyClarity\party_mage_mp2_bard_passive_partyclarity_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -20199,6 +20308,8 @@ msgid ""
 "You gain a bonus to mana regeneration when you're near allies.\n"
 "\n"
 msgstr ""
+"아군 주변에 있으면 마나 재생 속도가 빨라집니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\PartyCrit\party_mage_mp2_bard_passive_partycrit_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -20215,6 +20326,8 @@ msgid ""
 "Your song gets the blood pumping, improving your allies' chance to land a critical hit.\n"
 "\n"
 msgstr ""
+"당신의 음악이 피를 끓게 만들어 아군이 치명타를 가할 확률을 높여줍니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\Stats\party_mage_mp2_bard_passive_stats_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -20231,6 +20344,8 @@ msgid ""
 "Years of practice as a professional musician have honed your talents.\n"
 "\n"
 msgstr ""
+"몇 년에 걸쳐 전문 음악인으로 지낸 덕에 재능이 고취되었습니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\chargedbasic\party_mage_mp2_bard_passive_ChargedBasic_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -20247,6 +20362,8 @@ msgid ""
 "For every unique song you play, you gain a stacking bonus to the damage of your next standard magic attack. This bonus resets when used.\n"
 "\n"
 msgstr ""
+"각기 다른 음악을 연주할 때마다, 다음 일반 마법 공격에 추가되는 피해량 보너스가 점점 쌓입니다. 이 보너스는 사용하면 초기화됩니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\duration\party_mage_mp2_bard_passive_duration_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityNameReference
@@ -20281,13 +20398,15 @@ msgid ""
 "You catch an enemy off-guard, taunting them to attack you and dealing massive damage if they are not already doing so.\n"
 "\n"
 msgstr ""
+"경계가 느슨한 적을 포착하여 자신을 공격하도록 도발합니다. 적이 자신을 공격하지 않았다면 큰 추가 피해를 줍니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\Ambush\combat_kits_isabela_ambush_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: da3_mp2\Combat\Kits\Isabela\Ambush\combat_kits_isabela_ambush_upgrade_abilitydata.xml:5
 msgctxt "0x00047109"
 msgid "Wind in Your Sails"
-msgstr ""
+msgstr "순풍"
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\Ambush\combat_kits_isabela_ambush_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -20297,13 +20416,15 @@ msgid ""
 "Dealing damage to an enemy you have taunted with Ambush restores some stamina.\n"
 "\n"
 msgstr ""
+"매복으로 도발한 적에게 피해를 주면 소량의 기력을 회복합니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\BlindingShot\combat_kits_isabela_blindingshot_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
 #: da3_mp2\Combat\Kits\Isabela\BlindingShot\combat_kits_isabela_blindingshot_abilitydata.xml:5
 msgctxt "0x000470ce"
 msgid "Blinding Shot"
-msgstr ""
+msgstr "실명 사격"
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\BlindingShot\combat_kits_isabela_blindingshot_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -20313,13 +20434,15 @@ msgid ""
 "You shoot an enemy with explosive blinding powder, causing their next attack to deal no damage.\n"
 "\n"
 msgstr ""
+"적에게 폭발하는 실명 가루를 쏴서 적의 다음번 공격이 피해를 가하지 못하도록 만듭니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\BlindingShot\combat_kits_isabela_blindingshot_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
 #: da3_mp2\Combat\Kits\Isabela\BlindingShot\combat_kits_isabela_blindingshot_upgrade_abilitydata.xml:5
 msgctxt "0x000470d0"
 msgid "Brilliant Shot"
-msgstr ""
+msgstr "눈부신 사격"
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\BlindingShot\combat_kits_isabela_blindingshot_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -20329,6 +20452,8 @@ msgid ""
 "Blinding Shot now blinds all enemies near the original target.\n"
 "\n"
 msgstr ""
+"실명 사격이 이제 대상 주변의 모든 적을 실명시킵니다.\n"
+"\n"
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\Bolt\combat_kits_isabela_bolt_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference

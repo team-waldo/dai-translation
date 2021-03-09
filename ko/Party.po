@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-08 03:56+0000\n"
-"Last-Translator: cnch <qwsdcvtgvopjkbn@gmail.com>\n"
+"PO-Revision-Date: 2021-03-09 16:56+0000\n"
+"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -871,13 +871,12 @@ msgstr "잡아찢는 송곳니"
 #. FILE: DA3\Party\Rogue\DualWeapon\ExplosiveStrike\party_rogue_dualweapon_explosivestrike_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
 #: DA3\Party\Rogue\DualWeapon\ExplosiveStrike\party_rogue_dualweapon_explosivestrike_upgrade1_abilitydata.xml:10
-#, fuzzy
 msgctxt "0x00042a34"
 msgid ""
 "If flanking, your Twin Fangs attack will keep your target's armor sundered from the blow.\n"
 "\n"
 msgstr ""
-"측후방에서 쌍 송곳니를 사용하면, 대상의 방어구를 찢어버립니다.\n"
+"쌍 송곳니로 측면 공격을 하면, 대상의 방어구가 찢어진 상태로 유지됩니다.\n"
 "\n"
 
 #. FILE: DA3\Party\Rogue\DualWeapon\ExplosiveStrike\party_rogue_dualweapon_explosivestrike_upgrade2_abilitydata.xml
@@ -5479,7 +5478,7 @@ msgstr "폭풍 학파를 통달한 마법사는 천둥과 번개의 힘을 부�
 #: DA3\Party\general\AbilityTrees\Mage_KnightEnchanter_Spec_AbilityTree.xml:5
 msgctxt "0x0002b8af"
 msgid "Knight-Enchanter"
-msgstr "기사마도사"
+msgstr "마도기사"
 
 #. FILE: DA3\Party\general\AbilityTrees\Mage_KnightEnchanter_Spec_AbilityTree.xml
 #. PATH: BWAbilityTree/TreeDescriptionReference

@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-08 03:55+0000\n"
-"Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
+"PO-Revision-Date: 2021-03-09 16:56+0000\n"
+"Last-Translator: gosusam <gosusam@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -855,7 +855,7 @@ msgstr "심문관을 위한 특화"
 #: DA3\DesignContent\Journals\Global\Inquisition\gen_spec_knight_enchanter_journal.xml:13
 msgctxt "0x00040bb1"
 msgid "Way of the Knight-Enchanter"
-msgstr "기사마도사의 길"
+msgstr "마도기사의 길"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\gen_spec_necromancer_journal.xml
 #. PATH: JournalEntry/TitleReference
@@ -897,182 +897,182 @@ msgstr "성기사의 길"
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_crestwood_Longbow.xml:13
 msgctxt "0x00043edf"
 msgid "Longbow Requisition in Crestwood"
-msgstr "크레스트우드의 장궁 보급요청"
+msgstr "크레스트우드: 장궁 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_crestwood_caravans.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_crestwood_caravans.xml:13
 msgctxt "0x00043eea"
 msgid "Caravan Requisition in Crestwood"
-msgstr "크레스트우드의 짐수레 보급요청"
+msgstr "크레스트우드: 짐수레 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_crestwood_geosurvey01.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_crestwood_geosurvey01.xml:13
 msgctxt "0x00043ef5"
 msgid "Iron Survey in Crestwood"
-msgstr "크레스트우드에 있는 철 답사"
+msgstr "크레스트우드: 철 표본 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_crestwood_geosurvey02.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_crestwood_geosurvey02.xml:13
 msgctxt "0x00043efb"
 msgid "Obsidian Survey in Crestwood"
-msgstr "크레스트우드에 있는 흑요석 답사"
+msgstr "크레스트우드: 흑요석 표본 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_crestwood_propaganda.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_crestwood_propaganda.xml:13
 msgctxt "0x00043ee4"
 msgid "Truth Requisition in Crestwood"
-msgstr "크레스트우드의 진실 보급요청"
+msgstr "크레스트우드: 성서 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_daleshighlands_brazier.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_daleshighlands_brazier.xml:13
 msgctxt "0x00043f0b"
 msgid "Brazier Requisition in the Emprise"
-msgstr "용맹의 화로 보급요청"
+msgstr "사자의 용맹: 화로 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_daleshighlands_geosurvey01.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_daleshighlands_geosurvey01.xml:13
 msgctxt "0x00043f10"
 msgid "Bloodstone Survey in the Emprise"
-msgstr "용맹의 혈석 조사"
+msgstr "사자의 용맹: 혈석 표본 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_daleshighlands_geosurvey02.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_daleshighlands_geosurvey02.xml:13
 msgctxt "0x00043f18"
 msgid "Silverite Survey in the Emprise"
-msgstr "용맹의 은석 조사"
+msgstr "사자의 용맹: 은석 표본 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_daleshighlands_patrol_shelters.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_daleshighlands_patrol_shelters.xml:13
 msgctxt "0x00043efc"
 msgid "Shelter Requisition in the Emprise"
-msgstr "용맹의 전초기지 보급요청"
+msgstr "사자의 용맹: 전초기지 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_daleshighlands_woolen_coats.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_daleshighlands_woolen_coats.xml:13
 msgctxt "0x00043f03"
 msgid "Coat Requisition in the Emprise"
-msgstr "용맹의 외투 보급요청"
+msgstr "사자의 용맹: 외투 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_dalesplains_ceremonialarmor.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_dalesplains_ceremonialarmor.xml:13
 msgctxt "0x00043f23"
 msgid "Armor Requisition on the Plains"
-msgstr "평야의 방어구 보급요청"
+msgstr "승임의 평야: 방어구 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_dalesplains_geosurvey01.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_dalesplains_geosurvey01.xml:13
 msgctxt "0x00043f37"
 msgid "Bloodstone Survey on the Plains"
-msgstr "평야의 혈석 조사"
+msgstr "승임의 평야: 혈석 표본 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_dalesplains_geosurvey02.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_dalesplains_geosurvey02.xml:13
 msgctxt "0x00043f40"
 msgid "Obsidian Survey on the Plains"
-msgstr "평야의 흑요석 조사"
+msgstr "승임의 평야: 흑요석 표본 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_dalesplains_harness.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_dalesplains_harness.xml:13
 msgctxt "0x00043f31"
 msgid "Harness Requisition on the Plains"
-msgstr "평야의 마구 보급요청"
+msgstr "승임의 평야: 마구 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_dalesplains_orlesianlore.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_dalesplains_orlesianlore.xml:13
 msgctxt "0x00043f1f"
 msgid "Lore Requisition on the Plains"
-msgstr "평야의 설화 보급요청"
+msgstr "승임의 평야: 지역 설화 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_dalesplains_spyglass.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_dalesplains_spyglass.xml:13
 msgctxt "0x00043f2b"
 msgid "Spyglass Requisition on the Plains"
-msgstr "평야의 망원경 보급요청"
+msgstr "승임의 평야: 망원경 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_desertruins_dwarvenartifacts.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_desertruins_dwarvenartifacts.xml:13
 msgctxt "0x00043f4b"
 msgid "Artifact Requisition in the Wastes"
-msgstr "황무지의 유물 보급요청"
+msgstr "칼바람 황무지: 지역 유물 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_desertruins_geosurvey01.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_desertruins_geosurvey01.xml:13
 msgctxt "0x00043f64"
 msgid "Nevarrite Survey in the Wastes"
-msgstr "황무지의 네바라석 조사"
+msgstr "칼바람 황무지: 네바라석 표본 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_desertruins_geosurvey02.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_desertruins_geosurvey02.xml:13
 msgctxt "0x00043f5d"
 msgid "Lazurite Survey in the Wastes"
-msgstr "황무지의 청금석 조사"
+msgstr "칼바람 황무지: 청금석 표본 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_desertruins_ointment.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_desertruins_ointment.xml:13
 msgctxt "0x00043f4e"
 msgid "Relief Requisition in the Wastes"
-msgstr "황무지의 구호품 보급요청"
+msgstr "칼바람 황무지: 구호품 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_desertruins_sandshelters.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_desertruins_sandshelters.xml:13
 msgctxt "0x00043f57"
 msgid "Shelter Requisition in the Wastes"
-msgstr "황무지의 전초기지 보급요청"
+msgstr "칼바람 황무지: 전초기지 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_emeraldgraves_elvenartifacts.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_emeraldgraves_elvenartifacts.xml:13
 msgctxt "0x00043f69"
 msgid "Artifact Requisition in the Graves"
-msgstr "무덤의 유물 보급요청"
+msgstr "에메랄드 무덤: 지역 유물 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_emeraldgraves_geosurvey01.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_emeraldgraves_geosurvey01.xml:13
 msgctxt "0x00043f7d"
 msgid "Pyrophite Survey in the Graves"
-msgstr "무덤의 발화석 조사"
+msgstr "에메랄드 무덤: 발화석 표본 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_emeraldgraves_geosurvey02.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_emeraldgraves_geosurvey02.xml:13
 msgctxt "0x00043f82"
 msgid "Obsidian Survey in the Graves"
-msgstr "무덤의 흑요석 조사"
+msgstr "에메랄드 무덤: 흑요석 표본 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_emeraldgraves_lure.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_emeraldgraves_lure.xml:13
 msgctxt "0x00043f79"
 msgid "Lure Requisition in the Graves"
-msgstr "무덤의 미끼 보급요청"
+msgstr "에메랄드 무덤: 허수아비 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_emeraldgraves_remedy.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_emeraldgraves_remedy.xml:13
 msgctxt "0x00043f72"
 msgid "Remedy Requisition in the Graves"
-msgstr "무덤의 치료제 보급요청"
+msgstr "에메랄드 무덤: 해독제 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_haven_quests.xml
 #. PATH: JournalEntry/TitleReference
@@ -1086,140 +1086,140 @@ msgstr "연꽃과 뿌리"
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_hinterlands_cages.xml:13
 msgctxt "0x00043f89"
 msgid "Hinterlands Cage Requisition"
-msgstr "내륙지역의 철장 보급요청"
+msgstr "내륙지역: 철장 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_hinterlands_geosurvey01.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_hinterlands_geosurvey01.xml:13
 msgctxt "0x00043fb0"
 msgid "Hinterlands Drakestone Survey"
-msgstr "내륙지역의 용석 조사"
+msgstr "내륙지역: 용석 표본 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_hinterlands_geosurvey02.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_hinterlands_geosurvey02.xml:13
 msgctxt "0x00043fb5"
 msgid "Hinterlands Iron Survey"
-msgstr "내륙지역의 철 조사"
+msgstr "내륙지역: 철 표본 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_hinterlands_puzzlebox.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_hinterlands_puzzlebox.xml:13
 msgctxt "0x00043fa6"
 msgid "Hinterlands Puzzle Box Requisition"
-msgstr "내륙지역의 퍼즐 상자 보급요청"
+msgstr "내륙지역: 퍼즐 상자 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_hinterlands_tapestry.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_hinterlands_tapestry.xml:13
 msgctxt "0x00043f9d"
 msgid "Hinterlands Tapestry Requisition"
-msgstr "내륙지역의 벽걸이 융단 보급요청"
+msgstr "내륙지역: 태피스트리 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_hinterlands_tents.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_hinterlands_tents.xml:13
 msgctxt "0x00043f96"
 msgid "Hinterlands Field Tent Requisition"
-msgstr "내륙지역의 군용 천막 보급요청"
+msgstr "내륙지역: 군용 천막 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_hinterlands_weapons.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_hinterlands_weapons.xml:13
 msgctxt "0x00043f90"
 msgid "Hinterlands Weapons Requisition"
-msgstr "내륙지역의 무기 보급요청"
+msgstr "내륙지역: 무기 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_oasis_alloys.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_oasis_alloys.xml:13
 msgctxt "0x00043fc3"
 msgid "Alloy Requisition in the Oasis"
-msgstr "오아시스의 합금 보급요청"
+msgstr "금지된 오아시스: 합금 제작요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_oasis_cavespider.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_oasis_cavespider.xml:13
 msgctxt "0x00043fc7"
 msgid "Spider Requisition in the Oasis"
-msgstr "오아시스의 거미 보급요청"
+msgstr "금지된 오아시스: 거미 채집요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_oasis_geosurvey01.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_oasis_geosurvey01.xml:13
 msgctxt "0x00043fce"
 msgid "Serpentstone Survey in the Oasis"
-msgstr "오아시스의 사문석 조사"
+msgstr "금지된 오아시스: 사문석 표본 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_oasis_geosurvey02.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_oasis_geosurvey02.xml:13
 msgctxt "0x00043fd5"
 msgid "Luster Survey in the Oasis"
-msgstr "오아시스의 영광석 조사"
+msgstr "금지된 오아시스: 영광석 표본 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_oasis_miningoperation.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_oasis_miningoperation.xml:13
 msgctxt "0x00043fbd"
 msgid "Mining Requisition in the Oasis"
-msgstr "오아시스의 광물 보급요청"
+msgstr "금지된 오아시스: 채굴 재개 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_stormcoast_antivenom.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_stormcoast_antivenom.xml:13
 msgctxt "0x00043fdf"
 msgid "Antivenom Requisition on the Coast"
-msgstr "해안의 해독제 보급요청"
+msgstr "폭풍 해안: 해독제 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_stormcoast_geosurvey01.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_stormcoast_geosurvey01.xml:13
 msgctxt "0x00043fe8"
 msgid "Iron Survey on the Coast"
-msgstr "해안의 철 조사"
+msgstr "폭풍 해안: 철 표본 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_stormcoast_repairships.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_stormcoast_repairships.xml:13
 msgctxt "0x00043fdc"
 msgid "Salvage Requisition on the Coast"
-msgstr "해안의 선박 잔해 보급요청"
+msgstr "폭풍 해안: 선박 잔해 수집 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_thebog_elixir.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_thebog_elixir.xml:13
 msgctxt "0x00043ff6"
 msgid "Elixir Requisition in the Mire"
-msgstr "늪지의 영약 보급요청"
+msgstr "고요한 늪지: 영약 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_thebog_fereldanartifacts.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_thebog_fereldanartifacts.xml:13
 msgctxt "0x00043ff2"
 msgid "Artifact Requisition in the Mire"
-msgstr "늪지의 유물 보급요청"
+msgstr "고요한 늪지: 지역 유물 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_thebog_geosurvey01.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_thebog_geosurvey01.xml:13
 msgctxt "0x00043ffc"
 msgid "Blue Vitriol Survey in the Mire"
-msgstr "늪지의 담반석 조사"
+msgstr "고요한 늪지: 담반석 표본 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_thebog_geosurvey02.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_thebog_geosurvey02.xml:13
 msgctxt "0x00044002"
 msgid "Summer Stone Survey in the Mire"
-msgstr "늪지의 여름석 조사"
+msgstr "고요한 늪지: 여름석 표본 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_westernapproach_animalstudy.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_westernapproach_animalstudy.xml:13
 msgctxt "0x00044014"
 msgid "Fauna Requisition in the Approach"
-msgstr "접근지의 동물상 보급요청"
+msgstr "서부 접근지역: 지역 동물 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_westernapproach_geosurvey01.xml
 #. PATH: JournalEntry/TitleReference
@@ -1227,21 +1227,21 @@ msgstr "접근지의 동물상 보급요청"
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_westernapproach_geosurvey01.xml:13
 msgctxt "0x00044018"
 msgid "{string}129706{/string} Survey in the Approach"
-msgstr "접근지의 {string}129706{/string} 조사"
+msgstr "서부 접근지역: {string}129706{/string} 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_westernapproach_geosurvey02.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_westernapproach_geosurvey02.xml:13
 msgctxt "0x0004401f"
 msgid "Luster Survey in the Approach"
-msgstr "접근지의 영광석 조사"
+msgstr "서부 접근지역: 영광석 표본 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_westernapproach_venatorimessage.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_westernapproach_venatorimessage.xml:13
 msgctxt "0x00044007"
 msgid "Code Requisition in the Approach"
-msgstr "접근지의 암호 보급요청"
+msgstr "서부 접근지역: 암호 조사"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\tutorial_potion.xml
 #. PATH: JournalEntry/TitleReference
@@ -1332,14 +1332,14 @@ msgstr "낮말은 새가 듣고 밤말은 쥐가 듣는다"
 #: DA3\DesignContent\Journals\Halamshiral\hal_exterior_hallastatues.xml:13
 msgctxt "0x00022c2b"
 msgid "Unlock the Eastern Storage"
-msgstr "동쪽 창고 개방"
+msgstr "동편 창고 개방"
 
 #. FILE: DA3\DesignContent\Journals\Halamshiral\hal_exterior_search.xml
 #. PATH: JournalEntry/TitleReference
 #: DA3\DesignContent\Journals\Halamshiral\hal_exterior_search.xml:13
 msgctxt "0x00022c60"
 msgid "Montbelliard's Ring"
-msgstr "몽벨리아의 반지"
+msgstr "몽벨리아드의 반지"
 
 #. FILE: DA3\DesignContent\Journals\Halamshiral\hal_guestwing_briala1.xml
 #. PATH: JournalEntry/TitleReference
@@ -1430,7 +1430,7 @@ msgstr "남아있는 위협"
 #: DA3\DesignContent\Journals\Haven\hav_order.xml:30
 msgctxt "0x00038f82"
 msgid "Requisition for Weapons"
-msgstr "무기 보급요청"
+msgstr "무기 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Haven\hav_research.xml
 #. PATH: JournalEntry/TitleReference
@@ -1493,7 +1493,7 @@ msgstr "코리피우스의 기억들"
 #: DA3\DesignContent\Journals\Nemesis\Cal_main_journal.xml:30
 msgctxt "0x00019709"
 msgid "Under Her Skin"
-msgstr "그녀의 주의를 끌다"
+msgstr "그 여자의 속내에는"
 
 #. FILE: DA3\DesignContent\Journals\Nemesis\Sam_main_journal.xml
 #. PATH: JournalEntry/TitleReference
@@ -3864,9 +3864,9 @@ msgstr ""
 "\n"
 "그랜딘,\n"
 "\n"
-"자세한 건 밑에 써 있어. 순찰을 계속해야 해. 그래야 우위를 점할 수 있어.\n"
+"자세한 건 밑에 써 있어. 순찰을 계속해야 해. 그래야 우리가 우위를 점할 수 있어.\n"
 "\n"
-"네가 어떤 심정인지는 알아. 제이스의 가족들한테는 알려뒀어. 어떤 놈이던간에 대가를 치르게 하겠다고 약속할게.\n"
+"네가 어떤 심정인지는 알아. 제이스의 가족들한테는 알려뒀어. 어떤 놈 짓이던간에 꼭 대가를 치르게 할게.\n"
 "\n"
 "하딩"
 
@@ -3902,7 +3902,7 @@ msgid ""
 msgstr ""
 "“이바 예릭슨”이라는 남자와 함께 이야기는 시작된다. \n"
 "\n"
-"전쟁과 불운으로 성에서 내쫓긴데다 그들의 영주는 죽고 말아, 이바는 겨우 남은 생존자들을 이끌어 산을 넘고 있었다. 겨울은 매정했으며 "
+"전쟁과 불운으로 성에서 내쫓긴 데다 그들의 영주는 죽고 말아, 이바는 겨우 남은 생존자들을 이끌어 산을 넘고 있었다. 겨울은 매정했으며 "
 "하콘의 바람은 산봉우리들 사이에서 메아리치고 있었다. 짐승들은 이미 도망쳤기에 사냥감을 찾기도 힘들었다. 이바와 생존자들은 점점 더 "
 "약해졌다. 그들은 스스로가 저주받은 게 아닌가 두려웠다. 눈보라가 덮치자, 그들은 빈약한 불을 만들어 온기를 찾아 서로를 의지하며 불 "
 "옆에 옹기종기 모였다. 눈보라가 3일간 지속되자, 그들은 더 이상 버티지 못하겠다고 생각했다.\n"
@@ -3936,10 +3936,10 @@ msgid ""
 msgstr ""
 "브램 켄릭 교수님,\n"
 "\n"
-"추가 잉크, 아메리단에 관한 서적, 비교용 교황의 시대 버클 3개(네, 나중에 돌아오시면 제가 당신의 수집품은 쓸모없다고 했던 것에 "
+"추가 잉크, 아메리단에 관한 서적, 비교용 교황의 시대 버클 3개(네, 나중에 돌아오시면 제가 교수님의 수집품은 쓸모없다고 했던 것에 "
 "대해서 “내가 뭐랬어” 라고 받아치셔도 좋습니다)를 포함한 요청하신 물품들을 교수님의 현재 위치로 보내드렸습니다. \n"
 "\n"
-"그리고, 그 물고기한테 먹이는 줬습니다만, 교수님 대신 물고기랑 대화하진 않을 거에요.\n"
+"아, 그리고 물고기 먹이는 챙겨줬습니다만, 부탁하신 대로 물고기한테 말까지 걸기는 싫네요.\n"
 "\n"
 "셰바 로랑\n"
 "올레이 대학"
@@ -3957,19 +3957,19 @@ msgid ""
 "\n"
 "—From {i}The Further Journeys of Marquis d'Lussard, with an Emphasis on Food and Drink, with Full Illustrations by the Author{/i}"
 msgstr ""
-"아바르족의 요리 냄비에 들어가는 재료는? 못 들어갈 게 없다! 발 르와이요의 섬세한 크림이나 소스, 페렐던의 풍미 진한 파이와 숙성된 "
-"치즈와는 사뭇 다르게, 아바르족은 무엇이든 산과 계곡에서 구할 수 있는 것들로 살아남아야 한다. 그들의 식욕이 거부하는 것은 없다. "
-"산허리 바위 아래에서 발견된 작고 육즙 많은 달팽이부터, 봄에 나오는 고사리의 머리까지. 그렇다고 아바르족이 더 위험하고 허기를 채울 수 "
-"있는 음식을 탐하지 않는 것도 아니다. 사슴, 산양, 걸것, 그리고 러커는 불 옆에서 즐기는 마을 저녁 잔치 만찬의 훌륭한 저녁 "
-"재료들이다. 널리 알려진 “낮은 땅”의 항료는 잔치를 위해서 남겨두는 특별한 재료다 (사실, 페넥투스 성채의 영주에게 주는 나의 이별 "
-"선물은 영주가 요청한 대로 후추 10병, 겨자 가루, 그리고 안티바산 옥수수 종자였다). \n"
+"아바르족의 요리 냄비에 들어가는 재료는? 들어가지 않는 재료를 세는 게 빠를 것이다! 발 르와이요의 섬세한 크림이나 소스, 페렐던의 풍미 "
+"진한 파이와 숙성된 치즈와는 사뭇 다르게, 아바르족은 산과 계곡에서 구할 수 있는 것들로 살아남아야 한다. 그들이 먹지 못하는 건 없다. "
+"산허리 바위 아래에 사는 작고 육즙 많은 달팽이부터, 봄에 나오는 고사리의 머리까지. 그렇다고 아바르족이 더 위험하지만 든든한 음식 "
+"재료를 탐하지 않는 것도 아니다. 이들은 마을 저녁 잔치 만찬을 위해 사슴, 산양, 걸것, 그리고 러커를 사냥하고는 한다. 잔치를 위해서 "
+"널리 알려진 “낮은 땅”의 항료를 특별히 아껴 두기도 한다.(내가 페넥투스 요새의 추장과 헤어질 때에도, 추장은 이별 선물로 후추 "
+"10병, 겨자 가루, 그리고 안티바산 옥수수 종자를 부탁했다.) \n"
 "\n"
-"아바르족의 요리 방법은 유용함을 추구한다. 스튜가 흔한 이유는 스튜는 날이 어두워질 때까지 끓여도 별 문제가 없기 때문이다. 호수나 강 "
-"근처의 요새에서는 물고기를 진흙과 썩은 잎사귀로 감싸 석탄 위에 두고 하루 종일 굽는다. 하지만 아바르족의 요리 재료 준비 대부분은 "
-"겨울을 중심으로 이루어진다. 얼었던 것들이 봄부터 녹기 시작하면, 요새는 분주해진다. 고기를 굽고, 야채를 절이고, 과일을 말리고, 모든 "
-"것을 흙으로 만든 저장고에 쌓아두고 긴 어둠의 시간을 준비한다. \n"
+"아바르족의 요리 방법은 아주 실용적이다. 스튜가 흔한 이유는 스튜는 날이 어두워질 때까지 끓여도 별 문제가 없기 때문이다. 호수나 강 "
+"근처의 요새에서는 물고기를 진흙과 썩은 잎사귀로 감싸 석탄 위에 두고 하루 종일 굽는다. 그러나 아바르족이 요리 재료를 준비하는 대부분의 "
+"이유는 겨울을 나기 위해서다. 얼어 있던 것들이 봄부터 녹기 시작하면, 요새는 분주해진다. 고기를 굽고, 야채를 절이고, 과일을 말리고, "
+"그 모든 것을 흙으로 만든 저장고에 쌓아둔 뒤 긴 어둠의 시간을 준비한다. \n"
 "\n"
-"계절에 맞춰 음식을 준비하는 와중에도, 아바르는 넉넉하게 자른 고기 덩어리와 잘 익은 베리들을 마을 주위의 나무와 넓적한 돌 위에 "
+"계절에 맞춰 음식을 준비하는 와중에도, 아바르는 넉넉하게 자른 고기 덩어리와 잘 익은 열매들을 마을 주위의 나무와 넓적한 돌 위에 "
 "올려둔다. 그들은 이 “공물”이 그들이 “신”이라고 일컫는 숲 속에 살고 있는 존재들을 달래줄 거라고 믿고 있다. 물론 현명한 여행자라면 "
 "편견을 가져서는 안 되고, 나는 손님으로서 풍족한 접대를 받았었지만, 이렇게나 실용적인 아바르족이 이렇게 좋은 음식 재료들을 밖에 "
 "방치해두고 있는 풍경은 끝까지 적응하기 힘든 부분이었다.\n"
@@ -4014,7 +4014,7 @@ msgstr ""
 "체결되고 진실의 탐구자들이 챈트리로 합병되었을 때 심문관의 직위를 가지고 있었다. 이들은 마법사 협회와 성기사단의 전신이었다. 협정이 "
 "맺어진 후, 교황의 시대 1:22와 1:24 사이에 아메리단은 직위를 내려놓고 어딘가로 사라졌으며, 이후 아무도 그를 본 사람이 없다.\n"
 "\n"
-"이것들만이 확실한 객관적 사실들이다. 이외의 모든 소문들은 확증 없는 풍문이나 대강의 추측, 혹은 음탕한 추문에 불과하다.\n"
+"확실한 객관적 사실은 이상의 것들 뿐이다. 이외의 모든 소문들은 확증 없는 풍문이나 대강의 추측, 혹은 음탕한 추문에 불과하다.\n"
 "\n"
 "—아메리단은 본인의 의지로 직위를 내려놓은 것이 아니다. 드레이콘은 죽음의 고통 속에서 진실의 탐구자들을 해체시켰으며, 새 챈트리에서 "
 "일어날 반란을 두려워해 심문관의 직위를 박탈했다.\n"
@@ -4108,7 +4108,7 @@ msgstr ""
 "\n"
 "이건 멍청한 짓이다. 대체 낮은 땅에 사는 인간들이 본 적도 없는 털가죽을 사러 이렇게 멀리까지 오겠나?\n"
 "\n"
-"아, 코르트여, 말하는 대신에 글로 써 버렸군. 멍청한 낮은 땅 놈들의 글은 머리를 복잡하게 해.\n"
+"아, 코르트여, 말로 한다는 걸 글로 써 버렸군. 멍청한 낮은 땅 놈들의 글은 머리를 복잡하게 해.\n"
 "\n"
 "{i}편지의 나머지 부분은 분노에 찬 도끼 그림으로 가득 차 있다.{/i}"
 
@@ -6953,7 +6953,7 @@ msgstr "아메리단 심문관의 마지막 안식처를 찾자."
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:10011
 msgctxt "0x0004520c"
 msgid "Requisition an offering to bring to the arena."
-msgstr "결투장에 가져갈 제물을 보급요청하자."
+msgstr "결투장에 가져갈 제물을 보급 요청하자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[92]/JournalTaskData/TextReference
@@ -10940,21 +10940,20 @@ msgstr ""
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[191]/JournalTextData/TextReference
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:8433
-#, fuzzy
 msgctxt "0x0004ade7"
 msgid ""
 "{i}Mold and rot have eaten most of the pages of these books. The remaining vellum is covered in spiky handwriting with spelling that is either archaic, wildly idiosyncratic, or both:{/i}\n"
 "\n"
 "...saw yht cross from the Volca, that which draggeth souls down to yhts larder in the brinedark. Hys beast preyth on humblewits and goldsworn even & the tower's keeper declares I will rest here if yht would ease me. The elvhen, which pulled me grip-up from my end, kens he is last of his kynde. I made it known elvhen live south-like, but he says yht would not be as yht was & I said that's evertrue & he laughed lark-like. Come dark he showed me a mirror deep strange, an \"eluvian\" sworne to beene in his family for..."
 msgstr ""
-"{i}이 책에 있는 대부분의 페이지는 곰팡이와 부패물에 덮혀 버렸다. 남은 부분에는 고풍스러운 것인지, 혹은 심히 특이한 것인지, 아니면 "
-"둘 다인 것인지 알 수 없는 삐죽삐죽한 글씨체로 적힌 글이 가득하다.{/i}\n"
+"{i}이 책은 거의 모든 쪽마다 곰팡이와 부패물로 뒤덮여 있다. 그나마 알아볼 수 있는 부분에는 삐죽빼죽한 손글씨로 빼곡한데, 이걸 "
+"고풍스럽다고 해야 할지, 몹시 개성 있다고 해야 할지. 어쩌면 둘 다일지도:{/i}\n"
 "\n"
-"볼카 해 너머에서 온, 어둠 속에서 사람들을 끌어들여 잡아먹는 괴물을 보았다. 그의 짐승은 어리석은 자들과 돈을 노리고 온 자들을 "
-"잡아먹었지만, 탑의 파수꾼은 내가 괜찮다면 여기서 쉬어도 된다고 했다. 나를 끌어올려 준 그 엘프는 자신이 그의 종족 중 마지막 생존자라 "
-"했다. 나는 남쪽에 아직 엘프들이 살고 있다고 했으나, 그는 그들과 같지 않다고 했다. 난 그게 진짜냐고 물었고, 그는 종달새처럼 "
-"웃었다. 그는 어둡고 깊은 곳으로 나를 데려가 숨겨진 거울을 보여 주었다. \"엘루비앙\" 이라 불리는 그것은 그의 가문에 "
-"전해내려오던..."
+"...새까만 어둠 속에 웅크려있다 사람 잡아가는 괴물을 봤다오. 볼카 해를 가로질러 가던디. 이 탑을 지키던 놈은 괴물이 멍청한 놈이나 "
+"도둑놈만 포식한다며 찔리는 구석 없으면 여서 쉬어가라고 했수다. 웬 엘프였는데, 날 구해주면서 저도 자기 종족의 마지막 생존자라 "
+"하더이다. 마지막 엘프라니, 남쪽 어드메에 아직 엘프가 산다는 걸 누가 모르오리까? 엘프 양반한테 그게 무슨 소리냐 물었더니, 그쪽 "
+"엘프들은 과거의 영광이 빛바랐다나 뭐라나. 아니라고, 나가 거기 사는 엘프들을 똑똑히 봤다고 맹세를 해도, 나가 농담하는 줄 알더이다. "
+"날이 저물고 나서는 어디서 났는지 수상쩍은 거울을 내게 보이면서 자기 가문의 유산이라고 하는데, 이름이 \"엘루비앙\"이라나 뭐라나..."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[192]/JournalTextData/TextReference

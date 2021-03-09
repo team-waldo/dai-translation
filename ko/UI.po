@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-08 03:58+0000\n"
-"Last-Translator: 박성범 <psb3421@naver.com>\n"
+"PO-Revision-Date: 2021-03-09 16:56+0000\n"
+"Last-Translator: 이태진 <ltaejin96@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -560,7 +560,7 @@ msgstr "방어구 제작"
 #: UI\Flow\Screen\ENV\ENV_Crafting.xml:410
 msgctxt "0x000437f6"
 msgid "Requisitions"
-msgstr "보급요청"
+msgstr "보급 요청"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Crafting.xml
 #. PATH: UICraftingScreenAsset/LocalizedLabels/member[21]/UIScreenAssetLocalizedLabel/LocString
@@ -1151,14 +1151,14 @@ msgstr "이전 캐릭터"
 #: UI\Flow\Screen\ENV\ENV_PotionMapping.xml:231
 msgctxt "0x00040895"
 msgid "{CUSTOM0} can only be used by a {CUSTOM1}."
-msgstr ""
+msgstr "{CUSTOM0}은 {CUSTOM1}만 사용할 수 있습니다."
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionMapping.xml
 #. PATH: UIPotionMappingScreenAsset/LocalizedLabels/member[17]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_PotionMapping.xml:241
 msgctxt "0x00040894"
 msgid "{CUSTOM0} can only be used by a {CUSTOM1} or {CUSTOM2}."
-msgstr ""
+msgstr "{CUSTOM0}은 {CUSTOM1}이나 {CUSTOM2}만 사용할 수 있습니다."
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionMapping.xml
 #. PATH: UIPotionMappingScreenAsset/LocalizedLabels/member[18]/UIScreenAssetLocalizedLabel/LocString
@@ -1270,7 +1270,7 @@ msgstr "주요 능력치"
 #: UI\Flow\Screen\ENV\ENV_Store.xml:319
 msgctxt "0x00043459"
 msgid "Defenses"
-msgstr ""
+msgstr "방어력"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[19]/UIScreenAssetLocalizedLabel/LocString
@@ -1312,28 +1312,28 @@ msgstr "가져가기"
 #: UI\Flow\Screen\ENV\ENV_Store.xml:379
 msgctxt "0x00045f26"
 msgid "Party Storage"
-msgstr ""
+msgstr "파티 보관함"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[25]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Store.xml:389
 msgctxt "0x00027137"
 msgid "Inventory"
-msgstr ""
+msgstr "인벤토리"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[26]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Store.xml:399
 msgctxt "0x00044166"
 msgid "Inventory is full."
-msgstr ""
+msgstr "인벤토리가 가득 찼습니다."
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[27]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\ENV\ENV_Store.xml:409
 msgctxt "0x00045f28"
 msgid "Party storage is full."
-msgstr ""
+msgstr "파티 보관함이 가득 찼습니다."
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[28]/UIScreenAssetLocalizedLabel/LocString
@@ -1347,7 +1347,7 @@ msgstr "창고"
 #: UI\Flow\Screen\ENV\ENV_Store.xml:429
 msgctxt "0x00045f27"
 msgid "Retrieving party storage items."
-msgstr ""
+msgstr "파티 보괸함의 아이템을 가져오는 중입니다."
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Store.xml
 #. PATH: UIStoreScreenAsset/LocalizedLabels/member[30]/UIScreenAssetLocalizedLabel/LocString
@@ -1574,7 +1574,7 @@ msgstr "새 지역 해금!"
 #: UI\Flow\Screen\ENV\ENV_Wartable_AfterActionReport.xml:72
 msgctxt "0x0003fa80"
 msgid "Rewards Received!"
-msgstr ""
+msgstr "보상 획득!"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Wartable_AfterActionReport.xml
 #. PATH: UIAfterActionReportScreenAsset/LocalizedLabels/member[6]/UIScreenAssetLocalizedLabel/LocString
@@ -1602,7 +1602,7 @@ msgstr "정찰 보고"
 #: UI\Flow\Screen\ENV\ENV_Wartable_AfterActionReport.xml:112
 msgctxt "0x00016067"
 msgid "Gold"
-msgstr ""
+msgstr "금화"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Wartable_AfterActionReport.xml
 #. PATH: UIAfterActionReportScreenAsset/LocalizedLabels/member[10]/UIScreenAssetLocalizedLabel/LocString
@@ -1623,7 +1623,7 @@ msgstr "새 작전 해금"
 #: UI\Flow\Screen\ENV\ENV_Wartable_AfterActionReport.xml:212
 msgctxt "0x0002375a"
 msgid "Accept Report"
-msgstr ""
+msgstr "보고서 수락"
 
 #. FILE: UI\Flow\Screen\GLO\GLO_Death.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
@@ -1658,35 +1658,35 @@ msgstr "종료"
 #: UI\Flow\Screen\GLO\GLO_HeroMenu.xml:46
 msgctxt "0x0002d141"
 msgid "Power {CUSTOM0}"
-msgstr ""
+msgstr "행동력 {CUSTOM0}"
 
 #. FILE: UI\Flow\Screen\GLO\GLO_HeroMenu.xml
 #. PATH: UIHeroMenuScreenAsset/LocalizedLabels/member[2]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\GLO\GLO_HeroMenu.xml:56
 msgctxt "0x000314a8"
 msgid "Cannot access inventory while in combat."
-msgstr ""
+msgstr "전투 중에는 인벤토리를 열 수 없습니다."
 
 #. FILE: UI\Flow\Screen\GLO\GLO_HeroMenu.xml
 #. PATH: UIHeroMenuScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\GLO\GLO_HeroMenu.xml:66
 msgctxt "0x0004338a"
 msgid "Exit to Menu?"
-msgstr ""
+msgstr "메뉴로 나가시겠습니까?"
 
 #. FILE: UI\Flow\Screen\GLO\GLO_HeroMenu.xml
 #. PATH: UIHeroMenuScreenAsset/LocalizedLabels/member[4]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\GLO\GLO_HeroMenu.xml:76
 msgctxt "0x00043389"
 msgid "Are you certain you want to exit your game? Any unsaved progress will be lost."
-msgstr ""
+msgstr "정말 게임을 나가시겠습니까? 저장하지 않은 진행 사항은 사라집니다."
 
 #. FILE: UI\Flow\Screen\GLO\GLO_HeroMenu.xml
 #. PATH: UIHeroMenuScreenAsset/LocalizedLabels/member[5]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\GLO\GLO_HeroMenu.xml:86
 msgctxt "0x0004a406"
 msgid "Unlock Full Game"
-msgstr ""
+msgstr "전체 게임 해제"
 
 #. FILE: UI\Flow\Screen\GLO\GLO_HeroMenu.xml
 #. PATH: UIHeroMenuScreenAsset/Elements/member[2]/UIHeroMenuListData/DisplayString
@@ -1700,21 +1700,21 @@ msgstr "불러오기"
 #: UI\Flow\Screen\GLO\GLO_HeroMenu.xml:160
 msgctxt "0x00042433"
 msgid "A save/load operation is already in progress."
-msgstr ""
+msgstr "저장/불러오기가 진행중입니다."
 
 #. FILE: UI\Flow\Screen\GLO\GLO_HeroMenu.xml
 #. PATH: UIHeroMenuScreenAsset/Elements/member[3]/UIHeroMenuListData/Locks/member[1]/HeroMenuItemLockEntry/Text
 #: UI\Flow\Screen\GLO\GLO_HeroMenu.xml:198
 msgctxt "0x000422de"
 msgid "The {CUSTOM0} is not available while you are under attack."
-msgstr ""
+msgstr "전투 중에는 {CUSTOM0}가 불가합니다."
 
 #. FILE: UI\Flow\Screen\GLO\GLO_HeroMenu.xml
 #. PATH: UIHeroMenuScreenAsset/Elements/member[4]/UIHeroMenuListData/DisplayString
 #: UI\Flow\Screen\GLO\GLO_HeroMenu.xml:239
 msgctxt "0x00004662"
 msgid "Codex"
-msgstr ""
+msgstr "코덱스"
 
 #. FILE: UI\Flow\Screen\GLO\GLO_HeroMenu.xml
 #. PATH: UIHeroMenuScreenAsset/Elements/member[6]/UIHeroMenuListData/DisplayString
@@ -1770,21 +1770,21 @@ msgstr "이동 중..."
 #: UI\Flow\Screen\GLO\GLO_SystemMenu.xml:72
 msgctxt "0x000380ee"
 msgid "Exit Multiplayer?"
-msgstr ""
+msgstr "멀티플레이를 나가시겠습니까?"
 
 #. FILE: UI\Flow\Screen\GLO\GLO_SystemMenu.xml
 #. PATH: UISystemMenuScreenAsset/LocalizedLabels/member[4]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\GLO\GLO_SystemMenu.xml:82
 msgctxt "0x00034f3f"
 msgid "Are you sure you want to quit? You may lose progress and statistics from the current session."
-msgstr ""
+msgstr "정말 그만두시겠습니까? 현재 게임의 진행사항과 통계는 저장되지 않습니다."
 
 #. FILE: UI\Flow\Screen\HUD\HUD_CombinedHUD.xml
 #. PATH: UIHUDScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\HUD\HUD_CombinedHUD.xml:48
 msgctxt "0x00019132"
 msgid "XP"
-msgstr ""
+msgstr "경험치"
 
 #. FILE: UI\Flow\Screen\HUD\HUD_CombinedHUD.xml
 #. PATH: UIHUDScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
@@ -1805,126 +1805,126 @@ msgstr "체력 낮음"
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:82
 msgctxt "0x00029c1a"
 msgid "Challenges"
-msgstr ""
+msgstr "도전 과제"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Challenges.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:102
 msgctxt "0x00029fa9"
 msgid "In Progress"
-msgstr ""
+msgstr "진행 중"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Challenges.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[4]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:112
 msgctxt "0x00029ff3"
 msgid "Challenges"
-msgstr ""
+msgstr "도전 과제"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Challenges.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[5]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:122
 msgctxt "0x00029ff4"
 msgid "Reward"
-msgstr ""
+msgstr "보상"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Challenges.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[6]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:132
 msgctxt "0x0002a225"
 msgid "Today's Hot Challenge"
-msgstr ""
+msgstr "오늘의 인기 도전"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Challenges.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[9]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:162
 msgctxt "0x0002a5e9"
 msgid "Track Challenge"
-msgstr ""
+msgstr "도전 추적하기"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Challenges.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[10]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:172
 msgctxt "0x0002a5e8"
 msgid "Stop Tracking"
-msgstr ""
+msgstr "추적 중지하기"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Challenges.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[11]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:182
 msgctxt "0x00041a2e"
 msgid "Set Title"
-msgstr ""
+msgstr "칭호 설정"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Challenges.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[12]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:192
 msgctxt "0x00041a2c"
 msgid "Unset Title"
-msgstr "제목 취소"
+msgstr "칭호 설정 취소"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Challenges.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[13]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:202
 msgctxt "0x00041a31"
 msgid "Set Banner"
-msgstr ""
+msgstr "깃발 설정"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Challenges.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[14]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:212
 msgctxt "0x00041a2f"
 msgid "Unset Banner"
-msgstr ""
+msgstr "깃발 설정 취소"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Challenges.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[15]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:222
 msgctxt "0x00041a2d"
 msgid "Set Portrait"
-msgstr ""
+msgstr "초상화 설정"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Challenges.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[16]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:232
 msgctxt "0x00041a30"
 msgid "Unset Portrait"
-msgstr ""
+msgstr "초상화 설정 취소"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Challenges.xml
 #. PATH: UIMultiplayerChallengesSummaryBinding/LocalizedChallengeProgressHeader
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:1734
 msgctxt "0x0002a1d8"
 msgid "Challenge Progress"
-msgstr ""
+msgstr "도전 진행 상태"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Challenges.xml
 #. PATH: UIMultiplayerChallengesSummaryBinding/LocalizedTitlesHeader
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:1739
 msgctxt "0x0002a1d6"
 msgid "Titles"
-msgstr ""
+msgstr "칭호"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Challenges.xml
 #. PATH: UIMultiplayerChallengesSummaryBinding/LocalizedPortraitsHeader
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:1744
 msgctxt "0x0002a1d5"
 msgid "Portraits"
-msgstr ""
+msgstr "초상화"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Challenges.xml
 #. PATH: UIMultiplayerChallengesSummaryBinding/LocalizedBannersHeader
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:1749
 msgctxt "0x0002a1d7"
 msgid "Banners"
-msgstr ""
+msgstr "깃발"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Challenges.xml
 #. PATH: UIMultiplayerFrameTopBinding/LocalizedPlatinumString
 #: UI\Flow\Screen\PRE\PRE_Challenges.xml:1770
 msgctxt "0x00016068"
 msgid "Platinum"
-msgstr ""
+msgstr "플래티넘"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CharGen_Head.xml
 #. PATH: UICharGenHeadScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
@@ -1938,7 +1938,7 @@ msgstr "뒤로가기"
 #: UI\Flow\Screen\PRE\PRE_CharGen_Head.xml:219
 msgctxt "0x0002de0c"
 msgid "Customize"
-msgstr ""
+msgstr "꾸미기"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CharGen_Head.xml
 #. PATH: UICharGenHeadScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
@@ -2181,42 +2181,42 @@ msgstr "검색하기"
 #: UI\Flow\Screen\PRE\PRE_CreateMatch.xml:1520
 msgctxt "0x00022717"
 msgid "Quick Match"
-msgstr ""
+msgstr "빠른 게임"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CreateMatch.xml
 #. PATH: UIMultiplayerFrameTopBinding[2]/LocalizedTitleString
 #: UI\Flow\Screen\PRE\PRE_CreateMatch.xml:1657
 msgctxt "0x00027c08"
 msgid "Match Settings"
-msgstr ""
+msgstr "게임 설정"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CreateMatch.xml
 #. PATH: UIMultiplayerFrameTopBinding[3]/LocalizedTitleString
 #: UI\Flow\Screen\PRE\PRE_CreateMatch.xml:1794
 msgctxt "0x00022718"
 msgid "Create Match"
-msgstr ""
+msgstr "게임 생성하기"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CreateMatch.xml
 #. PATH: UIMultiplayerPickerBinding[1]/HeaderText
 #: UI\Flow\Screen\PRE\PRE_CreateMatch.xml:2058
 msgctxt "0x00027ab9"
 msgid "Lobby Visibility"
-msgstr ""
+msgstr "대기실 공개 여부"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CreateMatch.xml
 #. PATH: UIMultiplayerPickerBinding[2]/HeaderText
 #: UI\Flow\Screen\PRE\PRE_CreateMatch.xml:2065
 msgctxt "0x00027aba"
 msgid "Destination"
-msgstr ""
+msgstr "목적지"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CreateMatch.xml
 #. PATH: UIMultiplayerPickerBinding[3]/HeaderText
 #: UI\Flow\Screen\PRE\PRE_CreateMatch.xml:2072
 msgctxt "0x00027abb"
 msgid "Difficulty"
-msgstr ""
+msgstr "난이도"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CreateMatch.xml
 #. PATH: UIMultiplayerPickerBinding[4]/HeaderText
@@ -2279,7 +2279,7 @@ msgstr "넘기기"
 #: UI\Flow\Screen\PRE\PRE_EndOfMatch.xml:76
 msgctxt "0x0001601e"
 msgid "Destination"
-msgstr ""
+msgstr "목적지"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_EndOfMatch.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[4]/UIScreenAssetLocalizedLabel/LocString
@@ -2293,7 +2293,7 @@ msgstr "난이도"
 #: UI\Flow\Screen\PRE\PRE_EndOfMatch.xml:96
 msgctxt "0x000240a0"
 msgid "Match Summary"
-msgstr ""
+msgstr "게임 요약"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_EndOfMatch.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[6]/UIScreenAssetLocalizedLabel/LocString
@@ -2307,7 +2307,7 @@ msgstr "개인 최고 기록"
 #: UI\Flow\Screen\PRE\PRE_EndOfMatch.xml:116
 msgctxt "0x000271ce"
 msgid "Match Time"
-msgstr ""
+msgstr "게임 시간"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_EndOfMatch.xml
 #. PATH: UIMultiplayerEndOfMatchTabsBinding/LocalizedLevelString
@@ -2321,7 +2321,7 @@ msgstr "레벨"
 #: UI\Flow\Screen\PRE\PRE_EndOfMatch.xml:839
 msgctxt "0x000271cd"
 msgid "Personal Best"
-msgstr ""
+msgstr "개인 최고 기록"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_EndOfMatch.xml
 #. PATH: UIMultiplayerEndOfMatchTabsBinding/LocalizedGoToAbilitiesString
@@ -2571,7 +2571,7 @@ msgstr "빠른 게임"
 #: UI\Flow\Screen\PRE\PRE_Multiplayer.xml:1908
 msgctxt "0x00018145"
 msgid "Class"
-msgstr ""
+msgstr "직업"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_Multiplayer.xml
 #. PATH: UIMultiplayerFrameTopBinding/LocalizedTitleString
@@ -2641,7 +2641,7 @@ msgstr "승급 완료"
 #: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml:213
 msgctxt "0x00043add"
 msgid "Background"
-msgstr ""
+msgstr "배경"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[18]/UIScreenAssetLocalizedLabel/LocString
@@ -2692,14 +2692,14 @@ msgstr "게임 나가기"
 #: UI\Flow\Screen\PRE\PRE_MultiplayerStore.xml:105
 msgctxt "0x00040d04"
 msgid "OR"
-msgstr ""
+msgstr "또는"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerStore.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[2]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\PRE\PRE_MultiplayerStore.xml:115
 msgctxt "0x0002eecd"
 msgid "There are no offers available at this time. Please try again later."
-msgstr ""
+msgstr "지금은 가능한 물품이 없습니다. 나중에 다시 시도하십시오."
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerStore.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
@@ -3074,7 +3074,7 @@ msgstr "기술 초기화"
 #: UI\Flow\Screen\REC\REC_Abilities.xml:281
 msgctxt "0x00049f9a"
 msgid "Toggle Upgrade"
-msgstr ""
+msgstr "강화 창 열기"
 
 #. FILE: UI\Flow\Screen\REC\REC_Abilities.xml
 #. PATH: UIAbilitiesAsset/LocalizedLabels/member[20]/UIScreenAssetLocalizedLabel/LocString
@@ -3186,7 +3186,7 @@ msgstr "지금은 본 화면의 몇 기능을 사용할 수 없습니다."
 #: UI\Flow\Screen\REC\REC_CharRec.xml:110
 msgctxt "0x0002711d"
 msgid "Details"
-msgstr ""
+msgstr "세부사항"
 
 #. FILE: UI\Flow\Screen\REC\REC_CharRec.xml
 #. PATH: UICharacterRecordSheetScreenAsset/LocalizedLabels/member[7]/UIScreenAssetLocalizedLabel/LocString
@@ -3305,14 +3305,14 @@ msgstr "텍스트 보기"
 #: UI\Flow\Screen\REC\REC_Codex3.xml:152
 msgctxt "0x00040b99"
 msgid "Open Journal Entry"
-msgstr ""
+msgstr "일지 열기"
 
 #. FILE: UI\Flow\Screen\REC\REC_Codex3.xml
 #. PATH: UICodexScreenAsset/LocalizedLabels/member[9]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\REC\REC_Codex3.xml:172
 msgctxt "0x00043a12"
 msgid "Complete"
-msgstr ""
+msgstr "완료"
 
 #. FILE: UI\Flow\Screen\REC\REC_Inventory.xml
 #. PATH: UIBWInventoryScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
@@ -3438,7 +3438,7 @@ msgstr "금속"
 #: UI\Flow\Screen\REC\REC_Inventory.xml:529
 msgctxt "0x0001b3ef"
 msgid "Plot"
-msgstr ""
+msgstr "이야기 전용 아이템"
 
 #. FILE: UI\Flow\Screen\REC\REC_JournalQuest.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
@@ -3543,21 +3543,21 @@ msgstr "AI 전술"
 #: UI\Flow\Screen\REC\REC_Tactics.xml:95
 msgctxt "0x00040be9"
 msgid "On"
-msgstr ""
+msgstr "켜기"
 
 #. FILE: UI\Flow\Screen\REC\REC_Tactics.xml
 #. PATH: UITacticsAsset/LocalizedLabels/member[5]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\REC\REC_Tactics.xml:105
 msgctxt "0x00040bea"
 msgid "Off"
-msgstr ""
+msgstr "끄기"
 
 #. FILE: UI\Flow\Screen\REC\REC_Tactics.xml
 #. PATH: UITacticsAsset/LocalizedLabels/member[6]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\REC\REC_Tactics.xml:115
 msgctxt "0x000424f4"
 msgid "Target"
-msgstr ""
+msgstr "대상"
 
 #. FILE: UI\Flow\Screen\REC\REC_Tactics.xml
 #. PATH: UITacticsAsset/LocalizedLabels/member[7]/UIScreenAssetLocalizedLabel/LocString
@@ -3585,7 +3585,7 @@ msgstr "이동"
 #: UI\Flow\Screen\REC\REC_WorldMap.xml:76
 msgctxt "0x0001b16d"
 msgid "Legend"
-msgstr ""
+msgstr "범례"
 
 #. FILE: UI\Flow\Screen\REC\REC_WorldMap.xml
 #. PATH: UIBWMapScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
@@ -3753,7 +3753,7 @@ msgstr "위험요소"
 #: UI\Flow\Screen\REC\REC_WorldMap.xml:346
 msgctxt "0x0002f768"
 msgid "Toggle Waypoint"
-msgstr ""
+msgstr "이정표 표시하기"
 
 #. FILE: UI\Flow\Screen\REC\REC_WorldMap.xml
 #. PATH: UIBWMapScreenAsset/LocalizedLabels/member[32]/UIScreenAssetLocalizedLabel/LocString
@@ -3767,14 +3767,14 @@ msgstr "위치로 이동"
 #: UI\Flow\Screen\REC\REC_WorldMap.xml:406
 msgctxt "0x0003fc26"
 msgid "Floor Up"
-msgstr ""
+msgstr "위층으로"
 
 #. FILE: UI\Flow\Screen\REC\REC_WorldMap.xml
 #. PATH: UIBWMapScreenAsset/LocalizedLabels/member[36]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\REC\REC_WorldMap.xml:416
 msgctxt "0x0003fc28"
 msgid "Floor Down"
-msgstr ""
+msgstr "아래층으로"
 
 #. FILE: UI\Flow\Screen\REC\REC_WorldMap.xml
 #. PATH: UIBWMapScreenAsset/LocalizedLabels/member[37]/UIScreenAssetLocalizedLabel/LocString
@@ -11099,7 +11099,7 @@ msgstr "이 세이브 데이터를 불러오겠습니까? 저장되지 않은 �
 #: UI\Flow\Screen\SYS\SYS_SaveLoad.xml:312
 msgctxt "0x00049acf"
 msgid "Export for {ps3}PlayStation®4 system{/ps3}{xbox360}Xbox One{/xbox360}"
-msgstr ""
+msgstr "Export for {ps3}PlayStation®4 system{/ps3}{xbox360}Xbox One{/xbox360}"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_SaveLoad.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[30]/UIScreenAssetLocalizedLabel/LocString
@@ -11107,20 +11107,27 @@ msgstr ""
 msgctxt "0x00049acc"
 msgid "This uploads your current game state to the Dragon Age server so that you can download it later to your {ps3}PlayStation®4 system. {/ps3}{xbox360}Xbox One. {/xbox360}<br><br>If you have previously uploaded your game, this will overwrite the save data on the server.<br><br> This will not create new save data on your current {xbox360}console. {/xbox360}{ps3}system. {/ps3}<br><br>To download this save data to your {ps3}PlayStation®4 system, {/ps3}{xbox360}Xbox One, {/xbox360}launch your copy of Dragon Age™: Inquisition using the same {ps3}Sony Entertainment Network account {/ps3}{xbox360}profile {/xbox360}and EA Origin account that you are currently using.<br><br> Do you wish to continue?"
 msgstr ""
+"나중에 {ps3}PlayStation®4 시스템{/ps3}{xbox360}Xbox One{/xbox360}에 다운로드 할 수 있도록 "
+"현재의 게임 상태가 드래곤 에이지 서버로 업로드 됩니다. <br><br>이전에 업로드를 하신 적이 있다면, 서버에 있는 기존 저장 데이터 "
+"위에 덮어쓰게됩니다.<br><br> 현재 {xbox360}콘솔{/xbox360}{ps3}시스템{/ps3}에 새로운 저장 데이터를 생성하지 "
+"않습니다.<br><br>{ps3}PlayStation®4 시스템 {/ps3}{xbox360}Xbox One {/xbox360}에 저장 "
+"데이터를 다운로드하려면 동일한 {ps3}Sony Entertainment Network 계정 {/ps3}{xbox360}프로필 "
+"{/xbox360}그리고 현재 사용하고 계신 EA Origin 계정을 사용하여 Dragon Age™: Inquisition 복사본을 "
+"실행하세요.<br><br> 진행하시겠습니까?"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_SaveLoad.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[31]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\SYS\SYS_SaveLoad.xml:332
 msgctxt "0x00049ad3"
 msgid "Your current game failed to export. Please try again later."
-msgstr ""
+msgstr "현재 게임을 내보내는 데 실패했습니다. 나중에 다시 시도해주세요."
 
 #. FILE: UI\Flow\Screen\SYS\SYS_SaveLoad.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[32]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\SYS\SYS_SaveLoad.xml:342
 msgctxt "0x00049ad0"
 msgid "You must be in the Black Emporium and logged into the Dragon Age servers to use this feature."
-msgstr "이 기능을 사용하려면 드래곤 에이지 서버에 로그인되어 있고 검은 상점 내에 있어야 합니다."
+msgstr "이 기능을 사용하려면 드래곤 에이지 서버에 로그인한 상태로 검은 만물상 내에 있어야 합니다."
 
 #. FILE: UI\Flow\Screen\SYS\SYS_SaveLoad.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[33]/UIScreenAssetLocalizedLabel/LocString
@@ -11128,6 +11135,9 @@ msgstr "이 기능을 사용하려면 드래곤 에이지 서버에 로그인되
 msgctxt "0x00049ac8"
 msgid "You have successfully exported your current game.<br> You may now import it on your {ps3}PlayStation®4 system {/ps3}{xbox360}Xbox One {/xbox360}while using your current {ps3}Sony Entertainment Network account {/ps3}{xbox360}profile {/xbox360}and EA Origin account."
 msgstr ""
+"성공적으로 게임을 내보냈습니다.<br> 현재의 {ps3}Sony Entertainment Network 계정 {/ps3}{xbox360}"
+"프로필 {/xbox360}and EA Origin 계정을 사용하여 {ps3}PlayStation®4 {/ps3}{xbox360}Xbox "
+"One {/xbox360}로 가져올 수 있습니다."
 
 #. FILE: UI\Flow\Screen\SYS\SYS_ThankYouSplash.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member/UIScreenAssetLocalizedLabel/LocString
@@ -11165,7 +11175,7 @@ msgstr ""
 #: UI\ImmediateMode\widgets\MPKillstreakWidget.xml:728
 msgctxt "0x00038aec"
 msgid "Kill Streak:"
-msgstr ""
+msgstr "연속 처치:"
 
 #. FILE: UI\ImmediateMode\widgets\PauseInfoFloatyWidget.xml
 #. PATH: UIElementTextFieldEntityExData[7]/LocalizedTextString
@@ -11179,14 +11189,14 @@ msgstr "/"
 #: UI\ImmediateMode\widgets\PauseInfoFloatyWidget.xml:5046
 msgctxt "0x00040b94"
 msgid "Boss"
-msgstr ""
+msgstr "우두머리"
 
 #. FILE: UI\ImmediateMode\widgets\PauseInfoFloatyWidget.xml
 #. PATH: GetLocalizedStringData[2]/Text
 #: UI\ImmediateMode\widgets\PauseInfoFloatyWidget.xml:5056
 msgctxt "0x00040b93"
 msgid "Elite"
-msgstr ""
+msgstr "정예"
 
 #. FILE: UI\Settings\DLCCreditsConfiguration.xml
 #. PATH: DLCCreditsConfiguration/DLCCredits/member/UIDLCCredits/DLCCredits/member[1]/UIScrollingCreditSection/Title
@@ -12680,7 +12690,7 @@ msgstr "세이브 데이터가 손상되어 불러올 수 없습니다."
 #: UI\Settings\ExternalLocStringTranslator.xml:89
 msgctxt "0x0004375b"
 msgid "You are not the owner of this save file. If you continue, the save file will be overwritten."
-msgstr ""
+msgstr "이 저장 파일의 소유자가 아닙니다. 계속 진행하면 저장 파일을 덮어쓰게 됩니다."
 
 #. FILE: UI\Settings\ExternalLocStringTranslator.xml
 #. PATH: UIExternalLocStringTranslator/Data/member[14]/UIExternalLocStringIDToLocalizedString/DisplayString
@@ -12713,21 +12723,21 @@ msgstr ""
 #: UI\Settings\ExternalLocStringTranslator.xml:249
 msgctxt "0x00044eed"
 msgid "The save file could not be deleted."
-msgstr ""
+msgstr "저장 파일을 삭제할 수 없습니다."
 
 #. FILE: UI\Settings\ExternalLocStringTranslator.xml
 #. PATH: UIExternalLocStringTranslator/Data/member[36]/UIExternalLocStringIDToLocalizedString/DisplayString
 #: UI\Settings\ExternalLocStringTranslator.xml:359
 msgctxt "0x00044f69"
 msgid "There was an unknown error involving your save file."
-msgstr ""
+msgstr "저장 파일에 알 수 없는 오류가 있습니다."
 
 #. FILE: UI\Settings\ExternalLocStringTranslator.xml
 #. PATH: UIExternalLocStringTranslator/Data/member[37]/UIExternalLocStringIDToLocalizedString/DisplayString
 #: UI\Settings\ExternalLocStringTranslator.xml:369
 msgctxt "0x00044f74"
 msgid "The save device could not be accessed. Would you like to continue without being able to save the game?"
-msgstr ""
+msgstr "저장 기기에 접근할 수 없습니다. 저장 불가한 상태로 게임을 진행하시겠습니까?"
 
 #. FILE: UI\Settings\ExternalLocStringTranslator.xml
 #. PATH: UIExternalLocStringTranslator/Data/member[38]/UIExternalLocStringIDToLocalizedString/DisplayString
@@ -12755,7 +12765,7 @@ msgstr "아니오"
 #: UI\Settings\TacticsCommandsVisualizationSettings.xml:5
 msgctxt "0x0001fbe6"
 msgid "Move to Point"
-msgstr ""
+msgstr "지점으로 이동"
 
 #. FILE: UI\Settings\TacticsCommandsVisualizationSettings.xml
 #. PATH: TacticsCommandsVisualizationSettings/UseAbilityDescription
@@ -12767,7 +12777,6 @@ msgstr "{CUSTOM0} 사용"
 #. FILE: UI\Settings\TacticsCommandsVisualizationSettings.xml
 #. PATH: TacticsCommandsVisualizationSettings/ReviveDescription
 #: UI\Settings\TacticsCommandsVisualizationSettings.xml:23
-#, fuzzy
 msgctxt "0x000409ee"
 msgid "Revive"
 msgstr "되살리기"
@@ -12945,21 +12954,21 @@ msgstr "면역"
 #: UI\Settings\UIStatusEffectTypeSettings.xml:367
 msgctxt "0x000422a8"
 msgid "Resisted"
-msgstr ""
+msgstr "저항"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[17]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:390
 msgctxt "0x00043009"
 msgid "SHATTER"
-msgstr ""
+msgstr "산산조각"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[18]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:413
 msgctxt "0x00043008"
 msgid "DISCHARGE"
-msgstr "방출"
+msgstr "방전"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[19]/UIStatusEffectDisplayInfo/DisplayName
@@ -12973,49 +12982,49 @@ msgstr "파열"
 #: UI\Settings\UIStatusEffectTypeSettings.xml:459
 msgctxt "0x0004300b"
 msgid "NIGHTMARE"
-msgstr ""
+msgstr "악몽"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[21]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:482
 msgctxt "0x0004300d"
 msgid "DOMINATE"
-msgstr ""
+msgstr "지배"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[22]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:505
 msgctxt "0x0004300c"
 msgid "WEAKENED"
-msgstr ""
+msgstr "약화됨"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[23]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:528
 msgctxt "0x0004320f"
 msgid "BEES!"
-msgstr ""
+msgstr "벌떼다!"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[24]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:551
 msgctxt "0x00043af3"
 msgid "Blocked"
-msgstr ""
+msgstr "막힘"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[25]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:574
 msgctxt "0x00044b32"
 msgid "Perceived!"
-msgstr ""
+msgstr "감지됨!"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[27]/UIStatusEffectDisplayInfo/DisplayName
 #: UI\Settings\UIStatusEffectTypeSettings.xml:620
 msgctxt "0x0002a29c"
 msgid "Bleeding"
-msgstr ""
+msgstr "출혈"
 
 #. FILE: UI\ToolTipMappings.xml
 #. PATH: ToolTipEntry[1]/StringToDisplay
@@ -13027,7 +13036,6 @@ msgstr "점수판"
 #. FILE: UI\ToolTipMappings.xml
 #. PATH: ToolTipEntry[3]/StringToDisplay
 #: UI\ToolTipMappings.xml:37
-#, fuzzy
 msgctxt "0x000194a6"
 msgid "Settings"
 msgstr "설정"
@@ -13058,14 +13066,14 @@ msgstr "퀘스트 지도"
 #: UI\ToolTipMappings.xml:77
 msgctxt "0x00044163"
 msgid "Portrait Indicator"
-msgstr ""
+msgstr "초상화 표시"
 
 #. FILE: UI\ToolTipMappings.xml
 #. PATH: ToolTipEntry[9]/StringToDisplay
 #: UI\ToolTipMappings.xml:85
 msgctxt "0x00044161"
 msgid "Pause Indicator"
-msgstr ""
+msgstr "일시정지 표시"
 
 #. FILE: UI\ToolTipMappings.xml
 #. PATH: ToolTipEntry[10]/StringToDisplay
@@ -13268,14 +13276,14 @@ msgstr "불러오기 성공"
 #: UI\UIComponents\UIPartyComp.xml:12
 msgctxt "0x00028d9c"
 msgid "Clear Commands"
-msgstr ""
+msgstr "명령 취소"
 
 #. FILE: UI\UIComponents\UIPartyComp.xml
 #. PATH: UIPartyCompData/HoldPositionCommand/UIPartyCommandData/DisplayName
 #: UI\UIComponents\UIPartyComp.xml:37
 msgctxt "0x0001fbe7"
 msgid "Hold Position"
-msgstr ""
+msgstr "위치 사수"
 
 #. FILE: UI\UIComponents\UIPartyComp.xml
 #. PATH: UIPartyCompData/AttackMyTargetCommand/UIPartyCommandData/DisplayName
@@ -13289,7 +13297,7 @@ msgstr "내 목표를 공격"
 #: UI\UIComponents\UIPartyComp.xml:87
 msgctxt "0x00036ed1"
 msgid "Regroup"
-msgstr ""
+msgstr "집결"
 
 #. FILE: UI\UIComponents\UIPotionLoadoutComp.xml
 #. PATH: UIPotionLoadoutCompData/HerbCostString
@@ -13303,7 +13311,7 @@ msgstr "<font color=\"#{CUSTOM3}\">{CUSTOM0} {CUSTOM1} ({CUSTOM2} 소지)</font>
 #: UI\UIComponents\UIRadarComp.xml:21
 msgctxt "0x0000465c"
 msgid "N"
-msgstr ""
+msgstr "북"
 
 #. FILE: UI\UIComponents\UISaveLoadComp.xml
 #. PATH: UISaveLoadCompData/CorruptedSaveLabelLocString
@@ -13345,13 +13353,17 @@ msgstr ""
 msgctxt "0x00027f98"
 msgid "Unable to load save data as required {pc}downloadable content {/pc}{anyplaystation}downloadable content {/anyplaystation}{anyxbox}downloadable content {/anyxbox}is missing. Please {anyplaystation}check your download list and {/anyplaystation}download the content again{xbox360} or insert a storage device containing the downloadable content{/xbox360}."
 msgstr ""
+"필요한 {pc}다운로드 가능한 콘텐츠 {/pc}{anyplaystation}다운로드 가능한 콘텐츠  "
+"{/anyplaystation}{anyxbox}다운로드 가능한 콘텐츠 {/anyxbox}가 없기 때문에 저장 정보를 불러올 수 없습니다. "
+"{anyplaystation}다운로드 목록을 확인하고 {/anyplaystation}콘텐츠를 다시 다운로드하세요.{xbox360}혹은 "
+"다운로드 가능한 콘텐츠가 포함된 저장 장치를 삽입하세요{/xbox360}."
 
 #. FILE: UI\UIComponents\UISaveLoadComp.xml
 #. PATH: UISaveLoadCompData/LoadErrorMissingInstallContent
 #: UI\UIComponents\UISaveLoadComp.xml:97
 msgctxt "0x00044725"
 msgid "This save file can not be loaded, as installation is still in progress. Please wait for the installation to finish, then try again."
-msgstr ""
+msgstr "설치가 진행 중이기 때문에 저장 파일을 불러올 수 없습니다. 설치가 완료될 때까지 기다린 다음 다시 시도해 주십시오."
 
 #. FILE: UI\UIComponents\UISaveLoadComp.xml
 #. PATH: UISaveLoadCompData/LoadErrorTrialMode
@@ -13359,6 +13371,8 @@ msgstr ""
 msgctxt "0x00044727"
 msgid "This save file could not be loaded because it was not created in EA Access Trial mode. Only saves created while EA Access Trial mode is running can be loaded."
 msgstr ""
+"이 저장 파일은 EA Access 트라이얼 모드로 생성되지 않아 불러올 수 없습니다. EA Access 트라이얼 모드가 실행되는 동안 "
+"생성된 저장 파일만 불러올 수 있습니다."
 
 #. FILE: UI\UIComponents\UISaveLoadComp.xml
 #. PATH: UISaveLoadCompData/LoadErrorBuildNumber
@@ -13366,13 +13380,16 @@ msgstr ""
 msgctxt "0x00043e40"
 msgid "This save data was created with a newer version of the game. Please download the latest {xbox360}Title Update{/xbox360}{xboxone}content update{/xboxone}{anyplaystation}patch{/anyplaystation}{pc}patch{/pc} and try again."
 msgstr ""
+"이 저장 파일은 게임의 새로운 버전에서 생성 되었습니다. 최신 {xbox360}타이틀 업데이트{/xbox360}{xboxone}콘텐츠 "
+"업데이트{/xboxone}{anyplaystation}패치{/anyplaystation}{pc}패치{/pc}를 다운로드하고 다시 "
+"시도해주세요."
 
 #. FILE: UI\UIComponents\UISaveLoadComp.xml
 #. PATH: UISaveLoadCompData/EnumeratingSaves
 #: UI\UIComponents\UISaveLoadComp.xml:112
 msgctxt "0x000424d9"
 msgid "Enumerating Save Files"
-msgstr ""
+msgstr "저장된 파일을 나열하고 있습니다"
 
 #. FILE: UI\UIComponents\UISettingsComp.xml
 #. PATH: UISettingsCompData/DuplicateBindingConfirmationString
@@ -15217,18 +15234,16 @@ msgstr "게임의 모든 소리의 음량을 설정합니다."
 #. FILE: UI\assets\GameOptions\GameOptions_MouseScrollTacCam.xml
 #. PATH: UIGameOptionsItemAsset/Title
 #: UI\assets\GameOptions\GameOptions_MouseScrollTacCam.xml:5
-#, fuzzy
 msgctxt "0x00045260"
 msgid "Tactical Camera on Mouse Wheel"
-msgstr "마우스 휠로 전술 시점 진입"
+msgstr "마우스 휠로 전술 시점 카메라 사용"
 
 #. FILE: UI\assets\GameOptions\GameOptions_MouseScrollTacCam.xml
 #. PATH: UIGameOptionsItemAsset/Description
 #: UI\assets\GameOptions\GameOptions_MouseScrollTacCam.xml:10
-#, fuzzy
 msgctxt "0x00045264"
 msgid "Set whether the tactical camera is activated by scrolling the mouse wheel all the way out."
-msgstr "마우스 스크롤을 바깥쪽으로 돌려서도 전술 카메라에 진입할 지 여부를 선택합니다."
+msgstr "마우스 휠을 돌리는 동작으로 전술 카메라를 활성화할지를 선택합니다."
 
 #. FILE: UI\assets\GameOptions\GameOptions_MouseSensitivity.xml
 #. PATH: UIGameOptionsItemAsset/Title
@@ -15275,7 +15290,6 @@ msgstr "배경 음악 음량을 설정합니다."
 #. FILE: UI\assets\GameOptions\GameOptions_PauseOnTacCamEnter.xml
 #. PATH: UIGameOptionsItemAsset/Title
 #: UI\assets\GameOptions\GameOptions_PauseOnTacCamEnter.xml:5
-#, fuzzy
 msgctxt "0x00044ee9"
 msgid "Auto-Pause Tactical Camera"
 msgstr "전술 시점 시 자동 정지"
@@ -15283,10 +15297,9 @@ msgstr "전술 시점 시 자동 정지"
 #. FILE: UI\assets\GameOptions\GameOptions_PauseOnTacCamEnter.xml
 #. PATH: UIGameOptionsItemAsset/Description
 #: UI\assets\GameOptions\GameOptions_PauseOnTacCamEnter.xml:10
-#, fuzzy
 msgctxt "0x00044fe6"
 msgid "Whether or not the game stops time automatically when switching to the tactical camera."
-msgstr "전술 시점으로 진입할 시 자동으로 게임이 정지시킬지 여부를 선택합니다."
+msgstr "전술 시점으로 진입할 때 게임을 자동으로 정지할 지 선택합니다."
 
 #. FILE: UI\assets\GameOptions\GameOptions_PauseWhileTargetingAOEs.xml
 #. PATH: UIGameOptionsItemAsset/Title
@@ -15335,7 +15348,7 @@ msgstr "원형 메뉴를 표시하는 방법을 설정하십시오. 해당 버�
 #: UI\assets\GameOptions\GameOptions_RadialMenuBehavior.xml:27
 msgctxt "0x00044b48"
 msgid "This option can only be used while a gamepad is connected"
-msgstr ""
+msgstr "이 설정은 게임패드가 연결되어 있을 때에만 사용할 수 있습다"
 
 #. FILE: UI\assets\GameOptions\GameOptions_RadialMenuBehavior.xml
 #. PATH: UIGameOptionsItemAsset/EnumDisplayStrings/member[1]
@@ -15349,42 +15362,42 @@ msgstr "토글로 켜고 끄기"
 #: UI\assets\GameOptions\GameOptions_RadialMenuBehavior.xml:53
 msgctxt "0x00043da2"
 msgid "Hold to Open"
-msgstr ""
+msgstr "꾹 눌러 열기"
 
 #. FILE: UI\assets\GameOptions\GameOptions_Resolution.xml
 #. PATH: UIGameOptionsItemAsset/Title
 #: UI\assets\GameOptions\GameOptions_Resolution.xml:5
 msgctxt "0x000435fc"
 msgid "Resolution"
-msgstr ""
+msgstr "해상도"
 
 #. FILE: UI\assets\GameOptions\GameOptions_Resolution.xml
 #. PATH: UIGameOptionsItemAsset/Description
 #: UI\assets\GameOptions\GameOptions_Resolution.xml:10
 msgctxt "0x00044da8"
 msgid "What the display resolution of the game should be."
-msgstr ""
+msgstr "게임의 화면 해상도를 설정합니다."
 
 #. FILE: UI\assets\GameOptions\GameOptions_Resolution.xml
 #. PATH: UIGameOptionsItemAsset/DisabledDescription
 #: UI\assets\GameOptions\GameOptions_Resolution.xml:29
 msgctxt "0x00044db7"
 msgid "This option can only be changed in fullscreen mode."
-msgstr ""
+msgstr "이 설정은 전체화면 모드에서만 변경할 수 있습니다."
 
 #. FILE: UI\assets\GameOptions\GameOptions_ResolutionScale.xml
 #. PATH: UIGameOptionsItemAsset/Title
 #: UI\assets\GameOptions\GameOptions_ResolutionScale.xml:5
 msgctxt "0x00044dc8"
 msgid "Resolution Scale"
-msgstr ""
+msgstr "해상도 스케일"
 
 #. FILE: UI\assets\GameOptions\GameOptions_ResolutionScale.xml
 #. PATH: UIGameOptionsItemAsset/Description
 #: UI\assets\GameOptions\GameOptions_ResolutionScale.xml:10
 msgctxt "0x00044dc9"
 msgid "Set the game's image resolution level."
-msgstr ""
+msgstr "게임의 이미지 해상도 수준을 설정합니다."
 
 #. FILE: UI\assets\GameOptions\GameOptions_SoundEffectsVolume.xml
 #. PATH: UIGameOptionsItemAsset/Title
@@ -15398,7 +15411,7 @@ msgstr "효과음 볼륨"
 #: UI\assets\GameOptions\GameOptions_SoundEffectsVolume.xml:10
 msgctxt "0x00044d9f"
 msgid "How loud the volume of various sounds in the world should be."
-msgstr ""
+msgstr "세상 속에서 들을 수 있는 다양한 소리의 크기를 설정합니다."
 
 #. FILE: UI\assets\GameOptions\GameOptions_SubtitleSize.xml
 #. PATH: UIGameOptionsItemAsset/Title
@@ -15412,78 +15425,77 @@ msgstr "자막 크기"
 #: UI\assets\GameOptions\GameOptions_SubtitleSize.xml:10
 msgctxt "0x00046694"
 msgid "Set the font size used by the conversation subtitle display."
-msgstr ""
+msgstr "대화 자막 표시에 사용되는 글꼴의 크기를 설정합니다."
 
 #. FILE: UI\assets\GameOptions\GameOptions_SubtitleSize.xml
 #. PATH: UIGameOptionsItemAsset/EnumDisplayStrings/member[1]
 #: UI\assets\GameOptions\GameOptions_SubtitleSize.xml:48
 msgctxt "0x00046695"
 msgid "Default"
-msgstr ""
+msgstr "기본값"
 
 #. FILE: UI\assets\GameOptions\GameOptions_SubtitleSize.xml
 #. PATH: UIGameOptionsItemAsset/EnumDisplayStrings/member[2]
 #: UI\assets\GameOptions\GameOptions_SubtitleSize.xml:53
 msgctxt "0x00046697"
 msgid "Medium"
-msgstr ""
+msgstr "중간"
 
 #. FILE: UI\assets\GameOptions\GameOptions_SubtitleSize.xml
 #. PATH: UIGameOptionsItemAsset/EnumDisplayStrings/member[3]
 #: UI\assets\GameOptions\GameOptions_SubtitleSize.xml:58
 msgctxt "0x00046696"
 msgid "Large"
-msgstr ""
+msgstr "크게"
 
 #. FILE: UI\assets\GameOptions\GameOptions_SwapMouseButtons.xml
 #. PATH: UIGameOptionsItemAsset/Title
 #: UI\assets\GameOptions\GameOptions_SwapMouseButtons.xml:5
 msgctxt "0x0003fb51"
 msgid "Swap mouse buttons"
-msgstr ""
+msgstr "마우스 버튼 전환"
 
 #. FILE: UI\assets\GameOptions\GameOptions_SwapMouseButtons.xml
 #. PATH: UIGameOptionsItemAsset/Description
 #: UI\assets\GameOptions\GameOptions_SwapMouseButtons.xml:10
 msgctxt "0x00044d9b"
 msgid "Whether or not the mouse buttons used for world interaction and player control should be switched."
-msgstr ""
+msgstr "세계 상호작용과 플레이어 조작에 사용되는 마우스 버튼 전환 여부를 지정합니다."
 
 #. FILE: UI\assets\GameOptions\GameOptions_SwapMouseButtons.xml
 #. PATH: UIGameOptionsItemAsset/EnumDisplayStrings/member[1]
 #: UI\assets\GameOptions\GameOptions_SwapMouseButtons.xml:50
 msgctxt "0x00046718"
 msgid "No"
-msgstr ""
+msgstr "아니오"
 
 #. FILE: UI\assets\GameOptions\GameOptions_SwapMouseButtons.xml
 #. PATH: UIGameOptionsItemAsset/EnumDisplayStrings/member[2]
 #: UI\assets\GameOptions\GameOptions_SwapMouseButtons.xml:55
 msgctxt "0x00046719"
 msgid "Always"
-msgstr ""
+msgstr "항상 활성화"
 
 #. FILE: UI\assets\GameOptions\GameOptions_SwapMouseButtons.xml
 #. PATH: UIGameOptionsItemAsset/EnumDisplayStrings/member[3]
 #: UI\assets\GameOptions\GameOptions_SwapMouseButtons.xml:60
 msgctxt "0x0004671a"
 msgid "Tactical Only"
-msgstr ""
+msgstr "전술 시점에서만"
 
 #. FILE: UI\assets\GameOptions\GameOptions_SwapMouseButtons.xml
 #. PATH: UIGameOptionsItemAsset/EnumDisplayStrings/member[4]
 #: UI\assets\GameOptions\GameOptions_SwapMouseButtons.xml:65
 msgctxt "0x0004671b"
 msgid "Real-Time Only"
-msgstr ""
+msgstr "실시간 모드에서만"
 
 #. FILE: UI\assets\GameOptions\GameOptions_TacticalZoom.xml
 #. PATH: UIGameOptionsItemAsset/Title
 #: UI\assets\GameOptions\GameOptions_TacticalZoom.xml:5
-#, fuzzy
 msgctxt "0x00046691"
 msgid "Tactical Camera Zoom"
-msgstr "전술 시점 줌"
+msgstr "전술 시점 확대 수준"
 
 #. FILE: UI\assets\GameOptions\GameOptions_TacticalZoom.xml
 #. PATH: UIGameOptionsItemAsset/Description
@@ -15717,7 +15729,7 @@ msgstr "이 옵션을 활성화하면 스토리 선택사항과 캐릭터 정보
 #: UI\assets\GameOptions\GameOptions_UploadGameplayFeedback.xml:5
 msgctxt "0x0003fc49"
 msgid "Share Usage Data"
-msgstr ""
+msgstr "사용자 데이터 공유"
 
 #. FILE: UI\assets\GameOptions\GameOptions_UploadGameplayFeedback.xml
 #. PATH: UIGameOptionsItemAsset/Description
@@ -15725,13 +15737,16 @@ msgstr ""
 msgctxt "0x00044c11"
 msgid "In addition to information that you give EA directly, EA collects certain information for purposes of improving our products and services, providing services to you, facilitating the provision of software updates, dynamically served content and product support, as well as communicating with you. This data will not be shared with any third party in a way that can identify you."
 msgstr ""
+"EA는 직접 제공하신 정보 외에도 추가적으로 특정한 정보를 수집할 수 있습니다. EA는 이 정보를 사용하여 사업을 운영하고, 제품과 "
+"서비스를 개선하며, 서비스를 제공하는 동시에 귀하와 의사소통하며, 소프트웨어 업데이트, 동적 콘텐츠 및 소프트웨어 지원을 제공합니다. 이 "
+"정보는 사용자를 식별할 수 있는 방식으로 타사와 공유되지 않습니다."
 
 #. FILE: UI\assets\GameOptions\GameOptions_VerticalSync.xml
 #. PATH: UIGameOptionsItemAsset/Title
 #: UI\assets\GameOptions\GameOptions_VerticalSync.xml:5
 msgctxt "0x0003fc44"
 msgid "Vertical sync"
-msgstr ""
+msgstr "수직 동기화"
 
 #. FILE: UI\assets\GameOptions\GameOptions_VerticalSync.xml
 #. PATH: UIGameOptionsItemAsset/Description
@@ -15759,35 +15774,35 @@ msgstr "모든 캐릭터 대화에서 해당 언어가 사용됩니다."
 #: UI\assets\GameOptions\GameOptions_VoipBehavior.xml:5
 msgctxt "0x00044ebe"
 msgid "Voice Chat Behavior"
-msgstr ""
+msgstr "음성 대화 방식"
 
 #. FILE: UI\assets\GameOptions\GameOptions_VoipBehavior.xml
 #. PATH: UIGameOptionsItemAsset/Description
 #: UI\assets\GameOptions\GameOptions_VoipBehavior.xml:10
 msgctxt "0x00044ec1"
 msgid "Set how the \"Voice Chat\" key binding will activate or deactivate voice chat."
-msgstr ""
+msgstr "\"음성 대화\" 단축키가 어떻게 작동할지를 설정합니다."
 
 #. FILE: UI\assets\GameOptions\GameOptions_VoipBehavior.xml
 #. PATH: UIGameOptionsItemAsset/EnumDisplayStrings/member[1]
 #: UI\assets\GameOptions\GameOptions_VoipBehavior.xml:50
 msgctxt "0x00044ebf"
 msgid "Press-To-Talk"
-msgstr ""
+msgstr "눌러서 말하기"
 
 #. FILE: UI\assets\GameOptions\GameOptions_VoipBehavior.xml
 #. PATH: UIGameOptionsItemAsset/EnumDisplayStrings/member[2]
 #: UI\assets\GameOptions\GameOptions_VoipBehavior.xml:55
 msgctxt "0x00044f06"
 msgid "Voice Activated"
-msgstr ""
+msgstr "항상 활성화"
 
 #. FILE: UI\assets\GameOptions\GameOptions_VoipRXVolume.xml
 #. PATH: UIGameOptionsItemAsset/Title
 #: UI\assets\GameOptions\GameOptions_VoipRXVolume.xml:5
 msgctxt "0x00044eb0"
 msgid "Voice Output Volume"
-msgstr ""
+msgstr "음성 출력 볼륨"
 
 #. FILE: UI\assets\GameOptions\GameOptions_VoipRXVolume.xml
 #. PATH: UIGameOptionsItemAsset/Description
