@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-09 16:56+0000\n"
+"PO-Revision-Date: 2021-03-13 07:57+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
 "Language: ko\n"
@@ -183,7 +183,7 @@ msgstr "미쌀의 조각상"
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\qst_560_lorestatues\layer2_dsg_560_lore_codex.xml:241
 msgctxt "0x00040610"
 msgid "Mosaic of Dirthamen"
-msgstr "더타맨의 모자이크"
+msgstr "더타멘의 모자이크"
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\qst_560_lorestatues\layer2_dsg_560_lore_codex.xml
 #. PATH: BWGameInteractionEntityData[3]/InteractionTextReference
@@ -302,7 +302,7 @@ msgstr "용 매장지"
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml:256
 msgctxt "0x0002bc20"
 msgid "Fort Connor"
-msgstr "콘노르 요새"
+msgstr "코너 요새"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer32_dsg_landmarks_content_schematic.xml
 #. PATH: GetLocalizedStringIDData[8]/Text
@@ -920,7 +920,7 @@ msgstr "열쇠"
 #: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\map\Ferelden_Wilderness_Main_floor0.xml:13043
 msgctxt "0x0002a4c0"
 msgid "Templar Camp"
-msgstr "템플러 막사"
+msgstr "성기사단 막사"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\qst_blackwallacquisitionfarmer\layer0_qst_blackwallacquisitionfarmer_general.xml
 #. PATH: AppearanceOverrideSpawnData/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
@@ -1760,7 +1760,7 @@ msgstr "심문회 특전"
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0101_wartable\layer3_dsg_0101_wartable_main_schematic.xml:753
 msgctxt "0x00044335"
 msgid "In the Perks menu, you can select perks that provide unique benefits to your party. The number of available perk points is shown at the bottom of the screen."
-msgstr "특전 메뉴에서는 파티에 다양한 혜택을 주는 특전을 선택할 수 있습니다. 소비할 수 있는 특전 포인트는 화면 하단에 표시됩니다."
+msgstr "특전 메뉴에서는 파티에 다양한 혜택을 주는 특전을 선택할 수 있습니다. 소비할 수 있는 특전 점수는 화면 하단에 표시됩니다."
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\dsg_0101_wartable\layer3_dsg_0101_wartable_main_schematic.xml
 #. PATH: BWPopUpEntityData[4]/Title
@@ -2362,7 +2362,7 @@ msgstr "기술"
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml:508
 msgctxt "0x00044963"
 msgid "Abilities consume mana and stamina for powerful combat effects. Most abilities require time to pass before reuse."
-msgstr "기술은 마나와 지구력을 소비하여 강력한 전투 효과를 발휘합니다. 대부분의 기술은 재사용하기까지 시간이 필요합니다."
+msgstr "기술은 마나와 기력을 소비하여 강력한 전투 효과를 발휘합니다. 대부분의 기술은 재사용하기까지 시간이 필요합니다."
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml
 #. PATH: BWPopUpEntityData[5]/Title
@@ -2434,7 +2434,7 @@ msgstr ""
 #: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml:1407
 msgctxt "0x00044945"
 msgid "War Cry"
-msgstr "함성"
+msgstr "전투 함성"
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml
 #. PATH: BWPopUpEntityData[9]/Text
@@ -2442,8 +2442,8 @@ msgstr "함성"
 msgctxt "0x00044943"
 msgid "War Cry {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInventoryItem2}{/notcontroller}: Taunt nearby foes and build guard to absorb damage."
 msgstr ""
-"전장의 외침 {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInve"
-"ntoryItem2}{/notcontroller}: 주위의 적을 도발하고 방어도를 쌓아 피해를 막아냅니다."
+"전투 함성 {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInven"
+"toryItem2}{/notcontroller}: 주위의 적을 도발하고 방어도를 쌓아 피해를 막아냅니다."
 
 #. FILE: DA3\Layouts\FrostbackMountains\FrostbackMountains\qst_0205_pro_bridgecombat\layer1_dsg_0205_pro_bridgecombat_schematic.xml
 #. PATH: BWPopUpEntityData[10]/Title
@@ -2641,7 +2641,7 @@ msgid ""
 "\n"
 "Press {ConceptQuickShowCharRec} to open the character record to see the Abilities screen.{/notcontroller}"
 msgstr ""
-"캐릭터의 레벨이 올랐습니다. 체력과 능력치가 자동으로 상승했으며, 기술 포인트 하나를 획득했습니다.{notcontroller}\n"
+"캐릭터의 레벨이 올랐습니다. 체력과 능력치가 자동으로 상승했으며, 기술 점수 하나를 획득했습니다.{notcontroller}\n"
 "\n"
 "{ConceptQuickShowCharRec}을 눌러 캐릭터 기록지를 열고 기술 화면을 확인하십시오.{/notcontroller}"
 
@@ -2670,7 +2670,7 @@ msgid ""
 "\n"
 "You can only learn abilities connected to the root of the ability tree or connected to an ability you've already learned."
 msgstr ""
-"기술 포인트가 남아있다면, {controller}{GuilnteractionEnter}를 눌러 선택한 기술을 "
+"기술 점수가 남아있다면, {controller}{GuilnteractionEnter}를 눌러 선택한 기술을 "
 "습득하십시오{/controller}{notcontroller}기술을 클릭하여 습득하십시오{/notcontroller}.\n"
 "\n"
 "기술을 배우기 위해서는 기술 트리의 가장 기본기이거나, 이미 습득한 기술과 연결되어있어야 합니다."
@@ -3553,6 +3553,7 @@ msgstr "큰곰 산그늘"
 #. FILE: DA3\Layouts\TheDales\TheDales_Forest\design\layer3_dsg_regionnotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[16]/Text
 #: DA3\Layouts\TheDales\TheDales_Forest\design\layer3_dsg_regionnotifications_schematic.xml:222
+#, fuzzy
 msgctxt "0x000383bf"
 msgid "Harrow"
 msgstr "해로우"
@@ -4637,7 +4638,7 @@ msgstr "에메랄드 무덤"
 #: DA3\Layouts\TheDales\dgn_s_160\design\layer17_dsg_codex_schematic.xml:83
 msgctxt "0x0002be3b"
 msgid "Jeannette d'Onterre, Matriarch of the House d'Onterre"
-msgstr "지네트 동테르, 동테르 가의 여가장"
+msgstr "자네트 동테르, 동테르 가의 여가장"
 
 #. FILE: DA3\Layouts\TheDales\dgn_s_160\design\layer17_dsg_codex_schematic.xml
 #. PATH: GetLocalizedStringIDData[2]/Text
@@ -7439,7 +7440,7 @@ msgstr "엔버스 광업 야영지"
 #: DA3\Layouts\ThematicLevels\the_Oasis_500\design\layer18_dsg_regionnotifications_schematic.xml:138
 msgctxt "0x0003a90a"
 msgid "Par'as Cavern"
-msgstr "파라스 동굴"
+msgstr "파르아스 동굴"
 
 #. FILE: DA3\Layouts\ThematicLevels\the_Oasis_500\design\layer18_dsg_regionnotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[11]/Text
@@ -7481,7 +7482,7 @@ msgstr "상부 절벽"
 #: DA3\Layouts\ThematicLevels\the_Oasis_500\design\layer30_dsg_interactiveart_schematic.xml:2053
 msgctxt "0x0004329c"
 msgid "Par'as Cavern Key Required"
-msgstr "파라스 동굴 열쇠 필요"
+msgstr "파르아스 동굴 열쇠 필요"
 
 #. FILE: DA3\Layouts\ThematicLevels\the_Oasis_500\design\layer32_dsg_landmarks_schematic.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -8394,12 +8395,12 @@ msgid ""
 "\n"
 "Venner"
 msgstr ""
-"마리온:\n"
+"마리온,\n"
 "\n"
 "나도 두통 있어. 근데 붉은 거 먹는 애들이 하는 말이 다 괜찮아진다더라. 너도 곧 강해질 거야. 나는 어제 훈련에서 드디어 폴렛 병장님 "
 "이겼잖아. 두 번이나! 그 어이없는 표정이 아직도 생생해.\n"
 "\n"
-"붉은 리륨 하는 사람은 배급도 더 줄 건 가 봐. 내일은 너도 나랑 훈련가자. 보조를 맞춰줄 수 있는 사람이 필요해.\n"
+"붉은 리륨 하는 사람은 배급도 더 줄 건가봐. 내일은 너도 나랑 훈련 가자. 보조를 맞춰줄 수 있는 사람이 필요해.\n"
 "\n"
 "베너"
 
@@ -8788,7 +8789,7 @@ msgstr ""
 "{notcontroller}좌측의 목록에서 물약을 드래그하여 우측 하단에 놓으면 현재 파티원에게 장비됩니다.\n"
 "\n"
 "물약을 사용하기 전 보충하여야 합니다. {/notcontroller}{controller}원형 메뉴 위쪽의 {/controller}물약은 "
-"저절로 보충되지만, 나머지 모든 물약은 약초가 있어야만 보충됩니다.{notcontroller} 필요한 약초의 종류와 갯수는 선택한 물약의 "
+"저절로 보충되지만, 나머지 모든 물약은 약초가 있어야만 보충됩니다.{notcontroller} 필요한 약초의 종류와 개수는 선택한 물약의 "
 "설명문 옆에 명시되어 있습니다.\n"
 "\n"
 "우측 하단의 슬롯을 클릭하여 장비한 물약을 보충하십시오.{/notcontroller}"
@@ -9399,7 +9400,7 @@ msgstr "숨겨진 무기고"
 #: da3_dlc_blue\Layouts\DLCBlue_Elven_Dungeon\design\layer14_dsg_regions_schematic.xml:142
 msgctxt "0x0004a2f1"
 msgid "Forgotten Sanctuary"
-msgstr "잊혀진 성소"
+msgstr "잊힌 성소"
 
 #. FILE: da3_dlc_blue\Layouts\DLCBlue_Elven_Dungeon\design\layer44_dsg_walkways_schematic.xml
 #. PATH: BWPopUpEntityData/Text
@@ -9821,7 +9822,7 @@ msgstr "고대 감옥"
 #: da3_dlc_blue\Layouts\DLCBlue_WinterPalace\map\DLCBlue_WinterPalace_floor5.xml:25
 msgctxt "0x0004b34c"
 msgid "Forgotten Tower"
-msgstr "잊혀진 탑"
+msgstr "잊힌 탑"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\DLC_Red_Dungeon.xml
 #. PATH: UILevelDescriptionComponent/LocationName
@@ -9863,7 +9864,7 @@ msgstr "폭풍 해안 지하 가도"
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\DLC_Red_Dungeon\layer8_dsg_global_schematic.xml:2173
 msgctxt "0x0004810e"
 msgid "Forgotten Caverns"
-msgstr "잊혀진 동굴"
+msgstr "잊힌 동굴"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\DLC_Red_Dungeon\layer8_dsg_global_schematic.xml
 #. PATH: GetLocalizedStringIDData[7]/Text
@@ -9954,7 +9955,7 @@ msgstr "발타 기록관의 돌 감각 따라가기"
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor0.xml:245
 msgctxt "0x0004a078"
 msgid "Sha-Brytol Shrine"
-msgstr "샤브라이톨 성소"
+msgstr "샤 브라이톨 성소"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor0.xml
 #. PATH: BWMapPinArea/TitleReference
@@ -9968,7 +9969,7 @@ msgstr "순수의 요새로"
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor1.xml:184
 msgctxt "0x0004ab11"
 msgid "To the Forgotten Caverns"
-msgstr "잊혀진 동굴로"
+msgstr "잊힌 동굴로"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor1.xml
 #. PATH: BWMapPinLocation[1]/TitleReference
@@ -10010,14 +10011,14 @@ msgstr "발타 기록관의 돌 감각을 따라 순수의 요새 통과하기"
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor1.xml:1268
 msgctxt "0x0004a074"
 msgid "Defeat the Sha-Brytol"
-msgstr "샤브라이톨을 물리치자"
+msgstr "샤 브라이톨을 물리치자"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor1.xml
 #. PATH: BWMapPinLocation[18]/TitleReference
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor1.xml:1335
 msgctxt "0x00047485"
 msgid "Sha-Brytol Earthshaker"
-msgstr "샤브라이톨 대지분쇄자"
+msgstr "샤 브라이톨 대지분쇄자"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor2.xml
 #. PATH: BWMapPinSearchZone/TitleReference
@@ -10031,7 +10032,7 @@ msgstr "정체불명의 공격자들을 물리치자"
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor2.xml:276
 msgctxt "0x0004aa99"
 msgid "Explore the Forgotten Caverns"
-msgstr "잊혀진 동굴 탐사하기"
+msgstr "잊힌 동굴 탐사하기"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor2.xml
 #. PATH: BWMapPinLocation[4]/TitleReference
@@ -10094,7 +10095,7 @@ msgstr "발타 기록관의 돌 감각을 따라 헤이드룬 타이그 통과�
 #: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor3.xml:680
 msgctxt "0x0004ab18"
 msgid "Lift Down to the Forgotten Caverns"
-msgstr "잊혀진 동굴로 내려가는 승강기"
+msgstr "잊힌 동굴로 내려가는 승강기"
 
 #. FILE: da3_dlc_red\Layouts\DLC_Red_Dungeon\map\DLC_Red_Dungeon_floor3.xml
 #. PATH: BWMapPinLocation[13]/TitleReference

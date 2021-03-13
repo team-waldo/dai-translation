@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-09 16:56+0000\n"
-"Last-Translator: 이태진 <ltaejin96@gmail.com>\n"
+"PO-Revision-Date: 2021-03-13 07:57+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,7 +24,7 @@ msgctxt "0x0004a04e"
 msgid "You must be connected to the Dragon Age server to migrate Multiplayer data from your {xboxone}Xbox 360{/xboxone}{ps4}PlayStation®3 system{/ps4}."
 msgstr ""
 "{xboxone}Xbox 360{/xboxone}{ps4}PlayStation®3 기기{/ps4}의 온라인 정보를 불러오기 위해서는 "
-"드래곤 에이지 서버와 연결되어있어야 합니다. "
+"Dragon Age 서버와 연결되어 있어야 합니다."
 
 #. FILE: UI\Flow\Gen3MigrationFlowPrefab.xml
 #. PATH: BWPopUpEntityData[2]/Title
@@ -201,21 +201,21 @@ msgstr "오류"
 #: UI\Flow\PRE_ChangeCharacter_Prefab.xml:810
 msgctxt "0x00022d7c"
 msgid "There was an error sending data to the Dragon Age server. Please try again later."
-msgstr "드래곤 에이지 서버에 데이터를 저장할 수 없었습니다. 나중에 다시 시도해 주세요."
+msgstr "Dragon Age 서버에 데이터를 저장할 수 없었습니다. 나중에 다시 시도해 주세요."
 
 #. FILE: UI\Flow\PRE_MigrationSavegameImport_Prefab.xml
 #. PATH: BWPopUpEntityData[1]/Title
 #: UI\Flow\PRE_MigrationSavegameImport_Prefab.xml:94
 msgctxt "0x00049acb"
 msgid "Import {ps4}PlayStation®3 system {/ps4}{xboxone}Xbox 360 {/xboxone}Save Data"
-msgstr "{ps4}플레이스테이션{/ps4}{xboxone}Xbox{/xboxone} 세이브 데이터 가져오기"
+msgstr "{ps4}플레이스테이션{/ps4}{xboxone}Xbox{/xboxone} 저장 데이터 가져오기"
 
 #. FILE: UI\Flow\PRE_MigrationSavegameImport_Prefab.xml
 #. PATH: BWPopUpEntityData[1]/Text
 #: UI\Flow\PRE_MigrationSavegameImport_Prefab.xml:100
 msgctxt "0x00049ad2"
 msgid "Importing your save data failed. Please try again later."
-msgstr "세이브 데이터를 가져오지 못했습니다. 나중에 다시 시도하세요."
+msgstr "저장 데이터를 가져오지 못했습니다. 나중에 다시 시도하세요."
 
 #. FILE: UI\Flow\PRE_MigrationSavegameImport_Prefab.xml
 #. PATH: BWPopUpEntityData[2]/Text
@@ -224,9 +224,9 @@ msgctxt "0x00049ace"
 msgid "This searches the Dragon Age server for save data exported from your {ps4}PlayStation®3 system {/ps4}{xboxone}Xbox 360 {/xboxone}while using your current {ps4}Sony Entertainment Network account {/ps4}{xboxone}profile {/xboxone}and EA Origin account. <br>If your save data is present on the server, this feature will download and load that save data. <br><br>Do you wish to continue?"
 msgstr ""
 "현재 {ps4} Sony Entertainment Network 계정 {/ ps4} {xboxone}을 사용하면서 {ps4} "
-"PlayStation®3 시스템 {/ ps4} {xboxone} Xbox 360 {/ xboxone}에서 내 보낸 저장 데이터를 드래곤 "
-"에이지 서버에서 찾고있습니다.  프로필 {/ xboxone} 과 EA Origin 계정에 <br> 저장 데이터가 서버에있는 경우이 기능은 "
-"해당 저장 데이터를 다운로드를한다음 불러옵니다.  <br> 계속 하시겠습니까?"
+"PlayStation®3 시스템 {/ ps4} {xboxone} Xbox 360 {/ xboxone}에서 내 보낸 저장 데이터를 "
+"Dragon Age 서버에서 찾고있습니다.  프로필 {/ xboxone} 과 EA Origin 계정에 <br> 저장 데이터가 서버에있는 "
+"경우이 기능은 해당 저장 데이터를 다운로드를한다음 불러옵니다.  <br> 계속 하시겠습니까?"
 
 #. FILE: UI\Flow\PRE_MigrationSavegameImport_Prefab.xml
 #. PATH: MigrationSavegameImportEntityData/RequiresDlcString
@@ -679,7 +679,7 @@ msgstr "경량 방어구"
 #: UI\Flow\Screen\ENV\ENV_Crafting.xml:619
 msgctxt "0x0002ba86"
 msgid "Medium Armor"
-msgstr "평갑 방어구"
+msgstr "평장 방어구"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_Crafting.xml
 #. PATH: UICraftingScreenAsset/Categories/member[13]/UICraftingCategoryData/CategoryLabel
@@ -742,7 +742,7 @@ msgstr "요구사항:"
 #: UI\Flow\Screen\ENV\ENV_InquisitionCustomization.xml:124
 msgctxt "0x00032428"
 msgid "Points Needed in Category"
-msgstr "포인트 필요"
+msgstr "점수 필요"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_LootPopup.xml
 #. PATH: UILootPopupScreenAsset/LocalizedLabels/member[1]/UIScreenAssetLocalizedLabel/LocString
@@ -1095,7 +1095,7 @@ msgstr "다음 여정에 가지고 갈 물약을 선택하세요."
 #: UI\Flow\Screen\ENV\ENV_PotionMapping.xml:111
 msgctxt "0x0001fbad"
 msgid "Potion Belt"
-msgstr "물약 벨트"
+msgstr "물약 허리띠"
 
 #. FILE: UI\Flow\Screen\ENV\ENV_PotionMapping.xml
 #. PATH: UIPotionMappingScreenAsset/LocalizedLabels/member[5]/UIScreenAssetLocalizedLabel/LocString
@@ -2019,7 +2019,7 @@ msgstr "맥스웰"
 #: UI\Flow\Screen\PRE\PRE_CharGen_Head.xml:339
 msgctxt "0x000441d8"
 msgid "Evelyn"
-msgstr "에블린"
+msgstr "아벨린"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CharGen_Head.xml
 #. PATH: UICharGenHeadScreenAsset/LocalizedLabels/member[15]/UIScreenAssetLocalizedLabel/LocString
@@ -2090,7 +2090,8 @@ msgstr "카메라 회전"
 msgctxt "0x00044250"
 msgid "There was an error uploading your character data to the Dragon Age Keep. If you continue, you will not be able to upload this character's data again."
 msgstr ""
-"캐릭터 데이터를 드래곤 에이지 킵에 업로드하는 과정에서 오류가 발생했습니다. 계속하면 이 캐릭터의 데이터를 다시 업로드하지 못하게 됩니다."
+"캐릭터 데이터를 Dragon Age Keep에 업로드하는 과정에서 오류가 발생했습니다. 계속하면 이 캐릭터의 데이터를 다시 업로드하지 "
+"못하게 됩니다."
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CharGen_Head.xml
 #. PATH: UICharGenHeadScreenAsset/LocalizedLabels/member[25]/UIScreenAssetLocalizedLabel/LocString
@@ -2941,7 +2942,7 @@ msgstr "이 부분은 게임이 완전히 설치된 후 열람 가능합니다. 
 #: UI\Flow\Screen\PRE\PRE_StartMenu.xml:246
 msgctxt "0x0001fd16"
 msgid "Dragon Age Keep"
-msgstr "드래곤 에이지 성채"
+msgstr "Dragon Age Keep"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_StartMenu.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[22]/UIScreenAssetLocalizedLabel/LocString
@@ -2976,7 +2977,7 @@ msgstr "시작버튼을 누르세요"
 #: UI\Flow\Screen\PRE\PRE_TitleScreen.xml:55
 msgctxt "0x000437a8"
 msgid "Press OPTIONS Button"
-msgstr "옵션버튼을 누르세요"
+msgstr "설정버튼을 누르세요"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_TitleScreen.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[5]/UIScreenAssetLocalizedLabel/LocString
@@ -3053,7 +3054,7 @@ msgstr "기술 트리 보기"
 #: UI\Flow\Screen\REC\REC_Abilities.xml:251
 msgctxt "0x000438b4"
 msgid "Points to Spend"
-msgstr "사용 가능한 포인트"
+msgstr "사용 가능한 점수"
 
 #. FILE: UI\Flow\Screen\REC\REC_Abilities.xml
 #. PATH: UIAbilitiesAsset/LocalizedLabels/member[15]/UIScreenAssetLocalizedLabel/LocString
@@ -3158,7 +3159,7 @@ msgstr "기술 배우기를 적용하고 계속 진행하시겠습니까?"
 #: UI\Flow\Screen\REC\REC_Abilities.xml:421
 msgctxt "0x00044b52"
 msgid "Do you wish to automatically spend all of your ability points?"
-msgstr "기술 포인트를 자동으로 모두 소모합니까?"
+msgstr "기술 점수를 자동으로 모두 소모합니까?"
 
 #. FILE: UI\Flow\Screen\REC\REC_Abilities.xml
 #. PATH: UIAbilitiesAsset/LocalizedLabels/member[32]/UIScreenAssetLocalizedLabel/LocString
@@ -3837,7 +3838,7 @@ msgstr "잠긴 문"
 #: UI\Flow\Screen\REC\REC_WorldMap.xml:516
 msgctxt "0x00042441"
 msgid "Checkpoint"
-msgstr "체크포인트"
+msgstr "자동 저장 지점"
 
 #. FILE: UI\Flow\Screen\REC\REC_WorldMap.xml
 #. PATH: UIBWMapScreenAsset/LocalizedLabels/member[47]/UIScreenAssetLocalizedLabel/LocString
@@ -11064,14 +11065,14 @@ msgstr "{CUSTOM0} - {CUSTOM1} - {CUSTOM2}"
 #: UI\Flow\Screen\SYS\SYS_SaveLoad.xml:262
 msgctxt "0x0004324e"
 msgid "Are you sure you want to overwrite this save?"
-msgstr "이 세이브파일을 덮어쓰시겠습니까?"
+msgstr "이 저장파일을 덮어쓰시겠습니까?"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_SaveLoad.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[25]/UIScreenAssetLocalizedLabel/LocString
 #: UI\Flow\Screen\SYS\SYS_SaveLoad.xml:272
 msgctxt "0x00043250"
 msgid "Are you sure you want to delete this save?"
-msgstr "이 세이브파일을 삭제하시겠습니까?"
+msgstr "이 저장파일을 삭제하시겠습니까?"
 
 #. FILE: UI\Flow\Screen\SYS\SYS_SaveLoad.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[26]/UIScreenAssetLocalizedLabel/LocString
@@ -11092,7 +11093,7 @@ msgstr "사용 가능한 공간 확인중."
 #: UI\Flow\Screen\SYS\SYS_SaveLoad.xml:302
 msgctxt "0x00027f52"
 msgid "Are you sure you want to load this save data? Any unsaved progress will be lost."
-msgstr "이 세이브 데이터를 불러오겠습니까? 저장되지 않은 진행사항은 사라집니다."
+msgstr "이 저장 데이터를 불러오겠습니까? 저장되지 않은 진행사항은 사라집니다."
 
 #. FILE: UI\Flow\Screen\SYS\SYS_SaveLoad.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[29]/UIScreenAssetLocalizedLabel/LocString
@@ -11108,10 +11109,10 @@ msgctxt "0x00049acc"
 msgid "This uploads your current game state to the Dragon Age server so that you can download it later to your {ps3}PlayStation®4 system. {/ps3}{xbox360}Xbox One. {/xbox360}<br><br>If you have previously uploaded your game, this will overwrite the save data on the server.<br><br> This will not create new save data on your current {xbox360}console. {/xbox360}{ps3}system. {/ps3}<br><br>To download this save data to your {ps3}PlayStation®4 system, {/ps3}{xbox360}Xbox One, {/xbox360}launch your copy of Dragon Age™: Inquisition using the same {ps3}Sony Entertainment Network account {/ps3}{xbox360}profile {/xbox360}and EA Origin account that you are currently using.<br><br> Do you wish to continue?"
 msgstr ""
 "나중에 {ps3}PlayStation®4 시스템{/ps3}{xbox360}Xbox One{/xbox360}에 다운로드 할 수 있도록 "
-"현재의 게임 상태가 드래곤 에이지 서버로 업로드 됩니다. <br><br>이전에 업로드를 하신 적이 있다면, 서버에 있는 기존 저장 데이터 "
-"위에 덮어쓰게됩니다.<br><br> 현재 {xbox360}콘솔{/xbox360}{ps3}시스템{/ps3}에 새로운 저장 데이터를 생성하지 "
-"않습니다.<br><br>{ps3}PlayStation®4 시스템 {/ps3}{xbox360}Xbox One {/xbox360}에 저장 "
-"데이터를 다운로드하려면 동일한 {ps3}Sony Entertainment Network 계정 {/ps3}{xbox360}프로필 "
+"현재의 게임 상태가 Dragon Age 서버로 업로드 됩니다. <br><br>이전에 업로드를 하신 적이 있다면, 서버에 있는 기존 저장 "
+"데이터 위에 덮어쓰게됩니다.<br><br> 현재 {xbox360}콘솔{/xbox360}{ps3}시스템{/ps3}에 새로운 저장 데이터를 "
+"생성하지 않습니다.<br><br>{ps3}PlayStation®4 시스템 {/ps3}{xbox360}Xbox One {/xbox360}에 "
+"저장 데이터를 다운로드하려면 동일한 {ps3}Sony Entertainment Network 계정 {/ps3}{xbox360}프로필 "
 "{/xbox360}그리고 현재 사용하고 계신 EA Origin 계정을 사용하여 Dragon Age™: Inquisition 복사본을 "
 "실행하세요.<br><br> 진행하시겠습니까?"
 
@@ -11127,7 +11128,7 @@ msgstr "현재 게임을 내보내는 데 실패했습니다. 나중에 다시 �
 #: UI\Flow\Screen\SYS\SYS_SaveLoad.xml:342
 msgctxt "0x00049ad0"
 msgid "You must be in the Black Emporium and logged into the Dragon Age servers to use this feature."
-msgstr "이 기능을 사용하려면 드래곤 에이지 서버에 로그인한 상태로 검은 만물상 내에 있어야 합니다."
+msgstr "이 기능을 사용하려면 Dragon Age 서버에 로그인한 상태로 검은 만물상 내에 있어야 합니다."
 
 #. FILE: UI\Flow\Screen\SYS\SYS_SaveLoad.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[33]/UIScreenAssetLocalizedLabel/LocString
@@ -12683,7 +12684,7 @@ msgstr "재시도"
 #: UI\Settings\ExternalLocStringTranslator.xml:39
 msgctxt "0x00027f56"
 msgid "This save data appears to be damaged and cannot be loaded."
-msgstr "세이브 데이터가 손상되어 불러올 수 없습니다."
+msgstr "저장 데이터가 손상되어 불러올 수 없습니다."
 
 #. FILE: UI\Settings\ExternalLocStringTranslator.xml
 #. PATH: UIExternalLocStringTranslator/Data/member[9]/UIExternalLocStringIDToLocalizedString/DisplayString
@@ -12877,7 +12878,7 @@ msgstr "해제"
 #: UI\Settings\UIStatusEffectTypeSettings.xml:114
 msgctxt "0x0002a294"
 msgid "Frozen"
-msgstr "결빙"
+msgstr "빙결"
 
 #. FILE: UI\Settings\UIStatusEffectTypeSettings.xml
 #. PATH: UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[6]/UIStatusEffectDisplayInfo/DisplayName
@@ -13108,7 +13109,7 @@ msgstr "캐릭터 불러오기"
 #: UI\UIComponents\UICharGenComp.xml:41
 msgctxt "0x000446d4"
 msgid "Downloading character data from the Dragon Age Keep..."
-msgstr "드래곤 에이지 킵에서 캐릭터 데이터 다운로드중..."
+msgstr "Dragon Age Keep에서 캐릭터 데이터 다운로드중..."
 
 #. FILE: UI\UIComponents\UICharGenComp.xml
 #. PATH: UICharGenCompData/CharacterImportLogin
@@ -13129,7 +13130,7 @@ msgstr "사용자 지정 캐릭터"
 #: UI\UIComponents\UICharGenComp.xml:56
 msgctxt "0x000446d8"
 msgid "Customized Character Data from the Dragon Age Keep"
-msgstr "드래곤 에이지 킵에서 다운로드한 사용자 지정 캐릭터 데이터"
+msgstr "Dragon Age Keep에서 다운로드한 사용자 지정 캐릭터 데이터"
 
 #. FILE: UI\UIComponents\UICharGenComp.xml
 #. PATH: UICharGenCompData/CharacterImportCardFailed
@@ -13213,21 +13214,21 @@ msgstr "월드 세이브 불러오기"
 #: UI\UIComponents\UIOnlineHubComp.xml:27
 msgctxt "0x00044114"
 msgid "Do you want to import a custom world state from the Dragon Age Keep (https://dragonagekeep.com)?"
-msgstr "드래곤 에이지 킵 (https://dragonagekeep.com) 에서 월드 세이브를 불러들입니까?"
+msgstr "Dragon Age Keep (https://dragonagekeep.com) 에서 월드 세이브를 불러들입니까?"
 
 #. FILE: UI\UIComponents\UIOnlineHubComp.xml
 #. PATH: UIOnlineHubCompData/ImportInProgressText
 #: UI\UIComponents\UIOnlineHubComp.xml:32
 msgctxt "0x00044116"
 msgid "Importing from Dragon Age Keep..."
-msgstr "드래곤 에이지 킵에서 불러들이는 중..."
+msgstr "Dragon Age Keep에서 불러들이는 중..."
 
 #. FILE: UI\UIComponents\UIOnlineHubComp.xml
 #. PATH: UIOnlineHubCompData/FamilySharingErrorText
 #: UI\UIComponents\UIOnlineHubComp.xml:37
 msgctxt "0x00044112"
 msgid "Importing World State from the Dragon Age Keep cannot be used due to Family Settings"
-msgstr "가족 설정으로 인해 드래곤 에이지 Keep에서 세계 설정을 불러올 수 없습니다"
+msgstr "가족 설정으로 인해 Dragon Age Keep에서 세계 설정을 불러올 수 없습니다"
 
 #. FILE: UI\UIComponents\UIOnlineHubComp.xml
 #. PATH: UIOnlineHubCompData/DefaultCanonTitle
@@ -13241,7 +13242,7 @@ msgstr "기본 월드 세이브"
 #: UI\UIComponents\UIOnlineHubComp.xml:47
 msgctxt "0x00044117"
 msgid "To import a custom world state, log in and visit the Dragon Age Keep at: https://dragonagekeep.com."
-msgstr "월드 세이브를 불러오려면, 드래곤 에이지 성채에 접속하여 로그인하세요: https://dragonagekeep.com."
+msgstr "월드 세이브를 불러오려면, Dragon Age Keep에 접속하여 로그인하세요: https://dragonagekeep.com."
 
 #. FILE: UI\UIComponents\UIOnlineHubComp.xml
 #. PATH: UIOnlineHubCompData/ImportErrorText
@@ -13290,7 +13291,7 @@ msgstr "위치 사수"
 #: UI\UIComponents\UIPartyComp.xml:62
 msgctxt "0x0001fbe4"
 msgid "Attack My Target"
-msgstr "내 목표를 공격"
+msgstr "내 대상을 공격"
 
 #. FILE: UI\UIComponents\UIPartyComp.xml
 #. PATH: UIPartyCompData/ComeToMeCommand/UIPartyCommandData/DisplayName
@@ -13318,7 +13319,7 @@ msgstr "북"
 #: UI\UIComponents\UISaveLoadComp.xml:72
 msgctxt "0x00044eee"
 msgid "Corrupt Save"
-msgstr "손상된 세이브"
+msgstr "손상된 저장"
 
 #. FILE: UI\UIComponents\UISaveLoadComp.xml
 #. PATH: UISaveLoadCompData/MaxSaveLocString
@@ -13482,7 +13483,7 @@ msgstr ""
 #: UI\assets\BaseChoices\UIBaseChoice_Courtyard.xml:46
 msgctxt "0x000436ce"
 msgid "SPARRING RING"
-msgstr "모의 결투장"
+msgstr "대련장"
 
 #. FILE: UI\assets\BaseChoices\UIBaseChoice_Courtyard.xml
 #. PATH: UIBaseChoiceAsset/RightChoice/UIBaseChoiceOption/OptionShortDesc
@@ -13562,7 +13563,7 @@ msgstr "탑 업그레이드 선택"
 #: UI\assets\BaseChoices\UIBaseChoice_Tower.xml:25
 msgctxt "0x000133cf"
 msgid "TEMPLAR"
-msgstr "성기사"
+msgstr "성기사단"
 
 #. FILE: UI\assets\BaseChoices\UIBaseChoice_Tower.xml
 #. PATH: UIBaseChoiceAsset/LeftChoice/UIBaseChoiceOption/OptionShortDesc
@@ -13692,7 +13693,7 @@ msgstr "테빈터 제국"
 #: UI\assets\BaseCustomization\BaseCust_Banner_Warden.xml:5
 msgctxt "0x000184c5"
 msgid "GREY WARDEN"
-msgstr "회색 감시자"
+msgstr "회색 감시단"
 
 #. FILE: UI\assets\BaseCustomization\BaseCust_Bed.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
@@ -14039,7 +14040,7 @@ msgctxt "0x0002d07d"
 msgid "Humans are the most numerous and powerful race in Thedas. They are also the most divided politically and seem to thirst for conflict. Human characters receive a bonus ability point at the start of the game."
 msgstr ""
 "인간은 테다스에서 가장 숫자가 많으며 강력한 종족입니다. 또한 인간은 정치적으로 가장 분열된 종족이며 언제나 갈등을 만들어냅니다. 인간 "
-"캐릭터는 게임 시작 시 기술 포인트 하나를 얻습니다."
+"캐릭터는 게임 시작 시 기술 점수 하나를 얻습니다."
 
 #. FILE: UI\assets\CharacterCreation\CharacterRaceUIData.xml
 #. PATH: UICharacterRaceDataAsset/CharacterRaces/member[1]/CharacterRaceUIData/RaceTitleFemale
@@ -14055,7 +14056,7 @@ msgctxt "0x000441c9"
 msgid "Humans are the most numerous and powerful race in Thedas. They are also the most divided politically and seem to thirst for conflict. Human characters receive a bonus ability point at the start of the game."
 msgstr ""
 "인간은 테다스에서 가장 숫자가 많으며 강력한 종족입니다. 또한 인간은 정치적으로 가장 분열된 종족이며 언제나 갈등을 만들어냅니다. 인간 "
-"캐릭터는 게임 시작 시 기술 포인트 하나를 얻습니다."
+"캐릭터는 게임 시작 시 기술 점수 하나를 얻습니다."
 
 #. FILE: UI\assets\CharacterCreation\CharacterRaceUIData.xml
 #. PATH: UICharacterRaceDataAsset/CharacterRaces/member[2]/CharacterRaceUIData/RaceTitle
@@ -14126,7 +14127,7 @@ msgstr "쿠나리"
 msgctxt "0x0002d07b"
 msgid "The Qunari are a race of horned giants who follow a strict religious text known as the Qun. Those who have abandoned its principles are known as Tal-Vashoth and often work as mercenaries. Qunari characters get a bonus {string}282461{/string}."
 msgstr ""
-"쿠나리는 뿔 달린 거대한 종족으로 쿤이라고 하는 엄격한 종교적 규율을 따르며 살아갑니다. 쿤을 저버린 쿠나리는 탈-바쇼스라 불리우며 주로 "
+"쿠나리는 뿔 달린 거대한 종족으로 쿤이라고 하는 엄격한 종교적 규율을 따르며 살아갑니다. 쿤을 저버린 쿠나리는 탈바쇼스라 불리우며 주로 "
 "용병 생활을 합니다. 쿠나리 캐릭터는 {string}282461{/string}을 얻습니다."
 
 #. FILE: UI\assets\CharacterCreation\CharacterRaceUIData.xml
@@ -14143,7 +14144,7 @@ msgstr "쿠나리"
 msgctxt "0x000441cc"
 msgid "The Qunari are a race of horned giants who follow a strict religious text known as the Qun. Those who have abandoned its principles are known as Tal-Vashoth and often work as mercenaries. Qunari characters get a bonus {string}282461{/string}."
 msgstr ""
-"쿠나리는 뿔 달린 거대한 종족으로 쿤이라고 하는 엄격한 종교적 규율을 따르며 살아갑니다. 쿤을 저버린 쿠나리는 탈-바쇼스라 불리우며 주로 "
+"쿠나리는 뿔 달린 거대한 종족으로 쿤이라고 하는 엄격한 종교적 규율을 따르며 살아갑니다. 쿤을 저버린 쿠나리는 탈바쇼스라 불리우며 주로 "
 "용병 생활을 합니다. 쿠나리 캐릭터는 {string}282461{/string}을 얻습니다."
 
 #. FILE: UI\assets\CharacterCreation\CharacterSummaryUIData.xml
@@ -14243,7 +14244,7 @@ msgstr ""
 #: UI\assets\CharacterCreation\CharacterSummaryUIData.xml:351
 msgctxt "0x0004309e"
 msgid "Tal-Vashoth Mercenary"
-msgstr "탈-바쇼스 용병"
+msgstr "탈바쇼스 용병"
 
 #. FILE: UI\assets\CharacterCreation\CharacterSummaryUIData.xml
 #. PATH: UICharacterSummaryDataAsset/CharacterSummaries/member[15]/CharacterSummaryUIData/BackgroundBody
@@ -14252,7 +14253,7 @@ msgctxt "0x0004312e"
 msgid "Followers of the strict religious philosophy of the Qun, the Qunari appeared like a tidal wave to the north of Thedas three hundred years ago. You are Tal-Vashoth, a Qunari who has rejected the Qun and never even lived in Qunari lands. As part of the Valo-kas mercenary company, you have earned a living by your own wits and the strength of your blade, ignoring the fearful looks you receive from those around you. Most recently the company was sent to the Chantry Conclave as hired swords meant to keep the peace between mages and templars—a task that has gone horribly wrong."
 msgstr ""
 "쿤의 엄격한 종교적 규율을 따르는 쿠나리는 삼백 년 전 테다스 북쪽에 밀물처럼 몰려들었습니다. 당신은 쿤을 거부하고 쿠나리 땅에서 "
-"살아보지 않은 탈-바쇼스입니다. 발로-카스 용병단의 일원인 당신은 주위의 두려움에 찬 시선을 무시하며 검과 지략의 힘으로 살아나갔습니다. "
+"살아보지 않은 탈바쇼스입니다. 발로 카스 용병단의 일원인 당신은 주위의 두려움에 찬 시선을 무시하며 검과 지략의 힘으로 살아나갔습니다. "
 "최근 당신의 용병단은 콘클라베에서 마법사와 성기사를 조율하기 위해 고용되었습니다. 그리고 이 과정에서 끔찍한 참사가 일어나게 됩니다."
 
 #. FILE: UI\assets\CharacterCreation\CharacterSummaryUIData.xml
@@ -14260,7 +14261,7 @@ msgstr ""
 #: UI\assets\CharacterCreation\CharacterSummaryUIData.xml:447
 msgctxt "0x00044111"
 msgid "Tal-Vashoth Mage"
-msgstr "탈-바쇼스 마법사"
+msgstr "탈바쇼스 마법사"
 
 #. FILE: UI\assets\CharacterCreation\CharacterSummaryUIData.xml
 #. PATH: UICharacterSummaryDataAsset/CharacterSummaries/member[19]/CharacterSummaryUIData/BackgroundBody
@@ -14269,7 +14270,7 @@ msgctxt "0x00043138"
 msgid "Followers of the strict religious philosophy of the Qun, the Qunari appeared like a tidal wave to the north of Thedas three hundred years ago. You are Tal-Vashoth, a Qunari who has rejected the Qun and never even lived in Qunari lands. You have earned a place within the Valo-kas mercenary company as its mage, possessing abilities that would have made you a pet slave among your own people, ignoring the fearful looks you receive from those around you. Most recently the company was sent to the Chantry Conclave, hired swords meant to keep the peace—a task that has gone horribly wrong."
 msgstr ""
 "쿤의 엄격한 종교적 규율을 따르는 쿠나리는 삼백 년 전 테다스 북쪽에 밀물처럼 몰려들었습니다. 당신은 쿤을 거부하고 쿠나리 땅에서 "
-"살아보지 않은 탈-바쇼스입니다. 주위의 두려움에 찬 시선을 무시한 채, 당신은 마법의 힘으로 발로-카스 용병단의 한 자리를 차지합니다. "
+"살아보지 않은 탈바쇼스입니다. 주위의 두려움에 찬 시선을 무시한 채, 당신은 마법의 힘으로 발로 카스 용병단의 한 자리를 차지합니다. "
 "마법사 쿠나리는 쿠나리 사회에서는 노예일 뿐입니다. 최근 당신의 용병단은 콘클라베에서 마법사와 성기사를 조율하기 위해 고용되었습니다. "
 "그리고 이 과정에서 끔찍한 참사가 일어나게 됩니다."
 
@@ -14355,7 +14356,7 @@ msgstr ""
 #: UI\assets\GameOptions\GameOptionsRoot.xml:5
 msgctxt "0x000354bc"
 msgid "OPTIONS"
-msgstr "옵션"
+msgstr "설정"
 
 #. FILE: UI\assets\GameOptions\GameOptions_AlwaysLogIn.xml
 #. PATH: UIGameOptionsItemAsset/Title
@@ -15341,7 +15342,7 @@ msgstr "원형 메뉴 표시법 "
 #: UI\assets\GameOptions\GameOptions_RadialMenuBehavior.xml:10
 msgctxt "0x00044d8b"
 msgid "Specify if the radial menu should be displayed by either toggling, or holding, the corresponding button."
-msgstr "원형 메뉴를 표시하는 방법을 설정하십시오. 해당 버튼을 꾹 누른 동안만 표시하거나, 토글식으로 표시할 수 있습니다."
+msgstr "원형 메뉴를 표시하는 방법을 설정하십시오. 해당 버튼을 꾹 누른 동안만 표시하거나, 전환식으로 표시할 수 있습니다."
 
 #. FILE: UI\assets\GameOptions\GameOptions_RadialMenuBehavior.xml
 #. PATH: UIGameOptionsItemAsset/DisabledDescription
@@ -15355,7 +15356,7 @@ msgstr "이 설정은 게임패드가 연결되어 있을 때에만 사용할 �
 #: UI\assets\GameOptions\GameOptions_RadialMenuBehavior.xml:48
 msgctxt "0x00043da3"
 msgid "Toggle On/Off"
-msgstr "토글로 켜고 끄기"
+msgstr "전환으로 켜고 끄기"
 
 #. FILE: UI\assets\GameOptions\GameOptions_RadialMenuBehavior.xml
 #. PATH: UIGameOptionsItemAsset/EnumDisplayStrings/member[2]
@@ -15715,14 +15716,14 @@ msgstr ""
 #: UI\assets\GameOptions\GameOptions_UploadCharacterProfile.xml:5
 msgctxt "0x00044c13"
 msgid "Upload Game Data to the Dragon Age Keep"
-msgstr "드래곤 에이지 킵에 게임 데이터 업로드"
+msgstr "Dragon Age Keep에 게임 데이터 업로드"
 
 #. FILE: UI\assets\GameOptions\GameOptions_UploadCharacterProfile.xml
 #. PATH: UIGameOptionsItemAsset/Description
 #: UI\assets\GameOptions\GameOptions_UploadCharacterProfile.xml:10
 msgctxt "0x00044c12"
 msgid "Enabling this will periodically send story choice and character information updates to the Dragon Age Keep website."
-msgstr "이 옵션을 활성화하면 스토리 선택사항과 캐릭터 정보 업데이트를 주기적으로 드래곤 에이지 킵 웹사이트에 보냅니다."
+msgstr "이 설정을 활성화하면 스토리 선택사항과 캐릭터 정보 업데이트를 주기적으로 Dragon Age Keep 웹사이트에 보냅니다."
 
 #. FILE: UI\assets\GameOptions\GameOptions_UploadGameplayFeedback.xml
 #. PATH: UIGameOptionsItemAsset/Title

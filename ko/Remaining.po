@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-09 16:56+0000\n"
-"Last-Translator: Stellar <xlsksh3@naver.com>\n"
+"PO-Revision-Date: 2021-03-13 07:57+0000\n"
+"Last-Translator: 이아아 <yeeahh560@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -173,7 +173,7 @@ msgstr "도륙자"
 #: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_templar.xml:7950
 msgctxt "0x0003f952"
 msgid "Templar"
-msgstr "템플러"
+msgstr "성기사"
 
 #. FILE: DA3\Actors\party\gen_partymember.xml
 #. PATH: InteractableComponentData[1]/InteractionTextReference
@@ -187,7 +187,7 @@ msgstr "되살리기 (누르고 있기)"
 #: DA3\Actors\party\gen_partymember.xml:15386
 msgctxt "0x00044872"
 msgid "All Ability Points Refunded"
-msgstr "모든 기술 포인트가 반환됨"
+msgstr "모든 기술 점수가 반환됨"
 
 #. FILE: DA3\Actors\party\gen_partymember.xml
 #. PATH: NotificationEntityData[2]/TitleTextReference
@@ -331,9 +331,9 @@ msgid ""
 "\n"
 "Each party member has their own personal focus meter, but all party members gain focus when a single member deals damage."
 msgstr ""
-"집중도는 파티원이 피해를 가할 때마다 얻을 수 있는 자원입니다.\n"
+"집중도는 파티원이 피해를 가할 때마다 얻는 자원입니다.\n"
 "\n"
-"모든 파티원은 각자의 집중도 수치를 가지고 있지만, 파티원 한 명이 공격을 할 때라도 모든 파티원이 집중도를 얻습니다."
+"모든 파티원은 각자의 집중도 수치를 가지고 있으며, 파티원 한 명이 피해를 주면 모든 파티원이 집중도를 얻습니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Ammo_Bonus.xml
 #. PATH: BWModifiableStat/StatName
@@ -375,7 +375,7 @@ msgstr "최대 집중도"
 #: DA3\Combat\Stats\Stat_Ammo_Max.xml:10
 msgctxt "0x00032ae2"
 msgid "The maximum amount of focus this character can generate."
-msgstr "해당 캐릭터가 만들 수 있는 집중도의 최대치입니다."
+msgstr "해당 캐릭터가 쌓을 수 있는 집중도의 최대치입니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Armor_2_Max.xml
 #. PATH: BWModifiableStat/StatName
@@ -410,28 +410,28 @@ msgstr "방어 수치: 정면"
 #: DA3\Combat\Stats\Stat_Armor_Front_Rating.xml:10
 msgctxt "0x00042622"
 msgid "Physical damage inflicted on the character from the front is reduced by armor rating before being applied."
-msgstr "해당 캐릭터의 정면에서 들어오는 공격의 피해량이 방어 수치만큼 감소됩니다."
+msgstr "캐릭터의 정면에서 가해지는 공격의 피해량이 방어 수치만큼 감소합니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Armor_Penetration.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_Armor_Penetration.xml:5
 msgctxt "0x00031daa"
 msgid "Armor Penetration"
-msgstr "방어력 관통"
+msgstr "방어구 관통력"
 
 #. FILE: DA3\Combat\Stats\Stat_Armor_Penetration.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\Stat_Armor_Penetration.xml:10
 msgctxt "0x00032ac8"
 msgid "Each point of armor penetration ignores one point of the target's armor when inflicting damage."
-msgstr "매 방어력 관통 수치가 적에게 피해를 가할 때 무시하는 방어력의 양을 증가시킵니다."
+msgstr "피해를 가할 때 적의 방어력을 일부 무시합니다. 이 효과는 방어구 관통력 수치가 높을수록 증가합니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Armor_Penetration_Percentage.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_Armor_Penetration_Percentage.xml:5
 msgctxt "0x00031dab"
 msgid "Armor Penetration"
-msgstr "방어력 관통"
+msgstr "방어구 관통력"
 
 #. FILE: DA3\Combat\Stats\Stat_Armor_Rating.xml
 #. PATH: BWModifiableStat/StatName
@@ -445,7 +445,7 @@ msgstr "방어 수치"
 #: DA3\Combat\Stats\Stat_Armor_Rating.xml:10
 msgctxt "0x00032adc"
 msgid "Physical damage is reduced by a character's Armor Rating."
-msgstr "방어 수치에 따라 물리 피해가 감소됩니다."
+msgstr "캐릭터의 방어 수치에 따라 받는 물리 피해가 감소합니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Attack.xml
 #. PATH: BWModifiableStat/StatName
@@ -508,7 +508,7 @@ msgstr "출혈 지속시간 조절"
 #: DA3\Combat\Stats\Stat_Bleed_Duration_Modifier.xml:10
 msgctxt "0x00034893"
 msgid "Reduces the duration of reaction."
-msgstr "쿨타임 감소"
+msgstr "반응의 지속시간을 감소시킵니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Bleedout_Time_Max.xml
 #. PATH: BWModifiableStat/StatName
@@ -529,7 +529,7 @@ msgstr "출혈 시간 재생"
 #: DA3\Combat\Stats\Stat_BodyguardDamage.xml:5
 msgctxt "0x0003b066"
 msgid "Bodyguard Damage"
-msgstr "경비병 피해"
+msgstr "경호 피해"
 
 #. FILE: DA3\Combat\Stats\Stat_Burn_Duration_Modifier.xml
 #. PATH: BWModifiableStat/StatName
@@ -557,7 +557,7 @@ msgstr "무작위 소모"
 #: DA3\Combat\Stats\Stat_Chill_Duration_Modifier.xml:5
 msgctxt "0x000349ad"
 msgid "Chill Duration Modifier"
-msgstr "냉기 지속시간 조절"
+msgstr "서리 지속시간 조절"
 
 #. FILE: DA3\Combat\Stats\Stat_Class.xml
 #. PATH: BWIntegralStat/StatName
@@ -571,14 +571,14 @@ msgstr "직업 분류"
 #: DA3\Combat\Stats\Stat_Constitution.xml:10
 msgctxt "0x0003242d"
 msgid "The character's physical robustness and endurance. Each point increases Health and Melee Defense."
-msgstr "해당 캐릭터의 체격적인 건장함과 강인함입니다. 매 포인트가 체력과 근접 방어력을 증가시킵니다."
+msgstr "캐릭터의 신체적 강인함과 내구력을 말합니다. 매 점수가 체력과 근접 방어력을 증가시킵니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Consumable.xml
 #. PATH: BWDepletableStat/StatName
 #: DA3\Combat\Stats\Stat_Consumable.xml:5
 msgctxt "0x0001328c"
 msgid "Mana/Stamina"
-msgstr "마나/지구력"
+msgstr "마나/기력"
 
 #. FILE: DA3\Combat\Stats\Stat_Consumable.xml
 #. PATH: BWDepletableStat/StatDescription
@@ -599,7 +599,7 @@ msgstr "소모품 생성 조절"
 #: DA3\Combat\Stats\Stat_Consumable_Max.xml:5
 msgctxt "0x0001328d"
 msgid "Maximum Mana/Stamina"
-msgstr "최대 마나/지구력"
+msgstr "최대 마나/기력"
 
 #. FILE: DA3\Combat\Stats\Stat_Consumable_Max.xml
 #. PATH: BWModifiableStat/StatDescription
@@ -641,14 +641,14 @@ msgstr "방어력 조절"
 #: DA3\Combat\Stats\Stat_Creature_ArmorPenetrationModifier.xml:5
 msgctxt "0x00033d5e"
 msgid "Armor Penetration Modifier"
-msgstr "방어 관통력 조절"
+msgstr "방어구 관통력 조절"
 
 #. FILE: DA3\Combat\Stats\Stat_Creature_BarrierModifier.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\Stat_Creature_BarrierModifier.xml:5
 msgctxt "0x00022741"
 msgid "Barrier Modifier"
-msgstr "보호막 조절"
+msgstr "방어막 조절"
 
 #. FILE: DA3\Combat\Stats\Stat_Creature_Counter_1.xml
 #. PATH: BWModifiableStat/StatName
@@ -711,7 +711,7 @@ msgstr "무적 조절"
 #: DA3\Combat\Stats\Stat_Creature_TargetHealth0Modifier.xml:5
 msgctxt "0x00022696"
 msgid "TargetHealth0 Modifier"
-msgstr "목표물체력0 조절"
+msgstr "대상체력0 조절"
 
 #. FILE: DA3\Combat\Stats\Stat_Creature_XPModifier.xml
 #. PATH: BWModifiableStat/StatName
@@ -739,7 +739,7 @@ msgstr "치명타 확률"
 #: DA3\Combat\Stats\Stat_Critical_Chance.xml:10
 msgctxt "0x00032acb"
 msgid "The chance to score a critical hit for each attack."
-msgstr "매 공격이 치명타로 가해질 확률입니다."
+msgstr "공격이 치명타를 낼 확률입니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Critical_Resistance.xml
 #. PATH: BWModifiableStat/StatName
@@ -760,7 +760,7 @@ msgstr "까마귀 독 중첩"
 #: DA3\Combat\Stats\Stat_Cunning.xml:10
 msgctxt "0x00032430"
 msgid "The character's intelligence and deviousness. Each point increases Critical Chance and Ranged Defense."
-msgstr "해당 캐릭터의 지능과 간계의 척도입니다. 매 포인트가 치명타 확률과 원거리 방어력을 증가시킵니다."
+msgstr "해당 캐릭터의 지능과 간계의 척도입니다. 매 점수가 치명타 확률과 원거리 방어력을 증가시킵니다."
 
 #. FILE: DA3\Combat\Stats\Stat_DamageMultiplier.xml
 #. PATH: BWModifiableStat/StatName
@@ -1159,7 +1159,7 @@ msgstr "민첩"
 #: DA3\Combat\Stats\Stat_Dexterity.xml:10
 msgctxt "0x0003242f"
 msgid "The character's agility, reflexes, and coordination. Each point increases Attack (rogues only) and Critical Damage Bonus."
-msgstr "해당 캐릭터의 민첩합, 날렵함, 그리고 능수능란함입니다. 매 포인트가 공격력과(도적만) 치명타 피해량을 증가시킵니다."
+msgstr "해당 캐릭터의 민첩합, 날렵함, 그리고 능수능란함입니다. 매 점수가 공격력과(도적만) 치명타 피해량을 증가시킵니다."
 
 #. FILE: DA3\Combat\Stats\Stat_DisableCSM.xml
 #. PATH: BWStat/StatName
@@ -1187,7 +1187,7 @@ msgstr "교전 단계"
 #: DA3\Combat\Stats\Stat_Experience.xml:5
 msgctxt "0x000132fe"
 msgid "Combat Experience Points"
-msgstr "전투 경험치 포인트"
+msgstr "전투 경험치 점수"
 
 #. FILE: DA3\Combat\Stats\Stat_Experience.xml
 #. PATH: BWDepletableStat/StatDescription
@@ -1397,7 +1397,7 @@ msgstr "마법"
 #: DA3\Combat\Stats\Stat_Magic.xml:10
 msgctxt "0x0003242c"
 msgid "The character's connection to the Fade and ability to manipulate it. Each point increases Attack (mages only) and Barrier Damage Bonus."
-msgstr "해당 캐릭터의 영계와의 결속과 이를 다루는 능력입니다. 매 포인트가 공격력과(마법사만) 방어막 피해량을 증가시킵니다."
+msgstr "해당 캐릭터의 영계와의 결속과 이를 다루는 능력입니다. 매 점수가 공격력과(마법사만) 방어막 피해량을 증가시킵니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Mana_Max.xml
 #. PATH: BWModifiableStat/StatName
@@ -1572,14 +1572,14 @@ msgstr "총합 기술 점수"
 #: DA3\Combat\Stats\Stat_Points_Attribute.xml:5
 msgctxt "0x00013294"
 msgid "Attribute Points"
-msgstr "속성 포인트"
+msgstr "속성 점수"
 
 #. FILE: DA3\Combat\Stats\Stat_Points_Skill.xml
 #. PATH: BWStat/StatName
 #: DA3\Combat\Stats\Stat_Points_Skill.xml:5
 msgctxt "0x00013293"
 msgid "Skill Points"
-msgstr "스킬 포인트"
+msgstr "스킬 점수"
 
 #. FILE: DA3\Combat\Stats\Stat_Poison_Duration_Modifier.xml
 #. PATH: BWModifiableStat/StatName
@@ -1726,7 +1726,7 @@ msgstr "<font color=\"#5200CC\"><b>전격</b></font> "
 #: DA3\Combat\Stats\Stat_SpikeTrap_Counter.xml:5
 msgctxt "0x0004aaa0"
 msgid "Spike Trap Counter"
-msgstr "가시 함정 계수"
+msgstr "가시덫 계수"
 
 #. FILE: DA3\Combat\Stats\Stat_Stamina_Max.xml
 #. PATH: BWModifiableStat/StatName
@@ -1747,7 +1747,7 @@ msgstr "근력"
 #: DA3\Combat\Stats\Stat_Strength.xml:10
 msgctxt "0x0003242b"
 msgid "The character's physical strength and ability. Each point increases Attack (warriors only) and Guard Damage Bonus."
-msgstr "해당 캐릭터의 물리적인 완력과 능력입니다. 매 포인트가 공격력과(전사만) 방어도 피해량을 증가시킵니다."
+msgstr "해당 캐릭터의 물리적인 완력과 능력입니다. 매 점수가 공격력과(전사만) 방어도 피해량을 증가시킵니다."
 
 #. FILE: DA3\Combat\Stats\Stat_Stun_Duration_Modifier.xml
 #. PATH: BWModifiableStat/StatName
@@ -1922,21 +1922,21 @@ msgstr "시간 정지 지속시간 조절"
 #: DA3\Combat\Stats\Stat_Willpower.xml:10
 msgctxt "0x0003242e"
 msgid "The character's strength of mind and personality. Each point increases Attack (all classes) and Magic Defense."
-msgstr "해당 캐릭터의 정신과 인격의 강인함입니다. 매 포인트가 공격력과(모든 직업에서) 마법 방어력을 증가시킵니다."
+msgstr "해당 캐릭터의 정신과 인격의 강인함입니다. 매 점수가 공격력과(모든 직업에서) 마법 방어력을 증가시킵니다."
 
 #. FILE: DA3\Combat\Stats\stat_Cooldown_Modifier.xml
 #. PATH: BWModifiableStat/StatName
 #: DA3\Combat\Stats\stat_Cooldown_Modifier.xml:5
 msgctxt "0x000343d2"
 msgid "Cooldown Modifier"
-msgstr "재사용 대기 시간 보정"
+msgstr "재사용 대기시간 보정"
 
 #. FILE: DA3\Combat\Stats\stat_Cooldown_Modifier.xml
 #. PATH: BWModifiableStat/StatDescription
 #: DA3\Combat\Stats\stat_Cooldown_Modifier.xml:10
 msgctxt "0x000343d3"
 msgid "Reduces the cooldown on all of the character's abilities."
-msgstr "해당 캐릭터의 모든 기술의 재사용 대기 시간을 감소시킵니다."
+msgstr "해당 캐릭터의 모든 기술의 재사용 대기시간을 감소시킵니다."
 
 #. FILE: DA3\Combat\StatusEffects\combat_immunity_all_statuseffect.xml
 #. PATH: StatusEffect/Description
@@ -1999,14 +1999,14 @@ msgstr "강한 화염 저항"
 #: DA3\Combat\StatusEffects\combat_immunity_freeze_statuseffect.xml:11
 msgctxt "0x00043b54"
 msgid "Immunity: Frozen"
-msgstr "면역: 결빙"
+msgstr "면역: 빙결"
 
 #. FILE: DA3\Combat\StatusEffects\combat_immunity_freezeparalyze_buff_statuseffect.xml
 #. PATH: StatusEffect/Description
 #: DA3\Combat\StatusEffects\combat_immunity_freezeparalyze_buff_statuseffect.xml:11
 msgctxt "0x00044ab2"
 msgid "Immunity: Frozen, Paralyzed"
-msgstr "면역: 결빙, 마비"
+msgstr "면역: 빙결, 마비"
 
 #. FILE: DA3\Combat\StatusEffects\combat_immunity_knockdown_statuseffect.xml
 #. PATH: StatusEffect/Description
@@ -2461,7 +2461,7 @@ msgstr "영웅적인 용 사냥꾼"
 #: DA3\Configurations\Online\MPServerMappingConfiguration.xml:3375
 msgctxt "0x0004b408"
 msgid "Tal-Vashoth"
-msgstr "탈-바쇼스"
+msgstr "탈바쇼스"
 
 #. FILE: DA3\Configurations\Online\MPServerMappingConfiguration.xml
 #. PATH: MPServerMappingChallengeRewardText[32]/RewardText
@@ -2838,7 +2838,7 @@ msgid ""
 "You lash out at nearby targets, arcing additional electrical damage to other nearby enemies\n"
 "\n"
 msgstr ""
-"근처의 목표물에게 달려들며 주변 적들에게도 추가 전격 피해를 줍니다.\n"
+"근처의 대상에게 달려들며 주변 적들에게도 추가 전격 피해를 줍니다.\n"
 "\n"
 
 #. FILE: DA3\Configurations\Online\Multiplayer\Abilities\Actives\Warrior\Avvar\ElementalWhirlwind\MP_avvar_elemental_whirlwind_abilitydata.xml
@@ -3026,7 +3026,7 @@ msgid ""
 "You smash the ground, damaging and chilling enemies nearby.\n"
 "\n"
 msgstr ""
-"바닥을 내리쳐 주변 적들에게 피해를 주고 빙결시킵니다.\n"
+"바닥을 내리쳐 주변 적들에게 피해를 주고 서리 상태로 만듭니다.\n"
 "\n"
 
 #. FILE: DA3\Configurations\Online\Multiplayer\Abilities\Actives\Warrior\Avvar\Tremor\MP_avvar_tremor_upgrade1_abilitydata.xml
@@ -3220,7 +3220,7 @@ msgid ""
 "You take less damage when near chilled or frozen targets.\n"
 "\n"
 msgstr ""
-"서리 혹은 결빙 상태인 적 주변에 있을 때 피해를 적게 입습니다.\n"
+"서리 혹은 빙결 상태인 적 주변에 있을 때 피해를 적게 입습니다.\n"
 "\n"
 
 #. FILE: DA3\Configurations\Online\Multiplayer\Abilities\Passives\KitUnique\Avvar\CritMoveSpeed\MP_avvar_passive_critmovespeed_abilitydata.xml
@@ -3455,7 +3455,7 @@ msgid ""
 "Casting Barrier on a target also gives them a bonus to damage resistance.\n"
 "\n"
 msgstr ""
-"목표물에게 방어막을 시전하면 목표에게 추가 피해 저항력이 주어집니다.\n"
+"대상에게 방어막을 시전하면 목표에게 추가 피해 저항력이 주어집니다.\n"
 "\n"
 
 #. FILE: DA3\Configurations\Online\Multiplayer\Abilities\Passives\KitUnique\Keeper\Stats\MP_keeper_passive_stats_abilitydata.xml
@@ -3509,7 +3509,7 @@ msgid ""
 "Killing an enemy causes any elemental status effects on it to spread to nearby targets: burning, chilled, frozen, panicked, paralyzed, poisoned, shocked, and weakened.\n"
 "\n"
 msgstr ""
-"적을 처치하면 적이 갖고 있던 상태 효과(화상, 서리, 결빙, 공황, 마비, 중독, 감전, 약화)가 주변으로 전이됩니다.\n"
+"적을 처치하면 적이 갖고 있던 상태 효과(화상, 서리, 빙결, 공황, 마비, 중독, 감전, 약화)가 주변으로 전이됩니다.\n"
 "\n"
 
 #. FILE: DA3\Configurations\Online\Multiplayer\Abilities\Passives\KitUnique\Reaver\Bloodbath\MP_reaver_passive_bloodbath_abilitydata.xml
@@ -3978,10 +3978,10 @@ msgstr ""
 msgctxt "0x000471d6"
 msgid "They call her \"The Queen of the Eastern Seas\", and with good reason: Isabela thrived amongst the dangerous, double-dealing raiders of the Felicisima Armada by becoming more dangerous and more duplicitous than any of them. Seeking profit—or possibly pleasure—the crafty sea captain has forged a tenuous alliance with the Inquisition. While some look upon Isabela as a valuable asset, others believe it is only a matter of time before the arrangement loses its novelty and she escapes, laughing, into the night, trailing gold stolen from Inquisition coffers."
 msgstr ""
-"그녀를 \"동쪽 바다의 여왕\"이라 부르는 건 그럴만한 이유가 있다. 이자벨라는 펠라시시마 함대의 위험하고 이중 계약하는 약탈자들 "
-"사이에서 더 위험하고 더 교활하게 되어 번창했다. 돈 되는 걸 쫓기 위해 —아니면 그냥 재미로— 교활한 선장은 심문회와 위태로운 동맹을 "
-"맺었다. 누군가는 이자벨라를 중히 여기겠지만, 다른 이들은 그 참신한 합의를 저버린 채 밤중에 웃으며 심문회의 궤짝을 털고 달아나기까지 "
-"시간 문제라 말한다."
+"그녀를 \"동쪽 해협의 여왕\"이라 부르는 건 그럴 만한 이유가 있다. 이자벨라는 펠리시시마 함대의 위험하고 교활한 약탈자들 사이에서도 "
+"더욱 위험하고 더욱 교활하게 행동하며 번창했다. 돈 되는 걸 쫓기 위해서 —혹은 그냥 재미로—이 교활한 선장은 심문회와 위태로운 동맹을 "
+"맺었다. 누군가는 이자벨라를 중히 여기겠지만, 다른 이들은 이자벨라가 그 참신한 합의를 저버린 채 밤중에 웃으며 심문회의 궤짝을 털고 "
+"달아나기까지는 시간 문제라 말한다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP2\MP_Isabela.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -4013,7 +4013,7 @@ msgstr ""
 msgctxt "0x000471db"
 msgid "Amund is a Skywatcher, an Avvar priest of the Lady of the Skies, tasked with reading her portents and rendering up the bones of the dead as offerings. When the sky tore open at Haven, he knew The Lady had spoken. Now he follows the strange lowlanders of the Inquisition on his quest to carry out her will. He may not be entirely sure what they're doing, but he's certain he will find out what The Lady wants of him along the way."
 msgstr ""
-"아문드는 하늘의 여인, 아바르의 사제인 하늘 감시자로 그 분의 전조를 받들고 죽은 자의 뼈를 제물로 바치는 임무를 맡았다. 헤이븐에서 "
+"아문드는 하늘의 여인, 아바르의 사제인 하늘감시자로 그 분의 전조를 받들고 죽은 자의 뼈를 제물로 바치는 임무를 맡았다. 헤이븐에서 "
 "하늘이 갈라지자, 그 분의 말씀을 깨달았다. 그 분의 뜻을 관철시키기 위해 심문회의 낯선 낮은 땅 사람들을 따른다. 그들이 무슨 일을 "
 "하는지 확실히 모르지만, 나아가다 보면 그 분이 아문드에게 바라는게 무엇인지 알게 되리라 확신한다."
 
@@ -4087,7 +4087,7 @@ msgstr "고대 엘프의 기예에 바쳐진 검을 든 마법사."
 msgctxt "0x000435bc"
 msgid "Like Neria, Cillian was born to the Ralaferin clan. In his youth, he lived apart from his people in order to resurrect a lost elven art: that of the arcane warrior. Originally driven by the need to seek glory for his people, Cillian's years of meditation and solitude gave him wisdom and respect for all life. When the Breach opened, he knew his duty was to stand against it, fighting to save all he knows and loves."
 msgstr ""
-"네리아처럼, 실리안은 랄라페린 부족에서 태어났다. 어린 시절, 그는 잊혀진 엘프 예술, 비전 전사를 되살리기 위해 다른 이들과 떨어져 "
+"네리아처럼, 실리안은 랄라페린 부족에서 태어났다. 어린 시절, 그는 잊힌 엘프 예술, 비전 전사를 되살리기 위해 다른 이들과 떨어져 "
 "살았다. 본래 그들은 영광을 추구하는 삶을 쫓아야 했으나, 실리안은 수년간 고독과 명상을 통해 모든 삶을 존중하는 지혜를 얻었다. "
 "대균열이 열렸을 때, 그의 의무가 자신이 알고 사랑하던 모든 것들을 지키기 위해 싸워야 한다는 것을 깨달았다."
 
@@ -4160,7 +4160,7 @@ msgstr "죽음과 파괴를 가져오는 쿠나리 거인."
 msgctxt "0x000435bd"
 msgid "\"Katari\" means \"one who brings death\" in Qunlat. The Katari is a Tal-Vashoth mercenary who left the Qun to forge his own path. However, choosing one's own way after being raised to follow orders is difficult. For the moment, the Katari makes his living as a sellsword, paid to fight for the Inquisition. His name is a description of what he does—though he has left the Qun, certain habits are hard to break."
 msgstr ""
-"\"카타리\"는 \"죽음을 가져오는 자\"라는 쿠나리 말이다. 카타리는 자신의 길을 개척하기 위해 쿤을 떠난 탈-바쇼스 용병이다. 하지만 "
+"\"카타리\"는 \"죽음을 가져오는 자\"라는 쿠나리 말이다. 카타리는 자신의 길을 개척하기 위해 쿤을 떠난 탈바쇼스 용병이다. 하지만 "
 "명령에 따르도록 길러진 후에 자신의 길을 따르기란 어려운 법. 지금의 카타리는 심문회에 붙어 칼밥 먹고 살아간다. 결국 이름이 뜻하는 "
 "대로 살아가게 됐다. 비록 쿤을 떠났지만, 고칠 수 없는 습관도 있는 법이다."
 
@@ -5470,7 +5470,7 @@ msgstr "거대한 곰"
 #: DA3\Creatures\Multiplayer\Wilderness\mp_wilderness_wilderness_gurgut_mp.xml:5371
 msgctxt "0x0001892b"
 msgid "Gurgut"
-msgstr "걸것"
+msgstr "거르거트"
 
 #. FILE: DA3\Creatures\Multiplayer\Wilderness\mp_wilderness_wilderness_gurn_mp.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -6989,7 +6989,7 @@ msgstr "중매인"
 #: DA3\DesignContent\CreatureProfiles\ValRoyeaux\val_merchant_1.xml:24
 msgctxt "0x00043038"
 msgid "Pierre-Marie"
-msgstr "피에르-마리"
+msgstr "피에르 마리"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\ValRoyeaux\val_merchant_3.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -8724,7 +8724,7 @@ msgstr "마도사의 옥좌"
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_circle_1.xml:11
 msgctxt "0x00042c34"
 msgid "A magnificent chair that once belonged to First Enchanter Willow of the White Spire."
-msgstr "흰 첨탑의 수석 마도사 윌로우가 한때 가지고 있었던 장엄한 의자."
+msgstr "백색 첨탑의 수석 마도사 윌로우가 한때 가지고 있었던 장엄한 의자."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_circle_2.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -10130,7 +10130,7 @@ msgstr "더 많은 치유 물약"
 #: DA3\DesignContent\Perks\Forces\Perk_Forces_MoreHealingPotions.xml:10
 msgctxt "0x00037b36"
 msgid "Increase the maximum number of potions the party can carry by 4."
-msgstr "파티가 들고 다닐 수 있는 최대 물약 갯수를 4개 증가시킨다."
+msgstr "파티가 들고 다닐 수 있는 최대 물약 개수를 4개 증가시킨다."
 
 #. FILE: DA3\DesignContent\Perks\Forces\Perk_Forces_Mounts1.xml
 #. PATH: UIInquisitionCustomizeItemAsset/Title
@@ -10278,7 +10278,7 @@ msgstr "집중 훈련"
 #: DA3\DesignContent\Perks\Inquisition\perk_inquisition_CombatTalentPoint.xml:10
 msgctxt "0x00031e26"
 msgid "Gain 1 combat ability point, for the Inquisitor only."
-msgstr "심문관이 1 전투 기술 포인트를 획득한다."
+msgstr "심문관이 1 전투 기술 점수를 획득한다."
 
 #. FILE: DA3\DesignContent\Perks\Inquisition\perk_inquisition_PotionSlots1.xml
 #. PATH: UIInquisitionCustomizeItemAsset/Title
@@ -10891,7 +10891,7 @@ msgid ""
 msgstr ""
 "각 제작 재료는 슬롯마다 부여하는 능력 수치가 정해져 있습니다. 재료를 선택하여 확인할 수 있습니다.\n"
 "\n"
-"슬롯에서 부여되는 최종 능력치는 해당 수치를 재료의 갯수만큼 곱하여 결정됩니다."
+"슬롯에서 부여되는 최종 능력치는 해당 수치를 재료의 개수만큼 곱하여 결정됩니다."
 
 #. FILE: DA3\DesignContent\PrefabComponents\General\CMP_CraftingArmor.xml
 #. PATH: BWPopUpEntityData[3]/Text
@@ -11110,7 +11110,7 @@ msgstr "{CUSTOM0}"
 #: DA3\DesignContent\PrefabComponents\Notifications\ExperienceNotifications.xml:2933
 msgctxt "0x00043954"
 msgid "Each Inquisition rank unlocks access to perks for the Inquisition, which can be purchased at the war table."
-msgstr "심문회 레벨이 올라가면 심문회 특전 포인트를 획득합니다. 특전 포인트는 작전 지도에서 사용할 수 있습니다."
+msgstr "심문회 레벨이 올라가면 심문회 특전 점수를 획득합니다. 특전 점수는 작전 지도에서 사용할 수 있습니다."
 
 #. FILE: DA3\DesignContent\PrefabComponents\Notifications\ExperienceNotifications.xml
 #. PATH: NotificationEntityData[1]/TitleTextReference
@@ -11918,7 +11918,7 @@ msgstr "흑요석"
 #: DA3\DesignContent\Prefabs\Crafting\Metal\Crafting_Metal_Onyx.xml:455
 msgctxt "0x000188e8"
 msgid "Onyx"
-msgstr "오닉스"
+msgstr "마노"
 
 #. FILE: DA3\DesignContent\Prefabs\Crafting\Metal\Crafting_Metal_ParagonsLuster.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
@@ -12241,7 +12241,7 @@ msgstr "방패 조각 {string}281367{/string}: {CUSTOM0}"
 #: DA3\DesignContent\Prefabs\CreatureCodex\CreatureCodexSubPrefab_gurgut.xml:853
 msgctxt "0x00042007"
 msgid "Gurgut Teeth {string}281367{/string}: {CUSTOM0}"
-msgstr "걸것 이빨 {string}281367{/string}: {CUSTOM0}"
+msgstr "거르거트 이빨 {string}281367{/string}: {CUSTOM0}"
 
 #. FILE: DA3\DesignContent\Prefabs\CreatureCodex\CreatureCodexSubPrefab_gurn.xml
 #. PATH: NotificationEntityData[2]/TitleTextReference
@@ -13537,7 +13537,7 @@ msgstr ""
 "{string}280957{/string}\n"
 "\n"
 "렐리아나와 조세핀의 끊임없는 설득과 협박 덕분에 올레이의 가장 영향력있는 일부 귀족 가문을 끌어들이는 데 성공했다. 귀족 가문 열 곳은 "
-"템플러를 압박하여 대균열을 봉인하는데 힘을 보탤 수 있도록 세린팔 보루로 향하고 있으며 이들은 올레이의 분노를 사고싶지 않으면 자신들의 "
+"성기사단을 압박하여 대균열을 봉인하는데 힘을 보탤 수 있도록 세린팔 보루로 향하고 있으며 이들은 올레이의 분노를 사고싶지 않으면 자신들의 "
 "의견을 받아들일 것을 요구할 것이다. 심문회는 이 협상의 대변인으로 안드라스테의 전령이 직접 나설 것을 약속했다.\n"
 "\n"
 "{string}281195{/string}: {string}281191{/string}"
@@ -13996,7 +13996,7 @@ msgid "Stealth {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelec
 msgstr ""
 "은신 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventor"
 "yItem1}{/notcontroller}: 이 기술을 사용하면 적의 눈에 띄지 않는 상태가 됩니다. 은신 상태에서 공격하면 추가 피해를 "
-"줍니다. 피해를 받거나 공격, 상자 열기, 또는 팀원 부활 등의 행동을 하면 은신 상태가 해제됩니다."
+"줍니다. 피해를 받거나 공격, 상자 열기, 또는 파티원 부활 등의 행동을 하면 은신 상태가 해제됩니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[3]/Text
@@ -14085,10 +14085,10 @@ msgctxt "0x00047607"
 msgid "Bolt {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventoryItem1}{/notcontroller}: Use this ability to shoot a projectile at your target; if it hits, a vendetta is placed around the target. Use the Flashing Steel ability by pressing the {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInventoryItem4}{/notcontroller} button to convert the Vendetta stack in to an Elusive stack—this guarantees the next attack against you will miss."
 msgstr ""
 "볼트 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventor"
-"yItem1}{/notcontroller}: 이 기술을 사용하면 목표물을 향해 물체를 발사합니다. 목표물에 명중하면, 그 주위에 앙갚음이 "
-"배치됩니다. {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInve"
-"ntoryItem4}{/notcontroller} 버튼을 눌러 번쩍이는 칼날 기술을 사용하여 앙갚음 중첩을 교묘함 중첩으로 전환하십시오. "
-"다음 공격을 피할 수 있습니다."
+"yItem1}{/notcontroller}: 이 기술을 사용하면 대상을 향해 물체를 발사합니다. 대상에 명중하면, 그 주위에 복수의 "
+"표식이 배치됩니다. {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelect"
+"InventoryItem4}{/notcontroller} 버튼을 눌러 번쩍이는 칼날 기술을 사용하여 복수 중첩을 교묘함 중첩으로 "
+"전환하십시오. 다음 공격을 피할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[12]/Text
@@ -14150,7 +14150,7 @@ msgid "Stealth {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelec
 msgstr ""
 "은신 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInventor"
 "yItem1}{/notcontroller}: 이 기술을 사용하면 적의 눈에 띄지 않는 상태가 됩니다. 은신 상태에서 공격하면 추가 피해를 "
-"줍니다. 피해를 받거나 공격, 상자 열기, 또는 팀원 부활 등의 행동을 하면 은신 상태가 해제됩니다."
+"줍니다. 피해를 받거나 공격, 상자 열기, 또는 파티원 부활 등의 행동을 하면 은신 상태가 해제됩니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[19]/Text
@@ -14423,8 +14423,8 @@ msgstr ""
 msgctxt "0x00047604"
 msgid "Flashing Steel {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInventoryItem2}{/notcontroller}: This inflicts physical damage on all nearby enemies. If any of those enemies have a vendetta mark, you gain Elusive and the next attack against you will miss."
 msgstr ""
-"은빛 섬광 {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInven"
-"toryItem2}{/notcontroller}: 이 기술은 주변 모든 적군에게 물리 피해를 줍니다. 앙갚음 표식이 있는 적이 있다면 "
+"번쩍이는 칼날 {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInv"
+"entoryItem2}{/notcontroller}: 이 기술은 주변 모든 적군에게 물리 피해를 줍니다. 복수의 표식이 있는 적이 있다면 "
 "회피를 얻으며, 다음 받게 되는 공격은 빗나가게 됩니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
@@ -14433,7 +14433,7 @@ msgstr ""
 msgctxt "0x00047603"
 msgid "Devour {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInventoryItem4}{/notcontroller}: This damages your target while also restoring your health. The lower your current health level, the more healing you receive."
 msgstr ""
-"탐식 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInvento"
+"포식 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInvento"
 "ryItem4}{/notcontroller}: 대상에게 피해를 주면서 동시에 체력이 회복됩니다. 현재 체력이 낮을수록 회복량이 더 "
 "많아집니다."
 
@@ -14462,7 +14462,7 @@ msgctxt "0x00047609"
 msgid "Elemental Mines {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInventoryItem4}{/notcontroller}: This throws several mines in an area in front of you. The mines are Ice, Lightning, and Fire; each inflicts a different status effect and moderate damage when triggered by an enemy step."
 msgstr ""
 "원소 지뢰 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInve"
-"ntoryItem4}{/notcontroller}: 앞쪽에 지뢰를 흩뿌립니다. 지뢰는 냉기, 전격, 화염으로 세 종류가 있으머 서로 다른 "
+"ntoryItem4}{/notcontroller}: 앞쪽에 지뢰를 흩뿌립니다. 지뢰는 얼음, 전격, 화염으로 세 종류가 있으머 서로 다른 "
 "상태 이상 효과를 주고, 적이 밟으면 적절한 피해를 줍니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
@@ -14495,7 +14495,7 @@ msgstr ""
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\ZoneControl\MP_ZoneController.xml:3524
 msgctxt "0x0003e69a"
 msgid "Checkpoint Reached"
-msgstr "체크포인트 도달됨"
+msgstr "자동 저장 지점 도달됨"
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\MP_FadeModePresentation.xml
 #. PATH: TextNotificationEntityData[1]/SubTextReference
@@ -14509,7 +14509,7 @@ msgstr "파티원이 쓰러졌습니다. 적들이 더 강해집니다."
 #: DA3\DesignContent\Prefabs\Multiplayer\MP_FadeModePresentation.xml:469
 msgctxt "0x00043d6d"
 msgid "You have bled out and can only spectate from the Fade until the surviving party members reach the next checkpoint."
-msgstr "당신은 출혈 상태에 있으며 생존한 파티원들이 다음 체크포인트에 도달할 때 까지는 영계에서 관전만 가능합니다."
+msgstr "당신은 출혈 상태에 있으며 생존한 파티원들이 다음 자동 저장 지점에 도달할 때 까지는 영계에서 관전만 가능합니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\MP_KnockDownBleedoutLogic.xml
 #. PATH: GetLocalizedStringIDData/Text
@@ -14682,7 +14682,7 @@ msgstr ""
 msgctxt "0x00049fd9"
 msgid "<font color=\"#CCDDAA\">Select \"Abilities\", and use with the points you received from leveling up to choose a new ability!</font>"
 msgstr ""
-"<font color=\"#CCDDAA\">\"기술\" 탭을 선택하시고 레벨업을 통해 얻은 포인트를 소모해 새 기술을 "
+"<font color=\"#CCDDAA\">\"기술\" 탭을 선택하시고 레벨업을 통해 얻은 점수를 소모해 새 기술을 "
 "습득하세요!</font>"
 
 #. FILE: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer1_default_schematic.xml
@@ -14772,7 +14772,7 @@ msgstr ""
 #: DA3\Levels\StartMenu\StartMenu\layer1_default_schematic.xml:995
 msgctxt "0x00027f9c"
 msgid "The Dragon Age server is unavailable at this time. Please try again later."
-msgstr "드래곤 에이지 서버가 현재 이용 불가능합니다. 잠시후 다시 시도 해주십시오."
+msgstr "Dragon Age 서버가 현재 이용 불가능합니다. 잠시후 다시 시도 해주십시오."
 
 #. FILE: DA3\Logic\Levels\GlobalMPLevelStart.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -15528,28 +15528,28 @@ msgstr "DPS"
 #: DA3\Logic\Levels\SingletonEntities_SP.xml:2322
 msgctxt "0x000449d2"
 msgid "Human-Trained"
-msgstr "훈련된 인간"
+msgstr "인간 전용"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities_SP.xml
 #. PATH: ItemManagerEntityData/RaceInfos/member[2]/ItemManagerEntity_RaceInfo/Name
 #: DA3\Logic\Levels\SingletonEntities_SP.xml:2332
 msgctxt "0x000449d1"
 msgid "Dwarf-Trained"
-msgstr "훈련된 드워프"
+msgstr "드워프 전용"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities_SP.xml
 #. PATH: ItemManagerEntityData/RaceInfos/member[3]/ItemManagerEntity_RaceInfo/Name
 #: DA3\Logic\Levels\SingletonEntities_SP.xml:2342
 msgctxt "0x000449d4"
 msgid "Elf-Trained"
-msgstr "훈련된 엘프"
+msgstr "엘프 전용"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities_SP.xml
 #. PATH: ItemManagerEntityData/RaceInfos/member[4]/ItemManagerEntity_RaceInfo/Name
 #: DA3\Logic\Levels\SingletonEntities_SP.xml:2352
 msgctxt "0x000449d3"
 msgid "Qunari-Trained"
-msgstr "훈련된 쿠나리"
+msgstr "쿠나리 전용"
 
 #. FILE: DA3\Logic\Levels\SingletonEntities_SP.xml
 #. PATH: LootConfiguration/LootGoldNotificationString
@@ -16774,7 +16774,7 @@ msgstr "시대의 가장 뛰어난 자들"
 #: DA3_DLC1\Combat\StatusEffects\combat_breaker_barrier_statuseffect.xml:11
 msgctxt "0x000471f8"
 msgid "Barrier Breaker"
-msgstr "보호막 파괴자"
+msgstr "방어막 파괴자"
 
 #. FILE: DA3_DLC1\Combat\StatusEffects\combat_breaker_guard_statuseffect.xml
 #. PATH: StatusEffect/Description
@@ -16956,7 +16956,7 @@ msgstr "사냥의 달인"
 #: DA3_DLC1\DesignContent\CreatureProfiles\DLC1\Wilderness\dlc1_npc_lovecraft_creatureprofile.xml:24
 msgctxt "0x00046ee7"
 msgid "Havard-Pierre d'Amortisan"
-msgstr "하바드-피에르 다모르티상"
+msgstr "하바르 피에르 다모르티상"
 
 #. FILE: DA3_DLC1\DesignContent\CreatureProfiles\DLC1\Wilderness\dlc1_npc_lovecraft_partner_creatureprofile.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -17005,7 +17005,7 @@ msgstr "하콘"
 #: DA3_DLC1\DesignContent\CreatureProfiles\DLC1\Wilderness\dlc1_wild_fadetouched_gurget.xml:49
 msgctxt "0x00045a32"
 msgid "Fade-Touched Gurgut"
-msgstr "영계에 물든 걸것"
+msgstr "영계에 물든 거르거트"
 
 #. FILE: DA3_DLC1\DesignContent\CreatureProfiles\DLC1\Wilderness\dlc1_wild_fadetouched_lurker.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -17441,7 +17441,7 @@ msgstr "빠르고 근성있는 이 리베인의 말은 세헤론 섬에서 활�
 #: DA3_ItemPacks\ItemPack3\ip3_equip_armor_heavy_1p_qunari.xml:6
 msgctxt "0x00048332"
 msgid "Shokra-taar"
-msgstr "쇼크라-타르"
+msgstr "쇼크라 타아르"
 
 #. FILE: DA3_ItemPacks\ItemPack3\ip3_equip_armor_heavy_1p_qunari.xml
 #. PATH: EquipItemAsset/Description
@@ -17457,49 +17457,49 @@ msgstr ""
 #: DA3_ItemPacks\ItemPack3\ip3_equip_armor_light_1p_qunari.xml:6
 msgctxt "0x0004832d"
 msgid "Antaam-saar"
-msgstr "안탐-사르"
+msgstr "안타암 사아르"
 
 #. FILE: DA3_ItemPacks\ItemPack3\ip3_recipe_heavy_1p_qunari_t1.xml
 #. PATH: Recipe/CraftingName
 #: DA3_ItemPacks\ItemPack3\ip3_recipe_heavy_1p_qunari_t1.xml:39
 msgctxt "0x00048337"
 msgid "Shokra-taar "
-msgstr "쇼크라-타르 "
+msgstr "쇼크라 타아르 "
 
 #. FILE: DA3_ItemPacks\ItemPack3\ip3_recipe_heavy_1p_qunari_t2.xml
 #. PATH: Recipe/DisplayName
 #: DA3_ItemPacks\ItemPack3\ip3_recipe_heavy_1p_qunari_t2.xml:6
 msgctxt "0x00048331"
 msgid "Enhanced Shokra-taar"
-msgstr "증진된 쇼크라-타르"
+msgstr "증진된 쇼크라 타아르"
 
 #. FILE: DA3_ItemPacks\ItemPack3\ip3_recipe_heavy_1p_qunari_t3.xml
 #. PATH: Recipe/DisplayName
 #: DA3_ItemPacks\ItemPack3\ip3_recipe_heavy_1p_qunari_t3.xml:6
 msgctxt "0x00048330"
 msgid "Superb Shokra-taar"
-msgstr "훌륭한 쇼크라-타르"
+msgstr "훌륭한 쇼크라 타아르"
 
 #. FILE: DA3_ItemPacks\ItemPack3\ip3_recipe_light_1p_qunari_t1.xml
 #. PATH: Recipe/CraftingName
 #: DA3_ItemPacks\ItemPack3\ip3_recipe_light_1p_qunari_t1.xml:39
 msgctxt "0x00048336"
 msgid "Antaam-saar"
-msgstr "안탐-사르"
+msgstr "안타암 사아르"
 
 #. FILE: DA3_ItemPacks\ItemPack3\ip3_recipe_light_1p_qunari_t2.xml
 #. PATH: Recipe/DisplayName
 #: DA3_ItemPacks\ItemPack3\ip3_recipe_light_1p_qunari_t2.xml:6
 msgctxt "0x0004832f"
 msgid "Enhanced Antaam-saar"
-msgstr "증진된 안탐-사르"
+msgstr "증진된 안타암 사아르"
 
 #. FILE: DA3_ItemPacks\ItemPack3\ip3_recipe_light_1p_qunari_t3.xml
 #. PATH: Recipe/DisplayName
 #: DA3_ItemPacks\ItemPack3\ip3_recipe_light_1p_qunari_t3.xml:6
 msgctxt "0x0004832e"
 msgid "Superb Antaam-saar"
-msgstr "훌륭한 안탐-사르"
+msgstr "훌륭한 안타암 사아르"
 
 #. FILE: DA3_ItemPacks\ItemPack4\ip4_BaseCust_Drapes.xml
 #. PATH: UIBaseCustomizeItemAsset/Title
@@ -17598,7 +17598,7 @@ msgstr "[Enter]"
 msgctxt "0x00043b0b"
 msgid "{xbox360}START{/xbox360}{xboxone}the Menu button{/xboxone}{ps3}the START button{/ps3}{ps4}the OPTIONS button{/ps4}"
 msgstr ""
-"{xbox360}시작 버튼{/xbox360}{xboxone}메뉴 버튼{/xboxone}{ps3}시작 버튼{/ps3}{ps4}옵션 "
+"{xbox360}시작 버튼{/xbox360}{xboxone}메뉴 버튼{/xboxone}{ps3}시작 버튼{/ps3}{ps4}설정 "
 "버튼{/ps4}"
 
 #. FILE: Localization\StringMarkup\MarkupTags.xml
@@ -18646,7 +18646,7 @@ msgstr "러시아어"
 #: da3_dlc_blue\Combat\StatusEffects\combat_breaker_barrier_statuseffect.xml:11
 msgctxt "0x0004b35b"
 msgid "Barrier Breaker"
-msgstr "보호막 파괴자"
+msgstr "방어막 파괴자"
 
 #. FILE: da3_dlc_blue\Combat\StatusEffects\combat_breaker_guard_statuseffect.xml
 #. PATH: StatusEffect/Description
@@ -18681,7 +18681,7 @@ msgstr "쿠나리 타격병"
 #: da3_dlc_blue\Creatures\Factions\Biotic\Qunari\creature_qunari_footolsider_f_mp.xml:5146
 msgctxt "0x0004762f"
 msgid "Ben-Hassrath Agent"
-msgstr "벤-하스라트 요원"
+msgstr "벤 하스라스 요원"
 
 #. FILE: da3_dlc_blue\Creatures\Factions\Biotic\Qunari\creature_qunari_guardsman.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -18716,7 +18716,7 @@ msgstr "쿠나리 지휘관"
 #: da3_dlc_blue\Creatures\Factions\Biotic\Qunari\creature_qunari_prowler.xml:4815
 msgctxt "0x0004762c"
 msgid "Ben-Hassrath Assassin"
-msgstr "벤-하스라트 암살자"
+msgstr "벤 하스라스 암살자"
 
 #. FILE: da3_dlc_blue\Creatures\Factions\Biotic\Qunari\creature_qunari_spearman.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -19263,7 +19263,7 @@ msgstr "수집품이 성공적으로 동기화되었습니다."
 #: da3_dlc_blue\designcontent\prefabs\interactions\NugStatue.xml:4614
 msgctxt "0x0004acde"
 msgid "Failed to synchronize collectables—Unable to connect to the Dragon Age server. Please try again later."
-msgstr "수집품 동기화에 실패했습니다. 드래곤 에이지 서버에 연결할 수 없습니다. 나중에 다시 시도하십시오."
+msgstr "수집품 동기화에 실패했습니다. Dragon Age 서버에 연결할 수 없습니다. 나중에 다시 시도하십시오."
 
 #. FILE: da3_dlc_blue\designcontent\prefabs\interactions\Veilfire\DLCBlue_Brazier_Extinguishable.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
@@ -19291,21 +19291,21 @@ msgstr "크레탈"
 #: da3_dlc_red\Creatures\Faction\Biotic\LostDwarves\creature_DLC_Red_LostDwarves_Bolter.xml:5600
 msgctxt "0x00047484"
 msgid "Sha-Brytol Bolter"
-msgstr "샤브라이톨 사수"
+msgstr "샤 브라이톨 사수"
 
 #. FILE: da3_dlc_red\Creatures\Faction\Biotic\LostDwarves\creature_DLC_Red_LostDwarves_Bruiser.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 #: da3_dlc_red\Creatures\Faction\Biotic\LostDwarves\creature_DLC_Red_LostDwarves_Bruiser.xml:4984
 msgctxt "0x00047483"
 msgid "Sha-Brytol Revered Defender"
-msgstr "샤-브라이톨 존경받는 수호자"
+msgstr "샤 브라이톨 경외받는 수호자"
 
 #. FILE: da3_dlc_red\Creatures\Faction\Biotic\LostDwarves\creature_DLC_Red_LostDwarves_Prowler.xml
 #. PATH: CreatureEntityData/CharacterNameReference
 #: da3_dlc_red\Creatures\Faction\Biotic\LostDwarves\creature_DLC_Red_LostDwarves_Prowler.xml:4648
 msgctxt "0x00047486"
 msgid "Sha-Brytol Stone Stalker"
-msgstr "샤브라이톨 돌 추적자"
+msgstr "샤 브라이톨 돌 추적자"
 
 #. FILE: da3_dlc_red\Creatures\Faction\Biotic\human\creature_DLC_Red_legion_archer.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -19319,7 +19319,7 @@ msgstr "망자의 군단 병사"
 #: da3_dlc_red\Creatures\Faction\Blight\Darkspawn\HurlockAlpha\Abilities\AoeBuff\Ability_HurlockAlpha_AoE_Buff.xml:11
 msgctxt "0x00048fc8"
 msgid "Rally"
-msgstr "결집"
+msgstr "집결"
 
 #. FILE: da3_dlc_red\Creatures\Faction\Blight\Darkspawn\creature_DLC_Red_darkspawn_emissary.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -19571,14 +19571,14 @@ msgstr "피로 얼룩진 고대의 톱니바퀴 5개 필요"
 #: da3_dlc_red\DesignContent\Prefabs\environment\Level_5_Event\barricade_interact.xml:1423
 msgctxt "0x0004ac9a"
 msgid "Requires an Earthshaker Weapon"
-msgstr "대지를 흔드는 자의 무기 필요"
+msgstr "대지분쇄자의 무기 필요"
 
 #. FILE: da3_dlc_red\DesignContent\Prefabs\environment\Level_5_Event\earthshaker_pickup.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
 #: da3_dlc_red\DesignContent\Prefabs\environment\Level_5_Event\earthshaker_pickup.xml:378
 msgctxt "0x0004a2e6"
 msgid "Take Earthshaker Weapon"
-msgstr "대지를 흔드는 자의 무기 가져가기"
+msgstr "대지분쇄자의 무기 가져가기"
 
 #. FILE: da3_dlc_red\DesignContent\Prefabs\inquisition\dlcred_ExpeditionInteraction.xml
 #. PATH: BWPopUpEntityData/Title
@@ -20050,7 +20050,7 @@ msgid ""
 msgstr ""
 "현재 활성화된 노래에 뜨겁고 공격적인 가락을 추가합니다.\n"
 "\n"
-"이 기술을 사용하면 열정적 릭을 사용할 수 있습니다. 열정적 릭은 화염 피해를 주고 주변 적에게 퍼져니갑니다.\n"
+"이 기술을 사용하면 뜨거운 곡조를 사용할 수 있습니다. 뜨거운 곡조는 화염 피해를 주고 주변 적에게 퍼져나갑니다.\n"
 "\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\Notes\Bnote\party_mage_mp2_bard_Bnote_abilitydata.xml
@@ -20244,7 +20244,7 @@ msgstr ""
 #: da3_mp2\Combat\Kits\Bard\passive\OnKill\party_mage_mp2_bard_passive_onkill_abilitydata.xml:5
 msgctxt "0x00047085"
 msgid "Encore!"
-msgstr "앵콜!"
+msgstr "앙코르!"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\OnKill\party_mage_mp2_bard_passive_onkill_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
@@ -20470,7 +20470,7 @@ msgid ""
 "You fire a quick shot from your crossbow, placing a Vendetta mark on any enemy you strike.\n"
 "\n"
 msgstr ""
-"석궁을 빠르게 발사해 맞는 적에게 앙갚음의 표식을 부여합니다.\n"
+"석궁을 빠르게 발사해 맞는 적에게 복수의 표식을 부여합니다.\n"
 "\n"
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\Bolt\combat_kits_isabela_bolt_abilitydata.xml
@@ -20478,7 +20478,7 @@ msgstr ""
 #: da3_mp2\Combat\Kits\Isabela\Bolt\combat_kits_isabela_bolt_abilitydata.xml:18
 msgctxt "0x000470cb"
 msgid "<font color=\"#BAAB7B\">Targets marked with Vendetta take 10% additional damage.</font>\n"
-msgstr "<font color=\"#BAAB7B\">앙갚음이 표시된 적들은 10%의 추가 피해를 받습니다.</font>\n"
+msgstr "<font color=\"#BAAB7B\">복수가 표시된 적들은 10%의 추가 피해를 받습니다.</font>\n"
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\Bolt\combat_kits_isabela_bolt_upgrade_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityNameReference
@@ -20531,7 +20531,7 @@ msgid ""
 "Flashing Steel now costs less stamina and deals more damage to each Vendetta target struck.\n"
 "\n"
 msgstr ""
-"번쩍이는 칼날의 기력 소모량이 줄어들고 앙갚음이 부여된 대상을 공격할 때 피해량이 증가합니다.\n"
+"번쩍이는 칼날의 기력 소모량이 줄어들고 복수의 표식이 부여된 대상을 공격할 때 피해량이 증가합니다.\n"
 "\n"
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\Exploit\combat_kits_skirmisher_exploit_upgrade_abilitydata.xml
@@ -20567,7 +20567,7 @@ msgid ""
 "You shoot a tethered bolt that chains two enemies together and places a Vendetta mark on both of them. Both enemies are slowed and will be pulled together if they get too far away from each other.\n"
 "\n"
 msgstr ""
-"밧줄로 묶은 볼트를 던져 적 두 명을 속박하고 둘에게 앙갚음의 표식을 부여합니다. 적들은 느려지고 서로 너무 멀리 떨어지면 잡아당겨지게 "
+"밧줄로 묶은 볼트를 던져 적 두 명을 속박하고 둘에게 복수의 표식을 부여합니다. 적들은 느려지고 서로 너무 멀리 떨어지면 잡아당겨지게 "
 "됩니다.\n"
 "\n"
 
@@ -20586,7 +20586,7 @@ msgid ""
 "Keelhaul now chains, slows, and adds a Vendetta mark to an additional enemy.\n"
 "\n"
 msgstr ""
-"동여매기가 속박하고, 둔화시키고, 앙갚음을 부여할 수 있는 적이 늘어납니다.\n"
+"동여매기가 속박하고, 둔화시키고, 복수를 부여할 수 있는 적이 늘어납니다.\n"
 "\n"
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\Passives\Adaptable\combat_kits_isabela_passive_adaptable_abilitydata.xml
@@ -20640,7 +20640,7 @@ msgid ""
 "If an enemy dies while marked with Vendetta, it spreads to nearby enemies.\n"
 "\n"
 msgstr ""
-"적이 앙갚음의 표식이 찍힌 상태로 죽는다면, 근처의 다른 적에게 옮겨집니다.\n"
+"적이 복수의 표식이 찍힌 상태로 죽는다면, 근처의 다른 적에게 옮겨집니다.\n"
 "\n"
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\Passives\EvasiveManeuvers\combat_kits_isabela_passive_evasivemaneuvers_abilitydata.xml
@@ -20703,7 +20703,7 @@ msgid ""
 "All of your active cooldowns are reduced each time you deal damage to an enemy marked with Vendetta.\n"
 "\n"
 msgstr ""
-"앙갚음의 표식이 찍힌 적에게 피해를 입힐 때 마다 모든 액티브 스킬의 재사용 대기시간이 줄어듭니다.\n"
+"복수의 표식이 찍힌 적에게 피해를 입힐 때 마다 모든 액티브 스킬의 재사용 대기시간이 줄어듭니다.\n"
 "\n"
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\Passives\ImprovedVendetta\combat_kits_isabela_passive_improvedvendetta_abilitydata.xml
@@ -20721,7 +20721,7 @@ msgid ""
 "Targets marked with Vendetta take additional damage from all sources.\n"
 "\n"
 msgstr ""
-"앙갚음으로 표시된 대상은 모든 공격으로부터 추가 피해를 받습니다.\n"
+"복수의 표식이 찍힌 대상은 모든 공격으로부터 추가 피해를 받습니다.\n"
 "\n"
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\Passives\NaturallyEvasive\combat_kits_isabela_passive_naturallyevasive_abilitydata.xml
@@ -20941,7 +20941,7 @@ msgid ""
 "If your target of Gangway! has a Vendetta, your cooldown is reduced.\n"
 "\n"
 msgstr ""
-"함정이다! 의 대상이 앙갚음을 가지고 있을 시, 재사용 대기시간이 줄어듭니다.\n"
+"함정이다! 의 대상이 복수의 표식을 가지고 있을 시, 재사용 대기시간이 줄어듭니다.\n"
 "\n"
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\ScatterBlast\combat_kits_isabela_scatterblast_abilitydata.xml
@@ -20959,7 +20959,7 @@ msgid ""
 "You hit all enemies around your target with crossbow bolts, placing a Vendetta mark on every distant secondary target.\n"
 "\n"
 msgstr ""
-"목표 근처의 모든 적을 석궁 화살로 사격하고, 앙갚음의 표식을 남깁니다.\n"
+"목표 근처의 모든 적을 석궁 화살로 사격하고,복수의 표식을 남깁니다.\n"
 "\n"
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\ScatterBlast\combat_kits_isabela_scatterblast_abilitydata.xml
@@ -20968,7 +20968,7 @@ msgstr ""
 msgctxt "0x000470d8"
 msgid "<font color=\"#BAAB7B\">Vendetta Distance: </font><font color=\"#F5ECCE\">{CUSTOM0} meters</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">앙갚음 거리: </font><font color=\"#F5ECCE\">{CUSTOM0} "
+"<font color=\"#BAAB7B\">복수의 표식 거리: </font><font color=\"#F5ECCE\">{CUSTOM0} "
 "미터</font>\n"
 
 #. FILE: da3_mp2\Combat\Kits\Isabela\ScatterBlast\combat_kits_isabela_scatterblast_abilitydata.xml
@@ -21045,7 +21045,7 @@ msgstr "페렐던 성"
 #: da3_mp2\Layouts\Multiplayer\MPCastle01\MP2_Castle01.xml:11628
 msgctxt "0x0004717c"
 msgid "Ferelden Castle (Inferno)"
-msgstr "페렐던 성(불꽃)"
+msgstr "페렐던 성 (지옥불)"
 
 #. FILE: da3_mp2\Layouts\Multiplayer\MPCastle01\MP2_Castle01.xml
 #. PATH: DA3MultiplayerDragonLevelDescription/DragonVariants/member[2]/DA3MPDragonLevelVariant/LevelNameOverride
