@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-13 07:55+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2021-03-14 13:55+0000\n"
+"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -176,7 +176,7 @@ msgstr "반품 정책"
 #: DA3\DesignContent\Journals\Ferelden\Fer_Wilderness_Main\fer_wild_astrarium.xml:13
 msgctxt "0x00042390"
 msgid "Astrariums in the Hinterlands"
-msgstr "내륙지역의 천체 투영관"
+msgstr "내륙지역의 천체 투영기"
 
 #. FILE: DA3\DesignContent\Journals\Ferelden\Fer_Wilderness_Main\fer_wild_camps.xml
 #. PATH: JournalEntry/TitleReference
@@ -456,7 +456,7 @@ msgstr "위험한 도박"
 #: DA3\DesignContent\Journals\Ferelden\fer_Wilderness_010\fer010_keep_faderifts.xml:13
 msgctxt "0x000392e4"
 msgid "Rift at Caer Bronach"
-msgstr "브로나크 고성에 있는 균열"
+msgstr "브로나크 성에 있는 균열"
 
 #. FILE: DA3\DesignContent\Journals\Ferelden\fer_Wilderness_010\fer010_landmarks.xml
 #. PATH: JournalEntry/TitleReference
@@ -842,7 +842,7 @@ msgstr "암살자의 길"
 #: DA3\DesignContent\Journals\Global\Inquisition\gen_spec_champion_journal.xml:13
 msgctxt "0x00040bac"
 msgid "Way of the Champion"
-msgstr "챔피언의 길"
+msgstr "용사의 길"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\gen_spec_intro.xml
 #. PATH: JournalEntry/TitleReference
@@ -1087,7 +1087,7 @@ msgstr "연꽃과 뿌리"
 #: DA3\DesignContent\Journals\Global\Inquisition\scout_hinterlands_cages.xml:13
 msgctxt "0x00043f89"
 msgid "Hinterlands Cage Requisition"
-msgstr "내륙지역: 철장 보급 요청"
+msgstr "내륙지역: 철창 보급 요청"
 
 #. FILE: DA3\DesignContent\Journals\Global\Inquisition\scout_hinterlands_geosurvey01.xml
 #. PATH: JournalEntry/TitleReference
@@ -1746,7 +1746,7 @@ msgstr "교차로의 곰"
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_astrarium.xml:13
 msgctxt "0x0003b0ca"
 msgid "Astrariums in the Graves"
-msgstr "무덤의 천체 투영관"
+msgstr "무덤의 천체 투영기"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_defeat_auguste.xml
 #. PATH: JournalEntry/TitleReference
@@ -1802,7 +1802,7 @@ msgstr "돋움 근처의 균열"
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_faderift_camp_04.xml:13
 msgctxt "0x00035ffa"
 msgid "Rifts near the Sighs"
-msgstr "한숨 근처의 균열"
+msgstr "급류 근처의 균열"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_fst_wild_fairbanks_a_noble.xml
 #. PATH: JournalEntry/TitleReference
@@ -1949,7 +1949,7 @@ msgstr "얼어붙은 물 위의 균열"
 #: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_faderift_camp_02.xml:13
 msgctxt "0x000369f5"
 msgid "Rift at Elfsblood Tower"
-msgstr "엘프의 피 탑 균열"
+msgstr "엘프피 탑 균열"
 
 #. FILE: DA3\DesignContent\Journals\TheDales\TheDales_Main\dal_hld_wild_faderift_camp_03.xml
 #. PATH: JournalEntry/TitleReference
@@ -2376,7 +2376,7 @@ msgstr "고요한 유적의 심장"
 #: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_Astrarium.xml:13
 msgctxt "0x00039832"
 msgid "Astrariums in the Approach"
-msgstr "접근지역 천체 투영관"
+msgstr "접근지역 천체 투영기"
 
 #. FILE: DA3\DesignContent\Journals\TheWesternApproach\wes_main\wes_area_trailsigns.xml
 #. PATH: JournalEntry/TitleReference
@@ -2635,7 +2635,7 @@ msgstr "해안 만 근처 균열"
 #: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Faderifts_Mountain.xml:13
 msgctxt "0x00040396"
 msgid "Rifts at the Sunstop Mountains"
-msgstr "태양이 멈추는 산의 균열"
+msgstr "태양멎이 산의 균열"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\DesertRuins\the_DesertRuins_Landmarks.xml
 #. PATH: JournalEntry/TitleReference
@@ -2789,7 +2789,7 @@ msgstr "차분해진 영혼"
 #: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_astrarium.xml:13
 msgctxt "0x0003fdb9"
 msgid "Astrariums on the Coast"
-msgstr "해안의 천체 투영관"
+msgstr "해안의 천체 투영기"
 
 #. FILE: DA3\DesignContent\Journals\ThematicLevels\StormCoast\storm_camps.xml
 #. PATH: JournalEntry/TitleReference
@@ -2992,7 +2992,7 @@ msgstr "아바르 연합"
 #: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_astrarium.xml:13
 msgctxt "0x000450b2"
 msgid "Astrariums in Frostback Basin"
-msgstr "서리등선 분지 천체 투영관"
+msgstr "서리등선 분지 천체 투영기"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1\DLC1_Wilderness\dlc1_wild_camp01_faderifts.xml
 #. PATH: JournalEntry/TitleReference
@@ -3174,7 +3174,7 @@ msgstr "서리등선 분지의 알 수 없는 섬에 분지의 과거에 대한 
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:141
 msgctxt "0x000450cd"
 msgid "An active Fade rift has been spotted in the Basin Floor."
-msgstr "분지 바닥에서 열려 있는 영계 균열이 발견되었다."
+msgstr "분지 바닥에 영계 균열이 열린 것을 발견했다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[3]/JournalTextData/TextReference
@@ -3196,7 +3196,7 @@ msgstr "하콘의 아귀가 심문회 병사들을 공격하고 있다."
 msgctxt "0x00045d43"
 msgid "Lieutenant Farrow has reports of Hakkonite camps along the river. Their hostile presence prevents the resupply of Inquisition encampments and makes travel through the region dangerous."
 msgstr ""
-"패로우 부관의 보고에 의하면 강 주변에 하콘 추종자들이 야영지를 세웠다고 한다. 그들은 심문회 야영지의 보급을 방해하며 지역 여행자들에게 "
+"패로 부관의 보고에 의하면 강 주변에 하콘 추종자들이 야영지를 세웠다고 한다. 그들은 심문회 야영지의 보급을 방해하며 지역 여행자들에게 "
 "위협을 가하고 있다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
@@ -3211,14 +3211,14 @@ msgstr "한 아바르 어부가 사촌인 루나를 찾고 있다. 그녀는 루
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:206
 msgctxt "0x000450c9"
 msgid "Active Fade rifts have been spotted along the Varsdotten River and Western Riverbank."
-msgstr "바스도텐 강과 서부 강둑에서 열려 있는 영계 균열이 발견되었다."
+msgstr "바스도튼 강과 서부 강둑에 영계 균열이 열린 것을 발견했다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[8]/JournalTextData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:219
 msgctxt "0x00045de5"
 msgid "Active Fade rifts have been spotted in the Shallows and on Endarsen Pass."
-msgstr "여울과 엔다르센의 길 근처에서 열려 있는 영계 균열이 발견되었다."
+msgstr "여울과 엔다르센의 길 근처에 영계 균열이 열린 것을 발견했다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[9]/JournalTextData/TextReference
@@ -3289,7 +3289,7 @@ msgstr "사원 폐허에 잠긴 문이 있다."
 msgctxt "0x00045d03"
 msgid "Inquisition soldiers face delays setting up camps due to interference from the local wildlife. Baron Henri-Pierre d'Amortisan believes his herb wards may keep the beasts at bay."
 msgstr ""
-"심문회 병사들은 야생동물 때문에 야영지를 세우는데 문제를 겪고 있다. 헨리 피에르 다모르티상 남작은 자신의 약초 결계가 짐승들을 내쫓을 "
+"심문회 병사들은 야생동물 때문에 야영지를 세우는데 문제를 겪고 있다. 앙리 피에르 다모르티상 남작은 자신의 약초 결계가 짐승들을 내쫓을 "
 "수 있다고 한다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
@@ -3343,14 +3343,14 @@ msgstr ""
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:578
 msgctxt "0x000450b4"
 msgid "Find and complete all astrarium pedestals in the Frostback Basin."
-msgstr "서리등선 분지에 존재하는 모든 천체 투영관을 찾고 별자리를 완성하자."
+msgstr "서리등선 분지에 존재하는 모든 천체 투영기를 찾고 별자리를 완성하자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[25]/JournalTextData/TextReference
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:608
 msgctxt "0x000450b5"
 msgid "The astrarium pedestals have revealed a cave."
-msgstr "천체 투영관의 별자리가 숨어있던 동굴을 밝혀냈다."
+msgstr "천체 투영기가 숨어있던 동굴을 드러냈다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[26]/JournalTextData/TextReference
@@ -3358,7 +3358,7 @@ msgstr "천체 투영관의 별자리가 숨어있던 동굴을 밝혀냈다."
 msgctxt "0x00045d91"
 msgid "Baron Henri-Pierre d'Amortisan and his scribe, Dunwich, are searching for the Nox Morta. With assistance, they may be able to prove the existence of this mysterious creature."
 msgstr ""
-"헨리 피에르 다모르티상 남작은 서기 던위치와 함께 녹스 모르타를 찾고 있다. 그들을 돕는다면 이 신비한 생물의 존재를 증명할 수 있을지도 "
+"앙리 피에르 다모르티상 남작은 서기 던위치와 함께 녹스 모르타를 찾고 있다. 그들을 돕는다면 이 신비한 생물의 존재를 증명할 수 있을지도 "
 "모른다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
@@ -3397,7 +3397,7 @@ msgstr "서리등선 분지의 잠긴 문에서 부자연스럽지만 묘하게 
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:703
 msgctxt "0x00045aaa"
 msgid "Search for any shards scattered around Frostback Basin."
-msgstr "서리등선 분지에 흩어져 있는 편린을 찾아보자."
+msgstr "서리등선 분지에 흩어진 편린을 찾아보자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[32]/JournalTextData/TextReference
@@ -3432,7 +3432,7 @@ msgstr "<Need Content>"
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:768
 msgctxt "0x000450ce"
 msgid "Active Fade rifts have been spotted on the Eastern Riverbank."
-msgstr "동부 강둑에서 열려 있는 영계 균열이 발견되었다."
+msgstr "동부 강둑에 영계 균열이 열린 것을 발견했다."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[37]/JournalTextData/TextReference
@@ -3641,7 +3641,7 @@ msgstr ""
 "\n"
 "—저자 미상, \"아메리단과 마법사\"에서 발췌\n"
 "\n"
-"이 지나치게 낭만적인 초상은 교황 시대의 언젠가, 한 마법사와 그녀의 연인 사이의 밀회를 그린 것이다. 이 시는 아메리단이 사라진 후 "
+"이 지나치게 낭만적인 초상은 교황의 시대의 언젠가, 한 마법사와 그녀의 연인 사이의 밀회를 그린 것이다. 이 시는 아메리단이 사라진 후 "
 "작성된 것이지만, 전 심문관의 \"마법사 연인\"에 대한 이야기와 소문에 영감을 받았다고 한다. 거의 두 시대 동안, 챈트리 학자의 "
 "대부분은 이 작품이 아메리단을 지칭하는 것이 아니라 다른 사람을 지칭하는 것이라고 결론지었다. 이들 학자들은 이 시의 제목이 전 심문관의 "
 "명예를 실추시키기 위한 것이라고 주장한다. 이 시는 후에 \"문제적\"으로 간주되었고 , 금지 작품 목록 속으로 밀려났다.\n"
@@ -4014,7 +4014,8 @@ msgid ""
 msgstr ""
 "아메리단 심문관에 대해 알려진 사실들은 종이 한 쪽도 간신히 채우지 못할 것이다. 그는 드레이콘 황제의 친구였다. 그는 네바라 협정이 "
 "체결되고 진실의 탐구자들이 챈트리로 합병되었을 때 심문관의 직위를 가지고 있었다. 이들은 마법사 협회와 성기사단의 전신이었다. 협정이 "
-"맺어진 후, 교황의 시대 1:22와 1:24 사이에 아메리단은 직위를 내려놓고 어딘가로 사라졌으며, 이후 아무도 그를 본 사람이 없다.\n"
+"맺어진 후, 교황의 시대 1:22년과 1:24년 사이에 아메리단은 직위를 내려놓고 어딘가로 사라졌으며, 이후 아무도 그를 본 사람이 없다."
+"\n"
 "\n"
 "확실한 객관적 사실은 이상의 것들 뿐이다. 이외의 모든 소문들은 확증 없는 풍문이나 대강의 추측, 혹은 음탕한 추문에 불과하다.\n"
 "\n"
@@ -4304,8 +4305,8 @@ msgstr ""
 "가능하다는 것을 증명할 필요성을 가장 편리하게 회피할 수 있는 방법이 아닐 수 없다. 다시 말하지만 너무 성급하게 경멸을 느낄 필요는 "
 "없다. 오늘에 이르기까지, 죽은 사람 중 누구도 영계 저편에서 다시 돌아와 창조주가 있는 천국에 대해 설명한 이는 없기 때문이다.\n"
 "\n"
-"—안티바의 회의론자 로베르토의 논문, {i}삶과 죽음의 위대한 비전{/i}에서 발췌. 이는 9:31에 작성되었으며, 9:32에 챈트리에 "
-"의해 금지됨"
+"—안티바의 회의론자 로베르토의 논문, {i}삶과 죽음의 위대한 비전{/i}에서 발췌. 이는 9:31년에 작성되었으며, 9:32년에 "
+"챈트리에 의해 금지됨"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[68]/JournalTextData/TextReference
@@ -4318,7 +4319,7 @@ msgid ""
 "\n"
 "What occurs if the Nox Morta reveals itself? How long have thoughts of the beast preyed upon my dreams? What comes if they are gone? Peace? Or will further knowledge unlock hints of greater depths that I will be compelled to explore?"
 msgstr ""
-"{i}헨리 피에르 다모르티상의 말대로, 서리등선 분지의 녹스 모르타에 대한 추가 현장 연구 자료가 있다.{/i}\n"
+"{i}앙리 피에르 다모르티상의 말대로, 서리등선 분지의 녹스 모르타에 대한 추가 현장 연구 자료가 있다.{/i}\n"
 "\n"
 "표본이 돌아온 덕에 기대하던 것 이상을 알게 되었다. 미끼에 로즈마리를 넣었더니 알 수 없는 생물을 끌어들였다—놈이 남긴 이빨 자국조차도 "
 "완전히 처음 보는 종류였다.\n"
@@ -4591,7 +4592,7 @@ msgstr ""
 "그렇게 믿는 것 같다. 계속 순찰하고, 집중하고, 일정대로 보고하는 것을 잊지 말자. 만약 그들의 무기를 줍게 된다면, 그랜딘이나 "
 "키이브에게 보여줘야겠다—그들은 마법을 좀 아니까.\n"
 "\n"
-"패로우 부관"
+"패로 부관"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[78]/JournalTextData/TextReference
@@ -4916,7 +4917,7 @@ msgstr ""
 "\n"
 "그가 나중에 그녀의 이름을 언급했던가? 감히 그랬을까? 지금과는 다른 시기였다. 그렇지만 그렇게나 많은 것이 변했을까?\n"
 "\n"
-"—베스콘드 경의 글에서 발췌, 교황의 시대 1:48에 처음으로 글로 쓰여짐\n"
+"—베스콘드 경의 글에서 발췌, 교황의 시대 1:48년에 처음으로 글로 쓰여짐\n"
 "\n"
 "{i}뒷부분에는 편지가 있다.{/i}\n"
 "\n"
@@ -6189,7 +6190,7 @@ msgstr ""
 "귀하의 도움에 깊이 감사하고 있다는 것을 부디 알아주셨으면 합니다. 저희는 언제나 심문회를 생각하고 있다고 자신있게 말씀드리는 바입니다."
 "\n"
 "\n"
-"코린니 디 아메리드 부인"
+"코린 디 아메리드 부인"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[141]/JournalTextData/TextReference
@@ -6204,7 +6205,7 @@ msgstr ""
 "사람이 거의 없을 정도이며, 아메리단의 대의를 위한 공물을 바치는 것은 이미 또 하나의 유행이 되었답니다. 이런 일이 가능하게 만들어주신 "
 "심문회에게 크게 감사드리는 바입니다. 이러한 귀족 가문의 일원이 될 수 있어 영광스럽기 그지없네요.\n"
 "\n"
-"코린느 디 아메리드 부인"
+"코린 디 아메리드 부인"
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[142]/JournalTextData/TextReference
@@ -6386,7 +6387,7 @@ msgstr "심문회 병사들과 함께 하콘의 아귀에 맞서 싸우자."
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:5448
 msgctxt "0x00045cfd"
 msgid "Speak with Lieutenant Farrow at the forward camp."
-msgstr "전방 야영지에 있는 패로우 부관과 대화하자."
+msgstr "전초기지에 있는 패로 부관과 대화하자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[10]/JournalTaskData/TextReference
@@ -6400,7 +6401,7 @@ msgstr "하콘 추종자 야영지를 공격하자."
 #: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml:5552
 msgctxt "0x00045d44"
 msgid "Return to Lieutenant Farrow."
-msgstr "패로우 부관에게 돌아가자."
+msgstr "패로 부관에게 돌아가자."
 
 #. FILE: DA3_DLC1\DesignContent\Journals\DLC1_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[12]/JournalTaskData/TextReference
@@ -7158,7 +7159,7 @@ msgstr ""
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:376
 msgctxt "0x00047a51"
 msgid "The Qunari attacked the Inquisition in the elven mountain ruins and gained access to the Winter Palace using eluvians."
-msgstr "쿠나리들이 엘프 산 폐허에서 심문회를 공격했고 엘루비앙을 통해 겨울 궁전에 침투했다."
+msgstr "쿠나리들이 엘프 산 폐허에서 심문회를 공격했고 엘루비안을 통해 겨울 궁전에 침투했다."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[6]/JournalTextData/TextReference
@@ -7183,7 +7184,7 @@ msgctxt "0x00049225"
 msgid "The Qunari attempted to sneak explosive gaatlok into the Winter Palace during the Exalted Council. It is now clear that Dragon's Breath is an imminent threat that must be stopped. The Viddasala evidently waits on the other end of an eluvian near a bookshelf."
 msgstr ""
 "쿠나리들이 고위 평의회 도중 겨울 궁전에 폭발성 개틀록을 숨겨 들여오려 했다. 이제 용의 숨결은 반드시 막아야 할 위협인 것이 "
-"확실해졌다. 비다살라는 엘루비앙의 너머에 있는 한 책장 근처에서 기다리고 있을 것이다."
+"확실해졌다. 비다살라는 엘루비안의 너머에 있는 한 책장 근처에서 기다리고 있을 것이다."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[9]/JournalTextData/TextReference
@@ -7217,7 +7218,7 @@ msgstr ""
 "네 보고서는 읽었다. 호숫가에 있는 버려진 엘프 탑들에 네 부하들을 주둔시켜라. 할람시랄로 연결되는 거울과 가까운 곳이다. 침투를 마친 "
 "후에 병력이 체재할 곳 또한 필요할 것이다.\n"
 "\n"
-"{i}편지의 밑부분에는 교차로의 지도가 있고, 엘프 폐허의 엘루비앙과 겨울 궁전의 엘루비앙을 잇는 화살표가 그려져 있다.{/i}"
+"{i}편지의 밑부분에는 교차로의 지도가 있고, 엘프 폐허의 엘루비안과 겨울 궁전의 엘루비안을 잇는 화살표가 그려져 있다.{/i}"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[12]/JournalTextData/TextReference
@@ -7477,12 +7478,12 @@ msgid ""
 "\n"
 "And the two of them watched the last of the light disappear together in peace."
 msgstr ""
-"그는 붉은 올레이 포도주를 한 잔 따라, 레이디 마리엘이 앉아서 저 멀리 보이는 가마우지 무리와 꾸벅꾸벅 졸고 있는 마바리를 위해 류트를 "
+"그는 붉은 올레이 포도주를 한 잔 따라, 마리엘 부인이 앉아서 저 멀리 보이는 가마우지 무리와 꾸벅꾸벅 졸고 있는 마바리를 위해 류트를 "
 "연주하고 있는 테라스로 나갔다.\n"
 "\n"
-"도넨이 미소 지으며 잔을 건넸다. \"또 필요하신 게 있으십니까, 레이디?\"\n"
+"도넨이 미소 지으며 잔을 건넸다. \"또 필요하신 게 있으십니까, 부인?\"\n"
 "\n"
-"\"정말 친절하시네요, 위병.\" 마리엘이 류트를 내려두자, 졸린 개가 자장가를 방해받은 것이 짜증난다는듯 위를 올려다보았다.\n"
+"\"정말 친절하시네요, 위병.\" 마리엘이 류트를 내려두자, 졸린 개가 자장가를 방해받은 것이 짜증난다는 듯 위를 올려다보았다.\n"
 "\n"
 "\"요즘엔 그냥 도넨이라고들 부르더이다.\" 그가 파도 너머를 바라보며 대답했다. \"커크월 경비대원으로 지내던 시간은 끝났으니까요.\""
 "\n"
@@ -7490,10 +7491,10 @@ msgstr ""
 "\"그런가요?\" 그녀가 와인잔 너머로 살며시 미소 지었다. \"당신이 술집 이름을 '불침번'이라고 지은 건 커크월에서 경비대원들을 "
 "데리고 오겠다는 뜻 아니었나요? 경비대를 떠났지만 사실은 한 번도 그곳을 떠난 적이 없는 거죠?\"\n"
 "\n"
-"그들 뒤로 해가 지고 있었다. 개는 기지개를 쭉 펴고 탁자로 느긋하게 걸어가 머리를 레이디 마리엘의 무릎에 올려놓고는 탁자 위에 있는 "
-"음식을 달라고 졸랐다. 저 멀리 가마우지 무리가 해안가의 보금자리로 돌아오기 위해 날아올랐다.\n"
+"그들 뒤로 해가 지고 있었다. 개는 기지개를 쭉 펴고 탁자로 느긋하게 걸어가 머리를 마리엘의 무릎에 올려놓고는 탁자 위에 있는 음식을 "
+"달라고 졸랐다. 저 멀리 가마우지 무리가 해안가의 보금자리로 돌아오기 위해 날아올랐다.\n"
 "\n"
-"도넨이 미소지었다. \"당신 말이 맞을지도요. 하지만 오늘 밤만큼은 비번입니다, 레이디.\"\n"
+"도넨이 미소지었다. \"당신 말이 맞을지도요. 하지만 오늘 밤만큼은 비번입니다, 부인.\"\n"
 "\n"
 "\"마리엘이에요.\" 그녀가 정정해주었다. \"그리고 처음 질문에 대답 드리자면, 말동무 하나만 구해 주시면 좋겠네요. 경비대원 한 "
 "명이라면 충분할 것 같아요.\"\n"
@@ -7595,7 +7596,7 @@ msgstr ""
 "\n"
 "그들 뒤쪽으로 해가 좀 더 내려앉자, 바다에서 불어오는 바람이 시원해졌다.\n"
 "\n"
-"\"제가 그리운 게 뭔 지 아십니까?\" 도넨이 말했다. \"아침에 로우타운 상점가에서 풍기던 냄새입니다. 빵 덩어리와 달콤한 파이가 "
+"\"제가 그리운 게 뭔 지 아십니까?\" 도넨이 말했다. \"아침에 로타운 상점가에서 풍기던 냄새입니다. 빵 덩어리와 달콤한 파이가 "
 "오븐에 든 빵집이 수십 개나 있었지요.\"\n"
 "\n"
 "\"그보다 더 나쁜 것도 있소.\" 병사가 웃었다. \" 파이 굽는 냄새보다 고향이 더 기억난다던가 그런 것 말이오.\" 그리고는 다시 "
@@ -7663,7 +7664,7 @@ msgid ""
 "\n"
 "The Dragon's Breath must be complete. Locate and eliminate bas hissra— {i}(this is also crossed out){/i}. Eliminate agents of Fen'Harel. Time runs out."
 msgstr ""
-"{i}이 전언의 절반은 본 적 없는 글자로 쓰여 있다. 아마도 쿠나리어인 듯 하다. 나머지는 공통어이며, 공통어에 서툰 사람이 열심히 쓴 "
+"{i}이 전언의 절반은 본 적 없는 글자로 쓰여 있다. 아마도 쿠나리어인 듯하다. 나머지는 공통어이며, 공통어에 서툰 사람이 열심히 쓴 "
 "것처럼 보인다.{/i}\n"
 "\n"
 "비다타리 키스:\n"
@@ -7733,7 +7734,7 @@ msgstr ""
 "\n"
 "도넨은 자세를 고쳐 앉았다. \"검들도 말입니까?”\n"
 "\n"
-"“자기 이름이 웨그너라고 했어요.” 그녀가 우아하게 차를 한 모금 마셨다. “생각이 바뀌면 참고하라면서 로우타운의 주소를 주더군요. 저 "
+"“자기 이름이 웨그너라고 했어요.” 그녀가 우아하게 차를 한 모금 마셨다. “생각이 바뀌면 참고하라면서 로타운의 주소를 주더군요. 저 "
 "둘은 그 후로 절 계속 미행해 왔고요.”"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
@@ -8079,7 +8080,7 @@ msgstr ""
 "\n"
 "태양은 빛나고, 바닷새들은 꽥꽥거리고, 한 달간 하이타운에서 싱크홀에 가라앉아 하수구로 빠진 건 거의 없었어. 교수대의 붉은 리륨 제거 "
 "작업은 예상보다 수월하게 진행되고 있어. 메레디스가 주춧돌에 달라붙은 채로 모두를 살벌하게 노려보는 광경은 최고의 구경거리였지. 시 "
-"경비대는 마침내 거기서 메레디스를 꺼낸 걸 축하하며 완전히 즉흥적인 가두행진을 벌였고, 몇몇 로우타운 주민들은 \"저주받은 미치광이 "
+"경비대는 마침내 거기서 메레디스를 꺼낸 걸 축하하며 완전히 즉흥적인 가두행진을 벌였고, 몇몇 로타운 주민들은 \"저주받은 미치광이 "
 "성기사를 없애주신 창조주께 감사하노라\" 라는 엄청난 중독성이 있는 가사를 붙여 즉석에서 노래를 작곡하기도 했어. 그럼에도 불구하고, "
 "아니 어쩌면 그 때문인지, 사실 대부분은 음정으로 욕을 하고 있었지만 말이야.\n"
 "\n"
@@ -8338,7 +8339,7 @@ msgctxt "0x00048f39"
 msgid "{i}The writing on these pages is completely incomprehensible, even to a native speaker of Qunlat. The handwriting resembles the scratches of an inebriated chicken, but the drawings are meticulous: an excruciatingly careful study of several eluvians, along with exploded diagrams of their inner workings.{/i}"
 msgstr ""
 "{i}이 페이지에 적힌 글귀는 전혀 이해할 수 없다. 심지어 쿠나리어가 모국어인 사람에게도 마찬가지다. 글씨체는 마치 술 취한 닭이 "
-"써갈긴 것 같지만, 그림은 매우 섬세하다. 몇 개의 엘루비앙과 그들에 대한 연구가 그려져 있고, 엘루비앙 내부를 그린 놀랄 만큼 자세한 "
+"써갈긴 것 같지만, 그림은 매우 섬세하다. 몇 개의 엘루비안과 그들에 대한 연구가 그려져 있고, 엘루비안 내부를 그린 놀랄 만큼 자세한 "
 "도표도 함께 있다.{/i}"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
@@ -8437,7 +8438,7 @@ msgid ""
 msgstr ""
 "{i}첫 부분의 잉크가 벌써 바래기 시작한 것으로 보아, 여러 날에 걸쳐 몇 줄씩 쓰여진 편지다.{/i}\n"
 "\n"
-"탈리스라 불리는 엘프에게,\n"
+"탈리스인 엘프에게,\n"
 "\n"
 "쿤의 다른 자들을 가르치는 것은 더 이상 나의 역할이 아니지만, 그것이 네게 평화를 가져다준다면 가르쳐 줄 수 있는 건 가르쳐 주겠다.\n"
 "\n"
@@ -8662,7 +8663,7 @@ msgstr ""
 "이런 추측들은 한 장군에게 전해진 반쯤 작성된 편지와 아메리단과 황제가 참석했던 한 만찬회의 참석객 목록에서 기인한다. 그러나 다른 "
 "증거가 있었다고 해도, 지금쯤 먼지가 되었을 것이다. 그렇기에 학자들은 이 이론에 크게 중요성을 두지 않는다.\n"
 "\n"
-"—르노레스 경 저, {i}올레이의 가장 완벽하고 흥미로운 역사에 관한 짧은 입문서{/i}에서 발췌, 용의 시대 9:35에 출간됨"
+"—르노레스 경 저, {i}올레이의 가장 완벽하고 흥미로운 역사에 관한 짧은 입문서{/i}에서 발췌, 용의 시대 9:35년에 출간됨"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[72]/JournalTextData/TextReference
@@ -9068,7 +9069,7 @@ msgstr ""
 "{i}수치의 밤:{/i} 초콜릿의 쓴맛 조금과 오렌지향의 킥이 들어간, 이곳에서 가장 달콤한 안티바 음료. 차갑게 식힌 세로산 유리잔에 "
 "제공됩니다.\n"
 "\n"
-"{i}난잡한 미망인:{/i} 올레이에서 가장 악명 높은 계간지의 편집자 본인이 직접 만들었다고 전해집니다. 긴 잔 안에 심연 복숭아 "
+"{i}음탕한 귀부인:{/i} 올레이에서 가장 악명 높은 계간지의 편집자 본인이 직접 만들었다고 전해집니다. 긴 잔 안에 심연 복숭아 "
 "리큐르를 넣고 신선한 크림과 장미 설탕절임을 얹은 뒤, 비단 손수건 위에 서빙됩니다. 손수건에는 바텐더가 직접 남사스러운 2행시를 적어 "
 "드립니다."
 
@@ -9513,7 +9514,7 @@ msgid ""
 "- Rainier hugs harder than Blackwall. Still beardy."
 msgstr ""
 "{blank}\n"
-"레니어는 블랙월보다 더 세게 안아줌. 여전히 수염투성이."
+"레니에는 블랙월보다 더 세게 안아줌. 여전히 수염투성이."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[114]/JournalTextData/TextReference
@@ -9659,7 +9660,7 @@ msgid ""
 "- Hard to get the beard-arms right."
 msgstr ""
 "{blank}\n"
-"- 레니어랑 {spHeroName}가 드디어 제대로 사귄대! 그래도 되지!\n"
+"- 레니에랑 {spHeroName}가 드디어 제대로 사귄대! 그래도 되지!\n"
 "\n"
 "{i}(헬멧을 쓰고 칼을 들고 있는 용감해 보이는 턱수염의 그림. 화살표로 가리켜 놓고 \"진짜\" 라고 적어 놓았다.){/i}\n"
 "\n"
@@ -10335,10 +10336,10 @@ msgstr ""
 "\n"
 "나이팅게일님께:\n"
 "\n"
-"“블랙월 감시자”는 알고 보니 전혀 블랙월이 아니었습니다. 토마스 레니어, 흔히 톰 레니어라 불리는 자였습니다. 한 때 올레이 군의 "
+"“블랙월 감시자”는 알고 보니 전혀 블랙월이 아니었습니다. 토마스 레니에, 흔히 톰 레니에라 불리는 자였습니다. 한 때 올레이 군의 "
 "지휘관이었는데, 알 수 없는 이유로 선량한 감시자 행세를 하며 모두를 속였습니다. 다른 감시자도 속아넘어간 것 같습니다.\n"
 "\n"
-"이 톰 레니어라는 자는 우리가 코리피우스를 물리치고 6개월쯤 후에 올레이 당국에 오래 전의 범죄로 자수했습니다. 그 후로는 아무도 본 "
+"이 톰 레니에라는 자는 우리가 코리피우스를 물리치고 6개월쯤 후에 올레이 당국에 오래 전의 범죄로 자수했습니다. 그 후로는 아무도 본 "
 "사람이 없다 합니다.\n"
 "\n"
 "배릭이 늘 말하듯이, “이런 건 지어내지도 못합니다.”\n"
@@ -10383,7 +10384,7 @@ msgstr ""
 "이제 이번 달 안으로 돌아가겠소. 나에게 시간을 주어 감사하오. 심문관. \n"
 "\n"
 "감사하오.\n"
-"톰 레니어 드림"
+"톰 레니에 드림"
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[166]/JournalTextData/TextReference
@@ -10406,7 +10407,7 @@ msgid ""
 msgstr ""
 "{i}심문회 서류들 중 발견된, 회색 감시자들의 봉인이 찍힌 보고서에서 발췌된 항목:{/i}\n"
 "\n"
-"톰 레니어\n"
+"톰 레니에\n"
 "\n"
 "- 대무술대회 참가\n"
 "- 전 올레이 육군 대위\n"
@@ -10455,7 +10456,7 @@ msgstr ""
 "\n"
 "{i}컬렌의 자필 메모가 이어진다:{/i}\n"
 "\n"
-"너무 오랫동안 끌었던 것 같습니다. 레니어를 넘기고 이 일에서 손을 떼기로 하죠."
+"너무 오랫동안 끌었던 것 같습니다. 레니에를 넘기고 이 일에서 손을 떼기로 하죠."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[168]/JournalTextData/TextReference
@@ -10695,7 +10696,7 @@ msgid ""
 "Warmest regards,\n"
 "Yoan"
 msgstr ""
-"{i}이 보내지 않은 편지에는 용의 시대 9:41, 대균열이 열리기 한 달 전의 날짜가 쓰여 있다.{/i}\n"
+"{i}이 보내지 않은 편지에는 용의 시대 9:41년, 대균열이 열리기 한 달 전의 날짜가 쓰여 있다.{/i}\n"
 "\n"
 "마르셀,\n"
 "\n"
@@ -10866,7 +10867,7 @@ msgstr ""
 "심문관,\n"
 "\n"
 "안티바의 항구를 모두 조사했습니다. 영계의 에너지나 악마는 심문관께서 지난 봄 균열을 닫으신 이후 찾아볼 수 없었습니다. 우리 마법사들은 "
-"이 지역의 장막이 안정화되었다고 생각하고 있습니다. 일단은 그렇습니다. 하지만 아무리 얘기해도 왕가 상인들은 듣지를 않는군요. 창조주께서 "
+"이 지역의 장막이 안정화되었다고 생각하고 있습니다. 일단은 그렇습니다. 하지만 아무리 얘기해도 대상인들은 듣지를 않는군요. 창조주께서 "
 "직접 행차라도 하셔야 들을 기세입니다.\n"
 "\n"
 "이제 모든 균열이 봉인됐군요. 정말이지 꿈만 같습니다. 이제는 뭘 해야 할지 감도 오지 않습니다.\n"
@@ -10957,7 +10958,7 @@ msgstr ""
 "도둑놈만 포식한다며 찔리는 구석 없으면 여서 쉬어가라고 했수다. 웬 엘프였는데, 날 구해주면서 저도 자기 종족의 마지막 생존자라 "
 "하더이다. 마지막 엘프라니, 남쪽 어드메에 아직 엘프가 산다는 걸 누가 모르오리까? 엘프 양반한테 그게 무슨 소리냐 물었더니, 그쪽 "
 "엘프들은 과거의 영광이 빛바랐다나 뭐라나. 아니라고, 나가 거기 사는 엘프들을 똑똑히 봤다고 맹세를 해도, 나가 농담하는 줄 알더이다. "
-"날이 저물고 나서는 어디서 났는지 수상쩍은 거울을 내게 보이면서 자기 가문의 유산이라고 하는데, 이름이 \"엘루비앙\"이라나 뭐라나..."
+"날이 저물고 나서는 어디서 났는지 수상쩍은 거울을 내게 보이면서 자기 가문의 유산이라고 하는데, 이름이 \"엘루비안\"이라나 뭐라나..."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[192]/JournalTextData/TextReference
@@ -11038,7 +11039,7 @@ msgstr ""
 "렌: 이 불가사의한 도둑은 술집에서 노래를 부르곤 했습니다. 부자들의 물건을 교묘하게 챙기면서 말이죠. 많은 이들이 이 작고 나쁜 남자와 "
 "사랑에 빠졌지만, 렌은 어둠 속에서 사악한 인물과 위험한 계약을 맺었습니다.\n"
 "\n"
-"랭커스터 말로우: 처음으로 세상을 여행하는 괴짜 천재 마법사. 말로우는 권력에 대한 야망을 불태우고, 묘한 능력으로 언제나 그의 새로운 "
+"랭커스터 말로: 처음으로 세상을 여행하는 괴짜 천재 마법사. 말로는 권력에 대한 야망을 불태우고, 묘한 능력으로 언제나 그의 새로운 "
 "친구들을 위험에 빠뜨립니다!\n"
 "\n"
 "엘레나 브라이트스톤: 불가사의한 저주에 걸린 평민 출신의 기사, 이상주의적인 브라이트스톤은 그녀가 아끼는 모든 것을 파멸시킬지도 모르는 "
@@ -11104,8 +11105,8 @@ msgstr ""
 "배릭 테트라스 지음\n"
 "\n"
 "도넨은 웨그너와 그의 부하들에 대한 뒷처리는 경비대장과 커크월 최고의 경비병들에게 맡기고 자리를 떠났다. 무거웠던 공기가 못이기고 비를 "
-"퍼붓기 시작했다. 로우타운으로 이어진 오래된 회색 돌 계단은 물폭포로 바뀌었다. 도넨은 힘들게 좁은 길목에 있는 계단을 올라갔다. 한 "
-"걸음 내딛을 때마다 부츠가 철벅거렸다. \n"
+"퍼붓기 시작했다. 로타운으로 이어진 오래된 회색 돌 계단은 물폭포로 바뀌었다. 도넨은 힘들게 좁은 길목에 있는 계단을 올라갔다. 한 걸음 "
+"내딛을 때마다 부츠가 철벅거렸다. \n"
 "\n"
 "도넨은 누군가 매복한 채 자신에게 다가오는 소리를 전혀 듣지 못했다.\n"
 "\n"
@@ -11369,9 +11370,9 @@ msgid ""
 msgstr ""
 "배릭 테트라스 지음.\n"
 "\n"
-"사람들은 로우타운 시장에서 살 수 없는 게 없다고 말한다. 거의 맞는 말이다. 하지만 운이 좋은 날엔, 매점원들이 세헤론산 향료, 무명 "
+"사람들은 로타운 시장에서 살 수 없는 게 없다고 말한다. 거의 맞는 말이다. 하지만 운이 좋은 날엔, 매점원들이 세헤론산 향료, 무명 "
 "드워프 파라곤의 유산, 도나크스의 숨겨진 요새 지도, 그리고 보석이 박힌 안티바 왕관을 외치며 호객하는 모습을 볼 수 있다. 그리고 "
-"테다스 대륙의 그 어떤 책방도 로우타운보다 생생한 이야기들을 거래하고 있지 않다. \n"
+"테다스 대륙의 그 어떤 책방도 로타운보다 생생한 이야기들을 거래하고 있지 않다. \n"
 "\n"
 "도넨 브레노코빅은 일부러 상점 주인 한 명 한 명과 인사를 나누며 길을 지났다. 그래야 사람들이 계속 노래하듯 “위병”을 입에 담을 "
 "테고, 하이타운에서 마리엘 부인과 헤어진 후에도 여전히 따라붙고 있는 두 명의 덩치 큰 남자들의 귀에도 들릴 테니까. \n"
@@ -11803,7 +11804,7 @@ msgid ""
 msgstr ""
 "배릭 테트라스 지음\n"
 "\n"
-"하이타운의 귀족들은 빈민가의 축축하고 어두운 곳 혹은 로우타운의 가난하고 소외된 동네에 있는 구불구불한 뒷골목에서나 경범죄가 일어난다고 "
+"하이타운의 귀족들은 빈민가의 축축하고 어두운 곳 혹은 로타운의 가난하고 소외된 동네에 있는 구불구불한 뒷골목에서나 경범죄가 일어난다고 "
 "믿는다. 그들의 고상하고, 담쟁이 넝쿨로 가득한 도로가 그런 야만적인 강도나 폭행의 현장이 될 수 있을 거라고는 절대 생각하지 못한다.\n"
 "\n"
 "인적이 뜸한 챈트리 근처의 구석 장소를 어렵지 않게 찾아낸 도넨은 흉터진 얼굴의 앤더펄스인과 문신을 한 체이신드가 자신을 따라잡을 수 "
@@ -11824,7 +11825,7 @@ msgstr ""
 "\n"
 "해는 지기 시작했고, 도넨이 갈 곳은 정해져 있었다.\n"
 "\n"
-" 로우타운 가운데 위치한 술집은 외벽이 수로로 둘러싸여 있었는데, 수로는 엎질러진 술, 구토, 그리고 주인이 혹시나 건물 벽에 점철된 "
+" 로타운 가운데 위치한 술집은 외벽이 수로로 둘러싸여 있었는데, 수로는 엎질러진 술, 구토, 그리고 주인이 혹시나 건물 벽에 점철된 "
 "갈매기 배설물이 씻어질까 싶어 뿌린 바닷물로 차 있었다. 매달린 남자 술집에 들러 술을 마시는 다른 모든 위병들과 마찬가지로 도넨 역시 "
 "술집 문을 열고 들어가자 “빨리 숨겨, 빨리!” 라는 다급한 외침들이 그를 반겼다. 웃지 않으려고 노력하는 도넨을 백발의 우울한 엘프 "
 "바텐더가 죽일 듯이 노려보며 맞이했다. “왔나, 위병.”\n"
@@ -11967,7 +11968,7 @@ msgid ""
 msgstr ""
 "배릭 테트라스 지음.\n"
 "\n"
-"하이타운까지 길게 이어진 경사 길로 들어서기 전, 도넨은 로우타운 시장에서 만난 꼬마 엘프 여자아이의 배달부 역할 놀이에 어울려주기 위해 "
+"하이타운까지 길게 이어진 경사 길로 들어서기 전, 도넨은 로타운 시장에서 만난 꼬마 엘프 여자아이의 배달부 역할 놀이에 어울려주기 위해 "
 "잠시 길을 멈췄다. 조심스럽게 주위를 살펴보니 얼굴에 흉터가 있는 앤더펄스인과 문신한 체이신드가 여전히 그를 미행하고 있었다.\n"
 "\n"
 "도넨은 그들이 자작의 성을 보면 분명 아주 마음에 들어할 것 같다는 생각이 들었다.\n"
@@ -12000,7 +12001,7 @@ msgid ""
 "Recommended Levels: 20 or higher"
 msgstr ""
 "<font color=\"#FF0000\">주의: 이 임무가 시작되면 다른 모든 지역과 임무를 더 이상 진행할 수 없게 되며, "
-"코리피우스가 죽고 난 뒤 2년이 흐른 9:44 용의 시대로 시간적 배경이 옮겨집니다. 이 임무를 시작하면 이전으로 되돌릴 수 "
+"코리피우스가 죽고 난 뒤 2년이 흐른 용의 시대 9:44년으로 시간적 배경이 옮겨집니다. 이 임무를 시작하면 이전으로 되돌릴 수 "
 "없습니다.</font>\n"
 "\n"
 "코리피우스가 죽고 영계 균열과 악마의 위협이 줄어들자, 올레이와 페렐던은 심문회의 미래에 대해 의문을 제기하기 시작했다. 빅토리아 교황은 "
@@ -12086,7 +12087,7 @@ msgstr "무거운 조각상을 다리에 돌려놓자."
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:10164
 msgctxt "0x0004ab9b"
 msgid "Use the eluvians to find a way to the island."
-msgstr "엘루비앙을 이용하여 섬으로 들어가자."
+msgstr "엘루비안을 이용하여 섬으로 들어가자."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[11]/JournalTaskData/TextReference
@@ -12107,7 +12108,7 @@ msgstr "겨울 궁전에 있는 렐리아나에게 소식을 전하자."
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:10317
 msgctxt "0x0004922b"
 msgid "Pursue the Qunari through the eluvian."
-msgstr "엘루비앙을 이용하여 쿠나리를 추적하자."
+msgstr "엘루비안을 이용하여 쿠나리를 추적하자."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[14]/JournalTaskData/TextReference
@@ -12184,7 +12185,7 @@ msgstr "뒤집힌 섬에 있는 비다살라에게로 향하자."
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:10886
 msgctxt "0x00049255"
 msgid "Look for the Viddasala through an eluvian near a bookshelf."
-msgstr "책장 근처에 있는 엘루비앙으로 비다살라를 찾자."
+msgstr "책장 근처에 있는 엘루비안으로 비다살라를 찾자."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[25]/JournalTaskData/TextReference
@@ -12240,7 +12241,7 @@ msgstr "용을 죽이자."
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:11334
 msgctxt "0x00049223"
 msgid "Use the keystone to activate the eluvian leading to the Darvaarad."
-msgstr "쐐기돌을 사용하여 다르바라드로 향하는 엘루비앙을 활성화하자."
+msgstr "쐐기돌을 사용하여 다르바라드로 향하는 엘루비안을 활성화하자."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[33]/JournalTaskData/TextReference
@@ -12261,7 +12262,7 @@ msgstr "사아르아스와 싸우자."
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:11508
 msgctxt "0x0004a70d"
 msgid "Find the eluvian that leads forward."
-msgstr "앞쪽으로 연결되는 엘루비앙을 찾자."
+msgstr "앞쪽으로 연결되는 엘루비안을 찾자."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[36]/JournalTaskData/TextReference
@@ -12282,7 +12283,7 @@ msgstr "표식을 사용하여 사아르아스를 물리치자."
 #: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml:11661
 msgctxt "0x0004a709"
 msgid "Exit through the eluvian."
-msgstr "엘루비앙으로 나가자."
+msgstr "엘루비안으로 나가자."
 
 #. FILE: da3_dlc_blue\designcontent\Journals\DLCBlue_JournalSystem.xml
 #. PATH: JournalSystem/ProgressiveTaskData/member[1]/ProgressiveTaskData/TextReference
@@ -12489,8 +12490,8 @@ msgstr "오자마르에서 긴급히 심문회의 도움을 요청했다. 작전
 msgctxt "0x00049c72"
 msgid "Another rune-warded gate was discovered in the ruins of Heidrun Thaig. Like the first, it can only be repaired with ancient gears left strewn about. The way forward is through this gate, so it must be opened to continue."
 msgstr ""
-"룬이 새겨진 또 다른 관문이 헤이드룬 타이그의 폐허에서 발견됐다. 이전 것처럼 여기저기 흩어져 있는 고대 톱니바퀴로만 수리할 수 있다. "
-"길이 이 관문 너머로 통하기 때문에, 계속 나아가기 위해선 관문을 열어야만 한다."
+"룬이 새겨진 또 다른 관문이 헤이드룬 타이그의 폐허에서 발견됐다. 이전 것처럼 여기저기 흩어진 고대 톱니바퀴로만 수리할 수 있다. 길이 "
+"이 관문 너머로 통하기 때문에, 계속 나아가기 위해선 관문을 열어야만 한다."
 
 #. FILE: da3_dlc_red\DesignContent\Journals\JournalSystem\DLC_Red_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[13]/JournalTextData/TextReference
@@ -14341,15 +14342,15 @@ msgstr ""
 msgctxt "0x0004a997"
 msgid "The Inquisition has identified a location near the Buried Sea in the Bastion of the Pure that is ripe for exploration. A construction team could build a bridge that grants access to a rocky spire standing out in the water."
 msgstr ""
-"심문회가 순수의 요새에 있는 매장된 바다 부근에서 탐험할 만한 곳을 발견했다. 건설 인부들을 보내 물 위로 솟아 있는 바위탑에 접근할 수 "
-"있도록 다리를 건설할 수 있다."
+"심문회가 순수의 요새에 있는 가라앉은 바다 부근에서 탐험할 만한 곳을 발견했다. 건설 인부들을 보내 물 위로 솟아 있는 바위탑에 접근할 "
+"수 있도록 다리를 건설할 수 있다."
 
 #. FILE: da3_dlc_red\DesignContent\Journals\JournalSystem\DLC_Red_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[124]/JournalTextData/TextReference
 #: da3_dlc_red\DesignContent\Journals\JournalSystem\DLC_Red_JournalSystem.xml:3015
 msgctxt "0x0004a993"
 msgid "The construction team has built a bridge that grants access to a rocky spire standing out in the Buried Sea on the bottom level of the Bastion of the Pure."
-msgstr "건설 인부들이 순수의 요새 맨 아래층에 있는 매장된 바다에 우뚝 솟아있는 바위 탑에 접근할 수 있도록 다리를 완공했다."
+msgstr "건설 인부들이 순수의 요새 맨 아래층에 있는 가라앉은 바다에 우뚝 솟아있는 바위 탑에 접근할 수 있도록 다리를 완공했다."
 
 #. FILE: da3_dlc_red\DesignContent\Journals\JournalSystem\DLC_Red_JournalSystem.xml
 #. PATH: JournalSystem/JournalTextData/member[125]/JournalTextData/TextReference
@@ -14901,7 +14902,7 @@ msgstr "보상을 받자."
 #: da3_dlc_red\DesignContent\Journals\JournalSystem\DLC_Red_JournalSystem.xml:9360
 msgctxt "0x0004aa8e"
 msgid "Complete Legion of the Dead Base Camp Improvements at the expedition table."
-msgstr "원정 지도에서 망자의 군단 전초기지 개선을 완료하자."
+msgstr "원정 지도에서 망자의 군단 주둔기지 개선을 완료하자."
 
 #. FILE: da3_dlc_red\DesignContent\Journals\JournalSystem\DLC_Red_JournalSystem.xml
 #. PATH: JournalSystem/JournalTaskData/member[95]/JournalTaskData/TextReference
@@ -15064,7 +15065,7 @@ msgstr "처치한 암흑피조물"
 #: da3_dlc_red\DesignContent\Journals\JournalSystem\DLC_Red_JournalSystem.xml:11535
 msgctxt "0x0004a40b"
 msgid "Lyrium charges activated"
-msgstr "활성화된 리륨 충전"
+msgstr "작동시킨 리륨 폭발물"
 
 #. FILE: da3_dlc_red\DesignContent\Journals\JournalSystem\DLC_Red_JournalSystem.xml
 #. PATH: JournalSystem/ProgressiveTaskData/member[4]/ProgressiveTaskData/TextReference

@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-13 07:55+0000\n"
-"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
+"PO-Revision-Date: 2021-03-14 13:56+0000\n"
+"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/codex/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -295,7 +295,7 @@ msgstr "페렐던의 영웅에게서 온 편지"
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_cre_envy.xml:30
 msgctxt "0x00041a6a"
 msgid "Envy"
-msgstr "질투"
+msgstr "시기"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_cre_nightmare.xml
 #. PATH: CodexEntry/TitleReference
@@ -484,7 +484,7 @@ msgstr "거대 거미"
 #: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_great_bear.xml:30
 msgctxt "0x00041b2c"
 msgid "Great Bear"
-msgstr "거대한 곰"
+msgstr "큰곰"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Creatures\cod_creature_guardsman.xml
 #. PATH: CodexCollectableEntry/TitleReference
@@ -848,7 +848,7 @@ msgstr "엘프 파수대"
 #: DA3\DesignContent\Codex\Lore\Groups\cod_group_tal_vashoth.xml:30
 msgctxt "0x00041862"
 msgid "Tal-Vashoth"
-msgstr "탈바쇼스"
+msgstr "탈 바쇼스"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Groups\cod_group_templars_now.xml
 #. PATH: CodexEntry/TitleReference
@@ -1317,7 +1317,7 @@ msgstr "드워프 룬세공"
 #: DA3\DesignContent\Codex\Lore\Magic\cod_mag_eluvian.xml:30
 msgctxt "0x000417b9"
 msgid "Eluvians"
-msgstr "엘루비앙"
+msgstr "엘루비안"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Magic\cod_mag_lyrium_addiction.xml
 #. PATH: CodexEntry/TitleReference
@@ -1639,7 +1639,7 @@ msgstr "재발견된 성스러운 재의 성전"
 #: DA3\DesignContent\Codex\Lore\Places\cod_place_temple_of_mythal.xml:30
 msgctxt "0x00041924"
 msgid "The Temple of Mythal"
-msgstr "미쌀의 신전"
+msgstr "미쌀의 사원"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Places\cod_place_tevinter.xml
 #. PATH: CodexEntry/TitleReference
@@ -2710,14 +2710,14 @@ msgstr "말리펀트에게 보내는 편지"
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\DesertersVilla\td_deserters_FamilyDiaries.xml:13
 msgctxt "0x0002d272"
 msgid "Lady Maurel's Diary"
-msgstr "마우렐 부인의 일지"
+msgstr "모렐 부인의 일지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\DesertersVilla\td_deserters_FamilyDiaries_2.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\DesertersVilla\td_deserters_FamilyDiaries_2.xml:13
 msgctxt "0x0004223e"
 msgid "Pages from Lord Maurel's Journal"
-msgstr "마우렐 경의 일지 중 일부"
+msgstr "모렐 경의 일지 중 일부"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\DesertersVilla\td_deserters_Maliphant.xml
 #. PATH: CodexEntry/TitleReference
@@ -2941,7 +2941,7 @@ msgstr "연인의 약속"
 #: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_fst_wild_august_orders.xml:13
 msgctxt "0x00037a12"
 msgid "Ser Auguste's Messages"
-msgstr "아우구스트 경의 전언"
+msgstr "오귀스트 경의 전언"
 
 #. FILE: DA3\DesignContent\Codex\Plot\EmeraldGraves\dal_fst_wild_brigand_noble_01.xml
 #. PATH: CodexEntry/TitleReference
@@ -3641,7 +3641,7 @@ msgstr "아버지의 인도"
 #: DA3\DesignContent\Codex\Plot\Global\Astrarium\cod_lor_astrarium.xml:30
 msgctxt "0x00042418"
 msgid "Astrariums"
-msgstr "천체 투영관"
+msgstr "천체 투영기"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Global\Astrarium\cod_lor_astrarium_01.xml
 #. PATH: CodexEntry/TitleReference
@@ -3886,7 +3886,7 @@ msgstr "매장지 무덤의 스케치"
 #: DA3\DesignContent\Codex\Plot\Global\TreasureMaps\cod_DesertRuins_TreasureMap_Mountain.xml:30
 msgctxt "0x000254e5"
 msgid "Sketch of Sunstop Mountain Tomb"
-msgstr "태양이 멈추는 산 무덤의 스케치"
+msgstr "태양멎이 산 무덤의 스케치"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Global\TreasureMaps\cod_DesertRuins_TreasureMap_Statue.xml
 #. PATH: CodexPuzzle/TitleReference
@@ -4691,7 +4691,7 @@ msgstr "세린팔에서 얻은 쪽지와 편지들"
 #: DA3\DesignContent\Codex\Plot\SeekerFortress\cod_see_nightmare_collection.xml:13
 msgctxt "0x00032462"
 msgid "Envy's Dogma"
-msgstr "질투의 신조"
+msgstr "시기의 신조"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_bardsong_empress.xml
 #. PATH: CodexEntry/TitleReference
@@ -4873,7 +4873,7 @@ msgstr "모든 전쟁의 여인들"
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_letter_home_01.xml:13
 msgctxt "0x00042cc8"
 msgid "The Stable Boy's Letters"
-msgstr "마굿간지기 소년의 편지들"
+msgstr "마구간지기 소년의 편지들"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_letter_home_02.xml
 #. PATH: CodexEntry/TitleReference
@@ -4999,7 +4999,7 @@ msgstr "암살자의 길"
 #: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_specialization_champion.xml:13
 msgctxt "0x00043047"
 msgid "Way of the Champion"
-msgstr "챔피언의 길"
+msgstr "용사의 길"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Skyhold\cod_sky_specialization_knight_enchanter.xml
 #. PATH: CodexEntry/TitleReference
@@ -5713,7 +5713,7 @@ msgstr "폐하를 위하여"
 #: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_hidden_book.xml:13
 msgctxt "0x0004279e"
 msgid "The Randy Dowager Quarterly"
-msgstr "난잡한 미망인의 계간지"
+msgstr "음탕한 귀부인의 계간지"
 
 #. FILE: DA3\DesignContent\Codex\Plot\ValRoyeaux\cod_val_lovers_alcove.xml
 #. PATH: CodexEntry/TitleReference
@@ -6987,7 +6987,7 @@ msgstr "용숨결 계획"
 #: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_eluvian_studies.xml:13
 msgctxt "0x00048f3a"
 msgid "Eluvian Studies"
-msgstr "엘루비앙에 대한 연구"
+msgstr "엘루비안에 대한 연구"
 
 #. FILE: da3_dlc_blue\designcontent\Codex\Qunari\dlcend_QunDng_factory.xml
 #. PATH: CodexEntry/TitleReference

@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-13 07:57+0000\n"
-"Last-Translator: Minjun Kim <yyuj1005@naver.com>\n"
+"PO-Revision-Date: 2021-03-14 13:56+0000\n"
+"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
 "Language: ko\n"
@@ -1116,14 +1116,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_GreatBear.xml:6
 msgctxt "0x00024b0b"
 msgid "Masterwork Great Bear Hide"
-msgstr "명품 거대한 곰 가죽"
+msgstr "명품 큰곰 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_GreatBear_2.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
 #: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_GreatBear_2.xml:6
 msgctxt "0x000448a0"
 msgid "Fade-Touched Great Bear Hide"
-msgstr "영계에 물든 거대한 곰 가죽"
+msgstr "영계에 물든 큰곰 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Leather\crafting_masterwork_GreatBear_2.xml
 #. PATH: RecipeMasterworkItemAsset/Description
@@ -2365,7 +2365,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Masterwork\Unique\crafting_masterwork_GreatBearClaws.xml:6
 msgctxt "0x00024fd2"
 msgid "Great Bear Claws"
-msgstr "거대한 곰 발톱"
+msgstr "큰곰 발톱"
 
 #. FILE: DA3\Equipment\Crafting\Masterwork\Unique\crafting_masterwork_HallaHorns.xml
 #. PATH: RecipeMasterworkItemAsset/DisplayName
@@ -3375,7 +3375,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Great_Bear_Fur.xml:6
 msgctxt "0x0001faa5"
 msgid "Great Bear Hide"
-msgstr "거대한 곰 가죽"
+msgstr "큰곰 가죽"
 
 #. FILE: DA3\Equipment\Crafting\Materials\Leather\recipe_material_Great_Bear_Fur.xml
 #. PATH: RecipeMaterial/Description
@@ -8598,7 +8598,7 @@ msgstr "페렐던 짐마차"
 msgctxt "0x0003b4ec"
 msgid "There is a growing need for covered wagons to transport goods back to the Inquisition. The quartermaster is requesting assistance. {string}277940{/string}"
 msgstr ""
-"병참장교가 도움을 청해왔다. 심문회로 물품을 조달하기 위한 짐마차가 더 필요하다고 한다. {string}277940{/string}"
+"병참 장교가 도움을 청해왔다. 심문회로 물품을 조달하기 위한 짐마차가 더 필요하다고 한다. {string}277940{/string}"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Special\recipe_Crestwood_GeoSurvey_01.xml
 #. PATH: Recipe/DisplayName
@@ -8714,8 +8714,8 @@ msgstr "두꺼운 외투"
 msgctxt "0x0003da89"
 msgid "Inquisition forces are ill-equipped for the mountain. The quartermaster is requesting materials to craft additional heavy coats for their use. {string}277941{/string}"
 msgstr ""
-"심문회 병력들의 장비 상태가 산악지대에서 활동하기에 썩 좋지 못하다. 병참장교가 병사들이 껴입을 두꺼운 외투를 보급하기 위해 재료 조달을 "
-"요청했다. {string}277941{/string}"
+"심문회 병력들의 장비 상태가 산악지대에서 활동하기에 썩 좋지 못하다. 병참 장교가 병사들이 껴입을 두꺼운 외투를 보급하기 위해 재료 "
+"조달을 요청했다. {string}277941{/string}"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Special\recipe_Dales_Forest_Geo_Survey_01.xml
 #. PATH: Recipe/DisplayName
@@ -9163,7 +9163,7 @@ msgstr ""
 #: DA3\Equipment\Crafting\Recipes\Special\recipe_Standard.xml:6
 msgctxt "0x00040d7c"
 msgid "Champion's Standard"
-msgstr "챔피언의 상징"
+msgstr "용사의 상징"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Special\recipe_Standard.xml
 #. PATH: Recipe/Description
@@ -9423,14 +9423,14 @@ msgstr ""
 #: DA3\Equipment\Crafting\Recipes\Special\recipe_courtyard_upgrade.xml:6
 msgctxt "0x0002bf40"
 msgid "Courtyard Upgrade"
-msgstr "안뜰마당 강화"
+msgstr "안마당 강화"
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Special\recipe_courtyard_upgrade.xml
 #. PATH: Recipe/Description
 #: DA3\Equipment\Crafting\Recipes\Special\recipe_courtyard_upgrade.xml:11
 msgctxt "0x0002bf61"
 msgid "Upgrade the courtyard to cosmetically reflect the Inquisition's focus. Invest here to select between infirmary space or sparring grounds. "
-msgstr "심문회의 주된 관심사를 반영할 수 있도록 안뜰마당을 개선한다. 여기에 투자하면 치료소와 대련장 중 하나를 고를 수 있다. "
+msgstr "심문회의 주된 관심사를 반영할 수 있도록 안마당을 개선한다. 여기에 투자하면 치료소와 대련장 중 하나를 고를 수 있다. "
 
 #. FILE: DA3\Equipment\Crafting\Recipes\Special\recipe_ferelden_trebuchet.xml
 #. PATH: Recipe/DisplayName
@@ -12715,7 +12715,7 @@ msgstr "태양 연고 "
 msgctxt "0x00041317"
 msgid "The Inquisition's quartermaster is reporting that supplies of sun ointment are rapidly dwindling. Materials available in the Hissing Waste can be helpful in crafting more. {string}277941{/string}"
 msgstr ""
-"심문회 병참장교가 태양 연고 재고가 빠른 속도로 줄어들고 있다고 보고했다. 칼바람 황무지에서 나오는 재료들이 제작에 큰 도움이 될 "
+"심문회 병참 장교가 태양 연고 재고가 빠른 속도로 줄어들고 있다고 보고했다. 칼바람 황무지에서 나오는 재료들이 제작에 큰 도움이 될 "
 "것이다. {string}277941{/string}"
 
 #. FILE: DA3\Equipment\Crafting\equip_template_Desert_Ruins_Wildlife_Guide.xml
@@ -15759,7 +15759,7 @@ msgctxt "0x00042269"
 msgid "Dating back to the period of the elven Dales, when the Keepers were not leaders and guides for individual clans but rather priests who served as archivists and magical scholars, these robes belonged to the High Keeper for the largest temple of old Halamshiral, dedicated to Elgar'nan the All-Father and Eldest of the Sun."
 msgstr ""
 "엘프의 데일스 왕국이 온존하던 시절, 수호자들이 개별 부족의 지도자이자 인도자 역할 대신, 기록을 보존하고 마법을 연구하는 사제 노릇을 "
-"하던 때, 이 로브는 옛 할람시랄에서 가장 큰 사원, 만물의 아버지이자 태양의 장자인 엘가르난에게 바쳐진 신전을 관리하는 고위 수호자의 "
+"하던 때, 이 로브는 옛 할람시랄에서 가장 큰 사원, 만물의 아버지이자 태양의 장자인 엘가르난에게 바쳐진 사원을 관리하는 고위 수호자의 "
 "소유였다."
 
 #. FILE: DA3\Equipment\Items\Armors\Light\equip_armor_light_1p_human_adventurer.xml
@@ -19404,7 +19404,7 @@ msgstr "치장된 목걸이"
 #: DA3\Equipment\Items\Valuables\Tier3\valuable_Engraved_Locket.xml:6
 msgctxt "0x00021c97"
 msgid "Engraved Locket"
-msgstr "글귀가 새겨진 로켓"
+msgstr "글귀가 새겨진 목걸이"
 
 #. FILE: DA3\Equipment\Items\Valuables\Tier3\valuable_Fake_griffon_feather_charm.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -20124,8 +20124,8 @@ msgstr ""
 msgctxt "0x0004b1fe"
 msgid "The shaft of this staff has been wrapped with… are those underclothes? Someone has also scribbled \"Nevarran Tour 9:28 Dragon!!!\" on one side in badly smeared ink."
 msgstr ""
-"이 지팡이의 자루를 싸고 있는 것은… 혹시 속옷인가? 누군가가 한쪽 면에 서툴게 잉크 얼룩을 남기며 \"용의 시대 9:28 네바라 "
-"여행!!!\" 이라고 휘갈겨 놓았다."
+"이 지팡이의 자루를 싸고 있는 것은… 혹시 속옷인가? 누군가가 한쪽 면에 서툴게 잉크 얼룩을 남기며 \"용의 시대 9:28년 네바라 "
+"순회공연!!!\" 이라고 휘갈겨 놓았다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Mage\Staff\equip_BE_Staff_1a.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -23149,14 +23149,13 @@ msgstr "영광으로의 길"
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_BE_Shield_1.xml
 #. PATH: EquipItemAsset/Description
 #: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_BE_Shield_1.xml:11
-#, fuzzy
 msgctxt "0x00046454"
 msgid "This shield bears the marks of the great smiths of Halamshiral, from the second and last elven kingdom. The gentle curves and knots in its design were made to evoke the beauty of nature, of leaves and petals. Inscribed on the shield's inner lip is the elven phrase \"Suledin ghilana hanin.\" However, close inspection reveals inexpertly made scratches on the word \"Suledin,\" proving that the phrase originally read \"Sulevin ghilana hanin.\""
 msgstr ""
 "이 방패에는 두 번째이자 최후의 엘프 왕국, 할람시랄의 명인 대장장이의 징표가 찍혀 있다. 부드러운 곡선과 장식끈은 잎사귀와 꽃잎이 지닌 "
-"자연의 아름다움을 연상시키도록 설계되었다. 안쪽 끄트머리에는 \"Suledin ghilana hanin.\"이란 엘프어 문구가 새겨져 "
-"있다. 자세히 관찰하니, 각인 일부를 서툰 손길로 긁어내 억지로 \"Suledin\"이라는 단어로 바꾼 흔적이 보인다. 그렇다면 문구는 "
-"본래 \"Sulevin ghilana hanin.\"이었을 것이다."
+"자연의 아름다움을 연상시키도록 설계되었다. 안쪽 끄트머리에는 \"술레딘 길라나 하닌.\"이란 엘프어 문구가 새겨져 있다. 자세히 "
+"관찰하니, 각인 일부를 서툰 손길로 긁어내 억지로 \"술레딘\"이라는 단어로 바꾼 흔적이 보인다. 그렇다면 문구는 본래 \"술레빈 길라나 "
+"하닌.\"이었을 것이다."
 
 #. FILE: DA3\Equipment\Items\Weapons\Warrior\WeaponShield\Shields\equip_mp2_shield_dragon_t4.xml
 #. PATH: EquipItemAsset/DisplayName
@@ -25471,7 +25470,7 @@ msgstr "펠란다리스의 인장"
 #: da3_dlc_blue\equipment\Sigils\dlcblue_upgrade_Sigil_Vigor.xml:6
 msgctxt "0x00049b25"
 msgid "Sigil of the Great Bear"
-msgstr "거대한 곰의 인장"
+msgstr "큰곰의 인장"
 
 #. FILE: da3_dlc_blue\equipment\Sigils\dlcblue_upgrade_type_sigil.xml
 #. PATH: UpgradeItemType/DisplayName

@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-13 07:57+0000\n"
-"Last-Translator: 이아아 <yeeahh560@gmail.com>\n"
+"PO-Revision-Date: 2021-03-14 13:56+0000\n"
+"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -1572,7 +1572,7 @@ msgstr "총합 기술 점수"
 #: DA3\Combat\Stats\Stat_Points_Attribute.xml:5
 msgctxt "0x00013294"
 msgid "Attribute Points"
-msgstr "속성 점수"
+msgstr "특질 점수"
 
 #. FILE: DA3\Combat\Stats\Stat_Points_Skill.xml
 #. PATH: BWStat/StatName
@@ -2461,7 +2461,7 @@ msgstr "영웅적인 용 사냥꾼"
 #: DA3\Configurations\Online\MPServerMappingConfiguration.xml:3375
 msgctxt "0x0004b408"
 msgid "Tal-Vashoth"
-msgstr "탈바쇼스"
+msgstr "탈 바쇼스"
 
 #. FILE: DA3\Configurations\Online\MPServerMappingConfiguration.xml
 #. PATH: MPServerMappingChallengeRewardText[32]/RewardText
@@ -4160,7 +4160,7 @@ msgstr "죽음과 파괴를 가져오는 쿠나리 거인."
 msgctxt "0x000435bd"
 msgid "\"Katari\" means \"one who brings death\" in Qunlat. The Katari is a Tal-Vashoth mercenary who left the Qun to forge his own path. However, choosing one's own way after being raised to follow orders is difficult. For the moment, the Katari makes his living as a sellsword, paid to fight for the Inquisition. His name is a description of what he does—though he has left the Qun, certain habits are hard to break."
 msgstr ""
-"\"카타리\"는 \"죽음을 가져오는 자\"라는 쿠나리 말이다. 카타리는 자신의 길을 개척하기 위해 쿤을 떠난 탈바쇼스 용병이다. 하지만 "
+"\"카타리\"는 \"죽음을 가져오는 자\"라는 쿠나리 말이다. 카타리는 자신의 길을 개척하기 위해 쿤을 떠난 탈 바쇼스 용병이다. 하지만 "
 "명령에 따르도록 길러진 후에 자신의 길을 따르기란 어려운 법. 지금의 카타리는 심문회에 붙어 칼밥 먹고 살아간다. 결국 이름이 뜻하는 "
 "대로 살아가게 됐다. 비록 쿤을 떠났지만, 고칠 수 없는 습관도 있는 법이다."
 
@@ -4181,7 +4181,7 @@ msgstr ""
 #: DA3\Configurations\Party\Multiplayer\MP_Duelist.xml:8
 msgctxt "0x00022563"
 msgid "Argent"
-msgstr "아젠트"
+msgstr "아르장"
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Duelist.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableShortDescription
@@ -4196,9 +4196,9 @@ msgstr "그림자 속의 칼날."
 msgctxt "0x000435b8"
 msgid "Argent was named the old Orlesian word for \"quicksilver\". She is swift, strong, and deadly—trained from birth to be a weapon. Argent has served many masters, sometimes as a bodyguard, often as an assassin. Passed from noble to noble, she was bought and sold like a prized sword, a fact that does not bother her. A weapon has no loyalty—it serves whoever wields it. Now, the Inquisition wields Argent."
 msgstr ""
-"아젠트는 옛 올레이 말로 \"퀵 실버\"라는 뜻이다. 태어날 때부터 무기로 길러진 빠르고 강하고 치명적인 자. 수많은 주인을 섬기며 "
+"아르장은 옛 올레이 말로 \"수은\" 이라는 뜻이다. 태어날 때부터 무기로 길러진 빠르고 강하고 치명적인 자. 수많은 주인을 섬기며 "
 "때로는 경호원으로, 보통은 암살자로 살았다. 여러 귀족을 거치며 그녀는 귀한 검처럼 사고 팔렸지만 별로 개의치 않았다. 무기는 충성심이 "
-"없다. 그저 휘두르는 자를 섬길 뿐. 이제, 심문회가 아젠트를 쥐고 있다."
+"없다. 그저 휘두르는 자를 섬길 뿐. 이제, 심문회가 아르장을 쥐고 있다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Duelist.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -4234,7 +4234,7 @@ msgid "Rion was one of the first mages in the Ostwick tower to take up the flag 
 msgstr ""
 "라이온은 오스트윅 탑에서 반란의 깃발을 들어 올린 수석 마법사였다. 커크월의 끔찍한 참사를 목격한 리온은 열렬한 이상주의를 받아들였고.. "
 "현실 감각은 거의 없었다. 그의 열정은 반란의 대가가 잃어버린 목숨, 마법사와 비 마법사로 재단되는 걸 보고 꺾였다. 이제 평화를 "
-"부르짖으며 신성한 콘클라베의 결과를 기대하고 헤이븐으로 갔다. 그렇게 신전이 무너졌을 때, 희망도 무너져 내렸다. 라이온은 희망에 대한 "
+"부르짖으며 신성한 콘클라베의 결과를 기대하고 헤이븐으로 갔다. 그렇게 사원이 무너졌을 때, 희망도 무너져 내렸다. 라이온은 희망에 대한 "
 "마지막 기회로 보고 심문회에 가입했다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Elementalist.xml
@@ -4496,7 +4496,7 @@ msgstr ""
 #: DA3\Configurations\Party\Multiplayer\MP_Templar.xml:8
 msgctxt "0x0003f94d"
 msgid "Ser Belinda Darrow"
-msgstr "벨린다 대로우 경"
+msgstr "벨린다 대로 경"
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Templar.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableShortDescription
@@ -4574,7 +4574,7 @@ msgstr "여대공"
 #: DA3\Creatures\Boss\creature_boss_envy_demon.xml:3907
 msgctxt "0x00018928"
 msgid "Envy Demon"
-msgstr "질투의 악마"
+msgstr "시기의 악마"
 
 #. FILE: DA3\Creatures\Boss\creature_boss_feardemon.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -4749,7 +4749,7 @@ msgstr "아바르 궁수"
 #: DA3\Creatures\Faction\Biotic\Human\creature_barbarian_bruiser.xml:5167
 msgctxt "0x000392c4"
 msgid "Avvar Champion"
-msgstr "아바르 챔피언"
+msgstr "아바르 용사"
 
 #. FILE: DA3\Creatures\Faction\Biotic\Human\creature_barbarian_footsoldier.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -5022,7 +5022,7 @@ msgstr "파수대 궁수"
 #: DA3\Creatures\Faction\Biotic\Human\creature_sentinel_bruiser.xml:4460
 msgctxt "0x000392c8"
 msgid "Sentinel Champion"
-msgstr "파수대 챔피언"
+msgstr "파수대 용사"
 
 #. FILE: DA3\Creatures\Faction\Biotic\Human\creature_sentinel_prowler.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -5463,7 +5463,7 @@ msgstr "형용할 수 없는 공포"
 #: DA3\Creatures\Multiplayer\Wilderness\mp_wilderness_wilderness_great_bear_mp.xml:4999
 msgctxt "0x00018930"
 msgid "Great Bear"
-msgstr "거대한 곰"
+msgstr "큰곰"
 
 #. FILE: DA3\Creatures\Multiplayer\Wilderness\mp_wilderness_wilderness_gurgut_mp.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -6324,7 +6324,7 @@ msgstr "탈윈"
 #: DA3\DesignContent\CreatureProfiles\SeekerFortress\see_EnvyDemon_CreatureProfile.xml:24
 msgctxt "0x00042ad3"
 msgid "Envy Demon"
-msgstr "질투의 악마"
+msgstr "시기의 악마"
 
 #. FILE: DA3\DesignContent\CreatureProfiles\SeekerFortress\see_imperialsoldier_creatureprofile.xml
 #. PATH: CreatureProfile/AppearanceOverride/member[1]/CreatureAppearanceCustomizations/OverrideName
@@ -7409,7 +7409,7 @@ msgstr "\"보물\" 이라는 이름표가 달린 기묘하게 생긴 인형."
 #: DA3\DesignContent\Items\Dales\dal_fst_maliphant_key.xml:6
 msgctxt "0x0003aa01"
 msgid "Villa Maurel Key"
-msgstr "마우렐 저택 열쇠"
+msgstr "모렐 저택 열쇠"
 
 #. FILE: DA3\DesignContent\Items\Dales\dal_fst_maliphant_key.xml
 #. PATH: StackedItemAsset/Description
@@ -8185,7 +8185,7 @@ msgstr "당신의 여정 중 가져온 것."
 #: DA3\DesignContent\Items\Skyhold\CodexVendor\sky_codex_purchase_myth_01.xml:11
 msgctxt "0x00043383"
 msgid "Recovered from the Temple of Mythal."
-msgstr "미쌀의 신전에서 가져온 것."
+msgstr "미쌀의 사원에서 가져온 것."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\CodexVendor\sky_codex_purchase_red_01.xml
 #. PATH: StackedItemAsset/Description
@@ -8724,7 +8724,7 @@ msgstr "마도사의 옥좌"
 #: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_circle_1.xml:11
 msgctxt "0x00042c34"
 msgid "A magnificent chair that once belonged to First Enchanter Willow of the White Spire."
-msgstr "백색 첨탑의 수석 마도사 윌로우가 한때 가지고 있었던 장엄한 의자."
+msgstr "백색 첨탑의 수석 마도사 윌로가 한때 가지고 있었던 장엄한 의자."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\Thrones\sky_throne_circle_2.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -10784,7 +10784,7 @@ msgstr "수집됨"
 #: DA3\DesignContent\Plots\Haven\Check_SpecialItemsAreAvailable.xml:1044
 msgctxt "0x0004b375"
 msgid "A new trials reward is available in the special shipments chest!"
-msgstr "특별 배송 상자에 시련 보상이 도착했습니다!"
+msgstr "특별 배송품 상자에 시련 보상이 도착했습니다!"
 
 #. FILE: DA3\DesignContent\PrefabComponents\CMP_PerformAbility_Energize.xml
 #. PATH: NotificationEntityData[1]/TitleTextReference
@@ -11080,7 +11080,7 @@ msgid ""
 "\n"
 "Recreate the image of a constellation by connecting the stars without making the same line twice."
 msgstr ""
-"천체 투영관은 하늘의 비밀을 드러내게 해 줍니다.\n"
+"천체 투영기는 하늘의 비밀을 드러내게 해 줍니다.\n"
 "\n"
 "같은 선을 두 번 지나가지 않고 별들을 연결해 별자리를 똑같이 만드십시오."
 
@@ -12225,7 +12225,7 @@ msgstr "거미 송곳니 {string}281367{/string}: {CUSTOM0}"
 #: DA3\DesignContent\Prefabs\CreatureCodex\CreatureCodexSubPrefab_great_bear.xml:853
 msgctxt "0x00042000"
 msgid "Great Bear Teeth {string}281367{/string}: {CUSTOM0}"
-msgstr "거대한 곰 이빨 {string}281367{/string}: {CUSTOM0}"
+msgstr "큰곰 이빨 {string}281367{/string}: {CUSTOM0}"
 
 #. FILE: DA3\DesignContent\Prefabs\CreatureCodex\CreatureCodexSubPrefab_guardsman.xml
 #. PATH: NotificationEntityData[2]/TitleTextReference
@@ -12832,7 +12832,7 @@ msgid ""
 "\n"
 "{controller}Use {StringBtnRStick}{/controller}{notcontroller}Move the mouse{/notcontroller} to look around. Focusing on a shard will mark it on your map."
 msgstr ""
-"편린경은 세상에 흩어져 있는 편린을 찾아낼 수 있습니다. 근방에 있는 편린을 모두 찾아낸 편린경은 더 이상 빛을 발하지 않습니다.\n"
+"편린경은 세상에 흩어진 편린을 찾아낼 수 있습니다. 근방에 있는 편린을 모두 찾아낸 편린경은 더 이상 빛을 발하지 않습니다.\n"
 "\n"
 "마우스를 이동시켜 주위를 둘러보세요. 편린에 초점을 맞추면 해당 편린이 지도에 표시됩니다."
 
@@ -14682,7 +14682,7 @@ msgstr ""
 msgctxt "0x00049fd9"
 msgid "<font color=\"#CCDDAA\">Select \"Abilities\", and use with the points you received from leveling up to choose a new ability!</font>"
 msgstr ""
-"<font color=\"#CCDDAA\">\"기술\" 탭을 선택하시고 레벨업을 통해 얻은 점수를 소모해 새 기술을 "
+"<font color=\"#CCDDAA\">\"기술\" 탭을 선택하시고 레벨 상승을 통해 얻은 점수를 소모해 새 기술을 "
 "습득하세요!</font>"
 
 #. FILE: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer1_default_schematic.xml
@@ -16088,7 +16088,7 @@ msgstr "시너지"
 #: DA3\Persistence\AchievementTree.xml:1468
 msgctxt "0x00042e21"
 msgid "Spend 10 points in a single ability tree with any one single-player character."
-msgstr "싱글 모드 캐릭터로 한 기술 트리에 10포인트를 투자하십시오."
+msgstr "싱글 모드 캐릭터로 한 기술 트리에 10점을 투자하십시오."
 
 #. FILE: DA3\Persistence\AchievementTree.xml
 #. PATH: AwardAchievementData[21]/LocalizedName
@@ -16382,7 +16382,7 @@ msgstr "오만이 자초한 것"
 #: DA3\Persistence\AchievementTree.xml:2731
 msgctxt "0x0004a494"
 msgid "Slay 10 great bears promoted by Grizzly End."
-msgstr "굶주린 곰 시련으로 강화된 거대한 곰 10마리를 처치하십시오."
+msgstr "굶주린 곰 시련으로 강화된 큰곰 10마리를 처치하십시오."
 
 #. FILE: DA3\Persistence\AchievementTree.xml
 #. PATH: AwardAchievementData[42]/LocalizedName
@@ -16662,7 +16662,7 @@ msgstr "간악한 눈길과 간악한 마음"
 #: DA3\Persistence\AchievementTree.xml:3959
 msgctxt "0x00042e1e"
 msgid "Unlock 15 astrariums in a single playthrough."
-msgstr "한 회차를 플레이하며 15개의 천체 투영관을 해금하십시오."
+msgstr "한 회차를 플레이하며 15개의 천체 투영기를 해금하십시오."
 
 #. FILE: DA3\Persistence\AchievementTree.xml
 #. PATH: AwardAchievementData[62]/LocalizedName
@@ -16942,7 +16942,7 @@ msgstr "가이다 밀도튼"
 #: DA3_DLC1\DesignContent\CreatureProfiles\DLC1\Wilderness\dlc1_npc_hakkonleader_creatureprofile.xml:24
 msgctxt "0x0004668c"
 msgid "Hakkonite Champion"
-msgstr "하콘 추종자 챔피언"
+msgstr "하콘 추종자 용사"
 
 #. FILE: DA3_DLC1\DesignContent\CreatureProfiles\DLC1\Wilderness\dlc1_npc_huntmaster_creatureprofile.xml
 #. PATH: CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -18824,9 +18824,9 @@ msgstr "아네케 할퍼: 다양한 보물 목록"
 msgctxt "0x0004b292"
 msgid "Billing itself as \"the most distinguished retailer of Fine Goods and Novelties to the Rich since 7:86 Storm,\" this booklet is filled with woodcuts of strange trinkets (\"the world's best articulated everite backscratcher\"), complicated-looking devices (\"the only triple-decker carriage with Orzammar-designed wheel-locks for smoother braking\") and specialty items (\"be the first to enjoy the amazing cooling properties of drakeskin lining in one's evening mask!\")."
 msgstr ""
-"\"폭풍의 시대 7:86부터 이어져온 부자들을 위한 훌륭하고 진기한 상품 상점\"이라고 스스로를 소개하고 있는 이 전단지는 이상한 장신구("
-"\"세상에서 가장 섬세한 영원석 등긁개\"), 복잡해 보이는 장치 (\"오자마르에서 디자인한 브레이크가 달린 세계 유일 삼층 마차\"), "
-"그리고 전문 물품들 (\"파티용 가면에 용가죽을 깔아 그 시원함을 느끼는 첫 번째 고객이 되세요!\") 로 가득차 있다."
+"\"폭풍의 시대 7:86년부터 이어져온 부자들을 위한 훌륭하고 진기한 상품 상점\"이라고 스스로를 소개하고 있는 이 전단지는 이상한 "
+"장신구(\"세상에서 가장 섬세한 영원석 등긁개\"), 복잡해 보이는 장치 (\"오자마르에서 디자인한 브레이크가 달린 세계 유일 삼층 "
+"마차\"), 그리고 전문 물품들 (\"파티용 가면에 용가죽을 깔아 그 시원함을 느끼는 첫 번째 고객이 되세요!\") 로 가득차 있다."
 
 #. FILE: da3_dlc_blue\designcontent\Items\dlcblue_cologne.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -18840,7 +18840,7 @@ msgstr "향수병"
 #: da3_dlc_blue\designcontent\Items\dlcblue_cologne.xml:11
 msgctxt "0x0004b299"
 msgid "A slim bottle of Heartland Lodge cologne. It smells not unpleasantly of autumn leaves, loamy earth, and woodsmoke."
-msgstr "긴 병에 담신 중심지 여관의 향수다. 가을 낙엽, 대지 향기, 그리고 훈연 향기가 난다."
+msgstr "긴 병에 담긴 중심지 여관의 향수다. 가을 낙엽, 대지 향기, 그리고 훈연 향기가 난다."
 
 #. FILE: da3_dlc_blue\designcontent\Items\dlcblue_dogtreat.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -19585,7 +19585,7 @@ msgstr "대지분쇄자의 무기 가져가기"
 #: da3_dlc_red\DesignContent\Prefabs\inquisition\dlcred_ExpeditionInteraction.xml:569
 msgctxt "0x0004aa92"
 msgid "Deep Roads Expeditions"
-msgstr "지하 가도 탐험"
+msgstr "지하 가도 원정"
 
 #. FILE: da3_dlc_red\DesignContent\Prefabs\inquisition\dlcred_ExpeditionInteraction.xml
 #. PATH: BWPopUpEntityData/Text
