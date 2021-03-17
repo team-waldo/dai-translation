@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-14 13:56+0000\n"
-"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
+"PO-Revision-Date: 2021-03-17 08:07+0000\n"
+"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/codex/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -960,14 +960,14 @@ msgstr "안드루일: 사냥의 여신"
 #: DA3\DesignContent\Codex\Lore\History\cod_dalish_arlathan_1.xml:13
 msgctxt "0x0004154e"
 msgid "Arlathan: Part One"
-msgstr "알라싼: 제 1장"
+msgstr "알라산: 제 1장"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_dalish_arlathan_2.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_dalish_arlathan_2.xml:13
 msgctxt "0x00041551"
 msgid "Arlathan: Part Two"
-msgstr "알라싼: 제 2장"
+msgstr "알라산: 제 2장"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_dalish_daleshistory.xml
 #. PATH: CodexEntry/TitleReference
@@ -981,14 +981,14 @@ msgstr "데일스: 잊힌 약속"
 #: DA3\DesignContent\Codex\Lore\History\cod_dalish_dirthamen.xml:30
 msgctxt "0x00040e32"
 msgid "Dirthamen: Keeper of Secrets"
-msgstr "더타멘: 비밀의 수호자"
+msgstr "덜사멘: 비밀의 수호자"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_dalish_elgarnan.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_dalish_elgarnan.xml:30
 msgctxt "0x00040e36"
 msgid "Elgar'nan: The All-Father"
-msgstr "엘가르난: 모든 이의 아버지"
+msgstr "엘가난: 모든 이의 아버지"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_dalish_falondin.xml
 #. PATH: CodexEntry/TitleReference
@@ -1016,14 +1016,14 @@ msgstr "길란나인: 할라의 어머니"
 #: DA3\DesignContent\Codex\Lore\History\cod_dalish_june.xml:30
 msgctxt "0x00040e3b"
 msgid "June: God of the Craft"
-msgstr "주네: 공예의 신"
+msgstr "유네: 공예의 신"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_dalish_mythal.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\History\cod_dalish_mythal.xml:30
 msgctxt "0x00041809"
 msgid "Mythal: The Great Protector"
-msgstr "미쌀: 위대한 수호자"
+msgstr "미살: 위대한 수호자"
 
 #. FILE: DA3\DesignContent\Codex\Lore\History\cod_dalish_sylaise.xml
 #. PATH: CodexEntry/TitleReference
@@ -1352,7 +1352,7 @@ msgstr "붉은 리륨"
 #: DA3\DesignContent\Codex\Lore\Magic\cod_mag_spirit_v_demon.xml:30
 msgctxt "0x00041850"
 msgid "Spirits and Demons"
-msgstr "영혼과 악마"
+msgstr "영과 악마"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Magic\cod_mag_vitaar.xml
 #. PATH: CodexEntry/TitleReference
@@ -1639,7 +1639,7 @@ msgstr "재발견된 성스러운 재의 성전"
 #: DA3\DesignContent\Codex\Lore\Places\cod_place_temple_of_mythal.xml:30
 msgctxt "0x00041924"
 msgid "The Temple of Mythal"
-msgstr "미쌀의 사원"
+msgstr "미살의 사원"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Places\cod_place_tevinter.xml
 #. PATH: CodexEntry/TitleReference
@@ -1653,7 +1653,7 @@ msgstr "테빈터 제국"
 #: DA3\DesignContent\Codex\Lore\Places\cod_place_therinfal.xml:13
 msgctxt "0x00041916"
 msgid "Therinfal Redoubt"
-msgstr "세린팔 보루"
+msgstr "테린팔 보루"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Places\cod_place_val_royeaux_01.xml
 #. PATH: CodexEntry/TitleReference
@@ -2178,7 +2178,7 @@ msgstr "하늘을 되찾아라: 주점 건배사"
 #: DA3\DesignContent\Codex\Lore\Tales\cod_tale_val_royeaux_sheritan.xml:13
 msgctxt "0x0004205e"
 msgid "The Folly of General Not-Sheritan"
-msgstr "셰리탄-아님 장군의 어처구니없는 일화"
+msgstr "가짜 셰리탄 장군의 어처구니없는 일화"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Tales\cod_tale_western_approach.xml
 #. PATH: CodexEntry/TitleReference
@@ -2220,7 +2220,7 @@ msgstr "그림자 속의 쌍둥이"
 #: DA3\DesignContent\Codex\Lore\Tales\myt_elvengods_Elgarnan.xml:30
 msgctxt "0x00040400"
 msgid "Song to Elgar'nan"
-msgstr "엘가르난에게 바치는 노래"
+msgstr "엘가난에게 바치는 노래"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Tales\myt_elvengods_Falondin.xml
 #. PATH: CodexEntry/TitleReference
@@ -2248,14 +2248,14 @@ msgstr "길란나인의 승천"
 #: DA3\DesignContent\Codex\Lore\Tales\myt_elvengods_June.xml:30
 msgctxt "0x00040403"
 msgid "The Mystery of June"
-msgstr "주네의 수수께끼"
+msgstr "유네의 수수께끼"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Tales\myt_elvengods_Mythal.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Lore\Tales\myt_elvengods_Mythal.xml:30
 msgctxt "0x00040404"
 msgid "The Judgment of Mythal"
-msgstr "미쌀의 심판"
+msgstr "미살의 심판"
 
 #. FILE: DA3\DesignContent\Codex\Lore\Tales\myt_elvengods_Sylaise.xml
 #. PATH: CodexEntry/TitleReference
@@ -3690,7 +3690,7 @@ msgstr "별자리: 실렌티르"
 #: DA3\DesignContent\Codex\Plot\Global\Astrarium\cod_lor_astrarium_07.xml:30
 msgctxt "0x00033203"
 msgid "Constellation: Toth"
-msgstr "별자리: 토쓰"
+msgstr "별자리: 토스"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Global\Astrarium\cod_lor_astrarium_08.xml
 #. PATH: CodexEntry/TitleReference
@@ -3928,7 +3928,7 @@ msgstr "감시자의 길 지도"
 #: DA3\DesignContent\Codex\Plot\Global\TreasureMaps\cod_TheDales_Main_TreasureMap_02.xml:13
 msgctxt "0x0003225a"
 msgid "Map of Elgar'nan's Bastion"
-msgstr "엘가르난의 요새 지도"
+msgstr "엘가난의 요새 지도"
 
 #. FILE: DA3\DesignContent\Codex\Plot\Global\TreasureMaps\cod_TheDales_Main_TreasureMap_03.xml
 #. PATH: CodexPuzzle/TitleReference
@@ -4677,14 +4677,14 @@ msgstr "리륨 명세서"
 #: DA3\DesignContent\Codex\Plot\SeekerFortress\cod_see_great_hall_mage_dungeon.xml:13
 msgctxt "0x00042546"
 msgid "The Prisoners of Therinfal"
-msgstr "세린팔의 죄수들"
+msgstr "테린팔의 죄수들"
 
 #. FILE: DA3\DesignContent\Codex\Plot\SeekerFortress\cod_see_misc_NotesAndLetters.xml
 #. PATH: CodexEntry/TitleReference
 #: DA3\DesignContent\Codex\Plot\SeekerFortress\cod_see_misc_NotesAndLetters.xml:13
 msgctxt "0x00041d2c"
 msgid "Notes and Letters from Therinfal"
-msgstr "세린팔에서 얻은 쪽지와 편지들"
+msgstr "테린팔에서 얻은 쪽지와 편지들"
 
 #. FILE: DA3\DesignContent\Codex\Plot\SeekerFortress\cod_see_nightmare_collection.xml
 #. PATH: CodexEntry/TitleReference
@@ -5790,7 +5790,7 @@ msgstr "사원의 탐험가들"
 #: DA3\DesignContent\Codex\Plot\WaterRuins\cod_the_WaterRuins_elven_ruin.xml:13
 msgctxt "0x0002b23a"
 msgid "The Lost Temple of Dirthamen"
-msgstr "더타멘의 잃어버린 사원"
+msgstr "덜사멘의 잃어버린 사원"
 
 #. FILE: DA3\DesignContent\Codex\Plot\WesternApproach\Coracavus\wes_slavepits_digsite_2.xml
 #. PATH: CodexEntry/TitleReference
@@ -5902,7 +5902,7 @@ msgstr "질투심이 담긴 쪽지"
 #: DA3\DesignContent\Codex\Plot\WesternApproach\wes_landmark_b.xml:13
 msgctxt "0x00038335"
 msgid "Gate of Toth"
-msgstr "토쓰의 문"
+msgstr "토스의 문"
 
 #. FILE: DA3\DesignContent\Codex\Plot\WesternApproach\wes_landmark_c.xml
 #. PATH: CodexEntry/TitleReference

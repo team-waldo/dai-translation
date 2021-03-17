@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-14 13:56+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2021-03-17 08:08+0000\n"
+"Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1379,10 +1379,9 @@ msgstr ""
 #. FILE: DA3\Party\Rogue\General\Knives\party_rogue_general_knives_upgrade2_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
 #: DA3\Party\Rogue\General\Knives\party_rogue_general_knives_upgrade2_abilitydata.xml:31
-#, fuzzy
 msgctxt "0x00042d38"
 msgid "<font color=\"#BAAB7B\">This bonus stacks.</font>\n"
-msgstr "<font color=\"#BAAB7B\">이 보너스는 중첩됩니다.</font>\n"
+msgstr "<font color=\"#BAAB7B\">이 효과는 중첩됩니다.</font>\n"
 
 #. FILE: DA3\Party\Rogue\General\Knives\party_rogue_general_knives_upgrade3_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference

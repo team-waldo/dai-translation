@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-14 13:55+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2021-03-17 08:08+0000\n"
+"Last-Translator: 이아아 <yeeahh560@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -57,7 +57,7 @@ msgstr "심문회 전초기지"
 #: DA3\Layouts\ArborWilds\ArborWilds_Main\map\ArborWilds_Main_floor1.xml:25
 msgctxt "0x0002e02e"
 msgid "Altar of Mythal"
-msgstr "미쌀의 제단"
+msgstr "미살의 제단"
 
 #. FILE: DA3\Layouts\ArborWilds\ArborWilds_Main\qst_mythalwilds_0600\layer6_dsg_0600_interactions.xml
 #. PATH: BWGameInteractionEntityData[1]/InteractionTextReference
@@ -127,28 +127,28 @@ msgstr "청원실"
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\map\myt_TempleOfMythal_floor0.xml:25
 msgctxt "0x00043935"
 msgid "Temple of Mythal - Main Level"
-msgstr "미쌀의 사원 - 본관"
+msgstr "미살의 사원 - 본관"
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\map\myt_TempleOfMythal_floor1.xml
 #. PATH: BWMap/TitleReference
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\map\myt_TempleOfMythal_floor1.xml:25
 msgctxt "0x00043936"
 msgid "Temple of Mythal - Lower Level"
-msgstr "미쌀의 사원 - 하층"
+msgstr "미살의 사원 - 하층"
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\map\myt_TempleOfMythal_floor2.xml
 #. PATH: BWMap/TitleReference
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\map\myt_TempleOfMythal_floor2.xml:25
 msgctxt "0x00043938"
 msgid "Temple of Mythal - Exterior"
-msgstr "미쌀의 사원 - 외부"
+msgstr "미살의 사원 - 외부"
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\myt_TempleOfMythal.xml
 #. PATH: UILevelDescriptionComponent/LocationName
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\myt_TempleOfMythal.xml:7647
 msgctxt "0x00029d6d"
 msgid "Temple of Mythal"
-msgstr "미쌀의 사원"
+msgstr "미살의 사원"
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\qst_220_fenharel_lore\layer0_dsg_220_fenharel_lore.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
@@ -176,21 +176,21 @@ msgstr "안드루일의 모자이크"
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\qst_560_lorestatues\layer2_dsg_560_lore_codex.xml:82
 msgctxt "0x0004060f"
 msgid "Statue of Mythal"
-msgstr "미쌀의 조각상"
+msgstr "미살의 조각상"
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\qst_560_lorestatues\layer2_dsg_560_lore_codex.xml
 #. PATH: BWGameInteractionEntityData[2]/InteractionTextReference
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\qst_560_lorestatues\layer2_dsg_560_lore_codex.xml:241
 msgctxt "0x00040610"
 msgid "Mosaic of Dirthamen"
-msgstr "더타멘의 모자이크"
+msgstr "덜사멘의 모자이크"
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\qst_560_lorestatues\layer2_dsg_560_lore_codex.xml
 #. PATH: BWGameInteractionEntityData[3]/InteractionTextReference
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\qst_560_lorestatues\layer2_dsg_560_lore_codex.xml:306
 msgctxt "0x00040617"
 msgid "Mosaic of Elgar'nan"
-msgstr "엘가르난의 모자이크"
+msgstr "엘가난의 모자이크"
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\qst_560_lorestatues\layer2_dsg_560_lore_codex.xml
 #. PATH: BWGameInteractionEntityData[4]/InteractionTextReference
@@ -204,7 +204,7 @@ msgstr "길란나인의 모자이크"
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\qst_560_lorestatues\layer2_dsg_560_lore_codex.xml:436
 msgctxt "0x000405f1"
 msgid "Mosaic of Mythal"
-msgstr "미쌀의 모자이크"
+msgstr "미살의 모자이크"
 
 #. FILE: DA3\Layouts\ArborWilds\myt_TempleOfMythal\qst_560_lorestatues\layer2_dsg_560_lore_codex.xml
 #. PATH: BWGameInteractionEntityData[6]/InteractionTextReference
@@ -225,7 +225,7 @@ msgstr "보급품이 충원되었습니다."
 #: DA3\Layouts\ArborWilds\myt_TempleOfMythal\qst_mythal_0300\layer3_qst_300_banter.xml:114
 msgctxt "0x00044b49"
 msgid "Mosaic of June"
-msgstr "주네의 모자이크"
+msgstr "유네의 모자이크"
 
 #. FILE: DA3\Layouts\Ferelden\Ferelden_Wilderness_Main\design\layer0_dsg_areatransitions.xml
 #. PATH: BWGameInteractionEntityData[1]/InteractionTextReference
@@ -1193,7 +1193,6 @@ msgstr "늙은 휘터의 농장"
 #. FILE: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[12]/Text
 #: DA3\Layouts\Ferelden\fer_Wilderness_010\design\layer9_dsg_areanotifications_schematic.xml:210
-#, fuzzy
 msgctxt "0x0001e525"
 msgid "Forester Homestead"
 msgstr "삼림감독관의 주택"
@@ -3624,7 +3623,7 @@ msgstr "아르곤의 오두막"
 #: DA3\Layouts\TheDales\TheDales_Forest\design\layer3_dsg_regionnotifications_schematic.xml:357
 msgctxt "0x00035cc0"
 msgid "Elgar'nan's Bastion"
-msgstr "엘가르난의 요새"
+msgstr "엘가난의 요새"
 
 #. FILE: DA3\Layouts\TheDales\TheDales_Forest\design\layer3_dsg_regionnotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[25]/Text
@@ -6159,7 +6158,7 @@ msgstr "잊힌 빨래터"
 #: DA3\Layouts\TheWesternApproach\TheWesternApproach_Main\design\layer7_dsg_regionnotifications_schematic.xml:73
 msgctxt "0x0001cfb0"
 msgid "Gates of Toth"
-msgstr "토쓰의 관문"
+msgstr "토스의 관문"
 
 #. FILE: DA3\Layouts\TheWesternApproach\TheWesternApproach_Main\design\layer7_dsg_regionnotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[4]/Text
@@ -7909,7 +7908,7 @@ msgstr "성소"
 #: DA3\Layouts\ThematicLevels\the_WaterRuins_520\design\layer18_dsg_regionnotifications_schematic.xml:176
 msgctxt "0x0002ba30"
 msgid "Lost Temple of Dirthamen"
-msgstr "더타멘의 잃어버린 사원"
+msgstr "덜사멘의 잃어버린 사원"
 
 #. FILE: DA3\Layouts\ThematicLevels\the_WaterRuins_520\design\layer18_dsg_regionnotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[10]/Text
@@ -8303,7 +8302,7 @@ msgstr "수위실"
 #: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\dsg_0000_global\layer8_dsg_0000_areanotifications_schematic.xml:43
 msgctxt "0x000323e0"
 msgid "Therinfal Redoubt"
-msgstr "세린팔 보루"
+msgstr "테린팔 보루"
 
 #. FILE: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\dsg_0000_global\layer8_dsg_0000_areanotifications_schematic.xml
 #. PATH: GetLocalizedStringIDData[4]/Text
@@ -8411,10 +8410,10 @@ msgid ""
 msgstr ""
 "마리온,\n"
 "\n"
-"나도 두통 있어. 근데 붉은 거 먹는 애들이 하는 말이 다 괜찮아진다더라. 너도 곧 강해질 거야. 나는 어제 훈련에서 드디어 폴렛 병장님 "
-"이겼잖아. 두 번이나! 그 어이없는 표정이 아직도 생생해.\n"
+"나도 너와 똑같은 두통 증상을 겪고 있어. 붉은 리륨 먹어본 사람들 말로는 시간이 지나면 괜찮아진대. 아마 얼마 안 있으면 강력해진 "
+"기분이 들 거야. 어제 폴레트 병장이랑 대련해서 두 번이나 이겼거든! 얼굴 꼬락서니 한 번 통쾌하더라!\n"
 "\n"
-"붉은 리륨 하는 사람은 배급도 더 줄 건가봐. 내일은 너도 나랑 훈련 가자. 보조를 맞춰줄 수 있는 사람이 필요해.\n"
+"듣자 하니 붉은 리륨 투여 중인 병사들한테는 배급량을 늘려준다더라. 내일 훈련은 같이하자. 내 수준에 걸맞은 사람과 훈련하고 싶거든.\n"
 "\n"
 "베너"
 
@@ -8441,7 +8440,7 @@ msgstr ""
 "시그릭 기사대장에게\n"
 "\n"
 "내가 분명 장교들이 우리의 다음 작전을 구상하는 동안은 기사들은 하급 병영에서 나오지 말라는 지시를 내렸을 텐데. 이번 일로 기사단의 "
-"자부심은 너무나도 상처입었다. 친목으로 시간을 낭비하는 것 따위는 용납하지 않을 거다. 세린팔 보루가 바로 우리의 목적을 되찾을 곳이란 "
+"자부심은 너무나도 상처입었다. 친목으로 시간을 낭비하는 것 따위는 용납하지 않을 거다. 테린팔 보루가 바로 우리의 목적을 되찾을 곳이란 "
 "말이다.\n"
 "\n"
 "내가 직접 위반자들을 처벌할 테니 놈들을 내게 보내고, 훈련 시간을 한 시간 연장하도록. 앞으로 다가올 것에 대비하려면 더 강해져야 한다."
@@ -8558,7 +8557,7 @@ msgid ""
 "\n"
 "—Peytr Lothir, accused of apostasy. Brought in for examination by Seeker Landsdale. Possessed no magic. Thought to be in the grip of a disease of the brain. Kept imprisoned for his own safety. Visitors allowed. Jailed 9th of Pluitanis, 7:02 Storm."
 msgstr ""
-"<i>2세기 전 세린팔 보루에 수감된 죄수들의 일지에서 나온 한 페이지. 종이를 만지자 바스라진다.</i>\n"
+"<i>2세기 전 테린팔 보루에 수감된 죄수들의 일지에서 나온 한 페이지. 종이를 만지자 바스라진다.</i>\n"
 "\n"
 "—테한 탐구자의 조사에서 무죄로 밝혀진 마리온 덜지를 성기사 웰렌, 폴러와 르게인이 그를 배교의 혐의로 몰아세워 심문했다. 폭풍의 시대 "
 "7:02년, 만동월 5일 수감됨.\n"
@@ -8581,14 +8580,14 @@ msgstr "악몽"
 #: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\map\val_SeekerFortress_floor2.xml:25
 msgctxt "0x0004392e"
 msgid "Therinfal Redoubt - Lower Level"
-msgstr "세린팔 보루 - 하층"
+msgstr "테린팔 보루 - 하층"
 
 #. FILE: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\map\val_SeekerFortress_floor3.xml
 #. PATH: BWMap/TitleReference
 #: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\map\val_SeekerFortress_floor3.xml:25
 msgctxt "0x0004392c"
 msgid "Therinfal Redoubt - Main Level"
-msgstr "세린팔 보루 - 지상층"
+msgstr "테린팔 보루 - 지상층"
 
 #. FILE: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\map\val_SeekerFortress_floor3.xml
 #. PATH: BWMapPinLocation[2]/TitleReference
@@ -8602,14 +8601,14 @@ msgstr "악몽 탈출하기"
 #: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\map\val_SeekerFortress_floor4.xml:25
 msgctxt "0x00043932"
 msgid "Therinfal Redoubt - Upper Level"
-msgstr "세린팔 보루 - 상층"
+msgstr "테린팔 보루 - 상층"
 
 #. FILE: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\val_SeekerFortress.xml
 #. PATH: UILevelDescriptionComponent/LocationName
 #: DA3\Layouts\ValRoyeaux\Val_SeekerFortress\val_SeekerFortress.xml:13337
 msgctxt "0x0003224a"
 msgid "Therinfal Redoubt"
-msgstr "세린팔 보루"
+msgstr "테린팔 보루"
 
 #. FILE: DA3\Layouts\ValRoyeaux\Val_SeraAcqusition\Val_SeraAcqusition.xml
 #. PATH: UILevelDescriptionComponent/LocationName
@@ -8693,7 +8692,7 @@ msgstr "크레스트우드"
 #: DA3\Layouts\WorldMap\gen_da3_world_map\map\gen_da3_world_map_floor0.xml:1330
 msgctxt "0x00029e70"
 msgid "Lost Temple of Dirthamen"
-msgstr "더타멘의 잃어버린 사원"
+msgstr "덜사멘의 잃어버린 사원"
 
 #. FILE: DA3\Layouts\WorldMap\gen_da3_world_map\map\gen_da3_world_map_floor0.xml
 #. PATH: BWMapPinArea[11]/TitleReference

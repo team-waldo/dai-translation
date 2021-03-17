@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-14 13:55+0000\n"
-"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
+"PO-Revision-Date: 2021-03-17 08:07+0000\n"
+"Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -155,7 +155,7 @@ msgstr "이 캐릭터를 승급 시키면 레벨과 기술이 초기화 되지�
 msgctxt "0x000491a2"
 msgid "<font color=\"#CCDDAA\">You are currently in a lobby. If you enter the Proving Grounds now, you'll be removed from this lobby. Continue?</font>"
 msgstr ""
-"<font color=\"#CCDDAA\">당신은 현재 로비에 있습니다. 결투장에 들어가게 되면 로비에서 나가게 됩니다. "
+"<font color=\"#CCDDAA\">당신은 현재 로비에 있습니다. 훈련장에 진입하면 로비에서 나가게 됩니다. "
 "계속하시겠습니까?</font>"
 
 #. FILE: UI\Flow\PRE_ChangeCharacter_Prefab.xml
@@ -163,7 +163,7 @@ msgstr ""
 #: UI\Flow\PRE_ChangeCharacter_Prefab.xml:681
 msgctxt "0x000491a4"
 msgid "<font color=\"#CCDDAA\">Are you sure you'd like to enter the Proving Grounds?</font>"
-msgstr "<font color=\"#CCDDAA\">결투장에 진입하시겠습니까?</font>"
+msgstr "<font color=\"#CCDDAA\">훈련소로 입장하시겠습니까?</font>"
 
 #. FILE: UI\Flow\PRE_ChangeCharacter_Prefab.xml
 #. PATH: BWPopUpEntityData[5]/Text
@@ -177,7 +177,7 @@ msgstr "이 캐릭터를 승급 시키면 레벨과 기술이 초기화 되지�
 #: UI\Flow\PRE_ChangeCharacter_Prefab.xml:761
 msgctxt "0x00048ac2"
 msgid "<font color=\"#CCDDAA\">Enter Proving Grounds</font>"
-msgstr "<font color=\"#CCDDAA\">증명의 장으로 입장</font>"
+msgstr "<font color=\"#CCDDAA\">훈련소 입장</font>"
 
 #. FILE: UI\Flow\PRE_ChangeCharacter_Prefab.xml
 #. PATH: BWPopUpEntityData[6]/Text
@@ -185,9 +185,9 @@ msgstr "<font color=\"#CCDDAA\">증명의 장으로 입장</font>"
 msgctxt "0x000491a3"
 msgid "<font color=\"#CCDDAA\">We recommend new players start at the Proving Grounds. This typically takes about 10 minutes, and you'll receive a reward chest upon completion. If you skip it now, you can always enter the Proving Grounds from the Character Select screen. Would you like to enter the Proving Grounds now?</font>"
 msgstr ""
-"<font color=\"#CCDDAA\">신규 유저들은 증명의 장을 시작하는 것을 추천합니다. 이는 통상적으로 10분 정도 걸리며 모든 "
-"과정을 완료시 보상 상자를 제공합니다. 이를 건너뛰더라도 캐릭터 선택 화면에서 언제든지 증명의 장으로 진입할 수 있습니다. 지금 증명의 "
-"장으로 입장하시겠습니까?</font>"
+"<font color=\"#CCDDAA\">신규 유저들은 훈련장으로 시작하는 것을 추천합니다. 이는 통상적으로 10분 정도 걸리며 모든 "
+"과정을 완료시 보상 상자를 제공합니다. 이를 건너뛰더라도 캐릭터 선택 화면에서 언제든지 훈련장으로 진입할 수 있습니다. 지금 훈련장으로 "
+"입장하시겠습니까?</font>"
 
 #. FILE: UI\Flow\PRE_ChangeCharacter_Prefab.xml
 #. PATH: BWPopUpEntityData[7]/Title
@@ -2196,7 +2196,7 @@ msgstr "게임 설정"
 #: UI\Flow\Screen\PRE\PRE_CreateMatch.xml:1794
 msgctxt "0x00022718"
 msgid "Create Match"
-msgstr "게임 생성하기"
+msgstr "게임 생성"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_CreateMatch.xml
 #. PATH: UIMultiplayerPickerBinding[1]/HeaderText
@@ -2635,7 +2635,7 @@ msgstr "교활"
 #: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml:203
 msgctxt "0x00043adb"
 msgid "Promoted"
-msgstr "승급 완료"
+msgstr "승급도"
 
 #. FILE: UI\Flow\Screen\PRE\PRE_MultiplayerCharSelect.xml
 #. PATH: UILocalizedScreenAsset/LocalizedLabels/member[17]/UIScreenAssetLocalizedLabel/LocString
@@ -12698,7 +12698,7 @@ msgstr "이 저장 파일의 소유자가 아닙니다. 계속 진행하면 저�
 #: UI\Settings\ExternalLocStringTranslator.xml:139
 msgctxt "0x00023c70"
 msgid "Please wait..."
-msgstr "기다려 주세요…"
+msgstr "잠시 기다리십시오..."
 
 #. FILE: UI\Settings\ExternalLocStringTranslator.xml
 #. PATH: UIExternalLocStringTranslator/Data/member[15]/UIExternalLocStringIDToLocalizedString/DisplayString
@@ -14207,7 +14207,7 @@ msgstr ""
 #: UI\assets\CharacterCreation\CharacterSummaryUIData.xml:231
 msgctxt "0x00043136"
 msgid "Dalish Apprentice"
-msgstr "데일스 견습생"
+msgstr "데일스 수습생"
 
 #. FILE: UI\assets\CharacterCreation\CharacterSummaryUIData.xml
 #. PATH: UICharacterSummaryDataAsset/CharacterSummaries/member[10]/CharacterSummaryUIData/BackgroundBody
@@ -14217,7 +14217,7 @@ msgid "Enslaved long ago by humans, most elves still live as second-class citize
 msgstr ""
 "오래 전 인간의 노예였던 엘프 대부분은 아직도 인간 사회에서 하등시민으로 살아갑니다. 이런 삶을 거부한 엘프는 데일스라 불립니다. "
 "데일스는 유랑 생활을 하며 고대 엘프의 종교와 전통을 지키고자 노력합니다. 라벨란 부족에서 자란 당신은 부족의 리더이자 조언자인 수호자의 "
-"견습생입니다. 부족은 자유 동맹 북쪽을 전전하며 인간과 접점 없이 지내왔습니다. 어느 날 부족의 수호자는 당신을 챈트리 콘클라베를 염탐할 "
+"수습생입니다. 부족은 자유 동맹 북쪽을 전전하며 인간과 접점 없이 지내왔습니다. 어느 날 부족의 수호자는 당신을 챈트리 콘클라베를 염탐할 "
 "것을 지시합니다. 여기서 일어날 일이 데일스 뿐만 아니라 모든 엘프의 삶에 영향을 미칠 것이라면서. 그렇게 정확한 말일 수 없었습니다."
 
 #. FILE: UI\assets\CharacterCreation\CharacterSummaryUIData.xml
@@ -28519,7 +28519,7 @@ msgstr "무서울 정도로 지능적입니다. 기수의 잘못을 \"지적\"�
 #: UI\assets\Stables\Stables_RedHart4.xml:5
 msgctxt "0x0004474c"
 msgid "Pride of Arlathan"
-msgstr "알라싼의 오만"
+msgstr "알라산의 오만"
 
 #. FILE: UI\assets\Stables\Stables_RedHart4.xml
 #. PATH: UIBaseCustomizeItemAsset/Description

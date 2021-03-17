@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-14 13:56+0000\n"
-"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
+"PO-Revision-Date: 2021-03-17 08:07+0000\n"
+"Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -138,7 +138,7 @@ msgstr "원소술사"
 #: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_guardian.xml:7142
 msgctxt "0x00022549"
 msgid "Legionnaire"
-msgstr "군단 용사"
+msgstr "군단용사"
 
 #. FILE: DA3\Actors\party\Specializations\multiplayer\gen_partymember_mp2_originals_hunter.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -2188,7 +2188,7 @@ msgstr "{MPNightmareDifficulty} 악몽"
 #: DA3\Configurations\Online\MPMatchSettingsBundle.xml:37
 msgctxt "0x0004a3b0"
 msgid "Nightmare operations are recommended for highly skilled players."
-msgstr "악몽 작전은 매우 기술이 뛰어난 플레이어들에게 적합합니다."
+msgstr "악몽 난이도 작전은 게임에 크게 숙달된 플레이어에게 적합합니다."
 
 #. FILE: DA3\Configurations\Online\MPMatchSettingsBundle.xml
 #. PATH: MPDifficultyMatchSettingMode[2]/DisplayName
@@ -2426,7 +2426,7 @@ msgstr "몰살자"
 #: DA3\Configurations\Online\MPServerMappingConfiguration.xml:2863
 msgctxt "0x0004a1ab"
 msgid "Living Legend"
-msgstr "살아 있는 전설"
+msgstr "살아있는 전설"
 
 #. FILE: DA3\Configurations\Online\MPServerMappingConfiguration.xml
 #. PATH: MPServerMappingChallengeRewardText[26]/RewardText
@@ -2615,7 +2615,7 @@ msgstr "악마 진압자"
 #: DA3\Configurations\Online\MPServerMappingConfiguration.xml:5413
 msgctxt "0x000429d7"
 msgid "Deep Road Veteran"
-msgstr "지하 가도 노병"
+msgstr "지하 가도 베테랑"
 
 #. FILE: DA3\Configurations\Online\MPServerMappingConfiguration.xml
 #. PATH: MPServerMappingChallengeRewardText[56]/RewardText
@@ -2990,7 +2990,7 @@ msgstr "<font color=\"#5200CC\">전격 분쇄</font>\n"
 #: DA3\Configurations\Online\Multiplayer\Abilities\Actives\Warrior\Avvar\MightyBlow\MP_avvar_mightyblow_cold_buff_statuseffect.xml:11
 msgctxt "0x0004647a"
 msgid "Elemental Affinity"
-msgstr "원소와의 친밀감"
+msgstr "원소 친화도"
 
 #. FILE: DA3\Configurations\Online\Multiplayer\Abilities\Actives\Warrior\Avvar\MightyBlow\MP_avvar_mightyblow_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -3935,7 +3935,7 @@ msgid ""
 "<font color=\"#CCDDAA\"><b>Mage: Support specialist</b></font>\n"
 "A musical virtuoso with a song for every situation."
 msgstr ""
-"<font color=\"#CCDDAA\"><b>Mage: Support specialist</b></font>\n"
+"<font color=\"#CCDDAA\"><b>마법사: 전문 지원가</b></font>\n"
 "모든 상황에 걸맞는 곡을 연주하는 음악의 거장."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP2\MP_Bard.xml
@@ -3944,9 +3944,9 @@ msgstr ""
 msgctxt "0x000471dc"
 msgid "ZITHER! was once a household name in Orlais, playing for packed auditoriums of nobility and commoners alike. But then the Circles rebelled, his templar manager tried to kill him, and he's frittered away all his gold drinking in a riverside tavern in Cumberland for the past two years, unable to get a gig. The Inquisition is his one chance at a comeback tour, and he's going to grab it with both bejeweled hands."
 msgstr ""
-"치터!는 한때 올레이에 있는 가정의 이름으로 귀족과 평민들로 가득 찬 강당에서 연주했습니다. 하지만 협회가 반란을 일으키고 성기사 "
-"지배인이 죽이려 들어, 지난 2년 동안 컴벌랜드의 강변 주점에서 금화를 전부 마시는데 써버렸으니 공연은 불가능했습니다. 심문회는 재기할 "
-"수 있는 유일한 기회고 보석투성이 손으로 다잡을 겁니다."
+"지터!는 한때 올레이의 유명인으로 귀족과 평민들로 가득 찬 강당에서 연주하였다. 하지만 협회가 반란을 일으키고, 그의 성기사 지배인이 "
+"그를 죽이려 들자, 그 동안 모아둔 모든 금화를 2년 동안 컴벌랜드의 강변 주점에서 술에 탕진해버렸다. 2년간 공연이 없었던 그에게 "
+"심문회는 유일한 컴백 투어 기회이며, 보석이 주렁주렁 달린 두 손으로 이 기회를 붙잡을 것이다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP2\MP_Bard.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -3969,8 +3969,8 @@ msgid ""
 "<font color=\"#CCDDAA\"><b>Rogue: Damage specialist</b></font>\n"
 "A notorious raider captain and duelist."
 msgstr ""
-"<font color=\"#CCDDAA\"><b>Rogue: Damage specialist</b></font>\n"
-"악명높은 약탈 선장이자 결투사."
+"<font color=\"#CCDDAA\"><b>도적: 전문 공격수</b></font>\n"
+"악명높은 약탈 선장이자 결투사입니다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP2\MP_Isabela.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableDescription
@@ -3980,8 +3980,8 @@ msgid "They call her \"The Queen of the Eastern Seas\", and with good reason: Is
 msgstr ""
 "그녀를 \"동쪽 해협의 여왕\"이라 부르는 건 그럴 만한 이유가 있다. 이자벨라는 펠리시시마 함대의 위험하고 교활한 약탈자들 사이에서도 "
 "더욱 위험하고 더욱 교활하게 행동하며 번창했다. 돈 되는 걸 쫓기 위해서 —혹은 그냥 재미로—이 교활한 선장은 심문회와 위태로운 동맹을 "
-"맺었다. 누군가는 이자벨라를 중히 여기겠지만, 다른 이들은 이자벨라가 그 참신한 합의를 저버린 채 밤중에 웃으며 심문회의 궤짝을 털고 "
-"달아나기까지는 시간 문제라 말한다."
+"맺었다. 누군가는 이자벨라를 중히 여기겠지만, 다른 이들은 이자벨라가 합의에는 흥미를 잃고, 미소를 띄며 한밤에 심문회의 궤짝을 털어 "
+"달아나는 것은 시간 문제라고 말한다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP2\MP_Isabela.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -4004,8 +4004,8 @@ msgid ""
 "<font color=\"#CCDDAA\"><b>Warrior: Damage specialist</b></font>\n"
 "An Avvar warrior who calls upon the elements in battle."
 msgstr ""
-"<font color=\"#CCDDAA\"><b>Warrior: Damage specialist</b></font>\n"
-"전투에서 원소를 다루는 아바르 전사."
+"<font color=\"#CCDDAA\"><b>전사: 전문 공격수</b></font>\n"
+"원소를 무기삼아 전투하는 아바르 전사입니다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP2\MP_Skywatcher.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableDescription
@@ -4042,7 +4042,7 @@ msgstr "루카"
 #: DA3\Configurations\Party\Multiplayer\MP_Alchemist.xml:23
 msgctxt "0x00043ec6"
 msgid "An eccentric dwarf with an assortment of strange brews and explosives."
-msgstr "이상한 맥주 여럿과 폭발물을 가진 괴짜 드워프."
+msgstr "이상한 맥주 여럿과 폭발물을 가진 괴짜 드워프입니다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Alchemist.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableDescription
@@ -4050,10 +4050,10 @@ msgstr "이상한 맥주 여럿과 폭발물을 가진 괴짜 드워프."
 msgctxt "0x000435b4"
 msgid "Luka remembers the prison in the Vimmark Mountains: she was nobody, clearing out tunnels for the Carta, not important enough to know the truth about why they were there. She watched as the Carta descended into madness, never learning who pulled the strings. When Hawke destroyed the prison, she was trapped, alone and forgotten. It took years, but she got out, using salvaged treasures to blast her own exit to freedom. Then the Inquisition came calling, because they also remembered the prison—and what was held there."
 msgstr ""
-"루카는 빈마르크 산맥의 감옥을 기억한다. 그녀는 카르타가 그곳에 있는 이유를 알 만큼 중요하지 않은, 보잘것없는 드워프라 그저 굴을 "
-"청소할 뿐이였다. 카르타가 광기에 빠져드는 것을 보았지만 누가 조종하는 것인지 전혀 알지 못했다. 호크가 감옥을 부쉈을 때, 그녀는 홀로 "
-"갇혀 잊혔다. 몇 년이나 걸렸지만 약탈한 보물들을 이용해 자유를 찾아 출구를 향해 폭파했다. 그러고 나서야 심문회는 그곳의 감옥과 "
-"갇혀있던 무언가를 기억하고 찾아왔다."
+"루카는 바이마르크 산맥의 감옥을 기억한다. 그녀는 보잘것없는 드워프라 그저 터널을 청소할 뿐, 왜 카르타가 여기 있는지 알 수 없었다. "
+"카르타가 광기에 빠져드는 것을 보았지만 그 연유 또한 알 수 없었다. 호크가 감옥을 부수었을 때, 그녀는 홀로 갇혀 잊혀져갔다. 루카는 "
+"몇 년동안 주워모은 것들을 이용해 폭발을 일으켜 자유를 향한 출구를 만들어냈다. 그러자 심문회가 다가왔다. 심문회는 그 곳의 감옥도, "
+"갇혀있던 무언가도 기억하고 있었다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Alchemist.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -4079,7 +4079,7 @@ msgstr "실리안"
 #: DA3\Configurations\Party\Multiplayer\MP_ArcaneWarrior.xml:23
 msgctxt "0x00043ec3"
 msgid "A mage with blades dedicated to an ancient elven art."
-msgstr "고대 엘프의 기예에 바쳐진 검을 든 마법사."
+msgstr "고대 엘프의 기예에 바쳐진 검을 든 마법사입니다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_ArcaneWarrior.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableDescription
@@ -4115,7 +4115,7 @@ msgstr "할"
 #: DA3\Configurations\Party\Multiplayer\MP_Archer.xml:23
 msgctxt "0x00043ece"
 msgid "An expert marksman and sniper."
-msgstr "전문 사수이자 저격수."
+msgstr "전문 사수이자 저격수입니다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Archer.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableDescription
@@ -4124,9 +4124,8 @@ msgctxt "0x000435bb"
 msgid "Hall is a survivor from the Wilds, a woodsman and archer. A Dalish hunter rescued him from a bandit raid when he was a child and taught him her skills. But he was human, and not welcome in her clan; once he could fend for himself, he was turned out. Hall wandered for years, never quite finding his place. When a beam of light tore the sky, he was drawn towards it, knowing that it spelled disaster—and for once, understanding that he was needed."
 msgstr ""
 "할은 야생에서 살아남은 숲사람이자 궁수다. 한 데일스 사냥꾼이 그를 도적으로부터 구해주고 기술들을 가르쳐 주었다. 허나 그는 인간이어서 "
-"그녀의 부족에게 환대받지 못했고 자신의 힘으로 살아갈 수 있게 되면 쫓겨나기로 하였다. 할은 몇 년 동안이나 방황했지만, 자리 잡을 수 "
-"없었다. 한 줄기 빛이 하늘을 찢어버렸을 때, 이것이 재앙을 의미한다는 걸 알았지만 이끌렸고 단 한 순간이라도 자신이 필요하다는 것을 "
-"이해했다."
+"그녀의 부족에게 환대받지 못했고, 능력이 길러지자 쫓겨나게 되었다. 할은 몇 년 동안이나 자리를 잡지 못하고 떠돌아다녔다. 한 줄기 빛이 "
+"하늘을 찢어버렸을 때, 드디어 누군가 자신을 필요로할 것을 깨달은 할은 그것이 재앙이라는 것을 알았음에도 빛을 향하여 걸어갔다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Archer.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -4152,7 +4151,7 @@ msgstr "카타리"
 #: DA3\Configurations\Party\Multiplayer\MP_Barbarian.xml:23
 msgctxt "0x00043ec9"
 msgid "A Qunari giant who brings death and destruction."
-msgstr "죽음과 파괴를 가져오는 쿠나리 거인."
+msgstr "죽음과 파괴를 가져오는 쿠나리 거인입니다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Barbarian.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableDescription
@@ -4188,7 +4187,7 @@ msgstr "아르장"
 #: DA3\Configurations\Party\Multiplayer\MP_Duelist.xml:23
 msgctxt "0x00043ec5"
 msgid "A knife from the shadows."
-msgstr "그림자 속의 칼날."
+msgstr "그림자 속의 칼날입니다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Duelist.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableDescription
@@ -4224,7 +4223,7 @@ msgstr "라이온"
 #: DA3\Configurations\Party\Multiplayer\MP_Elementalist.xml:23
 msgctxt "0x00043ec7"
 msgid "An explosive personality who controls primal forces."
-msgstr "원시의 힘을 다루는 폭발적인 성격."
+msgstr "원시의 힘을 다루는 폭발적인 성질의 소유자입니다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Elementalist.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableDescription
@@ -4261,7 +4260,7 @@ msgstr "코르빈"
 #: DA3\Configurations\Party\Multiplayer\MP_Guardian.xml:23
 msgctxt "0x00043eca"
 msgid "A walking fortress of dwarven steel."
-msgstr "드워프 철갑옷을 입은 걸어다니는 요새."
+msgstr "드워프 철갑옷을 입은 걸어다니는 요새입니다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Guardian.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableDescription
@@ -4297,7 +4296,7 @@ msgstr "손튼"
 #: DA3\Configurations\Party\Multiplayer\MP_Hunter.xml:23
 msgctxt "0x00043ec8"
 msgid "A grizzled trapper and master of the bow."
-msgstr "반백의 사냥꾼이자 활의 명수."
+msgstr "반백의 사냥꾼이자 활의 명수입니다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Hunter.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableDescription
@@ -4305,8 +4304,9 @@ msgstr "반백의 사냥꾼이자 활의 명수."
 msgctxt "0x000435b9"
 msgid "Thornton is a veteran ranger. An experienced soldier, he has served different masters, lived through several wars, and always lived to tell the tale. What the Inquisition faces now, however, is altogether different and far more terrifying, and it will take everything he's ever learned to get through it. But he will get through it—because Thornton always does."
 msgstr ""
-"손튼은 베테랑 경비병이다. 경험 많은 군인인 그는 여러 주인을 섬겼고, 몇 차례의 전쟁을 겪었으며, 늘 그 이야기를 들려주었다. 그러나 "
-"지금 심문회가 직면하고 있는 것은 겪어보지 못한 것이며 훨씬 무시무시한 것이다. 그렇지만 그는 이겨낼 것이다. 손튼은 항상 그렇기에."
+"손튼은 베테랑 공격대원이다. 경험 많은 군인인 그는 여러 주인을 섬겼고, 몇 차례의 전쟁을 겪었으며, 늘 살아남아 그 이야기를 "
+"들려주었다. 그러나 지금 심문회가 마주하는 것은 모든 전력을 다해야만 이겨낼 전대미문의 위협이다. 하지만 그는 이 또한 이겨낼 것이다. "
+"손튼은 항상 그렇기에."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Hunter.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -4332,7 +4332,7 @@ msgstr "네리아"
 #: DA3\Configurations\Party\Multiplayer\MP_Keeper.xml:23
 msgctxt "0x00043ecc"
 msgid "A proud elven apprentice who wields Dalish magic to protect or destroy."
-msgstr "데일스 엘프 마법으로 보호하거나 파괴하는 자긍심 높은 엘프 견습생."
+msgstr "데일스 엘프 마법으로 보호하고 공격하는 자긍심 높은 엘프 수습생입니다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Keeper.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableDescription
@@ -4369,7 +4369,7 @@ msgstr "시도니"
 #: DA3\Configurations\Party\Multiplayer\MP_Necromancer.xml:23
 msgctxt "0x00043ec4"
 msgid "A cold mistress of magic with terrifying power."
-msgstr "무시무시한 마법을 사용하는 차가운 여성."
+msgstr "무시무시한 마법을 사용하는 차가운 여성입니다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Necromancer.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableDescription
@@ -4377,9 +4377,10 @@ msgstr "무시무시한 마법을 사용하는 차가운 여성."
 msgctxt "0x000435be"
 msgid "Raised in secret in Nevarra by a Mortalitasi mage, Sidony was brought up to revel in her magical abilities. She feels no kinship with mages who do not share her pride and has little but disdain for most other people. Sidony's only goal is to uncover her full potential as a mage, so she hungers for magical knowledge. When news of the Breach reached her, she headed directly to see it for herself, hoping that whatever secrets it held would be the key to her own advancement."
 msgstr ""
-"시도니는 잠재된 마법 능력을 증폭시키기 위해 네바라 모탈리타시의 마법사의 손에서 은밀히 키워졌다. 자신을 자랑스러워하지 않는 마법사들에게 "
-"유대감을 느끼지 않으며 조금이지만, 다른 이들을 업신여기는 경향이 있다. 시도니의 유일한 목표는 마법사의 잠재력을 최대한 발휘하는 "
-"것이어서, 배움에 목말라 있다. 대균열에 대한 소식을 접하자 그것이 자신의 발전을 위한 열쇠가 되기를 바라며 직접 그곳으로 향했다."
+"시도니는 네바라 모탈리타시의 마법사의 손에서 은밀히 키워져 마법 능력을 마음껏 휘두르며 자라났다. 시도니는 마법에 자부심이 없는 "
+"마법사들에게는 유대감을 느끼지 않으며, 대부분의 다른 이들은 경멸할 뿐이다. 시도니의 유일한 목표는 마법사로써의 최대한의 잠재력을 "
+"발휘하는 것이기에, 늘 마법적 배움에 목말라 있다. 대균열에 대한 소식을 접하자 그것이 자신의 발전을 위한 열쇠가 되기를 바라며 직접 그 "
+"곳으로 향했다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Necromancer.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -4405,7 +4406,7 @@ msgstr "타마르"
 #: DA3\Configurations\Party\Multiplayer\MP_Reaver.xml:23
 msgctxt "0x00043ecd"
 msgid "A formidable warrior who draws strength from a dark ritual."
-msgstr "어둠의 의식에서 힘을 얻는 강력한 전사."
+msgstr "어둠의 의식에서 힘을 얻는 강력한 전사입니다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Reaver.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableDescription
@@ -4413,9 +4414,9 @@ msgstr "어둠의 의식에서 힘을 얻는 강력한 전사."
 msgctxt "0x000435b5"
 msgid "Tamar is a fearsome warrior who developed her abilities by consuming dragon blood. One of the cultists who lived in Haven during the Fifth Blight, she escaped the Chantry by fleeing into the mountains. Tamar was later captured by Inquisition agents and given the choice to serve or die. Execution in captivity would have been shameful; Tamar wishes to die in battle, the blood of her enemies on her sword and a war cry on her lips."
 msgstr ""
-"타마르는 용의 피를 섭취하여 자신의 능력을 길러낸 무시무시한 전사이다. 다섯 번째 대재앙 속 헤이븐에서 살던 광신자 중 하나인 그녀는 "
-"산으로 도망쳐 챈트리에게서 벗어났다. 타마르는 후에 심문회에게 붙잡어 복역과 죽음의 갈림길을 맞이했다. 감금되어 처형되는 일은 "
-"수치스러웠을 것이다. 타마르는 전장에서의 죽음을 원했고, 검에 묻은 적들의 피와 전쟁을 부르짖었다."
+"타마르는 용의 피를 섭취하여 자신의 능력을 길러낸 무시무시한 전사이다. 5차 대재앙 중 헤이븐에서 살던 광신자 중 하나인 그녀는 산으로 "
+"도망쳐 챈트리에게서 벗어났다. 타마르는 후에 심문회에게 붙잡혀 복역과 죽음의 갈림길을 맞이하였다. 감금되어 처형되는 일은 수치스러웠을 "
+"것이다. 타마르는 적의 피가 묻은 검과 전쟁의 함성을 외치는 입술로 전장에서의 죽음을 원할 뿐이었다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Reaver.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -4446,7 +4447,7 @@ msgid ""
 "<font color=\"#CCDDAA\"><b>Mage: Damage specialist</b></font>\n"
 "A silent Qunari mage with deadly and unpredictable magic.<br><br>{string}280250{/string} {string}308442{/string}"
 msgstr ""
-"<font color=\"#CCDDAA\"><b>마법사: 피해 전문가</b></font>\n"
+"<font color=\"#CCDDAA\"><b>마법사: 전문 공격수</b></font>\n"
 "치명적이고 예측 불가한 마법을 다루는 침묵의 쿠나리 마법사입니다.<br><br>{string}280250{/string} "
 "{string}308442{/string}"
 
@@ -4456,9 +4457,9 @@ msgstr ""
 msgctxt "0x0004b4c9"
 msgid "Hissera was training as a priestess when her magic manifested. She learned to server the Qun as a saarebas instead, her lips sewn shut and her actions monitored to protect her from demons. She lived a simple, dutiful life until the Qunari, seeking an alliance with the Inquisition, sent her to help restore order to the decadent South. Now, without an arvaarad to guard her, she must trust in the Qun, and her own power, to keep her safe from corruption."
 msgstr ""
-"그녀의 마법이 발현되었을 때 히세라는 사제로서 훈련을 받고 있었다. 그녀는 쿤을 사레바스로 섬기는 법을 배웠으나, 그녀를 악마로부터 "
-"보호하기 위해 감시당하고 침묵 당했다. 쿠나리가 심문회와의 동맹을 원하기 전까지, 쇠퇴한 남부의 재건을 위해 파견되기 전까지 그녀는 "
-"단순하고 순종적인 삶을 살았다. 이제, 수호하던 아바라드 없이, 타락으로부터 자신을 지키기 위해서는 쿤과 자신의 힘을 믿어야 한다."
+"히세라가 사제가 되기 위한 훈련을 받고 있을 무렵, 그녀의 마법이 발현하였다. 스스로를 악마로부터 보호하고자 입을 꿰메었고 모든 행동을 "
+"감시하여, 사레바스 신분으로 쿤을 섬기는 법을 배워나갔다. 심문회와의 동맹을 원하는 쿠나리 지휘부는 단순하고 충실한 삶을 살던 히세라를 "
+"파견하였다. 히세라는 이제 아바라드 수호자 없이, 쿤과 자신만의 힘을 믿으며 타락과 싸워나가야한다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Skirmisher.xml
 #. PATH: BWMultiplayerCharacterData/DefaultCharacterName
@@ -4477,7 +4478,7 @@ msgid ""
 "<font color=\"#CCDDAA\"><b>Warrior: Damage specialist</b></font>\n"
 "A mute dwarf from the Warrior Caste.<br><br>{string}280250{/string} {string}307285{/string}"
 msgstr ""
-"<font color=\"#CCDDAA\"><b>Warrior: Damage specialist</b></font>\n"
+"<font color=\"#CCDDAA\"><b>전사: 전문 공격수</b></font>\n"
 "무언을 서약한 전사 계급 출신 드워프입니다.<br><br>{string}280250{/string} "
 "{string}307285{/string}"
 
@@ -4487,9 +4488,9 @@ msgstr ""
 msgctxt "0x0004b056"
 msgid "The Silent Sisters of Orzammar are an order of zealous female dwarven warriors who follow the example of Paragon Asyth the Grey.  Upon gaining membership into the order, each Sister cuts out her own tongue to show her complete dedication to the art of war.  When she learned of the Inquisition and its seemingly endless battle against demons, traitors, and monsters, Pala gladly accepted exile and the loss of her caste to go to the surface.  There is no better place to master her art."
 msgstr ""
-"오자마르의 침묵의 자매는 회색 감시자 파라곤 아시스를 따르는 열성적인 여성 드워프 전사 군대의 대표적인 예시이다. 입대하자마자, 자매들은 "
-"전술에 완벽히 헌신한다는 것을 보이기 위해 자신들의 혀를 잘라낸다. 심문회와 악마와의 끝없는 전쟁, 배신자와 괴물에 대해 알게 되었을 "
-"때, 팔라는 지상으로 향하기 위해 추방과 계급 박탈을 기꺼이 받아들였다. 그녀의 무예를 수련하기에는 더할 나위 없을 것이다."
+"오자마르의 침묵의 자매는 회색 감시자 파라곤 아시스를 따르는 열성적인 여성 드워프 기사단입니다.  입단한 자매들은 무예에 대한 완벽한 "
+"헌신의 증표로 자신들의 혀를 잘라냅니다.  팔라가 심문회와 악마와의 끝없는 전쟁, 배신자와 괴물에 대해 알게 되었을 때, 그녀는 추방과 "
+"계급 박탈을 기꺼이 받아들이고 지상으로 향하였습니다.  무예를 단련하기에 더할 나위 없을 것입니다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Templar.xml
 #. PATH: BWMultiplayerCharacterData/DefaultCharacterName
@@ -4503,7 +4504,7 @@ msgstr "벨린다 대로 경"
 #: DA3\Configurations\Party\Multiplayer\MP_Templar.xml:23
 msgctxt "0x00043ecb"
 msgid "A soldier of faith who will step between allies and the strongest magic and demons."
-msgstr "아군과 마법과 악마 사이를 오가는 성전사."
+msgstr "강력한 마법과 악마로부터 아군을 지키는 성전사입니다."
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Templar.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableDescription
@@ -4513,7 +4514,7 @@ msgid "Belinda is a noble from Starkhaven and a recent initiate into the templar
 msgstr ""
 "벨린다는 최근에 성기사단에 합류한 스탁 헤이븐의 귀족으로 기사단이 성가회로부터 분리되기 고작 몇달 전에 서약을 했다. 그녀가 사랑했던 "
 "기사단이 성가회에 반기를 드는 것에 충격 받은 벨린다는 성기사단을 떠났고, 교황에게 충성을 다했다. 저스티니아가 살해당했을 때, 벨린다는 "
-"상황이 나아지기를 바라며 새롭게 창립된 심문회에와 함께했다. "
+"상황을 바로잡고자 새롭게 창립된 심문회에 입단했다. "
 
 #. FILE: DA3\Configurations\Party\Multiplayer\MP_Templar.xml
 #. PATH: BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -4595,7 +4596,7 @@ msgstr "악몽"
 #: DA3\Creatures\Boss\creature_boss_highdragon_ancient.xml:4442
 msgctxt "0x000447f0"
 msgid "Guardian of Mythal"
-msgstr "미쌀의 수호자"
+msgstr "미살의 수호자"
 
 #. FILE: DA3\Creatures\Boss\creature_boss_highdragon_ancient.xml
 #. PATH: TargetElement[4]/TargetNameReference
@@ -5540,7 +5541,7 @@ msgstr "보급품"
 #: DA3\Creatures\Multiplayer\creature_mp_recovery_object_weapons.xml:3999
 msgctxt "0x0003dd61"
 msgid "Weapon Cache"
-msgstr "무기 은닉처"
+msgstr "무기 더미"
 
 #. FILE: DA3\Creatures\Multiplayer\npc\creature_mp_fer_archer.xml
 #. PATH: CreatureEntityData/CharacterNameReference
@@ -8185,7 +8186,7 @@ msgstr "당신의 여정 중 가져온 것."
 #: DA3\DesignContent\Items\Skyhold\CodexVendor\sky_codex_purchase_myth_01.xml:11
 msgctxt "0x00043383"
 msgid "Recovered from the Temple of Mythal."
-msgstr "미쌀의 사원에서 가져온 것."
+msgstr "미살의 사원에서 가져온 것."
 
 #. FILE: DA3\DesignContent\Items\Skyhold\CodexVendor\sky_codex_purchase_red_01.xml
 #. PATH: StackedItemAsset/Description
@@ -9459,7 +9460,7 @@ msgstr "선물상자 안에서 발견된 작은 쪽지."
 #: DA3\DesignContent\Items\ThematicLevels\WaterRuins\the_WaterRuins_ElvenArtifact_item.xml:6
 msgctxt "0x0002b285"
 msgid "Dirthamen's Wisdom"
-msgstr "더타멘의 지혜"
+msgstr "덜사멘의 지혜"
 
 #. FILE: DA3\DesignContent\Items\ThematicLevels\WaterRuins\the_WaterRuins_Key_item.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -9599,7 +9600,7 @@ msgstr "몽틸리예 가문 문장"
 #: DA3\DesignContent\Items\sky_codex_purchase_seek_08.xml:11
 msgctxt "0x00043382"
 msgid "Recovered from Therinfal Redoubt."
-msgstr "세린팔 보루에서 얻은 것."
+msgstr "테린팔 보루에서 얻은 것."
 
 #. FILE: DA3\DesignContent\LootObjects\Adamant\ada_warden_outpost_note.xml
 #. PATH: StackedItemAsset/DisplayName
@@ -13439,7 +13440,7 @@ msgstr ""
 #: DA3\DesignContent\Prefabs\Levels\Skyhold\WarTable\WT_InvestigationLocator_Halamshiral.xml:1752
 msgctxt "0x000251f2"
 msgid "Wicked Eyes and Wicked Hearts"
-msgstr "간악한 눈길과 간악한 마음"
+msgstr "사악한 눈길과 악독한 마음"
 
 #. FILE: DA3\DesignContent\Prefabs\Levels\Skyhold\WarTable\WT_InvestigationLocator_Halamshiral.xml
 #. PATH: CritPathWarTableLocatorData/CritPathDescription
@@ -13537,7 +13538,7 @@ msgstr ""
 "{string}280957{/string}\n"
 "\n"
 "렐리아나와 조세핀의 끊임없는 설득과 협박 덕분에 올레이의 가장 영향력있는 일부 귀족 가문을 끌어들이는 데 성공했다. 귀족 가문 열 곳은 "
-"성기사단을 압박하여 대균열을 봉인하는데 힘을 보탤 수 있도록 세린팔 보루로 향하고 있으며 이들은 올레이의 분노를 사고싶지 않으면 자신들의 "
+"성기사단을 압박하여 대균열을 봉인하는데 힘을 보탤 수 있도록 테린팔 보루로 향하고 있으며 이들은 올레이의 분노를 사고싶지 않으면 자신들의 "
 "의견을 받아들일 것을 요구할 것이다. 심문회는 이 협상의 대변인으로 안드라스테의 전령이 직접 나설 것을 약속했다.\n"
 "\n"
 "{string}281195{/string}: {string}281191{/string}"
@@ -13719,7 +13720,7 @@ msgstr "사건"
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\MP_AssassinateSpawner.xml:2954
 msgctxt "0x00042d07"
 msgid "Locate the Targeted Enemy"
-msgstr "표적 찾기"
+msgstr "목표 대상을 찾아라"
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\MP_AssassinateSpawner.xml
 #. PATH: GetLocalizedStringIDData[4]/Text
@@ -13733,7 +13734,7 @@ msgstr "베나토리 지휘관 처치하기"
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\MP_AssassinateSpawner.xml:2976
 msgctxt "0x00042d08"
 msgid "Defeat the Targeted Enemy"
-msgstr "목표 처치하기"
+msgstr "목표 대상을 처치하라"
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\MP_Event_Recover_Instance.xml
 #. PATH: BWGameInteractionEntityData/InteractionTextReference
@@ -13754,7 +13755,7 @@ msgstr "적의 공격으로부터 목표 지점을 지키십시오."
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\MP_Event_Recover_Instance.xml:7129
 msgctxt "0x000416f0"
 msgid "Event Complete"
-msgstr "사건 완료"
+msgstr "이벤트 완수"
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\MP_Event_Recover_Instance.xml
 #. PATH: GetLocalizedStringIDData[4]/Text
@@ -13768,14 +13769,14 @@ msgstr "추가 금화 획득"
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\MP_Event_Recover_Instance.xml:7173
 msgctxt "0x00018965"
 msgid "Defeat all hostile forces."
-msgstr "모든 적을 처치하십시오."
+msgstr "모든 적을 처치하라."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\MP_Event_Recover_Instance.xml
 #. PATH: GetLocalizedStringIDData[9]/Text
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\MP_Event_Recover_Instance.xml:7195
 msgctxt "0x000187f1"
 msgid "Place the Inquisition banner."
-msgstr "심문회 깃발을 꽂으십시오."
+msgstr "심문회 깃발을 꽂아라."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\MP_Event_Recover_Instance.xml
 #. PATH: TextNotificationEntityData[2]/TitleTextReference
@@ -13817,21 +13818,21 @@ msgstr "가보 되찾기 (누르기)"
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\Recovery\Objects\MP_RecoveryObject_Heirlooms.xml:4259
 msgctxt "0x0003dd62"
 msgid "You have failed to recover the {CUSTOM0}."
-msgstr "{CUSTOM0}를 되찾는걸 실패했습니다."
+msgstr "{CUSTOM0} 의 회수에 실패했습니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\Recovery\Objects\MP_RecoveryObject_Heirlooms.xml
 #. PATH: GetLocalizedStringIDData[5]/Text
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\Recovery\Objects\MP_RecoveryObject_Heirlooms.xml:4270
 msgctxt "0x0003f7c7"
 msgid "Recover the Heirlooms"
-msgstr "가보 되찾기"
+msgstr "가보를 되찾아라"
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\Recovery\Objects\MP_RecoveryObject_Heirlooms.xml
 #. PATH: GetLocalizedStringIDData[6]/Text
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\Recovery\Objects\MP_RecoveryObject_Heirlooms.xml:4281
 msgctxt "0x000437f7"
 msgid "Recovering"
-msgstr "회복하기"
+msgstr "회수 중"
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\Recovery\Objects\MP_RecoveryObject_Heirlooms.xml
 #. PATH: NotificationEntityData/TitleTextReference
@@ -13880,14 +13881,14 @@ msgstr "무기 회수하기 (누르기)"
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\Recovery\Objects\MP_RecoveryObject_WeaponCache.xml:4259
 msgctxt "0x0003f7c5"
 msgid "Recover the Weapons"
-msgstr "무기 회수하기"
+msgstr "무기를 회수하라"
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\Sub_Events\MP_Sub_ChestCursed_Arcane.xml
 #. PATH: GetLocalizedStringIDData[2]/Text
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\Sub_Events\MP_Sub_ChestCursed_Arcane.xml:2002
 msgctxt "0x00037ee8"
 msgid "Eliminate Guardians to Break Seal"
-msgstr "봉인을 부수려 하는 수호자 처치하기"
+msgstr "수호대를 처치하여 봉인을 해제하라"
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\Sub_Events\MP_Sub_GoldenNug.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -13901,7 +13902,7 @@ msgstr "황금 너그를 잡아라!"
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Events\Sub_Events\MP_Sub_Potions.xml:1043
 msgctxt "0x0003f95b"
 msgid "Use Recovery Font"
-msgstr "복구한 세례반 사용하기"
+msgstr "회복샘 사용"
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Logic\MP_ShelfNotificationController.xml
 #. PATH: GetLocalizedStringIDData[1]/Text
@@ -13922,28 +13923,28 @@ msgstr "{CUSTOM0} 회수하기."
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Logic\MP_ShelfNotificationController.xml:1545
 msgctxt "0x000470ba"
 msgid "Locate the Veilfire"
-msgstr "장막불꽃 찾기"
+msgstr "장막불꽃을 찾아라"
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Logic\MP_ShelfNotificationController.xml
 #. PATH: GetLocalizedStringIDData[6]/Text
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Logic\MP_ShelfNotificationController.xml:1556
 msgctxt "0x00042cda"
 msgid "Use the recovery font to heal injuries."
-msgstr "상처를 치유하려면 회복샘을 사용하십시오."
+msgstr "회복샘을 사용하여 상처를 치유하라."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Logic\MP_ShelfNotificationController.xml
 #. PATH: GetLocalizedStringIDData[7]/Text
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Logic\MP_ShelfNotificationController.xml:1567
 msgctxt "0x000470b8"
 msgid "Light the Brazier"
-msgstr "화로에 불 붙이기"
+msgstr "화로에 불을 붙여라"
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Logic\MP_ShelfNotificationController.xml
 #. PATH: GetLocalizedStringIDData[11]/Text
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Logic\MP_ShelfNotificationController.xml:1611
 msgctxt "0x000187ee"
 msgid "Locate the door to advance."
-msgstr "진행하려면 문을 찾으십시오."
+msgstr "문을 찾아 진행하라."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Logic\MP_ShelfNotificationController.xml
 #. PATH: GetLocalizedStringIDData[18]/Text
@@ -13978,15 +13979,15 @@ msgid ""
 "Press {controller}{StringBtnLStickClick}{/controller}{notcontroller}{ConceptSprint}{/notcontroller} to sprint."
 msgstr ""
 "{controller} {StringBtnLStick} 와 {StringBtnRStick} 를 사용하여 카메라를 "
-"조작한다.{/controller}{notcontroller} "
+"조작하십시오.{/controller}{notcontroller} "
 "{ConceptMoveFB}{!ConceptCameraYaw}{!ConceptMoveFB}{ConceptCameraYaw} 를 사용하여 "
-"이동하고 {!ConceptMoveLR} 와 {ConceptMoveLR} 로 공격한다.\n"
+"이동하고 {!ConceptMoveLR} 와 {ConceptMoveLR} 로 공격하십시오.\n"
 "\n"
-"{StringBtnMouseRight} 를 누르고 마우스를 움직여 지역을 살핀다. 마우스로 주위를 살피는 동안, "
-"{!ConceptCameraYaw} 와 {ConceptCameraYaw} 로 공격할 수 있다.{/notcontroller} \n"
+"{StringBtnMouseRight} 를 누르고 마우스를 움직여 주변을 살피십시오. 마우스로 주위를 살피는 동안, "
+"{!ConceptCameraYaw} 와 {ConceptCameraYaw} 로 공격할 수 있습니다.{/notcontroller} \n"
 "\n"
 "{controller}{StringBtnLStickClick}{/controller}{notcontroller}{ConceptSprint}"
-"{/notcontroller} 로 달린다."
+"{/notcontroller} 로 달리십시오."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[2]/Text
@@ -14139,8 +14140,8 @@ msgstr ""
 msgctxt "0x00047619"
 msgid "A golden nug has appeared! All allies receive a large amount of bonus gold if the nug is taken down. But act quickly—this elusive creature will make a fast escape if you don't strike immediately."
 msgstr ""
-"황금 너그가 나타났습니다! 너그를 쓰러뜨리면 모든 아군에게 추가 금화가 지급됩니다. 서두르세요—이 교묘한 생물체는 빨리 공격하지 않으면 "
-"금세 달아나고 만답니다."
+"황금 너그가 나타났습니다! 너그를 쓰러뜨리면 모든 아군에게 추가 금화가 지급됩니다. 서두르십시오. 이 교묘한 생물체는 빨리 공격하지 "
+"않으면 금세 달아나버립니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[18]/Text
@@ -14286,10 +14287,10 @@ msgid ""
 "{controller}Hold {StringBtnRT} to continuously attack.{/controller}{notcontroller}Hold {ConceptMeleeAttack} or {StringBtnMouseLeft} to continuously attack.{/notcontroller}"
 msgstr ""
 "{controller}{StringBtnRT}{/controller}{notcontroller}{ConceptMeleeAttack} 혹은 "
-"{StringBtnMouseLeft}{/notcontroller}를 눌러 공격하세요.\n"
+"{StringBtnMouseLeft}를 눌러 공격하십시오.{/notcontroller}\n"
 "\n"
 "{controller}{StringBtnRT}{/controller}{notcontroller}}{ConceptMeleeAttack} "
-"혹은 {StringBtnMouseLeft}{/notcontroller}를 꾹 눌러 계속해서 공격하세요."
+"혹은 {StringBtnMouseLeft}를 꾹 눌러 계속해서 공격하십시오.{/notcontroller}"
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[33]/Text
@@ -14327,11 +14328,11 @@ msgstr ""
 msgctxt "0x00047601"
 msgid "Chords {controller}{StringBtnX},{StringBtnY},{StringBtnB}{/controller}{notcontroller}{ConceptSelectInventoryItem1},{ConceptSelectInventoryItem2},{ConceptSelectInventoryItem3}{/notcontroller}: Create songs of power by pressing the {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInventoryItem4}{/notcontroller} button. At first, ZITHER! can only play FIRE FIRE FIRE, COLD COLD COLD, or ELEC ELEC ELEC songs; as you unlock new abilities, more complex and powerful combinations become available."
 msgstr ""
-"화음{controller}{StringBtnX},{StringBtnY},{StringBtnB}{/controller}{notcontroll"
+"코드{controller}{StringBtnX},{StringBtnY},{StringBtnB}{/controller}{notcontroll"
 "er}{ConceptSelectInventoryItem1},{ConceptSelectInventoryItem2},{ConceptSelect"
 "InventoryItem3}{/notcontroller}: 힘이 담긴 노래를{controller}{StringBtnRB}{/controll"
 "er}{notcontroller}{ConceptSelectInventoryItem4}{/notcontroller} 버튼을 눌러 "
-"만들어내세요. 처음에 지터!는 불 불 불, 냉기 냉기 냉기나 전격 전격 전격 조합만 연주할 수 있지만, 새로운 기술을 해제함에 따라 더 "
+"만들어내세요. 처음에 지터!는 불 불 불, 냉기 냉기 냉기나, 전격 전격 전격 조합만 연주할 수 있지만, 새로운 기술을 해제함에 따라 더 "
 "복잡하고 강력한 조합을 사용할 수 있습니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
@@ -14362,14 +14363,14 @@ msgstr ""
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml:5941
 msgctxt "0x00047612"
 msgid "You defeated all enemies in the zone, so a key was granted to the entire party. Use it to open the locked door shown on your radar, and proceed to the next zone."
-msgstr "구역의 모든 적을 처치하여 열쇠를 얻었습니다. 열쇠를 사용하여 레이더에 나타난 문을 열고, 다음 구역으로 이동하세요."
+msgstr "구역의 모든 적을 처치하여 열쇠를 얻었습니다. 열쇠를 사용하여 레이더에 나타난 문을 열고, 다음 구역으로 이동하십시오."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[40]/Text
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml:5984
 msgctxt "0x00047610"
 msgid "The final battle has begun, and enemies are descending upon your location! To complete your mission successfully, all enemies must be defeated."
-msgstr "마지막 전투가 시작되었습니다. 적들이 몰려들고 있습니다! 모든 적을 처지하고 임무를 성공적으로 완수하세요."
+msgstr "마지막 전투가 시작되었습니다. 적들이 몰려들고 있습니다! 모든 적을 처지하고 임무를 성공적으로 완수하십시오."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[41]/Text
@@ -14443,8 +14444,8 @@ msgstr ""
 msgctxt "0x0004761a"
 msgid "Side passages and areas hidden behind doorways are \"treasure rooms\" that contain valuable chests. But be careful—some treasure chests are guarded by enemies or evil spirits."
 msgstr ""
-"샛길이나 문 뒤에 숨겨진 공간에는 값진 보물 상자가 들어 있는 보물 방이 있습니다. 하지만 조심하세요. 어떤 보물 상자는 적이나 악령들이 "
-"지키고 있습니다."
+"샛길이나 문 뒤에 숨겨진 공간에는 값진 보물 상자가 들어 있는 보물 방이 있습니다. 하지만 조심하십시오. 어떤 보물 상자는 적이나 "
+"악령들이 지키고 있습니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[50]/Text
@@ -14478,7 +14479,7 @@ msgstr ""
 #: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml:6543
 msgctxt "0x00047613"
 msgid "This door cannot be unlocked without a key. Find a key by defeating all enemies in this zone."
-msgstr "이 문은 열쇠가 필요합니다. 적을 처치하여 열쇠를 획득하세요."
+msgstr "이 문은 열쇠가 필요합니다. 적을 처치하여 열쇠를 획득하십시오."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Global\Tutorials\MP_TutorialTrigger.xml
 #. PATH: BWPopUpEntityData[54]/Text
@@ -14509,7 +14510,7 @@ msgstr "파티원이 쓰러졌습니다. 적들이 더 강해집니다."
 #: DA3\DesignContent\Prefabs\Multiplayer\MP_FadeModePresentation.xml:469
 msgctxt "0x00043d6d"
 msgid "You have bled out and can only spectate from the Fade until the surviving party members reach the next checkpoint."
-msgstr "당신은 출혈 상태에 있으며 생존한 파티원들이 다음 자동 저장 지점에 도달할 때 까지는 영계에서 관전만 가능합니다."
+msgstr "당신은 과다출혈하였으며 생존한 파티원들이 다음 자동 저장 지점에 도달할 때 까지는 영계에서 관전만 가능합니다."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\MP_KnockDownBleedoutLogic.xml
 #. PATH: GetLocalizedStringIDData/Text
@@ -14530,14 +14531,14 @@ msgstr "부활 중"
 #: DA3\DesignContent\Prefabs\Multiplayer\MP_ZoneTeleport.xml:549
 msgctxt "0x000187ec"
 msgid "Gather your party before venturing forth."
-msgstr "앞으로 나아가기 전에 파티를 집결시키십시오."
+msgstr "앞으로 나아가기 전에 파티를 집결하라."
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Obstacles\SkillBlockers\MP_Barrier.xml
 #. PATH: GetLocalizedStringIDData/Text
 #: DA3\DesignContent\Prefabs\Multiplayer\Obstacles\SkillBlockers\MP_Barrier.xml:709
 msgctxt "0x0003bb69"
 msgid "Dispel Barrier"
-msgstr "방어막 해제"
+msgstr "방벽 해제"
 
 #. FILE: DA3\DesignContent\Prefabs\Multiplayer\Obstacles\SkillBlockers\MP_Door_LockpickCheck.xml
 #. PATH: NotificationEntityData[1]/TitleTextReference
@@ -14565,7 +14566,7 @@ msgstr "열쇠를 찾자."
 #: DA3\DesignContent\Prefabs\Multiplayer\PFB_MPKeyChest.xml:1405
 msgctxt "0x0002b9a9"
 msgid "Key Collected"
-msgstr "수집한 열쇠"
+msgstr "열쇠 습득함"
 
 #. FILE: DA3\DesignContent\Tutorials\TutorialManager.xml
 #. PATH: BWPopUpEntityData[2]/Text
@@ -14650,14 +14651,15 @@ msgstr "건초 무더기"
 #: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer13_tutorial.xml:121
 msgctxt "0x00049fd8"
 msgid "<font color=\"#CCDDAA\">Select \"Inventory\" to equip your new items!</font>"
-msgstr "<font color=\"#CCDDAA\">인벤토리를 눌러 새 아이템을 장착하세요!</font>"
+msgstr "<font color=\"#CCDDAA\">\"인벤토리\"를 선택해 새 아이템을 장착하십시오!</font>"
 
 #. FILE: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer13_tutorial.xml
 #. PATH: BWPopUpEntityData[2]/Text
 #: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer13_tutorial.xml:174
 msgctxt "0x00049aac"
 msgid "<font color=\"#CCDDAA\">Select the \"Store\" tab to collect a free chest containing a new weapon for your character.</font>"
-msgstr "<font color=\"#CCDDAA\">\"상점\" 탭에서 캐릭터의 새 무기가 들어 있는 무료 상자를 받으세요.</font>"
+msgstr ""
+"<font color=\"#CCDDAA\">\"상점\" 탭에서 캐릭터의 새 무기가 들어 있는 무료 상자를 받으십시오.</font>"
 
 #. FILE: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer13_tutorial.xml
 #. PATH: BWPopUpEntityData[3]/Text
@@ -14665,8 +14667,8 @@ msgstr "<font color=\"#CCDDAA\">\"상점\" 탭에서 캐릭터의 새 무기가 
 msgctxt "0x00049fda"
 msgid "<font color=\"#CCDDAA\">You're ready to head out on another operation! Select \"Quick Match\" or \"Create Match\" to start a new Multiplayer operation.</font>"
 msgstr ""
-"<font color=\"#CCDDAA\">다른 작전을 개시할 준비가 되었습니다! \"빠른 매치\" 나 \"매치 생성하기\"를 선택해 "
-"새로운 멀티플레이 작전을 개시하세요.</font>"
+"<font color=\"#CCDDAA\">다른 작전을 개시할 준비가 되었습니다! \"빠른 게임\"이나 \"게임 생성\"을 선택해 새로운 "
+"멀티플레이 작전을 개시하세요.</font>"
 
 #. FILE: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer13_tutorial.xml
 #. PATH: BWPopUpEntityData[4]/Text
@@ -14674,7 +14676,7 @@ msgstr ""
 msgctxt "0x0004a2b4"
 msgid "<font color=\"#CCDDAA\">Select \"Potions\" to ensure you are prepared with an assortment of potions to use during the next operation.</font>"
 msgstr ""
-"<font color=\"#CCDDAA\">다음 작전 수행을 위한 물약들이 준비되었는지 \"물약\" 탭에서 확인하세요.</font>"
+"<font color=\"#CCDDAA\">\"물약\"을 선택하여 다음 작전 수행을 위한 물약들이 준비되었는지 확인하십시오.</font>"
 
 #. FILE: DA3\Levels\MultiplayerMenu\MultiplayerMenu\layer13_tutorial.xml
 #. PATH: BWPopUpEntityData[5]/Text
@@ -14884,7 +14886,7 @@ msgstr "이동합니까?"
 #: DA3\Logic\Levels\MultiplayerSession.xml:1851
 msgctxt "0x0003166d"
 msgid "Operation Failed..."
-msgstr "작전 실패함..."
+msgstr "작전 실패..."
 
 #. FILE: DA3\Logic\Levels\SingletonEntities.xml
 #. PATH: EnumToLocalizedStringMapperEntityData/MappedInputConcepts/member[1]/InputConceptAndLocalizedStringPair/InputConceptString
@@ -16655,7 +16657,7 @@ msgstr "올레이 궁정에 인상을 남기십시오."
 #: DA3\Persistence\AchievementTree.xml:3923
 msgctxt "0x00042851"
 msgid "Wicked Eyes and Wicked Hearts"
-msgstr "간악한 눈길과 간악한 마음"
+msgstr "사악한 눈길과 악독한 마음"
 
 #. FILE: DA3\Persistence\AchievementTree.xml
 #. PATH: AwardAchievementData[62]/LocalizedDescription
@@ -19680,7 +19682,7 @@ msgstr ""
 #: da3_mp2\Combat\Kits\Bard\10slot\Songs\AAA_\party_mage_mp2_bard_aaa_abilitydata.xml:31
 msgctxt "0x0004704f"
 msgid "<br><font color=\"#BAAB7B\">Requires the following chords:</font> </br>"
-msgstr "<br><font color=\"#BAAB7B\">다음 화음 필요:</font> </br>"
+msgstr "<br><font color=\"#BAAB7B\">필요한 코드:</font> </br>"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\AAB_\party_mage_mp2_bard_aab_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityNameReference
@@ -19814,7 +19816,7 @@ msgid ""
 "Your magical song conjures elemental energy around your allies' weapons, adding bonus damage to their attacks.\n"
 "\n"
 msgstr ""
-"마법의 노래를 줄러 아군의 무기를 원소력으로 강화합니다. 매 공격 시 추가 피해를 줍니다.\n"
+"마법의 노래가 아군의 무기를 원소력으로 강화합니다. 매 공격 시 추가 피해를 줍니다.\n"
 "\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\ABC_\party_mage_mp2_bard_abc_abilitydata.xml
@@ -19876,7 +19878,7 @@ msgstr ""
 #: da3_mp2\Combat\Kits\Bard\10slot\Songs\ACC_\party_mage_mp2_bard_acc_upgrade1_abilitydata.xml:5
 msgctxt "0x00047072"
 msgid "Slow Dancing"
-msgstr "느린 춤"
+msgstr "느린 춤사위"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\ACC_\party_mage_mp2_bard_acc_upgrade1_abilitydata.xml
 #. PATH: BWAbilityUpgrade/AbilityDescriptionReference
@@ -19966,7 +19968,7 @@ msgstr ""
 #: da3_mp2\Combat\Kits\Bard\10slot\Songs\BCC_\party_mage_mp2_bard_bcc_abilitydata.xml:5
 msgctxt "0x00047059"
 msgid "Sing-Along"
-msgstr "따라 부르기"
+msgstr "떼창"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\BCC_\party_mage_mp2_bard_bcc_abilitydata.xml
 #. PATH: BWActivatedAbility/AbilityDescriptionReference
@@ -19976,7 +19978,7 @@ msgid ""
 "Your magical song causes allies to regain health whenever they strike an enemy.\n"
 "\n"
 msgstr ""
-"당신의 마법의 노래가 아군으로 하여금 적을 공격할 때마다 체력을 회복하게 합니다.\n"
+"마법의 노래가 아군으로 하여금 적을 공격할 때마다 체력을 회복하게 합니다.\n"
 "\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\BCC_\party_mage_mp2_bard_bcc_upgrade1_abilitydata.xml
@@ -19994,7 +19996,7 @@ msgid ""
 "If enemies die while Sing-Along is in effect, all allies in the area regain health.\n"
 "\n"
 msgstr ""
-"따라 부르기의 효과가 지속 중일 때 적이 죽으면, 범위 내의 아군들이 체력을 회복합니다.\n"
+"떼창의 효과가 지속 중일 때 적이 죽으면, 범위 내의 아군들이 체력을 회복합니다.\n"
 "\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\Badnote\party_mage_mp2_bard_song_Badnote_abilitydata.xml
@@ -20019,7 +20021,7 @@ msgid ""
 "Your magical song increases the movement speed of nearby allies.\n"
 "\n"
 msgstr ""
-"당신의 마법의 노래가 주변 아군의 이동속도를 증가시킵니다.\n"
+"마법의 노래가 주변 아군의 이동속도를 증가시킵니다.\n"
 "\n"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\10slot\Songs\CCC_\party_mage_mp2_bard_ccc_abilitydata.xml
@@ -20120,7 +20122,7 @@ msgstr ""
 #: da3_mp2\Combat\Kits\Bard\passive\4Cast\party_mage_mp2_bard_passive_4cast_abilitydata.xml:5
 msgctxt "0x00047077"
 msgid "Play to the Crowd"
-msgstr "관중에게 노래하기"
+msgstr "관중을 향해 연주"
 
 #. FILE: da3_mp2\Combat\Kits\Bard\passive\4Cast\party_mage_mp2_bard_passive_4cast_abilitydata.xml
 #. PATH: BWPassiveAbility/AbilityDescriptionReference
