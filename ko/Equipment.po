@@ -1,16 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-03-19 05:55+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
+"\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.3.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FILE = DA3/Equipment/Crafting/DA3CraftingSettings
 #. PATH = CraftingSettings/RecipeRequiresText
@@ -2916,7 +2918,7 @@ msgstr "1단계 <font color=\"#848484\">일반</font> 약초"
 #.     0x00044a5b(281179) : {blank} {linebreak}  {string}281176{/string} {string}87035{/string}, {string}87032{/string}, {string}100043{/string}, {string}118367{/string}, {string}87034{/string}, {string}87033{/string}, {string}87036{/string}, {string}87027{/string}, {string}129702{/string}, {string}99769{/string}, {string}99794{/string}.
 msgctxt "0x0001ce5f"
 msgid "Crystal Grace"
-msgstr "품위의 결정체"
+msgstr "수정 은총"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Herbs/crafting_herbs_DawnLotus
 #. PATH = StackedItemAsset/DisplayName
@@ -11913,7 +11915,7 @@ msgstr "성기사단 방패"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001be83"
 msgid "Masterwork Seeker Shield"
-msgstr "명품 탐구자 방패"
+msgstr "명품 구도자 방패"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Shields/recipe_shield_t2_dragon
 #. PATH = Recipe/DisplayName
@@ -15893,7 +15895,7 @@ msgstr "페렐던 장검"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001bea7"
 msgid "Seeker Shield"
-msgstr "탐구자 방패"
+msgstr "구도자 방패"
 
 #. FILE = DA3/Equipment/Items/FollowersDefault/equip_staff_t1_1
 #. PATH = EquipItemAsset/DisplayName
@@ -22050,7 +22052,7 @@ msgid ""
 msgstr ""
 "쌍탑의 시대 3:09년, 마법사 협회에 역대 세 번째의 무효화의 권리가 선언되었을 때, 당시 기사단장이던 안티바의 제르바지오는 악마 "
 "빙의를 빌미로 도시의 마법사들을 모조리 살해했다. 하지만 이 학살은 실상 기사대장 니콜라스에 의해 촉발되었을 가능성이 있으며, 권리의 "
-"선언은 그저 이를 은폐하기 위한 것이었는지도 모른다. 마법사를 죽이기 위해 기사단을 떠난 니콜라스 경은 후일 진실의 탐구자들에게 "
+"선언은 그저 이를 은폐하기 위한 것이었는지도 모른다. 마법사를 죽이기 위해 기사단을 떠난 니콜라스 경은 후일 진리의 구도자들에게 "
 "체포되었고, 그는 백 명이 넘는 마법사를 살해했다고 시인하였다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/WeaponShield/Shields/equip_shield_t3_1

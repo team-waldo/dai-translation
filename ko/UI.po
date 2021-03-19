@@ -1,16 +1,17 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-03-19 05:55+0000\n"
+"Last-Translator: gosusam <gosusam@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.3.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FILE = UI/Assets/BaseChoices/UIBaseChoice_Courtyard
 #. PATH = UIBaseChoiceAsset/ChoicePageTitle
@@ -261,7 +262,7 @@ msgstr "침대"
 #. PATH = UIBaseCustomizeItemAsset/Description
 msgctxt "0x0001800c"
 msgid "Change the centerpiece in the Inquisitor's quarters."
-msgstr "심문관의 처소에 있는 중앙 장식물을 변경하십시오."
+msgstr "심문관 처소에 있는 중앙 장식물을 변경하십시오."
 
 #. FILE = UI/Assets/BaseCustomization/BaseCust_Bed_DLC1
 #. PATH = UIBaseCustomizeItemAsset/Title
@@ -405,7 +406,7 @@ msgstr "창문"
 #. PATH = UIBaseCustomizeItemAsset/Description
 msgctxt "0x00040706"
 msgid "Install stained glass windows in the Inquisitor's quarters."
-msgstr "심문관의 처소에 색유리창을 설치하십시오."
+msgstr "심문관 처소에 스테인드글라스 창을 설치하십시오."
 
 #. FILE = UI/Assets/BaseCustomization/BaseCust_Windows_Gonzalo
 #. PATH = UIBaseCustomizeItemAsset/Title
@@ -419,7 +420,7 @@ msgctxt "0x00043195"
 msgid ""
 "Beautiful stained glass panels from the legendary Serault Glassworks. The "
 "envy of empires."
-msgstr "전설적인 세로 후작령의 유리공예소에서 만들어진 아름다운 색유리창이다. 제국의 모든 이가 부러워한다."
+msgstr "전설적인 세로 후작령 유리공예소에서 만들어진 아름다운 스테인드글라스다. 제국의 모든 이가 부러워한다."
 
 #. FILE = UI/Assets/CharacterCreation/CharacterClassUIData
 #. PATH = UICharacterClassDataAsset/CharacterClasses/member[1]/CharacterClassUIData/ClassTitle

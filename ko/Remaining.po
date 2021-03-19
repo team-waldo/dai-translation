@@ -1,16 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-03-19 05:55+0000\n"
+"Last-Translator: Keebum Park <kbpark91@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
+"\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.3.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FILE = DA3/Actors/Party/Specializations/Multiplayer/gen_partymember_mp2_mp_saarebas
 #. PATH = CreatureEntityData/CharacterNameReference
@@ -5056,7 +5058,7 @@ msgstr "제국군 보병"
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x000355bf"
 msgid "Lord Seeker Lucius"
-msgstr "탐구자 지휘관 루시우스"
+msgstr "구도자 지휘관 루시우스"
 
 #. FILE = DA3/DesignContent/CreatureProfiles/SeekerFortress/see_noble_abernache_CreatureProfile
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -6074,7 +6076,7 @@ msgstr "안드라스테 유리창"
 msgctxt "0x00042c53"
 msgid ""
 "Stained glass windows depicting scenes and figures from Chantry history."
-msgstr "챈트리 역사에 등장하는 장면과 인물들을 표현한 색유리창."
+msgstr "챈트리 역사의 장면과 인물을 묘사한 스테인드글라스 창."
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Windows/sky_windows_dalish
 #. PATH = StackedItemAsset/DisplayName
@@ -6086,7 +6088,7 @@ msgstr "데일스 유리창"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042c55"
 msgid "Stained glass windows of elven design."
-msgstr "엘프 디자인의 색유리창."
+msgstr "엘프 디자인의 스테인드글라스 창."
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Windows/sky_windows_dwarven
 #. PATH = StackedItemAsset/DisplayName
@@ -6098,7 +6100,7 @@ msgstr "드워프 유리창"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042c57"
 msgid "Stained glass windows of dwarven design."
-msgstr "드워프 디자인의 색유리창."
+msgstr "드워프 디자인의 스테인드글라스 창."
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Windows/sky_windows_ferelden
 #. PATH = StackedItemAsset/DisplayName
@@ -6110,7 +6112,7 @@ msgstr "페렐던 유리창"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042c59"
 msgid "Stained glass from Ferelden, with a design heavily featuring mabari."
-msgstr "마바리 사냥개가 그려진 페렐던산 색유리창."
+msgstr "마바리 사냥개가 그려진 페렐던산 스테인드글라스."
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Windows/sky_windows_inquisition
 #. PATH = StackedItemAsset/DisplayName
@@ -6122,7 +6124,7 @@ msgstr "심문회 유리창"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042c5b"
 msgid "The Inquisition emblem is the focus of this stained glass window."
-msgstr "이 색유리창의 중심에는 심문회 상징이 그려져 있다."
+msgstr "이 스테인드글라스 창의 중심에는 심문회 상징이 그려져 있다."
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Windows/sky_windows_orlesian
 #. PATH = StackedItemAsset/DisplayName
@@ -6135,7 +6137,7 @@ msgstr "올레이 유리창"
 msgctxt "0x00042c5d"
 msgid ""
 "Beautiful stained glass, crowned with the golden lion symbol of the Valmonts."
-msgstr "발몽 가의 황금 사자가 그려진, 아름답게 색이 입혀진 유리창."
+msgstr "발몽 가의 황금 사자가 덧 씌워진, 아름다운 스테인드글라스 창."
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Windows/sky_windows_qunari
 #. PATH = StackedItemAsset/DisplayName
@@ -8031,7 +8033,7 @@ msgstr "핏빛 연꽃 획득함"
 #. PATH = NotificationEntityData/TitleTextReference
 msgctxt "0x0001c465"
 msgid "Received Crystal Grace"
-msgstr "품위의 결정체 획득함"
+msgstr "수정 은총 획득함"
 
 #. FILE = DA3/DesignContent/Prefabs/Crafting/Garden/Garden_Herb_DawnLotus
 #. PATH = NotificationEntityData/TitleTextReference
@@ -9318,7 +9320,7 @@ msgid ""
 msgstr ""
 "{string}280958{/string}\n"
 "\n"
-"레드클리프 성과 대균열을 닫을 수 있는 마법사들은 안드라스테의 전령과 시간을 조종하는 힘에 이상할 정도로 집착하는 매지스터, 게리온 "
+"레드클리프 성과 대균열을 닫을 수 있는 마법사들은 안드라스테의 전령과 시간을 조종하는 힘에 이상할 정도로 집착하는 매지스터, 기리언 "
 "알렉시우스의 지배하에 놓여 있다. 그는 {spHeroLastName}를 \"친절히\" 성에 초대했고, 꼭 \"혼자\" 와 교섭에 응하라는 "
 "말을 남겼다. 너무나도 명백한 함정이지만, 알렉시우스의 관심을 끄는 동안 렐리아나와 그녀의 요원들이 성에 침투해 베나토리들을 제거할 수 "
 "있을 것이다. 위험한 도박이지만, 이것이 가장 가능성 높은 작전이다. \n"
@@ -13418,13 +13420,13 @@ msgstr "핏빛 연꽃에서 나온 씨앗이다."
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042b0a"
 msgid "Crystal Grace Seeds"
-msgstr "품위의 결정체 씨앗"
+msgstr "수정 은총 씨앗"
 
 #. FILE = DA3/designcontent/Items/Skyhold/sky_seeds_crystalgrace
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042b41"
 msgid "Seeds of the crystal grace plant."
-msgstr "품위의 결정체 식물의 씨앗이다."
+msgstr "수정 은총 식물의 씨앗이다."
 
 #. FILE = DA3/designcontent/Items/Skyhold/sky_seeds_dawnlotus
 #. PATH = StackedItemAsset/DisplayName
@@ -17741,19 +17743,19 @@ msgstr "피부색"
 #. PATH = ConversationSubchooserType[1]/SubChooserCaption
 msgctxt "0x0001b8bf"
 msgid "[Special.]"
-msgstr "[특수.]"
+msgstr "[특수]"
 
 #. FILE = Systems/Conversation/WheelData
 #. PATH = ConversationSubchooserType[1]/BackCaption
 msgctxt "0x0001b8c1"
 msgid "[Back.]"
-msgstr "[뒤로.]"
+msgstr "[돌아가기]"
 
 #. FILE = Systems/Conversation/WheelData
 #. PATH = ConversationSubchooserType[2]/SubChooserCaption
 msgctxt "0x0001b8c0"
 msgid "[Investigate.]"
-msgstr "[조사.]"
+msgstr "[더 물어보기]"
 
 #. FILE = Systems/Inventory/InventoryCategories
 #. PATH = UIBWInventoryCategories/CategoryLabels/member[1]/UIBWInventoryComponentCategoryData/CategoryLabel
@@ -18131,7 +18133,7 @@ msgctxt "0x000435fa"
 msgid ""
 "The training grounds of the Seekers of Truth lie in an isolated castle deep "
 "in the wilds."
-msgstr "진실의 탐구자들의 훈련장은 깊은 야생의 외딴 성에 위치해 있다."
+msgstr "진리의 구도자들의 훈련장은 깊은 야생의 외딴 성에 위치해 있다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[17]/TitleReference

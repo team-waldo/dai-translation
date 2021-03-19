@@ -1,16 +1,17 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-03-19 05:55+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.3.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FILE = DA3/Layouts/ArborWilds/ArborWilds_Main/ArborWilds_Main
 #. PATH = UILevelDescriptionComponent/LocationName
@@ -2716,7 +2717,7 @@ msgstr "맹세자 보병"
 #. PATH = BWGameInteractionEntityData/InteractionTextReference
 msgctxt "0x000356cb"
 msgid "Dead Seeker"
-msgstr "죽은 탐구자"
+msgstr "죽은 구도자"
 
 #. FILE = DA3/Layouts/ThematicLevels/the_FerCastel/DSG_0300_Cultists_Combat
 #. PATH = CreatureEntitySpawnData[1]/CharacterNameReference
@@ -8039,7 +8040,7 @@ msgstr "성기사의 열쇠 필요"
 #. PATH = GetLocalizedStringIDData[8]/Text
 msgctxt "0x00036f8c"
 msgid "Requires Lord Seeker's Key"
-msgstr "탐구자 지휘관의 열쇠 필요"
+msgstr "구도자 지휘관의 열쇠 필요"
 
 #. FILE = da3/Layouts/ValRoyeaux/Val_SeekerFortress/DSG_0000_Doors_Schematic
 #. PATH = BWPopUpEntityData/Title
@@ -8125,7 +8126,7 @@ msgstr "새겨진 글 읽기"
 #. PATH = GetLocalizedStringIDData[2]/Text
 msgctxt "0x000301d3"
 msgid "Lord Seeker's Key"
-msgstr "탐구자 지휘관의 열쇠"
+msgstr "구도자 지휘관의 열쇠"
 
 #. FILE = da3/Layouts/ValRoyeaux/Val_SeekerFortress/val_SeekerFortress
 #. PATH = UILevelDescriptionComponent/LocationName
@@ -8161,7 +8162,7 @@ msgstr "마법사 감옥"
 #. PATH = GetLocalizedStringIDData[3]/Text
 msgctxt "0x00032456"
 msgid "The Seekers' Vigil"
-msgstr "탐구자들의 경계"
+msgstr "구도자들의 경계"
 
 #. FILE = da3/Layouts/ValRoyeaux/val_SeekerFortress/DSG_0000_Landmarks_Schematic
 #. PATH = GetLocalizedStringIDData[4]/Text
@@ -8173,7 +8174,7 @@ msgstr "리륨 은닉처"
 #. PATH = GetLocalizedStringIDData[5]/Text
 msgctxt "0x00032411"
 msgid "Lord Seeker's Office"
-msgstr "탐구자 지휘관의 사무실"
+msgstr "구도자 지휘관의 사무실"
 
 #. FILE = da3/Layouts/ValRoyeaux/val_SeekerFortress/DSG_0100_Ambient_NPCs
 #. PATH = BWGameInteractionEntityData[3]/InteractionTextReference
@@ -8209,7 +8210,7 @@ msgstr ""
 #. PATH = BWPopUpEntityData[2]/Title
 msgctxt "0x0002f3de"
 msgid "Orders from the Lord Seeker"
-msgstr "탐구자 지휘관에게서 온 명령서"
+msgstr "구도자 지휘관에게서 온 명령서"
 
 #. FILE = da3/Layouts/ValRoyeaux/val_SeekerFortress/DSG_0400_Main_Schematic
 #. PATH = BWPopUpEntityData[2]/Text
@@ -8236,7 +8237,7 @@ msgstr ""
 "내가 직접 위반자들을 처벌할 테니 놈들을 내게 보내고, 훈련 시간을 한 시간 연장하도록. 앞으로 다가올 것에 대비하려면 더 강해져야 한다."
 "\n"
 "\n"
-"탐구자 지휘관 루시우스 코린"
+"구도자 지휘관 루시우스 코린"
 
 #. FILE = da3/Layouts/ValRoyeaux/val_SeekerFortress/DSG_0400_SecretRooms_Conversation
 #. PATH = BWGameInteractionEntityData/InteractionTextReference
@@ -8288,7 +8289,7 @@ msgid ""
 msgstr ""
 "—세 상자, 고급품. 서부 분지 광산, 오자마르. 켈타르 가문.\n"
 "—두 상자, 일반품. 스테르난 봉우리, 앤더펄스. 겔트버그 마을.\n"
-"—\"붉은\" 리륨 다섯 상자. 출처 불분명함. 탐구자 지휘관의 명령에 따라서만 배급할 것.\n"
+"—\"붉은\" 리륨 다섯 상자. 출처 불분명함. 구도자 지휘관의 명령에 따라서만 배급할 것.\n"
 "\n"
 "<i>페이지 밑에 쪽지가 꽂혀 있다.</i>\n"
 "\n"
@@ -8332,13 +8333,13 @@ msgid ""
 msgstr ""
 "<i>2세기 전 테린팔 보루에 수감된 죄수들의 일지에서 나온 한 페이지. 종이를 만지자 바스라진다.</i>\n"
 "\n"
-"—테한 탐구자의 조사에서 무죄로 밝혀진 마리온 덜지를 성기사 웰렌, 폴러와 르게인이 그를 배교의 혐의로 몰아세워 심문했다. 폭풍의 시대 "
+"—테한 구도자의 조사에서 무죄로 밝혀진 마리온 덜지를 성기사 웰렌, 폴러와 르게인이 그를 배교의 혐의로 몰아세워 심문했다. 폭풍의 시대 "
 "7:02년, 만동월 5일 수감됨.\n"
 "\n"
 "—수석 마도사인 엘린 데바르는 이단 자료를 소지한 혐의로 체포되었다. 무죄를 주장했으나, 그의 사무실에서 혈마법에 대한 책뿐만 아니라 "
 "8개의 보호패도 발견되었다. 만동월 29일 처형됨, 폭풍의 시대 7:02년.\n"
 "\n"
-"—페티르 로디르는 배교 혐의로 기소되었다. 조사를 위해 랜즈데일 탐구자에게 데려왔으나 마법에 지배되지는 않았다. 뇌에 병이 있는 것으로 "
+"—페티르 로디르는 배교 혐의로 기소되었다. 조사를 위해 랜즈데일 구도자에게 데려왔으나 마법에 지배되지는 않았다. 뇌에 병이 있는 것으로 "
 "사료된다. 그의 안전을 위해 수감하였으며, 방문객이 허용되었다. 폭풍의 시대 7:02년, 수호월 9일 수감됨."
 
 #. FILE = da3/Layouts/ValRoyeaux/val_SeekerFortress/map/val_SeekerFortress_floor0

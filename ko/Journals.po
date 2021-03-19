@@ -1,16 +1,17 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-03-19 05:55+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.3.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/Blackwall/blackwall_acquisition_journal
 #. PATH = JournalEntry/TitleReference
@@ -1319,19 +1320,19 @@ msgid ""
 "Someone or something has stirred inside the tiniest mouth of the tiniest "
 "cave in the Emerald Graves. It now demands crystal grace."
 msgstr ""
-"누군가, 혹은 뭔가가 에메랄드 무덤에 있는 아주 작은 동굴의 아주 작은 입구에서 움직이고 있다. 그 뭔가는 품위의 결정체를 요구하고 있다."
+"누군가, 혹은 뭔가가 에메랄드 무덤에 있는 아주 작은 동굴의 아주 작은 입구에서 움직이고 있다. 그 뭔가는 수정 은총를 요구하고 있다."
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_fst_wild_lq17
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x00031939"
 msgid "Return with ten crystal grace flowers."
-msgstr "품위의 결정체 열 송이를 들고 돌아오자."
+msgstr "수정 은총 열 송이를 들고 돌아오자."
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_fst_wild_lq17
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x000440f2"
 msgid "Crystal grace gathered"
-msgstr "모은 품위의 결정체"
+msgstr "모은 수정 은총"
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_fst_wild_defeat_duhaime
 #. PATH = JournalEntry/TitleReference
@@ -2936,7 +2937,7 @@ msgctxt "0x00004be4"
 msgid ""
 "Half the templars are corrupted. Fight to the Lord Seeker and find out "
 "what's going on."
-msgstr "성기사단의 절반은 타락했다. 탐구자 지휘관과 싸우고 무슨 일이 벌어지고 있는지 알아내야 한다."
+msgstr "성기사단의 절반은 타락했다. 구도자 지휘관과 싸우고 무슨 일이 벌어지고 있는지 알아내야 한다."
 
 #. EBX = DA3/designcontent/Journals/SeekerFortress/see_main_journal
 #. PATH = JournalEntry/TextEntry[3]
@@ -2944,7 +2945,7 @@ msgctxt "0x000440c4"
 msgid ""
 "There is more to the Lord Seeker than meets the eye. There's something very "
 "wrong at Therinfal Redoubt."
-msgstr "탐구자 지휘관이 뭔가를 숨기고 있는 듯하다. 테린팔 보루가 무언가 단단히 잘못 돌아가고 있다."
+msgstr "구도자 지휘관이 뭔가를 숨기고 있는 듯하다. 테린팔 보루가 무언가 단단히 잘못 돌아가고 있다."
 
 #. EBX = DA3/designcontent/Journals/SeekerFortress/see_main_journal
 #. PATH = JournalEntry/TextEntry[4]
@@ -2954,7 +2955,7 @@ msgid ""
 "says the demon must be forced to create more places, people, and faces "
 "within the nightmare. This should diminish the demon's strength."
 msgstr ""
-"탐구자 지휘관의 정체는 시기의 악마였다. 콜은 이 악몽 속에서 깨어나서 탈출하려면 악마가 더 많은 장소와 사람들을 만들어내게 해야 하며, "
+"구도자 지휘관의 정체는 시기의 악마였다. 콜은 이 악몽 속에서 깨어나서 탈출하려면 악마가 더 많은 장소와 사람들을 만들어내게 해야 하며, "
 "이렇게 하면 악마의 힘을 약화시킬 수 있다고 말했다."
 
 #. EBX = DA3/designcontent/Journals/SeekerFortress/see_main_journal
@@ -3027,7 +3028,7 @@ msgstr "성기사 배리스와 이야기하자."
 #. PATH = JournalEntry/TaskEntry[6]
 msgctxt "0x00022f78"
 msgid "Meet the Lord Seeker."
-msgstr "탐구자 지휘관을 만나자."
+msgstr "구도자 지휘관을 만나자."
 
 #. EBX = DA3/designcontent/Journals/SeekerFortress/see_main_journal
 #. PATH = JournalEntry/TaskEntry[7]
@@ -3039,7 +3040,7 @@ msgstr "타락한 성기사들을 쓰러트리고 나아가자."
 #. PATH = JournalEntry/TaskEntry[8]
 msgctxt "0x00022f7c"
 msgid "Confront the Lord Seeker."
-msgstr "탐구자 지휘관과 대면하자."
+msgstr "구도자 지휘관과 대면하자."
 
 #. EBX = DA3/designcontent/Journals/SeekerFortress/see_main_journal
 #. PATH = JournalEntry/TaskEntry[9]
@@ -5511,7 +5512,7 @@ msgctxt "0x000355cc"
 msgid ""
 "Cassandra has reason to believe that Corypheus is behind the disappearance "
 "of the Seekers of Truth, but she requires help to prove it."
-msgstr "카산드라는 진리의 탐구자들이 실종된 것이 코리피우스 때문이라고 확신한다. 하지만 이를 증명하려면 도움이 필요하다."
+msgstr "카산드라는 진리의 구도회가 실종된 것이 코리피우스 때문이라고 확신한다. 하지만 이를 증명하려면 도움이 필요하다."
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/Cassandra/cas_PersonalPlot_journal
 #. PATH = JournalEntry/TextEntry[1]
@@ -5519,7 +5520,7 @@ msgctxt "0x000355d2"
 msgid ""
 "Meet Cassandra back at Skyhold after she's had a chance to look through the "
 "Lord Seeker's book."
-msgstr "카산드라가 탐구자 지휘관의 책을 살펴볼 시간을 준 뒤에 스카이홀드에서 카산드라와 이야기해보자."
+msgstr "카산드라가 구도자 지휘관의 책을 살펴볼 시간을 준 뒤에 스카이홀드에서 카산드라와 이야기해보자."
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/Cassandra/cas_PersonalPlot_journal
 #. PATH = JournalEntry/TextEntry[2]
@@ -5535,7 +5536,7 @@ msgctxt "0x000355ca"
 msgid ""
 "Have Cullen, Leliana, or Josephine investigate the disappearance of the "
 "Seekers."
-msgstr "컬렌, 렐리아나, 조세핀이 탐구자들의 실종을 조사하게 하자."
+msgstr "컬렌, 렐리아나, 조세핀이 구도자들의 실종을 조사하게 하자."
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/Cassandra/cas_PersonalPlot_journal
 #. PATH = JournalEntry/TaskEntry[1]
@@ -5573,7 +5574,7 @@ msgstr "안뜰의 열쇠를 찾자."
 #. PATH = JournalEntry/TaskEntry[6]
 msgctxt "0x000355ce"
 msgid "Find Lord Seeker Lucius."
-msgstr "탐구자 지휘관 루시우스를 찾자."
+msgstr "구도자 지휘관 루시우스를 찾자."
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/Cassandra/cas_PersonalPlot_journal
 #. PATH = JournalEntry/TaskEntry[7]
@@ -5716,7 +5717,7 @@ msgstr "회전초"
 #.     0x00044a2c(281132) : {string}271472{/string}
 msgctxt "0x00042470"
 msgid "Crystal Grace"
-msgstr "품위의 결정체"
+msgstr "수정 은총"
 
 #. EBX = DA3/DesignContent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_crossroads_medic
 #. PATH = JournalEntry/TaskEntry[12]
@@ -11038,7 +11039,7 @@ msgstr "{string}233344{/string}"
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x00043fa7"
 msgid "Crystal Grace"
-msgstr "품위의 결정체"
+msgstr "수정 은총"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_hinterlands_puzzlebox
 #. PATH = JournalEntry/TaskEntry[2]
@@ -11310,7 +11311,7 @@ msgctxt "0x00030e6d"
 msgid ""
 "The templars have abandoned Val Royeaux. The rest of the Inquisition should "
 "hear of the Lord Seeker's plan."
-msgstr "성기사단은 발 르와이요를 버리고 떠났다. 심문회는 탐구자 지휘관의 계획을 조사해야 한다."
+msgstr "성기사단은 발 르와이요를 버리고 떠났다. 심문회는 구도자 지휘관의 계획을 조사해야 한다."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
 #. PATH = JournalEntry/TaskEntry[0]
@@ -13414,7 +13415,7 @@ msgctxt "0x00035887"
 msgid ""
 "Since the Seekers' strange absence, some of their high profile cases have "
 "been left unchecked. Help Cassandra hunt the targets down."
-msgstr "탐구자들의 실종 이후, 그들이 담당하던 주요한 사건들 중 일부가 그대로 방치되었다. 카산드라를 도와 목표물들을 추적하자."
+msgstr "구도자들의 실종 이후, 그들이 담당하던 주요한 사건들 중 일부가 그대로 방치되었다. 카산드라를 도와 목표물들을 추적하자."
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/Cassandra/cas_ApprovalGrind_journal
 #. PATH = JournalEntry/TextEntry[1]
@@ -13648,7 +13649,7 @@ msgid ""
 "successful operations—displaying bravery, quick thinking, and "
 "resourcefulness. He would make an excellent knight-commander."
 msgstr ""
-"가짜 탐구자 지휘관의 죽음 후, 성기사들은 지휘관 없이 남아 있다. 배리스 경은 몇 번의 작전을 이끄는 동안 그의 용맹함, 빠른 사고력, "
+"가짜 구도자 지휘관의 죽음 후, 성기사들은 지휘관 없이 남아 있다. 배리스 경은 몇 번의 작전을 이끄는 동안 그의 용맹함, 빠른 사고력, "
 "그리고 지략으로 성기사단을 훌륭히 이끌었다. 그는 훌륭한 기사단장이 될 것이다."
 
 #. EBX = DA3/designcontent/Journals/Skyhold/sky_barris_promotion
