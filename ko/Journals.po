@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-03-22 16:58+0000\n"
+"PO-Revision-Date: 2021-03-30 10:55+0000\n"
 "Last-Translator: 명란밥 <roddl72000@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
@@ -15730,14 +15730,13 @@ msgid ""
 "offering to the huntmaster as tradition dictates or give the offering to "
 "Caldan's son, Finn."
 msgstr ""
-"칼단 엔버센의 조장을 위한 공물을 만들 수 있다. 전통에 따라 사냥의 달인에게 공물을 돌려주거나 칼단의 아들, 핀에게 공물을 전해줄 수 "
-"있다."
+"칼단 엔버센의 조장을 위한 공물을 만들 수 있다. 전통에 따라 사냥지기에게 공물을 돌려주거나 칼단의 아들, 핀에게 공물을 전해줄 수 있다."
 
 #. EBX = DA3_DLC1/DesignContent/Journals/DLC1/AvvarVillage/dlc1_avvar_hunt
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x00045c15"
 msgid "Speak with the Huntmaster."
-msgstr "사냥의 달인과 이야기하자."
+msgstr "사냥지기와 이야기하자."
 
 #. EBX = DA3_DLC1/DesignContent/Journals/DLC1/AvvarVillage/dlc1_avvar_hunt
 #. PATH = JournalEntry/TaskEntry[1]
@@ -15755,7 +15754,7 @@ msgstr "처치한 영계에 물든 생물들"
 #. PATH = JournalEntry/TaskEntry[3]
 msgctxt "0x00045c27"
 msgid "Give the offering to the Huntmaster."
-msgstr "사냥의 달인에게 공물을 주자."
+msgstr "사냥지기에게 공물을 주자."
 
 #. EBX = DA3_DLC1/DesignContent/Journals/DLC1/AvvarVillage/dlc1_avvar_hunt
 #. PATH = JournalEntry/TaskEntry[4]
@@ -16326,7 +16325,7 @@ msgstr "회수한 해골"
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x00045212"
 msgid "Talk to the Augur about enchanted skulls."
-msgstr "아규흐와 마법이 부여된 해골들에 관해 이야기하자."
+msgstr "점쟁이와 마법이 부여된 해골들에 관해 이야기하자."
 
 #. EBX = DA3_DLC1/DesignContent/Journals/DLC1/AvvarVillage/dlc1_avvar_bard_artifacts
 #. PATH = JournalEntry/TaskEntry[3]
@@ -16344,7 +16343,7 @@ msgstr "장막불꽃을 사용해 아바르 마법에 대해 더 알아보자."
 #. PATH = JournalEntry/TaskEntry[5]
 msgctxt "0x00045d36"
 msgid "Return to the Augur."
-msgstr "아규흐에게 돌아가자."
+msgstr "점쟁이에게 돌아가자."
 
 #. EBX = DA3_DLC1/designcontent/Journals/DLC1/DLC1_Wilderness/dlc1_wild_occularum_dungeon
 #. PATH = JournalEntry/TitleReference
