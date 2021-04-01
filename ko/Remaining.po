@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-03-30 10:55+0000\n"
-"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
+"PO-Revision-Date: 2021-04-01 02:55+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -2220,7 +2220,7 @@ msgid ""
 "attack that deals increased damage and generates guard.\n"
 "\n"
 msgstr ""
-"냉기를 두른 돌진으로 적들을 밀쳐내고, 추가 피해를 주고 방어도를 생성하는 맹렬한 공격을 합니다.\n"
+"냉기를 두른 돌진으로 적을 밀쳐내고, 추가 피해를 주고 방어도를 생성하는 맹렬한 공격을 합니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Actives/Warrior/Avvar/Charge/MP_avvar_charge_abilitydata
@@ -2291,7 +2291,7 @@ msgid ""
 "a burning area that damages enemies.\n"
 "\n"
 msgstr ""
-"박살의 도약 착지 시 땅에 균열이 가 적들에게 피해를 주는 불타는 바닥을 남깁니다.\n"
+"박살의 도약 착지 시 땅에 균열이 가 적에게 피해를 주는 불타는 바닥을 남깁니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Actives/Warrior/Avvar/CrushingLeap/MP_avvar_crushingleap_ring_upgrade_abilitydata
@@ -2324,7 +2324,7 @@ msgid ""
 "nearby enemies\n"
 "\n"
 msgstr ""
-"근처의 대상에게 달려들며 주변 적들에게도 추가 전격 피해를 줍니다.\n"
+"근처의 대상에게 달려들며 주변 적에게도 추가 전격 피해를 줍니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Actives/Warrior/Avvar/ElementalWhirlwind/MP_avvar_elemental_whirlwind_abilitydata
@@ -2392,7 +2392,7 @@ msgid ""
 "second to nearby enemies.\n"
 "\n"
 msgstr ""
-"자신의 주변에 번개를 소환해, 근처 적들에게 매 초마다 전격 피해를 줍니다.\n"
+"자신의 주변에 번개를 소환해, 근처 적에게 매 초마다 전격 피해를 줍니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Actives/Warrior/Avvar/LightningRing/MP_avvar_lightningring_ring_upgrade_abilitydata
@@ -2402,7 +2402,7 @@ msgid ""
 "As Lady's Wrath strikes enemies, its duration increases.\n"
 "\n"
 msgstr ""
-"여인의 진노가 적들을 공격할 때, 지속시간이 증가합니다.\n"
+"여인의 진노가 적을 공격할 때, 지속시간이 증가합니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Actives/Warrior/Avvar/LightningRing/MP_avvar_lightningring_ring_upgrade_abilitydata
@@ -2504,7 +2504,7 @@ msgid ""
 "You smash the ground, damaging and chilling enemies nearby.\n"
 "\n"
 msgstr ""
-"바닥을 내리쳐 주변 적들에게 피해를 주고 서리 상태로 만듭니다.\n"
+"바닥을 내리쳐 주변 적에게 피해를 주고 서리 상태로 만듭니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Actives/Warrior/Avvar/Tremor/MP_avvar_tremor_upgrade1_abilitydata
@@ -2521,7 +2521,7 @@ msgid ""
 "already chilled.\n"
 "\n"
 msgstr ""
-"오싹한 떨림은 이제 범위가 넓어지고 이미 서리 상태인 적들을 빙결시킵니다.\n"
+"오싹한 떨림은 이제 범위가 넓어지고 이미 서리 상태인 적을 빙결시킵니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/Alchemist/AlchemyMastery/MP_alchemist_passive_alchemymastery_abilitydata
@@ -2764,7 +2764,7 @@ msgid ""
 "Killing an enemy has a chance to cause Fear in nearby enemies.\n"
 "\n"
 msgstr ""
-"적을 죽이면 근처 적들에게 공포 효과를 일으킬 가능성이 생깁니다.\n"
+"적을 죽이면 근처 적에게 공포 효과를 일으킬 가능성이 생깁니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/Barbarian/Stats/MP_barbarian_passive_katarihide_abilitydata
@@ -2866,7 +2866,7 @@ msgctxt "0x00042d53"
 msgid ""
 "You do more damage to enemies close to you.\n"
 "\n"
-msgstr "적들이 가까이 있을수록 더 많은 피해를 입힙니다.\n"
+msgstr "적이 가까이 있을수록 더 많은 피해를 입힙니다.\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/Hunter/Stats/MP_hunter_passive_stats_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -3106,7 +3106,7 @@ msgid ""
 "You do more damage to enemies whose health is less than or equal to yours.\n"
 "\n"
 msgstr ""
-"체력이 당신과 같거나 더 낮은 적들에게 더 많은 피해를 입힙니다.\n"
+"체력이 당신과 같거나 더 낮은 적에게 더 많은 피해를 입힙니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/Mage/Phasing/MP_mage_passive_phasing_abilitydata
@@ -3139,7 +3139,7 @@ msgid ""
 "short time.\n"
 "\n"
 msgstr ""
-"근접 공격으로 당신을 공격한 적들은 잠시 동안 기절할 확률이 생깁니다.\n"
+"근접 공격으로 당신을 공격한 적은 잠시 동안 기절할 확률이 생깁니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/Mage/UnsulliedVictim/MP_mage_passive_unsulliedvictim_abilitydata
@@ -3155,7 +3155,7 @@ msgid ""
 "You do more damage to enemies with high health.\n"
 "\n"
 msgstr ""
-"높은 체력을 가진 적들에게 더 많은 피해를 줍니다.\n"
+"높은 체력을 가진 적에게 더 많은 피해를 줍니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/Rogue/BloodThirst/MP_rogue_passive_bloodthirst_abilitydata
@@ -3317,7 +3317,7 @@ msgid ""
 "You do more damage to enemies afflicted with fear.\n"
 "\n"
 msgstr ""
-"공포에 걸린 적들에게 더 많은 피해를 입힙니다.\n"
+"공포에 걸린 적에게 더 많은 피해를 입힙니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/Warrior/RuthlessPursuit/MP_warrior_passive_ruthlesspursuit_abilitydata
@@ -9686,7 +9686,7 @@ msgstr "자동 저장 지점 도달됨"
 #. PATH = TextNotificationEntityData[1]/SubTextReference
 msgctxt "0x000436e4"
 msgid "A party member has fallen. Your enemies have grown stronger."
-msgstr "파티원이 쓰러졌습니다. 적들이 더 강해집니다."
+msgstr "파티원이 쓰러졌습니다. 적이 더 강해집니다."
 
 #. FILE = DA3/DesignContent/Prefabs/Multiplayer/MP_FadeModePresentation
 #. PATH = TextNotificationEntityData[2]/SubTextReference
@@ -14944,7 +14944,7 @@ msgstr ""
 "공포 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInvento"
 "ryItem4}{/notcontroller}: 이 기능을 사용하여 AOE 조준 모드를 시작한다. 주문을 시전할 지역으로 십자선을 "
 "이동해라. {controller}{StringBtnA}{/controller}{notcontroller}{StringBtnMouseLeft"
-"}{/notcontroller} 를 눌러 위치를 지정하면, 적에게 공항 상태를 가해진다. 적들은 피해를 입는 동안 공격을 할 수 없다."
+"}{/notcontroller} 를 눌러 위치를 지정하면, 적에게 공항 상태를 가해진다. 적은 피해를 입는 동안 공격을 할 수 없다."
 
 #. FILE = DA3/designcontent/Prefabs/Multiplayer/Global/Tutorials/MP_TutorialTrigger
 #. PATH = BWPopUpEntityData[38]/Text
@@ -14978,7 +14978,7 @@ msgctxt "0x00047610"
 msgid ""
 "The final battle has begun, and enemies are descending upon your location! "
 "To complete your mission successfully, all enemies must be defeated."
-msgstr "마지막 전투가 시작되었습니다. 적들이 몰려들고 있습니다! 모든 적을 처지하고 임무를 성공적으로 완수하십시오."
+msgstr "마지막 전투가 시작되었습니다. 적이 몰려들고 있습니다! 모든 적을 처지하고 임무를 성공적으로 완수하십시오."
 
 #. FILE = DA3/designcontent/Prefabs/Multiplayer/Global/Tutorials/MP_TutorialTrigger
 #. PATH = BWPopUpEntityData[41]/Text
@@ -16675,7 +16675,7 @@ msgid ""
 "completely.\n"
 "\n"
 msgstr ""
-"당신의 경이로운 연주솜씨는 간혹 당신을 향한 적들의 공격이 완전히 빗나가도록 만듭니다.\n"
+"당신의 경이로운 연주솜씨는 간혹 당신을 향한 적의 공격이 완전히 빗나가도록 만듭니다.\n"
 "\n"
 
 #. FILE = DA3_MP2/Combat/Kits/Bard/Passive/PartyClarity/party_mage_mp2_bard_passive_partyclarity_abilitydata
@@ -16750,7 +16750,7 @@ msgctxt "0x000470cb"
 msgid ""
 "<font color=\"#BAAB7B\">Targets marked with Vendetta take 10% additional "
 "damage.</font>\n"
-msgstr "<font color=\"#BAAB7B\">복수가 표시된 적들은 10%의 추가 피해를 받습니다.</font>\n"
+msgstr "<font color=\"#BAAB7B\">복수가 표시된 적은 10%의 추가 피해를 받습니다.</font>\n"
 
 #. FILE = DA3_MP2/Combat/Kits/Isabela/Exploit/combat_kits_isabela_exploit_abilitydata
 #. PATH = BWActivatedAbility/AbilityNameReference
@@ -16766,7 +16766,7 @@ msgid ""
 "range.\n"
 "\n"
 msgstr ""
-"두 개의 단검으로 근접한 모든 적들을 갈아버립니다.\n"
+"두 개의 단검으로 근접한 모든 적을 갈아버립니다.\n"
 "\n"
 
 #. FILE = DA3_MP2/Combat/Kits/Isabela/Exploit/combat_kits_skirmisher_exploit_upgrade_abilitydata
@@ -16800,7 +16800,7 @@ msgid ""
 "together if they get too far away from each other.\n"
 "\n"
 msgstr ""
-"밧줄로 묶은 볼트를 던져 적 두 명을 속박하고 둘에게 복수의 표식을 부여합니다. 적들은 느려지고 서로 너무 멀리 떨어지면 잡아당겨지게 "
+"밧줄로 묶은 볼트를 던져 적 두 명을 속박하고 둘에게 복수의 표식을 부여합니다. 적은 느려지고 서로 너무 멀리 떨어지면 잡아당겨지게 "
 "됩니다.\n"
 "\n"
 

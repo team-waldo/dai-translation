@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-03-26 08:55+0000\n"
+"PO-Revision-Date: 2021-04-01 02:55+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -803,7 +803,7 @@ msgctxt "0x00042eaa"
 msgid ""
 "Experts in this style crush their enemies with massive blows that can break "
 "any guard, shatter any armor, and destroy any opponent."
-msgstr "이 방식의 전문가들은 그 어떤 방어도 뚫고 갑옷도 부수며, 누구라도 파괴할 수 있는 엄청난 타격으로 적들을 분쇄합니다."
+msgstr "이 방식의 전문가들은 그 어떤 방어도 뚫고 갑옷도 부수며, 누구라도 파괴할 수 있는 엄청난 타격으로 적을 분쇄합니다."
 
 #. FILE = DA3/Party/General/AbilityTrees/Warrior_Vanguard_AbilityTree
 #. PATH = BWAbilityTree/TreeNameReference
@@ -1542,7 +1542,7 @@ msgctxt "0x0004acc4"
 msgid ""
 "Permafrost: all nearby enemies are constantly chilled; grants 50% bonus "
 "resistance to cold and physical damage"
-msgstr "영구 빙결: 주변의 적이 지속적으로 서리 상태가 됩니다. 냉기 및 물리 저항력 50% 증가"
+msgstr "영구 빙결: 주변의 적이 지속적으로 오한 상태가 됩니다. 냉기 및 물리 저항력 50% 증가"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_permashock_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -3152,7 +3152,7 @@ msgid ""
 "Passing through enemies hurts them and leaves them chilled.\n"
 "\n"
 msgstr ""
-"적을 통과해 지나가면 피해를 주고 서리를 남깁니다.\n"
+"적을 통과해 지나가면 피해를 주고 오한을 남깁니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Mage/Staff/Dispel/party_mage_staff_dispel_upgrade_abilitydata
@@ -8334,7 +8334,7 @@ msgid ""
 "<font color=\"#BAAB7B\">Chill Duration: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">서리 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
+"<font color=\"#BAAB7B\">오한 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
 "초</font>\n"
 
 #. FILE = DA3/Party/mage/FireIce/FireMine/party_mage_fireice_firemine_upgrade1_abilitydata
@@ -8767,7 +8767,7 @@ msgid ""
 "chilling or freezing targets.\n"
 "\n"
 msgstr ""
-"냉기를 부리는 데에 통달했습니다. 서리 효과와 빙결 효과의 효율이 향상됩니다.\n"
+"냉기를 부리는 데에 통달했습니다. 오한 효과와 빙결 효과의 효율이 향상됩니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Passives/DisciplineMastery/party_mage_passive_disciplinemastery_abilitydata
@@ -8787,7 +8787,7 @@ msgid ""
 "<font color=\"#BAAB7B\">Chill Duration Bonus: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0}%</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">서리 지속시간 증가량: </font><font color=\"#F5ECCE\""
+"<font color=\"#BAAB7B\">오한 지속시간 증가량: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0}%</font>\n"
 
 #. FILE = DA3/Party/mage/Passives/DiscordMastery/party_mage_passive_discordmastery_abilitydata
@@ -9252,7 +9252,7 @@ msgid ""
 "paralyzed.\n"
 "\n"
 msgstr ""
-"마법을 시전할 때 스스로를 전격으로 휘감습니다. 당신을 공격해 주문을 방해하려는 적들이 전격에 당해 마비됩니다.\n"
+"마법을 시전할 때 스스로를 전격으로 휘감습니다. 당신을 공격해 주문을 방해하려는 적이 전격에 당해 마비됩니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Passives/StaticCharge/party_mage_passive_staticcharge_abilitydata
@@ -9727,7 +9727,7 @@ msgid ""
 "area.\n"
 "\n"
 msgstr ""
-"차디찬 눈보라를 불러일으켜 적에게 피해를 입히고 서리 효과를 부여합니다.\n"
+"차디찬 눈보라를 불러일으켜 적에게 피해를 입히고 오한 효과를 부여합니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Staff/ChargedBurstIce/party_mage_staff_chargedburst_ice_abilitydata
@@ -9875,7 +9875,7 @@ msgid ""
 "Winter's Grasp.\n"
 "\n"
 msgstr ""
-"이미 빙결되었거나 서리를 입은 적에게 겨울의 손아귀를 시전하면 어마어마한 피해를 가할 수 있습니다.\n"
+"이미 빙결되었거나 오한을 입은 적에게 겨울의 손아귀를 시전하면 어마어마한 피해를 가할 수 있습니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Staff/ColdSnap/party_mage_staff_coldsnap_upgrade_abilitydata
@@ -9892,7 +9892,7 @@ msgid ""
 "the primary target is frozen.\n"
 "\n"
 msgstr ""
-"겨울의 손아귀가 이제 대상 주변의 적에게도 피해를 주고 서리 효과를 부여합니다. 빙결 효과는 주 대상에게만 적용됩니다.\n"
+"겨울의 손아귀가 이제 대상 주변의 적에게도 피해를 주고 오한 효과를 부여합니다. 빙결 효과는 주 대상에게만 적용됩니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Staff/Cone/party_mage_staff_cone_abilitydata
@@ -10806,7 +10806,7 @@ msgctxt "0x0004b3df"
 msgid ""
 "<font color=\"#F5ECCE\">{CUSTOM0} ice projectiles that chill enemies.</font>"
 "\n"
-msgstr "<font color=\"#F5ECCE\">적에게 서리를 가하는 냉기 투사체 {CUSTOM0} 개.</font>\n"
+msgstr "<font color=\"#F5ECCE\">적에게 오한을 가하는 냉기 투사체 {CUSTOM0} 개.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Barrage/saarebas_abilities_barrage_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[5]/FloatProviderTokenizedString/StringReference
@@ -11177,7 +11177,7 @@ msgid ""
 "<font color=\"#F5ECCE\">A frost glyph increases your damage resistance and "
 "chills enemies that strike you.</font>\n"
 msgstr ""
-"<font color=\"#F5ECCE\">서리 문양은 당신의 피해 저항력을 높이고 공격하는 적이 서리를 느끼게 합니다.</font>\n"
+"<font color=\"#F5ECCE\">서리 문양은 당신의 피해 저항력을 높이고 공격하는 적이 오한을 느끼게 합니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Glyph/saarebas_abilities_glyph_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
