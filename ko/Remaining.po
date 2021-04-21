@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-04-20 05:50+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-04-21 02:47+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -2602,7 +2602,7 @@ msgid ""
 "even in the face of certain death.\n"
 "\n"
 msgstr ""
-"수 년의 명상으로 인해, 이 비전 전사는 확고한 죽음의 앞에서도 흔들리지 않는 고요함을 통달했습니다.\n"
+"수년의 명상으로 인해, 이 비전 전사는 확고한 죽음의 앞에서도 흔들리지 않는 고요함을 통달했습니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/Archer/FlankingFire/MP_archer_passive_flankingfire_abilitydata
@@ -9769,8 +9769,9 @@ msgid ""
 msgstr ""
 "범위 공격은 적 여럿을 한 번에 공격할 수 있습니다.\n"
 "\n"
-"{controller}{StringBtnLStick}을 {/controller}{notcontroller}마우스를 "
-"{StringBtnMouseLeft}사용해 목표 공격 범위를 설정하십시오.\n"
+"{controller}{StringBtnLStick}을 "
+"{/controller}{notcontroller}{StringBtnMouseLeft}{/notcontroller}마우스를 사용해 목표 "
+"공격 범위를 설정하십시오.\n"
 "\n"
 "범위를 결정하면 {controller}{StringBtnA}{/controller}{notcontroller}{StringBtnMouseL"
 "eft}{/notcontroller}을 누르거나, {controller}{StringBtnB}{/controller}{notcontroll"
@@ -18992,19 +18993,19 @@ msgstr "상급 어스름"
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x000447d9"
 msgid "Lesser Terror"
-msgstr "하급 경악"
+msgstr "하급 공포의 악마"
 
 #. FILE = da3/Creatures/Faction/Demonic/Demon/creature_demon_terror_b
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x00042955"
 msgid "Terror"
-msgstr "경악"
+msgstr "공포의 악마"
 
 #. FILE = da3/Creatures/Faction/Demonic/Demon/creature_demon_terror_c
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x000447e8"
 msgid "Greater Terror"
-msgstr "상급 경악"
+msgstr "상급 공포의 악마"
 
 #. FILE = da3/Creatures/Faction/Demonic/Demon/creature_demon_wraith
 #. PATH = CreatureEntityData/CharacterNameReference
