@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-04-21 02:47+0000\n"
+"PO-Revision-Date: 2021-04-22 16:55+0000\n"
 "Last-Translator: NACHO <deertodear@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
@@ -20915,7 +20915,7 @@ msgstr ""
 #.     0x00044332(279346) : {string}274618{/string} {CUSTOM0}
 msgctxt "0x000430ba"
 msgid "Unknown"
-msgstr "Unknown"
+msgstr "미확인"
 
 #. FILE = UI/Assets/PotionCrafting/GrenadeCraftingRoot
 #. PATH = UIPotionCraftingItemAsset/Title
@@ -24166,7 +24166,7 @@ msgstr "방어 수치"
 #. PATH = UICharacterRecordSheetScreenAsset/StatLists/member[1]/StatsWithCategory/CategoryDisplayName
 msgctxt "0x000305ce"
 msgid "Attributes"
-msgstr "특질"
+msgstr "능력치"
 
 #. FILE = UI/Flow/Screen/REC/REC_CharRec
 #. PATH = UICharacterRecordSheetScreenAsset/StatLists/member[2]/StatsWithCategory/CategoryDisplayName
@@ -24196,7 +24196,7 @@ msgstr "기술"
 #. PATH = UICharacterFrameAsset/LocalizedLabels/member[2]/UIScreenAssetLocalizedLabel/LocString
 msgctxt "0x0003fd85"
 msgid "ATTRIBUTES"
-msgstr "특질"
+msgstr "능력치"
 
 #. FILE = UI/Flow/Screen/REC/REC_CharacterFrame
 #. PATH = UICharacterFrameAsset/LocalizedLabels/member[4]/UIScreenAssetLocalizedLabel/LocString
