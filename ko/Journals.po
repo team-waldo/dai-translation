@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-04-22 16:55+0000\n"
+"PO-Revision-Date: 2021-04-23 15:10+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
@@ -269,7 +269,7 @@ msgstr "조사 표본을 모으자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00036f96"
 msgid "Rifts at Dwarfson's Pass"
-msgstr "드워프 자손의 길에 있는 균열"
+msgstr "드워프슨의 길에 있는 균열"
 
 #. EBX = DA3/DesignContent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_faderift_camp_02
 #. PATH = JournalEntry/TextEntry[0]
@@ -277,7 +277,7 @@ msgctxt "0x00036f97"
 msgid ""
 "Active Fade rifts have been spotted in Dwarfson's Pass and at Winterwatch "
 "Tower."
-msgstr "겨울눈길 탑과 드워프 자손의 길에 영계 균열이 열린 것을 발견했다."
+msgstr "겨울눈길 탑과 드워프슨의 길에 영계 균열이 열린 것을 발견했다."
 
 #. EBX = DA3/DesignContent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_faderift_camp_02
 #. PATH = JournalEntry/TaskEntry[0]
@@ -2035,7 +2035,7 @@ msgid ""
 "and destroy Primeval Red Lyrium nodes."
 msgstr ""
 "배릭은 붉은 리륨이라면 커크월에서 지긋지긋할 정도로 봐 왔다. 이제 붉은 리륨이 온 세상에 퍼진 것도 모자라 배릭의 형을 미치게 했던 그 "
-"파편처럼 “노래\"를 한다. 이 혐오스러운 것들을 없앤다면 배릭이 아주 기뻐할 것이다. 원시 붉은 리륨 결절지를 찾아 파괴하도록 하자."
+"파편처럼 \"노래\"를 한다. 이 혐오스러운 것들을 없앤다면 배릭이 아주 기뻐할 것이다. 원시 붉은 리륨 결절지를 찾아 파괴하도록 하자."
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/Varric/var_grind_journal
 #. PATH = JournalEntry/TextEntry[1]
@@ -2864,13 +2864,13 @@ msgstr "장부를 확인하자."
 #. PATH = JournalEntry/TaskEntry[7]
 msgctxt "0x000440fb"
 msgid "Canine leather gathered"
-msgstr "채집한 개과 가죽"
+msgstr "채집한 갯과 짐승 가죽"
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_pln_wild_dalish_supplies
 #. PATH = JournalEntry/TaskEntry[8]
 msgctxt "0x0002fd70"
 msgid "Find and deliver ten pieces of canine leather."
-msgstr "개과 가죽 10장을 찾아 전달하자."
+msgstr "갯과 짐승 가죽 10장을 찾아 전달하자."
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_pln_wild_dalish_supplies
 #. PATH = JournalEntry/TaskEntry[9]
@@ -3460,7 +3460,7 @@ msgstr "성기사의 시체에서 찾은 편지에 태너라는 자가 성기사
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x0002fc31"
 msgid "Confront Tanner in Redcliffe village."
-msgstr "레드클리프 마을에서 테너와 대면하자."
+msgstr "레드클리프 마을에서 태너와 대면하자."
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_wild_treasure_map_05
 #. PATH = JournalEntry/TitleReference
@@ -7955,13 +7955,13 @@ msgstr "리세트를 구출하자."
 #. PATH = JournalEntry/TaskEntry[5]
 msgctxt "0x0003ca78"
 msgid "Rescue Threnn."
-msgstr "스렌을 구출하자."
+msgstr "트렌을 구출하자."
 
 #. EBX = DA3/designcontent/Journals/Setback/setback_evac_journal
 #. PATH = JournalEntry/TaskEntry[6]
 msgctxt "0x0003dcab"
 msgid "Rescue Adan."
-msgstr "에이단을 구출하자."
+msgstr "아단을 구출하자."
 
 #. EBX = DA3/designcontent/Journals/Setback/setback_evac_journal
 #. PATH = JournalEntry/TaskEntry[7]
@@ -8258,7 +8258,7 @@ msgstr "모네이의 처형식에 참가하자."
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x0001b744"
 msgid "Speak to \"Rainier\" in his cell."
-msgstr "“레니에” 의 감방에서 그와 이야기하자."
+msgstr "\"레니에\" 의 감방에서 그와 이야기하자."
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/Blackwall/blk_personal_journal
 #. PATH = JournalEntry/TaskEntry[2]
@@ -10589,7 +10589,7 @@ msgctxt "0x0002eded"
 msgid ""
 "The apothecary mentioned that his master, Taigen, was working on something "
 "special before he died at the Conclave."
-msgstr "약제사가 그의 스승인 타이겐이 콘클라베에서 사망하기 전, 뭔가 특별한 것을 만들고 있었다고 한다."
+msgstr "약제사가 그의 스승인 태이젠이 콘클라베에서 사망하기 전, 뭔가 특별한 것을 만들고 있었다고 한다."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_search
 #. PATH = JournalEntry/TextEntry[1]
@@ -10597,19 +10597,19 @@ msgctxt "0x0004376e"
 msgid ""
 "Some technical notes were found while exploring Haven. They look like "
 "someone named Taigen put a lot of work into them."
-msgstr "헤이븐을 탐험하는 동안 기술 기록 몇 가지를 발견했다. 타이겐이라는 자가 그것에 많은 노력을 기울인 것 같다."
+msgstr "헤이븐을 탐험하는 동안 기술 기록 몇 가지를 발견했다. 태이젠이라는 자가 그것에 많은 노력을 기울인 것 같다."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_search
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x0002edec"
 msgid "Find Taigen's notes."
-msgstr "타이겐의 기록물을 찾자."
+msgstr "태이젠의 기록물을 찾자."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_search
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x0002edeb"
 msgid "Return the notes to Adan."
-msgstr "에이단에게 쪽지를 돌려주자."
+msgstr "아단에게 쪽지를 돌려주자."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_search
 #. PATH = JournalEntry/TaskEntry[2]
@@ -10873,7 +10873,7 @@ msgstr "일레이나는 늑대들이 처리되면 농부들을 다시 불러모�
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x0003fe8a"
 msgid "Ask Elaina how to make the farms safe again."
-msgstr "엘레이나에게 농장의 안전을 되찾을 방법을 물어보자."
+msgstr "일레이나에게 농장의 안전을 되찾을 방법을 물어보자."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_horses_wolves
 #. PATH = JournalEntry/TaskEntry[1]
@@ -10885,7 +10885,7 @@ msgstr "늑대들을 처리하자."
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x0003fe87"
 msgid "Tell Elaina the wolves are no longer a problem."
-msgstr "엘레이나에게 늑대 문제가 해결됐다고 전하자."
+msgstr "일레이나에게 늑대 문제가 해결됐다고 전하자."
 
 #. EBX = DA3/DesignContent/Journals/SeekerFortress/see_NightmareCollection_journal
 #. PATH = JournalEntry/TitleReference
@@ -11335,7 +11335,7 @@ msgstr "내륙지역에 접근하기 위해 정찰대를 파견하자."
 #. PATH = JournalEntry/TaskEntry[3]
 msgctxt "0x00017083"
 msgid "Travel to the Hinterlands to speak with Mother Giselle."
-msgstr "내륙지역으로 가서 지젤 수녀와 이야기하자."
+msgstr "내륙지역으로 가서 지젤 신모와 이야기하자."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
 #. PATH = JournalEntry/TaskEntry[4]
@@ -14135,13 +14135,13 @@ msgid ""
 "In order to heal the many wounded at Haven, Mother Giselle requires specific "
 "herbs. She has provided a requisition outlining what she needs. Once "
 "collected, the herbs are to be delivered to Quartermaster Threnn."
-msgstr "헤이븐의 많은 부상자들을 치료하기 위해 지젤 신모가 특정한 약초를 요청했다. 약초를 모아 병참 장교 스렌에게 전달하자."
+msgstr "헤이븐의 많은 부상자들을 치료하기 위해 지젤 신모가 특정한 약초를 요청했다. 약초를 모아 병참 장교 트렌에게 전달하자."
 
 #. EBX = DA3/DesignContent/Journals/Global/Inquisition/scout_haven_quests
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x00042a42"
 msgid "Deliver the herbs to Threnn."
-msgstr "약초를 스렌에게 전달하자."
+msgstr "약초를 트렌에게 전달하자."
 
 #. EBX = DA3/DesignContent/Journals/Global/Inquisition/scout_haven_quests
 #. PATH = JournalEntry/TaskEntry[1]
@@ -15093,7 +15093,7 @@ msgstr "발견한 밀수업자의 편지"
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x00018e72"
 msgid "Take the smuggler letters to Cullen."
-msgstr "밀수업자의 편지를 컬렌에게 가지고 가라."
+msgstr "밀수업자의 편지를 컬렌에게 가지고 가자."
 
 #. EBX = DA3/DesignContent/Journals/Nemesis/Sam_main_journal
 #. PATH = JournalEntry/TaskEntry[2]
@@ -15111,7 +15111,7 @@ msgstr "컬렌의 부하들에게 채석장을 추가로 조사해보라고 지�
 #. PATH = JournalEntry/TaskEntry[4]
 msgctxt "0x00018e6e"
 msgid "Return to Cullen with the information found at the quarry."
-msgstr "채석장에서 발견한 정보를 가지고 컬렌에게 돌아가라."
+msgstr "채석장에서 발견한 정보를 가지고 컬렌에게 돌아가자."
 
 #. EBX = DA3/DesignContent/Journals/Nemesis/Sam_main_journal
 #. PATH = JournalEntry/TaskEntry[5]

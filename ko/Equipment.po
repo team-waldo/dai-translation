@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-04-21 02:47+0000\n"
+"PO-Revision-Date: 2021-04-23 15:10+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
@@ -24,7 +24,7 @@ msgstr "재료:"
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00024ade"
 msgid "Masterwork Cotton"
-msgstr "명품 면"
+msgstr "명품 무명천"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_Cotton
 #. PATH = RecipeMasterworkItemAsset/Description
@@ -44,7 +44,7 @@ msgstr ""
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00044878"
 msgid "Fade-Touched Cotton"
-msgstr "영계에 물든 면"
+msgstr "영계에 물든 무명천"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_Cotton_2
 #. PATH = RecipeMasterworkItemAsset/Description
@@ -126,7 +126,7 @@ msgstr ""
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00024afe"
 msgid "Masterwork Darkened Samite"
-msgstr "명품 어두워진 사마이트"
+msgstr "명품 어두워진 새마이트"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_DarkenedSamite_2
 #. PATH = RecipeMasterworkItemAsset/Description
@@ -148,7 +148,7 @@ msgstr ""
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00044881"
 msgid "Fade-Touched Darkened Samite"
-msgstr "영계에 물든 어두워진 사마이트"
+msgstr "영계에 물든 어두워진 새마이트"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_Darkened_Samite_3
 #. PATH = RecipeMasterworkItemAsset/Description
@@ -214,13 +214,13 @@ msgstr ""
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00024b02"
 msgid "Masterwork Highever Weave"
-msgstr "명품 하이에버 직조"
+msgstr "명품 하이에버 직조물"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_HigheverWeave_2
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00044885"
 msgid "Fade-Touched Highever Weave"
-msgstr "영계에 물든 하이에버 직조"
+msgstr "영계에 물든 하이에버 직조물"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_HigheverWeave_2
 #. PATH = RecipeMasterworkItemAsset/Description
@@ -242,13 +242,13 @@ msgstr ""
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00024b03"
 msgid "Masterwork Imperial Vestment Cotton"
-msgstr "명품 제국 예복 면"
+msgstr "명품 제국 전례복용 면직물"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_ImperialVestmentCotton_2
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x0004488a"
 msgid "Fade-Touched Imperial Vestment Cotton"
-msgstr "영계에 물든 제국 예복 면"
+msgstr "영계에 물든 제국 전례복용 면직물"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_ImperialVestmentCotton_2
 #. PATH = RecipeMasterworkItemAsset/Description
@@ -286,7 +286,7 @@ msgstr ""
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x0004488b"
 msgid "Fade-Touched Infused Vyrantium Samite"
-msgstr "영계에 물든 수놓인 바이란티움 사마이트"
+msgstr "영계에 물든 수놓인 바이란티움 새마이트"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_InfusedVyranriumSamite_2
 #. PATH = RecipeMasterworkItemAsset/Description
@@ -324,19 +324,19 @@ msgstr ""
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00024b01"
 msgid "Masterwork Infused Vyrantium Samite"
-msgstr "명품 수놓인 바이란티움 사마이트"
+msgstr "명품 수놓인 바이란티움 새마이트"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_KingsWillowWeave
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00024adc"
 msgid "Masterwork King's Willow Weave"
-msgstr "명품 왕의 버드나무 직조"
+msgstr "명품 왕의 버드나무 직조물"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_KingsWillowWeave_2
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x0004488c"
 msgid "Fade-Touched King's Willow Weave"
-msgstr "영계에 물든 왕의 버드나무 직조"
+msgstr "영계에 물든 왕의 버드나무 직조물"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_KingsWillowWeave_2
 #. PATH = RecipeMasterworkItemAsset/Description
@@ -358,13 +358,13 @@ msgstr ""
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00024adb"
 msgid "Masterwork Lambswool"
-msgstr "명품 새끼양모"
+msgstr "명품 새끼 양 털옷감"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_Lambswool_2
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x0004487c"
 msgid "Fade-Touched Lambswool"
-msgstr "영계에 물든 새끼양모"
+msgstr "영계에 물든 새끼 양 털옷감"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_Lambswool_2
 #. PATH = RecipeMasterworkItemAsset/Description
@@ -402,13 +402,13 @@ msgstr ""
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00024aea"
 msgid "Masterwork Lustrous Cotton"
-msgstr "명품 윤이 나는 면"
+msgstr "명품 광택 있는 면직물"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_LustrousCotton_2
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00044886"
 msgid "Fade-Touched Lustrous Cotton"
-msgstr "영계에 물든 윤이 나는 면"
+msgstr "영계에 물든 광택 있는 면직물"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_LustrousCotton_2
 #. PATH = RecipeMasterworkItemAsset/Description
@@ -446,13 +446,13 @@ msgstr ""
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00024b04"
 msgid "Masterwork Plaideweave"
-msgstr "명품 격자무늬 직조"
+msgstr "명품 격자무늬 직조물"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_Plaideweave_2
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x0004487d"
 msgid "Fade-Touched Plaideweave"
-msgstr "영계에 물든 격자무늬 직조"
+msgstr "영계에 물든 격자무늬 직조물"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_Plaideweave_2
 #. PATH = RecipeMasterworkItemAsset/Description
@@ -606,13 +606,13 @@ msgstr "명품 왕실 바다 비단"
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00024b0a"
 msgid "Masterwork Samite"
-msgstr "명품 사마이트"
+msgstr "명품 새마이트"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_Samite_2
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x0004487e"
 msgid "Fade-Touched Samite"
-msgstr "영계에 물든 사마이트"
+msgstr "영계에 물든 새마이트"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_Samite_2
 #. PATH = RecipeMasterworkItemAsset/Description
@@ -738,13 +738,13 @@ msgstr ""
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00024aee"
 msgid "Masterwork Velveteen"
-msgstr "명품 면벨벳"
+msgstr "명품 무명 벨벳"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_Velveteen_2
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00044880"
 msgid "Fade-Touched Velveteen"
-msgstr "영계에 물든 면벨벳"
+msgstr "영계에 물든 무명 벨벳"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_Velveteen_2
 #. PATH = RecipeMasterworkItemAsset/Description
@@ -1220,13 +1220,13 @@ msgstr ""
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00024af2"
 msgid "Masterwork Canine Leather"
-msgstr "명품 개과 가죽"
+msgstr "명품 갯과 짐승 가죽"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Leather/crafting_masterwork_Hound_2
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00044894"
 msgid "Fade-Touched Canine Leather"
-msgstr "영계에 물든 개과 가죽"
+msgstr "영계에 물든 갯과 짐승 가죽"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Leather/crafting_masterwork_Hound_2
 #. PATH = RecipeMasterworkItemAsset/Description
@@ -2493,7 +2493,7 @@ msgstr "명품 철"
 #.     0x00043fd7(278487) : {string}100814{/string}
 msgctxt "0x000189ce"
 msgid "Cotton"
-msgstr "면"
+msgstr "무명천"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Cloth/recipe_material_Cotton
 #. PATH = RecipeMaterial/Description
@@ -2539,7 +2539,7 @@ msgstr ""
 #. PATH = RecipeMaterial/DisplayName
 msgctxt "0x0001fa95"
 msgid "Darkened Samite"
-msgstr "어두워진 사마이트"
+msgstr "어두워진 새마이트"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Cloth/recipe_material_Darkened_Samite
 #. PATH = RecipeMaterial/Description
@@ -2583,7 +2583,7 @@ msgstr ""
 #. PATH = RecipeMaterial/DisplayName
 msgctxt "0x0001faa4"
 msgid "Highever Weave"
-msgstr "하이에버 직조"
+msgstr "하이에버 직조물"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Cloth/recipe_material_Highever_Weave
 #. PATH = RecipeMaterial/Description
@@ -2605,7 +2605,7 @@ msgstr ""
 #. PATH = RecipeMaterial/DisplayName
 msgctxt "0x000189cf"
 msgid "Imperial Vestment Cotton"
-msgstr "제국 예복 면"
+msgstr "제국 전례복용 면직물"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Cloth/recipe_material_Imperial_Vestment_Cotton
 #. PATH = RecipeMaterial/Description
@@ -2627,7 +2627,7 @@ msgstr ""
 #. PATH = RecipeMaterial/DisplayName
 msgctxt "0x0001fa9d"
 msgid "Infused Vyrantium Samite"
-msgstr "수놓인 바이란티움 사마이트"
+msgstr "수놓인 바이란티움 새마이트"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Cloth/recipe_material_Infused_Vyrantium_Samite
 #. PATH = RecipeMaterial/Description
@@ -2649,7 +2649,7 @@ msgstr ""
 #. PATH = RecipeMaterial/DisplayName
 msgctxt "0x0001fa90"
 msgid "King's Willow Weave"
-msgstr "왕의 버드나무 직조"
+msgstr "왕의 버드나무 직조물"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Cloth/recipe_material_Kings_Willow_Weave
 #. PATH = RecipeMaterial/Description
@@ -2673,7 +2673,7 @@ msgstr ""
 #.     0x00043f95(278421) : {string}129689{/string}
 msgctxt "0x0001fa99"
 msgid "Lambswool"
-msgstr "새끼양모"
+msgstr "새끼 양 털옷감"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Cloth/recipe_material_Lambswool
 #. PATH = RecipeMaterial/Description
@@ -2695,7 +2695,7 @@ msgstr ""
 #. PATH = RecipeMaterial/DisplayName
 msgctxt "0x000189d1"
 msgid "Lustrous Cotton"
-msgstr "윤이 나는 면"
+msgstr "광택 있는 면직물"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Cloth/recipe_material_Lostrous_Cotton
 #. PATH = RecipeMaterial/Description
@@ -2719,7 +2719,7 @@ msgstr ""
 #.     0x00043eee(278254) : {string}129682{/string}
 msgctxt "0x0001fa92"
 msgid "Plaideweave"
-msgstr "격자무늬 직조"
+msgstr "격자무늬 직조물"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Cloth/recipe_material_Plaideweave
 #. PATH = RecipeMaterial/Description
@@ -2781,7 +2781,7 @@ msgstr ""
 #. PATH = RecipeMaterial/DisplayName
 msgctxt "0x0001faa7"
 msgid "Samite"
-msgstr "사마이트"
+msgstr "새마이트"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Cloth/recipe_material_Samite
 #. PATH = RecipeMaterial/Description
@@ -2819,7 +2819,7 @@ msgstr "비단 문직"
 #.     0x00043f9a(278426) : {string}100813{/string}
 msgctxt "0x000189cd"
 msgid "Velveteen"
-msgstr "면벨벳"
+msgstr "무명 벨벳"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Cloth/recipe_material_dragon_webbing
 #. PATH = RecipeMaterial/DisplayName
@@ -3365,7 +3365,7 @@ msgstr ""
 #.     0x0004400d(278541) : {string}129691{/string}
 msgctxt "0x0001fa9b"
 msgid "Canine Leather"
-msgstr "개과 가죽"
+msgstr "갯과 짐승 가죽"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Leather/recipe_material_Hound_Fur
 #. PATH = RecipeMaterial/Description
@@ -3546,7 +3546,7 @@ msgid ""
 "<font color=\"#F3F781\">Defense slot:</font> +13 health"
 msgstr ""
 "2단계 <font color=\"#848484\">일반</font> 금속\n"
-"<font color=\"#F3F781\">주 슬롯:</font> 중간 방어 수치 / 피해량 (지팡이류 피해 계열: 화염)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 중간 방어 수치 / 피해량 (지팡이류 피해 속성: 화염)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1.5 건강\n"
 "<font color=\"#F3F781\">공격 슬롯:</font> +2.5% 방어 관통력\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +13 체력"
@@ -3573,7 +3573,7 @@ msgid ""
 "on being hit"
 msgstr ""
 "1단계 <font color=\"#848484\">일반</font> 금속\n"
-"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치 / 피해량 (지팡이류 피해 계열: 냉기)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치 / 피해량 (지팡이류 피해 속성: 냉기)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 근력\n"
 "<font color=\"#F3F781\">공격 슬롯:</font> +1% 적중 시 기절 확률\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +1% 피격 시 공격자 기절 확률"
@@ -3599,7 +3599,7 @@ msgid ""
 "<font color=\"#F3F781\">Defense slot:</font> +15 health"
 msgstr ""
 "3단계 <font color=\"#848484\">일반</font> 금속\n"
-"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 계열: 화염)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 속성: 화염)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1.75 건강\n"
 "<font color=\"#F3F781\">공격 슬롯:</font> +3% 방어 관통력\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +15 체력"
@@ -3624,7 +3624,7 @@ msgid ""
 "<font color=\"#F3F781\">Defense slot:</font> +10 health"
 msgstr ""
 "1단계 <font color=\"#848484\">일반</font> 금속\n"
-"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치 / 피해량 (지팡이류 피해 계열: 화염)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치 / 피해량 (지팡이류 피해 속성: 화염)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 건강\n"
 "<font color=\"#F3F781\">공격 슬롯:</font> +2% 방어 관통력\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +10 체력"
@@ -3652,7 +3652,7 @@ msgid ""
 "<font color=\"#F3F781\">Defense slot:</font> +1.75% melee defense"
 msgstr ""
 "3단계 <font color=\"#848484\">일반</font> 금속\n"
-"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 계열: 전기)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 속성: 전격)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1.75 근력\n"
 "<font color=\"#F3F781\">공격 슬롯:</font> +1.75% 공격력\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +1.75% 근거리 방어력"
@@ -3684,7 +3684,7 @@ msgid ""
 "<font color=\"#F3F781\">Defense slot:</font> +1% melee defense"
 msgstr ""
 "1단계 <font color=\"#848484\">일반</font> 금속\n"
-"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치 / 피해량 (지팡이류 피해 계열: 전기)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치 / 피해량 (지팡이류 피해 속성: 전격)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 근력\n"
 "<font color=\"#F3F781\">공격 슬롯:</font> +1% 공격력\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +1% 근거리 방어력"
@@ -3716,7 +3716,7 @@ msgid ""
 "attacker on being hit"
 msgstr ""
 "2단계 <font color=\"#848484\">일반</font> 금속\n"
-"<font color=\"#F3F781\">주 슬롯:</font> 중간 방어 수치 / 피해량 (지팡이류 피해 계열: 냉기)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 중간 방어 수치 / 피해량 (지팡이류 피해 속성: 냉기)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 근력 / +0.5 건강\n"
 "<font color=\"#F3F781\">공격 슬롯:</font> +1.5% 적중 시 기절 확률\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +1.5% 피격 시 공격자 기절 확률"
@@ -3745,7 +3745,7 @@ msgid ""
 "attacker on being hit"
 msgstr ""
 "3단계 <font color=\"#848484\">일반</font> 금속\n"
-"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 계열: 냉기)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 속성: 냉기)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 근력 / +0.75 건강\n"
 "<font color=\"#F3F781\">공격 슬롯:</font> +1.75% 적중 시 기절 확률\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +1.75% 피격 시 공격자 기절 확률"
@@ -3793,7 +3793,7 @@ msgid ""
 "<font color=\"#F3F781\">Defense slot:</font> +1.5% melee defense"
 msgstr ""
 "2단계 <font color=\"#848484\">일반</font> 금속\n"
-"<font color=\"#F3F781\">주 슬롯:</font> 중간 방어 수치 / 피해량 (지팡이류 피해 계열: 전기)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 중간 방어 수치 / 피해량 (지팡이류 피해 속성: 전격)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1.5 근력\n"
 "<font color=\"#F3F781\">공격 슬롯:</font> +1.5% 공격력\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +1.5% 근거리 방어력"
@@ -3818,7 +3818,7 @@ msgid ""
 "<font color=\"#F3F781\">Defense slot:</font> +13 health"
 msgstr ""
 "2단계 <font color=\"#848484\">일반</font> 금속\n"
-"<font color=\"#F3F781\">주 슬롯:</font> 중간 방어 수치 / 피해량 (지팡이류 피해 계열: 화염)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 중간 방어 수치 / 피해량 (지팡이류 피해 속성: 화염)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1.5 건강\n"
 "<font color=\"#F3F781\">공격 슬롯:</font> +2.5% 방어도 추가 피해\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +13 체력"
@@ -3865,7 +3865,7 @@ msgid ""
 "attacker on being hit"
 msgstr ""
 "3단계 <font color=\"#848484\">희귀</font> 금속 (방어구는 직업 제한 없음)\n"
-"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 계열: 냉기)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 속성: 냉기)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 근력 / +0.75 건강\n"
 "<font color=\"#F3F781\">공격 슬롯:</font> +1.75% 적중 시 기절 확률\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +1.75% 피격 시 공격자 기절 확률"
@@ -3900,7 +3900,7 @@ msgid ""
 "<font color=\"#F3F781\">Defense slot:</font> +10 health"
 msgstr ""
 "1단계 <font color=\"#848484\">일반</font> 금속\n"
-"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치 / 피해량 (지팡이 피해 계열: 화염)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치 / 피해량 (지팡이 피해 속성: 화염)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 건강\n"
 "<font color=\"#F3F781\">공격 슬롯:</font> +2% 방어도 추가 피해\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +10 체력"
@@ -3934,7 +3934,7 @@ msgid ""
 "<font color=\"#F3F781\">Defense slot:</font> +15 health"
 msgstr ""
 "3단계 <font color=\"#848484\">일반</font> 금속\n"
-"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이 피해 계열: 화염)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이 피해 속성: 화염)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1.75 건강\n"
 "<font color=\"#F3F781\">공격 슬롯:</font> +3% 방어도 추가 피해\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +15 체력"
@@ -3958,7 +3958,7 @@ msgid ""
 "<font color=\"#F3F781\">Defense slot:</font> +4% fire damage resistance"
 msgstr ""
 "4단계 <font color=\"#848484\">희귀</font> 금속\n"
-"<font color=\"#F3F781\">주 슬롯:</font> 매우 높은 방어 수치 / 피해량 (지팡이류 피해 계열: 화염)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 매우 높은 방어 수치 / 피해량 (지팡이류 피해 속성: 화염)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 건강 / +1 근력\n"
 "<font color=\"#F3F781\">공격 슬롯:</font> +2% 적중 시 출혈 확률\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +4% 화염 피해 저항"
@@ -10939,7 +10939,7 @@ msgstr "기사단원 전문화 초기화"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0004b2d6"
 msgid "Prismatic Greataxe"
-msgstr "프리즘 거대 도끼"
+msgstr "무지갯빛 거대 도끼"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Greataxes/dlcblue_recipe_greataxe_prismatic
 #. PATH = Recipe/Description
@@ -11065,7 +11065,7 @@ msgstr "술레빈 칼날"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001fb8b"
 msgid "Sundering"
-msgstr "찢어발기기"
+msgstr "분리"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Greataxes/recipe_BE_Maul_1
 #. PATH = Recipe/Description
@@ -11113,7 +11113,7 @@ msgstr "톱니 전투도끼"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001f706"
 msgid "Hossberg Twainer"
-msgstr "호스버그 반가름이"
+msgstr "호스버그 가르개"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Greataxes/recipe_greataxe_t3_2
 #. PATH = Recipe/DisplayName
@@ -20699,7 +20699,7 @@ msgstr "학살자"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001f724"
 msgid "Refined Hossberg Twainer"
-msgstr "정련된 호스버그 반가름이"
+msgstr "정련된 호스버그 가르개"
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Greataxes/equip_greataxe_t3_5
 #. PATH = EquipItemAsset/DisplayName
@@ -22910,7 +22910,7 @@ msgstr "영계에 물든 코뿔돼지 가죽"
 #. PATH = RecipeMaterial/DisplayName
 msgctxt "0x0004571d"
 msgid "Avvar Cotton"
-msgstr "아바르 면"
+msgstr "아바르 무명천"
 
 #. FILE = DA3_DLC1/Equipment/Crafting/Materials/Cloth/dlc1_recipe_material_Avvar_Cotton
 #. PATH = RecipeMaterial/Description
@@ -23080,7 +23080,7 @@ msgid ""
 "<font color=\"#F3F781\">Defense slot:</font> +2% melee defense"
 msgstr ""
 "4단계 <font color=\"#848484\">희귀</font> 금속\n"
-"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 계열: 냉기)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 속성: 냉기)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +2 근력\n"
 "<font color=\"#F3F781\">공격 슬롯:</font> +2% 공격력\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +2% 근거리 방어력"
@@ -23103,7 +23103,7 @@ msgid ""
 "<font color=\"#F3F781\">Defense slot:</font> +16 health"
 msgstr ""
 "4단계 <font color=\"#848484\">희귀</font> 금속\n"
-"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 계열: 화염)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 속성: 화염)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +2 건강\n"
 "<font color=\"#F3F781\">공격 슬롯:</font> +3.5% 방어 관통력\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +16 체력"
@@ -23122,7 +23122,7 @@ msgid ""
 "on being hit"
 msgstr ""
 "4단계 <font color=\"#848484\">희귀</font> 금속\n"
-"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 계열: 냉기)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 속성: 냉기)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 근력 / +1 건강\n"
 "<font color=\"#F3F781\">공격 슬롯:</font> +2% 적중 시 기절 확률\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +2% 피격 시 공격자 기절 확률"

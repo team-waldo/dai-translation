@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-04-21 02:47+0000\n"
-"Last-Translator: NACHO <deertodear@gmail.com>\n"
+"PO-Revision-Date: 2021-04-23 15:10+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -266,8 +266,8 @@ msgstr ""
 "controller}를 눌러 탈것에서 내리십시오.\n"
 "\n"
 "탈것을 부르려면, {controller}{StringBtnLB}를 눌러 원형 메뉴를 띄우고 {summonmount}를 "
-"선택하십시오{/controller}{notcontroller}핫바에서 탈것 아이콘을 선택하거나 {ConceptSummonMount}를 "
-"누르십시오{/notcontroller}."
+"선택하십시오{/controller}{notcontroller}단축키 바에서 탈것 아이콘을 선택하거나 {ConceptSummonMount}"
+"를 누르십시오{/notcontroller}."
 
 #. FILE = DA3/Layouts/Ferelden/Ferelden_Wilderness_Main/DSG_InteractiveArt_Schematic
 #. PATH = GetLocalizedStringIDData[9]/Text
@@ -435,7 +435,7 @@ msgstr "울슬리 돌려보내기"
 #. PATH = GetLocalizedStringIDData[1]/Text
 msgctxt "0x0002b4da"
 msgid "Loot"
-msgstr "줍기"
+msgstr "획득하기"
 
 #. FILE = DA3/Layouts/Ferelden/Ferelden_Wilderness_Main/DSG_Quests_LightQuestContent_Schematic
 #. PATH = GetLocalizedStringIDData[1]/Text
@@ -561,7 +561,7 @@ msgstr "늑대 굴"
 #. PATH = GetLocalizedStringIDData[21]/Text
 msgctxt "0x00029b3c"
 msgid "Dwarfson's Pass"
-msgstr "드워프 자손의 길"
+msgstr "드워프슨의 길"
 
 #. FILE = DA3/Layouts/Ferelden/Ferelden_Wilderness_Main/DSG_Regions_Schematic
 #. PATH = GetLocalizedStringIDData[22]/Text
@@ -585,13 +585,13 @@ msgstr "마녀숲"
 #. PATH = GetLocalizedStringIDData[26]/Text
 msgctxt "0x00029b41"
 msgid "Lake Luthias"
-msgstr "루티아스 강"
+msgstr "루티아스 호수"
 
 #. FILE = DA3/Layouts/Ferelden/Ferelden_Wilderness_Main/DSG_Regions_Schematic
 #. PATH = GetLocalizedStringIDData[27]/Text
 msgctxt "0x00029b42"
 msgid "West Road"
-msgstr "서쪽 길"
+msgstr "서녘로"
 
 #. FILE = DA3/Layouts/Ferelden/Ferelden_Wilderness_Main/DSG_Regions_Schematic
 #. PATH = GetLocalizedStringIDData[28]/Text
@@ -603,7 +603,7 @@ msgstr "늙은 시미온의 동굴"
 #. PATH = GetLocalizedStringIDData[30]/Text
 msgctxt "0x0003f994"
 msgid "Forannan Ravine"
-msgstr "포랜넌 골짜기"
+msgstr "포래넌 골짜기"
 
 #. FILE = DA3/Layouts/Ferelden/Ferelden_Wilderness_Main/DSG_Tutorials_Schematic
 #. PATH = BWPopUpEntityData/Title
@@ -641,7 +641,7 @@ msgstr ""
 #. PATH = AppearanceOverrideSpawnData/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x00037b41"
 msgid "Giles"
-msgstr "가일스"
+msgstr "자일스"
 
 #. FILE = DA3/Layouts/Ferelden/Ferelden_Wilderness_Main/QST_CassandraRomQuest_Bandits_Schematic
 #. PATH = GetLocalizedStringIDData/Text
@@ -705,7 +705,7 @@ msgstr "크레스트우드 언덕"
 #. PATH = GetLocalizedStringIDData[1]/Text
 msgctxt "0x000415fd"
 msgid "Loot"
-msgstr "줍기"
+msgstr "획득하기"
 
 #. FILE = DA3/Layouts/Ferelden/dgn_l_010/DSG_PreRuins_Combat_Schematic
 #. PATH = GetLocalizedStringIDData/Text
@@ -1330,7 +1330,7 @@ msgid ""
 "{controller}Press {StringBtnSTART} to open the hero menu and select "
 "Character Record to see the Abilities screen.{/controller}"
 msgstr ""
-"{controller}{StringBtnSTART}를 눌러 영웅 메뉴를 열고 캐릭터 기록지를 선택해 기술 화면을 "
+"{controller}{StringBtnSTART}를 눌러 영웅 메뉴를 열고 캐릭터 기록을 선택해 기술 화면을 "
 "확인하십시오.{/controller}"
 
 #. FILE = DA3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0330_PRO_FirstRift_Schematic
@@ -1345,7 +1345,7 @@ msgid ""
 msgstr ""
 "캐릭터의 레벨이 올랐습니다. 체력과 능력치가 자동으로 상승했으며, 기술 점수 하나를 획득했습니다.{notcontroller}\n"
 "\n"
-"{ConceptQuickShowCharRec}을 눌러 캐릭터 기록지를 열고 기술 화면을 확인하십시오.{/notcontroller}"
+"{ConceptQuickShowCharRec}을 눌러 캐릭터 기록을 열고 기술 화면을 확인하십시오.{/notcontroller}"
 
 #. FILE = DA3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0330_PRO_FirstRift_Schematic
 #. PATH = BWPopUpEntityData[7]/Text
@@ -4122,7 +4122,7 @@ msgstr "동굴"
 #. PATH = BWMapPinLocation[148]/TitleReference
 msgctxt "0x00041815"
 msgid "Dwarfson's Pass Camp"
-msgstr "드워프 자손의 길 야영지"
+msgstr "드워프슨의 길 야영지"
 
 #. FILE = da3/Layouts/Ferelden/Ferelden_Wilderness_Main/map/Ferelden_Wilderness_Main_floor0
 #. PATH = BWMapPinLocation[173]/TitleReference
@@ -6281,7 +6281,7 @@ msgstr "딘안 하닌"
 #. PATH = GetLocalizedStringIDData[1]/Text
 msgctxt "0x000409d5"
 msgid "Loot"
-msgstr "줍기"
+msgstr "획득하기"
 
 #. FILE = da3/Layouts/TheDales/dgn_s_140/map/dgn_s_140_floor0
 #. PATH = BWMap/TitleReference
@@ -8503,7 +8503,7 @@ msgstr ""
 #. PATH = GetLocalizedStringIDData[1]/Text
 msgctxt "0x0003e529"
 msgid "Rescue Adan"
-msgstr "에이단 구출"
+msgstr "아단 구출"
 
 #. FILE = da3/layouts/FrostbackMountains/FrostbackMountains/DSG_0140_SET_EvacApothecaryAndResearcher
 #. PATH = GetLocalizedStringIDData[2]/Text
@@ -8575,7 +8575,7 @@ msgstr ""
 "눌러{/controller}{notcontroller}배운 기술을 끌어서{/notcontroller} 원하는 단축키에 놓을 수 있습니다."
 "\n"
 "\n"
-"캐릭터 기록지{controller}에 있는 기술 화면에서{/controller}{notcontroller} 위에 "
+"캐릭터 기록{controller}에 있는 기술 화면에서{/controller}{notcontroller} 위에 "
 "있는{/notcontroller} 전술 탭을 선택해 배운 액티브 기술을 볼 수 있습니다."
 
 #. FILE = da3/layouts/FrostbackMountains/FrostbackMountains/DSG_0330_PRO_CharRec_Tutorial
@@ -8633,7 +8633,7 @@ msgstr ""
 #. PATH = BWPopUpEntityData[9]/Title
 msgctxt "0x00004664"
 msgid "Character Record"
-msgstr "캐릭터 기록지"
+msgstr "캐릭터 기록"
 
 #. FILE = da3/layouts/FrostbackMountains/FrostbackMountains/DSG_0330_PRO_CharRec_Tutorial
 #. PATH = BWPopUpEntityData[9]/Text
@@ -8642,7 +8642,7 @@ msgstr "캐릭터 기록지"
 #.     0x00043d5d(277853) : {string}276100{/string}
 msgctxt "0x00043684"
 msgid "Character Record"
-msgstr "캐릭터 기록지"
+msgstr "캐릭터 기록"
 
 #. FILE = da3/layouts/FrostbackMountains/FrostbackMountains/DSG_1150_PRO_FinalDemon
 #. PATH = BWGameInteractionEntityData/InteractionTextReference
@@ -8666,7 +8666,7 @@ msgstr ""
 #. PATH = AppearanceOverrideSpawnData[1]/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x00042954"
 msgid "Spellbinder"
-msgstr "결속술사"
+msgstr "주문결속사"
 
 #. FILE = da3/layouts/FrostbackMountains/FrostbackMountains/DSG_Setback_Main_Schematic
 #. PATH = GetLocalizedStringIDData/Text
@@ -8985,7 +8985,7 @@ msgstr "병참 장교"
 #. PATH = BWGameInteractionEntityData/InteractionTextReference
 msgctxt "0x0001e40a"
 msgid "Loot"
-msgstr "줍기"
+msgstr "획득하기"
 
 #. FILE = da3_dlc_red/Layouts/DLC_Red_Dungeon/map/DLC_Red_Dungeon_floor0
 #. PATH = BWMapPinLocation[1]/TitleReference
