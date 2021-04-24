@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-04-23 15:10+0000\n"
+"PO-Revision-Date: 2021-04-24 13:59+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
@@ -4923,7 +4923,7 @@ msgstr "감시단 방어구"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0004adf9"
 msgid "The Skin That Shields"
-msgstr "방어하는 피부"
+msgstr "방어하는 살갗"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/OnePiece/dlcblue_recipe_heavy_1p_nexus
 #. PATH = Recipe/Description
@@ -5421,13 +5421,13 @@ msgstr "3단계 마법사 머리 방어구 도안"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001c37d"
 msgid "Seer Cowl"
-msgstr "관찰자 두건"
+msgstr "선견자 두건"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/Helmets/recipe_light_helmet_8_rare
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001c389"
 msgid "Superior Seer Cowl"
-msgstr "훌륭한 관찰자 두건"
+msgstr "훌륭한 선견자 두건"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/Helmets/recipe_light_helmet_9_rare
 #. PATH = Recipe/DisplayName
@@ -5535,7 +5535,7 @@ msgstr "그리폰 로브"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0004adfa"
 msgid "The Skin That Stalks"
-msgstr "추적하는 피부"
+msgstr "추적하는 살갗"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/OnePiece/dlcblue_recipe_light_1p_nexus
 #. PATH = Recipe/Description
@@ -6111,7 +6111,7 @@ msgstr "그리폰 갑옷"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0004adfb"
 msgid "The Skin That Strikes"
-msgstr "타격하는 피부"
+msgstr "타격하는 살갗"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/OnePiece/dlcblue_recipe_medium_1p_nexus
 #. PATH = Recipe/Description
@@ -9705,7 +9705,7 @@ msgstr "명품 모탈리타시 지팡이"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001fa48"
 msgid "Seer Staff"
-msgstr "관찰자 지팡이"
+msgstr "선견자 지팡이"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Mage/Staff/recipe_staff_t3_dragon
 #. PATH = Recipe/DisplayName
@@ -10559,7 +10559,7 @@ msgctxt "0x000447f8"
 msgid ""
 "Inflicts bonus damage against red templars and darkspawn on each weapon "
 "strike."
-msgstr "무기 공격이 적중할 때마다 붉은 성기사 혹은 암흑피조물 유형 대상에 추가 피해를 입힌다."
+msgstr "무기 공격이 적중할 때마다 붉은 성기사 혹은 암흑피조물 유형 대상에 추가 피해를 줍니다."
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Runes/recipe_rune_vs_corrupted_2
 #. PATH = Recipe/DisplayName
@@ -10583,7 +10583,7 @@ msgstr "악마살해자 룬"
 #. PATH = Recipe/Description
 msgctxt "0x000447fd"
 msgid "Inflicts bonus damage against demons and undead for each weapon strike."
-msgstr "무기 공격이 적중할 때마다 악마 및 언데드 유형 대상에 추가 피해를 입힌다."
+msgstr "무기 공격이 적중할 때마다 악마 및 언데드 유형 대상에 추가 피해를 줍니다."
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Runes/recipe_rune_vs_demons_2
 #. PATH = Recipe/DisplayName
@@ -10607,7 +10607,7 @@ msgstr "용살자 룬"
 #. PATH = Recipe/Description
 msgctxt "0x000447fb"
 msgid "Inflicts bonus damage against dragons on each weapon strike."
-msgstr "무기 공격이 적중할 때마다 용 유형 대상에 추가 피해를 입힌다."
+msgstr "무기 공격이 적중할 때마다 용 유형 대상에 추가 피해를 줍니다."
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Runes/recipe_rune_vs_dragons_2
 #. PATH = Recipe/DisplayName
@@ -10633,7 +10633,7 @@ msgctxt "0x000447f9"
 msgid ""
 "Inflicts bonus damage against humanoids, beasts, and animals on each weapon "
 "strike."
-msgstr "무기 공격이 적중할 때마다 인간형, 야수, 동물 유형 대상에게 추가 피해를 입힌다."
+msgstr "무기 공격이 적중할 때마다 인간형, 야수, 동물 유형 대상에게 추가 피해를 줍니다."
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Runes/recipe_rune_vs_living_2
 #. PATH = Recipe/DisplayName
@@ -10957,7 +10957,7 @@ msgstr "가로날도끼"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0004ad0b"
 msgid "The Dancer's Axe"
-msgstr "무희의 도끼"
+msgstr "춤꾼의 도끼"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Greataxes/dlcblue_recipe_greataxe_whirlwind
 #. PATH = Recipe/Description
@@ -11059,7 +11059,7 @@ msgstr "용 사냥꾼의 도끼"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001f75b"
 msgid "Sulevin Blade"
-msgstr "술레빈 칼날"
+msgstr "술레빈 검"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Greataxes/recipe_BE_Maul_1
 #. PATH = Recipe/DisplayName
@@ -14396,13 +14396,13 @@ msgstr "올레이 마법사 모자"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001c38d"
 msgid "Seer Cowl"
-msgstr "관찰자 두건"
+msgstr "선견자 두건"
 
 #. FILE = DA3/Equipment/Items/Armors/Helms/Light/equip_helmet_light_t3_3
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001c393"
 msgid "Superior Seer Cowl"
-msgstr "훌륭한 관찰자 두건"
+msgstr "훌륭한 선견자 두건"
 
 #. FILE = DA3/Equipment/Items/Armors/Helms/Light/equip_helmet_light_t3_4
 #. PATH = EquipItemAsset/DisplayName
@@ -15913,7 +15913,7 @@ msgstr "혼란 폭탄 조제법"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00043444"
 msgid "Enemies caught in the area of effect begin attacking each other."
-msgstr "폭발에 휘말린 적이 서로를 공격한다."
+msgstr "폭발에 휘말린 적이 서로를 공격합니다."
 
 #. FILE = DA3/Equipment/Items/Potions/item_unlock_potion_crowpoison
 #. PATH = StackedItemAsset/DisplayName
@@ -15927,7 +15927,7 @@ msgctxt "0x00043449"
 msgid ""
 "Coats weapons with deadly poison. Each hit does damage over time to the "
 "target."
-msgstr "무기에 치명적인 독을 바른다. 공격이 적중할 때마다 대상에게 지속 피해를 입힌다."
+msgstr "무기에 치명적인 독을 바릅니다.. 공격이 적중할 때마다 대상에게 지속 피해를 줍니다."
 
 #. FILE = DA3/Equipment/Items/Potions/item_unlock_potion_elfroot
 #. PATH = StackedItemAsset/DisplayName
@@ -15939,7 +15939,7 @@ msgstr "재생 물약 조제법"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x0004344d"
 msgid "Heals a small amount of damage every few seconds."
-msgstr "몇 초마다 소량의 피해를 회복한다."
+msgstr "몇 초마다 소량의 피해를 회복합니다."
 
 #. FILE = DA3/Equipment/Items/Potions/item_unlock_potion_firebomb
 #. PATH = StackedItemAsset/DisplayName
@@ -15951,7 +15951,7 @@ msgstr "안티바의 불꽃 폭탄 조제법"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00043447"
 msgid "Explodes into a large sticky pool of fire."
-msgstr "폭발 시 끈적이는 화염 웅덩이를 남긴다."
+msgstr "폭발 시 끈적이는 화염 웅덩이를 남깁니다."
 
 #. FILE = DA3/Equipment/Items/Potions/item_unlock_potion_healingmist
 #. PATH = StackedItemAsset/DisplayName
@@ -15963,7 +15963,7 @@ msgstr "치유의 안개 폭탄 조제법"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x0004344c"
 msgid "Allies in the area of effect are instantly healed by a moderate amount."
-msgstr "폭발 영역 내의 아군이 즉시 중간 정도의 생명력을 회복한다."
+msgstr "폭발 영역 내의 아군이 즉시 중간 정도의 생명력을 회복합니다."
 
 #. FILE = DA3/Equipment/Items/Potions/item_unlock_potion_insectswarm
 #. PATH = StackedItemAsset/DisplayName
@@ -15976,7 +15976,7 @@ msgstr "벌 단지 폭탄 조제법"
 msgctxt "0x0004344b"
 msgid ""
 "The swarm attacks the first enemy to enter it for massive damage over time."
-msgstr "벌떼가 처음 닿는 적에게 막대한 지속 피해를 입힌다."
+msgstr "벌떼가 처음 닿는 적에게 막대한 지속 피해를 줍니다."
 
 #. FILE = DA3/Equipment/Items/Potions/item_unlock_potion_lyrium
 #. PATH = StackedItemAsset/DisplayName
@@ -16000,7 +16000,7 @@ msgstr "막강한 공세의 강장제 조제법"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00043440"
 msgid "Grants a bonus to damage."
-msgstr "추가 피해를 입힌다."
+msgstr "추가 피해를 줍니다."
 
 #. FILE = DA3/Equipment/Items/Potions/item_unlock_potion_oozegrenade
 #. PATH = StackedItemAsset/DisplayName
@@ -16012,7 +16012,7 @@ msgstr "역청 폭탄 조제법"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x0004344a"
 msgid "Explodes into a puddle that slows enemies."
-msgstr "폭발 시 적을 둔화시키는 웅덩이를 남긴다."
+msgstr "폭발 시 적을 둔화시키는 웅덩이를 남깁니다."
 
 #. FILE = DA3/Equipment/Items/Potions/item_unlock_potion_resistcold
 #. PATH = StackedItemAsset/DisplayName
@@ -16024,7 +16024,7 @@ msgstr "냉기 저항 강장제 조제법"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00043446"
 msgid "Grants some resistance to cold damage."
-msgstr "일정량의 냉기 저항력을 부여한다."
+msgstr "일정량의 냉기 저항력을 부여합니다."
 
 #. FILE = DA3/Equipment/Items/Potions/item_unlock_potion_resistelectricty
 #. PATH = StackedItemAsset/DisplayName
@@ -16036,7 +16036,7 @@ msgstr "전격 저항 강장제 조제법"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00043442"
 msgid "Grants some resistance to electric damage."
-msgstr "일정량의 전격 저항력을 부여한다."
+msgstr "일정량의 전격 저항력을 부여합니다."
 
 #. FILE = DA3/Equipment/Items/Potions/item_unlock_potion_resistfire
 #. PATH = StackedItemAsset/DisplayName
@@ -16048,7 +16048,7 @@ msgstr "화염 저항 강장제 조제법"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00043429"
 msgid "Grants some resistance to fire damage."
-msgstr "일정량의 화염 저항력을 부여한다."
+msgstr "일정량의 화염 저항력을 부여합니다."
 
 #. FILE = DA3/Equipment/Items/Potions/item_unlock_potion_resistspirit
 #. PATH = StackedItemAsset/DisplayName
@@ -16060,7 +16060,7 @@ msgstr "영혼 저항 강장제 조제법"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00043448"
 msgid "Grants some resistance to spirit damage."
-msgstr "일정량의 영혼 저항력을 부여한다."
+msgstr "일정량의 영혼 저항력을 부여합니다."
 
 #. FILE = DA3/Equipment/Items/Potions/item_unlock_potion_rockskin
 #. PATH = StackedItemAsset/DisplayName
@@ -19245,7 +19245,7 @@ msgstr "집정관 전격 지팡이"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001fa56"
 msgid "Seer Fire Staff"
-msgstr "관찰자 화염 지팡이"
+msgstr "선견자 화염 지팡이"
 
 #. FILE = DA3/Equipment/Items/Weapons/Mage/Staff/equip_staff_t3_7
 #. PATH = EquipItemAsset/DisplayName
@@ -19446,7 +19446,7 @@ msgstr "파르티잔의 장궁"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00044067"
 msgid "Aggressive Bow"
-msgstr "공격 활"
+msgstr "공세의 활"
 
 #. FILE = DA3/Equipment/Items/Weapons/Rogue/Bows/equip_bow_t1_9
 #. PATH = EquipItemAsset/DisplayName
@@ -20261,7 +20261,7 @@ msgstr "테빈터 단검"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00020315"
 msgid "Dalish Slasher"
-msgstr "데일스의 절단자"
+msgstr "데일스 엘프 식 절단도"
 
 #. FILE = DA3/Equipment/Items/Weapons/Rogue/Daggers/equip_dagger_t2_9
 #. PATH = EquipItemAsset/DisplayName
@@ -20498,7 +20498,7 @@ msgstr "카르타의 손톱"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x000286da"
 msgid "Carta Punisher"
-msgstr "카르타의 처벌자"
+msgstr "카르타 처벌자"
 
 #. FILE = DA3/Equipment/Items/Weapons/Rogue/Daggers/equip_dagger_unequipped
 #. PATH = EquipItemAsset/DisplayName
@@ -23261,7 +23261,7 @@ msgstr "4단계 활 도안"
 #. PATH = Recipe/DisplayName
 msgctxt "0x00045551"
 msgid "Masterwork Carta Punisher"
-msgstr "명품 카르타의 처벌자"
+msgstr "명품 카르타 처벌자"
 
 #. FILE = DA3_DLC1/Equipment/Crafting/Recipes/Weapons/Rogue/Daggers/dlc1_recipe_dlc1_dagger_energy
 #. PATH = Recipe/DisplayName

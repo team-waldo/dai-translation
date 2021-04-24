@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-04-23 15:10+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2021-04-24 13:59+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -7345,7 +7345,7 @@ msgid ""
 msgstr ""
 "상세한 연구를 통해 식물을 재배할 때 가장 효율적으로 최대량을 얻을 수 있게 되었다.\n"
 "\n"
-"약초를 수집할 때 10% 확률로 한 개를 더 얻을 수 있다."
+"약초를 수집할 때 10% 확률로 추가 약초를 얻을 수 있다."
 
 #. FILE = DA3/DesignContent/Perks/Secrets/Perk_Secrets_ImpSearch
 #. PATH = UIInquisitionCustomizeItemAsset/Title
@@ -9834,7 +9834,7 @@ msgctxt "0x000216b9"
 msgid ""
 "There was an error retrieving required data from the Dragon Age server. "
 "Session terminated."
-msgstr "드래곤에이지 서버로부터 필요한 데이터를 받는데 오류가 생겼습니다. 세션 만료됨."
+msgstr "Dragon Age 서버로부터 필요한 데이터를 받는데 오류가 생겼습니다. 세션 만료됨."
 
 #. FILE = DA3/Logic/Levels/GlobalMPLevelStart
 #. PATH = GetLocalizedStringIDData[1]/Text
@@ -9936,7 +9936,7 @@ msgstr "작전 실패..."
 #. PATH = ItemManagerEntityData/EmptyUpgradeText
 msgctxt "0x000286cf"
 msgid "Empty {CUSTOM0}"
-msgstr "비어있음 {CUSTOM0}"
+msgstr "{CUSTOM0} 미장착"
 
 #. FILE = DA3/Logic/Levels/SingletonEntities_MP
 #. PATH = ItemManagerEntityData/RequirementText
@@ -16835,7 +16835,7 @@ msgstr "장막불꽃이 없습니다."
 #. PATH = UIElementTextFieldEntityExData/LocalizedTextString
 msgctxt "0x000470b9"
 msgid "Suffocating—Return to the torch!"
-msgstr "질식하고 있습니다—횃불로 돌아가십시오!"
+msgstr "질식 중 - 횃불로 돌아가십시오!"
 
 #. FILE = DA3_MP2/Layouts/Multiplayer/MPCastle01/Zone_1_Zone_Schematic
 #. PATH = GetLocalizedStringIDData/Text
