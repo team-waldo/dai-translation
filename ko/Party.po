@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-04-23 15:10+0000\n"
+"PO-Revision-Date: 2021-04-25 07:25+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -873,7 +873,7 @@ msgctxt "0x0004b25a"
 msgid ""
 "The wearer of this belt gains a moderate boost to attack speed when below "
 "50% health."
-msgstr "이 허리띠를 착용한 사람은 체력이 50 % 미만일 때 공격 속도가 적당히 증가합니다."
+msgstr "이 허리띠를 착용한 사람은 체력이 50 % 미만일 때 공격 속도가 상당히 증가합니다."
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_attackspeed_lowhp_t3_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -9608,8 +9608,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Damage Bonus: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0}% for every creature within {CUSTOM1} meters</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">피해 증가량: </font><font color=\"#F5ECCE\">{CUSTOM1}% 미터 "
-"내 적 하나 당 {CUSTOM0}</font>\n"
+"<font color=\"#BAAB7B\">피해 증가량: </font><font color=\"#F5ECCE\">{CUSTOM1}미터 내 "
+"적 하나 당 {CUSTOM0}%</font>\n"
 
 #. FILE = DA3/Party/mage/Staff/BurstLightning/party_mage_staff_burst_lightning_abilitydata
 #. PATH = BWAoEAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference

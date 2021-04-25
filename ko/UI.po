@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-04-24 13:59+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-04-25 07:25+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1304,7 +1304,7 @@ msgstr "게임이 비활성화 되어 있을 때에도 계속해서 보이스 �
 #. PATH = UIGameOptionsItemAsset/Title
 msgctxt "0x00044a5e"
 msgid "Friendly Fire"
-msgstr "아군 공격"
+msgstr "아군 오폭"
 
 #. FILE = UI/Assets/GameOptions/GameOptions_FriendlyFire
 #. PATH = UIGameOptionsItemAsset/Description
@@ -11441,7 +11441,7 @@ msgstr ""
 #. PATH = BWPopUpAsset/Title
 msgctxt "0x00044f4f"
 msgid "Terms of Service"
-msgstr "Terms of Service"
+msgstr "서비스 약관"
 
 #. FILE = UI/Assets/Popups/startmenu_tos_gen4a
 #. PATH = BWPopUpAsset/Text
