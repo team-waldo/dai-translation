@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-04-25 07:25+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2021-04-26 08:55+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -1766,7 +1766,7 @@ msgstr "면역: 약화"
 #. PATH = StatusEffect/Description
 msgctxt "0x00044b31"
 msgid "Perceptive"
-msgstr "예민"
+msgstr "감지력"
 
 #. FILE = DA3/Combat/StatusEffects/combat_resistance_electricity_buff_statuseffect
 #. PATH = StatusEffect/Description
@@ -2625,7 +2625,7 @@ msgstr ""
 #. PATH = BWPassiveAbility/AbilityNameReference
 msgctxt "0x000436b3"
 msgid "Perceptive"
-msgstr "예민"
+msgstr "감지력"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/Archer/Stats/MP_archer_passive_stats_abilitydata
 #. PATH = BWPassiveAbility/AbilityDescriptionReference
@@ -3631,7 +3631,7 @@ msgid ""
 "Inquisition. His name is a description of what he does—though he has left "
 "the Qun, certain habits are hard to break."
 msgstr ""
-"\"카타리\"는 \"죽음을 가져오는 자\"라는 쿠나리 말이다. 카타리는 자신의 길을 개척하기 위해 쿤을 떠난 탈 바쇼스 용병이다. 하지만 "
+"\"카타리\"는 \"죽음을 가져오는 자\"라는 쿠나리 단어다. 카타리는 자신의 길을 개척하기 위해 쿤을 떠난 탈 바쇼스 용병이다. 하지만 "
 "명령에 따르도록 길러진 후에 자신의 길을 따르기란 어려운 법. 지금의 카타리는 심문회에 붙어 칼밥 먹고 살아간다. 결국 이름이 뜻하는 "
 "대로 살아가게 됐다. 비록 쿤을 떠났지만, 고칠 수 없는 습관도 있는 법이다."
 
@@ -4452,7 +4452,7 @@ msgstr "자유인 정찰자"
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x000392d5"
 msgid "Freemen Veteran"
-msgstr "자유인 노병"
+msgstr "자유인 고참병"
 
 #. FILE = DA3/Creatures/Faction/Biotic/Human/creature_orlesianarmy_prowler
 #. PATH = CreatureEntityData/CharacterNameReference
