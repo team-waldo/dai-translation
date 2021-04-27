@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-04-25 07:25+0000\n"
+"PO-Revision-Date: 2021-04-27 12:55+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -1321,7 +1321,7 @@ msgstr "8 미터 이내의 적 하나당 + 10% 추가 피해"
 #.     0x000441a0(278944) : {string}262092{/string} {string}278921{/string} {string}278172{/string}
 msgctxt "0x00043e9c"
 msgid "+10% damage bonus if not being hit for 5 seconds"
-msgstr "5초 동안 맞지 않으면 피해 보너스 +10%"
+msgstr "5초간 피격되지 않으면 피해 보너스 +10%"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_highdamagenodamage_t2_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -1330,7 +1330,7 @@ msgstr "5초 동안 맞지 않으면 피해 보너스 +10%"
 #.     0x000441b1(278961) : {string}262103{/string} {string}278921{/string} {string}278173{/string}
 msgctxt "0x00043e9d"
 msgid "+20% damage bonus if not being hit for 5 seconds"
-msgstr "5초 동안 맞지 않으면 피해 보너스 +20%"
+msgstr "5초간 피격되지 않으면 피해 보너스 +20%"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_highdamagenodamage_t3_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -1338,7 +1338,7 @@ msgstr "5초 동안 맞지 않으면 피해 보너스 +20%"
 #.     0x00044a7c(281212) : {string}262103{/string} {string}278921{/string} {string}278174{/string}
 msgctxt "0x00043e9e"
 msgid "+30% damage bonus if not being hit for 5 seconds"
-msgstr "5초 동안 맞지 않으면 피해 보너스 +30%"
+msgstr "5초간 피격되지 않으면 피해 보너스 +30%"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_highfocusgencrowd_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -1397,7 +1397,7 @@ msgstr "10초 동안 받은 피해의 25%를 치유"
 #.     0x0004418d(278925) : {string}262094{/string} {string}278921{/string} {string}278181{/string}
 msgctxt "0x00043ea5"
 msgid "Abilities cost 10% less mana/stamina if not being hit for 5 seconds"
-msgstr "5초 동안 맞지 않으면 기술의 마나/기력 비용이 10% 감소"
+msgstr "5초간 피격되지 않으면 기술의 마나/기력 비용이 10% 감소"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_lowcostnodamage_t2_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -1405,7 +1405,7 @@ msgstr "5초 동안 맞지 않으면 기술의 마나/기력 비용이 10% 감�
 #.     0x00044194(278932) : {string}262091{/string} {string}278921{/string} {string}278182{/string}
 msgctxt "0x00043ea6"
 msgid "Abilities cost 15% less mana/stamina if not being hit for 5 seconds"
-msgstr "5초 동안 맞지 않으면 기술의 마나/기력 비용이 15% 감소"
+msgstr "5초간 피격되지 않으면 기술의 마나/기력 비용이 15% 감소"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_lowcostnodamage_t3_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -1413,7 +1413,7 @@ msgstr "5초 동안 맞지 않으면 기술의 마나/기력 비용이 15% 감�
 #.     0x0004419a(278938) : {string}262090{/string} {string}278921{/string} {string}278183{/string}
 msgctxt "0x00043ea7"
 msgid "Abilities cost 20% less mana/stamina if not being hit for 5 seconds"
-msgstr "5초 동안 맞지 않으면 기술의 마나/기력 비용이 20% 감소"
+msgstr "5초간 피격되지 않으면 기술의 마나/기력 비용이 20% 감소"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_lowerabilitycost_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference

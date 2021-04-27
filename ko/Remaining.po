@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-04-26 08:55+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-04-27 12:55+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -10129,25 +10129,25 @@ msgstr "DPS"
 #. PATH = ItemManagerEntityData/RaceInfos/member[1]/ItemManagerEntity_RaceInfo/Name
 msgctxt "0x000449d2"
 msgid "Human-Trained"
-msgstr "인간 전용"
+msgstr "인간 방어구 숙련자"
 
 #. FILE = DA3/Logic/Levels/SingletonEntities_SP
 #. PATH = ItemManagerEntityData/RaceInfos/member[2]/ItemManagerEntity_RaceInfo/Name
 msgctxt "0x000449d1"
 msgid "Dwarf-Trained"
-msgstr "드워프 전용"
+msgstr "드워프 방어구 숙련자"
 
 #. FILE = DA3/Logic/Levels/SingletonEntities_SP
 #. PATH = ItemManagerEntityData/RaceInfos/member[3]/ItemManagerEntity_RaceInfo/Name
 msgctxt "0x000449d4"
 msgid "Elf-Trained"
-msgstr "엘프 전용"
+msgstr "엘프 방어구 숙련자"
 
 #. FILE = DA3/Logic/Levels/SingletonEntities_SP
 #. PATH = ItemManagerEntityData/RaceInfos/member[4]/ItemManagerEntity_RaceInfo/Name
 msgctxt "0x000449d3"
 msgid "Qunari-Trained"
-msgstr "쿠나리 전용"
+msgstr "쿠나리 방어구 숙련자"
 
 #. FILE = DA3/Logic/Levels/SingletonEntities_SP
 #. PATH = LootConfiguration/LootGoldNotificationString
@@ -11485,7 +11485,7 @@ msgstr "제국 전령"
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x00039975"
 msgid "Seggrit"
-msgstr "세그릿"
+msgstr "세그리트"
 
 #. FILE = DA3/designcontent/CreatureProfiles/Haven/in1_quartermaster
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -18781,49 +18781,49 @@ msgstr ""
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x0004393f"
 msgid "Damage Bonus Against Beasts"
-msgstr "야수 대상 추가 피해"
+msgstr "야수에게 주는 피해 증가"
 
 #. FILE = da3/Combat/Stats/Stat_Damage_Bonus_Darkspawn
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x0004393e"
 msgid "Damage Bonus Against Darkspawn"
-msgstr "암흑피조물 대상 추가 피해"
+msgstr "암흑피조물에게 주는 피해 증가"
 
 #. FILE = da3/Combat/Stats/Stat_Damage_Bonus_Demons
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x0001820e"
 msgid "Damage Bonus Against Demons"
-msgstr "악마 대상 추가 피해"
+msgstr "악마에게 주는 피해 증가"
 
 #. FILE = da3/Combat/Stats/Stat_Damage_Bonus_Dragons
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x0001820d"
 msgid "Damage Bonus Against Dragons"
-msgstr "용 대상 추가 피해"
+msgstr "용에게 주는 피해 증가"
 
 #. FILE = da3/Combat/Stats/Stat_Damage_Bonus_Giants
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x0004393c"
 msgid "Damage Bonus Against Red Templars"
-msgstr "붉은 성기사단 대상 추가 피해"
+msgstr "붉은 성기사단에게 주는 피해 증가"
 
 #. FILE = da3/Combat/Stats/Stat_Damage_Bonus_Humanoids
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x0001820c"
 msgid "Damage Bonus Against Humanoids"
-msgstr "인간형 대상 추가 피해"
+msgstr "인간형에게 주는 피해 증가"
 
 #. FILE = da3/Combat/Stats/Stat_Damage_Bonus_RedTemplars
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x000439a5"
 msgid "Damage Bonus Against Giants"
-msgstr "거인 대상 추가 피해"
+msgstr "거인에게 주는 피해 증가"
 
 #. FILE = da3/Combat/Stats/Stat_Damage_Bonus_Undead
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x0004393d"
 msgid "Damage Bonus Against Undead"
-msgstr "언데드 대상 추가 피해"
+msgstr "언데드에게 주는 피해 증가"
 
 #. FILE = da3/Configurations/Online/MPMatchSettingsBundle
 #. PATH = MPDifficultyMatchSettingMode[1]/DisplayName
