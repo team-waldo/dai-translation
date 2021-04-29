@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-04-27 12:55+0000\n"
+"PO-Revision-Date: 2021-04-29 07:55+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -49,12 +49,12 @@ msgid ""
 "<font color=\"#BAAB7B\">Tier 3: </font><font color=\"#F5ECCE\">Duration: "
 "{CUSTOM2} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">1단계: </font><font color=\"#F5ECCE\">지속시간: {CUSTOM0} "
-"초</font>\n"
-"<font color=\"#BAAB7B\">2단계: </font><font color=\"#F5ECCE\">지속시간: {CUSTOM1} "
-"초</font>\n"
-"<font color=\"#BAAB7B\">3단계: </font><font color=\"#F5ECCE\">지속시간: {CUSTOM2} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">1단계: </font><font color=\"#F5ECCE\">지속시간: "
+"{CUSTOM0}초</font>\n"
+"<font color=\"#BAAB7B\">2단계: </font><font color=\"#F5ECCE\">지속시간: "
+"{CUSTOM1}초</font>\n"
+"<font color=\"#BAAB7B\">3단계: </font><font color=\"#F5ECCE\">지속시간: "
+"{CUSTOM2}초</font>\n"
 
 #. FILE = DA3/Party/Archived/party_warrior_twohanded_basic_defensiveattackrandom_abilitydata
 #. PATH = BWActivatedAbility/AbilityNameReference
@@ -301,8 +301,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Radius: </font><font color=\"#F5ECCE\">{CUSTOM0} "
 "meters</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">범위: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"미터</font>\n"
+"<font color=\"#BAAB7B\">범위: </font><font color=\"#F5ECCE\">{CUSTOM0}미터</font>"
+"\n"
 
 #. FILE = DA3/Party/General/Abilities/ProjectileBubble/party_general_inquisitor_projectilebubble_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -311,8 +311,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Duration: </font><font color=\"#F5ECCE\">{CUSTOM0} "
 "seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">지속시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/General/Abilities/ProjectileBubble/party_general_inquisitor_projectilebubble_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
@@ -321,8 +321,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Cooldown Time: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">재사용 대기시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">재사용 대기시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/General/Abilities/ProjectileBubble/party_general_inquisitor_projectilebubble_upgrade1
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -1299,7 +1299,7 @@ msgstr "전투 중 공격하지 않을 때 은신함"
 #.     0x000441b8(278968) : {string}262097{/string} {string}278921{/string} {string}278155{/string}
 msgctxt "0x00043e8b"
 msgid "+5% extra damage for each enemy within 8 meters"
-msgstr "8 미터 이내의 적 하나당 + 5% 추가 피해"
+msgstr "8미터 이내의 적 하나당 + 5% 추가 피해"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_highdamagecrowd_t2_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -1307,13 +1307,13 @@ msgstr "8 미터 이내의 적 하나당 + 5% 추가 피해"
 #.     0x000441bd(278973) : {string}262093{/string} {string}278921{/string} {string}278156{/string}
 msgctxt "0x00043e8c"
 msgid "+7.5% extra damage for each enemy within 8 meters"
-msgstr "8 미터 이내의 적 하나당 + 7.5% 추가 피해"
+msgstr "8미터 이내의 적 하나당 + 7.5% 추가 피해"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_highdamagecrowd_t3_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
 msgctxt "0x00043e8d"
 msgid "+10% extra damage for each enemy within 8 meters"
-msgstr "8 미터 이내의 적 하나당 + 10% 추가 피해"
+msgstr "8미터 이내의 적 하나당 + 10% 추가 피해"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_highdamagenodamage_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -1346,7 +1346,7 @@ msgstr "5초간 피격되지 않으면 피해 보너스 +30%"
 #.     0x0004418c(278924) : {string}262094{/string} {string}278921{/string} {string}278175{/string}
 msgctxt "0x00043e9f"
 msgid "+5% extra focus for each enemy within 8 meters"
-msgstr "8 미터 이내의 적 한 명당 5% 추가 집중도"
+msgstr "8미터 이내의 적 한 명당 5% 추가 집중도"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_highfocusgencrowd_t2_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -1356,7 +1356,7 @@ msgstr "8 미터 이내의 적 한 명당 5% 추가 집중도"
 #.     0x00044199(278937) : {string}262090{/string} {string}278921{/string} {string}278176{/string}
 msgctxt "0x00043ea0"
 msgid "+7.5% extra focus for each enemy within 8 meters"
-msgstr "8 미터 이내의 적 한 명당 7.5% 추가 집중도"
+msgstr "8미터 이내의 적 한 명당 7.5% 추가 집중도"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_highfocusgencrowd_t3_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -1365,7 +1365,7 @@ msgstr "8 미터 이내의 적 한 명당 7.5% 추가 집중도"
 #.     0x000441c4(278980) : {string}262100{/string} {string}278921{/string} {string}278177{/string}
 msgctxt "0x00043ea1"
 msgid "+10% extra focus for each enemy within 8 meters"
-msgstr "8 미터 이내의 적 한 명당 10% 추가 집중도"
+msgstr "8미터 이내의 적 한 명당 10% 추가 집중도"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_ironconstitution_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -2134,7 +2134,7 @@ msgid ""
 "font> seconds.\n"
 msgstr ""
 "<font color=\"#F5ECCE\">냉기</font> 피해에 대해 <font color=\"#F5ECCE\">{CUSTOM0}%</"
-"font> 의 저항력을 <font color=\"#F5ECCE\">{CUSTOM1}</font> 초간 부여합니다.\n"
+"font> 의 저항력을 <font color=\"#F5ECCE\">{CUSTOM1}</font>초간 부여합니다.\n"
 
 #. FILE = DA3/Party/General/Potions/ColdResistance/party_general_potion_coldresistance_upgrade1a_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -2146,7 +2146,7 @@ msgstr "지속시간 증가 I"
 #. PATH = BWAbilityUpgrade/AdditionalDescriptors/member/FloatProviderTokenizedString/StringReference
 msgctxt "0x000430f2"
 msgid "Increases duration by <font color=\"#F5ECCE\">{CUSTOM0}</font> seconds."
-msgstr "지속시간을 <font color=\"#F5ECCE\">{CUSTOM0}</font> 초만큼 증가시킵니다."
+msgstr "지속시간을 <font color=\"#F5ECCE\">{CUSTOM0}</font>초만큼 증가시킵니다."
 
 #. FILE = DA3/Party/General/Potions/ColdResistance/party_general_potion_coldresistance_upgrade1b_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -2185,7 +2185,7 @@ msgid ""
 "Applies resistance to all party members within <font color=\"#F5ECCE\""
 ">{CUSTOM0}</font> meters when the tonic is consumed."
 msgstr ""
-"강장제를 섭취할 경우 <font color=\"#F5ECCE\">{CUSTOM0}</font> 미터 내의 파티원 전원에게 저항력을 "
+"강장제를 섭취할 경우 <font color=\"#F5ECCE\">{CUSTOM0}</font>미터 내의 파티원 전원에게 저항력을 "
 "부여합니다."
 
 #. FILE = DA3/Party/General/Potions/ConfusionGrenade/party_general_potion_confusiongrenade_abilitydata
@@ -2200,7 +2200,7 @@ msgctxt "0x00043125"
 msgid ""
 "Enemies within the area of effect will attack other enemies for <font color="
 "\"#F5ECCE\">{CUSTOM0}</font> seconds.\n"
-msgstr "효과 범위 내의 적은 <font color=\"#F5ECCE\">{CUSTOM0}</font> 초간 다른 적을 공격합니다.\n"
+msgstr "효과 범위 내의 적은 <font color=\"#F5ECCE\">{CUSTOM0}</font>초간 다른 적을 공격합니다.\n"
 
 #. FILE = DA3/Party/General/Potions/ConfusionGrenade/party_general_potion_confusiongrenade_upgrade1a_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -2272,10 +2272,10 @@ msgid ""
 "The poison remains on the weapon for <font color=\"#F5ECCE\">{CUSTOM3}</"
 "font> seconds before expiring."
 msgstr ""
-"다음 <font color=\"#F5ECCE\">{CUSTOM0}</font> 회의 공격은 대상을 중독시켜, 초당 <font color="
-"\"#F5ECCE\">{CUSTOM1}</font>의 피해를 <font color=\"#F5ECCE\">{CUSTOM2}</font> "
-"초간 입힙니다.\n"
-"독은 무기에 <font color=\"#F5ECCE\">{CUSTOM3}</font> 초간 남아있다 사라집니다."
+"다음 <font color=\"#F5ECCE\">{CUSTOM0}</font>회의 공격은 대상을 중독시켜, 초당 <font color=\""
+"#F5ECCE\">{CUSTOM1}</font>의 피해를 <font color=\"#F5ECCE\">{CUSTOM2}</font>초간 "
+"입힙니다.\n"
+"독은 무기에 <font color=\"#F5ECCE\">{CUSTOM3}</font>초간 남아있다 사라집니다."
 
 #. FILE = DA3/Party/General/Potions/CrowPoison/party_general_potion_crowpoison_upgrade1a_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -2289,7 +2289,7 @@ msgctxt "0x0004312b"
 msgid ""
 "Increases poison duration on the target by <font color=\"#F5ECCE\""
 ">{CUSTOM0}</font> seconds."
-msgstr "대상의 중독 지속시간을 <font color=\"#F5ECCE\">{CUSTOM0}</font> 초만큼 늘립니다."
+msgstr "대상의 중독 지속시간을 <font color=\"#F5ECCE\">{CUSTOM0}</font>초만큼 늘립니다."
 
 #. FILE = DA3/Party/General/Potions/CrowPoison/party_general_potion_crowpoison_upgrade1b_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -2330,7 +2330,7 @@ msgid ""
 "#F5ECCE\">{CUSTOM1}</font> extra seconds before the poison wears off."
 msgstr ""
 "바른 독이 <font color=\"#F5ECCE\">{CUSTOM0}</font> 회의 타격과 <font color=\"#F5ECCE\""
-">{CUSTOM1}</font> 초동안 더 지속된 후 사라집니다."
+">{CUSTOM1}</font>초동안 더 지속된 후 사라집니다."
 
 #. FILE = DA3/Party/General/Potions/ElectricResistance/party_general_potion_electricresistance_abilitydata
 #. PATH = BWActivatedAbility/AbilityNameReference
@@ -2393,8 +2393,8 @@ msgid ""
 "#F5ECCE\">{CUSTOM1}</font> seconds for <font color=\"#F5ECCE\">{CUSTOM2}</"
 "font> seconds.\n"
 msgstr ""
-"<font color=\"#F5ECCE\">{CUSTOM1}</font> 초마다 <font color=\"#F5ECCE\""
-">{CUSTOM0}</font> 의 체력을 <font color=\"#F5ECCE\">{CUSTOM2}</font> 초동안 회복합니다.\n"
+"<font color=\"#F5ECCE\">{CUSTOM1}</font>초마다 <font color=\"#F5ECCE\""
+">{CUSTOM0}</font> 의 체력을 <font color=\"#F5ECCE\">{CUSTOM2}</font>초동안 회복합니다.\n"
 
 #. FILE = DA3/Party/General/Potions/Elfroot/party_general_potion_elfroot_upgrade1a_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -2469,8 +2469,8 @@ msgid ""
 ">{CUSTOM0}</font> burning damage every second to enemies inside the fire. "
 "The fire remains for <font color=\"#F5ECCE\">{CUSTOM1}</font> seconds.\n"
 msgstr ""
-"대상 위치에 끈적한 불꽃을 퍼뜨립니다. 불꽃은 적에게 매 초 <font color=\"#F5ECCE\">{CUSTOM0}</font> 의 "
-"화상 피해를 줍니다. 불꽃은 <font color=\"#F5ECCE\">{CUSTOM1}</font> 초간 지속됩니다.\n"
+"대상 위치에 끈적한 불꽃을 퍼뜨립니다. 불꽃은 적에게 매초 <font color=\"#F5ECCE\">{CUSTOM0}</font> 의 "
+"화상 피해를 줍니다. 불꽃은 <font color=\"#F5ECCE\">{CUSTOM1}</font>초간 지속됩니다.\n"
 
 #. FILE = DA3/Party/General/Potions/FireBomb/party_general_potion_firebomb_upgrade1a_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -2508,7 +2508,7 @@ msgctxt "0x0004313d"
 msgid ""
 "Targets at the initial explosion location are stunned for <font color=\"#"
 "F5ECCE\">{CUSTOM0}</font> seconds."
-msgstr "폭발 시작점의 대상은 <font color=\"#F5ECCE\">{CUSTOM0}</font> 초간 기절합니다."
+msgstr "폭발 시작점의 대상은 <font color=\"#F5ECCE\">{CUSTOM0}</font>초간 기절합니다."
 
 #. FILE = DA3/Party/General/Potions/FireResistance/party_general_potion_fireresistance_abilitydata
 #. PATH = BWActivatedAbility/AbilityNameReference
@@ -2647,8 +2647,8 @@ msgid ""
 msgstr ""
 "대상 지점에 벌떼를 <font color=\"#F5ECCE\">{CUSTOM0}</font>초 동안 소환합니다. 벌떼는 처음 접촉한 적을 "
 "공격하여 초당 <font color=\"#F5ECCE\">{CUSTOM1}</font> 만큼의 피해를 <font color=\"#"
-"F5ECCE\">{CUSTOM2}</font> 초 동안 줍니다. \n"
-"벌떼에게 공격 받은 대상은 매 초 <font color=\"#F5ECCE\">{CUSTOM3}%</font> 확률로 공포에 질립니다.\n"
+"F5ECCE\">{CUSTOM2}</font>초 동안 줍니다. \n"
+"벌떼에게 공격 받은 대상은 매초 <font color=\"#F5ECCE\">{CUSTOM3}%</font> 확률로 공포에 질립니다.\n"
 
 #. FILE = DA3/Party/General/Potions/InsectSwarm/party_general_potion_insectswarm_upgrade1a_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -2680,7 +2680,7 @@ msgctxt "0x00043143"
 msgid ""
 "Increase the swarm's attack duration by <font color=\"#F5ECCE\">{CUSTOM0}</"
 "font> seconds"
-msgstr "휩싸임 지속 시간을 <font color=\"#F5ECCE\">{CUSTOM0}</font> 초만큼 증가시킵니다"
+msgstr "휩싸임 지속 시간을 <font color=\"#F5ECCE\">{CUSTOM0}</font>초만큼 증가시킵니다"
 
 #. FILE = DA3/Party/General/Potions/InsectSwarm/party_general_potion_insectswarm_upgrade2b_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -2715,7 +2715,7 @@ msgid ""
 "Increases Magic by <font color=\"#F5ECCE\">{CUSTOM0}</font> for <font color="
 "\"#F5ECCE\">{CUSTOM1}</font> seconds."
 msgstr ""
-"<font color=\"#F5ECCE\">{CUSTOM1}</font> 초동안 마력을 <font color=\"#F5ECCE\""
+"<font color=\"#F5ECCE\">{CUSTOM1}</font>초동안 마력을 <font color=\"#F5ECCE\""
 ">{CUSTOM0}</font> 만큼 증가시킵니다."
 
 #. FILE = DA3/Party/General/Potions/Lyrium/party_general_potion_lyrium_upgrade1_abilitydata
@@ -2773,7 +2773,7 @@ msgid ""
 "Applies a <font color=\"#F5ECCE\">+{CUSTOM0}</font> damage bonus for <font "
 "color=\"#F5ECCE\">{CUSTOM1}</font> seconds.\n"
 msgstr ""
-"<font color=\"#F5ECCE\">{CUSTOM1}</font> 초간 <font color=\"#F5ECCE\""
+"<font color=\"#F5ECCE\">{CUSTOM1}</font>초간 <font color=\"#F5ECCE\""
 ">+{CUSTOM0}</font> 의 추가 피해를 줍니다.\n"
 
 #. FILE = DA3/Party/General/Potions/MightyOffense/party_general_potion_mightyoffense_upgrade1_abilitydata
@@ -2851,7 +2851,7 @@ msgid ""
 "Coats the target location with pitch, which remains for <font color=\"#"
 "F5ECCE\">{CUSTOM0}</font> seconds, slowing any enemies that enter it.\n"
 msgstr ""
-"대상 지점을 <font color=\"#F5ECCE\">{CUSTOM0}</font> 초 동안 역청으로 뒤덮어 해당 지점에 진입하는 모든 "
+"대상 지점을 <font color=\"#F5ECCE\">{CUSTOM0}</font>초 동안 역청으로 뒤덮어 해당 지점에 진입하는 모든 "
 "적을 둔화시킵니다.\n"
 
 #. FILE = DA3/Party/General/Potions/OozeGrenade/party_general_potion_oozegrenade_upgrade1a_abilitydata
@@ -2912,7 +2912,7 @@ msgctxt "0x0004314e"
 msgid ""
 "Targets at the initial explosion location are stunned for <font color=\"#"
 "F5ECCE\">{CUSTOM0}</font> seconds."
-msgstr "폭발 시작점의 대상은 <font color=\"#F5ECCE\">{CUSTOM0}</font> 초간 기절합니다."
+msgstr "폭발 시작점의 대상은 <font color=\"#F5ECCE\">{CUSTOM0}</font>초간 기절합니다."
 
 #. FILE = DA3/Party/General/Potions/RockSkin/party_general_potion_rockskin_abilitydata
 #. PATH = BWActivatedAbility/AbilityNameReference
@@ -2927,7 +2927,7 @@ msgid ""
 "Grants a <font color=\"#F5ECCE\">+{CUSTOM0}</font> bonus to armor rating for "
 "<font color=\"#F5ECCE\">{CUSTOM1}</font> seconds.\n"
 msgstr ""
-"<font color=\"#F5ECCE\">{CUSTOM1}</font> 초간 <font color=\"#F5ECCE\""
+"<font color=\"#F5ECCE\">{CUSTOM1}</font>초간 <font color=\"#F5ECCE\""
 ">+{CUSTOM0}</font> 의 추가 방어 수치를 얻습니다.\n"
 
 #. FILE = DA3/Party/General/Potions/RockSkin/party_general_potion_rockskin_upgrade1a_abilitydata
@@ -3065,8 +3065,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Size: </font><font color=\"#F5ECCE\">{CUSTOM0} "
 "meters</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">크기: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"미터</font>\n"
+"<font color=\"#BAAB7B\">크기: </font><font color=\"#F5ECCE\">{CUSTOM0}미터</font>"
+"\n"
 
 #. FILE = DA3/Party/Mage/FireIce/WallOfFire/party_mage_fireice_walloffire_aoeabilitydata
 #. PATH = BWAoEAbility/AdditionalDescriptors/member[5]/FloatProviderTokenizedString/StringReference
@@ -3075,8 +3075,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Fear Duration: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">공포 지속 시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">공포 지속 시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/Mage/FireIce/WallOfFire/party_mage_fireice_walloffire_upgrade_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -3102,8 +3102,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Size Bonus: </font><font color=\"#F5ECCE\">{CUSTOM0} "
 "meters</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">범위 증가: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"미터</font>\n"
+"<font color=\"#BAAB7B\">범위 증가: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}미터</font>\n"
 
 #. FILE = DA3/Party/Mage/FireIce/WallOfFire/party_mage_fireice_walloffire_upgrade_abilitydata
 #. PATH = BWAbilityUpgrade/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -3112,8 +3112,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Damage Duration Bonus: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">추가 피해 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">추가 피해 지속시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/Mage/General/ClassBonus/party_mage_general_classbonus_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -3218,12 +3218,12 @@ msgid ""
 "<font color=\"#BAAB7B\">Tier 3: </font><font color=\"#F5ECCE\">Duration: "
 "{CUSTOM2} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">1단계: </font><font color=\"#F5ECCE\">지속시간: {CUSTOM0} "
-"초</font>\n"
-"<font color=\"#BAAB7B\">2단계: </font><font color=\"#F5ECCE\">지속시간: {CUSTOM1} "
-"초</font>\n"
-"<font color=\"#BAAB7B\">3단계: </font><font color=\"#F5ECCE\">지속시간: {CUSTOM2} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">1단계: </font><font color=\"#F5ECCE\">지속시간: "
+"{CUSTOM0}초</font>\n"
+"<font color=\"#BAAB7B\">2단계: </font><font color=\"#F5ECCE\">지속시간: "
+"{CUSTOM1}초</font>\n"
+"<font color=\"#BAAB7B\">3단계: </font><font color=\"#F5ECCE\">지속시간: "
+"{CUSTOM2}초</font>\n"
 
 #. FILE = DA3/Party/Rogue/Archery/ArrowOfSlaying/party_rogue_archery_arrowofslaying_abilitydata
 #. PATH = BWActivatedAbility/AbilityNameReference
@@ -3255,8 +3255,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Damage Bonus: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0}% at {CUSTOM1} meters</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">추가 피해량: </font><font color=\"#F5ECCE\">{CUSTOM1} "
-"미터에서 {CUSTOM0}%</font>\n"
+"<font color=\"#BAAB7B\">추가 피해량: </font><font color=\"#F5ECCE\">{CUSTOM1}미터에서 "
+"{CUSTOM0}%</font>\n"
 
 #. FILE = DA3/Party/Rogue/Archery/ArrowOfSlaying/party_rogue_archery_arrowofslaying_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
@@ -3769,8 +3769,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Bleed Duration: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">출혈 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">출혈 지속시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/Rogue/Assassin/SleepBomb/party_rogue_assassin_sleepbomb_upgrade_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -4809,7 +4809,7 @@ msgid ""
 "#F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 "<font color=\"#BAAB7B\">피해받지 않은 상태 기준 시간: </font><font color=\"#F5ECCE\""
-">{CUSTOM0} 초</font>\n"
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/Rogue/Passives/Alchemist/party_rogue_passive_alchemist_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -5043,8 +5043,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Bonus Duration: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">추가 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">추가 지속시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/Rogue/Passives/Forsaken/party_rogue_passive_forsaken_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -5083,8 +5083,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Maximum Height: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} meters</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">최대 고저차: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"미터</font>\n"
+"<font color=\"#BAAB7B\">최대 고저차: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}미터</font>\n"
 
 #. FILE = DA3/Party/Rogue/Passives/Mobility/party_rogue_passive_mobility_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -5678,12 +5678,12 @@ msgid ""
 "guard generation and stamina/mana regeneration per second, {CUSTOM2}% damage "
 "Resistance</font>"
 msgstr ""
-"<font color=\"#BAAB7B\">1단계: </font><font color=\"#F5ECCE\">{CUSTOM0}%의 초당 "
-"방어도 생성 및 기력/마나 재생, {CUSTOM0}%의 피해 저항력</font>\n"
-"<font color=\"#BAAB7B\">2단계: </font><font color=\"#F5ECCE\">{CUSTOM1}%의 초당 "
-"방어도 생성 및 기력/마나 재생, {CUSTOM1}%의 피해 저항력</font>\n"
-"<font color=\"#BAAB7B\">3단계: </font><font color=\"#F5ECCE\">{CUSTOM2}%의 초당 "
-"방어도 생성 및 기력/마나 재생, {CUSTOM2}%의 피해 저항력</font>"
+"<font color=\"#BAAB7B\">1단계: </font><font color=\"#F5ECCE\">초당 {CUSTOM0}%의 "
+"방어도 생성 및 기력/마나 재생 속도 증가, 피해 저항력 {CUSTOM0}% 부여</font>\n"
+"<font color=\"#BAAB7B\">2단계: </font><font color=\"#F5ECCE\">초당 {CUSTOM1}%의 "
+"방어도 생성 및 기력/마나 재생 속도 증가, 피해 저항력 {CUSTOM1}% 부여</font>\n"
+"<font color=\"#BAAB7B\">3단계: </font><font color=\"#F5ECCE\">초당 {CUSTOM2}%의 "
+"방어도 생성 및 기력/마나 재생 속도 증가, 피해 저항력 {CUSTOM2}% 부여</font>"
 
 #. FILE = DA3/Party/Warrior/Battlemaster/CallOfTheAncients/party_warrior_battlemaster_calloftheancients_ability
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
@@ -6036,8 +6036,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Range: </font><font color=\"#F5ECCE\">{CUSTOM0} "
 "meters</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">범위: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"미터</font>\n"
+"<font color=\"#BAAB7B\">범위: </font><font color=\"#F5ECCE\">{CUSTOM0}미터</font>"
+"\n"
 
 #. FILE = DA3/Party/Warrior/Chevalier/Duel/party_warrior_chevalier_duel_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -6519,8 +6519,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Invulnerability Duration: </font><font color=\"#"
 "F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">무적 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">무적 지속시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/Warrior/Passives/Guts/unique_item_guts_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -6776,7 +6776,7 @@ msgid ""
 "cause Wound for {CUSTOM0} seconds</font>\n"
 msgstr ""
 "<font color=\"#BAAB7B\">검류: </font><font color=\"#F5ECCE\">치명타가 적에게 {CUSTOM0}"
-" 초간 부상 효과를 부여</font>\n"
+"초간 부상 효과를 부여</font>\n"
 
 #. FILE = DA3/Party/Warrior/Passives/WeaponMastery/party_warrior_passive_weaponmastery_abilitydata
 #. PATH = BWPassiveAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
@@ -6796,7 +6796,7 @@ msgid ""
 "hits cause {CUSTOM0} second(s) of Stun</font>\n"
 msgstr ""
 "<font color=\"#BAAB7B\">망치류: </font><font color=\"#F5ECCE\">치명타가 대상을 "
-"{CUSTOM0} 초간 기절시킴</font>\n"
+"{CUSTOM0}초간 기절시킴</font>\n"
 
 #. FILE = DA3/Party/Warrior/Passives/barbedarmor/party_warrior_passive_barbedarmor_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -6859,8 +6859,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Stun Duration: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">기절 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">기절 지속시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/Warrior/Reaver/Devour/party_warrior_reaver_devour_abilitydata
 #. PATH = BWActivatedAbility/AbilityNameReference
@@ -7128,8 +7128,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Stun Duration Bonus: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">추가 기절 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">추가 기절 지속시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/Warrior/Templar/MakersWrath/party_warrior_templar_makerswrath_upgrade2_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -7954,12 +7954,12 @@ msgid ""
 "<font color=\"#BAAB7B\">Tier 3: </font><font color=\"#F5ECCE\">Duration: "
 "{CUSTOM2} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">1단계: </font><font color=\"#F5ECCE\">지속시간: {CUSTOM0} "
-"초</font>\n"
-"<font color=\"#BAAB7B\">2단계: </font><font color=\"#F5ECCE\">지속시간: {CUSTOM1} "
-"초</font>\n"
-"<font color=\"#BAAB7B\">3단계: </font><font color=\"#F5ECCE\">지속시간: {CUSTOM2} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">1단계: </font><font color=\"#F5ECCE\">지속시간: "
+"{CUSTOM0}초</font>\n"
+"<font color=\"#BAAB7B\">2단계: </font><font color=\"#F5ECCE\">지속시간: "
+"{CUSTOM1}초</font>\n"
+"<font color=\"#BAAB7B\">3단계: </font><font color=\"#F5ECCE\">지속시간: "
+"{CUSTOM2}초</font>\n"
 
 #. FILE = DA3/Party/Warrior/WeaponShield/Revenge/party_warrior_weaponshield_revenge_abilitydata
 #. PATH = BWActivatedAbility/AbilityNameReference
@@ -7987,7 +7987,7 @@ msgid ""
 "F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 "<font color=\"#BAAB7B\">최근 피해받지 않음 기준: </font><font color=\"#F5ECCE\""
-">{CUSTOM0} 초</font>\n"
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/Warrior/WeaponShield/Revenge/party_warrior_weaponshield_revenge_upgrade1_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -8117,8 +8117,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Charm Duration: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">매혹 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">매혹 지속시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/mage/BloodMage/GraveMarker/party_mage_bloodmage_gravemarker_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
@@ -8185,11 +8185,11 @@ msgid ""
 "{CUSTOM4}% for {CUSTOM5} seconds</font>\n"
 msgstr ""
 "<font color=\"#BAAB7B\">1단계: </font><font color=\"#F5ECCE\">{CUSTOM0}% 둔화, "
-"{CUSTOM1} 초간 지속</font>\n"
+"{CUSTOM1}초간 지속</font>\n"
 "<font color=\"#BAAB7B\">2단계: </font><font color=\"#F5ECCE\">{CUSTOM2}% 둔화, "
-"{CUSTOM3} 초간 지속</font>\n"
+"{CUSTOM3}초간 지속</font>\n"
 "<font color=\"#BAAB7B\">3단계: </font><font color=\"#F5ECCE\">{CUSTOM4}% 둔화, "
-"{CUSTOM5} 초간 지속</font>\n"
+"{CUSTOM5}초간 지속</font>\n"
 
 #. FILE = DA3/Party/mage/Controller/WalkingBomb/party_mage_controller_walkingbomb_abilitydata
 #. PATH = BWActivatedAbility/AbilityNameReference
@@ -8225,8 +8225,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Area of Effect: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} meters</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">효과 범위: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"미터</font>\n"
+"<font color=\"#BAAB7B\">효과 범위: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}미터</font>\n"
 
 #. FILE = DA3/Party/mage/Controller/WalkingBomb/party_mage_controller_walkingbomb_ring_upgrade_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -8303,8 +8303,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Activation Delay: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">활성화 대기시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">활성화 대기시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/mage/FireIce/FireMine/party_mage_fireice_firemine_melee_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[1]/FloatProviderTokenizedString/StringReference
@@ -8323,8 +8323,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Freeze Duration: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">빙결 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">빙결 지속시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/mage/FireIce/FireMine/party_mage_fireice_firemine_melee_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
@@ -8333,8 +8333,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Chill Duration: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">오한 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">오한 지속시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/mage/FireIce/FireMine/party_mage_fireice_firemine_upgrade1_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -8370,8 +8370,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Burning Duration: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">화상 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">화상 지속시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/mage/FireIce/FireMine/party_mage_fireice_firemine_upgrade2_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -8510,8 +8510,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Distance: </font><font color=\"#F5ECCE\">{CUSTOM0} "
 "meters</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">전진 거리: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"미터</font>\n"
+"<font color=\"#BAAB7B\">효과 범위: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}미터</font>\n"
 
 #. FILE = DA3/Party/mage/Passives/Cadence/party_mage_passive_cadence_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -8630,7 +8630,7 @@ msgid ""
 "F5ECCE\">{CUSTOM0} seconds</font>\n"
 msgstr ""
 "<font color=\"#BAAB7B\">명상에 필요한 대기시간: </font><font color=\"#F5ECCE\""
-">{CUSTOM0} 초</font>\n"
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/mage/Passives/Clairvoyance/party_mage_passive_clairvoyance_abilitydata
 #. PATH = BWPassiveAbility/AdditionalDescriptors/member[2]/FloatProviderTokenizedString/StringReference
@@ -9261,8 +9261,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Shocked Duration: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">감전 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">감전 지속시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/mage/Staff/AblativeArmor/party_mage_staff_ablativearmor_aoe_abilitydata
 #. PATH = BWAoEAbility/AbilityNameReference
@@ -9397,8 +9397,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Weakened Duration: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">약화 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">약화 지속시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/mage/Staff/Attraction/party_mage_staff_fistofthemaker_abilitydata
 #. PATH = BWAoEAbility/AbilityNameReference
@@ -9618,8 +9618,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Paralyzed Duration: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">마비 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">마비 지속시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/mage/Staff/BurstLightning/party_mage_staff_burst_lightning_abilitydata
 #. PATH = BWAoEAbility/AdditionalDescriptors/member[5]/FloatProviderTokenizedString/StringReference
@@ -9639,7 +9639,7 @@ msgid ""
 ">{CUSTOM0} seconds per nearby enemy</font>\n"
 msgstr ""
 "<font color=\"#BAAB7B\">마비 지속시간: </font><font color=\"#F5ECCE\">근방의 적 하나당 "
-"{CUSTOM0} 초</font>\n"
+"{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/mage/Staff/BurstLightning/party_mage_staff_lightningrod_upgrade2_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -10141,8 +10141,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Fear Duration Bonus: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">추가 공포 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">추가 공포 지속시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/mage/Staff/Heal/party_mage_staff_heal_abilitydata
 #. PATH = BWActivatedAbility/AbilityNameReference
@@ -10174,11 +10174,11 @@ msgid ""
 "{CUSTOM2}% per second.</font>\n"
 msgstr ""
 "<font color=\"#BAAB7B\">1단계: </font><font color=\"#F5ECCE\">문양이 초당 {CUSTOM0}"
-"% 를 회복시킵니다.</font>\n"
+"%의 체력을 회복시킵니다.</font>\n"
 "<font color=\"#BAAB7B\">2단계: </font><font color=\"#F5ECCE\">문양이 초당 {CUSTOM1}"
-"% 를 회복시킵니다.</font>\n"
+"%의 체력을 회복시킵니다.</font>\n"
 "<font color=\"#BAAB7B\">3단계: </font><font color=\"#F5ECCE\">문양이 초당 {CUSTOM2}"
-"% 를 회복시킵니다.</font>\n"
+"%의 체력을 회복시킵니다.</font>\n"
 
 #. FILE = DA3/Party/mage/Staff/MindBlast/party_mage_staff_mindblast_abilitydata
 #. PATH = BWActivatedAbility/AbilityNameReference
@@ -10254,8 +10254,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Panic Duration: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">공황 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>\n"
+"<font color=\"#BAAB7B\">공황 지속시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/mage/Staff/Phantasm/party_mage_staff_phantasm_upgrade2_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -10408,7 +10408,7 @@ msgid ""
 "<font color=\"#BAAB7B\">Damage per Hit: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0}% weapon damage</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">타격 당 피해량: </font><font color=\"#F5ECCE\">무기 공격력의 "
+"<font color=\"#BAAB7B\">타격 당 피해량: </font><font color=\"#F5ECCE\">무기 피해량의 "
 "{CUSTOM0}%</font>\n"
 
 #. FILE = DA3/Party/mage/Staff/SeekerSwarm/party_mage_staff_seekerswarm_upgrade2_abilitydata
@@ -10768,8 +10768,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Immunity Duration: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>"
 msgstr ""
-"<font color=\"#BAAB7B\">면역 지속시간: </font><font color=\"#F5ECCE\">{CUSTOM0} "
-"초</font>"
+"<font color=\"#BAAB7B\">면역 지속시간: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}초</font>"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Barrage/saarebas_abilities_barrage_abilitydata
 #. PATH = BWActivatedAbility/AbilityNameReference
@@ -10873,7 +10873,7 @@ msgctxt "0x0004b3b4"
 msgid ""
 "<font color=\"#F5ECCE\">You generate {CUSTOM0}% barrier for yourself.</font>"
 "\n"
-msgstr "<font color=\"#F5ECCE\">자신에게 {CUSTOM0}% 를 생성합니다.</font>\n"
+msgstr "<font color=\"#F5ECCE\">자신에게 {CUSTOM0}%를 생성합니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Barrier/saarebas_abilities_barrier_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
@@ -10882,8 +10882,8 @@ msgid ""
 "<font color=\"#F5ECCE\">You knock back enemies within {CUSTOM0} meters, "
 "gaining {CUSTOM1}% barrier for each enemy hit.</font>\n"
 msgstr ""
-"<font color=\"#F5ECCE\">{CUSTOM0} 미터 내의 적을 밀쳐내고, 적중한 적 하나 당 {CUSTOM1}% 의 "
-"방어막을 얻습니다.</font>\n"
+"<font color=\"#F5ECCE\">{CUSTOM0}미터 내의 적을 밀쳐내고, 적중한 적 하나 당 {CUSTOM1}%의 방어막을 "
+"얻습니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Barrier/saarebas_abilities_barrier_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
@@ -10891,7 +10891,7 @@ msgctxt "0x0004b3b6"
 msgid ""
 "<font color=\"#F5ECCE\">You generate {CUSTOM0}% barrier for yourself and all "
 "allies.</font>\n"
-msgstr "<font color=\"#F5ECCE\">자신과 모든 아군에게 {CUSTOM0}% 의 방어막을 생성합니다.</font>\n"
+msgstr "<font color=\"#F5ECCE\">자신과 모든 아군에게 {CUSTOM0}%의 방어막을 생성합니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Barrier/saarebas_abilities_barrier_upgrade_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -10990,7 +10990,7 @@ msgid ""
 "<font color=\"#F5ECCE\">Chilling ice deals {CUSTOM0}% cold damage and "
 "briefly freezes targets.</font>\n"
 msgstr ""
-"<font color=\"#F5ECCE\">차디찬 한기가 {CUSTOM0}% 의 냉기 피해를 입히고 대상을 잠시 빙결시킵니다.</font>"
+"<font color=\"#F5ECCE\">차디찬 한기가 {CUSTOM0}%의 냉기 피해를 입히고 대상을 잠시 빙결시킵니다.</font>"
 "\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Breath/saarebas_abilities_breath_abilitydata
@@ -10999,14 +10999,14 @@ msgctxt "0x0004b3c3"
 msgid ""
 "<font color=\"#F5ECCE\">Shocking electricity paralyzes enemies for {CUSTOM0} "
 "seconds.</font>\n"
-msgstr "<font color=\"#F5ECCE\">짜릿한 전기가 적을 {CUSTOM0} 초간 마비시킵니다.</font>\n"
+msgstr "<font color=\"#F5ECCE\">짜릿한 전기가 적을 {CUSTOM0}초간 마비시킵니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Breath/saarebas_abilities_breath_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[8]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b3c4"
 msgid ""
 "<font color=\"#F5ECCE\">Burning fire deals {CUSTOM0}% fire damage.</font>\n"
-msgstr "<font color=\"#F5ECCE\">불타는 화염이 {CUSTOM0}% 의 화염 피해를 입힙니다.</font>\n"
+msgstr "<font color=\"#F5ECCE\">불타는 화염이 {CUSTOM0}%의 화염 피해를 입힙니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Breath/saarebas_abilities_breath_upgrade_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -11047,7 +11047,7 @@ msgid ""
 "<font color=\"#F5ECCE\">You deal  {CUSTOM0}% electricity damage to your "
 "target, as well as enemies near your target.</font>\n"
 msgstr ""
-"<font color=\"#F5ECCE\">대상과 그 주위의 적에게  {CUSTOM0}% 의 전격 피해를 가합니다.</font>\n"
+"<font color=\"#F5ECCE\">대상과 그 주위의 적에게  {CUSTOM0}%의 전격 피해를 가합니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Burst/saarebas_abilities_burst_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
@@ -11056,7 +11056,7 @@ msgid ""
 "<font color=\"#F5ECCE\">You deal {CUSTOM0}% fire damage to your target, and "
 "enemies near the target are panicked.</font>\n"
 msgstr ""
-"<font color=\"#F5ECCE\">대상에게 {CUSTOM0}% 의 화염 피해를 가하고, 대상 근처의 적을 공황에 "
+"<font color=\"#F5ECCE\">대상에게 {CUSTOM0}%의 화염 피해를 가하고, 대상 근처의 적을 공황에 "
 "빠트립니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Burst/saarebas_abilities_burst_abilitydata
@@ -11066,8 +11066,8 @@ msgid ""
 "<font color=\"#F5ECCE\">A blizzard swirls around your target, dealing "
 "{CUSTOM0}% cold damage per second for {CUSTOM1} seconds.</font>\n"
 msgstr ""
-"<font color=\"#F5ECCE\">대상 주위로 눈보라가 몰아쳐 {CUSTOM1} 초 동안 초당 {CUSTOM0}% 의 냉기 "
-"피해를 가합니다.</font>\n"
+"<font color=\"#F5ECCE\">대상 주위로 눈보라가 몰아쳐 {CUSTOM1}초 동안 초당 {CUSTOM0}%의 냉기 피해를 "
+"가합니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Burst/saarebas_abilities_burst_upgrade_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -11108,7 +11108,7 @@ msgctxt "0x0004b39f"
 msgid ""
 "<font color=\"#F5ECCE\">The target takes {CUSTOM0}% fire damage per "
 "second.</font>\n"
-msgstr "<font color=\"#F5ECCE\">대상은 매 초 {CUSTOM0}% 의 화염 피해를 입습니다.</font>\n"
+msgstr "<font color=\"#F5ECCE\">대상은 매초 {CUSTOM0}%의 화염 피해를 입습니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/DoT/saarebas_abilities_dot_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
@@ -11124,8 +11124,7 @@ msgid ""
 "<font color=\"#F5ECCE\">The target takes {CUSTOM0}% of its current health as "
 "electricity damage every second.</font>\n"
 msgstr ""
-"<font color=\"#F5ECCE\">대상은 매 초 현재 체력의 {CUSTOM0}% 에 해당하는 전격 피해를 입습니다.</font>"
-"\n"
+"<font color=\"#F5ECCE\">대상은 매초 현재 체력의 {CUSTOM0}% 에 해당하는 전격 피해를 입습니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/DoT/saarebas_abilities_dot_upgrade_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -11185,7 +11184,7 @@ msgid ""
 "<font color=\"#F5ECCE\">A lightning glyph increases your movement speed and "
 "lets you dodge one hit every {CUSTOM0} seconds.</font>\n"
 msgstr ""
-"<font color=\"#F5ECCE\">번개 문양은 당신의 이동 속도를 증가시키고 매 {CUSTOM0} 초마다 공격을 1회 피할 수 "
+"<font color=\"#F5ECCE\">번개 문양은 당신의 이동 속도를 증가시키고 매 {CUSTOM0}초마다 공격을 1회 피할 수 "
 "있게 합니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Glyph/saarebas_abilities_glyph_abilitydata
@@ -11195,7 +11194,7 @@ msgid ""
 "<font color=\"#F5ECCE\">A fire glyph increases your damage and burns enemies "
 "that strike you for {CUSTOM0}% damage per second.</font>\n"
 msgstr ""
-"<font color=\"#F5ECCE\">화염 문양은 당신이 가하는 피해량을 증가시키고, 공격하는 적에게 화상을 입혀 매 초마다 "
+"<font color=\"#F5ECCE\">화염 문양은 당신이 가하는 피해량을 증가시키고, 공격하는 적에게 화상을 입혀 매초마다 "
 "{CUSTOM0}%의 피해를 가합니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Glyph/saarebas_abilities_glyph_upgrade_abilitydata
@@ -11250,7 +11249,7 @@ msgctxt "0x0004b3ac"
 msgid ""
 "<font color=\"#F5ECCE\">You seize an enemy and hold them immobile for "
 "{CUSTOM0} seconds.</font>\n"
-msgstr "<font color=\"#F5ECCE\">적을 꽉 붙들어매 {CUSTOM0} 초간 움직일 수 없게 합니다.</font>\n"
+msgstr "<font color=\"#F5ECCE\">적을 꽉 붙들어매 {CUSTOM0}초간 움직일 수 없게 합니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Grip/saarebas_abilities_grip_upgrade_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -11310,7 +11309,7 @@ msgid ""
 "<font color=\"#F5ECCE\">You deal {CUSTOM0}% cold damage to all enemies "
 "within {CUSTOM1} meters and then freeze them.</font>\n"
 msgstr ""
-"<font color=\"#F5ECCE\">{CUSTOM1} 미터 이내의 모든 적에게 {CUSTOM0}% 의 냉기 피해를 가하고 "
+"<font color=\"#F5ECCE\">{CUSTOM1}미터 이내의 모든 적에게 {CUSTOM0}%의 냉기 피해를 가하고 "
 "빙결시킵니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/PointBlank/saarebas_abilities_pointblank_upgrade_abilitydata
@@ -11470,7 +11469,7 @@ msgctxt "0x0004b3af"
 msgid ""
 "<font color=\"#F5ECCE\">A wall of ice severely slows enemies for {CUSTOM0} "
 "seconds.</font>\n"
-msgstr "<font color=\"#F5ECCE\">얼음 장벽이 적을 {CUSTOM0} 초 동안 상당히 둔화시킵니다.</font>\n"
+msgstr "<font color=\"#F5ECCE\">얼음 장벽이 적을 {CUSTOM0}초 동안 상당히 둔화시킵니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Wall/saarebas_abilities_wall_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
@@ -11478,7 +11477,7 @@ msgctxt "0x0004b3b0"
 msgid ""
 "<font color=\"#F5ECCE\">A wall of lightning paralyzes enemies for {CUSTOM0} "
 "seconds.</font>\n"
-msgstr "<font color=\"#F5ECCE\">번개 장벽이 적을 {CUSTOM0} 초 동안 마비시킵니다.</font>\n"
+msgstr "<font color=\"#F5ECCE\">번개 장벽이 적을 {CUSTOM0}초 동안 마비시킵니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Wall/saarebas_abilities_wall_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[8]/FloatProviderTokenizedString/StringReference
@@ -11487,7 +11486,7 @@ msgid ""
 "<font color=\"#F5ECCE\">A wall of fire sweeps toward your target, dealing "
 "{CUSTOM0}% weapon damage.</font>\n"
 msgstr ""
-"<font color=\"#F5ECCE\">화염 장벽이 대상을 쓸어버리며 무기 공격력의 {CUSTOM0}% 만큼 피해를 "
+"<font color=\"#F5ECCE\">화염 장벽이 대상을 쓸어버리며 무기 피해량의 {CUSTOM0}% 만큼 피해를 "
 "입힙니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Wall/saarebas_abilities_wall_upgrade_abilitydata
