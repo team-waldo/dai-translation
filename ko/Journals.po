@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-01 01:55+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2021-05-03 04:55+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1148,7 +1148,7 @@ msgstr "숨겨진 방을 열자."
 #. PATH = JournalEntry/TaskEntry[5]
 msgctxt "0x000421db"
 msgid "Check on Leliana at Skyhold."
-msgstr "스카이홀드에 있는 렐리아나를 찾아가자."
+msgstr "하늘보루에 있는 렐리아나를 찾아가자."
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/Cullen/cullen_personalplot_journal
 #. PATH = JournalEntry/TitleReference
@@ -1462,13 +1462,13 @@ msgstr "정원 개선"
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x00043795"
 msgid "With the right materials, improvements can be made to Skyhold's garden."
-msgstr "적당한 재료가 있으면, 스카이홀드 정원을 개선할 수 있다."
+msgstr "적당한 재료가 있으면, 하늘보루 정원을 개선할 수 있다."
 
 #. EBX = DA3/DesignContent/Journals/Global/Inquisition/upgrade_keep_quests
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x00043790"
 msgid "Upgrade Skyhold's garden."
-msgstr "스카이홀드의 정원을 개선시키자."
+msgstr "하늘보루의 정원을 개선시키자."
 
 #. EBX = DA3/DesignContent/Journals/Global/Inquisition/upgrade_keep_quests
 #. PATH = JournalEntry/TaskEntry[1]
@@ -1615,7 +1615,7 @@ msgstr "봉인한 영계 균열"
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0004227d"
 msgid "Scattered in Skyhold"
-msgstr "스카이홀드에 흩어진"
+msgstr "하늘보루에 흩어진"
 
 #. EBX = DA3/designcontent/Journals/Skyhold/sky_varrics_books
 #. PATH = JournalEntry/TextEntry[0]
@@ -1623,7 +1623,7 @@ msgctxt "0x0004227e"
 msgid ""
 "Varric's writing is more popular than he lets on. Find all 48 copies of "
 "<i>Hard in Hightown</i> in Skyhold."
-msgstr "배릭의 작품은 그가 말한 것보다 훨씬 더 인기가 많다. 스카이홀드에서 <i>하드 인 하이타운</i> 48부를 전부 찾아보자."
+msgstr "배릭의 작품은 그가 말한 것보다 훨씬 더 인기가 많다. 하늘보루에서 <i>하드 인 하이타운</i> 48부를 전부 찾아보자."
 
 #. EBX = DA3/designcontent/Journals/Skyhold/sky_varrics_books
 #. PATH = JournalEntry/TaskEntry[0]
@@ -1724,7 +1724,7 @@ msgstr "재판하기"
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x00041acf"
 msgid "Someone being held in Skyhold awaits judgment."
-msgstr "스카이홀드에 붙잡힌 죄수가 재판을 기다리고 있다."
+msgstr "하늘보루에 붙잡힌 죄수가 재판을 기다리고 있다."
 
 #. EBX = DA3/designcontent/Journals/Skyhold/sky_judgement
 #. PATH = JournalEntry/TaskEntry[0]
@@ -2640,7 +2640,7 @@ msgstr "서부 접근지역에서 호크와 스트라우드를 만나자."
 #. PATH = JournalEntry/TaskEntry[11]
 msgctxt "0x000408af"
 msgid "Return to Skyhold and scout the Western Approach"
-msgstr "스카이홀드로 돌아가 서부 접근지역 정찰하기"
+msgstr "하늘보루로 돌아가 서부 접근지역 정찰하기"
 
 #. EBX = DA3/designcontent/Journals/Adamant/ada_adamant_main_journal
 #. PATH = JournalEntry/TaskEntry[12]
@@ -2654,7 +2654,7 @@ msgstr "{string}205752{/string}"
 #. PATH = JournalEntry/TaskEntry[13]
 msgctxt "0x0001d028"
 msgid "Speak with the advisors at the war table in Skyhold."
-msgstr "스카이홀드의 작전실에서 고문들과 이야기하자."
+msgstr "하늘보루의 작전실에서 고문들과 이야기하자."
 
 #. EBX = DA3/designcontent/Journals/Adamant/ada_adamant_main_journal
 #. PATH = JournalEntry/TaskEntry[14]
@@ -3949,7 +3949,7 @@ msgstr "슬픔의 샘이 모리건을 수목 야생지로 이끈다. 모리건�
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x000315ef"
 msgid "Speak with Morrigan in Skyhold's garden."
-msgstr "스카이홀드 정원에 있는 모리건과 대화하자."
+msgstr "하늘보루 정원에 있는 모리건과 대화하자."
 
 #. EBX = DA3/DesignContent/Journals/Finale/fin_the_final_piece_journal
 #. PATH = JournalEntry/TaskEntry[1]
@@ -4699,7 +4699,7 @@ msgstr "발 르와이요의 상점에서 몽틸리예 가문 문장을 찾아보
 #. PATH = JournalEntry/TaskEntry[3]
 msgctxt "0x0004207f"
 msgid "Present the crest to Josephine in Skyhold."
-msgstr "스카이홀드에서 조세핀에게 문장을 선물하자."
+msgstr "하늘보루에서 조세핀에게 문장을 선물하자."
 
 #. EBX = DA3/DesignContent/Journals/ThematicLevels/DesertRuins/the_DesertRuins_OasisMonster
 #. PATH = JournalEntry/TitleReference
@@ -4873,7 +4873,7 @@ msgctxt "0x00041b96"
 msgid ""
 "Skyhold has a lot more for Harritt to work with. The blacksmith can now "
 "craft some truly advanced items."
-msgstr "스카이홀드에서는 해릿이 역량을 마음껏 발휘할 수 있다. 이제 대장장이는 매우 뛰어난 장비를 제작할 수 있다."
+msgstr "하늘보루에서는 해릿이 역량을 마음껏 발휘할 수 있다. 이제 대장장이는 매우 뛰어난 장비를 제작할 수 있다."
 
 #. EBX = DA3/designcontent/Journals/Skyhold/sky_smith
 #. PATH = JournalEntry/TaskEntry[0]
@@ -5320,7 +5320,7 @@ msgstr "퐁샤 드 리유는 엘리트 연합인 셀레스틴의 회원으로 �
 msgctxt "0x00041d79"
 msgid ""
 "Ponchard was true to his word and had Dorian's amulet delivered to Skyhold."
-msgstr "퐁샤는 자신의 말을 지켰고 도리안의 목걸이를 스카이홀드에 보냈다."
+msgstr "퐁샤는 자신의 말을 지켰고 도리안의 목걸이를 하늘보루에 보냈다."
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/dorian/dor_romance_journal
 #. PATH = JournalEntry/TextEntry[3]
@@ -5374,19 +5374,19 @@ msgstr "도리안과 대화하자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x000436d7"
 msgid "New Merchant in Skyhold"
-msgstr "스카이홀드의 새로운 상인"
+msgstr "하늘보루의 새로운 상인"
 
 #. EBX = DA3/designcontent/Journals/Skyhold/sky_new_merchants
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x000436d9"
 msgid "A merchant has set up shop in Skyhold."
-msgstr "상인이 스카이홀드에 상점을 차렸다."
+msgstr "상인이 하늘보루에 상점을 차렸다."
 
 #. EBX = DA3/designcontent/Journals/Skyhold/sky_new_merchants
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x000436d8"
 msgid "Travel to Skyhold to see what's for sale."
-msgstr "스카이홀드로 가서 판매 상품을 확인하자."
+msgstr "하늘보루로 가서 판매 상품을 확인하자."
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/gen_spec_reaver_journal
 #. PATH = JournalEntry/TitleReference
@@ -5520,7 +5520,7 @@ msgctxt "0x000355d2"
 msgid ""
 "Meet Cassandra back at Skyhold after she's had a chance to look through the "
 "Lord Seeker's book."
-msgstr "카산드라가 구도회 대원수의 책을 살펴볼 시간을 준 뒤에 스카이홀드에서 카산드라와 이야기해보자."
+msgstr "카산드라가 구도회 대원수의 책을 살펴볼 시간을 준 뒤에 하늘보루에서 카산드라와 이야기해보자."
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/Cassandra/cas_PersonalPlot_journal
 #. PATH = JournalEntry/TextEntry[2]
@@ -5580,7 +5580,7 @@ msgstr "구도회 대원수 루시우스를 찾자."
 #. PATH = JournalEntry/TaskEntry[7]
 msgctxt "0x000355d1"
 msgid "Follow up with Cassandra at Skyhold."
-msgstr "스카이홀드에서 카산드라와 만나자."
+msgstr "하늘보루에서 카산드라와 만나자."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_frantic_husband
 #. PATH = JournalEntry/TitleReference
@@ -6610,7 +6610,7 @@ msgstr "암살자 일당을 처치하자."
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x0004206f"
 msgid "Return to Skyhold and speak with Josephine."
-msgstr "스카이홀드로 돌아와 조세핀과 대화하자."
+msgstr "하늘보루로 돌아와 조세핀과 대화하자."
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/Josephine/jos_personal_main
 #. PATH = JournalEntry/TaskEntry[3]
@@ -6634,7 +6634,7 @@ msgstr "발 르와이요에 있는 디온 여백작과 대화하자."
 #. PATH = JournalEntry/TaskEntry[6]
 msgctxt "0x00042075"
 msgid "Return to Skyhold and speak with Josephine."
-msgstr "스카이홀드로 돌아와 조세핀과 대화하자."
+msgstr "하늘보루로 돌아와 조세핀과 대화하자."
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/Josephine/jos_personal_main
 #. PATH = JournalEntry/TaskEntry[7]
@@ -6819,7 +6819,7 @@ msgctxt "0x00041c9d"
 msgid ""
 "After the dust settled, Cole was nowhere to be found. It's hard to believe "
 "he isn't hanging around somewhere in Skyhold."
-msgstr "사태가 정리되고 나자, 어디에서도 콜을 찾을 수 없었다. 그가 스카이홀드 어딘가에서 어슬렁거리고 있지 않다는 게 믿기지 않는다."
+msgstr "사태가 정리되고 나자, 어디에서도 콜을 찾을 수 없었다. 그가 하늘보루 어딘가에서 어슬렁거리고 있지 않다는 게 믿기지 않는다."
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/Cole/col_acquisition_journal
 #. PATH = JournalEntry/TextEntry[1]
@@ -7525,13 +7525,13 @@ msgstr "안뜰 개선"
 msgctxt "0x000437b8"
 msgid ""
 "With the right materials, improvements can be made to Skyhold's courtyard."
-msgstr "제대로 된 재료가 있다면, 스카이홀드의 안마당을 개선할 수 있을 것이다."
+msgstr "제대로 된 재료가 있다면, 하늘보루의 안마당을 개선할 수 있을 것이다."
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/upgrade_courtyard
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x000437b3"
 msgid "Upgrade Skyhold's courtyard."
-msgstr "스카이홀드의 안뜰을 개선하자."
+msgstr "하늘보루의 안뜰을 개선하자."
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/upgrade_courtyard
 #. PATH = JournalEntry/TaskEntry[1]
@@ -8277,7 +8277,7 @@ msgstr "선택사항: 고문들에게 레니에를 감옥에서 풀어줄 방법
 #. PATH = JournalEntry/TaskEntry[4]
 msgctxt "0x0001b748"
 msgid "Judge Rainier at Skyhold."
-msgstr "스카이홀드에서 레니에를 재판하자."
+msgstr "하늘보루에서 레니에를 재판하자."
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/IronBull/bul_romance_journal
 #. PATH = JournalEntry/TitleReference
@@ -8669,7 +8669,7 @@ msgstr "쿠나리 전함에 신호를 보내자."
 #. PATH = JournalEntry/TaskEntry[4]
 msgctxt "0x00041d73"
 msgid "Check on Bull back at Skyhold."
-msgstr "스카이홀드에서 아이언 불의 안부를 확인하자."
+msgstr "하늘보루에서 아이언 불의 안부를 확인하자."
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_dalesplains_geosurvey01
 #. PATH = JournalEntry/TitleReference
@@ -9512,7 +9512,7 @@ msgctxt "0x00043d2e"
 msgid ""
 "Skyhold can be customized in a variety of ways to best reflect the style and "
 "priorities of the Inquisition."
-msgstr "심문회의 품격과 우선 가치를 가장 잘 반영할 수 있도록 스카이홀드를 다양한 방식으로 꾸밀 수 있다."
+msgstr "심문회의 품격과 우선 가치를 가장 잘 반영할 수 있도록 하늘보루를 다양한 방식으로 꾸밀 수 있다."
 
 #. EBX = DA3/designcontent/Journals/Skyhold/sky_customization
 #. PATH = JournalEntry/TaskEntry[0]
@@ -9524,7 +9524,7 @@ msgstr "지하실로 가자."
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x00043d31"
 msgid "Customize Skyhold."
-msgstr "스카이홀드를 장식하자."
+msgstr "하늘보루를 장식하자."
 
 #. EBX = DA3/DesignContent/Journals/Global/Inquisition/gbl_Crafting_Initial
 #. PATH = JournalEntry/TitleReference
@@ -9949,7 +9949,7 @@ msgstr "발견한 기록 수정"
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0003ed73"
 msgid "Welcome to Skyhold"
-msgstr "스카이홀드에 오신 것을 환영합니다"
+msgstr "하늘보루에 오신 것을 환영합니다"
 
 #. EBX = DA3/designcontent/Journals/Skyhold/sky_intro
 #. PATH = JournalEntry/TextEntry[0]
@@ -10438,13 +10438,13 @@ msgstr "주탑 개선"
 msgctxt "0x000437f0"
 msgid ""
 "With the right materials, improvements can be made to Skyhold's main tower."
-msgstr "적합한 재료가 있다면, 스카이홀드의 주탑을 개선할 수 있을 것이다."
+msgstr "적합한 재료가 있다면, 하늘보루의 주탑을 개선할 수 있을 것이다."
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/upgrade_maintower
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x000437f1"
 msgid "Upgrade Skyhold's main tower."
-msgstr "스카이홀드의 주탑을 개선하자."
+msgstr "하늘보루의 주탑을 개선하자."
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/upgrade_maintower
 #. PATH = JournalEntry/TaskEntry[1]
@@ -11995,7 +11995,7 @@ msgstr "답변을 기다리자."
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x00042083"
 msgid "Speak with the messenger in Skyhold."
-msgstr "스카이홀드에서 전령과 이야기하자."
+msgstr "하늘보루에서 전령과 이야기하자."
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/Josephine/jos_engagement_main
 #. PATH = JournalEntry/TaskEntry[3]
@@ -13626,7 +13626,7 @@ msgstr "주요 강화"
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x00042aa4"
 msgid "Perform three major upgrades to Skyhold."
-msgstr "스카이홀드의 세 가지 주요 업그레이드를 완료하자."
+msgstr "하늘보루의 세 가지 주요 업그레이드를 완료하자."
 
 #. EBX = DA3/designcontent/Journals/Skyhold/sky_collection_upgrades
 #. PATH = JournalEntry/TaskEntry[0]
@@ -15177,7 +15177,7 @@ msgstr "야영지를 탐색하여 샘슨의 갑옷에 대한 단서를 찾자."
 #. PATH = JournalEntry/TaskEntry[15]
 msgctxt "0x00018e67"
 msgid "Meet Cullen at Skyhold to discuss Maddox's tools with Dagna."
-msgstr "스카이홀드에서 컬렌을 만나 다그나와 매덕스의 도구에 관해 의논하자."
+msgstr "하늘보루에서 컬렌을 만나 다그나와 매덕스의 도구에 관해 의논하자."
 
 #. EBX = DA3/designcontent/Journals/Adamant/ada_fade_order_puzzle_journal
 #. PATH = JournalEntry/TitleReference
@@ -15306,7 +15306,7 @@ msgctxt "0x00038313"
 msgid ""
 "A range of sulphur pits prevents further investigation of the darkspawn "
 "presence. Return to Skyhold to arrange a way across."
-msgstr "유황 구덩이 때문에 암흑피조물의 행방을 조사할 수 없다. 스카이홀드로 돌아가 이곳을 건널 방법을 찾자."
+msgstr "유황 구덩이 때문에 암흑피조물의 행방을 조사할 수 없다. 하늘보루로 돌아가 이곳을 건널 방법을 찾자."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TextEntry[2]

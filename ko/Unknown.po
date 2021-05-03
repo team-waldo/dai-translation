@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-04-26 08:55+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2021-05-03 04:56+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/unknown/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2031,7 +2031,7 @@ msgctxt "0x0001c069"
 msgid ""
 "It's good to see such hardworking people around Skyhold. Who was it that "
 "hired you again?"
-msgstr "스카이홀드에 이렇게 열심히 일하는 사람들이 있으니 좋구려. 누가 고용했다고 하셨더라?"
+msgstr "하늘보루에 이렇게 열심히 일하는 사람들이 있으니 좋구려. 누가 고용했다고 하셨더라?"
 
 msgctxt "0x0001c06a"
 msgid "Gentlemen, is there something I can do for you?"
@@ -2874,7 +2874,7 @@ msgstr "각인된 끝장식"
 
 msgctxt "0x0001f89b"
 msgid "Keep Gate"
-msgstr "문 지키기"
+msgstr "성채 관문"
 
 msgctxt "0x0001fa26"
 msgid "Darkblade"
@@ -3365,7 +3365,7 @@ msgstr "오늘은 엘프 역할 배우 연기가 훌륭했다고 생각해."
 
 msgctxt "0x000219ac"
 msgid "<i>(Exasperated sigh.)</i> You have so much to learn."
-msgstr "<i>(성난 한숨.)</i> 배울 게 아직 한참 남았구나."
+msgstr "(성난 한숨) 배울 게 아직 한참 남았구나."
 
 msgctxt "0x000219ad"
 msgid "Because he's elven?"
@@ -3519,7 +3519,7 @@ msgstr "키이런이 고른 거니?"
 
 msgctxt "0x00023963"
 msgid "<i>(Sighs.)</i> Yes, he did."
-msgstr "<i>(한숨.)</i> 그래, 그 애가 골랐다."
+msgstr "(한숨) 그래, 그 애가 골랐다."
 
 msgctxt "0x00023964"
 msgid "That boy has wonderful taste."
@@ -4056,7 +4056,7 @@ msgstr "발견한 아이템"
 
 msgctxt "0x000271d0"
 msgid "Skyhold Upgrade"
-msgstr "스카이홀드 업그레이드"
+msgstr "하늘보루 업그레이드"
 
 msgctxt "0x000272f5"
 msgid "Power: {CUSTOM0}"
@@ -5215,8 +5215,7 @@ msgid ""
 "devastating weapons to better protect Skyhold. {string}277941{/string}"
 msgstr ""
 "쿠나리가 가장 귀중히 여기는 비밀 중 하나, \"개틀록\"이라 일컫는 그네들의 폭발성 검은 가루의 제작법이 우리 수중에 들어왔다. 똑같이 "
-"만들어내기가 까다롭지만, 이 파괴적인 무기를 제작하여 스카이홀드의 방비를 강화할 수 있을 것이다. "
-"{string}277941{/string}"
+"만들어내기가 까다롭지만, 이 파괴적인 무기를 제작하여 하늘보루의 방비를 강화할 수 있을 것이다. {string}277941{/string}"
 
 #. STRINGS :
 #.     0x00043db4(277940) : Reward: +1 Power
@@ -6849,7 +6848,7 @@ msgstr "\"전령.\" \"구세주.\""
 
 msgctxt "0x00034a27"
 msgid "<i>(Humming.)</i>"
-msgstr "<i>(흥얼거림.)</i>"
+msgstr "(흥얼거림)"
 
 msgctxt "0x00034a29"
 msgid "Heroics. Exercise. Hard to beat this life."
@@ -6857,7 +6856,7 @@ msgstr "영웅사업 하랴, 운동하랴. 이렇게 살기도 충분히 힘들�
 
 msgctxt "0x00034a2a"
 msgid "<i>(Coughs.)</i>"
-msgstr "<i>(기침.)</i>"
+msgstr "(기침)"
 
 msgctxt "0x00034a2b"
 msgid ""
@@ -6882,11 +6881,11 @@ msgstr "우리가 테다스 절반을 가로질러 걸어온 기분이야."
 
 msgctxt "0x00034a37"
 msgid "<i>(Sighs.)</i>"
-msgstr "<i>(한숨.)</i>"
+msgstr "(한숨)"
 
 msgctxt "0x00034a38"
 msgid "<i>(Hums.)</i>"
-msgstr "<i>(흥얼거림.)</i>"
+msgstr "(흥얼거림)"
 
 msgctxt "0x00034a3a"
 msgid "Places are different."
@@ -6894,7 +6893,7 @@ msgstr "세상에 똑같은 곳이 있냐."
 
 msgctxt "0x00034a3b"
 msgid "<i>(Hums.)</i>"
-msgstr "<i>(흥얼거림.)</i>"
+msgstr "(흥얼거림)"
 
 msgctxt "0x00034a42"
 msgid "Are we there?"
@@ -6902,7 +6901,7 @@ msgstr "도착한거야?"
 
 msgctxt "0x00034a43"
 msgid "<i>(Hums.) </i>"
-msgstr "<i>(흥얼거림.)</i>"
+msgstr "(흥얼거림)"
 
 msgctxt "0x00034a44"
 msgid "Hard to imagine this was once all a forest."
@@ -6910,11 +6909,11 @@ msgstr "여기 전부가 한 때 숲이었다는게 상상이 잘 안가는군."
 
 msgctxt "0x00034a47"
 msgid "<i>(Clears throat.)</i>"
-msgstr "<i>(헛기침.)</i>"
+msgstr "(헛기침)"
 
 msgctxt "0x00034a4a"
 msgid "<i>(Hums.)</i>"
-msgstr "<i>(흥얼거림.)</i>"
+msgstr "(흥얼거림)"
 
 msgctxt "0x00034a4c"
 msgid "It's not Minrathous, I'll say that much."
@@ -6922,11 +6921,11 @@ msgstr "민라투스는 아니로군, 그거 하나는 확실해."
 
 msgctxt "0x00034a4d"
 msgid "<i>(Sighs.)</i>"
-msgstr "<i>(한숨.)</i>"
+msgstr "(한숨)"
 
 msgctxt "0x00034a4f"
 msgid "<i>(Grunts.)</i>"
-msgstr "<i>(툴툴거림.)</i>"
+msgstr "(툴툴거림)"
 
 msgctxt "0x00034a51"
 msgid "Big, old world, isn't it?"
@@ -6938,7 +6937,7 @@ msgstr "야영지를 세울 건가, 아니면 계속 갈 건가?"
 
 msgctxt "0x00034a55"
 msgid "<i>(Sighs.)</i>"
-msgstr "<i>(한숨.)</i>"
+msgstr "(한숨)"
 
 msgctxt "0x00034a57"
 msgid "Anybody else cold? Just me?"
@@ -6946,15 +6945,15 @@ msgstr "춥지 않아? 나만 추운거야?"
 
 msgctxt "0x00034a58"
 msgid "<i>(Hums.)</i>"
-msgstr "<i>(흥얼거림.)</i>"
+msgstr "(흥얼거림)"
 
 msgctxt "0x00034a5d"
 msgid "I spy... <i>(Bored exhale.)</i>"
-msgstr "꼭꼭 숨어라... <i>(지루하다는 듯한 콧바람.)</i>"
+msgstr "꼭꼭 숨어라... (지루하다는 듯한 콧바람)"
 
 msgctxt "0x00034a5e"
 msgid "<i>(Sighs.)</i>"
-msgstr "<i>(한숨.)</i>"
+msgstr "(한숨)"
 
 msgctxt "0x00034a5f"
 msgid "Where now, yeah?"
@@ -6978,7 +6977,7 @@ msgstr "이런 나들이는 질리지가 않아."
 
 msgctxt "0x00034a68"
 msgid "<i>(Sighs.)</i>"
-msgstr "<i>(한숨.)</i>"
+msgstr "(한숨)"
 
 msgctxt "0x00034a69"
 msgid "Hm..."
@@ -7010,7 +7009,7 @@ msgstr "이 끔찍한 냄새는 뭐야?"
 
 msgctxt "0x00034a79"
 msgid "<i>(Sighs.)</i>"
-msgstr "<i>(한숨.)</i>"
+msgstr "(한숨)"
 
 msgctxt "0x00034a7b"
 msgid "So much to do when I get back."
@@ -7022,7 +7021,7 @@ msgstr "(한숨.) 이 핏자국 지워져야 할텐데."
 
 msgctxt "0x00034a7e"
 msgid "<i>(Chuckles.)</i>"
-msgstr "<i>(킥킥댐.)</i>"
+msgstr "(킥킥댐)"
 
 msgctxt "0x00034e30"
 msgid "Graveyard Tomb"
@@ -7377,7 +7376,7 @@ msgstr "끔찍한 기분이야."
 
 msgctxt "0x000363d6"
 msgid "<i>(Sighs.)</i>"
-msgstr "<i>(한숨.)</i>"
+msgstr "(한숨)"
 
 msgctxt "0x000363d7"
 msgid "We should all be ashamed of ourselves."
@@ -8399,7 +8398,7 @@ msgstr "서둘러야합니다."
 
 msgctxt "0x0003beb5"
 msgid "<i>(Sighs.)</i> My bruises have bruises."
-msgstr "<i>(한숨.)</i> 이렇게 상처를 주시다니요."
+msgstr "(한숨) 이렇게 상처를 주시다니요."
 
 msgctxt "0x0003beb6"
 msgid "If any more sand gets under my armor, I think I'll go mad."
@@ -8411,7 +8410,7 @@ msgstr "그냥 서성거리기. 최고네."
 
 msgctxt "0x0003beb8"
 msgid "It makes me nervous to be away from Skyhold this long."
-msgstr "스카이홀드에서 이렇게 오랫동안 떨어져 있자니 불안해져."
+msgstr "하늘보루에서 이렇게 오랫동안 떨어져 있자니 불안해져."
 
 msgctxt "0x0003beb9"
 msgid "I don't do well in forests."
@@ -8419,7 +8418,7 @@ msgstr "숲은 그리 좋아하지 않는데."
 
 msgctxt "0x0003bed0"
 msgid "<i>(Sighs.)</i>"
-msgstr "<i>(한숨.)</i>"
+msgstr "(한숨)"
 
 msgctxt "0x0003bed1"
 msgid "Thank goodness we stopped. I could use the break."
@@ -8435,7 +8434,7 @@ msgstr "으. 저기 분명 벌레로 <i>들끓고</i> 있겠군."
 
 msgctxt "0x0003bed4"
 msgid "When we get back to Skyhold, I'm going to the tavern."
-msgstr "스카이홀드로 돌아가면, 주점에 갈 거야."
+msgstr "하늘보루로 돌아가면, 주점에 갈 거야."
 
 msgctxt "0x0003bed5"
 msgid "\"Join the Inquisition, Dorian. It'll be fun. You'll travel.\""
@@ -8443,7 +8442,7 @@ msgstr "\"심문회에 들어오세요, 도리안. 재밌을 거예요. 여행�
 
 msgctxt "0x0003bed6"
 msgid "<i>(Shudders.)</i> Chilly."
-msgstr "<i>(떨면서.)</i> 썰렁하네."
+msgstr "(떨면서) 썰렁하네."
 
 msgctxt "0x0003c1e5"
 msgid "Dagger"
@@ -8598,7 +8597,7 @@ msgstr "나무가 너무 많은걸. 아무 것도 안 보여."
 
 msgctxt "0x0003c7ee"
 msgid "I bet there's food back at Skyhold."
-msgstr "스카이홀드에는 음식이 좀 있을 텐데."
+msgstr "하늘보루에는 음식이 좀 있을 텐데."
 
 msgctxt "0x0003c7ef"
 msgid "Doesn't look that cold, but the wind just cuts right through you."
@@ -9926,7 +9925,7 @@ msgstr "살 사람?"
 
 msgctxt "0x0003f186"
 msgid "<i>(Quiet sobbing.)</i>"
-msgstr "<i>(나지막한 흐느낌.)</i>"
+msgstr "(나지막한 흐느낌)"
 
 msgctxt "0x0003f187"
 msgid "Right, right."
@@ -11221,7 +11220,7 @@ msgstr "긴장을 늦추지 마라. 아직 끝난 게 아니다."
 
 msgctxt "0x0004178a"
 msgid "<i>(Frustrated growl.)</i> Watch them!"
-msgstr "<i>(분에 찬 투덜거림.)</i> 저것들 조심해!"
+msgstr "(분에 찬 투덜거림) 저것들 조심해!"
 
 msgctxt "0x000417ed"
 msgid "Platinum"
@@ -16744,7 +16743,7 @@ msgstr ""
 #.     0x000439e0(276960) : {string}268691{/string} {string}276419{/string}
 msgctxt "0x000437c3"
 msgid "(Dusk)"
-msgstr "(어스름)"
+msgstr "(망령)"
 
 #. USED IN :
 #.     0x000439cb(276939) : {string}268692{/string} {string}276420{/string}
@@ -17598,19 +17597,19 @@ msgstr "일시정지와 재개"
 
 msgctxt "0x00043928"
 msgid "Skyhold - Main Hall"
-msgstr "스카이홀드 - 본관"
+msgstr "하늘보루 - 본관"
 
 msgctxt "0x0004392f"
 msgid "Skyhold - Prison"
-msgstr "스카이홀드 - 감옥"
+msgstr "하늘보루 - 감옥"
 
 msgctxt "0x00043931"
 msgid "Skyhold - Garden"
-msgstr "스카이홀드 - 정원"
+msgstr "하늘보루 - 정원"
 
 msgctxt "0x00043934"
 msgid "Skyhold - Cellar"
-msgstr "스카이홀드 - 저장고"
+msgstr "하늘보루 - 저장고"
 
 msgctxt "0x00043950"
 msgid "Your inventory is full. Go to a merchant to sell items and clear space."
@@ -17939,7 +17938,7 @@ msgctxt "0x00043a40"
 msgid ""
 "In Skyhold's Undercroft, you can craft new arms and armor and customize "
 "Skyhold's appearance."
-msgstr "스카이홀드의 지하실에서는 새로운 장비와 방어구를 제작하고 스카이홀드의 외관을 꾸밀 수 있습니다."
+msgstr "하늘보루의 지하실에서는 새로운 장비와 방어구를 제작하고 하늘보루의 외관을 꾸밀 수 있습니다."
 
 #. STRINGS :
 #.     0x00043a40(277056) : In Skyhold's Undercroft, you can craft new arms and armor and customize Skyhold's appearance.
@@ -18612,8 +18611,8 @@ msgid ""
 msgstr ""
 "<i>고대 리베인어로 새겨진 문장:</i>\n"
 "그것은 가까이 고통 받는 모두를 위해 불꽃과 비통의 노래를 부른다. 그것은 재능과 의지가 함께 빚어낸 걸작이자 보이는 것 이상이다. "
-"지금은 시간이 지나 잊힌 분노로 갈고 닦은 그 안에 가둬진 힘은 그녀의 이름과 같이 잊혀, 이제 남은 것은 <i>(지워져 있다)</i> "
-"만물에 죽음을! 난 누구도 실망시키지 않았어!"
+"지금은 시간이 지나 잊힌 분노로 갈고 닦은 그 안에 가둬진 힘은 그녀의 이름과 같이 잊혀, 이제 남은 것은 (지워져 있다) 만물에 "
+"죽음을! 난 누구도 실망시키지 않았어!"
 
 msgctxt "0x00044050"
 msgid "Pyromancer"
@@ -19038,7 +19037,7 @@ msgstr "물론이죠."
 
 msgctxt "0x000446f2"
 msgid "<i>(Sighs.)</i>"
-msgstr "<i>(한숨.)</i>"
+msgstr "(한숨)"
 
 msgctxt "0x000446f3"
 msgid "This war has gone on too long."
@@ -19050,7 +19049,7 @@ msgstr ""
 
 msgctxt "0x000446f7"
 msgid "<i>(Coughs.)</i>"
-msgstr "<i>(기침.)</i>"
+msgstr "(기침)"
 
 msgctxt "0x000446f8"
 msgid "I hate waiting to die."
@@ -19148,7 +19147,7 @@ msgstr "비전 공포귀 군주"
 
 msgctxt "0x000447d6"
 msgid "Shade Lord"
-msgstr "어스름 군주"
+msgstr "망령 군주"
 
 msgctxt "0x000447d7"
 msgid "Revenant Lord"
@@ -19469,7 +19468,7 @@ msgctxt "0x000448ff"
 msgid ""
 "Specialization classes unlock powerful new abilities for your characters. "
 "Look for a chance to summon veteran trainers to Skyhold."
-msgstr "직업 전문화는 캐릭터를 위해 강력한 새로운 기술을 해제합니다. 숙련된 교관을 스카이홀드로 불러올 기회를 찾으세요."
+msgstr "직업 전문화는 캐릭터를 위해 강력한 새로운 기술을 해제합니다. 숙련된 교관을 하늘보루로 불러올 기회를 찾으세요."
 
 #. STRINGS :
 #.     0x000423bb(271291) : N/A

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-01 01:55+0000\n"
-"Last-Translator: 러버덕 <lillokittyy@gmail.com>\n"
+"PO-Revision-Date: 2021-05-03 04:56+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +29,7 @@ msgstr "사용"
 #. PATH = BWGameInteractionEntityData[2]/InteractionTextReference
 msgctxt "0x0004329e"
 msgid "Return to Skyhold"
-msgstr "스카이홀드로 귀환"
+msgstr "하늘보루로 귀환"
 
 #. FILE = DA3/Layouts/ArborWilds/ArborWilds_Main/DSG_Regions_Schematic
 #. PATH = GetLocalizedStringIDData[1]/Text
@@ -1587,7 +1587,7 @@ msgstr "비시니우스의 집"
 #. PATH = BWGameInteractionEntityData/InteractionTextReference
 msgctxt "0x00029ee6"
 msgid "Skyhold"
-msgstr "스카이홀드"
+msgstr "하늘보루"
 
 #. FILE = DA3/Layouts/OneUseAreas/jos_estate/QST_JOS0100_InformantCombat
 #. PATH = AppearanceOverrideSpawnData[1]/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
@@ -5132,13 +5132,13 @@ msgctxt "0x00042ad6"
 msgid ""
 "Plant seeds in Skyhold's nursery to grow herbs for crafting. Find seeds by "
 "gathering herbs in the wild."
-msgstr "스카이홀드의 종묘장에 씨앗을 심어 제작에 필요한 약초를 재배하십시오. 야생에서 약초를 수집해 씨앗을 찾을 수 있습니다."
+msgstr "하늘보루의 종묘장에 씨앗을 심어 제작에 필요한 약초를 재배하십시오. 야생에서 약초를 수집해 씨앗을 찾을 수 있습니다."
 
 #. FILE = da3/Layouts/InquisitorBase2/MainBase/DSG_Workshop_Main
 #. PATH = BWGameInteractionEntityData[1]/InteractionTextReference
 msgctxt "0x00042ad8"
 msgid "Skyhold Customization"
-msgstr "스카이홀드 외관 변경"
+msgstr "하늘보루 외관 변경"
 
 #. FILE = da3/Layouts/InquisitorBase2/MainBase/DSG_Workshop_Main_Schematic
 #. PATH = BWPopUpEntityData/Text
@@ -5146,13 +5146,13 @@ msgctxt "0x00042ad9"
 msgid ""
 "Use the work bench in Skyhold's Undercroft to plan out the design of the "
 "castle."
-msgstr "스카이홀드 지하실의 작업대를 사용해 성의 외관을 변경하십시오."
+msgstr "하늘보루 지하실의 작업대를 사용해 성의 외관을 변경하십시오."
 
 #. FILE = da3/Layouts/InquisitorBase2/MainBase/MainBase
 #. PATH = UILevelDescriptionComponent/LocationName
 msgctxt "0x00029d6f"
 msgid "Skyhold"
-msgstr "스카이홀드"
+msgstr "하늘보루"
 
 #. FILE = da3/Layouts/InquisitorBase2/MainBase/SER_0301_Main_Schematic
 #. PATH = GetLocalizedStringIDData/Text
@@ -5194,7 +5194,7 @@ msgstr "지하실"
 #. PATH = BWMap/TitleReference
 msgctxt "0x00043930"
 msgid "Skyhold - Undercroft"
-msgstr "스카이홀드 - 지하실"
+msgstr "하늘보루 - 지하실"
 
 #. FILE = da3/Layouts/InquisitorBase2/MainBase/map/MainBase_floor2
 #. PATH = BWMapPinLocation[4]/TitleReference
@@ -5206,7 +5206,7 @@ msgstr "다그나"
 #. PATH = BWMap/TitleReference
 msgctxt "0x0004392a"
 msgid "Skyhold - Lower Courtyard"
-msgstr "스카이홀드 - 안뜰 하층"
+msgstr "하늘보루 - 안뜰 하층"
 
 #. FILE = da3/Layouts/InquisitorBase2/MainBase/map/MainBase_floor4
 #. PATH = BWMapPinLocation[7]/TitleReference
@@ -5230,7 +5230,7 @@ msgstr "메리덴"
 #. PATH = BWMap/TitleReference
 msgctxt "0x00043925"
 msgid "Skyhold - Upper Courtyard"
-msgstr "스카이홀드 - 안뜰 상층"
+msgstr "하늘보루 - 안뜰 상층"
 
 #. FILE = da3/Layouts/InquisitorBase2/MainBase/map/MainBase_floor5
 #. PATH = BWMapPinLocation[9]/TitleReference
@@ -9255,5 +9255,5 @@ msgid ""
 "expeditions found in this area of the Deep Roads. Expeditions do not appear "
 "on the war table in Skyhold."
 msgstr ""
-"\"원정\"은 지하 가도에서만 발견되는 특수 심문회 작전입니다. 원정 지도를 사용해 지하 가도의 원정을 완료하십시오. 원정은 스카이홀드의 "
+"\"원정\"은 지하 가도에서만 발견되는 특수 심문회 작전입니다. 원정 지도를 사용해 지하 가도의 원정을 완료하십시오. 원정은 하늘보루의 "
 "작전 지도에는 나타나지 않습니다."

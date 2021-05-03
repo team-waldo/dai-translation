@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-01 01:55+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2021-05-03 04:56+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -4080,7 +4080,7 @@ msgstr ""
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x0003af6a"
 msgid "Enraged Shade"
-msgstr "분노한 어스름"
+msgstr "분노한 망령"
 
 #. FILE = DA3/Creatures/Boss/creature_boss_abelas
 #. PATH = CreatureEntityData/CharacterNameReference
@@ -5580,7 +5580,7 @@ msgstr "하딩"
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x0003b0f1"
 msgid "Keep Gate"
-msgstr "문 지키기"
+msgstr "성채 관문"
 
 #. FILE = DA3/DesignContent/Items/Dales/Chateau/160_TEMPMYSTERYBOX
 #. PATH = StackedItemAsset/DisplayName
@@ -10574,7 +10574,7 @@ msgstr "용의 파멸"
 #. PATH = AwardAchievementData[18]/LocalizedDescription
 msgctxt "0x00042dfa"
 msgid "Purchase any new decoration element for Skyhold."
-msgstr "스카이홀드를 위한 새로운 장식을 구매하십시오."
+msgstr "하늘보루를 위한 새로운 장식을 구매하십시오."
 
 #. FILE = DA3/Persistence/AchievementTree
 #. PATH = AwardAchievementData[18]/LocalizedName
@@ -10785,7 +10785,7 @@ msgstr "지하 가도 사령관"
 #. PATH = AwardAchievementData[35]/LocalizedDescription
 msgctxt "0x0004a5b3"
 msgid "Take It Slow on: reach Skyhold at level 5 or less."
-msgstr "급할 거 없지 시련을 활성화하고 레벨 5 이하인 상태로 스카이홀드에 입성하십시오."
+msgstr "급할 거 없지 시련을 활성화하고 레벨 5 이하인 상태로 하늘보루에 입성하십시오."
 
 #. FILE = DA3/Persistence/AchievementTree
 #. PATH = AwardAchievementData[35]/LocalizedName
@@ -10947,7 +10947,7 @@ msgstr "전령"
 #. PATH = AwardAchievementData[48]/LocalizedDescription
 msgctxt "0x00042dfe"
 msgid "Harvest 50 herbs from Skyhold's garden in a single playthrough."
-msgstr "한 회차를 플레이하면서 스카이홀드의 정원에서 50개의 약초를 재배하십시오."
+msgstr "한 회차를 플레이하면서 하늘보루의 정원에서 50개의 약초를 재배하십시오."
 
 #. FILE = DA3/Persistence/AchievementTree
 #. PATH = AwardAchievementData[48]/LocalizedName
@@ -14174,8 +14174,8 @@ msgid ""
 "\n"
 "Using any combat ability will cause you to drop a carried veilfire torch."
 msgstr ""
-"장막불꽃은 마법사만이 소환할 수 있는 특수한 불빛이지만, 일단 켜진 횃불은 누구든 들고 다닐 수 있습니다. 장막불꽃을 비춰야만 볼 수 "
-"있는 고대의 룬이나 장치들을 찾아보세요.\n"
+"장막불꽃은 마법사만이 소환할 수 있는 특수한 불빛이며, 일단 켜진 횃불은 누구든 들고 다닐 수 있습니다. 장막불꽃을 비춰야만 볼 수 있는 "
+"고대의 룬이나 장치들을 찾아보세요.\n"
 "\n"
 "전투행동을 하게 되면, 들고 있던 장막불꽃은 바닥에 떨어집니다."
 
@@ -15901,7 +15901,7 @@ msgctxt "0x0004b27e"
 msgid ""
 "Somber tones and a heavier coat. Perfect for cold Skyhold nights and weighty "
 "discussions."
-msgstr "어두운 톤과 무거운 겉옷. 스카이홀드의 추운 밤과 진지한 토론에 완벽히 걸맞는다."
+msgstr "어두운 톤과 무거운 겉옷. 하늘보루의 추운 밤과 진지한 토론에 완벽히 걸맞는다."
 
 #. FILE = DA3_DLC_Blue/DesignContent/Wardrobe/dlcblue_wardrobe_base2_var6
 #. PATH = UIBaseCustomizeItemAsset/Title
@@ -18160,7 +18160,7 @@ msgstr ""
 #. PATH = JournalSystemCategory[18]/TitleReference
 msgctxt "0x00042410"
 msgid "Skyhold Customizations"
-msgstr "스카이홀드 장식"
+msgstr "하늘보루 장식"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[18]/DescriptionReference
@@ -18168,7 +18168,7 @@ msgctxt "0x0004240f"
 msgid ""
 "Many aspects of Skyhold can be tailored to match the style and function of "
 "the Inquisitor's particular brand of leadership."
-msgstr "스카이홀드는 심문관이 선호하는 방식에 따라 다양한 양식과 기능으로 변경할 수 있다."
+msgstr "하늘보루는 심문관이 선호하는 방식에 따라 다양한 양식과 기능으로 변경할 수 있다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[19]/TitleReference
@@ -18346,7 +18346,7 @@ msgstr "자신들이 발을 딛고 살아가는 이 땅의 역사와 그 역사 
 #. PATH = JournalSystemCategory[30]/TitleReference
 msgctxt "0x00041614"
 msgid "Skyhold"
-msgstr "스카이홀드"
+msgstr "하늘보루"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[30]/DescriptionReference
@@ -18358,7 +18358,7 @@ msgid ""
 "Inquisition well."
 msgstr ""
 "헤이븐이 파괴된 지금, 가장 암울한 시기로부터 테다스를 지켜낼 수 있는 유일한 장소는 이제 데일스 지역의 버려진 성에 불과했던 "
-"스카이홀드뿐이다. 스카이홀드는 헤이븐에 비해 더 크고 방에에도 용이하므로 심문회에 큰 도움이 될 것이다."
+"하늘보루뿐이다. 하늘보루는 헤이븐에 비해 더 크고 방에에도 용이하므로 심문회에 큰 도움이 될 것이다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[31]/TitleReference
@@ -18976,19 +18976,19 @@ msgstr "영계 균열"
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x000447d5"
 msgid "Lesser Shade"
-msgstr "하급 어스름"
+msgstr "하급 망령"
 
 #. FILE = da3/Creatures/Faction/Demonic/Demon/creature_demon_shade_b
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x0001860e"
 msgid "Shade"
-msgstr "어스름"
+msgstr "망령"
 
 #. FILE = da3/Creatures/Faction/Demonic/Demon/creature_demon_shade_d
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x000447d4"
 msgid "Greater Shade"
-msgstr "상급 어스름"
+msgstr "상급 망령"
 
 #. FILE = da3/Creatures/Faction/Demonic/Demon/creature_demon_terror
 #. PATH = CreatureEntityData/CharacterNameReference
@@ -19140,7 +19140,7 @@ msgstr "균열을 닫으려면 악마를 처치하십시오"
 #.     0x0003b589(243081) : {string}158087{/string}
 msgctxt "0x00026987"
 msgid "Close Fade Rift"
-msgstr "영계 균열을 닫으십시오"
+msgstr "영계 균열 닫기"
 
 #. FILE = da3/DesignContent/PrefabComponents/CombatEncounter/FadeTears/CMP_FadeRift_Vulnerability
 #. PATH = BWPopUpEntityData[3]/Text
