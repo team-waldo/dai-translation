@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-03 04:56+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2021-05-05 05:55+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -3488,7 +3488,7 @@ msgstr "뇌관 설치"
 #. PATH = GetLocalizedStringIDData[1]/Text
 msgctxt "0x0004998c"
 msgid "Mining and Processing"
-msgstr "채굴과 가공 작업"
+msgstr "채굴 및 공정 작업소"
 
 #. FILE = DA3_DLC_Blue/Layouts/DLCBlue_Dwarven_Dungeon/DSG_Regions_Schematic
 #. PATH = GetLocalizedStringIDData[2]/Text
@@ -3643,7 +3643,7 @@ msgstr "기둥 꼭대기에 부서진 조각상이 놓여 있습니다."
 #. PATH = AppearanceOverrideSpawnData[1]/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x0004b046"
 msgid "Archivist"
-msgstr "기록 보관 담당자"
+msgstr "고서관리자"
 
 #. FILE = DA3_DLC_Blue/Layouts/DLCBlue_Fade_Dungeon/DSG_Banter_Schematic
 #. PATH = BWPopUpEntityData/Text
@@ -3770,7 +3770,7 @@ msgstr "요새 접경지"
 #. PATH = GetLocalizedStringIDData[4]/Text
 msgctxt "0x00048c92"
 msgid "Research Tower"
-msgstr "탑 조사하기"
+msgstr "연구탑"
 
 #. FILE = DA3_DLC_Blue/Layouts/DLCBlue_Qunari_Dungeon/DSG_Regions_Schematic
 #. PATH = GetLocalizedStringIDData[5]/Text
