@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-07 02:56+0000\n"
+"PO-Revision-Date: 2021-05-10 06:56+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -3931,7 +3931,7 @@ msgid ""
 "from the blow.\n"
 "\n"
 msgstr ""
-"쌍 송곳니로 측후방 공격을 하면, 대상의 방어구가 찢어진 상태로 유지됩니다.\n"
+"쌍 송곳니로 측후방 공격을 하면, 대상의 방어구가 파손된 상태로 유지됩니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/DualWeapon/ExplosiveStrike/party_rogue_dualweapon_explosivestrike_upgrade2_abilitydata
@@ -4373,7 +4373,7 @@ msgid ""
 "armor and leaving it sundered.\n"
 "\n"
 msgstr ""
-"주위 모든 대상에게 단검을 내던져 방어구를 찢어발깁니다. 대상은 찢김 효과를 입습니다.\n"
+"주위 모든 대상에게 단검을 내던져 방어구를 찢어발깁니다. 대상은 파손 효과를 입습니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/General/Knives/party_rogue_general_knives_upgrade1_abilitydata
@@ -4390,7 +4390,7 @@ msgid ""
 "sunder enemy armor longer.\n"
 "\n"
 msgstr ""
-"당신은 한 번에 더 많은 칼을 던질 수 있게 되고, 가중된 칼날로 적의 갑옷을 더 오랫동안 찢김 상태로 유지합니다.\n"
+"당신은 한 번에 더 많은 칼을 던질 수 있게 되고, 가중된 칼날로 적의 갑옷을 더 오랫동안 파손 상태로 유지합니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/General/Knives/party_rogue_general_knives_upgrade2_abilitydata
@@ -4424,7 +4424,7 @@ msgid ""
 "of you and increasing the duration for which their armor is sundered.\n"
 "\n"
 msgstr ""
-"부채꼴 모양으로 단검을 던져 전방의 모든 적을 타격하고 방어구를 더 오래 찢어 놓습니다.\n"
+"부채꼴 모양으로 단검을 던져 전방의 모든 적을 타격하고 방어구를 더 오래 파손시켜 놓습니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/General/Knives/party_rogue_general_knives_upgrade3_abilitydata
@@ -5220,7 +5220,7 @@ msgid ""
 "time.\n"
 "\n"
 msgstr ""
-"치명타가 적의 방어구를 갈라냅니다. 적은 잠시 동안 찢김 상태에 놓입니다.\n"
+"치명타가 적의 방어구를 갈라냅니다. 적은 잠시 동안 파손 상태에 놓입니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/Passives/SilentKiller/party_rogue_passive_silentkiller_abilitydata
@@ -5344,7 +5344,7 @@ msgid ""
 "toxins and uglier wounds.\n"
 "\n"
 msgstr ""
-"더 강력한 독을 제조하고 더 심각한 상처를 남깁니다. 찢김 효과와 중독 효과가 더 오래 지속됩니다.\n"
+"더 강력한 독을 제조하고 더 심각한 상처를 남깁니다. 파손 효과와 중독 효과가 더 오래 지속됩니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/Passives/Toxicity/party_rogue_passive_toxicity_abilitydata
@@ -5837,7 +5837,7 @@ msgid ""
 "shaken to defend themselves, leaving their armor sundered.\n"
 "\n"
 msgstr ""
-"전쟁 뿔피리가 적의 방비 태세를 무너뜨립니다. 적은 너무도 겁에 질려 자기방어조차 할 수 없을 지경이 되어, 찢김 상태에 놓입니다.\n"
+"전쟁 뿔피리가 적의 방비 태세를 무너뜨립니다. 적은 너무도 겁에 질려 자기방어조차 할 수 없을 지경이 되어, 파손 상태에 놓입니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Warrior/Battlemaster/Warhorn/party_warrior_battlemaster_warhorn_abilitydata
@@ -8702,7 +8702,7 @@ msgid ""
 "Every time an enemy dies nearby, you regain both health and mana.\n"
 "\n"
 msgstr ""
-"근처에서 적이 죽을 때마다 체력과 마나를 회복합니다.\n"
+"주변의 적이 죽을 때마다 체력과 마나를 회복합니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Passives/DeathSiphon/party_mage_passive_deathsiphon_abilitydata
