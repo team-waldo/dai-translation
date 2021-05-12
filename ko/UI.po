@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-10 06:55+0000\n"
+"PO-Revision-Date: 2021-05-12 13:56+0000\n"
 "Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
@@ -33210,7 +33210,7 @@ msgstr "철수"
 #. PATH = UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[1]/UIStatusEffectDisplayInfo/DisplayName
 msgctxt "0x00041b4e"
 msgid "Sundered"
-msgstr "파손"
+msgstr "방어구 손상"
 
 #. FILE = UI/Settings/UIStatusEffectTypeSettings
 #. PATH = UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[2]/UIStatusEffectDisplayInfo/DisplayName
@@ -33228,7 +33228,7 @@ msgstr "오한"
 #. PATH = UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[4]/UIStatusEffectDisplayInfo/DisplayName
 msgctxt "0x000422a6"
 msgid "Dispelled"
-msgstr "해제"
+msgstr "마법해제"
 
 #. FILE = UI/Settings/UIStatusEffectTypeSettings
 #. PATH = UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[5]/UIStatusEffectDisplayInfo/DisplayName
@@ -33246,49 +33246,49 @@ msgstr "공황"
 #. PATH = UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[7]/UIStatusEffectDisplayInfo/DisplayName
 msgctxt "0x00042229"
 msgid "Paralyzed"
-msgstr "마비됨"
+msgstr "마비"
 
 #. FILE = UI/Settings/UIStatusEffectTypeSettings
 #. PATH = UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[8]/UIStatusEffectDisplayInfo/DisplayName
 msgctxt "0x00028d3d"
 msgid "Poisoned"
-msgstr "중독됨"
+msgstr "중독"
 
 #. FILE = UI/Settings/UIStatusEffectTypeSettings
 #. PATH = UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[9]/UIStatusEffectDisplayInfo/DisplayName
 msgctxt "0x00028d3c"
 msgid "Weakened"
-msgstr "약화됨"
+msgstr "약화"
 
 #. FILE = UI/Settings/UIStatusEffectTypeSettings
 #. PATH = UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[10]/UIStatusEffectDisplayInfo/DisplayName
 msgctxt "0x00028d3e"
 msgid "Shocked"
-msgstr "감전됨"
+msgstr "감전"
 
 #. FILE = UI/Settings/UIStatusEffectTypeSettings
 #. PATH = UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[11]/UIStatusEffectDisplayInfo/DisplayName
 msgctxt "0x00028d3b"
 msgid "Asleep"
-msgstr "잠듦"
+msgstr "수면"
 
 #. FILE = UI/Settings/UIStatusEffectTypeSettings
 #. PATH = UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[12]/UIStatusEffectDisplayInfo/DisplayName
 msgctxt "0x000312b5"
 msgid "Slowed"
-msgstr "둔화됨"
+msgstr "둔화"
 
 #. FILE = UI/Settings/UIStatusEffectTypeSettings
 #. PATH = UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[13]/UIStatusEffectDisplayInfo/DisplayName
 msgctxt "0x0002ed1b"
 msgid "Stunned"
-msgstr "기절함"
+msgstr "기절"
 
 #. FILE = UI/Settings/UIStatusEffectTypeSettings
 #. PATH = UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[14]/UIStatusEffectDisplayInfo/DisplayName
 msgctxt "0x0002a290"
 msgid "Taunted"
-msgstr "도발당함"
+msgstr "도발"
 
 #. FILE = UI/Settings/UIStatusEffectTypeSettings
 #. PATH = UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[15]/UIStatusEffectDisplayInfo/DisplayName
@@ -33336,19 +33336,19 @@ msgstr "지배"
 #. PATH = UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[22]/UIStatusEffectDisplayInfo/DisplayName
 msgctxt "0x0004300c"
 msgid "WEAKENED"
-msgstr "약화됨"
+msgstr "약화"
 
 #. FILE = UI/Settings/UIStatusEffectTypeSettings
 #. PATH = UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[23]/UIStatusEffectDisplayInfo/DisplayName
 msgctxt "0x0004320f"
 msgid "BEES!"
-msgstr "벌떼다!"
+msgstr "벌떼!"
 
 #. FILE = UI/Settings/UIStatusEffectTypeSettings
 #. PATH = UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[24]/UIStatusEffectDisplayInfo/DisplayName
 msgctxt "0x00043af3"
 msgid "Blocked"
-msgstr "막힘"
+msgstr "방어"
 
 #. FILE = UI/Settings/UIStatusEffectTypeSettings
 #. PATH = UIStatusEffectTypeSettings/StatusEffectTypeDisplayInfos/member[25]/UIStatusEffectDisplayInfo/DisplayName
