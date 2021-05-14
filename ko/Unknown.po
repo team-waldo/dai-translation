@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-12 13:56+0000\n"
-"Last-Translator: GalbiNest <ltaejin96@gmail.com>\n"
+"PO-Revision-Date: 2021-05-14 09:56+0000\n"
+"Last-Translator: halfmango <simpleyeom@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/unknown/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -14927,7 +14927,7 @@ msgstr ""
 
 msgctxt "0x00042baa"
 msgid "(Stolen Correspondence)"
-msgstr ""
+msgstr "(훔친 편지)"
 
 msgctxt "0x00042bab"
 msgid "(Comprehensive Bribe)"
@@ -14935,7 +14935,7 @@ msgstr "(포괄적인 뇌물)"
 
 msgctxt "0x00042bac"
 msgid "Open Halla Door"
-msgstr ""
+msgstr "할라 문 열기"
 
 msgctxt "0x00042bad"
 msgid "(Collated Research)"
@@ -14947,7 +14947,7 @@ msgstr "(건축 허가서)"
 
 msgctxt "0x00042baf"
 msgid "(Legal Document)"
-msgstr ""
+msgstr "(법률 문서)"
 
 msgctxt "0x00042bb0"
 msgid "(Merchant Treaties)"
@@ -14967,7 +14967,7 @@ msgstr "의심스러운 정보 수집"
 
 msgctxt "0x00042bb4"
 msgid "(Love Letter)"
-msgstr ""
+msgstr "(연애 편지)"
 
 msgctxt "0x00042bb5"
 msgid "(Scrawled Password)"
@@ -15015,7 +15015,7 @@ msgstr "도륙자로 작전을 완료하십시오."
 
 msgctxt "0x00042bea"
 msgid "Generalist"
-msgstr ""
+msgstr "다재다능"
 
 msgctxt "0x00042beb"
 msgid "Complete {CUSTOM0} general challenges."
@@ -15031,7 +15031,7 @@ msgstr "전투 도전 {CUSTOM0}개를 완수하십시오."
 
 msgctxt "0x00042c62"
 msgid "Weapon Mastery"
-msgstr ""
+msgstr "무기 숙련"
 
 msgctxt "0x00042c63"
 msgid "Complete {CUSTOM0} weapon challenges."
@@ -15039,7 +15039,7 @@ msgstr "무기 도전 {CUSTOM0}개를 완수하십시오."
 
 msgctxt "0x00042c64"
 msgid "Elemental Mastery"
-msgstr ""
+msgstr "원소 숙련"
 
 msgctxt "0x00042c65"
 msgid "Complete {CUSTOM0} elemental challenges."
@@ -15047,7 +15047,7 @@ msgstr "원소 도전 {CUSTOM0}개를 완수하십시오."
 
 msgctxt "0x00042c66"
 msgid "Explorer"
-msgstr ""
+msgstr "탐험가"
 
 msgctxt "0x00042c67"
 msgid "Complete {CUSTOM0} exploration challenges."
@@ -15055,7 +15055,7 @@ msgstr "탐험 도전 {CUSTOM0}개를 완수하십시오."
 
 msgctxt "0x00042c68"
 msgid "Agent of the Inquisition"
-msgstr ""
+msgstr "심문회의 요원"
 
 msgctxt "0x00042c69"
 msgid "Complete {CUSTOM0} agent challenges."
@@ -15063,11 +15063,11 @@ msgstr "요원 도전 {CUSTOM0}개를 완수하십시오."
 
 msgctxt "0x00042c79"
 msgid "Magic Barrier"
-msgstr ""
+msgstr "마법 방어막"
 
 msgctxt "0x00042c88"
 msgid "Constitution Gained!"
-msgstr ""
+msgstr "건강 획득!"
 
 msgctxt "0x00042c89"
 msgid "Dexterity Gained!"
@@ -15201,15 +15201,15 @@ msgstr "불 지피기"
 
 msgctxt "0x00042caf"
 msgid "Chevalier"
-msgstr ""
+msgstr "슈발리에"
 
 msgctxt "0x00042cb0"
 msgid "Blood"
-msgstr ""
+msgstr "피"
 
 msgctxt "0x00042cb1"
 msgid "Vial"
-msgstr ""
+msgstr "유리병"
 
 msgctxt "0x00042cb2"
 msgid "Turn"
@@ -15221,19 +15221,19 @@ msgstr "부수기"
 
 msgctxt "0x00042cb4"
 msgid "Knight"
-msgstr ""
+msgstr "기사"
 
 msgctxt "0x00042cb6"
 msgid "Council of Heralds"
-msgstr ""
+msgstr "공의회"
 
 msgctxt "0x00042cb7"
 msgid "Search"
-msgstr ""
+msgstr "탐색"
 
 msgctxt "0x00042cb8"
 msgid "Equip"
-msgstr ""
+msgstr "장비하기"
 
 msgctxt "0x00042cb9"
 msgid "Pull"
@@ -15241,11 +15241,11 @@ msgstr "당기기"
 
 msgctxt "0x00042cba"
 msgid "Examine"
-msgstr ""
+msgstr "조사"
 
 msgctxt "0x00042cbb"
 msgid "Place"
-msgstr ""
+msgstr "놓기"
 
 msgctxt "0x00042ce7"
 msgid "Eye Distinction"
@@ -15256,10 +15256,12 @@ msgid ""
 "<font color=\"#BAAB7B\">Damage Bonus: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0}</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">추가 피해: </font><font color=\"#F5ECCE\""
+">{CUSTOM0}</font>\n"
 
 msgctxt "0x00042d04"
 msgid "Head Size"
-msgstr ""
+msgstr "머리 크기"
 
 msgctxt "0x00042d39"
 msgid "<font color=\"#BAAB7B\">This bonus does not stack.</font>\n"
@@ -15313,17 +15315,19 @@ msgstr ""
 
 msgctxt "0x00042d58"
 msgid "Precision Shooter"
-msgstr ""
+msgstr "정확한 사수"
 
 msgctxt "0x00042d5e"
 msgid ""
 "You do more damage after standing still to set up your shot.\n"
 "\n"
 msgstr ""
+"쏘기 위해 가만히 서 있으면 더 많은 피해를 줍니다.\n"
+"\n"
 
 msgctxt "0x00042d63"
 msgid "Persistent Nightmare"
-msgstr ""
+msgstr "계속되는 악몽"
 
 msgctxt "0x00042d64"
 msgid ""
@@ -15335,13 +15339,15 @@ msgstr ""
 
 msgctxt "0x00042d69"
 msgid "Staff Mastery"
-msgstr ""
+msgstr "지팡이 숙련"
 
 msgctxt "0x00042d6a"
 msgid ""
 "Your spells gain additional effects based on your staff's element.\n"
 "\n"
 msgstr ""
+"당신의 주문이 착용한 지팡이의 원소에 따른 추가 효과를 얻습니다.\n"
+"\n"
 
 msgctxt "0x00042d81"
 msgid "Place the Inquisition Banner"
@@ -15352,12 +15358,16 @@ msgid ""
 "When you die, your allies regain a large amount of health.\n"
 "\n"
 msgstr ""
+"당신이 사망할 때, 아군이 많은 양의 체력을 회복합니다.\n"
+"\n"
 
 msgctxt "0x00042da6"
 msgid ""
 "You do more physical damage relative to the target's missing health.\n"
 "\n"
 msgstr ""
+"목표가 잃은 체력에 비례해 더 많은 물리적 피해를 입힙니다.\n"
+"\n"
 
 msgctxt "0x00042dd5"
 msgid "Enemy"
@@ -15365,19 +15375,19 @@ msgstr "적"
 
 msgctxt "0x00042dd6"
 msgid "Elite"
-msgstr ""
+msgstr "정예"
 
 msgctxt "0x00042dd7"
 msgid "Boss"
-msgstr ""
+msgstr "우두머리"
 
 msgctxt "0x00042e06"
 msgid "Left Leg"
-msgstr ""
+msgstr "왼쪽 다리"
 
 msgctxt "0x00042e07"
 msgid "Right Leg"
-msgstr ""
+msgstr "오른쪽 다리"
 
 msgctxt "0x00042e66"
 msgid ""
@@ -15445,7 +15455,7 @@ msgstr ""
 
 msgctxt "0x00042e7b"
 msgid "Operation Available"
-msgstr ""
+msgstr "가능한 작전"
 
 msgctxt "0x00042e99"
 msgid "test"
@@ -15497,7 +15507,7 @@ msgstr "기록 보관 담당자"
 
 msgctxt "0x00043027"
 msgid "Temple Approach"
-msgstr ""
+msgstr "사원 입구"
 
 msgctxt "0x0004302e"
 msgid "Concerned Worker"
@@ -15513,15 +15523,15 @@ msgstr "걱정하는 귀부인"
 
 msgctxt "0x00043040"
 msgid "Barker"
-msgstr ""
+msgstr "호객꾼"
 
 msgctxt "0x00043042"
 msgid "Thief"
-msgstr ""
+msgstr "도둑"
 
 msgctxt "0x00043043"
 msgid "Victim"
-msgstr ""
+msgstr "피해자"
 
 msgctxt "0x00043081"
 msgid "Watch out!"
@@ -15541,7 +15551,7 @@ msgstr "조심해!"
 
 msgctxt "0x000430ad"
 msgid "Head Preset 6"
-msgstr ""
+msgstr "머리 사전설정 6"
 
 msgctxt "0x000430f7"
 msgid "Instantly restores <font color=\"#F5ECCE\">{CUSTOM0}</font> mana.\n"
@@ -15561,7 +15571,7 @@ msgstr "마나 회복량이 <font color=\"#F5ECCE\">{CUSTOM0}</font>만큼 증�
 
 msgctxt "0x000430ff"
 msgid "Lord Hugo"
-msgstr ""
+msgstr "휴고 경"
 
 msgctxt "0x00043105"
 msgid ""
@@ -15599,7 +15609,7 @@ msgctxt "0x0004310c"
 msgid ""
 "Gold earned during operations can be used to purchase additional treasure "
 "chests in the store."
-msgstr ""
+msgstr "작전 중 얻은 금화는 상점에서 추가 보물 상자를 사기 위해 사용할 수 있습니다."
 
 msgctxt "0x0004310d"
 msgid ""
@@ -15657,7 +15667,7 @@ msgstr "최대 레벨에 도달한 전사를 승급하면 캐릭터의 레벨이
 msgctxt "0x00043117"
 msgid ""
 "If you quit an operation early, you forfeit any XP you would have earned."
-msgstr ""
+msgstr "작전을 일찍 종료하면, 획득할 수 있는 모든 경험치를 상실합니다."
 
 msgctxt "0x00043118"
 msgid ""
@@ -15726,7 +15736,7 @@ msgstr "유린자"
 
 msgctxt "0x0004315d"
 msgid "Annihilation"
-msgstr ""
+msgstr "섬멸"
 
 msgctxt "0x0004315e"
 msgid "Bonecrusher"
@@ -15734,19 +15744,19 @@ msgstr "해골분쇄자"
 
 msgctxt "0x0004315f"
 msgid "Bloodletter"
-msgstr ""
+msgstr "사혈기"
 
 msgctxt "0x00043160"
 msgid "Ambush"
-msgstr ""
+msgstr "매복"
 
 msgctxt "0x00043161"
 msgid "Rupture"
-msgstr ""
+msgstr "파열"
 
 msgctxt "0x00043162"
 msgid "Murder"
-msgstr ""
+msgstr "살인"
 
 msgctxt "0x00043164"
 msgid "Warrior detonator ability: use on incapacitated foes for a combo"
@@ -16087,19 +16097,19 @@ msgstr "아이템 이름 짓기"
 
 msgctxt "0x00043612"
 msgid "Superb Ring of Rejuvenation"
-msgstr ""
+msgstr "고급 회복의 반지"
 
 msgctxt "0x0004361b"
 msgid "Ring of Rejuvenation"
-msgstr ""
+msgstr "회복의 반지"
 
 msgctxt "0x0004361e"
 msgid "Enhanced Ring of Rejuvenation"
-msgstr ""
+msgstr "상급 회복의 반지"
 
 msgctxt "0x00043654"
 msgid "Enhanced Belt of Freezing"
-msgstr ""
+msgstr "상급 빙결의 허리띠"
 
 msgctxt "0x00043656"
 msgid "Superb Belt of Panic"
@@ -16107,7 +16117,7 @@ msgstr "고급 공황의 허리띠"
 
 msgctxt "0x00043659"
 msgid "Enhanced Belt of Shocking"
-msgstr ""
+msgstr "상급 감전의 허리띠"
 
 msgctxt "0x0004365b"
 msgid "Enhanced Belt of Burning"
@@ -16119,7 +16129,7 @@ msgstr "서리의 허리띠"
 
 msgctxt "0x0004365e"
 msgid "Superb Belt of Freezing"
-msgstr ""
+msgstr "고급 빙결의 허리띠"
 
 msgctxt "0x00043662"
 msgid "Belt of Panic"
@@ -16131,7 +16141,7 @@ msgstr "우수한 서리의 허리띠"
 
 msgctxt "0x0004366d"
 msgid "Belt of Shocking"
-msgstr ""
+msgstr "감전의 허리띠"
 
 msgctxt "0x0004366f"
 msgid "Superb Belt of Burning"
