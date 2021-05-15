@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-12 13:56+0000\n"
+"PO-Revision-Date: 2021-05-15 09:53+0000\n"
 "Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
@@ -1200,7 +1200,7 @@ msgstr "해당 캐릭터에게 가해지는 적의 공격이 적에게 출혈 �
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x00018207"
 msgid "Stagger on Being Hit"
-msgstr "피격 시 경직"
+msgstr "피격 시 경직 유발"
 
 #. FILE = DA3/Combat/Stats/Stat_OnBeingHit_StunChance
 #. PATH = BWModifiableStat/StatDescription
@@ -3073,7 +3073,7 @@ msgid ""
 "staggered when hit from the front.\n"
 "\n"
 msgstr ""
-"배후 공격에 대해 면역을 얻고 정면에서 공격당할 시 경직 확률이 줄어듭니다.\n"
+"측면 공격에 대해 면역을 얻고 정면에서 공격당할 시 경직 확률이 줄어듭니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/Mage/NaturesShield/MP_mage_passive_naturesshield_abilitydata
