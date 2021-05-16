@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-09 03:55+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2021-05-16 11:11+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -347,7 +347,7 @@ msgid ""
 "Approach."
 msgstr ""
 "프레데릭은 고대 테빈터 문헌의 내용을 참조하면 용을 유인할 수 있는 완벽한 미끼를 만들어 낼 수 있다고 생각한다. 이러한 문헌들은 서부 "
-"접근지역 어딘가에 있는 고대 실험실에서 찾아낼 수 있다고 한다."
+"접경지 어딘가에 있는 고대 실험실에서 찾아낼 수 있다고 한다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_researcher_manuscript
 #. PATH = JournalEntry/TextEntry[1]
@@ -554,7 +554,7 @@ msgstr "승임의 평야에서 보호패를 찾자."
 #. PATH = JournalEntry/TaskEntry[3]
 msgctxt "0x00041f88"
 msgid "Find a phylactery in the Western Approach."
-msgstr "서부 접근지역에서 보호패를 찾자."
+msgstr "서부 접경지에서 보호패를 찾자."
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/viv_approvalgrind_journal
 #. PATH = JournalEntry/TaskEntry[4]
@@ -572,7 +572,7 @@ msgstr "승임의 평야에서 협회 서적을 찾자."
 #. PATH = JournalEntry/TaskEntry[6]
 msgctxt "0x00041f86"
 msgid "Find a Circle tome in the Western Approach."
-msgstr "서부 접근지역에서 협회 서적을 찾자."
+msgstr "서부 접경지에서 협회 서적을 찾자."
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/viv_approvalgrind_journal
 #. PATH = JournalEntry/TaskEntry[7]
@@ -2598,19 +2598,19 @@ msgstr "{string}205752{/string}"
 #. PATH = JournalEntry/TaskEntry[4]
 msgctxt "0x0001d024"
 msgid "Meet Hawke and Alistair in the Western Approach."
-msgstr "서부 접근지역에서 호크와 알리스터를 만나자."
+msgstr "서부 접경지에서 호크와 알리스터를 만나자."
 
 #. EBX = DA3/designcontent/Journals/Adamant/ada_adamant_main_journal
 #. PATH = JournalEntry/TaskEntry[5]
 msgctxt "0x0001d026"
 msgid "Meet Hawke and Loghain in the Western Approach."
-msgstr "서부 접근지역에서 호크와 로게인을 만나자."
+msgstr "서부 접경지에서 호크와 로게인을 만나자."
 
 #. EBX = DA3/designcontent/Journals/Adamant/ada_adamant_main_journal
 #. PATH = JournalEntry/TaskEntry[6]
 msgctxt "0x0001d025"
 msgid "Meet Hawke and Stroud in the Western Approach."
-msgstr "서부 접근지역에서 호크와 스트라우드를 만나자."
+msgstr "서부 접경지에서 호크와 스트라우드를 만나자."
 
 #. EBX = DA3/designcontent/Journals/Adamant/ada_adamant_main_journal
 #. PATH = JournalEntry/TaskEntry[7]
@@ -2622,25 +2622,25 @@ msgstr "감시탑에서 감시자들과 대면하자."
 #. PATH = JournalEntry/TaskEntry[8]
 msgctxt "0x00040381"
 msgid "Meet Hawke and Alistair in the Western Approach."
-msgstr "서부 접근지역에서 호크와 알리스터를 만나자."
+msgstr "서부 접경지에서 호크와 알리스터를 만나자."
 
 #. EBX = DA3/designcontent/Journals/Adamant/ada_adamant_main_journal
 #. PATH = JournalEntry/TaskEntry[9]
 msgctxt "0x00040383"
 msgid "Meet Hawke and Loghain in the Western Approach."
-msgstr "서부 접근지역에서 호크와 로게인을 만나자."
+msgstr "서부 접경지에서 호크와 로게인을 만나자."
 
 #. EBX = DA3/designcontent/Journals/Adamant/ada_adamant_main_journal
 #. PATH = JournalEntry/TaskEntry[10]
 msgctxt "0x00040382"
 msgid "Meet Hawke and Stroud in the Western Approach."
-msgstr "서부 접근지역에서 호크와 스트라우드를 만나자."
+msgstr "서부 접경지에서 호크와 스트라우드를 만나자."
 
 #. EBX = DA3/designcontent/Journals/Adamant/ada_adamant_main_journal
 #. PATH = JournalEntry/TaskEntry[11]
 msgctxt "0x000408af"
 msgid "Return to Skyhold and scout the Western Approach"
-msgstr "하늘보루로 돌아가 서부 접근지역 정찰하기"
+msgstr "하늘보루로 돌아가 서부 접경지 정찰하기"
 
 #. EBX = DA3/designcontent/Journals/Adamant/ada_adamant_main_journal
 #. PATH = JournalEntry/TaskEntry[12]
@@ -2660,7 +2660,7 @@ msgstr "하늘보루의 작전실에서 고문들과 이야기하자."
 #. PATH = JournalEntry/TaskEntry[14]
 msgctxt "0x0002e6d1"
 msgid "Power required"
-msgstr "필요 영향력"
+msgstr "필요 행동력"
 
 #. EBX = DA3/designcontent/Journals/Adamant/ada_adamant_main_journal
 #. PATH = JournalEntry/TaskEntry[15]
@@ -2998,7 +2998,7 @@ msgstr "심문회 작전실로 향하자."
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x00025062"
 msgid "Power required"
-msgstr "필요 영향력"
+msgstr "필요 행동력"
 
 #. EBX = DA3/designcontent/Journals/SeekerFortress/see_main_journal
 #. PATH = JournalEntry/TaskEntry[2]
@@ -4237,7 +4237,7 @@ msgstr "발견한 편린"
 #.     0x0001faaa(129706) : Lazurite
 msgctxt "0x00044018"
 msgid "{string}129706{/string} Survey in the Approach"
-msgstr "서부 접근지역: {string}129706{/string} 조사"
+msgstr "서부 접경지: {string}129706{/string} 조사"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_westernapproach_geosurvey01
 #. PATH = JournalEntry/TextEntry[0]
@@ -5231,7 +5231,7 @@ msgstr "룬 암호를 해독할 방법을 찾자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0004401f"
 msgid "Luster Survey in the Approach"
-msgstr "서부 접근지역: 영광석 표본 조사"
+msgstr "서부 접경지: 영광석 표본 조사"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_westernapproach_geosurvey02
 #. PATH = JournalEntry/TextEntry[0]
@@ -5239,7 +5239,7 @@ msgctxt "0x0004401d"
 msgid ""
 "The University of Orlais has requested lazurite and Paragon's Luster samples "
 "for a geological survey of the Western Approach."
-msgstr "올레이 대학에서 서부 접근지역의 지질 조사를 위해 청금석과 파라곤의 영광석 표본을 요청했다."
+msgstr "올레이 대학에서 서부 접경지의 지질 조사를 위해 청금석과 파라곤의 영광석 표본을 요청했다."
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_westernapproach_geosurvey02
 #. PATH = JournalEntry/TaskEntry[0]
@@ -6541,7 +6541,7 @@ msgctxt "0x00042280"
 msgid ""
 "Pieces of an old Tevinter mosaic are scattered across the Western Approach. "
 "If recovered, they could be reassembled."
-msgstr "고대 테빈터 모자이크 조각이 서부 접근지역에 흩어져 있다. 조각들을 회수하면 다시 조립할 수 있을 것이다."
+msgstr "고대 테빈터 모자이크 조각이 서부 접경지에 흩어져 있다. 조각들을 회수하면 다시 조립할 수 있을 것이다."
 
 #. EBX = DA3/designcontent/Journals/Skyhold/sky_mosaic_4
 #. PATH = JournalEntry/TaskEntry[0]
@@ -6780,8 +6780,7 @@ msgid ""
 "A group of Venatori are raiding the Still Ruins under the Western Approach. "
 "Whatever lies inside was important enough to protect with a barrier."
 msgstr ""
-"베나토리 한 무리가 서부 접근지역의 고요한 폐허를 약탈하고 있다. 그 안에 묻힌 것이 무엇이든 방어막으로 보호될 만큼 중요한 것으로 "
-"보인다."
+"베나토리 한 무리가 서부 접경지의 고요한 폐허를 약탈하고 있다. 그 안에 묻힌 것이 무엇이든 방어막으로 보호될 만큼 중요한 것으로 보인다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/D110/D110_TevinterLabs
 #. PATH = JournalEntry/TaskEntry[0]
@@ -7217,7 +7216,7 @@ msgctxt "0x0002e49a"
 msgid ""
 "Bandits have occupied an old Warden fortress in the Western Approach and are "
 "raiding caravans that Griffon Wing depends upon for supplies."
-msgstr "도적떼가 서부 접근지역의 낡은 감시자 요새를 점거하고 그리폰 날개 성채에 물자를 공급하는 상인들을 약탈하고 있다."
+msgstr "도적떼가 서부 접경지의 낡은 감시자 요새를 점거하고 그리폰 날개 성채에 물자를 공급하는 상인들을 약탈하고 있다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_raiders
 #. PATH = JournalEntry/TaskEntry[0]
@@ -8017,13 +8016,13 @@ msgctxt "0x00042dc9"
 msgid ""
 "An unusually high number of travelers have been reported moving into the "
 "Western Approach, a blighted region in western Orlais all but devoid of life."
-msgstr "올레이 서부, 대재앙으로 황무지가 된 지방인 서부 접근지역에 비정상적으로 많은 사람이 드나드는 것이 보고되었다."
+msgstr "올레이 서부, 대재앙으로 황무지가 된 지방인 서부 접경지에 비정상적으로 많은 사람이 드나드는 것이 보고되었다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_unlock
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x00042dc7"
 msgid "Go to the war table to investigate the Western Approach."
-msgstr "작전 지도에서 서부 접근지역을 조사하자."
+msgstr "작전 지도에서 서부 접경지를 조사하자."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_unlock
 #. PATH = JournalEntry/TaskEntry[1]
@@ -8172,7 +8171,7 @@ msgstr "농부의 귀중품을 찾자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00044007"
 msgid "Code Requisition in the Approach"
-msgstr "서부 접근지역: 암호 조사"
+msgstr "서부 접경지: 암호 조사"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_westernapproach_venatorimessage
 #. PATH = JournalEntry/TextEntry[0]
@@ -8348,7 +8347,7 @@ msgstr "진입로 지역 탐방"
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x00038122"
 msgid "Explore all corners of the Western Approach."
-msgstr "서부 접근지역의 모든 지역을 탐사하자."
+msgstr "서부 접경지의 모든 지역을 탐사하자."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_regions
 #. PATH = JournalEntry/TaskEntry[0]
@@ -8822,7 +8821,7 @@ msgid ""
 "outpost on the treacherous trip to Adamant. It would be of great benefit to "
 "the Inquisition to capture it and drive the Venatori from the area."
 msgstr ""
-"베나토리가 서부 접근지역에 있는 고립된 성채를 점령했다. 아다만트 요새로 향하는 험로의 요충지인 이 성채를 점령하고 베나토리를 몰아낸다면 "
+"베나토리가 서부 접경지에 있는 고립된 성채를 점령했다. 아다만트 요새로 향하는 험로의 요충지인 이 성채를 점령하고 베나토리를 몰아낸다면 "
 "심문회에 큰 도움이 될 것이다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_main_keep
@@ -8932,7 +8931,7 @@ msgstr "작전실에서 고문들과 이야기하자."
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x00032c82"
 msgid "Power required"
-msgstr "필요 영향력"
+msgstr "필요 행동력"
 
 #. EBX = DA3/designcontent/Journals/TempleOfMythal/myt_main_journal
 #. PATH = JournalEntry/TaskEntry[2]
@@ -9723,7 +9722,7 @@ msgstr "이상한 마법사를 도와 균열을 닫자."
 #. PATH = JournalEntry/TaskEntry[7]
 msgctxt "0x00032bda"
 msgid "Power required"
-msgstr "필요 영향력"
+msgstr "필요 행동력"
 
 #. EBX = DA3/DesignContent/Journals/Redcliffe/red_main_journal
 #. PATH = JournalEntry/TaskEntry[8]
@@ -10740,7 +10739,7 @@ msgid ""
 "The Venatori seem to be busy in the Western Approach. A report from someone "
 "named Servis mentioned activity in a mine somewhere in the canyons."
 msgstr ""
-"서부 접근지역의 베나토리가 분주하게 움직이고 있다. 세르비스라는 자가 보낸 보고서에는 그들이 협곡 어딘가의 광산에서 활동하고 있다 "
+"서부 접경지의 베나토리가 분주하게 움직이고 있다. 세르비스라는 자가 보낸 보고서에는 그들이 협곡 어딘가의 광산에서 활동하고 있다 "
 "언급되었다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_templar_cave
@@ -12368,7 +12367,7 @@ msgstr "챈트리에 역사서를 판매하자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00044014"
 msgid "Fauna Requisition in the Approach"
-msgstr "서부 접근지역: 지역 동물 조사"
+msgstr "서부 접경지: 지역 동물 조사"
 
 #. EBX = DA3/DesignContent/Journals/Global/Inquisition/scout_westernapproach_animalstudy
 #. PATH = JournalEntry/TextEntry[0]
@@ -13459,7 +13458,7 @@ msgstr "사자의 용맹에 있는 정직한 자 고르돈을 쓰러트리자."
 #. PATH = JournalEntry/TaskEntry[5]
 msgctxt "0x0003588e"
 msgid "Take down Leo of Lucien Bay in the Western Approach."
-msgstr "서부 접근지역에 있는 루시엔 만의 레오를 쓰러트리자."
+msgstr "서부 접경지에 있는 루시엔 만의 레오를 쓰러트리자."
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_hld_wild_towers
 #. PATH = JournalEntry/TitleReference
@@ -14602,7 +14601,7 @@ msgid ""
 "Frederic has determined the hunting patterns of the Abyssal High Dragon that "
 "reigns over the skies of the Western Approach and marked appropriate spots "
 "to place dragon lures."
-msgstr "프레데릭이 서부 접근지역 상공에 군림하는 심연의 고룡의 사냥 습성을 파악해, 미끼를 배치하기에 적절한 지점을 표시해 주었다."
+msgstr "프레데릭이 서부 접경지 상공에 군림하는 심연의 고룡의 사냥 습성을 파악해, 미끼를 배치하기에 적절한 지점을 표시해 주었다."
 
 #. EBX = DA3/DesignContent/Journals/TheWesternApproach/wes_main/wes_researcher_high_dragon
 #. PATH = JournalEntry/TaskEntry[0]
@@ -14859,7 +14858,7 @@ msgstr "양초, 시집 그리고 꽃을 가지고 카산드라에게 구애하�
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0002cba0"
 msgid "Holding the Western Approach"
-msgstr "서부 접근지역 사수"
+msgstr "서부 접경지 사수"
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_main_camps
 #. PATH = JournalEntry/TextEntry[0]
@@ -14867,7 +14866,7 @@ msgctxt "0x0002cba2"
 msgid ""
 "Establish camps to hold the Western Approach and support Inquisition "
 "activity in the region."
-msgstr "서부 접근지역에 야영지를 설치하고 지역 내 심문회 활동을 지원하자."
+msgstr "서부 접경지에 야영지를 설치하고 지역 내 심문회 활동을 지원하자."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_main_camps
 #. PATH = JournalEntry/TaskEntry[0]
@@ -14916,7 +14915,7 @@ msgstr "발견한 내륙지역 유믈"
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x000439ac"
 msgid "Western Approach artifacts found"
-msgstr "발견한 서부 접근지역 유물"
+msgstr "발견한 서부 접경지 유물"
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/Blackwall/blk_approvalgrind_journal
 #. PATH = JournalEntry/TaskEntry[3]
@@ -15298,7 +15297,7 @@ msgstr "암흑피조물과의 분쟁"
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x0002e495"
 msgid "There is increased darkspawn activity in the Western Approach."
-msgstr "서부 접근지역에서 암흑피조물의 활동이 증가했다."
+msgstr "서부 접경지에서 암흑피조물의 활동이 증가했다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TextEntry[1]
@@ -15390,7 +15389,7 @@ msgstr "발굴한 사람들을 찾아내자."
 #. PATH = JournalEntry/TaskEntry[7]
 msgctxt "0x0003f7b5"
 msgid "Track down Servis in the Western Approach."
-msgstr "서부 접근지역에서 세르비스를 찾아내라."
+msgstr "서부 접경지에서 세르비스를 찾아내라."
 
 #. EBX = DA3/designcontent/Journals/Global/Collections/wld_collection_bottles
 #. PATH = JournalEntry/TitleReference

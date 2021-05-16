@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-15 17:41+0000\n"
+"PO-Revision-Date: 2021-05-16 11:12+0000\n"
 "Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
 "Language: ko\n"
@@ -2506,7 +2506,7 @@ msgstr "아다만트 요새"
 #. PATH = GetLocalizedStringIDData/Text
 msgctxt "0x000207e8"
 msgid "Exit to the Western Approach"
-msgstr "서부 접근지역으로 나가기"
+msgstr "서부 접경지로 나가기"
 
 #. FILE = DA3/Layouts/TheWesternApproach/dgn_l_110/DSG_Regions_Schematic
 #. PATH = GetLocalizedStringIDData[1]/Text
@@ -2554,13 +2554,13 @@ msgstr "지팡이 가져가기"
 #. PATH = GetLocalizedStringIDData[1]/Text
 msgctxt "0x00036e3e"
 msgid "The Western Approach - North Exit"
-msgstr "서부 접근지역 - 북쪽 출구"
+msgstr "서부 접경지 - 북쪽 출구"
 
 #. FILE = DA3/Layouts/TheWesternApproach/dgn_l_120/DSG_Global_Schematic
 #. PATH = GetLocalizedStringIDData[2]/Text
 msgctxt "0x00036e3f"
 msgid "The Western Approach - South Exit"
-msgstr "서부 접근지역 - 남쪽 출구"
+msgstr "서부 접경지 - 남쪽 출구"
 
 #. FILE = DA3/Layouts/ThematicLevels/the_Bog_530/DSG_Castle_Encounters
 #. PATH = AppearanceOverrideSpawnData[3]/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
@@ -2881,7 +2881,7 @@ msgstr "배교자의 상륙지"
 #. PATH = GetLocalizedStringIDData[9]/Text
 msgctxt "0x00039653"
 msgid "Great Cove"
-msgstr "위대한 만"
+msgstr "광대한 만"
 
 #. FILE = DA3/Layouts/ThematicLevels/the_StormCoast_540/DSG_Regions_Schematic
 #. PATH = GetLocalizedStringIDData[10]/Text
@@ -7121,7 +7121,7 @@ msgstr "고요한 폐허"
 #. PATH = BWMapPinLocation[6]/TitleReference
 msgctxt "0x0001e508"
 msgid "The Western Approach"
-msgstr "서부 접근지역"
+msgstr "서부 접경지"
 
 #. FILE = da3/Layouts/TheWesternApproach/dgn_l_120/DSG_Codex_Schematic
 #. PATH = GetLocalizedStringIDData[1]/Text
@@ -8382,7 +8382,7 @@ msgstr "내륙지역"
 #. PATH = BWMapPinArea[2]/TitleReference
 msgctxt "0x00029f03"
 msgid "The Western Approach"
-msgstr "서부 접근지역"
+msgstr "서부 접경지"
 
 #. FILE = da3/Layouts/WorldMap/gen_da3_world_map/map/gen_da3_world_map_floor0
 #. PATH = BWMapPinLocation[4]/TitleReference

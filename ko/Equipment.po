@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-15 09:53+0000\n"
+"PO-Revision-Date: 2021-05-16 11:12+0000\n"
 "Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
@@ -9163,9 +9163,8 @@ msgid ""
 "asking for the Inquisition's help in collecting samples of local wildlife. "
 "{string}277940{/string}"
 msgstr ""
-"서부 접근지역은 대재앙의 역병이 돌아 어떤 생명체도 번성할 수 없어야 마땅하지만, 그럼에도 자리 잡고 살아가는 동물들이 있다. 어느 "
-"저명한 학자가 그 이유를 알아내기 위해 지역의 야생동물 표본을 모으는 것을 도와 달라고 부탁했다. "
-"{string}277940{/string}"
+"서부 접경지는 대재앙의 역병이 돌아 어떤 생명체도 번성할 수 없어야 마땅하지만, 그럼에도 자리 잡고 살아가는 동물들이 있다. 어느 저명한 "
+"학자가 그 이유를 알아내기 위해 지역의 야생동물 표본을 모으는 것을 도와 달라고 부탁했다. {string}277940{/string}"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_Western_Approach_venatori_intel
 #. PATH = Recipe/DisplayName
@@ -12067,7 +12066,7 @@ msgstr ""
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0003b63f"
 msgid "Western Approach Geological Survey"
-msgstr "서부 접근지역 지질 조사"
+msgstr "서부 접경지 지질 조사"
 
 #. FILE = DA3/Equipment/Crafting/equip_template_Western_Approach_Geo_Survey_01
 #. PATH = EquipItemAsset/Description
@@ -12077,8 +12076,7 @@ msgctxt "0x0003fb85"
 msgid ""
 "Several dwarven academics at the University of Orlais have requested samples "
 "of ore from the Western Approach. {string}277940{/string}"
-msgstr ""
-"올레이 대학의 드워프 연구자 몇몇이 서부 접근지역의 광물 표본을 구해 달라고 요청했다. {string}277940{/string}"
+msgstr "올레이 대학의 드워프 연구자 몇몇이 서부 접경지의 광물 표본을 구해 달라고 요청했다. {string}277940{/string}"
 
 #. FILE = DA3/Equipment/Crafting/recipe_Western_Approach_GeoSurvey_02
 #. PATH = RecipeSlot[2]/SlotName
@@ -22811,7 +22809,7 @@ msgstr "페렐던 마을 3 (모든 직업, 모든 무기, 레벨 12-15)"
 msgctxt "0x000350fd"
 msgid ""
 "Western Approach Keep (rogue, level 12-15: weapons, armors, and accessories)"
-msgstr "서부 접근지역 요새 (도적, 레벨 12-15: 무기, 방어구, 장신구)"
+msgstr "서부 접경지 요새 (도적, 레벨 12-15: 무기, 방어구, 장신구)"
 
 #. FILE = DA3/Equipment/UpgradeItemTypes/upgrade_type_1h_handle
 #. PATH = UpgradeItemType/DisplayName
