@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-15 17:41+0000\n"
+"PO-Revision-Date: 2021-05-17 16:56+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -1069,20 +1069,20 @@ msgstr "전격 마법부여: 매 무기 공격이 전격 피해를 줍니다"
 msgctxt "0x0004acc7"
 msgid ""
 "Enhanced basic attacks: the end of the attack chain now briefly stuns enemies"
-msgstr "증진된 기본 공격: 연속 공격의 마지막 타격이 적을 짧게 기절시킵니다"
+msgstr "강화된 기본 공격: 연속 공격의 마지막 타격이 적을 짧게 기절시킵니다"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_enhanced2haxe_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004acfc"
 msgid "Enhanced basic attacks: you now whirlwind, all the time."
-msgstr "증진된 기본 공격: 이제 항상 소용돌이를 시전합니다."
+msgstr "강화된 기본 공격: 이제 항상 소용돌이를 시전합니다."
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_enhanced2hmaul_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004acc6"
 msgid ""
 "Enhanced basic attacks: the end of the attack chain now knocks down enemies"
-msgstr "증진된 기본 공격: 연속 공격의 마지막 타격이 적을 쓰러뜨립니다"
+msgstr "강화된 기본 공격: 연속 공격의 마지막 타격이 적을 쓰러뜨립니다"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_enhanceddagger_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -1090,7 +1090,7 @@ msgctxt "0x0004acc8"
 msgid ""
 "Enhanced basic attacks: the end of the attack chain now hits all enemies in "
 "the area"
-msgstr "증진된 기본 공격: 연속 공격의 마지막 타격이 범위 내 모든 적에게 적중합니다"
+msgstr "강화된 기본 공격: 연속 공격의 마지막 타격이 범위 내 모든 적에게 적중합니다"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_enhancedstaff_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -1098,7 +1098,7 @@ msgctxt "0x0004acf4"
 msgid ""
 "Enhanced basic attacks: the end of the attack chain now drops 3 electricity "
 "glyphs around you"
-msgstr "증진된 기본 공격: 연속 공격의 마지막 타격이 주변에 전격 마법진 3개를 남깁니다"
+msgstr "강화된 기본 공격: 연속 공격의 마지막 타격이 주변에 전격 마법진 3개를 남깁니다"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_evasion_t1_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -2016,7 +2016,7 @@ msgctxt "0x0004acbd"
 msgid ""
 "Enhanced Shield Wall: every fifth block with Shield Wall deals massive "
 "damage to enemies in the area"
-msgstr "증진된 방패의 벽: 방패의 벽으로 공격을 5회 방어할 때마다 주변의 적에게 막대한 피해를 입힘"
+msgstr "강화된 방패의 벽: 방패의 벽으로 공격을 5회 방어할 때마다 주변의 적에게 막대한 피해를 입힘"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_singing_defense_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -2117,7 +2117,7 @@ msgctxt "0x0004acf7"
 msgid ""
 "Enhanced basic attack: your first attack now leaps toward your target if you "
 "are between 6 and 12 meters away"
-msgstr "증진된 기본 공격: 6미터 이상, 12미터 이하의 거리에 있는 적을 처음으로 공격하면 대상에게 도약함"
+msgstr "강화된 기본 공격: 6미터 이상, 12미터 이하의 거리에 있는 적을 처음으로 공격하면 대상에게 도약함"
 
 #. FILE = DA3/Party/General/Potions/ColdResistance/party_general_potion_coldresistance_abilitydata
 #. PATH = BWActivatedAbility/AbilityNameReference
@@ -9558,7 +9558,7 @@ msgid ""
 "succession costs additional mana.\n"
 "\n"
 msgstr ""
-"화형의 재사용 대기시간이 없어집니다. 대신 연속적으로 사용할 시 점점 더 많은 마나가 들어갑니다.\n"
+"발화의 재사용 대기시간이 없어지지만, 연속으로 사용하면 마나 소모량이 증가합니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Staff/BurstFire/party_mage_staff_burst_fire_upgrade_abilitydata
