@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-16 11:11+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2021-05-19 12:56+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -5362,7 +5362,7 @@ msgstr "작전 지도로 돌아가자."
 #. PATH = JournalEntry/TaskEntry[3]
 msgctxt "0x00041d7a"
 msgid "Give the amulet to Dorian."
-msgstr "도리안에게 부적을 전달하자."
+msgstr "도리안에게 목걸이를 전달하자."
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/dorian/dor_romance_journal
 #. PATH = JournalEntry/TaskEntry[4]
@@ -5392,7 +5392,7 @@ msgstr "하늘보루로 가서 판매 상품을 확인하자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00040bba"
 msgid "Way of the Reaver"
-msgstr "도륙자의 길"
+msgstr "혈전사의 길"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/gen_spec_reaver_journal
 #. PATH = JournalEntry/TextEntry[0]
@@ -5409,7 +5409,7 @@ msgid ""
 "While a warrior can only truly specialize in one style, studying others can "
 "still be of considerable benefit."
 msgstr ""
-"재료를 모아 용의 피를 주입하고, 제대로 준비하는 법을 배우자. 파괴자 스렘이 악랄한 도륙자 특화의 비밀을 전수해 줄 것이다. "
+"재료를 모아 용의 피를 주입하고, 제대로 준비하는 법을 배우자. 파괴자 스렘이 악랄한 혈전사 특화의 비밀을 전수해 줄 것이다. "
 "{string}280949{/string} {string}281404{/string} \n"
 "\n"
 "전사는 한 가지 특화만 선택할 수 있지만, 다른 특화를 공부하는 것도 큰 도움이 될 것이다."
@@ -5446,7 +5446,7 @@ msgstr "주입 촉발제"
 #.     0x00043ae9(277225) : {string}275410{/string}
 msgctxt "0x000433d2"
 msgid "Acquire writing on Reaver methods."
-msgstr "도륙자 교본을 찾자."
+msgstr "혈전사 교본을 찾자."
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/gen_spec_reaver_journal
 #. PATH = JournalEntry/TaskEntry[4]
@@ -12463,7 +12463,7 @@ msgstr "조사 표본을 모으자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0003fda3"
 msgid "Keeping the Darkspawn Down"
-msgstr "암흑피조물 구제작업"
+msgstr "어둠의 피조물 구제작업"
 
 #. EBX = DA3/DesignContent/Journals/ThematicLevels/StormCoast/storm_dsp_main
 #. PATH = JournalEntry/TextEntry[0]
@@ -12474,8 +12474,8 @@ msgid ""
 "tunnels. If these tunnels are sealed, it should keep the darkspawn "
 "underground where they belong."
 msgstr ""
-"많은 수의 암흑피조물이 폭풍 해안의 지상으로 올라오고 있다. 이들을 처치하는 것은 심문회의 몫이다. 이들은 굴을 통해 지상으로 올라오고 "
-"있다. 땅굴을 봉인하면, 놈들이 지상으로 올라오는 것을 막을 수 있을 것이다."
+"많은 수의 어둠의 피조물이 폭풍 해안의 지상으로 올라오고 있다. 이들을 처치하는 것은 심문회의 몫이다. 이들은 굴을 통해 지상으로 "
+"올라오고 있다. 땅굴을 봉인하면, 놈들이 지상으로 올라오는 것을 막을 수 있을 것이다."
 
 #. EBX = DA3/DesignContent/Journals/ThematicLevels/StormCoast/storm_dsp_main
 #. PATH = JournalEntry/TaskEntry[0]
@@ -15291,13 +15291,13 @@ msgstr "신호 나팔을 불어라."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0002e497"
 msgid "The Trouble with Darkspawn"
-msgstr "암흑피조물과의 분쟁"
+msgstr "어둠의 피조물과의 분쟁"
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x0002e495"
 msgid "There is increased darkspawn activity in the Western Approach."
-msgstr "서부 접경지에서 암흑피조물의 활동이 증가했다."
+msgstr "서부 접경지에서 어둠의 피조물의 활동이 증가했다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TextEntry[1]
@@ -15305,7 +15305,7 @@ msgctxt "0x00038313"
 msgid ""
 "A range of sulphur pits prevents further investigation of the darkspawn "
 "presence. Return to Skyhold to arrange a way across."
-msgstr "유황 구덩이 때문에 암흑피조물의 행방을 조사할 수 없다. 하늘보루로 돌아가 이곳을 건널 방법을 찾자."
+msgstr "유황 구덩이 때문에 어둠의 피조물의 행방을 조사할 수 없다. 하늘보루로 돌아가 이곳을 건널 방법을 찾자."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TextEntry[2]
@@ -15314,13 +15314,13 @@ msgid ""
 "Inquisition soldiers have completed a bridge across the sulphur pits. "
 "Darkspawn appear to be concentrated in a Tevinter ruin on the other side."
 msgstr ""
-"심문단 병사들이 유황 구덩이를 가로지르는 다리를 완성했다. 암흑피조물은 반대편에 있는 테빈터 폐허에 주둔하고 있는 것으로 보인다."
+"심문단 병사들이 유황 구덩이를 가로지르는 다리를 완성했다. 어둠의 피조물은 반대편에 있는 테빈터 폐허에 주둔하고 있는 것으로 보인다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TextEntry[3]
 msgctxt "0x0003f6fb"
 msgid "The darkspawn are emerging through a hole dug into the structure."
-msgstr "구조물에 파인 구멍을 통해 암흑피조물이 나타나고 있다."
+msgstr "구조물에 파인 구멍을 통해 어둠의 피조물이 나타나고 있다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TextEntry[4]
@@ -15328,7 +15328,7 @@ msgctxt "0x0003f7b7"
 msgid ""
 "The hole appears to have been created from the outside. This was not the "
 "work of darkspawn."
-msgstr "이 구멍은 외부에서 만들어진 것으로 보인다. 이것은 암흑피조물이 한 짓이 아니다."
+msgstr "이 구멍은 외부에서 만들어진 것으로 보인다. 이것은 어둠의 피조물이 한 짓이 아니다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TextEntry[5]
@@ -15337,13 +15337,14 @@ msgid ""
 "The Venatori, led by Servis, were excavating when they accidentally broke "
 "into darkspawn-infested tunnels. Servis has since fled the vicinity."
 msgstr ""
-"세르비스가 이끄는 베나토리가 발굴 작업을 하던 도중 우연히 암흑피조물이 득실거리는 땅굴에 진입했다. 그 후, 세르비스는 근방으로 도망쳤다."
+"세르비스가 이끄는 베나토리가 발굴 작업을 하던 도중 우연히 어둠의 피조물이 득실거리는 땅굴에 진입했다. 그 후, 세르비스는 근방으로 "
+"도망쳤다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x0002e499"
 msgid "Search for more signs of darkspawn."
-msgstr "암흑피조물들의 흔적을 더 찾아보자."
+msgstr "어둠의 피조물들의 흔적을 더 찾아보자."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TaskEntry[1]
@@ -15357,7 +15358,7 @@ msgstr "{string}205752{/string}"
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x00038314"
 msgid "Find the source of the darkspawn."
-msgstr "암흑피조물들의 근원지를 찾아보자."
+msgstr "어둠의 피조물들의 근원지를 찾아보자."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TaskEntry[3]
@@ -17020,13 +17021,13 @@ msgstr "봉인을 방어하라"
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x000474a3"
 msgid "Repel the darkspawn assault and secure the seal."
-msgstr "암흑피조물 공격을 격퇴하고 봉인을 지키자."
+msgstr "어둠의 피조물 공격을 격퇴하고 봉인을 지키자."
 
 #. EBX = da3_dlc_red/DesignContent/Journals/seal_wave_event/seal_wave_event
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x000474a5"
 msgid "Darkspawn slain"
-msgstr "처치한 암흑피조물"
+msgstr "처치한 어둠의 피조물"
 
 #. EBX = da3_dlc_red/DesignContent/Journals/seal_wave_event/seal_wave_event
 #. PATH = JournalEntry/TaskEntry[1]
@@ -17131,7 +17132,7 @@ msgstr "승강기를 타고 지하 가도로 내려가자."
 #. PATH = JournalEntry/TaskEntry[5]
 msgctxt "0x000474c5"
 msgid "Navigate the Darkspawn Warrens."
-msgstr "암흑피조물 군서지를 찾자."
+msgstr "어둠의 피조물 군서지를 찾자."
 
 #. EBX = DA3_DLC_Red/designcontent/Journals/descent/the_descent_main_journal
 #. PATH = JournalEntry/TaskEntry[6]
@@ -17143,13 +17144,13 @@ msgstr "룬이 새겨진 세그러마르 관문을 열자."
 #. PATH = JournalEntry/TaskEntry[7]
 msgctxt "0x0004a2f4"
 msgid "Navigate the Darkspawn Warrens."
-msgstr "암흑피조물 군서지를 찾자."
+msgstr "어둠의 피조물 군서지를 찾자."
 
 #. EBX = DA3_DLC_Red/designcontent/Journals/descent/the_descent_main_journal
 #. PATH = JournalEntry/TaskEntry[8]
 msgctxt "0x00049371"
 msgid "Follow Valta through the Darkspawn Warrens."
-msgstr "발타와 함께 암흑피조물 군서지를 지나가자."
+msgstr "발타와 함께 어둠의 피조물 군서지를 지나가자."
 
 #. EBX = DA3_DLC_Red/designcontent/Journals/descent/the_descent_main_journal
 #. PATH = JournalEntry/TaskEntry[9]
@@ -17173,7 +17174,7 @@ msgstr "발타를 따라 헤이드룬 타이그를 지나가자."
 #. PATH = JournalEntry/TaskEntry[12]
 msgctxt "0x00047650"
 msgid "Push the darkspawn out of their nest."
-msgstr "암흑피조물들을 둥지에서 쫓아내자."
+msgstr "어둠의 피조물들을 둥지에서 쫓아내자."
 
 #. EBX = DA3_DLC_Red/designcontent/Journals/descent/the_descent_main_journal
 #. PATH = JournalEntry/TaskEntry[13]
@@ -17338,8 +17339,8 @@ msgid ""
 "gate in the Darkspawn Warrens. The gate can only be opened with ancient "
 "gears."
 msgstr ""
-"발타의 돌 감각은 앞으로 나아가는 길이 암흑피조물 군서지에 있는 룬이 새겨진 관문을 통과해야 한다는 것을 알려주고 있다. 관문은 고대의 "
-"톱니바퀴로만 열 수 있다."
+"발타의 돌 감각은 앞으로 나아가는 길이 어둠의 피조물 군서지에 있는 룬이 새겨진 관문을 통과해야 한다는 것을 알려주고 있다. 관문은 "
+"고대의 톱니바퀴로만 열 수 있다."
 
 #. EBX = DA3_DLC_Red/designcontent/Journals/Global/dlcred_critpath_geardoor_journal
 #. PATH = JournalEntry/TaskEntry[0]
@@ -17414,7 +17415,7 @@ msgctxt "0x00048e92"
 msgid ""
 "Pages torn from a crazed dwarf's journal are scattered across the Darkspawn "
 "Warrens and the ruins of Heidrun Thaig."
-msgstr "미쳐버린 드워프가 남긴 일지의 찢겨진 부분들은 암흑피조물 군서지와 헤이드룬 타이그의 폐허 곳곳에 흩어져 있다."
+msgstr "미쳐버린 드워프가 남긴 일지의 찢겨진 부분들은 어둠의 피조물 군서지와 헤이드룬 타이그의 폐허 곳곳에 흩어져 있다."
 
 #. EBX = da3_dlc_red/DesignContent/Journals/SideContent/Side_3/dlcred_side3_journal_1
 #. PATH = JournalEntry/TextEntry[1]
@@ -17424,7 +17425,8 @@ msgid ""
 "writings scattered across the Darkspawn Warrens and the ruins of Heidrun "
 "Thaig."
 msgstr ""
-"한 드워프가 지하 가도의 동굴에서 최후를 맞이했다. 그의 마지막 기록은 온 암흑피조물 군서지와 헤이드룬 타이그 폐허에 걸쳐 흩어져 있다."
+"한 드워프가 지하 가도의 동굴에서 최후를 맞이했다. 그의 마지막 기록은 온 어둠의 피조물 군서지와 헤이드룬 타이그 폐허에 걸쳐 흩어져 "
+"있다."
 
 #. EBX = da3_dlc_red/DesignContent/Journals/SideContent/Side_3/dlcred_side3_journal_1
 #. PATH = JournalEntry/TaskEntry[0]
@@ -17751,7 +17753,7 @@ msgstr "축조자의 탑"
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x0004a4ed"
 msgid "A worn model of the Builder's Towers stands in the Darkspawn Warrens."
-msgstr "암흑피조물 군서지에 낡은 축조자의 탑 모형이 있다."
+msgstr "어둠의 피조물 군서지에 낡은 축조자의 탑 모형이 있다."
 
 #. EBX = DA3_DLC_Red/designcontent/Journals/SideContent/towers/dlcred_towers_journal
 #. PATH = JournalEntry/TaskEntry[0]
@@ -17837,7 +17839,7 @@ msgstr "타이그 탈환"
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x00047625"
 msgid "Darkspawn have overrun this section of the Deep Roads."
-msgstr "암흑피조물들이 지하 가도의 이 구역에 들끓고 있다."
+msgstr "어둠의 피조물들이 지하 가도의 이 구역에 들끓고 있다."
 
 #. EBX = da3_dlc_red/DesignContent/Journals/level_3_wave_event/dlcred_level3WaveEvent
 #. PATH = JournalEntry/TaskEntry[0]
@@ -17873,7 +17875,7 @@ msgstr "밀사 우두머리를 처치하자."
 #. PATH = JournalEntry/TaskEntry[5]
 msgctxt "0x0004778a"
 msgid "Darkspawn waves"
-msgstr "암흑피조물 공격"
+msgstr "어둠의 피조물 공격"
 
 #. EBX = DA3_DLC_Red/designcontent/Journals/dlcred_landmarks_journal
 #. PATH = JournalEntry/TitleReference

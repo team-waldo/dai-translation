@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-17 16:56+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2021-05-19 12:56+0000\n"
+"Last-Translator: NACHO <deertodear@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/unknown/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -537,7 +537,7 @@ msgstr "크리처 방어막"
 
 msgctxt "0x00014055"
 msgid "Recent, but was it the Warden? There aren't any darkspawn around here."
-msgstr "최근, 감시자 말인가요? 근처에 암흑피조물은 하나도 없었어요."
+msgstr "최근, 감시자 말인가요? 근처에 어둠의 피조물은 하나도 없었어요."
 
 msgctxt "0x00014057"
 msgid "He's hiding..."
@@ -685,7 +685,7 @@ msgstr "투구 2"
 
 msgctxt "0x000153c8"
 msgid "Amulet of Grounding"
-msgstr "대지의 부적"
+msgstr "대지의 목걸이"
 
 msgctxt "0x000153c9"
 msgid "Blackwall Armor 1"
@@ -3129,7 +3129,7 @@ msgstr ""
 
 msgctxt "0x0001fdb7"
 msgid "Connecting to the Dragon Age servers..."
-msgstr "Dragon Age 서버에 연결하는 중입니다..."
+msgstr "Dragon Age 서버에 연결 중..."
 
 msgctxt "0x0001fdb8"
 msgid "The password for this Origin account is incorrect."
@@ -6023,7 +6023,7 @@ msgstr "선조들이 우리를 굽어살피신다!"
 
 msgctxt "0x000315e2"
 msgid "Look to our charges!"
-msgstr ""
+msgstr "우리 돌격대를 보아라!"
 
 msgctxt "0x000315e3"
 msgid "You cannot stand against us!"
@@ -14298,7 +14298,7 @@ msgstr "강령술사로 {CUSTOM0}개의 작전을 완료하십시오."
 
 msgctxt "0x000429db"
 msgid "Darkspawn Bow"
-msgstr "어둠피조물 활"
+msgstr "어둠의 피조물 활"
 
 msgctxt "0x000429dc"
 msgid "Staff of the Brocaded Carp"
@@ -14398,11 +14398,11 @@ msgstr "어두운 수단"
 
 msgctxt "0x000429f6"
 msgid "Complete {CUSTOM0} operations with the Reaver"
-msgstr "도륙자로 {CUSTOM0} 개의 작전을 완료"
+msgstr "혈전사로 {CUSTOM0} 개의 작전을 완료"
 
 msgctxt "0x000429f8"
 msgid "Earn {CUSTOM0} experience with the Reaver."
-msgstr "도륙자로 {CUSTOM0} 만큼의 경험치를 얻으십시오."
+msgstr "혈전사로 {CUSTOM0} 만큼의 경험치를 얻으십시오."
 
 msgctxt "0x000429f9"
 msgid "Stubble Color"
@@ -15017,7 +15017,7 @@ msgstr "강령술사로 작전을 완료하십시오."
 
 msgctxt "0x00042bdb"
 msgid "Complete an operation with the Reaver."
-msgstr "도륙자로 작전을 완료하십시오."
+msgstr "혈전사로 작전을 완료하십시오."
 
 msgctxt "0x00042bea"
 msgid "Generalist"
@@ -16484,7 +16484,7 @@ msgid ""
 "the Inquisition at Haven. Left unopposed, he drove his army of demons across "
 "Thedas."
 msgstr ""
-"헤이븐의 심문회는 자신이 황금 도시를 침범하고 대재앙을 세상에 풀어놓았다고 호언하는 미치광이 암흑피조물, 코리피우스의 손에 파멸을 "
+"헤이븐의 심문회는 자신이 황금 도시를 침범하고 대재앙을 세상에 풀어놓았다고 호언하는 미치광이 어둠의 피조물, 코리피우스의 손에 파멸을 "
 "맞았다. 대적할 세력이 남지 않자 코리피우스는 자신의 악마 군대를 이끌어 온 테다스를 휩쓸고 말았다."
 
 msgctxt "0x0004376a"
@@ -17244,6 +17244,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Guard Amount: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0}% of damage blocked</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">방어량: </font><font color=\"#F5ECCE\">막은 피해의 {CUSTOM0}"
+"% </font>\n"
 
 msgctxt "0x00043863"
 msgid ""
@@ -18657,7 +18659,7 @@ msgstr "불마법사"
 
 msgctxt "0x00044054"
 msgid "Ally's Striker"
-msgstr ""
+msgstr "동맹의 망치"
 
 msgctxt "0x0004406b"
 msgid "Teyrn's Hidden Blade"
@@ -18763,7 +18765,7 @@ msgstr "기술 지속시간 10% 증가"
 
 msgctxt "0x00044185"
 msgid "Leader"
-msgstr ""
+msgstr "지도자"
 
 #. USED IN :
 #.     0x00044186(278918) : {string}262094{/string} {string}278921{/string} {string}278194{/string}
@@ -18965,6 +18967,7 @@ msgid ""
 "<font color=\"#BAAB7B\">Destroys demons spawning from rifts if used before "
 "they fully materialize</font>\n"
 msgstr ""
+"<font color=\"#BAAB7B\">균열에서 나오는 악마들이 완전한 형태를 갖추기 전에 사용 시 악마들을 파괴한다</font>\n"
 
 msgctxt "0x00044230"
 msgid "Total Gold Gained in All Single-Player Campaigns"
@@ -19082,7 +19085,7 @@ msgstr "이 전쟁을 너무 오래 지속했어."
 
 msgctxt "0x000446f4"
 msgid "I wonder if my village is still standing."
-msgstr ""
+msgstr "저희 마을이 아직도 남아있는지 궁금하네요."
 
 msgctxt "0x000446f7"
 msgid "<i>(Coughs.)</i>"
@@ -19090,7 +19093,7 @@ msgstr "(기침)"
 
 msgctxt "0x000446f8"
 msgid "I hate waiting to die."
-msgstr ""
+msgstr "죽기를 기다리는건 싫은데."
 
 msgctxt "0x000446f9"
 msgid "Maker, don't move. You'll open the wound."
@@ -19106,15 +19109,15 @@ msgstr "언제까지 버틸 수 있을까?"
 
 msgctxt "0x000446fc"
 msgid "Not good enough, soldier!"
-msgstr ""
+msgstr "그걸론 부족하다, 병사!"
 
 msgctxt "0x00044705"
 msgid "You soldiers and your orders."
-msgstr ""
+msgstr "당신네 병사와 그 명령이란."
 
 msgctxt "0x00044706"
 msgid "I can't do this. I'm not strong like you."
-msgstr ""
+msgstr "못하겠어. 난 너처럼 강하지 않아."
 
 #. STRINGS :
 #.     0x00041a78(268920) : {blank} {linebreak}  Researched: Damage Against Undead Increased
@@ -19208,27 +19211,27 @@ msgstr "분노의 악마 군주"
 
 msgctxt "0x000447dd"
 msgid "Lesser Despair Demon"
-msgstr ""
+msgstr "하급 절망의 악마"
 
 msgctxt "0x000447de"
 msgid "Greater Corpse"
-msgstr ""
+msgstr "강력한 시체"
 
 msgctxt "0x000447df"
 msgid "Lesser Rage Demon"
-msgstr ""
+msgstr "하급 분노의 악마"
 
 msgctxt "0x000447e0"
 msgid "Greater Arcane Horror"
-msgstr ""
+msgstr "상급 비전 공포귀"
 
 msgctxt "0x000447e1"
 msgid "Greater Rage Demon"
-msgstr ""
+msgstr "상급 분노의 악마"
 
 msgctxt "0x000447e2"
 msgid "Despair Demon Lord"
-msgstr ""
+msgstr "절망의 악마 군주"
 
 msgctxt "0x000447e3"
 msgid "Greater Revenant"
@@ -19240,11 +19243,11 @@ msgstr "상급 사령"
 
 msgctxt "0x000447e5"
 msgid "Greater Pride Demon"
-msgstr ""
+msgstr "상급 교만의 악마"
 
 msgctxt "0x000447e6"
 msgid "Greater Corpse Archer"
-msgstr ""
+msgstr "강력한 시체 궁수"
 
 msgctxt "0x000447e7"
 msgid "Greater Fear Demon"
@@ -19260,19 +19263,19 @@ msgstr "하급 시체"
 
 msgctxt "0x000447eb"
 msgid "Lesser Corpse Archer"
-msgstr ""
+msgstr "약한 시체 궁수"
 
 msgctxt "0x000447ec"
 msgid "Pride Demon Lord"
-msgstr ""
+msgstr "교만의 악마 군주"
 
 msgctxt "0x000447ed"
 msgid "Frenzied Corpse"
-msgstr ""
+msgstr "광분한 시체"
 
 msgctxt "0x000447ee"
 msgid "Greater Despair Demon"
-msgstr ""
+msgstr "상급 절망의 악마"
 
 msgctxt "0x00044809"
 msgid ""
@@ -19296,7 +19299,7 @@ msgstr "훈제 우둔"
 
 msgctxt "0x0004481f"
 msgid "Honey-Glazed"
-msgstr ""
+msgstr "꿀 발라진"
 
 msgctxt "0x0004482e"
 msgid "10% chance to grant 3 seconds of Blessed Blades"
@@ -19304,43 +19307,43 @@ msgstr "10% 확률로 3초간 성스러운 칼날 부여"
 
 msgctxt "0x0004485d"
 msgid "Vintage: Warden Riordan"
-msgstr ""
+msgstr "포도주: 감시자 리올던"
 
 msgctxt "0x0004485e"
 msgid "Vintage: Warden Eval'lal"
-msgstr ""
+msgstr "포도주: 감시자 에발'랄"
 
 msgctxt "0x0004485f"
 msgid "Vintage: Warden Daedalam"
-msgstr ""
+msgstr "포도주: 감시자 대달람"
 
 msgctxt "0x00044860"
 msgid "Vintage: Warden Anras"
-msgstr ""
+msgstr "포도주: 감시자 안라스"
 
 msgctxt "0x00044861"
 msgid "Vintage: Warden Gibbins"
-msgstr ""
+msgstr "포도주: 감시자 기빈스"
 
 msgctxt "0x00044862"
 msgid "Vintage: Warden Carver Hawke"
-msgstr ""
+msgstr "포도주: 감시자 카버 호크"
 
 msgctxt "0x00044863"
 msgid "Vintage: Warden Tontiv"
-msgstr ""
+msgstr "포도주: 감시자 톤티브"
 
 msgctxt "0x00044864"
 msgid "Vintage: Warden Bethany Hawke"
-msgstr ""
+msgstr "포도주: 감시자 베서니 호크"
 
 msgctxt "0x00044865"
 msgid "Vintage: Warden Jairn"
-msgstr ""
+msgstr "포도주: 감시자 제언"
 
 msgctxt "0x00044866"
 msgid "Vintage: Warden Korenic"
-msgstr ""
+msgstr "포도주: 감시자 코러닉"
 
 msgctxt "0x00044868"
 msgid "Vintage: Warden Steed"
@@ -19571,7 +19574,7 @@ msgctxt "0x00044973"
 msgid ""
 "Take the essence from wisps at the Old Thoroughfare, the Weeping Spires, and "
 "Granite Point in the Fallow Mire."
-msgstr ""
+msgstr "정수를 고요한 늪지의 낡은 도로, 흐느끼는 첨탑, 화강암 명소에 있는 도깨비불로부터 얻자."
 
 #. USED IN :
 #.     0x00040bab(265131) : Craft a proper knife, study the methods required to wield it, and Heir will reveal the secrets of the Assassin specialization. {string}280948{/string} {string}281404{/string}   While a rogue can only truly specialize in one style, studying others can still be of considerable benefit.
@@ -19587,7 +19590,7 @@ msgctxt "0x00044975"
 msgid ""
 "Kill rivals to claim infusion primers at the East Side Hills, the Flats, and "
 "the Black Fens in Crestwood."
-msgstr "주입 안내서를 얻기 위해 크레스트우드의 동쪽 언덕, 평야, 검은 늪에서 경쟁 도륙자들을 죽여야 한다."
+msgstr "주입 안내서를 얻기 위해 크레스트우드의 동쪽 언덕, 평야, 검은 늪에서 경쟁 혈전사들을 죽여야 한다."
 
 #. USED IN :
 #.     0x00040ba5(265125) : Construct the proper tools, study the methods to use them, and Three-Eyes will reveal the secrets of the trap-laying Artificer specialization. {string}280950{/string} {string}281404{/string}   While a rogue can only truly specialize in one style, studying others can still be of considerable benefit.
@@ -23293,7 +23296,7 @@ msgstr "{CUSTOM0} 마리의 거미를 처치하십시오."
 
 msgctxt "0x0004aff5"
 msgid "Defeat {CUSTOM0} darkspawn."
-msgstr "{CUSTOM0} 마리의 암흑피조물을 처치하십시오."
+msgstr "{CUSTOM0} 마리의 어둠의 피조물을 처치하십시오."
 
 msgctxt "0x0004aff6"
 msgid "Collect {CUSTOM0} gold from within the Fereldan Castle."
@@ -23504,7 +23507,7 @@ msgctxt "0x0004b49f"
 msgid ""
 "Earn {CUSTOM0} experience as the Avvar, Legionnaire, Silent Sister, Templar, "
 "Katari, or Reaver."
-msgstr "아바르, 군단용사, 침묵의 자매, 성기사, 카타리, 혹은 도륙자로 {CUSTOM0} 만큼의 경험치를 얻으십시오."
+msgstr "아바르, 군단용사, 침묵의 자매, 성기사, 카타리, 혹은 혈전사로 {CUSTOM0} 만큼의 경험치를 얻으십시오."
 
 msgctxt "0x0004b4c8"
 msgid "Protection"

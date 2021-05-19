@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-17 16:56+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-05-19 12:59+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -740,7 +740,7 @@ msgstr ""
 #. PATH = BWAbilityTree/TreeNameReference
 msgctxt "0x0002cafb"
 msgid "Reaver"
-msgstr "도륙자"
+msgstr "혈전사"
 
 #. FILE = DA3/Party/General/AbilityTrees/Warrior_IronBull_Spec_AbilityTree
 #. PATH = BWAbilityTree/TreeDescriptionReference
@@ -6435,7 +6435,7 @@ msgid ""
 "health.\n"
 "\n"
 msgstr ""
-"당신은 상처를 입었음에도 더욱 열심히 싸웁니다. 체력을 잃을 때 기력을 회복합니다.\n"
+"상처를 입었음에도 더욱 열심히 싸웁니다. 잃은 체력에 비례해 기력을 일정량 회복합니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Warrior/Passives/DeathWish/party_warrior_passive_deathwish_abilitydata

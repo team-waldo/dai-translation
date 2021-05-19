@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-17 16:56+0000\n"
+"PO-Revision-Date: 2021-05-19 12:59+0000\n"
 "Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
@@ -7064,7 +7064,7 @@ msgstr "{string}275160{/string} {string}276442{/string}"
 #.     0x000446be(280254) : {string}278221{/string}<br><br>{string}280250{/string} {string}268688{/string}
 msgctxt "0x00041990"
 msgid "Reaver's Mail"
-msgstr "도륙자의 갑옷"
+msgstr "혈전사의 갑옷"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Multiplayer/recipe_MP_Reaver_01
 #. PATH = Recipe/Description
@@ -7110,7 +7110,7 @@ msgstr "{string}268688{/string} {string}276450{/string}"
 #.     0x000439ff(276991) : {string}274844{/string} {string}276433{/string}
 msgctxt "0x0004319c"
 msgid "Dread Reaver's Mail"
-msgstr "공포의 도륙자의 사슬갑옷"
+msgstr "공포의 혈전사의 사슬갑옷"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Multiplayer/recipe_MP_Reaver_02a
 #. PATH = Recipe/DisplayName
@@ -7871,7 +7871,7 @@ msgstr "{string}283092{/string} {string}283096{/string}"
 #.     0x00045495(283797) : {string}283100{/string} {string}283096{/string}
 msgctxt "0x000451dc"
 msgid "Reaver's Inquisition Captain's Plate"
-msgstr "도륙자의 심문회 지휘관 판금 방어구"
+msgstr "혈전사의 심문회 지휘관 판금 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Multiplayer/recipe_mp1_MP_Reaver_MP1
 #. PATH = Recipe/Description
@@ -10558,7 +10558,7 @@ msgctxt "0x000447f8"
 msgid ""
 "Inflicts bonus damage against red templars and darkspawn on each weapon "
 "strike."
-msgstr "무기 공격이 적중할 때마다 붉은 성기사 혹은 암흑피조물 유형 대상에 추가 피해를 줍니다."
+msgstr "무기 공격이 적중할 때마다 붉은 성기사 혹은 어둠의 피조물 유형 대상에 추가 피해를 줍니다."
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Runes/recipe_rune_vs_corrupted_2
 #. PATH = Recipe/DisplayName
@@ -11220,7 +11220,7 @@ msgstr "카타리 전문화 초기화"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0004747e"
 msgid "Reaver's Respecialization"
-msgstr "도륙자 전문화 초기화"
+msgstr "혈전사 전문화 초기화"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Greataxes/recipe_mp2_greataxe_mp_respec_skywatcher
 #. PATH = Recipe/DisplayName
@@ -11818,7 +11818,7 @@ msgstr "겨울숨결"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001bea8"
 msgid "Darkspawn Alpha Shield"
-msgstr "암흑피조물 우두머리 방패"
+msgstr "어둠의 피조물 우두머리 방패"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Shields/recipe_shield_t1_1
 #. PATH = Recipe/DisplayName
@@ -11878,7 +11878,7 @@ msgstr "원형 방패"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001be85"
 msgid "Darkspawn Shield"
-msgstr "암흑피조물 방패"
+msgstr "어둠의 피조물 방패"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Shields/recipe_shield_t2_3
 #. PATH = Recipe/DisplayName
@@ -11890,7 +11890,7 @@ msgstr "중갑 방패"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001be87"
 msgid "Darkspawn Alpha Shield"
-msgstr "암흑피조물 우두머리 방패"
+msgstr "어둠의 피조물 우두머리 방패"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Shields/recipe_shield_t2_5_rare
 #. PATH = Recipe/DisplayName
@@ -12403,7 +12403,7 @@ msgid ""
 "warrior dating from the time of the original darkspawn incursions against "
 "the dwarven empire."
 msgstr ""
-"이 조잡하지만 특색 있는 목걸이의 유래는 드워프 전사 레그지스의 시대까지 거슬러 올라간다. 그는 암흑피조물이 최초로 드워프 제국을 "
+"이 조잡하지만 특색 있는 목걸이의 유래는 드워프 전사 레그지스의 시대까지 거슬러 올라간다. 그는 어둠의 피조물이 최초로 드워프 제국을 "
 "침공했을 당시의 인물이었다."
 
 #. FILE = DA3/Equipment/Items/Accessories/Amulets/equip_BE_acc_amulet_mage
@@ -13826,7 +13826,6 @@ msgstr "그림자 일격 강화 반지"
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/equip_ring_upgrade_rogue_twinfang
 #. PATH = EquipItemAsset/DisplayName
-#, fuzzy
 msgctxt "0x000382e0"
 msgid "Enhanced Twin Fangs Ring"
 msgstr "쌍 송곳니 강화 반지"
@@ -13975,8 +13974,8 @@ msgid ""
 "possible."
 msgstr ""
 "망자의 군단에 입단하는 드워프는 타이그를 떠나기 전에 죽음을 맞는다. 장례식을 치르고, 사랑하는 이들과 작별 인사를 나눈 뒤 동료 "
-"군단원과 함께 지하 가도로 향한다. 그들은 생전에 지었던 모든 죄를 사면받으며 다시는 돌아올 수 없게 된다. 옛 영토를 앗아간 "
-"암흑피조물과 끝없는 전투를 벌이는 처지인 오자마르의 드워프에게 있어, 망자의 군단원이 되는 것은 최고의 영예이다."
+"군단원과 함께 지하 가도로 향한다. 그들은 생전에 지었던 모든 죄를 사면받으며 다시는 돌아올 수 없게 된다. 옛 영토를 앗아간 어둠의 "
+"피조물과 끝없는 전투를 벌이는 처지인 오자마르의 드워프에게 있어, 망자의 군단원이 되는 것은 최고의 영예이다."
 
 #. FILE = DA3/Equipment/Items/Armors/Heavy/equip_armor_heavy_1p_elf_dalish
 #. PATH = EquipItemAsset/DisplayName
@@ -15611,7 +15610,7 @@ msgstr "시체 뇌간"
 #.     0x00044aa6(281254) : {string}269939{/string} {string}281367{/string}: {CUSTOM0}
 msgctxt "0x00041e73"
 msgid "Darkspawn Teeth"
-msgstr "암흑피조물 이빨"
+msgstr "어둠의 피조물 이빨"
 
 #. FILE = DA3/Equipment/Items/CreatureCodex/creature_codex_item_deepstalker
 #. PATH = StackedItemAsset/DisplayName
@@ -18177,7 +18176,7 @@ msgstr "수정 그리폰 장식품"
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x0002995b"
 msgid "Darkspawn Totem"
-msgstr "암흑피조물 토템"
+msgstr "어둠의 피조물 토템"
 
 #. FILE = DA3/Equipment/Items/Valuables/Tier4/valuable_Dwarven_Dragon_Statue
 #. PATH = StackedItemAsset/DisplayName
@@ -19663,7 +19662,7 @@ msgid ""
 "leads caravans though the dangerous Wandering Hills to the distant port of "
 "Laysh and comprise the best marksmen in Thedas."
 msgstr ""
-"앤더펄스의 \"녹의단\" 전사들의 시조는 머데인의 사냥꾼, 그런즈맨이다. 그는 첫 번째 대재앙 당시 암흑피조물 전선을 넘어 호스버그 "
+"앤더펄스의 \"녹의단\" 전사들의 시조는 머데인의 사냥꾼, 그런즈맨이다. 그는 첫 번째 대재앙 당시 어둠의 피조물 전선을 넘어 호스버그 "
 "주민들을 굶주림으로부터 구한 것으로 명망이 높다. 그의 이름을 따라 창립된 녹의단은 테다스 최고의 명사수로 구성되어 있으며, 위험천만한 "
 "굽은구릉을 넘어 머나먼 레이슈의 항구로 대상단을 인도한다."
 
@@ -20485,7 +20484,7 @@ msgstr ""
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00020303"
 msgid "Darkspawn Sickle"
-msgstr "암흑피조물 낫"
+msgstr "어둠의 피조물 낫"
 
 #. FILE = DA3/Equipment/Items/Weapons/Rogue/Daggers/equip_dagger_t3_8
 #. PATH = EquipItemAsset/DisplayName
@@ -20612,7 +20611,7 @@ msgstr "스텐의 전투도끼"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001f727"
 msgid "Darkspawn Alpha Greataxe"
-msgstr "암흑피조물 우두머리 거대 도끼"
+msgstr "어둠의 피조물 우두머리 거대 도끼"
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Greataxes/equip_greataxe_t2_4_rare
 #. PATH = EquipItemAsset/DisplayName
@@ -20666,7 +20665,7 @@ msgid ""
 "This axe predates the thaig's loss to the darkspawn, and from flecks on the "
 "hilt, the blade was once coated in gold."
 msgstr ""
-"드워프의 다르말론 타이그는 테다스의 가장 큰 금광 중 하나였다. 이 도끼는 암흑피조물의 공격에 다르말론 타이그를 잃기 전에 만들어진 "
+"드워프의 다르말론 타이그는 테다스의 가장 큰 금광 중 하나였다. 이 도끼는 어둠의 피조물의 공격에 다르말론 타이그를 잃기 전에 만들어진 "
 "것으로, 자루 부분의 얼룩으로 보건대 한때 그 칼날에는 금박이 씌워졌던 것으로 보인다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Greataxes/equip_greataxe_t3_1
@@ -21179,9 +21178,9 @@ msgid ""
 "However, while Hossberg did force the horde into retreat, Grey Wardens "
 "entering the city found only chaos and no Ansel."
 msgstr ""
-"이 대망치는 3차 대재앙 시절의 암흑피조물 공성전 때 호스버그가 생존하게 해 준 물건이라 전해진다. 오늘날까지도 앤더펄스에서는 대망치를 "
-"고결하게 들어올린 채 도시의 검은 탑 꼭대기에 군림한 안셀 경의 모습을 그린 그림이 전해지고는 한다. 그러나, 호스버그가 적을 후퇴시킨 "
-"것은 사실이지만, 회색 감시자들이 도시에 들어섰을 때 안셀은 간데없이 도시는 혼란에 휩싸여 있었다고 한다."
+"이 대망치는 3차 대재앙 시절의 어둠의 피조물 공성전 때 호스버그가 생존하게 해 준 물건이라 전해진다. 오늘날까지도 앤더펄스에서는 "
+"대망치를 고결하게 들어올린 채 도시의 검은 탑 꼭대기에 군림한 안셀 경의 모습을 그린 그림이 전해지고는 한다. 그러나, 호스버그가 적을 "
+"후퇴시킨 것은 사실이지만, 회색 감시자들이 도시에 들어섰을 때 안셀은 간데없이 도시는 혼란에 휩싸여 있었다고 한다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Mauls/equip_maul_t3_1_rare
 #. PATH = EquipItemAsset/DisplayName
@@ -21953,7 +21952,7 @@ msgstr "명품 다리미꼴 방패"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001bea9"
 msgid "Masterwork Darkspawn Shield"
-msgstr "명품 암흑피조물 방패"
+msgstr "명품 어둠의 피조물 방패"
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/WeaponShield/Shields/equip_shield_t2_6
 #. PATH = EquipItemAsset/DisplayName
@@ -21971,7 +21970,7 @@ msgstr "성기사단 지휘관 방패"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00028744"
 msgid "Darkspawn Shield"
-msgstr "암흑피조물 방패"
+msgstr "어둠의 피조물 방패"
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/WeaponShield/Shields/equip_shield_t2_9
 #. PATH = EquipItemAsset/DisplayName

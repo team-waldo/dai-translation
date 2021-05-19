@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-17 16:56+0000\n"
+"PO-Revision-Date: 2021-05-19 12:59+0000\n"
 "Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
@@ -114,7 +114,7 @@ msgstr "강령술사"
 #.     0x00043ed1(278225) : {string}278224{/string} {string}260425{/string}
 msgctxt "0x0003f949"
 msgid "Reaver"
-msgstr "도륙자"
+msgstr "혈전사"
 
 #. FILE = DA3/Actors/Party/Specializations/Multiplayer/gen_partymember_mp2_originals_templar
 #. PATH = CreatureEntityData/CharacterNameReference
@@ -2570,7 +2570,7 @@ msgid ""
 "While Pala uses weapons, she still honors the rigorous lessons that helped "
 "her and her fellow sisters destroy darkspawn with their bare hands in the "
 "Deep Roads."
-msgstr "팔라는 전투 중에도 자신과 자매들이 지하 가도에서 맨 손으로 암흑피조물을 파괴할 수 있게 도와주었던 호된 교훈을 기립니다."
+msgstr "팔라는 전투 중에도 자신과 자매들이 지하 가도에서 맨 손으로 어둠의 피조물을 파괴할 수 있게 도와주었던 호된 교훈을 기립니다."
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/ArcaneWarrior/SpellSword/MP_arcanewarrior_passive_spellsword_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -2979,7 +2979,7 @@ msgid ""
 "victims.\n"
 "\n"
 msgstr ""
-"도륙자의 진노는 그녀가 휘두르는 모든 공격을 더 강하게 만듭니다.\n"
+"혈전사의 진노는 그녀가 휘두르는 모든 공격을 더 강하게 만듭니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/Templar/MageSlayer/MP_templar_passive_mageslayer_abilitydata
@@ -3334,15 +3334,9 @@ msgstr ""
 #. PATH = BWMultiplayerCharacterData/DisplayableShortDescription
 #. USED IN :
 #.     0x000473fe(291838) : {string}289368{/string}<br><br>{string}280250{/string} {string}289309{/string}
-#, fuzzy
-#| msgid ""
-#| "<font color=\"#CCDDAA\"><b>Mage: Support specialist</b></font>\n"
-#| "A musical virtuoso with a song for every situation."
 msgctxt "0x00046a58"
 msgid "A musical virtuoso with a song for every situation."
-msgstr ""
-"<font color=\"#CCDDAA\"><b>마법사: 전문 지원가</b></font>\n"
-"모든 상황에 걸맞는 곡을 연주하는 음악의 거장."
+msgstr "모든 상황에 걸맞는 곡을 연주하는 음악의 거장."
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP2/MP_Bard
 #. PATH = BWMultiplayerCharacterData/DisplayableDescription
@@ -3365,31 +3359,21 @@ msgstr ""
 #.     0x00046a58(289368) : A musical virtuoso with a song for every situation.
 #.     0x000446ba(280250) : Unlocked by finding or crafting armor:
 #.     0x00046a1d(289309) : Virtuoso's Regalia
-#, fuzzy
-#| msgid ""
-#| "{string}289368{/string}<br><br>{string}293829{/string} "
-#| "{string}289309{/string}"
 msgctxt "0x000473fe"
 msgid ""
 "{string}289368{/string}<br><br>{string}280250{/string} "
 "{string}289309{/string}"
 msgstr ""
-"{string}289368{/string}<br><br>{string}293829{/string} "
+"{string}289368{/string}<br><br>{string}280250{/string} "
 "{string}289309{/string}"
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP2/MP_Isabela
 #. PATH = BWMultiplayerCharacterData/DisplayableShortDescription
 #. USED IN :
 #.     0x000473ff(291839) : {string}291288{/string}<br><br>{string}280250{/string} {string}287163{/string}
-#, fuzzy
-#| msgid ""
-#| "<font color=\"#CCDDAA\"><b>Rogue: Damage specialist</b></font>\n"
-#| "A notorious raider captain and duelist."
 msgctxt "0x000471d8"
 msgid "A notorious raider captain and duelist."
-msgstr ""
-"<font color=\"#CCDDAA\"><b>도적: 전문 공격수</b></font>\n"
-"악명높은 약탈 선장이자 결투사입니다."
+msgstr "악명높은 약탈 선장이자 결투사입니다."
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP2/MP_Isabela
 #. PATH = BWMultiplayerCharacterData/DisplayableDescription
@@ -3415,31 +3399,21 @@ msgstr ""
 #.     0x000471d8(291288) : A notorious raider captain and duelist.
 #.     0x000446ba(280250) : Unlocked by finding or crafting armor:
 #.     0x000461bb(287163) : Isabela's Longcoat
-#, fuzzy
-#| msgid ""
-#| "{string}291288{/string}<br><br>{string}293829{/string} "
-#| "{string}287163{/string}"
 msgctxt "0x000473ff"
 msgid ""
 "{string}291288{/string}<br><br>{string}280250{/string} "
 "{string}287163{/string}"
 msgstr ""
-"{string}291288{/string}<br><br>{string}293829{/string} "
+"{string}291288{/string}<br><br>{string}280250{/string} "
 "{string}287163{/string}"
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP2/MP_Skywatcher
 #. PATH = BWMultiplayerCharacterData/DisplayableShortDescription
 #. USED IN :
 #.     0x000473fd(291837) : {string}289367{/string}<br><br>{string}280250{/string} {string}289311{/string}
-#, fuzzy
-#| msgid ""
-#| "<font color=\"#CCDDAA\"><b>Warrior: Damage specialist</b></font>\n"
-#| "An Avvar warrior who calls upon the elements in battle."
 msgctxt "0x00046a57"
 msgid "An Avvar warrior who calls upon the elements in battle."
-msgstr ""
-"<font color=\"#CCDDAA\"><b>전사: 전문 공격수</b></font>\n"
-"원소를 무기삼아 전투하는 아바르 전사입니다."
+msgstr "원소를 무기삼아 전투하는 아바르 전사입니다."
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP2/MP_Skywatcher
 #. PATH = BWMultiplayerCharacterData/DisplayableDescription
@@ -3462,16 +3436,12 @@ msgstr ""
 #.     0x00046a57(289367) : An Avvar warrior who calls upon the elements in battle.
 #.     0x000446ba(280250) : Unlocked by finding or crafting armor:
 #.     0x00046a1f(289311) : Skywatcher's Lamellar Armor
-#, fuzzy
-#| msgid ""
-#| "{string}289367{/string}<br><br>{string}293829{/string} "
-#| "{string}289311{/string}"
 msgctxt "0x000473fd"
 msgid ""
 "{string}289367{/string}<br><br>{string}280250{/string} "
 "{string}289311{/string}"
 msgstr ""
-"{string}289367{/string}<br><br>{string}293829{/string} "
+"{string}289367{/string}<br><br>{string}280250{/string} "
 "{string}289311{/string}"
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP_Alchemist
@@ -3765,7 +3735,7 @@ msgid ""
 "against Thedas's greatest threat. "
 msgstr ""
 "죽음의 군단은 오자마르에서 가장 유명하고 헌신적인 전사들이다. 이 드워프들은 자신들의 죽음을 선언하고 지하 가도로 들어가 도시를 향해 "
-"밀려드는 암흑피조물들과 끝없는 싸움에 동참한다. 코르빈은 그들 중 하나다. 오자마르 출신의 매우 뛰어난 전사로 군단을 위해 자원했다. "
+"밀려드는 어둠의 피조물들과 끝없는 싸움에 동참한다. 코르빈은 그들 중 하나다. 오자마르 출신의 매우 뛰어난 전사로 군단을 위해 자원했다. "
 "드워프 왕과 심문회 사이 동맹의 결과로 이제 코르빈은 테다스의 가장 큰 위협에 맞서 지상으로 나왔습니다. "
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP_Guardian
@@ -7953,7 +7923,6 @@ msgstr "{string}99829{/string}이 {string}273575{/string}"
 
 #. FILE = DA3/DesignContent/PrefabComponents/Notifications/ExperienceNotifications
 #. PATH = UberNotificationEntityData[1]/SubTextReference
-#, fuzzy
 msgctxt "0x0001d054"
 msgid "{CUSTOM0} has reached level {CUSTOM1}."
 msgstr "{CUSTOM0}이(가) {CUSTOM1} 레벨에 도달했습니다."
@@ -9199,7 +9168,7 @@ msgid ""
 "\n"
 "{string}281195{/string}: {string}281192{/string}"
 msgstr ""
-"아다만트 요새는 암흑피조물의 공격을 수도 없이 견뎌왔다. 요새를 수호하는 회색 감시자들은 전설적인 전사들이다. 감시단 사령관 클라렐이 "
+"아다만트 요새는 어둠의 피조물의 공격을 수도 없이 견뎌왔다. 요새를 수호하는 회색 감시자들은 전설적인 전사들이다. 감시단 사령관 클라렐이 "
 "악마 군대를 만드는 것을 막기 위해, 심문회 병력은 아다만트의 방어를 뚫을 만큼 강력한 공성 장비를 필요로 할 것이다.\n"
 "\n"
 "{string}281195{/string}: {string}281192{/string}"
@@ -9288,7 +9257,7 @@ msgid ""
 "{string}281195{/string}: {string}281193{/string}"
 msgstr ""
 "심문회는 이제 누구도 넘볼 수 없는 세력이 되었다. 심문회의 동맹을 모아 {spHeroLastName} 심문관의 군대와 함께 코리피우스의 "
-"광신도들을 마지막으로 상대하기 위해 수목 야생지로 진군하도록 하자. 이 암흑피조물 매지스터가 야생지에 숨겨진 엘프 유물을 찾아 영계의 "
+"광신도들을 마지막으로 상대하기 위해 수목 야생지로 진군하도록 하자. 이 어둠의 피조물 매지스터가 야생지에 숨겨진 엘프 유물을 찾아 영계의 "
 "힘을 얻기 전에, 심문회가 그를 막아야 한다.\n"
 "\n"
 "{string}281195{/string}: {string}281193{/string}"
@@ -10363,7 +10332,7 @@ msgstr "모리건"
 #. PATH = CreatureEntitySpawnData/CharacterNameReference
 msgctxt "0x0001dada"
 msgid "Roderick"
-msgstr "로데릭"
+msgstr "로드릭"
 
 #. FILE = DA3/Persistence/AchievementTree
 #. PATH = AwardAchievementData[1]/LocalizedDescription
@@ -14332,19 +14301,19 @@ msgstr "영면하지 못한 죽은 자"
 #. PATH = AppearanceOverrideSpawnData/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x0004338c"
 msgid "The Reaver Shius III"
-msgstr "도륙자 시우스 3세"
+msgstr "혈전사 시우스 3세"
 
 #. FILE = DA3/designcontent/Prefabs/Levels/PlayerSpec/gen_spec_reaver_encounter_2
 #. PATH = AppearanceOverrideSpawnData/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x0004338e"
 msgid "Reaver Ellis Pim"
-msgstr "도륙자 엘리스 핌"
+msgstr "혈전사 엘리스 핌"
 
 #. FILE = DA3/designcontent/Prefabs/Levels/PlayerSpec/gen_spec_reaver_encounter_3
 #. PATH = AppearanceOverrideSpawnData/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x0004338f"
 msgid "Reaver Or'Dun"
-msgstr "도륙자 오르둔"
+msgstr "혈전사 오르둔"
 
 #. FILE = DA3/designcontent/Prefabs/Levels/PlayerSpec/gen_spec_tempest_encounter_1
 #. PATH = AppearanceOverrideSpawnData/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
@@ -16662,7 +16631,7 @@ msgstr ""
 #. PATH = BWPassiveAbility/AbilityNameReference
 msgctxt "0x00047144"
 msgid "BAD NOTE"
-msgstr "삑사리"
+msgstr "음치"
 
 #. FILE = DA3_MP2/Combat/Kits/Bard/Passive/Evasion/party_mage_mp2_bard_passive_evasion_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -18788,7 +18757,7 @@ msgstr "야수에게 주는 피해 증가"
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x0004393e"
 msgid "Damage Bonus Against Darkspawn"
-msgstr "암흑피조물에게 주는 피해 증가"
+msgstr "어둠의 피조물에게 주는 피해 증가"
 
 #. FILE = da3/Combat/Stats/Stat_Damage_Bonus_Demons
 #. PATH = BWModifiableStat/StatName
