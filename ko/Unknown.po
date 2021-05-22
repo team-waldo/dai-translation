@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-19 12:56+0000\n"
-"Last-Translator: NACHO <deertodear@gmail.com>\n"
+"PO-Revision-Date: 2021-05-22 14:56+0000\n"
+"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/unknown/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -74,7 +74,7 @@ msgctxt "0x0000f11d"
 msgid ""
 "Makes you wonder what the elves could have accomplished if the Imperium "
 "<i>hadn't</i> wiped them out."
-msgstr "제국이 엘프들을 쓸어버리지 <i>않았다면</i> 그 어떤 경이를 이룩 했을련지."
+msgstr "제국이 엘프들을 쓸어버리지 <b>않았다면</b> 그 어떤 경이를 이룩 했을련지."
 
 msgctxt "0x0000f129"
 msgid "I wish I could tell you. I'm sorry you won't have the chance."
@@ -209,7 +209,7 @@ msgctxt "0x0000f3e3"
 msgid ""
 " I just... I can't <i>think</i> here. Everything's too bright <i>and</i> too "
 "old."
-msgstr " 난 그저... 여기서 <i>생각</i>이란 걸 할 수가 없어. 전부 <i>너무 밝고 너무 낡았단</i> 말이지."
+msgstr " 난 그저... 여기서 <b>생각</b>이란 걸 할 수가 없어. 전부 <b>너무 밝고 너무 낡았단</b> 말이지."
 
 msgctxt "0x0000f3e4"
 msgid "Don't be afraid."
@@ -1297,11 +1297,11 @@ msgstr "주택 열쇠"
 
 msgctxt "0x000187a0"
 msgid "Chantry"
-msgstr "챈트리"
+msgstr "성가회"
 
 msgctxt "0x000187a1"
 msgid "Chantry"
-msgstr "챈트리"
+msgstr "성가회"
 
 msgctxt "0x000187b1"
 msgid "Approach the ladder to climb it."
@@ -2174,7 +2174,7 @@ msgstr "사냥꾼의 자루"
 
 msgctxt "0x0001c415"
 msgid "Old Chantry Trail Sign"
-msgstr "오래된 챈트리 표지판"
+msgstr "오래된 성가회 표지판"
 
 msgctxt "0x0001c5a6"
 msgid "Phylactery Cache"
@@ -3323,7 +3323,7 @@ msgstr "뭐야, 그럼... 여자가 공주 역할이 아닌 거야?"
 
 msgctxt "0x0002197a"
 msgid "No, no, no. First Actor Maudine was playing the <i>king</i>."
-msgstr "아니, 아니, 아니야. 수석 배우 모딘은 <i>국왕</i> 역할이라니까."
+msgstr "아니, 아니, 아니야. 수석 배우 모딘은 <b>국왕</b> 역할이라니까."
 
 msgctxt "0x0002197c"
 msgid ""
@@ -3357,7 +3357,7 @@ msgstr "말도 안 돼."
 
 msgctxt "0x0002199f"
 msgid "Oh, yes. <i>Such</i> a classic finale."
-msgstr "아아, 그렇지. <i>참 고전적인</i> 피날레라니까."
+msgstr "아아, 그렇지. <b>참 고전적인</b> 피날레라니까."
 
 msgctxt "0x000219ab"
 msgid "I thought that elven actor was very good tonight."
@@ -3375,7 +3375,7 @@ msgctxt "0x000219af"
 msgid ""
 "Of course not! Rendell is from Markham. It took him such a while to lose "
 "that <i>ridiculous</i> Free Marcher accent."
-msgstr "무슨 소리야! 렌델은 마컴 출신이라구. 그 <i>바보 같은</i> 자유 동맹 억양 고치느라 얼마나 오래 걸렸는데."
+msgstr "무슨 소리야! 렌델은 마컴 출신이라구. 그 <b>바보 같은</b> 자유 동맹 억양 고치느라 얼마나 오래 걸렸는데."
 
 msgctxt "0x000219b0"
 msgid ""
@@ -3771,7 +3771,7 @@ msgstr "표지판"
 
 msgctxt "0x00026205"
 msgid "Superb Fire Rune (Bow)"
-msgstr "최상급 화염 룬 (활)"
+msgstr "고급 화염 룬 (활)"
 
 msgctxt "0x00026206"
 msgid "Master Frost Rune (Bow)"
@@ -3779,7 +3779,7 @@ msgstr "우수한 서리 룬 (활)"
 
 msgctxt "0x00026207"
 msgid "Superb Lightning Rune (Bow)"
-msgstr "최상급 번개 룬 (활)"
+msgstr "고급 번개 룬 (활)"
 
 msgctxt "0x00026208"
 msgid "Fire Rune (Bow)"
@@ -3791,7 +3791,7 @@ msgstr "번개 룬 (활)"
 
 msgctxt "0x0002620c"
 msgid "Superb Frost Rune (Bow)"
-msgstr "최상급 서리 룬 (활)"
+msgstr "고급 서리 룬 (활)"
 
 msgctxt "0x0002620d"
 msgid "Master Fire Rune (Bow)"
@@ -3803,11 +3803,11 @@ msgstr "서리 룬 (활)"
 
 msgctxt "0x00026217"
 msgid "Master Lightning Rune (Bow)"
-msgstr "최상급 번개 룬 (활)"
+msgstr "고급 번개 룬 (활)"
 
 msgctxt "0x00026219"
 msgid "Superb Fire Rune (One-Handed)"
-msgstr "최상급 화염 룬 (한손무기)"
+msgstr "고급 화염 룬 (한손무기)"
 
 msgctxt "0x0002621a"
 msgid "Lightning Rune (One-Handed)"
@@ -3819,7 +3819,7 @@ msgstr "우수한 번개 룬 (한손무기)"
 
 msgctxt "0x0002621c"
 msgid "Superb Frost Rune (One-Handed)"
-msgstr "최상급 서리 룬 (한손무기)"
+msgstr "고급 서리 룬 (한손무기)"
 
 msgctxt "0x0002621d"
 msgid "Master Frost Rune (One-Handed)"
@@ -3827,7 +3827,7 @@ msgstr "우수한 서리 룬 (한손무기)"
 
 msgctxt "0x0002621e"
 msgid "Superb Lightning Rune (One-Handed)"
-msgstr "최상급 번개 룬 (한손무기)"
+msgstr "고급 번개 룬 (한손무기)"
 
 msgctxt "0x0002621f"
 msgid "Fire Rune (One-Handed)"
@@ -3859,7 +3859,7 @@ msgstr "우수한 번개 룬 (양손무기)"
 
 msgctxt "0x00026226"
 msgid "Superb Lightning Rune (Two-Handed)"
-msgstr "최상급 번개 룬 (양손무기)"
+msgstr "고급 번개 룬 (양손무기)"
 
 msgctxt "0x00026227"
 msgid "Master Fire Rune (Two-Handed)"
@@ -3867,11 +3867,11 @@ msgstr "우수한 화염 룬 (양손무기)"
 
 msgctxt "0x00026228"
 msgid "Superb Fire Rune (Two-Handed)"
-msgstr "최상급 화염 룬 (양손무기)"
+msgstr "고급 화염 룬 (양손무기)"
 
 msgctxt "0x00026229"
 msgid "Superb Frost Rune (Two-Handed)"
-msgstr "최상급 서리 룬 (양손무기)"
+msgstr "고급 서리 룬 (양손무기)"
 
 msgctxt "0x0002622a"
 msgid "Frost Rune (Two-Handed)"
@@ -4866,7 +4866,7 @@ msgstr "가스파드가 더러운 술수를 쓴다면 우리도 마땅히 그래
 
 msgctxt "0x0002a936"
 msgid "For that, we have to be <i>alive</i>."
-msgstr "그러려면 먼저 <i>살아는</i> 있어야 할 거 아냐."
+msgstr "그러려면 먼저 <b>살아는</b> 있어야 할 거 아냐."
 
 msgctxt "0x0002a997"
 msgid "Montevelan will need to be rebuilt."
@@ -5291,7 +5291,7 @@ msgstr "검 특화"
 
 msgctxt "0x0002cbbb"
 msgid "Why not? They rebelled from the Chantry."
-msgstr "안될 거 뭐 있어? 저자들은 챈트리에 반기를 들고 떨어져 나왔잖아."
+msgstr "안될 거 뭐 있어? 저자들은 성가회에 반기를 들고 떨어져 나왔잖아."
 
 msgctxt "0x0002cbbc"
 msgid "So we shouldn't try?"
@@ -5309,7 +5309,7 @@ msgstr "왜 사람들이 이 떨거지 성직자들 말에 귀를 기울이는�
 
 msgctxt "0x0002cbc0"
 msgid "We <i>are</i> trying."
-msgstr "시도<i>하고</i> 있잖아."
+msgstr "시도<b>하고</b> 있잖아."
 
 msgctxt "0x0002cbc1"
 msgid "Because the people are afraid. And they should be."
@@ -5444,7 +5444,7 @@ msgstr "선택하신 기술을 구매하는 데 문제가 있었습니다. 나�
 
 msgctxt "0x0002e8e6"
 msgid "Chantry Trail Signs"
-msgstr "챈트리 표지판"
+msgstr "성가회 표지판"
 
 msgctxt "0x0002e8f6"
 msgid "Bartender"
@@ -6631,7 +6631,7 @@ msgctxt "0x00033378"
 msgid ""
 "I lived in the Kirkwall alienage. When the templars invoked the Right of "
 "Annulment, it was like they went mad."
-msgstr "난 커크월 격리촌에 살았어. 성기사단이 무효화의 권리를 실시했을 때, 그들은 미쳐버린 것만 같았지."
+msgstr "난 커크월 격리촌에 살았어. 성기사단이 소거권을 시작했을 때, 그들은 미쳐버린 것만 같았지."
 
 msgctxt "0x0003337a"
 msgid "Be on guard for the templars out there."
@@ -7126,7 +7126,7 @@ msgstr "이것들을 찾는 게 어떻게든 도움 되는 일이면 좋겠는�
 
 msgctxt "0x00036344"
 msgid "These things shouldn't be <i>too</i> hard to find, right?"
-msgstr "이런 거 원래 <i>금방</i> 찾을 수 있어야 하는 거 아니야?"
+msgstr "이런 거 원래 <b>금방</b> 찾을 수 있어야 하는 거 아니야?"
 
 msgctxt "0x00036346"
 msgid "So I'm reduced to poking about for whatever the Inquisition desires?"
@@ -8430,7 +8430,7 @@ msgstr "말도 안 되게 춥잖아. 대체 남부인들은 이런 걸 어떻게
 
 msgctxt "0x0003bed3"
 msgid "Ugh. I bet there are bugs <i>everywhere</i>."
-msgstr "으. 저기 분명 벌레로 <i>들끓고</i> 있겠군."
+msgstr "으. 저기 분명 벌레로 <b>들끓고</b> 있겠군."
 
 msgctxt "0x0003bed4"
 msgid "When we get back to Skyhold, I'm going to the tavern."
@@ -9365,7 +9365,7 @@ msgctxt "0x0003e6d4"
 msgid ""
 "The thing with spiders? They go from not moving to being suddenly <i>on your "
 "face</i>."
-msgstr "거미의 문제점? 가만히 있다가 갑자기 <i>당신의 얼굴에</i> 나타나는 것이 그것들이다."
+msgstr "거미의 문제점? 가만히 있다가 갑자기 <b>당신의 얼굴에</b> 나타나는 것이 그것들이다."
 
 msgctxt "0x0003e6d6"
 msgid "Why doesn't it attack?"
@@ -9381,7 +9381,7 @@ msgstr "위험해 보이지 않는다."
 
 msgctxt "0x0003e6dc"
 msgid "<i>[Kill spider.]</i>"
-msgstr "<i>[거미를 죽인다.]</i>"
+msgstr "<b>[거미를 죽인다.]</b>"
 
 msgctxt "0x0003e6dd"
 msgid "I can't just leave it here in the cold."
@@ -9389,11 +9389,11 @@ msgstr "이 추위에 그냥 내버려 둘 수 없어."
 
 msgctxt "0x0003e6e0"
 msgid "<i>[Help spider.]</i>"
-msgstr "<i>[거미를 도운다.]</i>"
+msgstr "<b>[거미를 도운다.]</b>"
 
 msgctxt "0x0003e6e8"
 msgid "<i>[Leave.]</i>"
-msgstr "<i>[떠남.]</i>"
+msgstr "<b>[떠남.]</b>"
 
 msgctxt "0x0003e70c"
 msgid "Completed"
@@ -11415,7 +11415,7 @@ msgstr ""
 "\n"
 "경이 우리의 대의에 동참한다니 기쁩니다. 마지막으로 만났을 때, 가시돋친 말을 주고받고 헤어졌던 기억에 아직도 마음이 아픕니다. 테린팔의 "
 "성기사들은 분노가 이성을 이기는 것의 위험성을 보여줬습니다. 이곳에서 변절자들이 미적거리는 동안 저지를 만행들을 상상해보십시오. 친구여, "
-"챈트리는 통제불능 상태입니다. 우리는 이 길 잃은 기사들을 이성으로 이끄는 목소리가 되어야 합니다.\n"
+"성가회는 통제불능 상태입니다. 우리는 이 길 잃은 기사들을 이성으로 이끄는 목소리가 되어야 합니다.\n"
 "\n"
 "괜찮으시다면, 만나고 싶습니다. 제가 사과드릴테니 우리 사이의 다툼은 잠시 멈춥시다.\n"
 "\n"
@@ -11449,7 +11449,7 @@ msgstr "반드시 파열을 막아야 합니다!"
 
 msgctxt "0x00041e7b"
 msgid "Do remember <i>you're</i> the only one who can seal a rift!"
-msgstr "오직 <i>당신만이</i> 균열을 닫을 수 있는 사람이라는걸 기억해!"
+msgstr "오직 <b>당신만이</b> 균열을 닫을 수 있는 사람이라는걸 기억해!"
 
 msgctxt "0x00041e7c"
 msgid "Get ready for more company!"
@@ -13334,7 +13334,7 @@ msgstr ""
 
 msgctxt "0x000427cf"
 msgid "Superb Vanish Rune"
-msgstr "최상급 소멸 룬"
+msgstr "고급 소멸 룬"
 
 msgctxt "0x000427d0"
 msgid "Brink Rune"
@@ -13346,7 +13346,7 @@ msgstr "우수한 휩쓸기 룬"
 
 msgctxt "0x000427d2"
 msgid "Superb Sweeping Rune"
-msgstr "최상급 휩쓸기 룬"
+msgstr "고급 휩쓸기 룬"
 
 msgctxt "0x000427d3"
 msgid "Shockwave Rune"
@@ -13354,7 +13354,7 @@ msgstr "충격파 룬"
 
 msgctxt "0x000427d4"
 msgid "Superb Brink Rune"
-msgstr "최상급 위기 룬"
+msgstr "고급 위기 룬"
 
 msgctxt "0x000427d5"
 msgid "Master Detonate Rune"
@@ -13362,7 +13362,7 @@ msgstr "우수한 폭발 룬"
 
 msgctxt "0x000427d6"
 msgid "Superb Invigorating Rune"
-msgstr "최상급 격려 룬"
+msgstr "고급 격려 룬"
 
 msgctxt "0x000427d7"
 msgid "Invigorating Rune"
@@ -13370,7 +13370,7 @@ msgstr "격려 룬"
 
 msgctxt "0x000427d8"
 msgid "Superb Multishot Rune"
-msgstr "최상급 다중사격 룬"
+msgstr "고급 다중사격 룬"
 
 msgctxt "0x000427d9"
 msgid "Master Vanish Rune"
@@ -13386,7 +13386,7 @@ msgstr "우수한 다중사격 룬"
 
 msgctxt "0x000427dc"
 msgid "Superb Detonate Rune"
-msgstr "최상급 폭발 룬"
+msgstr "고급 폭발 룬"
 
 msgctxt "0x000427dd"
 msgid "Sweeping Rune"
@@ -13402,7 +13402,7 @@ msgstr "우수한 쪼개기 룬"
 
 msgctxt "0x000427e0"
 msgid "Superb Cleave Rune"
-msgstr "최상급 쪼개기 룬"
+msgstr "고급 쪼개기 룬"
 
 msgctxt "0x000427e1"
 msgid "Detonate Rune"
@@ -13434,7 +13434,7 @@ msgstr "우수한 충격파 룬"
 
 msgctxt "0x000427e8"
 msgid "Superb Stalker Rune"
-msgstr "최상급 추적자 룬"
+msgstr "고급 추적자 룬"
 
 msgctxt "0x000427e9"
 msgid ""
@@ -13610,15 +13610,15 @@ msgstr "처치 시 마력/기력 회복 확률"
 
 msgctxt "0x00042809"
 msgid "Superb Shockwave Rune"
-msgstr "최상급 충격파 룬"
+msgstr "고급 충격파 룬"
 
 msgctxt "0x00042810"
 msgid "Superb Fire Aura Rune"
-msgstr "최상급 불꽃의 오라 룬"
+msgstr "고급 불꽃의 오라 룬"
 
 msgctxt "0x00042811"
 msgid "Superb Ice Aura Rune"
-msgstr "최상급 서리의 오라 룬"
+msgstr "고급 서리의 오라 룬"
 
 msgctxt "0x00042813"
 msgid "Spirit Aura Rune"
@@ -13650,7 +13650,7 @@ msgstr "번개의 오라 룬"
 
 msgctxt "0x0004281d"
 msgid "Superb Lightning Aura Rune"
-msgstr "최상급 번개의 오라 룬"
+msgstr "고급 번개의 오라 룬"
 
 msgctxt "0x0004281e"
 msgid "Ice Aura Rune"
@@ -13658,7 +13658,7 @@ msgstr "서리의 오라 룬"
 
 msgctxt "0x0004281f"
 msgid "Superb Spirit Aura Rune"
-msgstr "최상급 영혼의 오라 룬"
+msgstr "고급 영혼의 오라 룬"
 
 msgctxt "0x00042866"
 msgid "Chin Character"
@@ -15281,7 +15281,7 @@ msgid ""
 "Glory. The elves took the sword, and it was never found, even after their "
 "defeat."
 msgstr ""
-"챈트리가 성립될 당시 교황 저스티니아 1세의 축복을 받았다고 전해지는 이 검은 발 르와이요의 백색 첨탑을 주관하는 기사단장에게 "
+"성가회가 성립될 당시 교황 저스티니아 1세의 축복을 받았다고 전해지는 이 검은 발 르와이요의 백색 첨탑을 주관하는 기사단장에게 "
 "수여되었다. 검은 후임 기사단장에게 계속해서 전해졌으나, 영광의 시대 2:14년 도시가 함락되면서 엘프의 손에 들어가고 말았다. 엘프의 "
 "패퇴 이후에도 검의 행방은 알려지지 않았다."
 
@@ -16225,7 +16225,7 @@ msgstr "캐릭터 기록 내 전술 탭에서 습득한 모든 기술을 확인�
 
 msgctxt "0x0004368c"
 msgid "1000<br><i><font color=\"#e4bf76\">+25 bonus</font></i>"
-msgstr "1000<br><i><font color=\"#e4bf76\">+25 추가량</font></i>"
+msgstr "1000<br><b><font color=\"#e4bf76\">+25 추가량</font></b>"
 
 msgctxt "0x0004368d"
 msgid "5600 Platinum"
@@ -16233,7 +16233,7 @@ msgstr "5600 플래티넘"
 
 msgctxt "0x0004368e"
 msgid "10000<br><i><font color=\"#e4bf76\">+1500 bonus Platinum</font></i>"
-msgstr "10000<br><i><font color=\"#e4bf76\">+1500 추가 플래티넘</font></i>"
+msgstr "10000<br><b><font color=\"#e4bf76\">+1500 추가 플래티넘</font></b>"
 
 msgctxt "0x0004368f"
 msgid "3300 Platinum"
@@ -16241,11 +16241,11 @@ msgstr "3300 플래티넘"
 
 msgctxt "0x00043690"
 msgid "5000<br><i><font color=\"#e4bf76\">+600 bonus</font></i>"
-msgstr "5000<br><i><font color=\"#e4bf76\">+600 추가량</font></i>"
+msgstr "5000<br><b><font color=\"#e4bf76\">+600 추가량</font></b>"
 
 msgctxt "0x00043691"
 msgid "2000<br><i><font color=\"#e4bf76\">+150 bonus</font></i>"
-msgstr "2000<br><i><font color=\"#e4bf76\">+150 추가량</font></i>"
+msgstr "2000<br><b><font color=\"#e4bf76\">+150 추가량</font></b>"
 
 msgctxt "0x00043693"
 msgid "11500 Platinum"
@@ -16253,7 +16253,7 @@ msgstr "11500 플래티넘"
 
 msgctxt "0x00043694"
 msgid "3000<br><i><font color=\"#e4bf76\">+300 bonus</font></i>"
-msgstr "3000<br><i><font color=\"#e4bf76\">+300 추가량</font></i>"
+msgstr "3000<br><b><font color=\"#e4bf76\">+300 추가량</font></b>"
 
 msgctxt "0x00043695"
 msgid "1025 Platinum"
@@ -16443,7 +16443,7 @@ msgid ""
 "fell to this new order, survivors bowed their heads and cursed your name, "
 "never realizing the real you was long dead."
 msgstr ""
-"당신의 모습을 한 시기의 악마는 심문회를 장악하여 파괴의 군대로 바꾸었다. 시기의 악마는 테다스를 정복하고, 챈트리를 파괴했으며 그 "
+"당신의 모습을 한 시기의 악마는 심문회를 장악하여 파괴의 군대로 바꾸었다. 시기의 악마는 테다스를 정복하고, 성가회를 파괴했으며 그 "
 "뒤에는 오직 시체와 노예, 붉은 리륨만이 남아있었다. 세계가 이 새로운 조직의 손에 떨어지자, 생존자들은 머리를 조아리고 당신의 이름을 "
 "저주했다. 진짜 당신은 오래 전에 죽었음을 눈치채지 못한 채로."
 
@@ -16474,7 +16474,7 @@ msgid ""
 "the templars left only slaves, corpses, and spikes of red lyrium in their "
 "wake. "
 msgstr ""
-"알 수 없는 힘에 의해 타락한 성기사단은 전 테다스를 날뛰며 돌아다녔고, 그 앞의 모든 것을 파괴했다. 챈트리는 그들을 막지 못했고, "
+"알 수 없는 힘에 의해 타락한 성기사단은 전 테다스를 날뛰며 돌아다녔고, 그 앞의 모든 것을 파괴했다. 성가회는 그들을 막지 못했고, "
 "성기사단이 지나간 자리에는 노예와 시체, 그리고 붉은 리륨 쐐기만이 남았다. "
 
 msgctxt "0x00043769"
@@ -18648,7 +18648,7 @@ msgid ""
 "forgotten by the years, lost the same as was her name, remaining only <i>("
 "scratched out)</i> DEATH for all! I failed no one!"
 msgstr ""
-"<i>고대 리베인어로 새겨진 문장:</i>\n"
+"<b>고대 리베인어로 새겨진 문장:</b>\n"
 "그것은 가까이 고통 받는 모두를 위해 불꽃과 비통의 노래를 부른다. 그것은 재능과 의지가 함께 빚어낸 걸작이자 보이는 것 이상이다. "
 "지금은 시간이 지나 잊힌 분노로 갈고 닦은 그 안에 가둬진 힘은 그녀의 이름과 같이 잊혀, 이제 남은 것은 (지워져 있다) 만물에 "
 "죽음을! 난 누구도 실망시키지 않았어!"
@@ -19559,6 +19559,7 @@ msgid ""
 "Destroy undead to gain Nevarran ceremonial skulls at Apostate's Landing, "
 "{string}235093{/string}, and Storm's Solitude in the Storm Coast."
 msgstr ""
+"네바라 의식용 해골을 얻기위해 폭풍 해안의 배교자의 선창, {string}235093{/string}, 폭풍의 고독에서 언데드를 파괴하자."
 
 #. USED IN :
 #.     0x00040bc4(265156) : Construct a philter, study the methods of the templars, and Ser will reveal the secrets of this legendary specialization. {string}280946{/string} {string}281404{/string}   While a warrior can only truly specialize in one style, studying others can still be of considerable benefit.
@@ -19598,7 +19599,7 @@ msgctxt "0x00044976"
 msgid ""
 "Collect spines from alpha quillbacks at Nazaire's Pass, the Canyons, and "
 "near Old Prison Road in the Western Approach."
-msgstr ""
+msgstr "서부 접경지의 나지르 고개, 협곡, 그리고 옛 감옥 대로의 근처에 있는 우두머리 퀼백을 죽여서 등뼈를 얻자."
 
 #. USED IN :
 #.     0x00040bad(265133) : Construct a proper standard, study the Champion's code, and Lord Chancer will reveal the secrets of this proud and noble specialization. {string}280951{/string} {string}281404{/string}   While a warrior can only truly specialize in one style, learning others can still be of considerable benefit.
@@ -19606,7 +19607,7 @@ msgctxt "0x00044977"
 msgid ""
 "Fight champions for their heraldic symbols at Ghilan'nain's Grove, "
 "Halin'sulahn, and the Desolate Bank in the Exalted Plains."
-msgstr ""
+msgstr "승임의 평야에서 길란나인의 숲, 할람술란, 황량한 강둑에서 용사들과 싸워 전령의 상징을 얻자."
 
 #. USED IN :
 #.     0x00040bc0(265152) : Fill a bottle of smoke, study the methods required to use it, and Kihm will reveal the secrets of the Tempest specialization. {string}280952{/string} {string}281404{/string}   While a rogue can only truly specialize in one style, studying others can still be of considerable benefit.
@@ -19630,7 +19631,7 @@ msgctxt "0x0004497d"
 msgid ""
 "<i>[Note: Choosing the templars will make it impossible to work with the "
 "mages.]</i>"
-msgstr "<i>[주의: 성기사단을 선택하면 마법사와 협력할 수 없게 됩니다.]</i>"
+msgstr "<b>[주의: 성기사단을 선택하면 마법사와 협력할 수 없게 됩니다.]</b>"
 
 #. USED IN :
 #.     0x000275df(161247) : {string}280958{/string}  Redcliffe Castle and the mages who could close the Breach are under the control of Magister Gereon Alexius, a Venatori cultist with an unhealthy interest in {spHeroLastName} and the power to reorder time itself. He has "kindly" invited {spHeroLastName} to the castle—alone—to negotiate. It's an obvious trap, but Leliana and her agents can infiltrate the castle and remove the Venatori threat while Alexius's attention is diverted. A dangerous game, but it's our best chance.  {string}281195{/string}: {string}281191{/string}
@@ -19638,7 +19639,7 @@ msgctxt "0x0004497e"
 msgid ""
 "<i>[Note: Choosing the mages will make it impossible to work with the "
 "templars.]</i>"
-msgstr "<i>[주의: 마법사들을 선택하면 성기사단과 협력할 수 없게 됩니다.]</i>"
+msgstr "<b>[주의: 마법사들을 선택하면 성기사단과 협력할 수 없게 됩니다.]</b>"
 
 msgctxt "0x0004497f"
 msgid ""
@@ -19651,31 +19652,31 @@ msgctxt "0x0004499a"
 msgid ""
 "Crafting materials will reappear after some time. Returning to previously "
 "searched areas can help you locate supplies."
-msgstr ""
+msgstr "제작용 재료들은 시간이 지나면 다시 나타납니다. 이전에 수색한 구역으로 돌아가면 보급품을 찾는 데 도움이 될 수 있습니다."
 
 msgctxt "0x0004499b"
 msgid ""
 "Metals are found in more mountainous and rocky areas. Explore these areas "
 "for caves, which are often home to these crafting resources."
-msgstr ""
+msgstr "금속들은 바위와 산악 지형에서 자주 발견됩니다. 이러한 제작용 자원들이 많이 존재하는 동굴을 탐험하십시오."
 
 msgctxt "0x0004499c"
 msgid "Spindleweed can be found near water."
-msgstr ""
+msgstr "회전초는 물가에서 찾을 수 있습니다."
 
 msgctxt "0x0004499d"
 msgid "Elfroot and embrium grow in open fields and wooded areas near trees."
-msgstr ""
+msgstr "엘프뿌리와 엠브리움은 평야와 나무 주변의 수목이 우거진 지역에서 자랍니다."
 
 msgctxt "0x0004499e"
 msgid ""
 "Use search to highlight any nearby crafting resources and help locate "
 "materials."
-msgstr ""
+msgstr "근처 제작용 자원에 강조 표시를 하고 재료의 위치를 찾으려면 탐색을 사용하세요."
 
 msgctxt "0x0004499f"
 msgid "Commands"
-msgstr ""
+msgstr "명령"
 
 msgctxt "0x000449b6"
 msgid "View Invitations"
@@ -19702,7 +19703,7 @@ msgstr "현재 사용중인 그래픽 카드에서는 그래픽 API 변경을 �
 
 msgctxt "0x00044a18"
 msgid "Screen resolution can only be changed in fullscreen mode."
-msgstr ""
+msgstr "화면 해상도는 전체화면에서만 변경할 수 있습니다."
 
 msgctxt "0x00044a30"
 msgid "You were kicked from this session and cannot rejoin."
@@ -23348,7 +23349,7 @@ msgstr "우리가 잃은 것."
 
 msgctxt "0x0004b208"
 msgid "Superb Requisitions"
-msgstr "최상급 보급품"
+msgstr "고급 보급품"
 
 msgctxt "0x0004b20a"
 msgid "Enhanced Requisitions"
@@ -23467,7 +23468,7 @@ msgstr "전설집"
 
 msgctxt "0x0004b415"
 msgid "Goldenscale"
-msgstr ""
+msgstr "황금 비늘"
 
 msgctxt "0x0004b417"
 msgid ""

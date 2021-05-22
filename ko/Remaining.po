@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-19 12:59+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2021-05-22 14:56+0000\n"
+"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -3910,7 +3910,7 @@ msgid ""
 "of her enemies on her sword and a war cry on her lips."
 msgstr ""
 "타마르는 용의 피를 섭취하여 자신의 능력을 길러낸 무시무시한 전사이다. 5차 대재앙 중 헤이븐에서 살던 광신자 중 하나인 그녀는 산으로 "
-"도망쳐 챈트리에게서 벗어났다. 타마르는 후에 심문회에게 붙잡혀 복역과 죽음의 갈림길을 맞이하였다. 감금되어 처형되는 일은 수치스러웠을 "
+"도망쳐 성가회에게서 벗어났다. 타마르는 후에 심문회에게 붙잡혀 복역과 죽음의 갈림길을 맞이하였다. 감금되어 처형되는 일은 수치스러웠을 "
 "것이다. 타마르는 적의 피가 묻은 검과 전쟁의 함성을 외치는 입술로 전장에서의 죽음을 원할 뿐이었다."
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP_Reaver
@@ -5792,13 +5792,13 @@ msgstr "엘프제 톱니바퀴의 조각인 것 같다."
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00030af6"
 msgid "Chantry Key"
-msgstr "챈트리 열쇠"
+msgstr "성가회 열쇠"
 
 #. FILE = DA3/DesignContent/Items/Multiplayer/SP/Sentinel_02/Sentinel_02_Key_Church
 #. PATH = StackedItemAsset/Description
 msgctxt "0x000306e8"
 msgid "A key to the abandoned chantry crypt."
-msgstr "버려진 챈트리 지하실로 가는 열쇠다."
+msgstr "버려진 성가회 지하실로 가는 열쇠다."
 
 #. FILE = DA3/DesignContent/Items/Multiplayer/SP/Sentinel_02/Sentinel_02_Key_LowerCrypt
 #. PATH = StackedItemAsset/DisplayName
@@ -5907,13 +5907,13 @@ msgstr "올레이 양식으로 장식된 침대."
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042bee"
 msgid "Andrastian Chantry Heraldry"
-msgstr "안드라스테 챈트리 문장"
+msgstr "안드라스테 성가회 문장"
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Heraldry/sky_heraldry_chantry
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042bef"
 msgid "Heraldry of the Andrastian Chantry."
-msgstr "안드라스테 챈트리의 문장."
+msgstr "안드라스테 성가회의 문장."
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Heraldry/sky_heraldry_circle
 #. PATH = StackedItemAsset/DisplayName
@@ -6046,7 +6046,7 @@ msgstr "안드라스테 유리창"
 msgctxt "0x00042c53"
 msgid ""
 "Stained glass windows depicting scenes and figures from Chantry history."
-msgstr "챈트리 역사의 장면과 인물을 묘사한 스테인드글라스 창."
+msgstr "성가회 역사의 장면과 인물을 묘사한 스테인드글라스 창."
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Windows/sky_windows_dalish
 #. PATH = StackedItemAsset/DisplayName
@@ -7013,7 +7013,7 @@ msgid ""
 msgstr ""
 "테다스의 과거에 관한 자세한 연구.\n"
 "\n"
-"역사나 챈트리에 관련된 새로운 대화 선택지들을 해금한다. 코덱스 항목 해금 시 획득하는 XP가 50% 증가한다."
+"역사나 성가회에 관련된 새로운 대화 선택지들을 해금한다. 코덱스 항목 해금 시 획득하는 XP가 50% 증가한다."
 
 #. FILE = DA3/DesignContent/Perks/Inquisition/perk_inquisition_inventory1
 #. PATH = UIInquisitionCustomizeItemAsset/Title
@@ -9358,7 +9358,7 @@ msgstr ""
 #. PATH = CritPathWarTableLocatorData/CritPathName
 msgctxt "0x000342ee"
 msgid "Address the Chantry in Val Royeaux"
-msgstr "발 르와이요에서의 챈트리 접선"
+msgstr "발 르와이요에서의 성가회 접선"
 
 #. FILE = DA3/DesignContent/Prefabs/Levels/Skyhold/WarTable/WT_InvestigationLocator_ValRoyeaux
 #. PATH = CritPathWarTableLocatorData/CritPathDescription
@@ -9376,9 +9376,9 @@ msgid ""
 "\n"
 "{string}281195{/string}: {string}281191{/string}"
 msgstr ""
-"남아있는 챈트리 주교들이 심문회를 이단으로 선언하였다. 대균열에 맞서기 위한 동맹을 모으려는 시도는 묵살당했고, 현재 군중들에게 "
+"남아있는 성가회 주교들이 심문회를 이단으로 선언하였다. 대균열에 맞서기 위한 동맹을 모으려는 시도는 묵살당했고, 현재 군중들에게 "
 "공격당하거나 체포되는 일 없이 수도에 발을 들이는 것은 불가능하다. \"안드라스테의 전령\"이 그들이 생각하는 괴물이 아니라는 것을 "
-"증명하려면 챈트리를 설득하여 도시 출입을 허락받아야 한다.\n"
+"증명하려면 성가회를 설득하여 도시 출입을 허락받아야 한다.\n"
 "\n"
 "{string}281195{/string}: {string}281191{/string}"
 
@@ -12013,25 +12013,25 @@ msgstr "백설 와이번 심장"
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042b54"
 msgid "Chantry Banner"
-msgstr "챈트리 깃발"
+msgstr "성가회 깃발"
 
 #. FILE = DA3/designcontent/Items/Skyhold/Banners/sky_banner_chantry_2
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042b6f"
 msgid "A banner of the Andrastian Chantry."
-msgstr "안드라스테 챈트리의 깃발."
+msgstr "안드라스테 성가회의 깃발."
 
 #. FILE = DA3/designcontent/Items/Skyhold/Banners/sky_banner_chantry_3
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042b59"
 msgid "Chantry Banner Crown"
-msgstr "챈트리 깃발장식"
+msgstr "성가회 깃발장식"
 
 #. FILE = DA3/designcontent/Items/Skyhold/Banners/sky_banner_chantry_3
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042b70"
 msgid "Ornamentation for an Andrastian Chantry banner."
-msgstr "안드라스테 챈트리 깃발에 다는 장식."
+msgstr "안드라스테 성가회 깃발에 다는 장식."
 
 #. FILE = DA3/designcontent/Items/Skyhold/Banners/sky_banner_circle_2
 #. PATH = StackedItemAsset/DisplayName
@@ -12913,13 +12913,13 @@ msgstr "{string}275425{/string}"
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042bba"
 msgid "Chantry Drapery"
-msgstr "챈트리 휘장"
+msgstr "성가회 휘장"
 
 #. FILE = DA3/designcontent/Items/Skyhold/Drapes/sky_drapes_chantry_1
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042bbb"
 msgid "Drapes bearing the holy emblems of the Andrastian Chantry."
-msgstr "안드라스테 챈트리의 신성한 상징을 새긴 휘장."
+msgstr "안드라스테 성가회의 신성한 상징을 새긴 휘장."
 
 #. FILE = DA3/designcontent/Items/Skyhold/Drapes/sky_drapes_chasind_1
 #. PATH = StackedItemAsset/DisplayName
@@ -13091,7 +13091,7 @@ msgctxt "0x00042c28"
 msgid ""
 "An ornate seat decorated with religious iconography from the Andrastian "
 "Chantry."
-msgstr "안드라스테 챈트리의 종교적 상징으로 장식된 화려한 좌석."
+msgstr "안드라스테 성가회의 종교적 상징으로 장식된 화려한 좌석."
 
 #. FILE = DA3/designcontent/Items/Skyhold/Thrones/sky_throne_chantry_2
 #. PATH = StackedItemAsset/DisplayName
@@ -14166,7 +14166,7 @@ msgctxt "0x00026c5f"
 msgid ""
 "With few exceptions, nobles and mages don't mix. The court eyes you with "
 "suspicion."
-msgstr "몇몇 예외를 제하면, 귀족과 마법사는 잘 조화되지 않는다.궁정은 당신을 의심스럽게 쳐다본다."
+msgstr "몇몇 예외적인 경우를 제하면, 귀족과 마법사가 어울리기란 쉽지 않다.궁정은 당신을 의심의 눈길로 쳐다보고 있다."
 
 #. FILE = DA3/designcontent/Prefabs/Levels/CritPlots/Halamshiral/hal_global_court_approval_flags
 #. PATH = BWPopUpEntityData[2]/Text
@@ -14174,7 +14174,7 @@ msgctxt "0x00026c12"
 msgid ""
 "To Orlesian nobility, a dwarf Herald of Andraste is ridiculous. The Court's "
 "view of you is dim for the moment."
-msgstr "올레이 귀족들에게, 안드라스테의 전령이 드워프라는 건 웃음거리다. 당신을 향한 궁정의 시선은 곱지 않다."
+msgstr "올레이 귀족들에게, 안드라스테의 전령이 드워프라는 사실은 조롱거리로 여겨지고 있다. 현재 당신을 향한 궁정의 시선은 곱지 않다."
 
 #. FILE = DA3/designcontent/Prefabs/Levels/CritPlots/Halamshiral/hal_global_court_approval_flags
 #. PATH = BWPopUpEntityData[3]/Text
@@ -14182,7 +14182,7 @@ msgctxt "0x00026a36"
 msgid ""
 "Orlesian nobility looks down on elves. The Court watches you with a critical "
 "eye."
-msgstr "올레이 귀족들은 엘프들을 천대한다. 궁정은 당신을 비판적인 눈으로 지켜본다."
+msgstr "올레이 귀족들은 엘프를 천시한다. 궁정은 당신을 비판적인 눈길로 지켜보고 있다."
 
 #. FILE = DA3/designcontent/Prefabs/Levels/CritPlots/Halamshiral/hal_global_court_approval_flags
 #. PATH = BWPopUpEntityData[4]/Text
@@ -14190,7 +14190,7 @@ msgctxt "0x00026c5e"
 msgid ""
 "The Orlesian court is pleased to see a noble—even a Marcher—leading the "
 "Inquisition. You're off to a good start."
-msgstr "올레이 궁정은 비록 자유동맹 출신이라지만 귀족이 심문회를 이끈다는 사실에 만족했다. 당신은 순조로운 출발을 한다."
+msgstr "올레이 궁정은 비록 자유동맹 출신이지만 귀족이 심문회를 이끈다는 사실에 만족하고 있다. 순조로운 출발이다."
 
 #. FILE = DA3/designcontent/Prefabs/Levels/CritPlots/Halamshiral/hal_global_court_approval_flags
 #. PATH = BWPopUpEntityData[5]/Text
@@ -14198,7 +14198,7 @@ msgctxt "0x00026a3e"
 msgid ""
 "Orlesians consider Qunari little better than ogres. You will have to work "
 "extremely hard to win them over."
-msgstr "올레이인들은 쿠나리를 오우거나 다름없다고 생각한다. 당신은 그들을 포섭하기 위해 극도로 힘들게 노력해야 할 것이다."
+msgstr "올레이인들은 쿠나리를 오우거나 다름없다고 여기고 있다. 그들을 포섭하기 위해서 엄청난 노력이 필요할 것이다."
 
 #. FILE = DA3/designcontent/Prefabs/Levels/CritPlots/Halamshiral/hal_global_court_approval_flags
 #. PATH = GetLocalizedStringIDData[2]/Text
@@ -16034,7 +16034,7 @@ msgid ""
 "A bag of caprice coins, discs minted for nobility to throw into fountains. "
 "They are stamped with a lion on one side and the Chantry's sunburst on the "
 "other."
-msgstr "귀족들이 분수에 던지는 카프리스 동전 한 묶음이다. 한 쪽에는 사자가, 한 쪽에는 챈트리의 태양빛 옥좌가 새겨져 있다."
+msgstr "귀족들이 분수에 던지는 카프리스 동전 한 묶음이다. 한 쪽에는 사자가, 한 쪽에는 성가회의 태양빛 옥좌가 새겨져 있다."
 
 #. FILE = DA3_DLC_Blue/designcontent/Items/dlcblue_catalogue
 #. PATH = StackedItemAsset/DisplayName

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-19 12:59+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2021-05-22 14:56+0000\n"
+"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -85,7 +85,7 @@ msgstr "정원 업그레이드 선택"
 #. PATH = UIBaseChoiceAsset/LeftChoice/UIBaseChoiceOption/OptionTitle
 msgctxt "0x000436c7"
 msgid "CHANTRY GARDEN"
-msgstr "챈트리 정원"
+msgstr "성가회 정원"
 
 #. FILE = UI/Assets/BaseChoices/UIBaseChoice_Garden
 #. PATH = UIBaseChoiceAsset/LeftChoice/UIBaseChoiceOption/OptionShortDesc
@@ -101,7 +101,7 @@ msgid ""
 "functional upgrade that brings a potential resource gain from the inspired, "
 "including gold from tithes."
 msgstr ""
-"정원을 챈트리로 업그레이드하여 누구에게나 희망을 선사합니다. 영감 받은 자들에게서 자원을 더 얻을 수 있고, 십일조 헌금으로 재화를 벌 "
+"정원을 성가회로 업그레이드하여 누구에게나 희망을 선사합니다. 영감 받은 자들에게서 자원을 더 얻을 수 있고, 십일조 헌금으로 재화를 벌 "
 "수 있습니다."
 
 #. FILE = UI/Assets/BaseChoices/UIBaseChoice_Garden
@@ -190,7 +190,7 @@ msgstr "심문회의 깃발을 변경하십시오."
 #. PATH = UIBaseCustomizeItemAsset/Title
 msgctxt "0x0001831f"
 msgid "ANDRASTIAN CHANTRY"
-msgstr "안드라스테 챈트리"
+msgstr "안드라스테 성가회"
 
 #. FILE = UI/Assets/BaseCustomization/BaseCust_Banner_Dalish
 #. PATH = UIBaseCustomizeItemAsset/Title
@@ -583,7 +583,7 @@ msgid ""
 "chaos."
 msgstr ""
 "마법사는 주문을 외워 마법적 능력을 발휘해, 적을 약화시키거나 아군을 보호하는 것부터 파괴적인 원소 에너지를 방출하는 등 다양한 효과를 "
-"낼 수 있습니다. 마법사는 대부분에게 두려움의 대상이며, 마법사들이 챈트리의 통제에 대항해 일으킨 반란은 세상을 혼란에 빠트렸습니다."
+"낼 수 있습니다. 마법사는 대부분에게 두려움의 대상이며, 마법사들이 성가회의 통제에 대항해 일으킨 반란은 세상을 혼란에 빠트렸습니다."
 
 #. FILE = UI/Assets/CharacterCreation/CharacterClassUIData
 #. PATH = UICharacterClassDataAsset/CharacterClasses/member[5]/CharacterClassUIData/ClassTitleFemale
@@ -602,7 +602,7 @@ msgid ""
 "chaos."
 msgstr ""
 "마법사는 주문을 외워 마법적 능력을 발휘해, 적을 약화시키거나 아군을 보호하는 것부터 파괴적인 원소 에너지를 방출하는 등 다양한 효과를 "
-"낼 수 있습니다. 마법사는 대부분에게 두려움의 대상이며, 마법사들이 챈트리의 통제에 대항해 일으킨 반란은 세상을 혼란에 빠트렸습니다."
+"낼 수 있습니다. 마법사는 대부분에게 두려움의 대상이며, 마법사들이 성가회의 통제에 대항해 일으킨 반란은 세상을 혼란에 빠트렸습니다."
 
 #. FILE = UI/Assets/CharacterCreation/CharacterClassUIData
 #. PATH = UICharacterClassDataAsset/CharacterClasses/member[5]/CharacterClassUIData/AlternateDescriptions/member/AlternateDescriptionUIData/AlternateDescription
@@ -769,8 +769,8 @@ msgid ""
 "sought to make peace between the templars and mages. It didn't go well."
 msgstr ""
 "트레벨리안 귀족 가문의 막내로 태어난 당신은 자유 동맹의 도시인 오스트윅에서 자랐고, 많은 특권을 누리며 살아왔습니다. 당신의 가문은 "
-"챈트리와 가까운 유대관계이며, 친척 중 많은 수가 사제가 되거나 성기사의 길을 걸었습니다. 당신 역시 창조주를 섬기는 비슷한 길을 걸을 "
-"것으로 모두가 예상했습니다—당신의 의지와는 상관 없이 말입니다. 원하든 원하지 않든, 당신은 챈트리의 콘클라베에 보내져 마법사들과 "
+"성가회와 가까운 유대관계이며, 친척 중 많은 수가 사제가 되거나 성기사의 길을 걸었습니다. 당신 역시 창조주를 섬기는 비슷한 길을 걸을 "
+"것으로 모두가 예상했습니다—당신의 의지와는 상관 없이 말입니다. 원하든 원하지 않든, 당신은 성가회의 콘클라베에 보내져 마법사들과 "
 "성기사단 사이의 평화를 이룩하려는 친척들을 돕기로 되어 있었습니다. 그러나, 일은 예상대로 흘러가지 않았습니다."
 
 #. FILE = UI/Assets/CharacterCreation/CharacterSummaryUIData
@@ -794,9 +794,9 @@ msgid ""
 "templars. It didn't go well."
 msgstr ""
 "자유 동맹의 오스트윅이라는 도시에서 귀족 가문에 태어난 당신은, 특권을 누리며 살아야 했습니다. 그러나 당신은 어린 나이에 마법의 재능을 "
-"보였고, 오스트윅 마법사 협회에 갇혀 사는 삶을 강요당했습니다. 만약 마법사들이 챈트리에 대항해 반란을 일으키지 않았더라면, 당신의 "
+"보였고, 오스트윅 마법사 협회에 갇혀 사는 삶을 강요당했습니다. 만약 마법사들이 성가회에 대항해 반란을 일으키지 않았더라면, 당신의 "
 "유일한 미래는 안전하지만 억제된, 교육받지만 고립된 협회 안의 생활뿐이었을 것입니다. 원하든 원하지 않든, 당신은 모든 \"자유로운\" "
-"마법사들을 사냥하는 성기사들에게서 도망치며 살기 위해 싸워야 했습니다. 성기사단과 평화 협상을 하기 위해 당신은 챈트리 콘클라베에 "
+"마법사들을 사냥하는 성기사들에게서 도망치며 살기 위해 싸워야 했습니다. 성기사단과 평화 협상을 하기 위해 당신은 성가회 콘클라베에 "
 "참석하는 마법사 대표단에 들어갔습니다. 그러나, 일은 예상대로 흘러가지 않았습니다."
 
 #. FILE = UI/Assets/CharacterCreation/CharacterSummaryUIData
@@ -821,7 +821,7 @@ msgid ""
 msgstr ""
 "오래 전 인간의 노예였던 엘프 대부분은 아직도 인간 사회에서 하등시민으로 살아갑니다. 이런 삶을 거부한 엘프는 데일스라 불립니다. "
 "데일스는 유랑 생활을 하며 고대 엘프의 종교와 전통을 지키고자 노력합니다. 라벨란 부족에서 자란 당신은 부족의 사냥꾼이자 방위대입니다. "
-"부족은 자유 동맹 북쪽을 전전하며 인간과 접점 없이 지내왔습니다. 어느 날 부족의 수호자는 당신을 챈트리 콘클라베를 염탐할 것을 "
+"부족은 자유 동맹 북쪽을 전전하며 인간과 접점 없이 지내왔습니다. 어느 날 부족의 수호자는 당신을 성가회 콘클라베를 염탐할 것을 "
 "지시합니다. 여기서 일어날 일이 데일스 뿐만 아니라 모든 엘프의 삶에 영향을 미칠 것이라면서. 그렇게 정확한 말일 수 없었습니다."
 
 #. FILE = UI/Assets/CharacterCreation/CharacterSummaryUIData
@@ -846,7 +846,7 @@ msgid ""
 msgstr ""
 "오래 전 인간의 노예였던 엘프 대부분은 아직도 인간 사회에서 하등시민으로 살아갑니다. 이런 삶을 거부한 엘프는 데일스라 불립니다. "
 "데일스는 유랑 생활을 하며 고대 엘프의 종교와 전통을 지키고자 노력합니다. 라벨란 부족에서 자란 당신은 부족의 리더이자 조언자인 수호자의 "
-"수습생입니다. 부족은 자유 동맹 북쪽을 전전하며 인간과 접점 없이 지내왔습니다. 어느 날 부족의 수호자는 당신을 챈트리 콘클라베를 염탐할 "
+"수습생입니다. 부족은 자유 동맹 북쪽을 전전하며 인간과 접점 없이 지내왔습니다. 어느 날 부족의 수호자는 당신을 성가회 콘클라베를 염탐할 "
 "것을 지시합니다. 여기서 일어날 일이 데일스 뿐만 아니라 모든 엘프의 삶에 영향을 미칠 것이라면서. 그렇게 정확한 말일 수 없었습니다."
 
 #. FILE = UI/Assets/CharacterCreation/CharacterSummaryUIData
@@ -22591,7 +22591,7 @@ msgctxt "0x000275d4"
 msgid ""
 "Known for its culture of extravagant nobility, yet also as the birthplace of "
 "the Chantry, Orlais is the most powerful human nation in Thedas."
-msgstr "챈트리의 기원이자 화려한 귀족층으로 유명한 올레이는 테다스에서 가장 강력한 인간 국가입니다."
+msgstr "성가회의 기원이자 화려한 귀족층으로 유명한 올레이는 테다스에서 가장 강력한 인간 국가입니다."
 
 #. FILE = UI/Flow/Screen/ENV/ENV_WarTable
 #. PATH = UIWarTableScreenAsset/RightMapInfo/MapBinaryChoiceInfo/Title

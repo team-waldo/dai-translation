@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-19 12:59+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2021-05-22 14:59+0000\n"
+"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -457,7 +457,7 @@ msgid ""
 "battle. They summon blades from the Fade and are experts in protection and "
 "defense."
 msgstr ""
-"챈트리에서 전장에서 싸울 수 있도록 특별히 허가받은 희귀한 마법사들입니다. 영계로부터 검을 소환해 싸우며, 보호와 방어의 달인입니다."
+"성가회에서 전장에서 싸울 수 있도록 특별히 허가받은 희귀한 마법사들입니다. 영계로부터 검을 소환해 싸우며, 보호와 방어의 달인입니다."
 
 #. FILE = DA3/Party/General/AbilityTrees/Mage_Primal_AbilityTree
 #. PATH = BWAbilityTree/TreeNameReference
@@ -4937,7 +4937,7 @@ msgid ""
 "blows.\n"
 "\n"
 msgstr ""
-"대상의 측면이나 후방에서 가하는 공격은 더 치명적입니다.\n"
+"대상의 측면이나 후방에서 가하는 공격이 더 치명적으로 변합니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/Passives/Cutthroat/party_rogue_passive_cutthroat_abilitydata
@@ -5662,7 +5662,7 @@ msgid ""
 "incoming attacks.\n"
 "\n"
 msgstr ""
-"아군이 힘차게 싸울 수 있도록 북돋습니다. 아군의 방어도, 기력, 마나가 지속적으로 재생됩니다. 일정 시간 동안 아군이 입는 피해량이 "
+"아군이 힘차게 싸울 수 있도록 북돋습니다. 일정 시간 동안 아군의 방어도, 기력, 마나가 지속적으로 재생되고, 적에게 받는 피해량이 "
 "감소합니다.\n"
 "\n"
 
@@ -6639,7 +6639,7 @@ msgid ""
 "Better them than you.\n"
 "\n"
 msgstr ""
-"기절했거나 쓰러진 적에게 추가 피해를 줍니다. 당하는 입장보다는 훨씬 낫죠.\n"
+"기절했거나 쓰러진 적에게 추가 피해를 줍니다. 엎친 데 덮친 격입니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Warrior/Passives/ShieldSpecialization/party_warrior_passive_shieldspecialization_abilitydata
@@ -6752,7 +6752,7 @@ msgid ""
 "nerves and goad them into mistakes that leave them open.\n"
 "\n"
 msgstr ""
-"적의 신경을 긁어 빈틈을 보이게끔 유도합니다. 도발에 넘어온 적은 파티원의 공격에 취약해집니다.\n"
+"적의 신경을 긁어 빈틈을 보이도록 유도합니다. 도발에 넘어온 적은 파티원의 공격에 취약해집니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Warrior/Passives/WeaponMastery/party_warrior_passive_weaponmastery_abilitydata
@@ -7078,7 +7078,7 @@ msgstr ""
 #. PATH = BWAbilityUpgrade/AbilityNameReference
 msgctxt "0x0004b2bb"
 msgid "Annulment"
-msgstr "무효화"
+msgstr "소거권"
 
 #. FILE = DA3/Party/Warrior/Templar/Dispel/party_warrior_templar_dispel_upgrade2_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityDescriptionReference
@@ -7710,7 +7710,7 @@ msgid ""
 "After you finish your charge, your next ability costs no stamina.\n"
 "\n"
 msgstr ""
-"돌진이 종료된 후 다음 기술은 기력을 소모하지 않습니다.\n"
+"거침없는 돌격 직후 다음 기술은 기력을 소모하지 않습니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Warrior/Vanguard/Charge/party_warrior_vanguard_charge_upgrade2_abilitydata

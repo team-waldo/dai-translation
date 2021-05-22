@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-19 12:59+0000\n"
+"PO-Revision-Date: 2021-05-22 14:56+0000\n"
 "Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
@@ -4953,7 +4953,7 @@ msgstr "용 갑옷"
 #. PATH = Recipe/DisplayName
 msgctxt "0x000403b5"
 msgid "Superb Heavy Armor of the Dragon"
-msgstr "최상급 중갑 용의 방어구"
+msgstr "고급 중갑 용의 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/OnePiece/recipe_heavy_1p_dwarf_legion
 #. PATH = Recipe/DisplayName
@@ -5553,7 +5553,7 @@ msgstr "경량 용의 방어구"
 #. PATH = Recipe/DisplayName
 msgctxt "0x000403c3"
 msgid "Superb Light Armor of the Dragon"
-msgstr "최상급 경량 용의 방어구"
+msgstr "고급 경량 용의 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/OnePiece/recipe_light_1p_elf_dalish
 #. PATH = Recipe/DisplayName
@@ -6129,7 +6129,7 @@ msgstr "평장 용의 방어구"
 #. PATH = Recipe/DisplayName
 msgctxt "0x000403e5"
 msgid "Superb Medium Armor of the Dragon"
-msgstr "최상급 평장 용의 방어구"
+msgstr "고급 평장 용의 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/OnePiece/recipe_medium_1p_dwarf_carta
 #. PATH = Recipe/DisplayName
@@ -9229,7 +9229,7 @@ msgid ""
 "Inquisition's needs. Increase the ability to grow herbs, or create a chantry "
 "space to gather resources from the faithful. {string}277939{/string}"
 msgstr ""
-"정원에 자원을 투자하면 약초 재배 한도를 늘리거나, 신자들로부터 자원을 획득할 수 있는 챈트리 공간을 신축하여 정원의 쓰임새를 높이는 "
+"정원에 자원을 투자하면 약초 재배 한도를 늘리거나, 신자들로부터 자원을 획득할 수 있는 성가회 공간을 신축하여 정원의 쓰임새를 높이는 "
 "동시에 심문회가 중요시하는 것들을 보여줄 수 있다. {string}277939{/string}"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_main_tower
@@ -9554,7 +9554,7 @@ msgstr "3단계 지팡이 손잡이 도안"
 #. PATH = Recipe/CraftingName
 msgctxt "0x00024381"
 msgid "Superb Grip"
-msgstr "최상급 손잡이"
+msgstr "고급 손잡이"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Mage/Staff/recipe_staff_grip_t3_2
 #. PATH = Recipe/DisplayName
@@ -9710,7 +9710,7 @@ msgstr "선견자 지팡이"
 #. PATH = Recipe/DisplayName
 msgctxt "0x00040337"
 msgid "Superb Staff of the Dragon"
-msgstr "최상급 용의 지팡이"
+msgstr "고급 용의 지팡이"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Rogue/Bianca/recipe_bianca_aiming_t1_1
 #. PATH = Recipe/DisplayName
@@ -9848,7 +9848,7 @@ msgstr "3단계 비앙카 무장 도안"
 #. PATH = Recipe/CraftingName
 msgctxt "0x000333f0"
 msgid "Superb Limbs"
-msgstr "최상급 쇠뇌 뼈대"
+msgstr "고급 쇠뇌 뼈대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Rogue/Bianca/recipe_bianca_arms_t3_2_rare
 #. PATH = Recipe/DisplayName
@@ -10148,7 +10148,7 @@ msgstr "백조 장궁"
 #. PATH = Recipe/DisplayName
 msgctxt "0x00040339"
 msgid "Superb Bow of the Dragon"
-msgstr "최상급 용의 활"
+msgstr "고급 용의 활"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Rogue/Bows/recipe_mp2_bow_mp_respec_archer
 #. PATH = Recipe/DisplayName
@@ -10340,7 +10340,7 @@ msgstr "늑골분쇄기"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0004033b"
 msgid "Superb Dagger of the Dragon"
-msgstr "최상급 용의 단검"
+msgstr "고급 용의 단검"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Rogue/Daggers/recipe_dualdagger_grip_t2_4
 #. PATH = Recipe/DisplayName
@@ -10496,7 +10496,7 @@ msgstr "우수한 화염 룬"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0002620e"
 msgid "Superb Fire Rune"
-msgstr "최상급 화염 룬"
+msgstr "고급 화염 룬"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Runes/recipe_rune_frost_1
 #. PATH = Recipe/DisplayName
@@ -10520,7 +10520,7 @@ msgstr "우수한 서리 룬"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0002620a"
 msgid "Superb Frost Rune"
-msgstr "최상급 서리 룬"
+msgstr "고급 서리 룬"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Runes/recipe_rune_lightning_1
 #. PATH = Recipe/DisplayName
@@ -10544,7 +10544,7 @@ msgstr "우수한 번개 룬"
 #. PATH = Recipe/DisplayName
 msgctxt "0x00026216"
 msgid "Superb Lightning Rune"
-msgstr "최상급 번개 룬"
+msgstr "고급 번개 룬"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Runes/recipe_rune_vs_corrupted_1
 #. PATH = Recipe/DisplayName
@@ -10570,7 +10570,7 @@ msgstr "우수한 정화의 룬"
 #. PATH = Recipe/DisplayName
 msgctxt "0x00044122"
 msgid "Superb Cleansing Rune"
-msgstr "최상급 정화의 룬"
+msgstr "고급 정화의 룬"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Runes/recipe_rune_vs_demons_1
 #. PATH = Recipe/DisplayName
@@ -10594,7 +10594,7 @@ msgstr "우수한 악마살해자 룬"
 #. PATH = Recipe/DisplayName
 msgctxt "0x000297b6"
 msgid "Superb Demon-Slaying Rune"
-msgstr "최상급 악마살해자 룬"
+msgstr "고급 악마살해자 룬"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Runes/recipe_rune_vs_dragons_1
 #. PATH = Recipe/DisplayName
@@ -10618,7 +10618,7 @@ msgstr "우수한 용살자 룬"
 #. PATH = Recipe/DisplayName
 msgctxt "0x000297b8"
 msgid "Superb Dragon-Slaying Rune"
-msgstr "최상급 용살자 룬"
+msgstr "고급 용살자 룬"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Runes/recipe_rune_vs_living_1
 #. PATH = Recipe/DisplayName
@@ -10644,7 +10644,7 @@ msgstr "우수한 타락의 룬"
 #. PATH = Recipe/DisplayName
 msgctxt "0x000297ba"
 msgid "Superb Corrupting Rune"
-msgstr "최상급 타락의 룬"
+msgstr "고급 타락의 룬"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Runes/recipe_staff_rune_spirit_1
 #. PATH = Recipe/DisplayName
@@ -10668,7 +10668,7 @@ msgstr "우수한 영혼 룬"
 #. PATH = Recipe/DisplayName
 msgctxt "0x000291be"
 msgid "Superb Spirit Rune"
-msgstr "최상급 영혼 룬"
+msgstr "고급 영혼 룬"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Axes/dlcblue_recipe_lsword_elementaldamage
 #. PATH = Recipe/DisplayName
@@ -10746,7 +10746,7 @@ msgstr "3단계 한손 손잡이 도안"
 #. PATH = Recipe/CraftingName
 msgctxt "0x00043fa8"
 msgid "Superb Haft"
-msgstr "최상급 자루"
+msgstr "고급 자루"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Axes/recipe_1handed_grip_t3_5
 #. PATH = Recipe/DisplayName
@@ -10920,7 +10920,7 @@ msgstr "넓적검"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0004033d"
 msgid "Superb Longsword of the Dragon"
-msgstr "최상급 용의 장검"
+msgstr "고급 용의 장검"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Axes/recipe_mp2_axe_mp_respec_legionnaire
 #. PATH = Recipe/DisplayName
@@ -11142,7 +11142,7 @@ msgstr "대검"
 #. PATH = Recipe/DisplayName
 msgctxt "0x00040341"
 msgid "Superb Greatsword of the Dragon"
-msgstr "최상급 용의 대검"
+msgstr "고급 용의 대검"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Greataxes/recipe_gsword_grip_t1_2
 #. PATH = Recipe/DisplayName
@@ -11208,7 +11208,7 @@ msgstr "용의 대망치"
 #. PATH = Recipe/DisplayName
 msgctxt "0x00040344"
 msgid "Superb Maul of the Dragon"
-msgstr "최상급 용의 대망치"
+msgstr "고급 용의 대망치"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Greataxes/recipe_mp2_greataxe_mp_respec_katari
 #. PATH = Recipe/DisplayName
@@ -11286,7 +11286,7 @@ msgstr "3단계 양손 끝장식 도안"
 #. PATH = Recipe/CraftingName
 msgctxt "0x000243f0"
 msgid "Superb Pommel"
-msgstr "최상급 끝장식"
+msgstr "고급 끝장식"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Greataxes/recipe_pommel_t3_5
 #. PATH = Recipe/DisplayName
@@ -11962,7 +11962,7 @@ msgstr "명품 파수대 방패"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0004033f"
 msgid "Superb Shield of the Dragon"
-msgstr "최상급 용의 방패"
+msgstr "고급 용의 방패"
 
 #. FILE = DA3/Equipment/Crafting/Special/equip_template_ferelden_trebuchet
 #. PATH = EquipItemAsset/DisplayName
@@ -14302,7 +14302,7 @@ msgid ""
 msgstr ""
 "태초의 심문회의 마지막 지도자는 아메리단이라는 자였다. 저명한 용사냥꾼이었던 그는 그 영웅적 평판과 전사로서의 기량으로 심문회의 일원이 "
 "되었다. 당대의 기록에 그는 심문회를 복구하기 위한 결의로 찬 열정적인 인물이자, 지도자 직위의 복잡함에 얽매이지 않고 대의를 위해 힘을 "
-"쏟는 신심 깊은 인물로 그려졌다. 챈트리의 창립자인 올레이 황제, 코딜러스 드레이콘의 친우이기도 했던 그는 심문회의 해산 직후 종적을 "
+"쏟는 신심 깊은 인물로 그려졌다. 성가회의 창립자인 올레이 황제, 코딜러스 드레이콘의 친우이기도 했던 그는 심문회의 해산 직후 종적을 "
 "감추었다. 누군가는 그가 무모하게 용사냥에 나섰다가 실패했다 하기도 하고, 신생 성기사단이 자신의 그림자에 가려지는 것을 바라지 않아 "
 "자의로 사람들의 눈을 피해 숨었다고도 한다. 진실이 무엇이건 간에, 황제의 광범위한 수색에도 그는 모습을 드러내지 않았다."
 
@@ -14419,7 +14419,7 @@ msgid ""
 "no. It's for a duel, he said. Bloody Orlesians. Dwarven pride demanded I "
 "make the damned thing effective, at least.\""
 msgstr ""
-"\"해서 내가 그랬지, '<i>뭘</i> 만들어 달라굽쇼?' 알고보니 맨 처음에 똑바로 들은 거였지 뭐야. 꽃을 엮어 만든 머리장식이요, "
+"\"해서 내가 그랬지, '<b>뭘</b> 만들어 달라굽쇼?' 알고보니 맨 처음에 똑바로 들은 거였지 뭐야. 꽃을 엮어 만든 머리장식이요, "
 "하더군. 근데 꽃을 계속 살아있게 하기 위해서 주변에 리륨 맥을 둘러야 한다는 게야. 난 분명 엘프들의 헛짓거리 중 하나라고 생각했어. "
 "숲속에서 뒹굴려나보다 싶었지. 근데 아니더구먼. 글쎄 결투할 때 쓸 거라지 않나. 돌아버린 올레이 놈들. 드워프로서 자존심이 동하는 "
 "바람에 적어도 고 빌어먹을 물건을 효과적으로 만들기는 했지.\""
@@ -17742,7 +17742,7 @@ msgstr "청동 도토리 부적"
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x000299a4"
 msgid "Chantry Candle Stub"
-msgstr "챈트리 양초 토막"
+msgstr "성가회 양초 토막"
 
 #. FILE = DA3/Equipment/Items/Valuables/Tier2/valuable_Dragon_Bounty
 #. PATH = StackedItemAsset/DisplayName
@@ -19194,8 +19194,8 @@ msgid ""
 "<i>Her Hands of the Staveworks</i>"
 msgstr ""
 "\"수백년 간 우리는 만들어 왔다. 앞으로도 수백년 간 우리는 만들 것이다. 저들이 모든 마법사를 죽인들, 그래도 우리는 계속 만들 "
-"것이다. 그러나 저들은 그리하지 못한다. <i>우리가 만드는 것</i>이 존재하기에.\"\n"
-"<i>지팡이를 만드는 그분의 대리자</i>"
+"것이다. 그러나 저들은 그리하지 못한다. <b>우리가 만드는 것</b>이 존재하기에.\"\n"
+"<b>지팡이를 만드는 그분의 대리자</b>"
 
 #. FILE = DA3/Equipment/Items/Weapons/Mage/Staff/equip_staff_t3_19_rare
 #. PATH = EquipItemAsset/DisplayName
@@ -20298,7 +20298,7 @@ msgid ""
 "capture, cut her throat with her own daggers."
 msgstr ""
 "올레이에서 가장 이름높은 엘프 범죄자는 검은 교황의 시대 4:45년, 슈발리에 세 명을 살해한 혐의로 체포된 '할람시랄의 알리다'이다. "
-"교황 클레멘스 1세가 주재한 재판에서 밝혀지기를, 알리다는 사실 <i>열두 명의</i> 슈발리에를 살해하였으며, 기사들을 빈민굴로 보내 "
+"교황 클레멘스 1세가 주재한 재판에서 밝혀지기를, 알리다는 사실 <b>열두 명의</b> 슈발리에를 살해하였으며, 기사들을 빈민굴로 보내 "
 "통금을 어긴 엘프를 공격하게 하는 사관학교의 \"졸업식\" 전통에 반발하여 그와 같은 일을 벌였음이 드러났다. 이후 알리다는 탈주해 스무 "
 "명의 슈발리에를 추가로 살해하였으며, 개중 두 명은 한 전투에서 동시에 처치했다고 한다. 알리다는 막다른 길에 몰린 끝에 잡히는 것을 "
 "피하기 위해 그 단검으로 자신의 숨통을 직접 끊었다고 한다."
@@ -20414,7 +20414,7 @@ msgid ""
 "southern neighbors. It's hard to place the age of it since the edge never "
 "tarnishes."
 msgstr ""
-"치명적인 야수의 이름을 땄지만, 이 무기는 완력으로 휘두르기만 해서 되는 물건이 아니다. 그보다는 더 우아한 힘, <i>욕구</i>가 "
+"치명적인 야수의 이름을 땄지만, 이 무기는 완력으로 휘두르기만 해서 되는 물건이 아니다. 그보다는 더 우아한 힘, <b>욕구</b>가 "
 "칼끝을 심장으로 이끈다. 손잡이는 세헤론의 것이지만, 칼날을 이루는 금속은 세헤론은 물론이고 남부 어디서도 찾을 수 없는 것이다. 날이 "
 "전혀 손상되지 않기에 그 연대를 짐작하는 것이 어려운 물건이다."
 
@@ -21204,7 +21204,7 @@ msgid ""
 "day, Halamshiral elves consider his name a curse."
 msgstr ""
 "리베인 성기사단에 속해 있었던 메흐메트 경이 데일스에서 일어난 숭고한 거병에서 활약한 이유는 단 한 가지뿐이었는데, 이는 바로 그가 "
-"엘프들을 죽이는 것을 광적으로 사랑하기 때문이었다. 그는 이를 원동력 삼아 수많은 승리를 거두었고, 챈트리는 그가 사망한 후 그의 업적을 "
+"엘프들을 죽이는 것을 광적으로 사랑하기 때문이었다. 그는 이를 원동력 삼아 수많은 승리를 거두었고, 성가회는 그가 사망한 후 그의 업적을 "
 "기리기 위해 성자로 추대하였다. 오늘날, 할람시랄 엘프들에게 그의 이름은 저주와도 같다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Mauls/equip_maul_t3_3
@@ -21996,7 +21996,7 @@ msgid ""
 "the shield."
 msgstr ""
 "원기왕성한 체질을 지닌 이들이 요긴하게 다룰 법한 이채로운 방패다. 용이 탈피할 때 떨어진 비늘 파편이 부드러운 바람을 타고 어느 "
-"낙농가에 내리면서 만들어졌다. 이 방패를 들고 활약한 몬테레이의 자크 경은 무적으로 일컬어졌으나, 올레이어로 <i>파르 메산</i>, 즉 "
+"낙농가에 내리면서 만들어졌다. 이 방패를 들고 활약한 몬테레이의 자크 경은 무적으로 일컬어졌으나, 올레이어로 <b>파르 메산</b>, 즉 "
 "\"불명예스럽게\" 싸운 순간 최후를 맞고 말았다. 그는 몸에 숭숭 구멍이 뚫린 채 쓰러질 때 애석하다는 듯이, 실패한 것은 자신이지 "
 "방패가 아니라는 단말마를 남겼다."
 
@@ -22048,10 +22048,10 @@ msgid ""
 "The Seekers of Truth later apprehended Ser Nicolas, who had left the Order "
 "to kill mages and admitted to having murdered over a hundred."
 msgstr ""
-"쌍탑의 시대 3:09년, 마법사 협회에 역대 세 번째의 무효화의 권리가 선언되었을 때, 당시 기사단장이던 안티바의 제르바지오는 악마 "
-"빙의를 빌미로 도시의 마법사들을 모조리 살해했다. 하지만 이 학살은 실상 기사대장 니콜라스에 의해 촉발되었을 가능성이 있으며, 권리의 "
-"선언은 그저 이를 은폐하기 위한 것이었는지도 모른다. 마법사를 죽이기 위해 기사단을 떠난 니콜라스 경은 후일 진리의 구도자들에게 "
-"체포되었고, 그는 백 명이 넘는 마법사를 살해했다고 시인하였다."
+"쌍탑의 시대 3:09년, 역사상 세 번째 소거권이 마법사 협회를 향해 시행되었을 때, 당시 기사단장이던 안티바의 제르바지오는 악마 빙의를 "
+"빌미로 도시의 마법사들을 모조리 살해했다. 하지만 이 학살은 실상 기사대장 니콜라스에 의해 촉발되었을 가능성이 있으며, 소거권 선언은 "
+"그저 이를 은폐하기 위한 위장이었을지도 모른다. 마법사를 죽이기 위해 기사단을 떠난 니콜라스 경은 후일 진리의 구도자들에게 체포되었고, "
+"그는 백 명이 넘는 마법사를 살해했다고 시인하였다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/WeaponShield/Shields/equip_shield_t3_1
 #. PATH = EquipItemAsset/DisplayName
@@ -23444,8 +23444,8 @@ msgid ""
 "Andrastian mages once used staves like this one to exact justice against "
 "maleficarum. None have been made since the Towers Age."
 msgstr ""
-"안드라스테 신앙을 지닌 마법사들은 한때 이런 지팡이를 사악한 마법사들을 처단하는 데 사용했다. 이 종류의 지팡이는 쌍탑의 시대 이후로는 "
-"일절 제작되지 않았다."
+"안드라스테 신앙을 지닌 마법사들은 한때 이런 지팡이를 말레피카들을 처단하는 데 사용했다. 이 종류의 지팡이는 쌍탑의 시대 이후로는 일절 "
+"제작되지 않았다."
 
 #. FILE = DA3_DLC1/Equipment/Items/Weapons/Mage/Staff/dlc1_equip_dlc1_staff_energy
 #. PATH = EquipItemAsset/DisplayName
@@ -23479,8 +23479,8 @@ msgid ""
 "Hunters, those Emerald Knights tasked with protecting the Dalish kingdom "
 "from maleficarum and demons."
 msgstr ""
-"할람시랄의 타나레스라는 전설의 엘프 대장장이는 한때 사악한 마법사와 악마들로부터 데일스 왕국을 보호하는 임무를 맡은 에메랄드 기사들인, "
-"영계 사냥꾼들을 위해 활을 만들었다."
+"할람시랄의 타나레스라는 전설의 엘프 대장장이는 한때 말레피카와 악마들로부터 데일스 왕국을 보호하는 임무를 맡은 에메랄드 기사들인, 영계 "
+"사냥꾼들을 위해 활을 만들었다."
 
 #. FILE = DA3_DLC1/Equipment/Items/Weapons/Rogue/Bows/dlc1_equip_dlc1_bow_2
 #. PATH = EquipItemAsset/DisplayName
@@ -23950,7 +23950,7 @@ msgstr "구입/판매"
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0004b38b"
 msgid "Superb Crossbow Arms"
-msgstr "최상급 석궁 무장"
+msgstr "고급 석궁 무장"
 
 #. FILE = DA3_DLC_Blue/equipment/Sigils/dlcblue_part_type_sigil
 #. PATH = ItemPartType/DisplayName

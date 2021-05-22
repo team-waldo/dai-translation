@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-19 12:56+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2021-05-22 14:56+0000\n"
+"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1117,7 +1117,7 @@ msgstr "{string}280827{/string}"
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x000421d8"
 msgid "Join Leliana at the chantry in Valence."
-msgstr "발렁스에 있는 챈트리에서 렐리아나와 만나자."
+msgstr "발렁스에 있는 성가회에서 렐리아나와 만나자."
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/Leliana/lel_personalplot_journal
 #. PATH = JournalEntry/TaskEntry[1]
@@ -1623,7 +1623,7 @@ msgctxt "0x0004227e"
 msgid ""
 "Varric's writing is more popular than he lets on. Find all 48 copies of "
 "<i>Hard in Hightown</i> in Skyhold."
-msgstr "배릭의 작품은 그가 말한 것보다 훨씬 더 인기가 많다. 하늘보루에서 <i>하드 인 하이타운</i> 48부를 전부 찾아보자."
+msgstr "배릭의 작품은 그가 말한 것보다 훨씬 더 인기가 많다. 하늘보루에서 <b>하드 인 하이타운</b> 48부를 전부 찾아보자."
 
 #. EBX = DA3/designcontent/Journals/Skyhold/sky_varrics_books
 #. PATH = JournalEntry/TaskEntry[0]
@@ -3052,7 +3052,7 @@ msgstr "나가는 길을 찾자."
 #. PATH = JournalEntry/TaskEntry[10]
 msgctxt "0x000440c0"
 msgid "Escape the chantry."
-msgstr "챈트리를 벗어나자."
+msgstr "성가회를 벗어나자."
 
 #. EBX = DA3/designcontent/Journals/SeekerFortress/see_main_journal
 #. PATH = JournalEntry/TaskEntry[11]
@@ -8475,7 +8475,7 @@ msgstr "문으로 돌아가자."
 #. PATH = JournalEntry/TaskEntry[8]
 msgctxt "0x00023e0d"
 msgid "Regroup at the chantry."
-msgstr "챈트리에 다시 모이자."
+msgstr "성가회에 다시 모이자."
 
 #. EBX = DA3/designcontent/Journals/Setback/setback_main_journal
 #. PATH = JournalEntry/TaskEntry[9]
@@ -9649,7 +9649,7 @@ msgid ""
 "A Tevinter magister named Alexius has extended an invitation to Castle "
 "Redcliffe, but first his son Felix wants to meet in the village chantry."
 msgstr ""
-"알렉시우스라는 테빈터 매지스터로부터 레드클리프 성으로 오라는 초대를 받았다. 하지만 그의 아들 필릭스가 그 전에 마을의 챈트리에서 만나길 "
+"알렉시우스라는 테빈터 매지스터로부터 레드클리프 성으로 오라는 초대를 받았다. 하지만 그의 아들 필릭스가 그 전에 마을의 성가회에서 만나길 "
 "원하고 있다."
 
 #. EBX = DA3/DesignContent/Journals/Redcliffe/red_main_journal
@@ -9710,7 +9710,7 @@ msgstr "갈매기와 등불로 가서 피오나를 만나자."
 #. PATH = JournalEntry/TaskEntry[5]
 msgctxt "0x00017015"
 msgid "Meet Felix in the chantry."
-msgstr "챈트리에서 필릭스를 만나자."
+msgstr "성가회에서 필릭스를 만나자."
 
 #. EBX = DA3/DesignContent/Journals/Redcliffe/red_main_journal
 #. PATH = JournalEntry/TaskEntry[6]
@@ -9788,7 +9788,7 @@ msgstr "알렉시우스를 물리치자."
 #. PATH = JournalEntry/TaskEntry[18]
 msgctxt "0x00017018"
 msgid "Go to Haven's chantry."
-msgstr "헤이븐 챈트리로 가자."
+msgstr "헤이븐 성가회로 가자."
 
 #. EBX = DA3/DesignContent/Journals/Redcliffe/red_main_journal
 #. PATH = JournalEntry/TaskEntry[19]
@@ -11281,7 +11281,7 @@ msgid ""
 "Hinterlands near Redcliffe. Leliana believes she may be sympathetic to the "
 "Inquisition's cause."
 msgstr ""
-"지젤 신모라는 챈트리 성직자가 레드클리프 근처의 페렐던 내륙지역에서 피난민들을 돌보고 있다. 렐리아나는 그녀가 심문회의 명분에 동조할 "
+"지젤 신모라는 성가회 성직자가 레드클리프 근처의 페렐던 내륙지역에서 피난민들을 돌보고 있다. 렐리아나는 그녀가 심문회의 명분에 동조할 "
 "거라고 생각한다."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
@@ -11302,7 +11302,7 @@ msgctxt "0x0002760c"
 msgid ""
 "Word of the Inquisition's work in the Hinterlands has spread. The Chantry "
 "clerics in Val Royeaux are ready to meet."
-msgstr "내륙지역에서의 심문회의 활약에 대한 소문이 널리 퍼졌다. 발 르와이요에서 챈트리 성직자들을 만날 준비가 되었다."
+msgstr "내륙지역에서의 심문회의 활약에 대한 소문이 널리 퍼졌다. 발 르와이요에서 성가회 성직자들을 만날 준비가 되었다."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
 #. PATH = JournalEntry/TextEntry[4]
@@ -11316,13 +11316,13 @@ msgstr "성기사단은 발 르와이요를 버리고 떠났다. 심문회는 �
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x0002b6f9"
 msgid "Find Cassandra in the chantry."
-msgstr "챈트리에서 카산드라를 찾자."
+msgstr "성가회에서 카산드라를 찾자."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x00043b8d"
 msgid "Report to Haven's chantry."
-msgstr "헤이븐 챈트리에 보고하자."
+msgstr "헤이븐 성가회에 보고하자."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
 #. PATH = JournalEntry/TaskEntry[2]
@@ -11395,7 +11395,7 @@ msgstr "성직자들에게 연설하자."
 #. PATH = JournalEntry/TaskEntry[10]
 msgctxt "0x0002ee0d"
 msgid "Return to Haven's chantry."
-msgstr "헤이븐 챈트리로 복귀하자."
+msgstr "헤이븐 성가회로 복귀하자."
 
 #. EBX = DA3/DesignContent/Journals/TheDales/dgn_s_160/dgn_s_160
 #. PATH = JournalEntry/TitleReference
@@ -12040,14 +12040,14 @@ msgstr "{string}261074{/string}"
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0002e8e3"
 msgid "On the Chantry Trail"
-msgstr "챈트리의 길을 따라"
+msgstr "성가회의 길을 따라"
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_area_trailsigns
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x0002e8e1"
 msgid ""
 "There are Chantry symbols out in the desert. They appear to lead somewhere."
-msgstr "사막에 챈트리의 상징들이 있다. 상징들은 어딘가로 이어지는 듯하다."
+msgstr "사막에 성가회의 상징들이 있다. 상징들은 어딘가로 이어지는 듯하다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_area_trailsigns
 #. PATH = JournalEntry/TaskEntry[0]
@@ -12305,7 +12305,7 @@ msgid ""
 "of human-elven history. Return the histories to the Dalish or sell them to "
 "the Chantry."
 msgstr ""
-"붉은 교차로의 역사는 인간과 엘프 사이 역사의 논쟁적인 시기에 관한 진상을 드러냈다. 데일스 엘프에게 역사를 돌려주거나 챈트리에 판매하자."
+"붉은 교차로의 역사는 인간과 엘프 사이 역사의 논쟁적인 시기에 관한 진상을 드러냈다. 데일스 엘프에게 역사를 돌려주거나 성가회에 판매하자."
 
 #. EBX = DA3/DesignContent/Journals/TheDales/dgs_s_140/Emerald_Tomb_Main
 #. PATH = JournalEntry/TaskEntry[0]
@@ -12361,7 +12361,7 @@ msgstr "역사 자료를 데일스 엘프들에게 돌려주자."
 #. PATH = JournalEntry/TaskEntry[8]
 msgctxt "0x0003f9e9"
 msgid "Sell the histories to the Chantry."
-msgstr "챈트리에 역사서를 판매하자."
+msgstr "성가회에 역사서를 판매하자."
 
 #. EBX = DA3/DesignContent/Journals/Global/Inquisition/scout_westernapproach_animalstudy
 #. PATH = JournalEntry/TitleReference
