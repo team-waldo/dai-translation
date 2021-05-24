@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-22 14:56+0000\n"
-"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
+"PO-Revision-Date: 2021-05-24 08:59+0000\n"
+"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/unknown/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -6318,7 +6318,7 @@ msgstr ""
 
 msgctxt "0x00031e65"
 msgid "Watcher's Reach"
-msgstr "감시자의 돋움"
+msgstr "감시자의 지척"
 
 msgctxt "0x00031e68"
 msgid "Great Paw Hut"
@@ -6530,7 +6530,7 @@ msgctxt "0x0003335c"
 msgid ""
 "The streets ran red with blood, and not all from mages. The templars killed "
 "anyone they found."
-msgstr "거리는 온통 피로 물들었지만, 모두 마법사의 피는 아니었다. 성기사들은 누구를 찾아내든 간에 죽였다.\t"
+msgstr "거리는 온통 피로 물들었지만, 모두 마법사의 피는 아니었다. 성기사들은 눈에 보이는대로 죽였다."
 
 msgctxt "0x0003335e"
 msgid "Or they're dead. Either way, they won't threaten the refugees again."
@@ -6865,7 +6865,7 @@ msgstr "여기와 아주 유사한 곳에서 깨어난 적이 있어. 어떻게 
 
 msgctxt "0x00034a2c"
 msgid "One bad thing about armor? Itches you can't scratch."
-msgstr "갑옷의 단점이 뭐냐고? 가려워 죽겠는데 긁을 도리가 없다는 거지!"
+msgstr "갑옷의 단점이 뭐냐고? 가려워 죽겠는데 긁을 도리가 없다는 거지."
 
 msgctxt "0x00034a30"
 msgid "We should move on."
@@ -8934,7 +8934,7 @@ msgstr "각하."
 
 msgctxt "0x0003cc98"
 msgid "We're always glad to see you."
-msgstr "당신은 언제든 환영이예요."
+msgstr "당신은 언제든 환영이에요."
 
 msgctxt "0x0003cc9a"
 msgid "Lovely day, isn't it?"
@@ -9393,7 +9393,7 @@ msgstr "<b>[거미를 도운다.]</b>"
 
 msgctxt "0x0003e6e8"
 msgid "<i>[Leave.]</i>"
-msgstr "<b>[떠남.]</b>"
+msgstr "[떠나기]"
 
 msgctxt "0x0003e70c"
 msgid "Completed"
@@ -9668,7 +9668,7 @@ msgstr "난 내 생각에 최선인 일을 했어요."
 
 msgctxt "0x0003f05d"
 msgid "This is what was asked of me."
-msgstr "내가 해야만 했던 일이예요."
+msgstr "내가 해야만 했던 일이에요."
 
 msgctxt "0x0003f05f"
 msgid "Am I content with who I am?"
@@ -9761,7 +9761,7 @@ msgstr "그거에 대해선 말하고 싶지 않아."
 
 msgctxt "0x0003f087"
 msgid "I will be. When I'm done."
-msgstr "그럴거야. 끝나면"
+msgstr "그럴거야. 끝나면."
 
 msgctxt "0x0003f088"
 msgid "I'll be all right when we get everything back to normal."
@@ -10566,7 +10566,7 @@ msgstr "아이언 불"
 
 msgctxt "0x0003fd5e"
 msgid "Ben-Hassrath Contact"
-msgstr "벤 하스라스 연락책"
+msgstr "벤하스라스 연락책"
 
 msgctxt "0x0003fdc4"
 msgid "The percentage of bonus acquired focus."
@@ -11370,11 +11370,11 @@ msgstr "양손도끼를 사용하여 {CUSTOM0} 마리의 적을 처치하십시�
 
 msgctxt "0x00041bbb"
 msgid "Maul Affinity"
-msgstr "대망치 친화도"
+msgstr "큰망치 친화도"
 
 msgctxt "0x00041bbc"
 msgid "Defeat {CUSTOM0} enemies using mauls."
-msgstr "대망치를 사용하여 {CUSTOM0} 마리의 적을 처치하십시오."
+msgstr "큰망치를 사용하여 {CUSTOM0} 마리의 적을 처치하십시오."
 
 msgctxt "0x00041c9f"
 msgid "Trevelyan"
@@ -15293,7 +15293,9 @@ msgctxt "0x00042d4b"
 msgid ""
 "You move faster while in stealth.\n"
 "\n"
-msgstr "은신 중일 때 더 빨리 움직입니다."
+msgstr ""
+"은신 중일 때 더 빨리 움직입니다.\n"
+"\n"
 
 msgctxt "0x00042d4e"
 msgid "Potion Mastery"
@@ -16139,7 +16141,7 @@ msgstr "고급 빙결의 허리띠"
 
 msgctxt "0x00043662"
 msgid "Belt of Panic"
-msgstr "공황의 허리띠 "
+msgstr "공황의 허리띠"
 
 msgctxt "0x00043667"
 msgid "Superb Belt of Chilling"
@@ -18581,7 +18583,9 @@ msgid ""
 "Your experience means that using flask abilities does not always trigger a "
 "cooldown period.\n"
 "\n"
-msgstr "숙련도에 따라 비약 기술을 사용했을 때 재사용 대기시간이 적용되지 않을 수 있습니다."
+msgstr ""
+"숙련도에 따라 비약 기술을 사용했을 때 재사용 대기시간이 적용되지 않을 수 있습니다.\n"
+"\n"
 
 msgctxt "0x00043eba"
 msgid ""
@@ -19615,7 +19619,7 @@ msgctxt "0x00044978"
 msgid ""
 "Kill demons to fill essence containment apparatuses at Apostate's Landing, "
 "Long River, and Storm's Solitude in the Storm Coast."
-msgstr ""
+msgstr "폭풍 해안에 있는 배교자 상륙지, 긴 강, 고독한 폭풍에서 악마들을 죽여 정수 보관함을 채우자."
 
 #. USED IN :
 #.     0x00040bbe(265150) : Assemble a Tome of Rifts, study rift magic, and your trainer will reveal the secrets of the Rift Mage specialization. {string}280953{/string} {string}281404{/string}   While a mage can only truly specialize in one style, studying others can still be of considerable benefit.
@@ -19623,7 +19627,7 @@ msgctxt "0x00044979"
 msgid ""
 "Collect tomes from Venatori at Ghilan'nain's Grove, Halin'sulahn, and the "
 "Desolate Bank in the Exalted Plains."
-msgstr ""
+msgstr "승임의 평야에 있는 길란나인의 숲, 할린술란, 적막한 강둑에서 베나토리를 물리치고 고서를 수집하자."
 
 #. USED IN :
 #.     0x000275da(161242) : {string}280957{/string}  Leliana and Josephine have been working tirelessly to convince, coerce, and win over some of Orlais' most influential houses. Ten noble families will help the Inquisition pressure the templars into sealing the Breach, traveling to Therinfal Redoubt and demanding the Lord Seeker deal with them or face the wrath of Orlais. The Inquisition has promised the Herald of Andraste as its voice in these negotiations.  {string}281195{/string}: {string}281191{/string}
@@ -20679,7 +20683,7 @@ msgstr "Xbox Live 특전 제한으로 인해 이 기능을 이용할 수 없습�
 
 msgctxt "0x00044a96"
 msgid "Well, this happened. Sadly, they were out of sprinkles."
-msgstr ""
+msgstr "뭐, 이렇게 됐네. 색설탕이 다 떨어져서 아쉽다."
 
 msgctxt "0x00044a9f"
 msgid ""
@@ -20689,7 +20693,7 @@ msgstr "적보다 레벨이 3 이상 높은 경우 전투에서 승리해도 경
 
 msgctxt "0x00044aaf"
 msgid "Elemental Damage Resistance"
-msgstr ""
+msgstr "원소 피해 저항"
 
 msgctxt "0x00044ab0"
 msgid "Immunity: Stunned, Knocked Down"
@@ -20793,27 +20797,27 @@ msgstr "교본은 이 수련법을 공유하는 동료 주변에서 찾을 수 �
 
 msgctxt "0x00044b42"
 msgid "Character Name"
-msgstr ""
+msgstr "캐릭터 이름"
 
 msgctxt "0x00044b43"
 msgid "The first name can be up to 20 characters in length."
-msgstr ""
+msgstr "이름은 20자 길이까지 가능합니다."
 
 msgctxt "0x00044b47"
 msgid "Interact"
-msgstr ""
+msgstr "상호작용"
 
 msgctxt "0x00044b4d"
 msgid "Fast Travel Point Unlocked"
-msgstr ""
+msgstr "빠른 이동 지점 해제"
 
 msgctxt "0x00044be5"
 msgid "The skull of a high dragon. The throne of a leader."
-msgstr ""
+msgstr "고룡의 머리뼈. 지도자의 왕좌."
 
 msgctxt "0x00044bf3"
 msgid "Auto-Center Camera"
-msgstr ""
+msgstr "자동 중앙 시점"
 
 msgctxt "0x00044bf4"
 msgid "Speaker Configuration"
@@ -20841,7 +20845,7 @@ msgstr "7.1 서라운드"
 
 msgctxt "0x00044c0a"
 msgid "Not available during trial."
-msgstr ""
+msgstr "체험판에서는 이용할 수 없습니다."
 
 msgctxt "0x00044c1f"
 msgid "Sword Kills: {CUSTOM0}"
@@ -20861,7 +20865,7 @@ msgstr "대검 처치 수: {CUSTOM0}"
 
 msgctxt "0x00044c23"
 msgid "Maul Kills: {CUSTOM0}"
-msgstr "대망치 처치 수: {CUSTOM0}"
+msgstr "큰망치 처치 수: {CUSTOM0}"
 
 msgctxt "0x00044c24"
 msgid "Greataxe Kills: {CUSTOM0}"
@@ -20897,7 +20901,7 @@ msgstr "불사"
 
 msgctxt "0x00044c2c"
 msgid "Operation Complete"
-msgstr ""
+msgstr "작전 완료"
 
 msgctxt "0x00044c30"
 msgid "Unbound Key"
@@ -21456,6 +21460,10 @@ msgid ""
 "you will be prompted for a target. {StringBtnMouseLeft} an enemy to target "
 "it, and the ability will fire accordingly."
 msgstr ""
+"목표를 선택하지 않고 목표 기술을 사용할 때, 단축키를 누르면 지정된 기술이 발사됩니다.\n"
+"\n"
+"목표를 선택하지 않고 빠른 표시줄에서 목표 기술을 누르면, 목표를 지정하도록 합니다. {StringBtnMouseLeft} 목표하는 "
+"적에게, 기술이 발사될 것입니다."
 
 msgctxt "0x00044ef6"
 msgid "The audio output that best suits your speaker configuration."
@@ -21646,7 +21654,7 @@ msgstr "장비할 수 없습니다."
 
 msgctxt "0x0004718b"
 msgid "Tier 1 Hammer Schematic"
-msgstr ""
+msgstr "1단계 망치 도안"
 
 msgctxt "0x0004718c"
 msgid "Amund"
@@ -21786,83 +21794,83 @@ msgstr "질식 중 - 횃불로 돌아가십시오!"
 
 msgctxt "0x00048111"
 msgid "Ambush"
-msgstr ""
+msgstr "매복"
 
 msgctxt "0x00048fc9"
 msgid "The hurlock alpha encourages its allies to fight harder."
-msgstr ""
+msgstr "우두머리 헐록이 그의 아군들이 더 열심히 싸우도록 만듭니다."
 
 msgctxt "0x00049275"
 msgid "Enter the Deep Roads"
-msgstr ""
+msgstr "지하 가도 들어가기"
 
 msgctxt "0x00049276"
 msgid "Defeat the Ogre"
-msgstr ""
+msgstr "오우거를 물리쳐라"
 
 msgctxt "0x0004992d"
 msgid "Place Cheese"
-msgstr ""
+msgstr "치즈 놓기"
 
 msgctxt "0x0004992e"
 msgid "Take Cheese"
-msgstr ""
+msgstr "치즈 가지기"
 
 msgctxt "0x0004a069"
 msgid "Search the Chest"
-msgstr ""
+msgstr "상자를 탐색하라"
 
 msgctxt "0x0004a06a"
 msgid "Smuggler's Den"
-msgstr ""
+msgstr "밀수꾼의 소굴"
 
 msgctxt "0x0004a071"
 msgid "Locate Missing Smugglers"
-msgstr ""
+msgstr "사라진 밀수꾼들을 찾아내라"
 
 msgctxt "0x0004a072"
 msgid "Recover Artifacts"
-msgstr ""
+msgstr "유물을 회수해라"
 
 msgctxt "0x0004a077"
 msgid "Fight Your Way to the Shrine"
-msgstr ""
+msgstr "성소까지 길을 뚫자"
 
 msgctxt "0x0004a25e"
 msgid "Path to the Deep Roads Lift"
-msgstr ""
+msgstr "지하 가도 승강기로 가는 길"
 
 msgctxt "0x0004a2ad"
 msgid "Requires Four Scorched Ancient Gears"
-msgstr ""
+msgstr "네 개의 그을린 고대 장비 필요"
 
 msgctxt "0x0004a460"
 msgid "Smugglers' Chest"
-msgstr ""
+msgstr "밀수꾼의 상자"
 
 msgctxt "0x0004a7d0"
 msgid "Strange Door"
-msgstr ""
+msgstr "이상한 문"
 
 msgctxt "0x0004a9b0"
 msgid "Elven Necromancer"
-msgstr ""
+msgstr "엘프 강령술사"
 
 msgctxt "0x0004aa08"
 msgid "Nug King"
-msgstr ""
+msgstr "너그 대왕"
 
 msgctxt "0x0004aa57"
 msgid "Expedition Table"
-msgstr ""
+msgstr "원정 지도"
 
 msgctxt "0x0004aa6c"
 msgid "Expedition unlocked at the Legion of the Dead camp."
-msgstr ""
+msgstr "죽음의 군단 야영지에서 원정이 해제되었습니다."
 
 msgctxt "0x0004aa6d"
 msgid "Bloodstained Ancient Gear"
-msgstr ""
+msgstr "피로 얼룩진 고대의 톱니바퀴"
 
 #. USED IN :
 #.     0x00047787(292743) : Find the {string}305775{/string}s
@@ -21877,23 +21885,23 @@ msgstr "희생의 관문"
 
 msgctxt "0x0004aa7e"
 msgid "Rune-Warded Gate"
-msgstr ""
+msgstr "룬으로 보호된 관문"
 
 msgctxt "0x0004aa81"
 msgid "Reanimated Cretahl"
-msgstr ""
+msgstr "되살아난 크레탈"
 
 msgctxt "0x0004aa83"
 msgid "Install the Bloodstained Ancient Gears"
-msgstr ""
+msgstr "피로 얼룩진 고대의 장비를 설치하자"
 
 msgctxt "0x0004aa84"
 msgid "Collect Bloodstained Ancient Gears: "
-msgstr ""
+msgstr "피로 얼룩진 고대의 장비 수집 "
 
 msgctxt "0x0004aa85"
 msgid "Open the Sacrificial Gate"
-msgstr ""
+msgstr "희생의 문 열기"
 
 msgctxt "0x0004aa86"
 msgid ""
@@ -21907,27 +21915,27 @@ msgstr ""
 
 msgctxt "0x0004ab00"
 msgid "Collapsed Seal"
-msgstr ""
+msgstr "무너진 봉인"
 
 msgctxt "0x0004ab01"
 msgid "Destroyed Darkspawn Nest"
-msgstr ""
+msgstr "파괴된 어둠 피조물 둥지"
 
 msgctxt "0x0004ab02"
 msgid "Renn's Final Resting Place"
-msgstr ""
+msgstr "렌의 최후의 안식처"
 
 msgctxt "0x0004ab03"
 msgid "Dwarven Lift"
-msgstr ""
+msgstr "드워프 승강기"
 
 msgctxt "0x0004ab04"
 msgid "Forgotten Soldier's Remains"
-msgstr ""
+msgstr "잊힌 병사들의 잔해"
 
 msgctxt "0x0004ab05"
 msgid "Destroyed Bridge"
-msgstr ""
+msgstr "파괴된 다리"
 
 msgctxt "0x0004ab06"
 msgid "Builder's Towers"
@@ -21935,7 +21943,7 @@ msgstr "축조자의 탑"
 
 msgctxt "0x0004ab07"
 msgid "Ancient Dwarven Lift"
-msgstr ""
+msgstr "고대 드워프 승강기"
 
 msgctxt "0x0004ab0f"
 msgid "Lift Up"
@@ -21997,30 +22005,30 @@ msgstr "공포의 늑대는 앞으로 나아갈 길을 밝히려고 하나의 �
 
 msgctxt "0x00048e4c"
 msgid "Dread Wolf Mosaic"
-msgstr ""
+msgstr "공포의 늑대 모자이크"
 
 msgctxt "0x00048e54"
 msgid ""
 "An elven woman appears to be freed, represented by the removal of her "
 "Vallaslin."
-msgstr ""
+msgstr "엘프 여성의 발라슬린이 지워진 것을 보니 자유로워진 것으로 보인다."
 
 msgctxt "0x00048e55"
 msgid ""
 "An elven god is hung upside-down, either as punishment or as a demonstration "
 "of his immortality."
-msgstr ""
+msgstr "한 엘프 신이 형벌 혹은 불멸의 증거로 거꾸로 매달려 있다."
 
 msgctxt "0x00048f2d"
 msgid ""
 "Fen'Harel is depicted among the people, not as a tyrant but a respected "
 "leader."
-msgstr ""
+msgstr "펜하렐은 폭군이 아닌 존경받는 지도자로 사람들 사이에서 묘사된다."
 
 msgctxt "0x00048fc7"
 msgid ""
 "After using the eluvian, the glass shatters as though it has been overloaded."
-msgstr ""
+msgstr "엘루비안을 사용한 후에는, 거울이 과부화된 것처럼 산산조각 나버린다."
 
 #. STRINGS :
 #.     0x0004b2fe(307966) : Significantly increases the chance of receiving special shipment rewards in your stronghold.
@@ -22054,10 +22062,13 @@ msgid ""
 "massive explosion that damages the Inquisitor and any allies and enemies "
 "nearby."
 msgstr ""
+"집중도가 이제 더 빠르게 재생되고 최대치까지 재생됩니다.\n"
+"\n"
+"누적된 집중도가 최대 값까지 도달하면, 심문관과 주변의 아군과 적들에게 피해를 주는 대규모 폭발로 방출됩니다."
 
 msgctxt "0x00049643"
 msgid "The Anchor Discharge ability now deals damage to nearby enemies."
-msgstr ""
+msgstr "닻 방출 기술은 이제 근처 적들에게 더 많은 피해를 가합니다."
 
 msgctxt "0x00049990"
 msgid "Quarry"
@@ -22069,25 +22080,25 @@ msgstr ""
 
 msgctxt "0x00049b1a"
 msgid "+50% to healing / -25% to damage"
-msgstr ""
+msgstr "치유 +50% / 피해 -25%"
 
 msgctxt "0x00049b22"
 msgid ""
 "+25% healing-potion effectiveness / -25% to damage for 60 seconds after "
 "potion use"
-msgstr ""
+msgstr "치유 물약 효과 +25% / 물약 사용 후 60초 동안 피해 -25%"
 
 msgctxt "0x00049b23"
 msgid "Sigil of Elfroot"
-msgstr ""
+msgstr "엘프뿌리의 인장"
 
 msgctxt "0x00049b26"
 msgid "Sigil of the Reaver"
-msgstr ""
+msgstr "혈전사의 인장"
 
 msgctxt "0x00049b2b"
 msgid "Healing potions heal half health / +10% to damage for 60 seconds"
-msgstr ""
+msgstr "치유 물약 체력 절반 회복 / 60초 동안 피해 +10%"
 
 msgctxt "0x00049c55"
 msgid "Librarian Monitors"
@@ -22101,11 +22112,11 @@ msgstr "사서는 여러 곳에 눈과 귀가 있습니다. 무엇이든 그 감
 
 msgctxt "0x00049e6c"
 msgid "Anchor Discharge: Light Source"
-msgstr ""
+msgstr "닻 방출: 광원"
 
 msgctxt "0x00049f36"
 msgid "Sigil of the Fennec"
-msgstr ""
+msgstr "페넥의 인장"
 
 #. USED IN :
 #.     0x00049640(300608) : {controller}The Anchor now automatically generates focus over time. Discharge the accumulated focus with {StringBtnLT} + {StringBtnLStickClick}.  {string}305765{/string}{/controller}
@@ -22123,7 +22134,7 @@ msgstr ""
 
 msgctxt "0x0004abf6"
 msgid "Bridge to Island"
-msgstr ""
+msgstr "섬으로 가는 다리"
 
 msgctxt "0x0004ac4f"
 msgid "Push Loose Tile"
@@ -22139,6 +22150,9 @@ msgid ""
 "Mana pool size: 200%\n"
 "Barrier now degenerates at 500%"
 msgstr ""
+"마나 방패: 피해를 받으면 체력 대신 마나가 줄어듭니다.\n"
+"마나 용량: 200%\n"
+"방어막은 이제 500%에서 감소"
 
 msgctxt "0x0004ad16"
 msgid "Listen to Cassandra"
@@ -22182,7 +22196,7 @@ msgstr ""
 
 msgctxt "0x0004b04c"
 msgid "Examine Mosaic"
-msgstr ""
+msgstr "모자이크를 조사하라"
 
 msgctxt "0x0004b2c5"
 msgid "Treat Dog"
@@ -22190,13 +22204,15 @@ msgstr "개 다루기"
 
 msgctxt "0x0004b2c6"
 msgid "Spirit"
-msgstr ""
+msgstr "영혼"
 
 msgctxt "0x0004b2f9"
 msgid ""
 "{controller}Press {StringBtnLT} + {StringBtnLStickClick} to discharge the "
 "Anchor, lighting dark areas.{/controller}"
 msgstr ""
+"{controller}{StringBtnLT} + {StringBtnLStickClick} 를 눌러 닻을 방출해, 어두운 구역을 "
+"밝힙니다.{/controller}"
 
 msgctxt "0x0004b2fa"
 msgid ""
@@ -22256,7 +22272,7 @@ msgstr ""
 msgctxt "0x0004b3fa"
 msgid ""
 "Discharging the Anchor detonates any nearby primed or un-primed gaatlok."
-msgstr ""
+msgstr "닻을 방출하면 근처의 모든 개틀록이 폭발합니다."
 
 msgctxt "0x0004b4e0"
 msgid "On hit, chance to inflict Bees! on target"
@@ -22276,15 +22292,15 @@ msgstr "던전 나가기"
 
 msgctxt "0x00045571"
 msgid "Tier 4 Mace Schematic"
-msgstr ""
+msgstr "4단계 철퇴 도안"
 
 msgctxt "0x00045574"
 msgid "Tier 4 Axe Schematic"
-msgstr ""
+msgstr "4단계 도끼 도안"
 
 msgctxt "0x00045575"
 msgid "Tier 4 Greataxe Schematic"
-msgstr ""
+msgstr "4단계 대형도끼 도안"
 
 msgctxt "0x000456b6"
 msgid "Trace Markings"
@@ -22318,7 +22334,7 @@ msgctxt "0x00046e1d"
 msgid ""
 "The Avvar often carry mauls like this one, inscribed with symbols of their "
 "gods, into battle against other holds."
-msgstr "아바르는 종종 이것과 같이 자신이 섬기는 신의 상징이 새겨진 대망치를 지니고 다른 요새와 벌이는 전투에 출정한다."
+msgstr "아바르는 종종 이것과 같이 자신이 섬기는 신의 상징이 새겨진 큰망치를 지니고 다른 요새와 벌이는 전투에 출정한다."
 
 msgctxt "0x00047010"
 msgid "Eat"
@@ -22354,15 +22370,15 @@ msgstr "아바르 옥좌"
 
 msgctxt "0x0004715e"
 msgid "Avvar Banner II"
-msgstr ""
+msgstr "아바르 깃발 2"
 
 msgctxt "0x0004715f"
 msgid "Avvar Throne III"
-msgstr ""
+msgstr "아바르 왕좌 3"
 
 msgctxt "0x00047160"
 msgid "Avvar Throne II"
-msgstr ""
+msgstr "아바르 왕좌 2"
 
 msgctxt "0x000476d9"
 msgid "FROSTBACK BASIN II"
@@ -22370,7 +22386,7 @@ msgstr "서리등선 분지 II"
 
 msgctxt "0x000476da"
 msgid "FROSTBACK BASIN III"
-msgstr ""
+msgstr "서리등선 분지 3"
 
 msgctxt "0x000478b1"
 msgid "Spoils of the Avvar"
@@ -22780,11 +22796,11 @@ msgctxt "0x000483e8"
 msgid ""
 "Earthshaking Strike now hurls enemies into the air.\n"
 "\n"
-msgstr ""
+msgstr "대지 분쇄는 이제 적을 공중으로 던집니다.\n"
 
 msgctxt "0x00048886"
 msgid "Rampart"
-msgstr ""
+msgstr "성벽"
 
 msgctxt "0x00048887"
 msgid ""
@@ -22792,10 +22808,12 @@ msgid ""
 "protection.\n"
 "\n"
 msgstr ""
+"걸어다니는 요새가 더 오래 지속되지만, 더 이상 완전히 보호해주지 않습니다.\n"
+"\n"
 
 msgctxt "0x0004891d"
 msgid "Spell Shield"
-msgstr ""
+msgstr "마법 방패"
 
 msgctxt "0x0004891e"
 msgid ""
@@ -22807,13 +22825,15 @@ msgstr ""
 
 msgctxt "0x00049232"
 msgid "Searing Detonation"
-msgstr ""
+msgstr "불타는 폭발"
 
 msgctxt "0x00049233"
 msgid ""
 "Fire Mine creates an even larger explosion.\n"
 "\n"
 msgstr ""
+"화염 지뢰가 더 큰 폭발을 일으킵니다.\n"
+"\n"
 
 msgctxt "0x00049234"
 msgid ""
@@ -22827,7 +22847,7 @@ msgstr "<font color=\"#CCDDAA\">훈련장 상자</font>"
 
 msgctxt "0x00049467"
 msgid "Cauterizing Flame"
-msgstr ""
+msgstr "소작하는 불"
 
 msgctxt "0x00049468"
 msgid ""
@@ -22849,17 +22869,19 @@ msgstr ""
 
 msgctxt "0x000495dd"
 msgid "Endless Step"
-msgstr ""
+msgstr "끝없는 발걸음"
 
 msgctxt "0x000495de"
 msgid ""
 "Fade Step's duration is reset any time you pass through an enemy.\n"
 "\n"
 msgstr ""
+"영계의 발걸음의 지속 시간이 적을 지나갈 때마다 초기화됩니다.\n"
+"\n"
 
 msgctxt "0x00049639"
 msgid "Glacial Break"
-msgstr ""
+msgstr "빙하 붕괴"
 
 msgctxt "0x0004963a"
 msgid ""
@@ -22872,7 +22894,7 @@ msgstr ""
 
 msgctxt "0x00049671"
 msgid "Speed of Spirits"
-msgstr ""
+msgstr "영혼의 속도"
 
 msgctxt "0x00049672"
 msgid ""
@@ -22884,7 +22906,7 @@ msgstr ""
 
 msgctxt "0x00049848"
 msgid "Armor of the Veil"
-msgstr ""
+msgstr "장막의 방어구"
 
 msgctxt "0x00049849"
 msgid ""
@@ -22892,14 +22914,16 @@ msgid ""
 "sources.\n"
 "\n"
 msgstr ""
+"영혼 칼날의 충전량이 높을 수록, 모든 받는 피해량이 줄어듭니다.\n"
+"\n"
 
 msgctxt "0x00049ea3"
 msgid "Uploading save data to server"
-msgstr ""
+msgstr "저장 정보를 서버로 업로드 중"
 
 msgctxt "0x0004a01b"
 msgid "Migrating Multiplayer Data"
-msgstr ""
+msgstr "멀티플레이 정보 이전 중"
 
 msgctxt "0x0004a12a"
 msgid "Earn {CUSTOM0} experience points with the Virtuoso."
@@ -22917,7 +22941,7 @@ msgstr "결투사로 {CUSTOM0} 만큼의 경험치를 얻으십시오."
 
 msgctxt "0x0004a12d"
 msgid "Chest of the Mage"
-msgstr ""
+msgstr "마법사의 상자"
 
 msgctxt "0x0004a12e"
 msgid ""
@@ -22927,11 +22951,11 @@ msgstr "마법사 직업을 위한 다섯 가지 물건과 다섯 가지 물약,
 
 msgctxt "0x0004a12f"
 msgid "Chest of the Warrior"
-msgstr ""
+msgstr "전사의 상자"
 
 msgctxt "0x0004a130"
 msgid "Chest of the Rogue"
-msgstr ""
+msgstr "도적의 상자"
 
 msgctxt "0x0004a131"
 msgid "Complete {CUSTOM0} operations with the Duelist."
@@ -22953,43 +22977,43 @@ msgctxt "0x0004a135"
 msgid ""
 "Five items and five potions for the warrior class, including one guaranteed "
 "rare or greater item."
-msgstr ""
+msgstr "희귀 등급 이상의 아이템 최소 하나가 포함된 전사 직업을 위한 다섯 개의 아이템과 물약."
 
 msgctxt "0x0004a15c"
 msgid "Maximum mana is increased by the specified amount."
-msgstr ""
+msgstr "최대 마나가 정해진 수치만큼 증가합니다."
 
 msgctxt "0x0004a15d"
 msgid "Maximum mana is increased by 20."
-msgstr ""
+msgstr "최대 마나가 20만큼 증가합니다."
 
 msgctxt "0x0004a15e"
 msgid "Maximum mana is increased by 10."
-msgstr ""
+msgstr "최대 마나가 10만큼 증가합니다."
 
 msgctxt "0x0004a15f"
 msgid "Maximum mana is increased by 15."
-msgstr ""
+msgstr "최대 마나가 15만큼 증가합니다."
 
 msgctxt "0x0004a160"
 msgid "Maximum mana is increased by 35."
-msgstr ""
+msgstr "최대 마나가 35만큼 증가합니다."
 
 msgctxt "0x0004a162"
 msgid "Master Mana Amulet"
-msgstr ""
+msgstr "명품 마나 부적"
 
 msgctxt "0x0004a163"
 msgid "Superb Mana Amulet"
-msgstr ""
+msgstr "최상급 마나 부적"
 
 msgctxt "0x0004a164"
 msgid "Enchanced Mana Amulet"
-msgstr ""
+msgstr "증진된 마나 부적"
 
 msgctxt "0x0004a165"
 msgid "Mana Amulet"
-msgstr ""
+msgstr "마나 부적"
 
 msgctxt "0x0004a16a"
 msgid "Enhanced Battle of the Bands Ring"
@@ -22997,11 +23021,11 @@ msgstr "상급 악단의 전투 반지"
 
 msgctxt "0x0004a16b"
 msgid "Enhanced Blessed Blades Ring"
-msgstr ""
+msgstr "향상된 신성한 칼날 반지"
 
 msgctxt "0x0004a16c"
 msgid "Enhanced Mark of the Riff Ring"
-msgstr ""
+msgstr "향상된 리프의 표식 반지"
 
 msgctxt "0x0004a16e"
 msgid "Enhanced Hook and Tackle Ring"
@@ -23017,31 +23041,31 @@ msgstr "상급 혼절 폭탄 반지"
 
 msgctxt "0x0004a174"
 msgid "Enhanced Shield Wall Ring"
-msgstr ""
+msgstr "증진된 방벽 반지"
 
 msgctxt "0x0004a178"
 msgid "Enhanced Bodyguard Ring"
-msgstr ""
+msgstr "향상된 경호원 반지"
 
 msgctxt "0x0004a17b"
 msgid "Enhanced Unbowed Ring"
-msgstr ""
+msgstr "향상된 단호함 반지"
 
 msgctxt "0x0004a17c"
 msgid "Enhanced Fallback Plan Ring"
-msgstr ""
+msgstr "향상된 대비책 반지"
 
 msgctxt "0x0004a17d"
 msgid "Enhanced Veilstrike Ring"
-msgstr ""
+msgstr "증진된 장막공격 반지"
 
 msgctxt "0x0004a17f"
 msgid "Enhanced Walking Fortress Ring"
-msgstr ""
+msgstr "증진된 걸어다니는 요새 반지"
 
 msgctxt "0x0004a180"
 msgid "Enhanced Ring of Pain"
-msgstr ""
+msgstr "증진된 고통의 반지"
 
 msgctxt "0x0004a181"
 msgid "Enhanced Fast Beat Ring"
@@ -23049,19 +23073,19 @@ msgstr ""
 
 msgctxt "0x0004a182"
 msgid "Enhanced Pull of the Abyss Ring"
-msgstr ""
+msgstr "향상된 심연의 인력 반지"
 
 msgctxt "0x0004a185"
 msgid "Enhanced Hometown Anthem  Ring"
-msgstr ""
+msgstr "향상된 고향의 찬가  반지"
 
 msgctxt "0x0004a187"
 msgid "Enhanced Spirit Mark Ring"
-msgstr ""
+msgstr "증진된 영혼 표식 반지"
 
 msgctxt "0x0004a189"
 msgid "Enhanced Flask of Fire Ring"
-msgstr ""
+msgstr "증진된 화염 비약의 반지"
 
 msgctxt "0x0004a18a"
 msgid "Enhanced Line in the Sand Ring"
@@ -23069,15 +23093,15 @@ msgstr ""
 
 msgctxt "0x0004a18d"
 msgid "Enhanced A Little Knight Music Ring"
-msgstr ""
+msgstr "향상된 작은 기사의 노래 반지"
 
 msgctxt "0x0004a18e"
 msgid "Enhanced Fade Step Ring"
-msgstr ""
+msgstr "증진된 영계의 걸음 반지"
 
 msgctxt "0x0004a18f"
 msgid "Enhanced Horror Ring"
-msgstr ""
+msgstr "증진된 공포의 반지"
 
 msgctxt "0x0004a191"
 msgid "Enhanced Combat Roll Ring"
@@ -23105,7 +23129,7 @@ msgstr "상급 은신 반지"
 
 msgctxt "0x0004a19d"
 msgid "Enhanced Mark of Death Ring"
-msgstr ""
+msgstr "증진된 죽음의 표식 반지"
 
 msgctxt "0x0004a19e"
 msgid "Enhanced Livid Ring"
@@ -23132,18 +23156,20 @@ msgid ""
 "<font color=\"#CCDDAA\">Do you wish to exit the Multiplayer tutorial? You "
 "cannot restart the tutorial again if you exit now.</font>"
 msgstr ""
+"<font color=\"#CCDDAA\">멀티플레이 튜토리얼을 그만두시겠습니까? 지금 나가면 다시 튜토리얼을 시작할 수 "
+"없습니다.</font>"
 
 msgctxt "0x0004a3ad"
 msgid "Threatening operations are recommended for experienced players."
-msgstr ""
+msgstr "위협적인 작전은 경험 있는 플레이어들에게 적합합니다."
 
 msgctxt "0x0004a3ae"
 msgid "Perilous operations are recommended for expert players."
-msgstr ""
+msgstr "험난한 작전은 숙련된 플레이어들에게 적합합니다."
 
 msgctxt "0x0004a3af"
 msgid "Routine operations are recommended for players who are beginners."
-msgstr ""
+msgstr "일상적인 작전은 처음 시작하는 플레이어들에게 적합합니다."
 
 msgctxt "0x0004a3bf"
 msgid "Complete {CUSTOM0} Operations on Heartbreaker Difficulty"
@@ -23151,7 +23177,7 @@ msgstr "심장파괴자 난이도에서 {CUSTOM0} 개의 작전을 완료하십�
 
 msgctxt "0x0004a3c1"
 msgid "Traveler"
-msgstr ""
+msgstr "여행자"
 
 msgctxt "0x0004a3c4"
 msgid "Complete {CUSTOM0} Operations on Nightmare Difficulty"
@@ -23382,7 +23408,7 @@ msgstr ""
 
 msgctxt "0x0004b37c"
 msgid "Complete a game against the demon faction on Heartbreaker difficulty."
-msgstr ""
+msgstr "심장파괴자 난이도에서 악마 세력에 맞서 게임을 완료하십시오."
 
 msgctxt "0x0004b37d"
 msgid "Garahel’s Will"
@@ -23400,7 +23426,7 @@ msgstr ""
 msgctxt "0x0004b381"
 msgid ""
 "Complete a game against the Venatori faction on Heartbreaker difficulty."
-msgstr ""
+msgstr "심장파괴자 난이도에서 베나토리 세력에 맞서 게임을 완료하십시오."
 
 msgctxt "0x0004b382"
 msgid "Dumat’s Ruin"
@@ -23416,7 +23442,7 @@ msgstr "위험한 것"
 
 msgctxt "0x0004b400"
 msgid "Earn {CUSTOM0} experience"
-msgstr ""
+msgstr "{CUSTOM0} 경험치를 얻으십시오"
 
 msgctxt "0x0004b401"
 msgid "Legendary Banker"
@@ -23440,7 +23466,7 @@ msgstr "사레바스로 {CUSTOM0} 개의 작전을 완료하십시오."
 
 msgctxt "0x0004b409"
 msgid "Darkspawn Commander"
-msgstr ""
+msgstr "어둠피조물 지휘관"
 
 msgctxt "0x0004b40a"
 msgid "Hold Back Evil"
@@ -23452,7 +23478,7 @@ msgstr "사레바스로 {CUSTOM0} 만큼의 경험치를 얻으십시오."
 
 msgctxt "0x0004b40e"
 msgid "Legendary Slayer"
-msgstr ""
+msgstr "전설적인 살해자"
 
 msgctxt "0x0004b40f"
 msgid "Complete an operation with the Saarebas."
@@ -23460,7 +23486,7 @@ msgstr "사레바스로 작전을 완료하십시오."
 
 msgctxt "0x0004b411"
 msgid "Kill {CUSTOM0} enemies"
-msgstr ""
+msgstr "{CUSTOM0} 만큼의 적 죽이기"
 
 msgctxt "0x0004b413"
 msgid "Legendary"

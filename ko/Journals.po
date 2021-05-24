@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-22 14:56+0000\n"
+"PO-Revision-Date: 2021-05-24 08:56+0000\n"
 "Last-Translator: 명란밥 <roddl72000@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
@@ -657,7 +657,7 @@ msgstr "용을 죽이자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00032f1b"
 msgid "Watcher's Reach Refugees"
-msgstr "감시자의 돋움 피난민"
+msgstr "감시자의 지척 피난민"
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_fst_wild_meet_fairbanks
 #. PATH = JournalEntry/TextEntry[0]
@@ -674,7 +674,7 @@ msgstr ""
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x00032f19"
 msgid "Go to the Watcher's Reach Camp."
-msgstr "감시자의 돋움 야영지로 가자."
+msgstr "감시자의 지척 야영지로 가자."
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_fst_wild_meet_fairbanks
 #. PATH = JournalEntry/TaskEntry[1]
@@ -1068,7 +1068,7 @@ msgstr "작전실에서 고문들과 이야기하자."
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x0002e20c"
 msgid "Confront Corypheus."
-msgstr "코리피우스와 대결하자."
+msgstr "코리피우스에 맞서자."
 
 #. EBX = DA3/DesignContent/Journals/Finale/fin_main_journal
 #. PATH = JournalEntry/TaskEntry[2]
@@ -1564,7 +1564,7 @@ msgstr "자유인들의 지도자가 죽으면, 페어뱅스와 피난민들은 
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x0003b901"
 msgid "Speak to Fairbanks in Watcher's Reach."
-msgstr "감시자의 돋움에서 페어뱅스와 이야기하자."
+msgstr "감시자의 지척에서 페어뱅스와 이야기하자."
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_pln_wild_meet_gaspard_commander
 #. PATH = JournalEntry/TitleReference
@@ -7596,7 +7596,7 @@ msgstr "모두가 자유는 아니다"
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x0003190e"
 msgid "The Freemen have taken residents of Watcher's Reach captive."
-msgstr "데일스의 자유인들이 감시자의 돋움에 거처를 마련했다."
+msgstr "데일스의 자유인들이 감시자의 지척에 거처를 마련했다."
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_fst_wild_lq03
 #. PATH = JournalEntry/TaskEntry[0]
@@ -8630,7 +8630,7 @@ msgctxt "0x000304f1"
 msgid ""
 "The Ben-Hassrath have offered an alliance with the Inquisition. Accompany "
 "Bull and his Chargers to meet with their contact in the Storm Coast."
-msgstr "벤 하스라스가 심문회와의 동맹을 제안했다. 아이언 불과 그의 돌격대와 동행해 연락책을 만나자."
+msgstr "벤하스라스가 심문회와의 동맹을 제안했다. 아이언 불과 그의 돌격대와 동행해 연락책을 만나자."
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/IronBull/bul_followerplot_journal
 #. PATH = JournalEntry/TextEntry[1]
@@ -9649,7 +9649,7 @@ msgid ""
 "A Tevinter magister named Alexius has extended an invitation to Castle "
 "Redcliffe, but first his son Felix wants to meet in the village chantry."
 msgstr ""
-"알렉시우스라는 테빈터 매지스터로부터 레드클리프 성으로 오라는 초대를 받았다. 하지만 그의 아들 필릭스가 그 전에 마을의 성가회에서 만나길 "
+"알렉시우스라는 테빈터 매지스터로부터 레드클리프 성으로 오라는 초대를 받았다. 하지만 그의 아들 펠릭스가 그 전에 마을의 성가회에서 만나길 "
 "원하고 있다."
 
 #. EBX = DA3/DesignContent/Journals/Redcliffe/red_main_journal
@@ -9710,7 +9710,7 @@ msgstr "갈매기와 등불로 가서 피오나를 만나자."
 #. PATH = JournalEntry/TaskEntry[5]
 msgctxt "0x00017015"
 msgid "Meet Felix in the chantry."
-msgstr "성가회에서 필릭스를 만나자."
+msgstr "성가회에서 펠릭스를 만나자."
 
 #. EBX = DA3/DesignContent/Journals/Redcliffe/red_main_journal
 #. PATH = JournalEntry/TaskEntry[6]
@@ -11982,7 +11982,7 @@ msgstr "{string}280827{/string}"
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x00042086"
 msgid "Go to the war table to challenge Otranto to a duel."
-msgstr "작전 지도에서 오트란토에게 대결을 신청하자."
+msgstr "작전 지도에서 오트란토에게 결투를 신청하자."
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/Josephine/jos_engagement_main
 #. PATH = JournalEntry/TaskEntry[1]
@@ -12000,7 +12000,7 @@ msgstr "하늘보루에서 전령과 이야기하자."
 #. PATH = JournalEntry/TaskEntry[3]
 msgctxt "0x00042084"
 msgid "Go to Val Royeaux to duel Otranto."
-msgstr "발 르와이요로 가 오트란토와 대결하자."
+msgstr "발 르와이요로 가 오트란토와 결투하자."
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_CompromisingInfo_WorldEvent
 #. PATH = JournalEntry/TitleReference
@@ -13309,7 +13309,7 @@ msgstr "어릿광대를 찾자."
 #. PATH = JournalEntry/TaskEntry[19]
 msgctxt "0x00023f7f"
 msgid "Return to the ballroom to confront Gaspard."
-msgstr "무도회장으로 돌아가 가스파드와 대결하자."
+msgstr "무도회장으로 돌아가 가스파드와 대면하자."
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_main_journal_courtapproval
 #. PATH = JournalEntry/TaskEntry[20]
@@ -13345,7 +13345,7 @@ msgstr "정보를 수집하고 컬렌에게 돌아가자."
 #. PATH = JournalEntry/TaskEntry[25]
 msgctxt "0x00024903"
 msgid "Confront Grand Duchess Florianne."
-msgstr "플로리안 대공과 대결하자."
+msgstr "플로리안 대공과 대면하자."
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_main_journal_courtapproval
 #. PATH = JournalEntry/TaskEntry[26]

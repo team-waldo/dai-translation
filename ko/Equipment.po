@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-22 14:56+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2021-05-24 08:56+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
 "Language: ko\n"
@@ -4365,7 +4365,7 @@ msgstr "철퇴 무게추"
 #. PATH = ItemPartType/DisplayName
 msgctxt "0x00014121"
 msgid "Maul Head"
-msgstr "대망치 무게추"
+msgstr "큰망치 무게추"
 
 #. FILE = DA3/Equipment/Crafting/PartTypes/part_type_rune_non_staff
 #. PATH = ItemPartType/DisplayName
@@ -11070,7 +11070,7 @@ msgstr "분리"
 #. PATH = Recipe/Description
 msgctxt "0x0003ff5f"
 msgid "Tier 3 Maul Schematic"
-msgstr "3단계 대망치 도안"
+msgstr "3단계 큰망치 도안"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Greataxes/recipe_BE_Maul_1
 #. PATH = Recipe/CraftingName
@@ -11202,13 +11202,13 @@ msgstr "명품 아로새겨진 대검 손잡이"
 #. PATH = Recipe/DisplayName
 msgctxt "0x00040342"
 msgid "Maul of the Dragon"
-msgstr "용의 대망치"
+msgstr "용의 큰망치"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Greataxes/recipe_maul_t3_dragon
 #. PATH = Recipe/DisplayName
 msgctxt "0x00040344"
 msgid "Superb Maul of the Dragon"
-msgstr "고급 용의 대망치"
+msgstr "고급 용의 큰망치"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Greataxes/recipe_mp2_greataxe_mp_respec_katari
 #. PATH = Recipe/DisplayName
@@ -11686,31 +11686,31 @@ msgstr "응축된 양손 자루"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001fc01"
 msgid "Pointed Maul"
-msgstr "뾰족한 대망치"
+msgstr "뾰족한 큰망치"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Mauls/recipe_maul_t1_1
 #. PATH = Recipe/Description
 msgctxt "0x0003ff5e"
 msgid "Tier 1 Maul Schematic"
-msgstr "1단계 대망치 도안"
+msgstr "1단계 큰망치 도안"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Mauls/recipe_maul_t1_1
 #. PATH = Recipe/CraftingName
 msgctxt "0x000243eb"
 msgid "Maul"
-msgstr "대망치"
+msgstr "큰망치"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Mauls/recipe_maul_t2_1_rare
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001fc07"
 msgid "Masterwork Dwarven Maul"
-msgstr "명품 드워프식 대망치"
+msgstr "명품 드워프식 큰망치"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Mauls/recipe_maul_t2_1_rare
 #. PATH = Recipe/Description
 msgctxt "0x0003ff5c"
 msgid "Tier 2 Maul Schematic"
-msgstr "2단계 대망치 도안"
+msgstr "2단계 큰망치 도안"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Mauls/recipe_maul_t2_1_rare
 #. PATH = Recipe/CraftingName
@@ -11722,13 +11722,13 @@ msgstr "전쟁망치"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001fc04"
 msgid "Dwarven Maul"
-msgstr "드워프식 대망치"
+msgstr "드워프식 큰망치"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Mauls/recipe_maul_t3_1_rare
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001fc05"
 msgid "Lionhead Maul"
-msgstr "사자머리 대망치"
+msgstr "사자머리 큰망치"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Mauls/recipe_maul_t3_2
 #. PATH = Recipe/DisplayName
@@ -12178,7 +12178,7 @@ msgstr "곤봉"
 #. PATH = EquipItemType/DisplayName
 msgctxt "0x000142d3"
 msgid "Maul"
-msgstr "대망치"
+msgstr "큰망치"
 
 #. FILE = DA3/Equipment/EquipItemTypes/item_type_plot
 #. PATH = EquipItemType/DisplayName
@@ -19506,8 +19506,8 @@ msgid ""
 msgstr ""
 "보통 쿠나리는 투창이나 대포 같은 원거리 무기를 선호하지만, 폭풍의 시대, 신 숭고한 거병 당시 활약했던 한 쿠나리 궁사의 이야기는 널리 "
 "알려져 있다. 테다스군 병력에게는 \"새매\"라는 별칭으로 유명했던 그는 깜깜한 곳에서 아무런 조짐도 없이 날아드는 화살로 적진을 "
-"두려움에 떨게 했다고 전해진다. 그는 백 명이 넘는 처치 횟수를 기록하며 여성 쿠나리 전사의 전설이 되었지만, 실상 그의 정체는 벤 "
-"하스라스 집행자였을 가능성이 높다."
+"두려움에 떨게 했다고 전해진다. 그는 백 명이 넘는 처치 횟수를 기록하며 여성 쿠나리 전사의 전설이 되었지만, 실상 그의 정체는 "
+"벤하스라스 집행자였을 가능성이 높다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Rogue/Bows/equip_bow_t2_15_unique
 #. PATH = EquipItemAsset/DisplayName
@@ -21018,7 +21018,7 @@ msgstr ""
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0004ad09"
 msgid "Maul of Tacitus"
-msgstr "타시투스의 대망치"
+msgstr "타시투스의 큰망치"
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Mauls/dlcblue_equip_maul_the20_attackchain
 #. PATH = EquipItemAsset/Description
@@ -21082,7 +21082,7 @@ msgstr ""
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0004032e"
 msgid "Maul of the Dragon"
-msgstr "용의 대망치"
+msgstr "용의 큰망치"
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Mauls/equip_maul_spoon
 #. PATH = EquipItemAsset/DisplayName
@@ -21112,13 +21112,13 @@ msgstr ""
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001fb9e"
 msgid "Barbarian Maul"
-msgstr "야만인 대망치"
+msgstr "야만인 큰망치"
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Mauls/equip_maul_t1_2
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00028654"
 msgid "Barbarian Lord Maul"
-msgstr "야만인 족장의 대망치"
+msgstr "야만인 족장의 큰망치"
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Mauls/equip_maul_t1_3
 #. PATH = EquipItemAsset/DisplayName
@@ -21160,7 +21160,7 @@ msgstr "뛰어난 드워프 바위분쇄자"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001fb8c"
 msgid "Legion of the Dead Maul"
-msgstr "망자의 군단 대망치"
+msgstr "망자의 군단 큰망치"
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Mauls/equip_maul_t2_7_unique
 #. PATH = EquipItemAsset/DisplayName
@@ -21178,8 +21178,8 @@ msgid ""
 "However, while Hossberg did force the horde into retreat, Grey Wardens "
 "entering the city found only chaos and no Ansel."
 msgstr ""
-"이 대망치는 3차 대재앙 시절의 어둠의 피조물 공성전 때 호스버그가 생존하게 해 준 물건이라 전해진다. 오늘날까지도 앤더펄스에서는 "
-"대망치를 고결하게 들어올린 채 도시의 검은 탑 꼭대기에 군림한 안셀 경의 모습을 그린 그림이 전해지고는 한다. 그러나, 호스버그가 적을 "
+"이 큰망치는 3차 대재앙 시절의 어둠의 피조물 공성전 때 호스버그가 생존하게 해 준 물건이라 전해진다. 오늘날까지도 앤더펄스에서는 "
+"큰망치를 고결하게 들어올린 채 도시의 검은 탑 꼭대기에 군림한 안셀 경의 모습을 그린 그림이 전해지고는 한다. 그러나, 호스버그가 적을 "
 "후퇴시킨 것은 사실이지만, 회색 감시자들이 도시에 들어섰을 때 안셀은 간데없이 도시는 혼란에 휩싸여 있었다고 한다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Mauls/equip_maul_t3_1_rare
@@ -24060,13 +24060,13 @@ msgstr "돌 추적자 칼날"
 #. PATH = Recipe/DisplayName
 msgctxt "0x000475e5"
 msgid "Revered Defender Maul"
-msgstr "경외받는 수비대 대망치"
+msgstr "경외받는 수비대 큰망치"
 
 #. FILE = DA3_dlc_red/Equipment/Crafting/Recipes/Weapons/Warrior/Greataxes/dlcred_recipe_dlcred_maul
 #. PATH = Recipe/Description
 msgctxt "0x00045573"
 msgid "Tier 4 Maul Schematic"
-msgstr "4단계 대망치 도안"
+msgstr "4단계 큰망치 도안"
 
 #. FILE = DA3_dlc_red/Equipment/Crafting/Recipes/Weapons/Warrior/Shields/dlcred_recipe_dlcred_shield
 #. PATH = Recipe/DisplayName
