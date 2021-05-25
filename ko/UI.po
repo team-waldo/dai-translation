@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-24 08:56+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2021-05-25 13:57+0000\n"
+"Last-Translator: 이하주 <haju9807@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -22816,7 +22816,7 @@ msgstr "인벤토리"
 #. PATH = UIHeroMenuScreenAsset/Elements/member[3]/UIHeroMenuListData/Locks/member[1]/HeroMenuItemLockEntry/Text
 msgctxt "0x000422de"
 msgid "The {CUSTOM0} is not available while you are under attack."
-msgstr "전투 중에는 {CUSTOM0}가 불가합니다."
+msgstr "{CUSTOM0}은 공격 받는 중엔 불가합니다."
 
 #. FILE = UI/Flow/Screen/GLO/GLO_HeroMenu
 #. PATH = UIHeroMenuScreenAsset/Elements/member[4]/UIHeroMenuListData/DisplayString

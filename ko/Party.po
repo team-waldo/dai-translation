@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-24 08:56+0000\n"
+"PO-Revision-Date: 2021-05-25 13:56+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -4487,7 +4487,7 @@ msgid ""
 "of Elusive every few seconds while in the cloud.\n"
 "\n"
 msgstr ""
-"운무 속에서 아군이 손쉽게 적을 따돌릴 수 있게 됩니다. 아군이 맹독 안개의 범위 내에 있는 동안 주기적으로 교묘함 중첩을 얻습니다.\n"
+"구름 속에서 아군이 손쉽게 적을 따돌릴 수 있게 됩니다. 아군이 맹독 안개의 범위 내에 있는 동안 주기적으로 교묘함 중첩을 얻습니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/General/ShadowStrikes/party_rogue_general_shadowstrikes_abilitydata
@@ -5222,7 +5222,7 @@ msgid ""
 "time.\n"
 "\n"
 msgstr ""
-"치명타가 적의 방어구를 갈라냅니다. 적은 잠시 동안 방어구 손상 상태에 놓입니다.\n"
+"치명타가 적의 방어구를 갈라버립니다. 잠시 동안 적을 방어구 손상 상태로 만듭니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/Passives/SilentKiller/party_rogue_passive_silentkiller_abilitydata
@@ -5425,7 +5425,7 @@ msgid ""
 "dance.\n"
 "\n"
 msgstr ""
-"단검이 잔상을 만들며 치명적인 춤을 춥니다. 매 공격이 치명타의 확률을 높입니다. 치명타가 발생한다면 춤은 처음부터 다시 시작합니다.\n"
+"단검이 잔상을 만들며 치명적인 춤을 춥니다. 매 공격이 치명타 확률을 높입니다. 치명타가 발생한다면 효과는 초기화되어 다시 시작합니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/Stalker/AspectOfDespair/party_rogue_stalker_aspectofdespair_upgrade1_abilitydata
@@ -9299,7 +9299,7 @@ msgstr ""
 #. PATH = BWAbilityUpgrade/AbilityNameReference
 msgctxt "0x0003e2c5"
 msgid "Elegant Defense"
-msgstr "우아한 보호"
+msgstr "섬세한 보호"
 
 #. FILE = DA3/Party/mage/Staff/AblativeArmor/party_mage_staff_ablativearmor_aoe_upgrade2_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityDescriptionReference
@@ -9317,7 +9317,7 @@ msgstr ""
 #. PATH = BWAbilityUpgrade/AbilityNameReference
 msgctxt "0x00049520"
 msgid "Energetic Defense"
-msgstr "열정적 보호"
+msgstr "충만한 보호"
 
 #. FILE = DA3/Party/mage/Staff/AblativeArmor/party_mage_staff_ablativearmor_aoe_upgrade3_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityDescriptionReference
