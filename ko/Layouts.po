@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-25 13:56+0000\n"
-"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
+"PO-Revision-Date: 2021-05-27 01:58+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -4599,7 +4599,7 @@ msgstr "기술은 마나와 기력을 소비하여 강력한 전투 효과를 �
 #. PATH = BWPopUpEntityData[5]/Title
 msgctxt "0x00044946"
 msgid "Flashfire"
-msgstr "순간발화"
+msgstr "발화"
 
 #. FILE = da3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0205_PRO_BridgeCombat_Schematic
 #. PATH = BWPopUpEntityData[5]/Text
@@ -4609,8 +4609,8 @@ msgid ""
 "nventoryItem2}{/notcontroller}: Ignite and panic a foe. Panicked foes can't "
 "attack, but will snap out of it if damaged."
 msgstr ""
-"순간발화 {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInvent"
-"oryItem2}{/notcontroller}: 적을 발화시키고 공황상태에 빠트립니다. 공황상태의 적은 공격할 수 없지만, 피해를 입으면 "
+"발화 {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInventor"
+"yItem2}{/notcontroller}: 적에게 불을 질러 공황상태에 빠트립니다. 공황상태의 적은 공격할 수 없지만, 피해를 입으면 "
 "공황을 벗어납니다."
 
 #. FILE = da3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0205_PRO_BridgeCombat_Schematic
@@ -9015,7 +9015,7 @@ msgstr "잊힌 동굴로"
 #. PATH = BWMapPinLocation[1]/TitleReference
 msgctxt "0x000132ff"
 msgid "Barrier"
-msgstr "방어막"
+msgstr "보호막"
 
 #. FILE = da3_dlc_red/Layouts/DLC_Red_Dungeon/map/DLC_Red_Dungeon_floor1
 #. PATH = BWMapPinArea[2]/TitleReference

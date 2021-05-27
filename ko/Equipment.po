@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-25 13:57+0000\n"
-"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
+"PO-Revision-Date: 2021-05-27 01:58+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
 "Language: ko\n"
@@ -2532,7 +2532,7 @@ msgstr ""
 "3단계 <font color=\"#2E9AFE\">희귀</font> 옷감 (방어구는 직업 제한 없음)\n"
 "<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1.75 마력\n"
-"<font color=\"#F3F781\">공격 슬롯:</font> +3% 방어막 추가 피해\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +3% 보호막 추가 피해\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +1.75% 마법 방어력"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Cloth/recipe_material_Darkened_Samite
@@ -2576,7 +2576,7 @@ msgstr ""
 "2단계 <font color=\"#848484\">일반</font> 옷감\n"
 "<font color=\"#F3F781\">주 슬롯:</font> 중간 방어 수치\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1.5 마력\n"
-"<font color=\"#F3F781\">공격 슬롯:</font> +2.5% 방어막 추가 피해\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2.5% 보호막 추가 피해\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +1.5% 마법 방어력"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Cloth/recipe_material_Highever_Weave
@@ -2688,7 +2688,7 @@ msgstr ""
 "1단계 <font color=\"#848484\">일반</font> 옷감\n"
 "<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 마력\n"
-"<font color=\"#F3F781\">공격 슬롯:</font> +2% 방어막 추가 피해\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2% 보호막 추가 피해\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +1% 마법 방어력"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Cloth/recipe_material_Lostrous_Cotton
@@ -2774,7 +2774,7 @@ msgstr ""
 "3단계 <font color=\"#848484\">일반</font> 옷감\n"
 "<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1.75 마력\n"
-"<font color=\"#F3F781\">공격 슬롯:</font> +3% 방어막 추가 피해\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +3% 보호막 추가 피해\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +1.75% 마법 방어력"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Cloth/recipe_material_Samite
@@ -12256,19 +12256,19 @@ msgstr "고급 회피의 목걸이"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0004b232"
 msgid "Amulet of Barrier"
-msgstr "방어막의 목걸이"
+msgstr "보호막의 목걸이"
 
 #. FILE = DA3/Equipment/Items/Accessories/Amulets/dlcblue_equip_acc_amulet_blue_genbarrier_2
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0004b234"
 msgid "Enhanced Amulet of Barrier"
-msgstr "상급 방어막의 목걸이"
+msgstr "상급 보호막의 목걸이"
 
 #. FILE = DA3/Equipment/Items/Accessories/Amulets/dlcblue_equip_acc_amulet_blue_genbarrier_3
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0004b236"
 msgid "Superb Amulet of Barrier"
-msgstr "고급 방어막의 목걸이"
+msgstr "고급 보호막의 목걸이"
 
 #. FILE = DA3/Equipment/Items/Accessories/Amulets/dlcblue_equip_acc_amulet_blue_genthreat_1
 #. PATH = EquipItemAsset/DisplayName
@@ -13678,13 +13678,13 @@ msgstr "화염폭풍 강화 반지"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00040981"
 msgid "Enhanced Immolate Ring"
-msgstr "작렬 강화 반지"
+msgstr "소각 강화 반지"
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/equip_ring_upgrade_mage_flame_tongue
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0004097c"
 msgid "Enhanced Flashfire Ring"
-msgstr "번갯불 강화 반지"
+msgstr "발화 강화 반지"
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/equip_ring_upgrade_mage_ice_glyph
 #. PATH = EquipItemAsset/DisplayName

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-25 13:56+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-05-27 01:56+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/unknown/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -533,7 +533,7 @@ msgstr "도적 갑옷"
 
 msgctxt "0x00013ba0"
 msgid "Creature Barrier"
-msgstr "크리처 방어막"
+msgstr "크리처 보호막"
 
 msgctxt "0x00014055"
 msgid "Recent, but was it the Warden? There aren't any darkspawn around here."
@@ -5508,7 +5508,7 @@ msgstr "{CUSTOM0} {CUSTOM1}"
 
 msgctxt "0x0002edcc"
 msgid "Magical Barrier"
-msgstr "마법 방어막"
+msgstr "마법 보호막"
 
 msgctxt "0x0002edf1"
 msgid "Dagger Affinity"
@@ -6231,7 +6231,7 @@ msgstr "황실 궁정 재봉술"
 
 msgctxt "0x00031e1d"
 msgid "Improved Barriers"
-msgstr "개선된 방어막"
+msgstr "개선된 보호막"
 
 msgctxt "0x00031e1e"
 msgid "Combined Operations"
@@ -9154,7 +9154,7 @@ msgstr "이건 우리 사람들이야. 붉은 성기사들이 돌아온 게 틀�
 
 msgctxt "0x0003e271"
 msgid "Ageless Barrier"
-msgstr "영원한 방어막"
+msgstr "영원한 보호막"
 
 msgctxt "0x0003e272"
 msgid ""
@@ -9162,7 +9162,7 @@ msgid ""
 "persist indefinitely at a minimum energy level unless destroyed by enemies.\n"
 "\n"
 msgstr ""
-"당신이 사용히는 방어막은 시간이 지나도 완전히 소진되지 않습니다. 적의 공격에 파괴될 때까지 최소한의 방어막이 영구적으로 지속됩니다.\n"
+"시간이 지나도 보호막이 소진되지 않습니다. 최소한의 보호막이 남아 적의 공격에 파괴될 때까지 지속됩니다.\n"
 "\n"
 
 msgctxt "0x0003e608"
@@ -10260,7 +10260,7 @@ msgid ""
 "each attack.\n"
 "\n"
 msgstr ""
-"영혼 칼날로 더 많은 피해를 입히고, 각 공격마다 방어막을 더 생성합니다.\n"
+"영혼 칼날이 더 많은 피해를 입히고, 각 공격마다 보호막을 더 생성합니다.\n"
 "\n"
 
 msgctxt "0x0003f83a"
@@ -11988,7 +11988,7 @@ msgstr ""
 
 msgctxt "0x00042623"
 msgid "Chance to Burn on Hit"
-msgstr "적중 시 확률적으로 화상"
+msgstr "적중 시 일정 확률로 화상"
 
 msgctxt "0x0004262b"
 msgid "Quicksilver"
@@ -13090,7 +13090,7 @@ msgstr "향상된 마법 해제"
 
 msgctxt "0x00042762"
 msgid "Improved Barrier"
-msgstr "향상된 방어막"
+msgstr "향상된 보호막"
 
 msgctxt "0x00042763"
 msgid "Improved Heal"
@@ -13134,7 +13134,7 @@ msgstr "향상된 불의 장벽"
 
 msgctxt "0x0004276f"
 msgid "Improved Immolate"
-msgstr "향상된 화형"
+msgstr "향상된 소각"
 
 msgctxt "0x00042770"
 msgid "Improved Fire Mine"
@@ -13290,39 +13290,39 @@ msgstr "향상된 소용돌이"
 
 msgctxt "0x000427c5"
 msgid "Chance to Freeze on Hit"
-msgstr "적중 시 확률적으로 빙결"
+msgstr "적중 시 일정 확률로 빙결"
 
 msgctxt "0x000427c6"
 msgid "Chance to Chill on Hit"
-msgstr "적중 시 확률적으로 서리"
+msgstr "적중 시 일정 확률로 오한"
 
 msgctxt "0x000427c7"
 msgid "Chance to Panic on Hit"
-msgstr "적중 시 확률적으로 공황"
+msgstr "적중 시 일정 확률로 공황"
 
 msgctxt "0x000427c8"
 msgid "Chance to Shock on Hit"
-msgstr "적중 시 확률적으로 감전"
+msgstr "적중 시 일정 확률로 감전"
 
 msgctxt "0x000427c9"
 msgid "Chance to Inflict Chill on Being Hit"
-msgstr "피격 시 확률적으로 서리 부여"
+msgstr "피격 시 일정 확률로 오한 부여"
 
 msgctxt "0x000427ca"
 msgid "Chance to Inflict Burn on Being Hit"
-msgstr "피격 시 확률적으로 화상 부여"
+msgstr "피격 시 일정 확률로 화상 부여"
 
 msgctxt "0x000427cb"
 msgid "Chance to Inflict Freeze on Being Hit"
-msgstr "피격 시 확률적으로 빙결 부여"
+msgstr "피격 시 일정 확률로 빙결 부여"
 
 msgctxt "0x000427cc"
 msgid "Chance to Inflict Shock on Being Hit"
-msgstr "피격 시 확률적으로 감전 부여"
+msgstr "피격 시 일정 확률로 감전 부여"
 
 msgctxt "0x000427cd"
 msgid "Chance to Inflict Panic on Being Hit"
-msgstr "피격 시 확률적으로 공황 부여"
+msgstr "피격 시 일정 확률로 공황 부여"
 
 msgctxt "0x000427ce"
 msgid ""
@@ -13489,7 +13489,7 @@ msgid ""
 "Increases barrier.\n"
 "\n"
 msgstr ""
-"방어막을 증가시킵니다.\n"
+"보호막을 증가시킵니다.\n"
 "\n"
 
 msgctxt "0x000427f2"
@@ -13505,7 +13505,7 @@ msgid ""
 "Deals bonus damage to enemy barriers.\n"
 "\n"
 msgstr ""
-"적 방어막에 추가 피해를 줍니다.\n"
+"적 보호막에 추가 피해를 줍니다.\n"
 "\n"
 
 msgctxt "0x000427f4"
@@ -13598,7 +13598,7 @@ msgstr "방어도 관통"
 
 msgctxt "0x00042802"
 msgid "Barrier Penetration"
-msgstr "방어막 관통"
+msgstr "보호막 관통"
 
 msgctxt "0x00042803"
 msgid "Increased Duration"
@@ -14056,7 +14056,7 @@ msgid ""
 "<font color=\"#BAAB7B\">Maximum Barrier Bonus: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0}%</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">최대 방어막 증가량: </font><font color=\"#F5ECCE\""
+"<font color=\"#BAAB7B\">최대 보호막 증가량: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0}%</font>\n"
 
 msgctxt "0x00042941"
@@ -15069,7 +15069,7 @@ msgstr "요원 도전 {CUSTOM0}개를 완수하십시오."
 
 msgctxt "0x00042c79"
 msgid "Magic Barrier"
-msgstr "마법 방어막"
+msgstr "마법 보호막"
 
 msgctxt "0x00042c88"
 msgid "Constitution Gained!"
@@ -15627,7 +15627,7 @@ msgstr "중복되는 아이템을 재활용하여 재료를 획득하세요. 재
 
 msgctxt "0x0004310e"
 msgid "Only mages can dispel the magical barriers protecting treasure rooms."
-msgstr "마법사만 보물 저장고를 보호하는 마법 방어막을 해제할 수 있습니다."
+msgstr "보물 저장고를 보호하는 마법 보호막은 마법사만이 해제할 수 있습니다."
 
 msgctxt "0x0004310f"
 msgid ""
@@ -16553,7 +16553,7 @@ msgctxt "0x0004377c"
 msgid ""
 "Health is a valuable resource. Make sure to use barrier and guard abilities "
 "often."
-msgstr "체력은 귀중한 자원입니다. 방어막과 방어도 부여 능력을 자주 사용하세요."
+msgstr "체력은 귀중한 자원입니다. 보호막과 장갑을 얻는 능력을 자주 사용하세요."
 
 #. USED IN :
 #.     0x000438f6(276726) : {string}276349{/string}
@@ -16638,7 +16638,7 @@ msgstr "원소 피해는 항상 적의 방어 수치를 무시합니다."
 #.     0x000438e4(276708) : {string}276360{/string}
 msgctxt "0x00043788"
 msgid "Use Dispel or Spell Purge to remove enemy barriers."
-msgstr "마법 해제 또는 주문 정화 능력을 사용하여 적의 방어막을 제거하세요."
+msgstr "마법 해제 또는 주문 정화 능력을 사용하여 적의 보호막을 제거하세요."
 
 #. USED IN :
 #.     0x000438ee(276718) : {string}276361{/string}
@@ -18463,7 +18463,7 @@ msgid ""
 "<font color=\"#BAAB7B\">Minimum Barrier: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0}%</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">방어막 최소 한도: </font><font color=\"#F5ECCE\""
+"<font color=\"#BAAB7B\">보호막 최소 한도: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0}%</font>\n"
 
 msgctxt "0x00043dfd"
@@ -18659,7 +18659,7 @@ msgstr ""
 
 msgctxt "0x00044050"
 msgid "Pyromancer"
-msgstr "불마법사"
+msgstr "화염술사"
 
 msgctxt "0x00044054"
 msgid "Ally's Striker"
@@ -22276,7 +22276,7 @@ msgstr "닻을 방출하면 근처의 모든 개틀록이 폭발합니다."
 
 msgctxt "0x0004b4e0"
 msgid "On hit, chance to inflict Bees! on target"
-msgstr "적중 시, 대상에게 확률적으로 벌떼다! 시전"
+msgstr "적중 시, 대상에게 일정 확률로 벌떼다! 시전"
 
 msgctxt "0x000450da"
 msgid "Give Signal"

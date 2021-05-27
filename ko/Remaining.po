@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-25 13:57+0000\n"
-"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
+"PO-Revision-Date: 2021-05-27 01:56+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -165,7 +165,7 @@ msgstr "방어도"
 #. PATH = StatusEffect/Description
 msgctxt "0x0002a292"
 msgid "Barrier"
-msgstr "방어막"
+msgstr "보호막"
 
 #. FILE = DA3/Combat/DisplayBuffs/Berserk_Buff
 #. PATH = StatusEffect/Description
@@ -375,19 +375,19 @@ msgstr "죽음의 일격 회피"
 #. PATH = BWStat/StatName
 msgctxt "0x00013ba1"
 msgid "Barrier Type"
-msgstr "방어막 유형"
+msgstr "보호막 유형"
 
 #. FILE = DA3/Combat/Stats/Stat_Barrier_Max
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x00013310"
 msgid "Barrier Max"
-msgstr "방어막 최대"
+msgstr "보호막 최대"
 
 #. FILE = DA3/Combat/Stats/Stat_Barrier_Regeneration
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x0001330f"
 msgid "Barrier Regeneration"
-msgstr "방어막 재생"
+msgstr "보호막 재생"
 
 #. FILE = DA3/Combat/Stats/Stat_Bleed_Duration_Modifier
 #. PATH = BWModifiableStat/StatName
@@ -525,7 +525,7 @@ msgstr "방어구 관통력 조절"
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x00022741"
 msgid "Barrier Modifier"
-msgstr "방어막 조절"
+msgstr "보호막 조절"
 
 #. FILE = DA3/Combat/Stats/Stat_Creature_Counter_1
 #. PATH = BWModifiableStat/StatName
@@ -647,14 +647,14 @@ msgstr "추가 피해 (전체)"
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x0001804a"
 msgid "Barrier Damage Bonus"
-msgstr "방어막 추가 피해"
+msgstr "보호막 추가 피해"
 
 #. FILE = DA3/Combat/Stats/Stat_Damage_Bonus_Barrier
 #. PATH = BWModifiableStat/StatDescription
 msgctxt "0x00032ac9"
 msgid ""
 "Increases the damage against enemies that are under the effect of Barrier."
-msgstr "방어막의 영향을 받는 적에게 가하는 피해량이 증가합니다."
+msgstr "보호막의 영향을 받는 적에게 가하는 피해량이 증가합니다."
 
 #. FILE = DA3/Combat/Stats/Stat_Damage_Bonus_Cold
 #. PATH = BWModifiableStat/StatName
@@ -770,7 +770,7 @@ msgstr "(모든)피해 저항"
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x0001bda4"
 msgid "Barrier Damage Resistance"
-msgstr "방어막 피해 저항"
+msgstr "보호막 피해 저항"
 
 #. FILE = DA3/Combat/Stats/Stat_Damage_Resistance_Cold
 #. PATH = BWModifiableStat/StatName
@@ -1136,7 +1136,7 @@ msgctxt "0x0003242c"
 msgid ""
 "The character's connection to the Fade and ability to manipulate it. Each "
 "point increases Attack (mages only) and Barrier Damage Bonus."
-msgstr "해당 캐릭터의 영계와의 결속과 이를 다루는 능력입니다. 매 점수가 공격력과(마법사만) 방어막 피해량을 증가시킵니다."
+msgstr "해당 캐릭터의 영계와의 결속과 이를 다루는 능력입니다. 매 점수마다 공격력과 (마법사만 적용) 보호막 피해량을 증가시킵니다."
 
 #. FILE = DA3/Combat/Stats/Stat_Mana_Max
 #. PATH = BWModifiableStat/StatName
@@ -2889,7 +2889,7 @@ msgstr ""
 #. PATH = BWPassiveAbility/AbilityNameReference
 msgctxt "0x00042d5f"
 msgid "Reinforced Barrier"
-msgstr "강화된 방어막"
+msgstr "강화된 보호막"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/Keeper/ReinforcedBarrier/MP_keeper_passive_reinforcedbarrier_abilitydata
 #. PATH = BWPassiveAbility/AbilityDescriptionReference
@@ -2898,7 +2898,7 @@ msgid ""
 "Casting Barrier on a target also gives them a bonus to damage resistance.\n"
 "\n"
 msgstr ""
-"대상에게 방어막을 시전하면 목표에게 추가 피해 저항력이 주어집니다.\n"
+"보호막을 시전한 대상이 추가 피해 저항력을 얻습니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/Keeper/Stats/MP_keeper_passive_stats_abilitydata
@@ -3336,7 +3336,7 @@ msgstr ""
 #.     0x000473fe(291838) : {string}289368{/string}<br><br>{string}280250{/string} {string}289309{/string}
 msgctxt "0x00046a58"
 msgid "A musical virtuoso with a song for every situation."
-msgstr "모든 상황에 걸맞는 곡을 연주하는 음악의 거장."
+msgstr "모든 상황에 걸맞은 곡을 연주하는 음악의 거장."
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP2/MP_Bard
 #. PATH = BWMultiplayerCharacterData/DisplayableDescription
@@ -4626,7 +4626,7 @@ msgstr "바인소메르"
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x0002cc62"
 msgid "Magical Barrier"
-msgstr "마법 방어막"
+msgstr "마법 보호막"
 
 #. FILE = DA3/Creatures/Multiplayer/Demon/creature_mp_demon_commander
 #. PATH = CreatureEntityData/CharacterNameReference
@@ -8823,7 +8823,7 @@ msgstr "모자이크 조각 가져가기"
 #. PATH = BWPopUpEntityData/Title
 msgctxt "0x00041e98"
 msgid "Elemental Barriers"
-msgstr "원소 방어막"
+msgstr "원소 보호막"
 
 #. FILE = DA3/DesignContent/Prefabs/Interactions/Exploration/Barrier_Large_High_Fire
 #. PATH = BWPopUpEntityData/Text
@@ -8831,7 +8831,7 @@ msgctxt "0x0003826c"
 msgid ""
 "Barriers can be destroyed with enough of the opposite type of elemental "
 "damage. Fire barriers can only be damaged by a mage's cold attacks."
-msgstr "방어막은 반대 속성 피해를 입혀 파괴할 수 있습니다. 화염 방어막은 마법사의 냉기 공격으로만 피해를 입힐 수 있습니다."
+msgstr "보호막은 반대 속성 피해를 입혀 파괴할 수 있습니다. 화염 보호막은 마법사의 냉기 공격으로만 피해를 입힐 수 있습니다."
 
 #. FILE = DA3/DesignContent/Prefabs/Interactions/Exploration/Barrier_Large_Low_Spirit
 #. PATH = BWPopUpEntityData/Text
@@ -8840,7 +8840,7 @@ msgid ""
 "Elemental barriers can be destroyed with enough of the opposite type of "
 "elemental damage. Spirit barriers can only be damaged by a mage's lightning "
 "attacks."
-msgstr "방어막은 반대 속성 피해를 입혀 파괴할 수 있습니다. 영혼 방어막은 마법사의 전기 공격으로만 피해를 입힐 수 있습니다."
+msgstr "보호막은 반대 속성 피해를 입혀 파괴할 수 있습니다. 영혼 보호막은 마법사의 전기 공격으로만 피해를 입힐 수 있습니다."
 
 #. FILE = DA3/DesignContent/Prefabs/Interactions/Exploration/Barrier_Large_Medium_Ice
 #. PATH = BWPopUpEntityData/Text
@@ -8848,7 +8848,7 @@ msgctxt "0x0003826d"
 msgid ""
 "Barriers can be destroyed with enough of the opposite type of elemental "
 "damage. Ice barriers can only be damaged by a mage's fire attacks."
-msgstr "방어막은 반대 속성 피해를 입혀 파괴할 수 있습니다. 얼음 방어막은 마법사의 화염 공격으로만 피해를 입힐 수 있습니다."
+msgstr "보호막은 반대 속성 피해를 입혀 파괴할 수 있습니다. 얼음 보호막은 마법사의 화염 공격으로만 피해를 입힐 수 있습니다."
 
 #. FILE = DA3/DesignContent/Prefabs/Interactions/Exploration/Ladder_4m_Drop
 #. PATH = BWGameInteractionEntityData/InteractionTextReference
@@ -13880,7 +13880,7 @@ msgstr ""
 "\n"
 "예를 들면, 철을 방어 슬롯에 장착하면 추가 근접 방어력을 얻고, 철을 보조 슬롯에 장착하면 추가 근력 점수를 얻습니다.\n"
 "\n"
-"여러 가지 재료와 슬롯을 조합하여 필요에 알맞는 나만의 장비를 제작해보십시오."
+"여러 가지 재료와 슬롯을 조합하여 필요에 알맞은 나만의 장비를 제작해보십시오."
 
 #. FILE = DA3/designcontent/PrefabComponents/General/CMP_CraftingModification
 #. PATH = BWGameInteractionEntityData[1]/InteractionTextReference
@@ -14536,7 +14536,7 @@ msgid ""
 "useLeft}{/notcontroller} to confirm the location and inflict fire damage on "
 "all enemies in the area."
 msgstr ""
-"화형 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInvento"
+"소각 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInvento"
 "ryItem4}{/notcontroller}: 이 기술을 사용하면 광역 공격 조준 상태가 됩니다. 조준선을 원하는 지점에 위치하고 {con"
 "troller}{StringBtnA}{/controller}{notcontroller}{StringBtnMouseLeft}{/notcont"
 "roller}를 눌러 주문을 시전합니다. 범위 내 모든 적에게 화염 피해를 줍니다."
@@ -14599,7 +14599,7 @@ msgstr ""
 "방어벽 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInvent"
 "oryItem4}{/notcontroller}: "
 "{controller}Holding{/controller}{notcontroller}Toggling{/notcontroller} 이 "
-"기술은 당신의 기력을 소모하여 공격을 막습니다. 기력이 충분하다면, 방어막을 생성하여 공격을 완벽히 방어할 수 있습니다. 큰 적일수록 "
+"기술은 당신의 기력을 소모하여 공격을 막습니다. 기력이 충분하다면, 방어도를 생성하여 공격을 완벽히 방어할 수 있습니다. 큰 적일수록 "
 "기력을 더 많이 소모합니다."
 
 #. FILE = DA3/designcontent/Prefabs/Multiplayer/Global/Tutorials/MP_TutorialTrigger
@@ -14877,10 +14877,10 @@ msgid ""
 "will cover all allies within that area, mitigating incoming damage for a "
 "short time."
 msgstr ""
-"방어막 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInvent"
+"보호막 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInvent"
 "oryItem4}{/notcontroller}: 이 기술을 사용해 AOE 조준 모드를 시작한다. 주문을 시전할 지역으로 십자선을 "
 "이동해라. {controller}{StringBtnA}{/controller}{notcontroller}{StringBtnMouseLeft"
-"}{/notcontroller} 를 눌러 위치를 지정하면, 방어막이 해당 지역의 아군을 감싸, 짧은 시간 동안 피해를 경감시킨다."
+"}{/notcontroller} 를 눌러 위치를 지정하면, 보호막이 해당 지역의 아군을 감싸, 짧은 시간 동안 피해를 경감시킨다."
 
 #. FILE = DA3/designcontent/Prefabs/Multiplayer/Global/Tutorials/MP_TutorialTrigger
 #. PATH = BWPopUpEntityData[36]/Text
@@ -14932,7 +14932,7 @@ msgstr ""
 "방어벽 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInvent"
 "oryItem4}{/notcontroller}: "
 "{controller}Holding{/controller}{notcontroller}Toggling{/notcontroller} 이 "
-"기술은 당신의 기력을 소모하여 공격을 막습니다. 기력이 충분하다면, 방어막을 생성하여 공격을 완벽히 방어할 수 있습니다. 큰 적일수록 "
+"기술은 당신의 기력을 소모하여 공격을 막습니다. 기력이 충분하다면, 방어도를 생성하여 공격을 완벽히 방어할 수 있습니다. 큰 적일수록 "
 "기력을 더 많이 소모합니다."
 
 #. FILE = DA3/designcontent/Prefabs/Multiplayer/Global/Tutorials/MP_TutorialTrigger
@@ -15123,13 +15123,13 @@ msgstr "열쇠 습득함"
 #. PATH = StatusEffect/Description
 msgctxt "0x000471f8"
 msgid "Barrier Breaker"
-msgstr "방어막 파괴자"
+msgstr "보호막 파괴자"
 
 #. FILE = DA3_DLC1/Combat/StatusEffects/combat_breaker_guard_statuseffect
 #. PATH = StatusEffect/Description
 msgctxt "0x000471f9"
 msgid "Guard Breaker"
-msgstr "방어막 파괴자"
+msgstr "장갑 파괴자"
 
 #. FILE = DA3_DLC1/Creatures/Faction/Biotic/Human/creature_dlc1_hakkon_archer_f
 #. PATH = CreatureEntityData/CharacterNameReference
@@ -15583,13 +15583,13 @@ msgstr "검은 만물상"
 #. PATH = StatusEffect/Description
 msgctxt "0x0004b35b"
 msgid "Barrier Breaker"
-msgstr "방어막 파괴자"
+msgstr "보호막 파괴자"
 
 #. FILE = DA3_DLC_Blue/Combat/StatusEffects/combat_breaker_guard_statuseffect
 #. PATH = StatusEffect/Description
 msgctxt "0x0004b35c"
 msgid "Guard Breaker"
-msgstr "방어막 파괴자"
+msgstr "장갑 파괴자"
 
 #. FILE = DA3_DLC_Blue/Combat/StatusEffects/combat_immunity_interrupt_statuseffect
 #. PATH = StatusEffect/Description
@@ -15871,7 +15871,7 @@ msgctxt "0x0004b27e"
 msgid ""
 "Somber tones and a heavier coat. Perfect for cold Skyhold nights and weighty "
 "discussions."
-msgstr "어두운 톤과 무거운 겉옷. 하늘보루의 추운 밤과 진지한 토론에 완벽히 걸맞는다."
+msgstr "어두운 톤과 무거운 겉옷. 하늘보루의 추운 밤과 진지한 토론에 완벽히 걸맞다."
 
 #. FILE = DA3_DLC_Blue/DesignContent/Wardrobe/dlcblue_wardrobe_base2_var6
 #. PATH = UIBaseCustomizeItemAsset/Title
@@ -20004,7 +20004,7 @@ msgid ""
 "their foes.\n"
 "\n"
 msgstr ""
-"마법의 노래가 아군 주변에 방어막을 생성하여 아군을 보호합니다.\n"
+"마법의 노래가 아군 주변에 보호막을 생성하여 아군을 보호합니다.\n"
 "\n"
 
 #. FILE = da3_mp2/Combat/Kits/Bard/10slot/Songs/BBC_/party_mage_mp2_bard_bbc_abilitydata
@@ -20126,7 +20126,7 @@ msgid ""
 msgstr ""
 "현재 활성화된 노래에 얼어붙은 방어적인 가락을 추가합니다.\n"
 "\n"
-"이 기술을 사용하면 고향의 찬가를 부를 수 있습니다. 고향의 찬가는 주변 모든 아군에게 방어막을 생성합니다.\n"
+"이 기술을 사용하면 고향의 찬가를 부를 수 있습니다. 고향의 찬가는 주변 모든 아군에게 보호막을 생성합니다.\n"
 "\n"
 
 #. FILE = da3_mp2/Combat/Kits/Bard/Notes/Cnote/party_mage_mp2_bard_Cnote_abilitydata
@@ -20164,7 +20164,7 @@ msgid ""
 "\n"
 "\n"
 msgstr ""
-"곡을 연주할 때마다 범위 내 아군의 숫자에 비례해 방어막이 추가됩니다.\n"
+"곡을 연주할 때마다 범위 내 아군의 숫자에 비례해 보호막을 추가로 얻습니다.\n"
 "\n"
 
 #. FILE = da3_mp2/Combat/Kits/Bard/Passive/Aprimer/party_mage_mp2_bard_passive_Aprimer_abilitydata
