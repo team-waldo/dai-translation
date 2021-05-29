@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-27 01:58+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-05-29 14:58+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -101,7 +101,7 @@ msgid ""
 "functional upgrade that brings a potential resource gain from the inspired, "
 "including gold from tithes."
 msgstr ""
-"정원을 성가회로 업그레이드하여 누구에게나 희망을 선사합니다. 영감 받은 자들에게서 자원을 더 얻을 수 있고, 십일조 헌금으로 재화를 벌 "
+"정원을 성당으로 업그레이드하여 누구에게나 희망을 선사합니다. 영감 받은 자들에게서 자원을 더 얻을 수 있고, 십일조 헌금으로 재화를 벌 "
 "수 있습니다."
 
 #. FILE = UI/Assets/BaseChoices/UIBaseChoice_Garden
@@ -509,8 +509,8 @@ msgid ""
 "mauls and greatswords, but may combine a smaller weapon with a shield for "
 "added defense."
 msgstr ""
-"전사는 최전선에서 전투하며, 중갑 방어구를 입고서 막대한 피해도 견뎌낼 수 있습니다. 전사는 큰망치나 대검 등의 양손무기를 다루는데 "
-"능숙하지만, 방어를 강화하기 위해 작은 무기와 방패를 함께 사용하기도 합니다."
+"전사는 최전선에서 전투하며, 중갑 방어구를 입고서 막대한 피해도 견뎌낼 수 있습니다. 전사는 큰망치나 대검 등의 양손 무기를 다루는데 "
+"능숙하지만, 방어를 강화하기 위해 한손 무기와 방패를 함께 사용하기도 합니다."
 
 #. FILE = UI/Assets/CharacterCreation/CharacterClassUIData
 #. PATH = UICharacterClassDataAsset/CharacterClasses/member[3]/CharacterClassUIData/ClassTitleFemale
@@ -527,8 +527,8 @@ msgid ""
 "mauls and greatswords, but may combine a smaller weapon with a shield for "
 "added defense."
 msgstr ""
-"전사는 최전선에서 전투하며, 중갑 방어구를 입고서 막대한 피해도 견뎌낼 수 있습니다. 전사는 큰망치나 대검 등의 양손무기를 다루는데 "
-"능숙하지만, 방어를 강화하기 위해 작은 무기와 방패를 함께 사용하기도 합니다."
+"전사는 최전선에서 전투하며, 중갑 방어구를 입고서 막대한 피해도 견뎌낼 수 있습니다. 전사는 큰망치나 대검 등의 양손 무기를 다루는데 "
+"능숙하지만, 방어를 강화하기 위해 한손 무기와 방패를 함께 사용하기도 합니다."
 
 #. FILE = UI/Assets/CharacterCreation/CharacterClassUIData
 #. PATH = UICharacterClassDataAsset/CharacterClasses/member[4]/CharacterClassUIData/ClassTitle
@@ -545,8 +545,8 @@ msgid ""
 "mauls and greatswords, but may combine a smaller weapon with a shield for "
 "added defense."
 msgstr ""
-"전사는 최전선에서 전투하며, 중갑 방어구를 입고서 막대한 피해도 견뎌낼 수 있습니다. 전사는 큰망치나 대검 등의 양손무기를 다루는데 "
-"능숙하지만, 방어를 강화하기 위해 작은 무기와 방패를 함께 사용하기도 합니다."
+"전사는 최전선에서 전투하며, 중갑 방어구를 입고서 막대한 피해도 견뎌낼 수 있습니다. 전사는 큰망치나 대검 등의 양손 무기를 다루는데 "
+"능숙하지만, 방어를 강화하기 위해 한손 무기와 방패를 함께 사용하기도 합니다."
 
 #. FILE = UI/Assets/CharacterCreation/CharacterClassUIData
 #. PATH = UICharacterClassDataAsset/CharacterClasses/member[4]/CharacterClassUIData/ClassTitleFemale
@@ -563,8 +563,8 @@ msgid ""
 "mauls and greatswords, but may combine a smaller weapon with a shield for "
 "added defense."
 msgstr ""
-"전사는 최전선에서 전투하며, 중갑 방어구를 입고서 막대한 피해도 견뎌낼 수 있습니다. 전사는 큰망치나 대검 등의 양손무기를 다루는데 "
-"능숙하지만, 방어를 강화하기 위해 작은 무기와 방패를 함께 사용하기도 합니다."
+"전사는 최전선에서 전투하며, 중갑 방어구를 입고서 막대한 피해도 견뎌낼 수 있습니다. 전사는 큰망치나 대검 등의 양손 무기를 다루는데 "
+"능숙하지만, 방어를 강화하기 위해 한손 무기와 방패를 함께 사용하기도 합니다."
 
 #. FILE = UI/Assets/CharacterCreation/CharacterClassUIData
 #. PATH = UICharacterClassDataAsset/CharacterClasses/member[5]/CharacterClassUIData/ClassTitle
@@ -22004,7 +22004,7 @@ msgstr "한손무기"
 #. PATH = UICraftingScreenAsset/Categories/member[3]/UICraftingCategoryData/CategoryLabel
 msgctxt "0x00013345"
 msgid "Two-Handed Weapons"
-msgstr "양손무기"
+msgstr "양손 무기"
 
 #. FILE = UI/Flow/Screen/ENV/ENV_Crafting
 #. PATH = UICraftingScreenAsset/Categories/member[4]/UICraftingCategoryData/CategoryLabel
@@ -23399,7 +23399,8 @@ msgid ""
 "{/notpc}{anyxbox}console{/anyxbox}{ps3}PlayStation®3 {/ps3}{ps4}PlayStation®"
 "4 {/ps4}{anyplaystation}system{/anyplaystation}."
 msgstr ""
-"{string}269180{/string}은 데이터를 자동으로 저장합니다. 이 아이콘이 표시되는 경우, "
+"{string}269180{/string}은 데이터를 자동으로 저장합니다.\n"
+"이 아이콘이 표시되는 경우, "
 "{pc}게임을{/pc}{notpc}기기를{/notpc}{anyxbox}콘솔을{/anyxbox}{ps3}PlayStation®3 "
 "을{/ps3}{ps4}PlayStation®4 를{/ps4}{anyplaystation}시스템을{/anyplaystation} 종료하지 "
 "마십시오."
@@ -33672,7 +33673,7 @@ msgid ""
 "update{/xboxone}{anyplaystation}patch{/anyplaystation}{pc}patch{/pc} and try "
 "again."
 msgstr ""
-"이 저장 파일은 게임의 새로운 버전에서 생성 되었습니다. 최신 {xbox360}타이틀 업데이트{/xbox360}{xboxone}콘텐츠 "
+"이 저장 파일은 게임의 새로운 버전에서 생성되었습니다. 최신 {xbox360}타이틀 업데이트{/xbox360}{xboxone}콘텐츠 "
 "업데이트{/xboxone}{anyplaystation}패치{/anyplaystation}{pc}패치{/pc}를 다운로드하고 다시 "
 "시도해주세요."
 

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-27 01:58+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-05-29 14:58+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1304,8 +1304,8 @@ msgid ""
 "Press {controller}{StringBtnBACK}{/controller}{notcontroller}{ConceptMenuAlt}"
 "{/notcontroller} to view."
 msgstr ""
-"{controller}{StringBtnBACK}{/controller}{notcontroller}{Ctrl}{/notcontroller}"
-"을 눌러 확인하십시오."
+"{controller}{StringBtnBACK}{/controller}{notcontroller}Ctrl{/notcontroller}을 "
+"눌러 확인하십시오."
 
 #. FILE = DA3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0330_PRO_FirstRift_Schematic
 #. PATH = BWPopUpEntityData[3]/Text
@@ -2446,7 +2446,7 @@ msgstr "어둠 속의 무언가"
 #. PATH = GetLocalizedStringIDData[7]/Text
 msgctxt "0x00029f0f"
 msgid "Shimmer Stone Mine"
-msgstr "일렁이는 돌 광산"
+msgstr "미광석 광산"
 
 #. FILE = DA3/Layouts/TheWesternApproach/TheWesternApproach_Main/DSG_Landmarks_Schematic
 #. PATH = GetLocalizedStringIDData[8]/Text
@@ -3260,7 +3260,7 @@ msgstr "수목 요새"
 #. PATH = GetLocalizedStringIDData[6]/Text
 msgctxt "0x00045a46"
 msgid "Razikale's Reach"
-msgstr "라지케일의 돋움"
+msgstr "라지케일의 지척"
 
 #. FILE = DA3_DLC1/Layouts/DLC1_Wilderness/DSG_Landmarks_Schematic
 #. PATH = GetLocalizedStringIDData[7]/Text
@@ -3398,7 +3398,7 @@ msgstr "바위구덩이"
 #. PATH = GetLocalizedStringIDData[18]/Text
 msgctxt "0x00046e2c"
 msgid "Razikale's Reach"
-msgstr "라지케일의 돋움"
+msgstr "라지케일의 지척"
 
 #. FILE = DA3_DLC1/Layouts/DLC1_Wilderness/DSG_Regions_Schematic
 #. PATH = GetLocalizedStringIDData[19]/Text
@@ -3630,8 +3630,8 @@ msgid ""
 "roller}{ConceptSummonMount}{/notcontroller} to use Anchor Discharge as a "
 "light source."
 msgstr ""
-"닻의 방출을 광원으로 사용하려면 {controller}{StringBtnLT} + {StringBtnLStickClick}{/control"
-"ler}{notcontroller}{ConceptSummonMount}{/notcontroller} 를 누르십시오."
+"닻 방출을 광원으로 사용하려면 {controller}{StringBtnLT} + {StringBtnLStickClick}{/controll"
+"er}{notcontroller}{ConceptSummonMount}{/notcontroller} 를 누르십시오."
 
 #. FILE = DA3_DLC_Blue/Layouts/DLCBlue_Elven_Dungeon/DSG_Walkways_Schematic
 #. PATH = BWPopUpEntityData/Text
@@ -4495,8 +4495,8 @@ msgid ""
 "attack.{/controller}{notcontroller}Hold {ConceptMeleeAttack} or "
 "{StringBtnMouseLeft} to continuously attack.{/notcontroller}"
 msgstr ""
-"{controller}{StringBtnRT}{/controller}{notcontroller}}{ConceptMeleeAttack} "
-"혹은 {StringBtnMouseLeft}{/notcontroller}를 꾹 눌러 계속해서 공격하십시오."
+"{controller}{StringBtnRT}{/controller}{notcontroller}{ConceptMeleeAttack} 혹은 "
+"{StringBtnMouseLeft}{/notcontroller}를 꾹 눌러 계속해서 공격하십시오."
 
 #. FILE = da3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0200_PRO_Tutorial_Schematic
 #. PATH = BWPopUpEntityData[1]/Title
@@ -4576,7 +4576,7 @@ msgid ""
 msgstr ""
 "{controller}{StringBtnRStickClick}을 눌러 대상에게 카메라를 "
 "고정하십시오.{/controller}{notcontroller}{ConceptPCCombatSwitchTargets}를 눌러 현재 "
-"대상에게 카메라를 고정하십시오. {StringBtnMounseRight}를 땅에 눌러 잠금을 해제하십시오.\n"
+"대상에게 카메라를 고정하십시오. {StringBtnMouseRight}를 땅에 눌러 잠금을 해제하십시오.\n"
 "\n"
 "{StringBtnMouseLeft} 혹은 {StringBtnMouseRight}를 눌러도 대상에게 고정할 수 "
 "있습니다.{/notcontroller}"
@@ -4668,7 +4668,7 @@ msgstr ""
 #. PATH = BWPopUpEntityData[9]/Title
 msgctxt "0x00044945"
 msgid "War Cry"
-msgstr "전투 함성"
+msgstr "전쟁의 함성"
 
 #. FILE = da3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0205_PRO_BridgeCombat_Schematic
 #. PATH = BWPopUpEntityData[9]/Text
@@ -4678,8 +4678,8 @@ msgid ""
 "entoryItem2}{/notcontroller}: Taunt nearby foes and build guard to absorb "
 "damage."
 msgstr ""
-"전투 함성 {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInven"
-"toryItem2}{/notcontroller}: 주위의 적을 도발하고 방어도를 쌓아 피해를 막아냅니다."
+"전쟁의 함성 {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInve"
+"ntoryItem2}{/notcontroller}: 주위의 적을 도발하고 방어도를 쌓아 피해를 막아냅니다."
 
 #. FILE = da3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0205_PRO_BridgeCombat_Schematic
 #. PATH = BWPopUpEntityData[10]/Text
@@ -4714,7 +4714,7 @@ msgstr ""
 #. PATH = BWPopUpEntityData[12]/Title
 msgctxt "0x00041f8d"
 msgid "Mighty Blow"
-msgstr "호쾌한 강타"
+msgstr "강렬한 일격"
 
 #. FILE = da3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0205_PRO_BridgeCombat_Schematic
 #. PATH = BWPopUpEntityData[12]/Text
@@ -4724,7 +4724,7 @@ msgid ""
 "tInventoryItem1}{/notcontroller}: Crumple nearby foes, doing more damage to "
 "already downed foes."
 msgstr ""
-"호쾌한 강타 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInve"
+"강렬한 일격 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInve"
 "ntoryItem1}{/notcontroller}: 주위의 적을 무너뜨립니다. 이미 쓰러진 적에게는 더 많은 피해를 입힙니다."
 
 #. FILE = da3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0320_PRO_LakeCombat_Schematic
@@ -4800,7 +4800,7 @@ msgid ""
 "ber0}{ConceptSelectPartyMember1}{ConceptSelectPartyMember2}{ConceptSelectPart"
 "yMember3} or click their portraits in the top left{/notcontroller}."
 msgstr ""
-"다른 파티원을 조작하려면, {controller}{StringBtnDPadUpDown}을 누르십시오{/controller}{notcontr"
+"다른 파티원을 조작하려면, {controller}{StringBtnDpadUpDown}을 누르십시오{/controller}{notcontr"
 "oller}{ConceptSelectPartyMember0}{ConceptSelectPartyMember1}{ConceptSelectPar"
 "tyMember2}{ConceptSelectPartyMember3}을 누르거나 좌측 상단의 초상화를 "
 "클릭하십시오{/notcontroller}."
@@ -6083,7 +6083,7 @@ msgstr "접촉하기"
 #. PATH = GetLocalizedStringIDData[1]/Text
 msgctxt "0x00038003"
 msgid "Enavuris"
-msgstr "에나뷰리"
+msgstr "에나뷰리스"
 
 #. FILE = da3/Layouts/TheDales/TheDales_Plains/TheDales_Plains/DSG_RegionNotifications_Schematic
 #. PATH = GetLocalizedStringIDData[2]/Text
@@ -6983,7 +6983,7 @@ msgstr "황무지"
 #. PATH = GetLocalizedStringIDData[23]/Text
 msgctxt "0x0001e4e6"
 msgid "Shimmer Stone Mine"
-msgstr "일렁이는 돌 광산"
+msgstr "미광석 광산"
 
 #. FILE = da3/Layouts/TheWesternApproach/TheWesternApproach_Main/DSG_RegionNotifications_Schematic
 #. PATH = GetLocalizedStringIDData[25]/Text
@@ -8451,7 +8451,7 @@ msgid ""
 "wheel{/notcontroller}."
 msgstr ""
 "{controller}{StringBtnLStick}과 "
-"{GuilnteractionEnter}으로{/controller}{notcontroller}클릭하여{/notcontroller} "
+"{GuiInteractionEnter}으로{/controller}{notcontroller}클릭하여{/notcontroller} "
 "대화판에서 답변을 선택하십시오{notcontroller} 혹은 대화판에서의 위치에 따라 {ConceptConversationResponse"
 "NE}{ConceptConversationResponseE}{ConceptConversationResponseSE}{ConceptConve"
 "rsationResponseNW}{ConceptConversationResponseW}{ConceptConversationResponseS"
@@ -8549,7 +8549,7 @@ msgid ""
 "You can only learn abilities connected to the root of the ability tree or "
 "connected to an ability you've already learned."
 msgstr ""
-"기술 점수가 남아 있다면, {controller}{GuilnteractionEnter}를 눌러 선택한 기술을 "
+"기술 점수가 남아 있다면, {controller}{GuiInteractionEnter}를 눌러 선택한 기술을 "
 "습득하십시오{/controller}{notcontroller}기술을 클릭하여 습득하십시오{/notcontroller}.\n"
 "\n"
 "기술을 배우기 위해서는 기술 트리의 가장 기본 기술이나, 이미 습득한 기술과 연결되어 있어야 합니다."
@@ -8626,7 +8626,7 @@ msgstr ""
 "\n"
 "{GuiInteractionEnter}을 눌러 선택한 기술을 습득하십시오.\n"
 "\n"
-"{GuilnteractionBack}를 눌러 돌아가{/controller}{notcontroller}{ConceptBack}를 눌러 기술 "
+"{GuiInteractionBack}를 눌러 돌아가{/controller}{notcontroller}{ConceptBack}를 눌러 기술 "
 "트리 목록으로 돌아가{/notcontroller} 다른 기술 트리를 둘러보십시오."
 
 #. FILE = da3/layouts/FrostbackMountains/FrostbackMountains/DSG_0330_PRO_CharRec_Tutorial

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-27 01:56+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2021-05-29 14:58+0000\n"
+"Last-Translator: man_of_kimchi <dlwjdxor98@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -171,7 +171,7 @@ msgstr "보호막"
 #. PATH = StatusEffect/Description
 msgctxt "0x00033a56"
 msgid "Rampage"
-msgstr "광란"
+msgstr "광폭화"
 
 #. FILE = DA3/Combat/DisplayBuffs/EnchantedCold_Buff
 #. PATH = StatusEffect/Description
@@ -219,7 +219,7 @@ msgstr "은신"
 #. PATH = StatusEffect/Description
 msgctxt "0x00032114"
 msgid "Stasis Lock"
-msgstr "사물 정지"
+msgstr "정지장"
 
 #. FILE = DA3/Combat/Environment/Hazards/GroundFire
 #. PATH = BWPopUpEntityData/Text
@@ -980,7 +980,7 @@ msgstr "쌓인 추락 피해량"
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x0004b3fb"
 msgid "Flask of Fire Counter"
-msgstr "화염 비약 계수"
+msgstr "화염 플라스크 계수"
 
 #. FILE = DA3/Combat/Stats/Stat_Freeze_Duration_Modifier
 #. PATH = BWModifiableStat/StatName
@@ -2609,7 +2609,7 @@ msgstr ""
 #. PATH = BWPassiveAbility/AbilityNameReference
 msgctxt "0x00042d56"
 msgid "Flanking Fire"
-msgstr "측후방 발사"
+msgstr "우회 공격"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/Archer/FlankingFire/MP_archer_passive_flankingfire_abilitydata
 #. PATH = BWPassiveAbility/AbilityDescriptionReference
@@ -2618,7 +2618,7 @@ msgid ""
 "You do more damage when hitting enemies from behind.\n"
 "\n"
 msgstr ""
-"적을 뒤에서 공격하면 더 많은 피해를 입힙니다.\n"
+"적을 뒤에서 공격하면 추가 피해를 줍니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/Archer/Stats/MP_archer_passive_stats_abilitydata
@@ -2852,7 +2852,9 @@ msgid ""
 "After years of battling through the Deep Roads, the legionnaire can endure "
 "even the worst fights.\n"
 "\n"
-msgstr "지하 가도에서 수년간의 전투를 거친 끝에 군단 용사는 최악의 싸움 마저도 견딜 수 있게되었습니다."
+msgstr ""
+"지하 가도에서 수년간의 전투를 거친 끝에 군단 용사는 최악의 싸움마저도 견딜 수 있게 되었습니다.\n"
+"\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/Hunter/RazorsEdge/MP_hunter_passive_razorsedge_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -2963,7 +2965,7 @@ msgstr "피바다"
 #. PATH = BWPassiveAbility/AbilityDescriptionReference
 msgctxt "0x00042afc"
 msgid "Devour and Dragon-Rage now have a chance to weaken enemies.\n"
-msgstr "포식과 용의 격노를 사용하면 적을 약화시킬 가능성이 생깁니다.\n"
+msgstr "탐식과 용의 격노를 사용하면 일정 확률로 적을 약화시킵니다.\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/Reaver/Stats/MP_reaver_passive_stats_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -3242,7 +3244,7 @@ msgstr ""
 #. PATH = BWPassiveAbility/AbilityNameReference
 msgctxt "0x00042d8e"
 msgid "Deathblow"
-msgstr "마무리 일격"
+msgstr "결정타"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/Warrior/Deathblow/MP_warrior_passive_deathblow_abilitydata
 #. PATH = BWPassiveAbility/AbilityDescriptionReference
@@ -3536,7 +3538,7 @@ msgstr ""
 #. PATH = BWMultiplayerCharacterData/DefaultCharacterName
 msgctxt "0x0003f94a"
 msgid "Hall"
-msgstr "할"
+msgstr "홀"
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP_Archer
 #. PATH = BWMultiplayerCharacterData/DisplayableShortDescription
@@ -3558,9 +3560,9 @@ msgid ""
 "knowing that it spelled disaster—and for once, understanding that he was "
 "needed."
 msgstr ""
-"할은 야생에서 살아남은 숲사람이자 궁수다. 한 데일스 사냥꾼이 그를 도적으로부터 구해주고 기술들을 가르쳐 주었다. 허나 그는 인간이어서 "
-"그녀의 부족에게 환대받지 못했고, 능력이 길러지자 쫓겨나게 되었다. 할은 몇 년 동안이나 자리를 잡지 못하고 떠돌아다녔다. 한 줄기 빛이 "
-"하늘을 찢어버렸을 때, 드디어 누군가 자신을 필요로할 것을 깨달은 할은 그것이 재앙이라는 것을 알았음에도 빛을 향하여 걸어갔다."
+"홀은 야생에서 살아남은 숲사람이자 궁수다. 한 데일스 사냥꾼이 그를 도적으로부터 구해주고 기술들을 가르쳐 주었다. 허나 그는 인간이어서 "
+"그녀의 부족에게 환대받지 못했고, 능력이 길러지자 쫓겨나게 되었다. 홀은 몇 년 동안이나 자리를 잡지 못하고 떠돌아다녔다. 한 줄기 빛이 "
+"하늘을 찢어버렸을 때, 드디어 누군가 자신을 필요로할 것을 깨달은 홀은 그것이 재앙이라는 것을 알았음에도 빛을 향하여 걸어갔다."
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP_Archer
 #. PATH = BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -3689,10 +3691,10 @@ msgid ""
 "for a resolution was lost. Rion signed up with the Inquisition, seeing it as "
 "the mages' last chance for peace."
 msgstr ""
-"라이온은 오스트윅 탑에서 반란의 깃발을 들어 올린 수석 마법사였다. 커크월의 끔찍한 참사를 목격한 리온은 열렬한 이상주의를 받아들였고.. "
-"현실 감각은 거의 없었다. 그의 열정은 반란의 대가가 잃어버린 목숨, 마법사와 비 마법사로 재단되는 걸 보고 꺾였다. 이제 평화를 "
-"부르짖으며 신성한 콘클라베의 결과를 기대하고 헤이븐으로 갔다. 그렇게 사원이 무너졌을 때, 희망도 무너져 내렸다. 라이온은 희망에 대한 "
-"마지막 기회로 보고 심문회에 가입했다."
+"라이온은 오스트윅 탑에서 반란의 깃발을 들어 올린 수석 마법사였다. 커크월의 끔찍한 참사를 목격한 라이온은 열렬한 이상주의를 "
+"받아들였고... 현실 감각은 거의 없었다. 그의 열정은 반란의 대가가 잃어버린 목숨, 마법사와 비 마법사로 재단되는 걸 보고 꺾였다. "
+"이제 평화를 부르짖으며 신성한 콘클라베의 결과를 기대하고 헤이븐으로 갔다. 그렇게 사원이 무너졌을 때, 희망도 무너져 내렸다. 라이온은 "
+"희망에 대한 마지막 기회로 보고 심문회에 가입했다."
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP_Elementalist
 #. PATH = BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -3736,7 +3738,7 @@ msgid ""
 msgstr ""
 "죽음의 군단은 오자마르에서 가장 유명하고 헌신적인 전사들이다. 이 드워프들은 자신들의 죽음을 선언하고 지하 가도로 들어가 도시를 향해 "
 "밀려드는 어둠의 피조물들과 끝없는 싸움에 동참한다. 코르빈은 그들 중 하나다. 오자마르 출신의 매우 뛰어난 전사로 군단을 위해 자원했다. "
-"드워프 왕과 심문회 사이 동맹의 결과로 이제 코르빈은 테다스의 가장 큰 위협에 맞서 지상으로 나왔습니다. "
+"드워프 왕과 심문회 사이 동맹의 결과로 이제 코르빈은 테다스의 가장 큰 위협에 맞서 지상으로 나왔다. "
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP_Guardian
 #. PATH = BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -3997,9 +3999,9 @@ msgid ""
 "Pala gladly accepted exile and the loss of her caste to go to the surface.  "
 "There is no better place to master her art."
 msgstr ""
-"오자마르의 침묵의 자매는 회색 감시자 파라곤 아시스를 따르는 열성적인 여성 드워프 기사단입니다.  입단한 자매들은 무예에 대한 완벽한 "
-"헌신의 증표로 자신들의 혀를 잘라냅니다.  팔라가 심문회와 악마와의 끝없는 전쟁, 배신자와 괴물에 대해 알게 되었을 때, 그녀는 추방과 "
-"계급 박탈을 기꺼이 받아들이고 지상으로 향하였습니다.  무예를 단련하기에 더할 나위 없을 것입니다."
+"오자마르의 침묵의 자매는 회색 감시자 파라곤 아시스를 따르는 열성적인 여성 드워프 기사단이다.  입단한 자매들은 무예에 대한 완벽한 "
+"헌신의 증표로 자신들의 혀를 잘라낸다.  팔라가 심문회와 악마와의 끝없는 전쟁, 배신자와 괴물에 대해 알게 되었을 때, 그녀는 추방과 "
+"계급 박탈을 기꺼이 받아들이고 지상으로 향하였다.  무예를 단련하기에 더할 나위 없을 것이다."
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP_Templar
 #. PATH = BWMultiplayerCharacterData/DefaultCharacterName
@@ -4398,7 +4400,7 @@ msgstr "용병 주문결속사"
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x000392cf"
 msgid "Reach Guard"
-msgstr "돋움 경비병"
+msgstr "지척 경비병"
 
 #. FILE = DA3/Creatures/Faction/Biotic/Human/creature_orlesian_prowler_f
 #. PATH = CreatureEntityData/CharacterNameReference
@@ -4410,7 +4412,7 @@ msgstr "어릿광대"
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x00018909"
 msgid "Reach Spellbinder"
-msgstr "돋움 주문결속사"
+msgstr "지척 주문결속사"
 
 #. FILE = DA3/Creatures/Faction/Biotic/Human/creature_orlesianarmy_archer
 #. PATH = CreatureEntityData/CharacterNameReference
@@ -6734,7 +6736,7 @@ msgid ""
 "{string}277985{/string}"
 msgstr ""
 "배리스 경의 기술과 통솔력은 그를 컬렌에게 있어 없어서는 안 될 존재로 만들었다. 그는 붉은 성기사단에 대해 잘 이해하고 있기에, 심문회 "
-"병사들이 곧 마주하게 될 것에 그들을 대비시키는 데 완벽한 인물이 될 것이다.\n"
+"병사들이 곧 마주할 것에 그들을 대비시키는 데 완벽한 인물이 될 것이다.\n"
 "\n"
 "{string}277985{/string}"
 
@@ -9358,7 +9360,7 @@ msgstr ""
 #. PATH = CritPathWarTableLocatorData/CritPathName
 msgctxt "0x000342ee"
 msgid "Address the Chantry in Val Royeaux"
-msgstr "발 르와요에서의 성가회 접선"
+msgstr "발 르와요에서 성가회 접선하기"
 
 #. FILE = DA3/DesignContent/Prefabs/Levels/Skyhold/WarTable/WT_InvestigationLocator_ValRoyeaux
 #. PATH = CritPathWarTableLocatorData/CritPathDescription
@@ -9763,7 +9765,7 @@ msgstr "탐색"
 #. PATH = BWPopUpEntityData[1]/Text
 msgctxt "0x000380ef"
 msgid "Are you sure you want to exit Multiplayer?"
-msgstr "멀티플레이어를 나가시겠습니까?"
+msgstr "멀티플레이를 나가시겠습니까?"
 
 #. FILE = DA3/Levels/MultiplayerMenu/Default_Schematic
 #. PATH = BWPopUpEntityData[3]/Text
@@ -9875,7 +9877,7 @@ msgstr "새 작전 수행 가능"
 #. PATH = MissionManagerEntityData/LevelConfirmationString
 msgctxt "0x0003e68d"
 msgid "Would you like to gather your party and venture to {CUSTOM0} now?"
-msgstr "파티원을 모아 {CUSTOM0}로 나아가시겠습니까?"
+msgstr "파티원을 모아 {CUSTOM0}(으)로 나아가시겠습니까?"
 
 #. FILE = DA3/Logic/Levels/GlobalSPLevelStart
 #. PATH = MissionManagerEntityData/LevelConfirmButtonString
@@ -11436,7 +11438,7 @@ msgstr "레이디 플뢰르"
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x0002a6b2"
 msgid "Lady Couteau"
-msgstr "레이디 코투"
+msgstr "레이디 쿠토"
 
 #. FILE = DA3/designcontent/CreatureProfiles/Halamshiral/hal_ShadyElfFemale1_CreatureProfile
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -11556,7 +11558,7 @@ msgstr "리니아"
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x000187d9"
 msgid "Lysas"
-msgstr "라이사스"
+msgstr "리사스"
 
 #. FILE = DA3/designcontent/CreatureProfiles/Redcliffe/red_talwyn
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -13987,9 +13989,9 @@ msgid ""
 "Potion upgrades require a significant amount of herbs to unlock; in return, "
 "they give permanent and significant bonuses to your potions."
 msgstr ""
-"획득한 물약을 개선시킬 수 있습니다. 물약을 개선하려면 분류를 선택한 후, 물약을 선택하고, 개선을 선택하십시오.\n"
+"잠금 해제한 물약을 개선할 수 있습니다. 물약을 개선하려면 범주를 선택한 후, 물약을 선택하고, 개선을 선택하십시오.\n"
 "\n"
-"물약을 개선하기 위해서는 상당한 양의 약초를 모아야 합니다. 대신 영구적이고 상당한 성능 향상을 기대할 수 있습니다."
+"물약을 개선하기 위해서는 많은 양의 약초를 모아야 합니다. 그 대가로 영구적이며 의미 있는 성능 향상을 기대할 수 있습니다."
 
 #. FILE = DA3/designcontent/PrefabComponents/Interactions/Astrarium/AstrariumSpawnedData
 #. PATH = BWPopUpEntityData/Text
@@ -14146,7 +14148,7 @@ msgstr ""
 "장막불꽃은 마법사만이 소환할 수 있는 특수한 불빛이며, 일단 켜진 횃불은 누구든 들고 다닐 수 있습니다. 장막불꽃을 비춰야만 볼 수 있는 "
 "고대의 룬이나 장치들을 찾아보세요.\n"
 "\n"
-"전투행동을 하게 되면, 들고 있던 장막불꽃은 바닥에 떨어집니다."
+"전투행동을 하면, 들고 있던 장막불꽃은 바닥에 떨어집니다."
 
 #. FILE = DA3/designcontent/Prefabs/Levels/CritPlots/Halamshiral/Winter_Palace_Double_Gate
 #. PATH = BWGameInteractionEntityData/InteractionTextReference
@@ -14596,8 +14598,8 @@ msgid ""
 "enough stamina, you will fully block the attack and generate guard. Using "
 "Shield Wall on larger creatures consumes more stamina."
 msgstr ""
-"방어벽 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInvent"
-"oryItem4}{/notcontroller}: "
+"방패의 벽 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInve"
+"ntoryItem4}{/notcontroller}: "
 "{controller}Holding{/controller}{notcontroller}Toggling{/notcontroller} 이 "
 "기술은 당신의 기력을 소모하여 공격을 막습니다. 기력이 충분하다면, 방어도를 생성하여 공격을 완벽히 방어할 수 있습니다. 큰 적일수록 "
 "기력을 더 많이 소모합니다."
@@ -14613,8 +14615,8 @@ msgid ""
 "have enough stamina. Your stamina slowly drains while this ability is "
 "active, and blocking larger creatures requires more stamina."
 msgstr ""
-"막고 베기 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInve"
-"ntoryItem4}{/notcontroller}: "
+"받아치기 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInven"
+"toryItem4}{/notcontroller}: "
 "{controller}Hold{/controller}{notcontroller}Toggle{/notcontroller} 다음 근접 공격을 "
 "막고, 기력이 충분할 경우 재빨리 반격하여 물리 피해를 줍니다. 이 스킬이 활성화되는 동안 기력이 서서히 소모됩니다. 더 큰 적을 "
 "방어하려면 더 많은 기력이 필요합니다."
@@ -14628,7 +14630,7 @@ msgid ""
 "damage to your target. Your enemy is knocked down and rendered helpless for "
 "a short time."
 msgstr ""
-"호쾌한 강타 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInve"
+"강렬한 일격 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInve"
 "ntoryItem1}{/notcontroller}: 목표에게 큰 물리 피해를 입힙니다. 적은 쓰러져 잠시 동안 무방비 상태가 됩니다."
 
 #. FILE = DA3/designcontent/Prefabs/Multiplayer/Global/Tutorials/MP_TutorialTrigger
@@ -14929,8 +14931,8 @@ msgid ""
 "enough stamina, you will fully block the attack and generate guard. Using "
 "Shield Wall on larger creatures consumes more stamina."
 msgstr ""
-"방어벽 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInvent"
-"oryItem4}{/notcontroller}: "
+"방패의 벽 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInve"
+"ntoryItem4}{/notcontroller}: "
 "{controller}Holding{/controller}{notcontroller}Toggling{/notcontroller} 이 "
 "기술은 당신의 기력을 소모하여 공격을 막습니다. 기력이 충분하다면, 방어도를 생성하여 공격을 완벽히 방어할 수 있습니다. 큰 적일수록 "
 "기력을 더 많이 소모합니다."
@@ -15031,7 +15033,7 @@ msgid ""
 "your health. The lower your current health level, the more healing you "
 "receive."
 msgstr ""
-"포식 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInvento"
+"탐식 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInvento"
 "ryItem4}{/notcontroller}: 대상에게 피해를 주면서 동시에 체력이 회복됩니다. 현재 체력이 낮을수록 회복량이 더 "
 "많아집니다."
 
@@ -15129,7 +15131,7 @@ msgstr "보호막 파괴자"
 #. PATH = StatusEffect/Description
 msgctxt "0x000471f9"
 msgid "Guard Breaker"
-msgstr "장갑 파괴자"
+msgstr "방어막 파괴자"
 
 #. FILE = DA3_DLC1/Creatures/Faction/Biotic/Human/creature_dlc1_hakkon_archer_f
 #. PATH = CreatureEntityData/CharacterNameReference
@@ -15466,7 +15468,7 @@ msgctxt "0x00047038"
 msgid ""
 "This unlocks the Aegis of the Rift ability, which turns the Veil itself into "
 "a magical shield that deflects enemy projectiles."
-msgstr "이것은 장막을 마법 방패로 변화시켜 적이 보내는 투사체를 빗나가게 하는 균열의 방패 기술을 해금합니다."
+msgstr "장막을 마법 방패로 변화시켜 적의 투사체를 빗나가게 하는 균열의 방패 기술을 해금합니다."
 
 #. FILE = DA3_DLC1/designcontent/Items/dlc1_orders_item
 #. PATH = StackedItemAsset/Description
@@ -15589,7 +15591,7 @@ msgstr "보호막 파괴자"
 #. PATH = StatusEffect/Description
 msgctxt "0x0004b35c"
 msgid "Guard Breaker"
-msgstr "장갑 파괴자"
+msgstr "방어막 파괴자"
 
 #. FILE = DA3_DLC_Blue/Combat/StatusEffects/combat_immunity_interrupt_statuseffect
 #. PATH = StatusEffect/Description
@@ -17817,7 +17819,7 @@ msgstr "한손무기"
 #. PATH = UIBWInventoryCategories/CategoryLabels/member[4]/UIBWInventoryComponentCategoryData/SubcategoryList/member[4]/UIBWInventoryComponentSubcategoryData/SubcategoryLabel
 msgctxt "0x0002ba2c"
 msgid "Two-Handed Weapons"
-msgstr "양손무기"
+msgstr "양손 무기"
 
 #. FILE = Systems/Inventory/InventoryCategories
 #. PATH = UIBWInventoryCategories/CategoryLabels/member[4]/UIBWInventoryComponentCategoryData/SubcategoryList/member[8]/UIBWInventoryComponentSubcategoryData/SubcategoryLabel
@@ -17958,8 +17960,8 @@ msgid ""
 "home? This is everything essential about key players helping or hindering "
 "the Inquisition."
 msgstr ""
-"이 세상에 집으로 돌아갈 다채로운 인물들이 존재하지 않는다면, 세계를 구하는 일은 아무 의미가 없을것이다. 이곳에 심문회를 돕거나 "
-"방해하는 주요인물들에 대한 필수적인 내용이 담겨있다."
+"이 세상에 살아가는 다채로운 인물들이 없다면, 세계를 구하는 일도 아무 의미가 없을 것이다. 이곳에 심문회를 돕거나 방해하는 주요 "
+"인물들에 대한 필수적인 내용이 담겨 있다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[6]/TitleReference
@@ -18090,8 +18092,8 @@ msgid ""
 "Ancient Tevinter mosaics, long ago destroyed and scattered, may be "
 "reassembled to shed light upon the continent's rich history."
 msgstr ""
-"고대 테빈터 모자이크들은 오래 전에 파괴되어 조각조각 흩어져버렸다. 이 조각들을 모아 다시 조합한다면, 대륙의 유구한 역사를 재조명할 수 "
-"있을것이다."
+"고대 테빈터 모자이크들은 오래 전에 파괴되어 조각조각 흩어져 버렸다. 이 조각들을 모아 다시 조합한다면, 대륙의 유구한 역사를 재조명할 "
+"수 있을 것이다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[16]/TitleReference
@@ -18389,7 +18391,7 @@ msgid ""
 msgstr ""
 "황폐한 불모지로 알려진 서부 접근지대는 척박한 만큼 드넓게 펼쳐진 곳이다. 서쪽으로는 괴물들이 어슬렁거리는 초원지대와 맞닿아 있어 "
 "진입로로 향한 모험가들 중 되돌아오는 자가 극소수에 불과하며 대부분 기피하는 지역이다. 진입로 남부의 거대한 협곡 가장자리에 자리잡고 "
-"있는 회색 감시자 요새는, 가장 격렬한 전투가 벌어졌던 두 번째 대재앙 당시의 흔적이 남아있는 몇 안되는 장소 중 하나이다."
+"있는 회색 감시자 요새는, 가장 격렬한 전투가 벌어졌던 두 번째 대재앙 당시의 흔적이 남아있는 몇 안 되는 장소 중 하나이다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[35]/TitleReference
