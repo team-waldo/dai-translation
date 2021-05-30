@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-29 14:58+0000\n"
+"PO-Revision-Date: 2021-05-30 22:07+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
@@ -1474,7 +1474,7 @@ msgstr "하늘보루의 정원을 개선시키자."
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x00043798"
 msgid "Logging Stands"
-msgstr "벌목대"
+msgstr "벌목지"
 
 #. EBX = DA3/DesignContent/Journals/Global/Inquisition/upgrade_keep_quests
 #. PATH = JournalEntry/TaskEntry[2]
@@ -2410,7 +2410,7 @@ msgstr "{string}233344{/string}"
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x00043fe1"
 msgid "Spider Ichor"
-msgstr "거미 혈액"
+msgstr "거미 영액"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_stormcoast_antivenom
 #. PATH = JournalEntry/TaskEntry[2]
@@ -2666,7 +2666,7 @@ msgstr "필요 행동력"
 #. PATH = JournalEntry/TaskEntry[15]
 msgctxt "0x0001e8c4"
 msgid "Secure the gate."
-msgstr "정문을 사수하자."
+msgstr "정문을 사수하라."
 
 #. EBX = DA3/designcontent/Journals/Adamant/ada_adamant_main_journal
 #. PATH = JournalEntry/TaskEntry[16]
@@ -5883,7 +5883,7 @@ msgstr "{string}233344{/string}"
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x00043f8f"
 msgid "Logging Stand"
-msgstr "벌목대"
+msgstr "벌목지"
 
 #. EBX = DA3/DesignContent/Journals/Global/Inquisition/scout_hinterlands_weapons
 #. PATH = JournalEntry/TaskEntry[2]
@@ -6056,7 +6056,7 @@ msgstr "발견한 창문"
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0003f971"
 msgid "All New, Faded for Her"
-msgstr "완전히 새로이, 그녀를 위해 영계에 들다"
+msgstr "그대 앞에 파랗게 그린"
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/Solas/sol_followerplot_journal
 #. PATH = JournalEntry/TextEntry[0]
@@ -7016,7 +7016,7 @@ msgstr "{string}233344{/string}"
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x00043fc6"
 msgid "Spider Ichor"
-msgstr "거미 혈액"
+msgstr "거미 영액"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_oasis_cavespider
 #. PATH = JournalEntry/TaskEntry[2]
@@ -7536,7 +7536,7 @@ msgstr "하늘보루의 안뜰을 개선하자."
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x000437b9"
 msgid "Logging Stands"
-msgstr "벌목대"
+msgstr "벌목지"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/upgrade_courtyard
 #. PATH = JournalEntry/TaskEntry[2]
@@ -8008,7 +8008,7 @@ msgstr "발견한 편린"
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00042dc8"
 msgid "Into the Approach"
-msgstr "접근지역으로"
+msgstr "접경지로"
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_unlock
 #. PATH = JournalEntry/TextEntry[0]
@@ -10449,7 +10449,7 @@ msgstr "하늘보루의 주탑을 개선하자."
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x000437f2"
 msgid "Logging Stands"
-msgstr "벌목대"
+msgstr "벌목지"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/upgrade_maintower
 #. PATH = JournalEntry/TaskEntry[2]
@@ -12195,7 +12195,7 @@ msgstr "요청된 보급품을 조달하자."
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x00042ce2"
 msgid "Logging Stand"
-msgstr "벌목대"
+msgstr "벌목지"
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_order
 #. PATH = JournalEntry/TaskEntry[2]
@@ -12260,8 +12260,7 @@ msgctxt "0x00028ea8"
 msgid ""
 "A group of elves are investigating a tomb somewhere in the Emerald Graves "
 "that may hold secrets of great historical significance to the Dalish."
-msgstr ""
-"엘프 무리가 에메랄드 무덤 어딘가에 있는 무덤을 조사하고 있다. 데일스 엘프에게 있어 역사적으로 중요한 의미가 있는 곳인 듯하다."
+msgstr "엘프 무리가 에메랄드 무덤 어딘가에 있는 무덤을 조사하고 있다. 데일스 엘프에게 역사적으로 중요한 의미가 있는 곳인 듯하다."
 
 #. EBX = DA3/DesignContent/Journals/TheDales/dgs_s_140/Emerald_Tomb_Main
 #. PATH = JournalEntry/TextEntry[1]
@@ -12487,7 +12486,7 @@ msgstr "봉쇄한 땅굴"
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0002c2f8"
 msgid "Landmarks in the Approach"
-msgstr "접근지역 명소"
+msgstr "접경지 명소"
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_landmarks
 #. PATH = JournalEntry/TextEntry[0]
@@ -13951,7 +13950,7 @@ msgstr "배교자 마법사들과 탈주 성기사들 사이의 싸움은 난민
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x00042a39"
 msgid "Locate the templar camp along the western road."
-msgstr "서부 도로를 따라 성기사단 야영지를 찾아보자."
+msgstr "서쪽으로 난 길을 따라 성기사단 야영지를 찾아보자."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_crossroads_west_road_templars
 #. PATH = JournalEntry/TaskEntry[1]
@@ -14379,7 +14378,7 @@ msgstr "대전당 상태"
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00038127"
 msgid "Shards in the Approach"
-msgstr "접근지역 편린"
+msgstr "접경지 편린"
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_main_shards
 #. PATH = JournalEntry/TextEntry[0]
@@ -14986,13 +14985,13 @@ msgstr "봉인된 공간을 열기 위해서는 쐐기돌을 모아야 한다."
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x000306f3"
 msgid "Keystones collected"
-msgstr "수집한 키스톤"
+msgstr "수집한 쐐기돌"
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/D110/D110_TevinterLabs_TimeShards
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x000306ef"
 msgid "Enter the sealed chamber."
-msgstr "봉인된 공간에 들어가라."
+msgstr "봉인된 방에 들어가자."
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_fst_wild_faderift_camp_03
 #. PATH = JournalEntry/TitleReference

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-29 14:56+0000\n"
+"PO-Revision-Date: 2021-05-30 22:07+0000\n"
 "Last-Translator: 가라사대 <butnine@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
@@ -4021,7 +4021,7 @@ msgstr "페렐던 서책"
 #. PATH = RecipeMaterial/DisplayName
 msgctxt "0x0002bf33"
 msgid "Logging Stand"
-msgstr "벌목대"
+msgstr "벌목지"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Special/recipe_material_message_fragment
 #. PATH = RecipeMaterial/DisplayName
@@ -11124,7 +11124,7 @@ msgstr "화려한 전투도끼"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001f70c"
 msgid "Anderfels Cleaver"
-msgstr "앤더펄스 사각칼"
+msgstr "앤더펠스 사각칼"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Greataxes/recipe_greatsword_t2_dragon
 #. PATH = Recipe/DisplayName
@@ -12375,7 +12375,7 @@ msgstr ""
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0004b504"
 msgid "Kitty’s Collar"
-msgstr "야옹이 목걸이"
+msgstr "야옹이 목줄"
 
 #. FILE = DA3/Equipment/Items/Accessories/Amulets/dlcblue_equip_acc_amulet_relic_kitty
 #. PATH = EquipItemAsset/Description
@@ -13708,7 +13708,7 @@ msgstr "에너지 포화 강화 반지"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00040974"
 msgid "Enhanced Static Cage Ring"
-msgstr "정전기 감옥 강화 반지"
+msgstr "구속의 전기장 강화 반지"
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/equip_ring_upgrade_mage_timebubble
 #. PATH = EquipItemAsset/DisplayName
@@ -13744,7 +13744,7 @@ msgstr "장거리 사격 강화 반지"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00040a7c"
 msgid "Enhanced Caltrops Ring"
-msgstr "마름쇠 뿌리기 강화 반지"
+msgstr "마름쇠 강화 반지"
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/equip_ring_upgrade_rogue_envenomed_weapons
 #. PATH = EquipItemAsset/DisplayName
@@ -13786,7 +13786,7 @@ msgstr "도약 사격 강화 반지"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00040a7b"
 msgid "Enhanced Toxic Cloud Ring"
-msgstr "맹독 안개 강화 반지"
+msgstr "독성 구름 강화 반지"
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/equip_ring_upgrade_rogue_parry
 #. PATH = EquipItemAsset/DisplayName
@@ -13804,7 +13804,7 @@ msgstr "그림자 망토 강화 반지"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00040a96"
 msgid "Enhanced Throwing Blades Ring"
-msgstr "투검 강화 반지"
+msgstr "단검 투척 강화 반지"
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/equip_ring_upgrade_rogue_sleep_dust
 #. PATH = EquipItemAsset/DisplayName
@@ -13816,7 +13816,7 @@ msgstr "혼절 가루 강화 반지"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00040a7f"
 msgid "Enhanced Spike Trap Ring"
-msgstr "가시덫 강화 반지"
+msgstr "쐐기 덫 강화 반지"
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/equip_ring_upgrade_rogue_sucker_punch
 #. PATH = EquipItemAsset/DisplayName
@@ -13975,7 +13975,7 @@ msgid ""
 msgstr ""
 "망자의 군단에 입단하는 드워프는 타이그를 떠나기 전에 죽음을 맞는다. 장례식을 치르고, 사랑하는 이들과 작별 인사를 나눈 뒤 동료 "
 "군단원과 함께 지하 가도로 향한다. 그들은 생전에 지었던 모든 죄를 사면받으며 다시는 돌아올 수 없게 된다. 옛 영토를 앗아간 어둠의 "
-"피조물과 끝없는 전투를 벌이는 처지인 오자마르의 드워프에게 있어, 망자의 군단원이 되는 것은 최고의 영예이다."
+"피조물과 끝없는 전투를 벌이는 처지인 오자마르의 드워프에게, 망자의 군단원이 되는 것은 최고의 영예이다."
 
 #. FILE = DA3/Equipment/Items/Armors/Heavy/equip_armor_heavy_1p_elf_dalish
 #. PATH = EquipItemAsset/DisplayName
@@ -14025,7 +14025,7 @@ msgid ""
 "lover and the alleged puppet master of Divine Amara III. "
 msgstr ""
 "성기사단 내에는 교황의 직속 부대인 교황기사단이 존재한다. 이들은 교황의 경호원이자 교황의 뜻대로 움직이는 집행자 역할을 하며, "
-"일반적으로 외부에 드러나는 것을 꺼린다. 그 지위는 장기복무에 따른 일종의 보상으로 주어지는 것이나, 숭고의 시대 말엽 교황 아마라 "
+"일반적으로 외부에 드러나는 것을 꺼린다. 그 지위는 장기복무에 따른 일종의 보상으로 주어지는 것이나, 승임의 시대 말엽 교황 아마라 "
 "3세의 연인이자 배후의 실세로 악명을 떨친 놀란 브라이슨 경과 같은 예외적인 사례도 있었다. "
 
 #. FILE = DA3/Equipment/Items/Armors/Heavy/equip_armor_heavy_1p_inquisition
@@ -14054,7 +14054,7 @@ msgid ""
 "that never will we forget, lest corruption steal victory back from our "
 "children."
 msgstr ""
-"대재앙을 격퇴하매 우리 앤더펄스의 망치는 약속하노니, 이 일을 잊는 순간 타락한 자들이 우리 후손에게 승리를 거둘 터. 하여 우리는 절대 "
+"대재앙을 격퇴하매 우리 앤더펠스의 망치는 약속하노니, 이 일을 잊는 순간 타락한 자들이 우리 후손에게 승리를 거둘 터. 하여 우리는 절대 "
 "잊지 않으리라."
 
 #. FILE = DA3/Equipment/Items/Armors/Heavy/equip_armor_heavy_blackwall_start
@@ -14514,9 +14514,9 @@ msgid ""
 "Anders rebellion against Orlesian rule following the Second Blight, but if "
 "that is true, they subsequently drifted into obscurity once again."
 msgstr ""
-"드라스카는 기원전 535년, 고대 앤더펄스에서 만들어진 전사들의 조직이다. 그들은 테빈터 제국이 앤더펄스를 다시 정복하는 것을 막기 위해 "
+"드라스카는 기원전 535년, 고대 앤더펠스에서 만들어진 전사들의 조직이다. 그들은 테빈터 제국이 앤더펠스를 다시 정복하는 것을 막기 위해 "
 "결성되었으며, 검법과 궁술로 널리 이름을 떨쳤으나 제국에게 잔혹하게 사냥당한 끝에 최후의 조직원이 남부의 저주받은 구릉 지역으로 "
-"피신하면서 끝을 맞았다. 소문에는 드라스카가 이후로도 존속하여 2차 대재앙 이후 앤더펄스가 올레이의 지배에 반기를 드는 데 영향을 "
+"피신하면서 끝을 맞았다. 소문에는 드라스카가 이후로도 존속하여 2차 대재앙 이후 앤더펠스가 올레이의 지배에 반기를 드는 데 영향을 "
 "주었다고 하지만, 그것이 사실이라 하더라도 결국에는 그들이 다시금 사라졌다는 결론에 재차 이르게 될 뿐이다."
 
 #. FILE = DA3/Equipment/Items/Armors/Helms/equip_helmet_qunari_ballroom
@@ -14816,7 +14816,7 @@ msgctxt "0x00044995"
 msgid ""
 "Blight is beaten, and we of the Hammer of Anderfels commit to this oath: "
 "that never will a Warden want while breath remains to be drawn."
-msgstr "대재앙을 격퇴하매 우리 앤더펄스의 망치는 서약하노니, 감시자는 숨이 붙은 한 절대 멈추지 않으리라."
+msgstr "대재앙을 격퇴하매 우리 앤더펠스의 망치는 서약하노니, 감시자는 숨이 붙은 한 절대 멈추지 않으리라."
 
 #. FILE = DA3/Equipment/Items/Armors/Light/equip_armor_light_dorian_start
 #. PATH = EquipItemAsset/DisplayName
@@ -15107,7 +15107,7 @@ msgid ""
 "exceptional specimen, used only by family members and not by the servants "
 "and household guards."
 msgstr ""
-"발몽 황가는 숭고의 시대부터 제국의 황위를 지켜왔으며, 그 가면은 처음부터 지금까지 단 한번도 바뀐 적이 없다. 이 가면은 특별한 "
+"발몽 황가는 승임의 시대부터 제국의 황위를 지켜왔으며, 그 가면은 처음부터 지금까지 단 한번도 바뀐 적이 없다. 이 가면은 특별한 "
 "물건으로, 시종이나 경비대가 아닌 오직 황가의 일원만이 착용했던 것이다."
 
 #. FILE = DA3/Equipment/Items/Armors/Masks/equip_mask_5a
@@ -15155,7 +15155,7 @@ msgid ""
 "previous masks became a much-sought-after rarity."
 msgstr ""
 "실제로 이 가면은 저주받은 물건이 아니지만, 많은 이들은 이 가면과 얽힌 이들이 저주를 받았다고 믿는다. 발 피르맹을 오래도록 통치한 "
-"모락 가문은 숭고의 시대 말엽 거의 대부분의 가문 구성원들이 비극적인 최후를 맞는 추락의 시기를 거쳤고, 끝내 모락 가문은 그 \"저주"
+"모락 가문은 승임의 시대 말엽 거의 대부분의 가문 구성원들이 비극적인 최후를 맞는 추락의 시기를 거쳤고, 끝내 모락 가문은 그 \"저주"
 "\"가 전파될 것이라는 두려움에 사로잡힌 이들에게 기피를 받는 지경에 이르렀다. 에브람 백작의 아내, 루이즈 드 모락 부인은 공개적인 "
 "장소에서 모락 가문의 가면을 파괴하고 새 것을 제작하는 볼거리를 기획했으나, 행사를 하루 앞두고 독이든 포도를 먹어 죽음을 맞았다. 모락 "
 "가문의 죽음은 멈추었으나 루이즈 부인의 노력에도 불구하고 새 가면은 세간에 거의 알려지지 않았고, 이전의 가면만이 그 희귀함에 많은 "
@@ -15179,7 +15179,7 @@ msgid ""
 "risk of discovery is low. The proliferation of \"fighting masks\" continued "
 "until the practice was revealed and banned in 8:10 Blessed."
 msgstr ""
-"슈발리에에게 있어 마법으로 자신의 능력을 높이는 일은 심각한 금기이며, 결투에 임할 때라면 더더욱 그러하다. 그러나 대부분의 이들은 그런 "
+"슈발리에에게 마법으로 자신의 능력을 높이는 일은 심각한 금기이며, 결투에 임할 때라면 더더욱 그러하다. 그러나 대부분의 이들은 그런 "
 "마법이 칼이나 방어구에 부여될 것이라 생각하지, 가면에 깃들 가능성은 고려하지 않는다. 그리하여 가면은 거의 검사를 거치지 않았고, "
 "신분이 높은 자의 가면을 함부로 빼앗을 수도 없었으므로 발각될 위험 또한 낮았다. 이러한 \"전투 가면\"관습의 급증은 축복의 시대 8:"
 "10년, 그 실상이 드러나고 금지될 때까지 지속되었다."
@@ -15317,7 +15317,7 @@ msgid ""
 "Blight is beaten, and we of the Hammer of Anderfels commit to this memory: "
 "that never will their tales be lost, for without them, the world was doomed."
 msgstr ""
-"대재앙을 격퇴하매 우리 앤더펄스의 망치는 기억하노니, 저들이 없었다면 세상은 파멸을 맞았을 터, 하여 저들의 이야기는 결코 잊히지 "
+"대재앙을 격퇴하매 우리 앤더펠스의 망치는 기억하노니, 저들이 없었다면 세상은 파멸을 맞았을 터, 하여 저들의 이야기는 결코 잊히지 "
 "않으리라."
 
 #. FILE = DA3/Equipment/Items/Armors/Medium/equip_armor_medium_cole_start
@@ -18356,13 +18356,13 @@ msgstr "파라곤 흐릴단 조각품"
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x0002995a"
 msgid "The Paragon Stonehammer Carving"
-msgstr "파라곤 돌망치 조각품"
+msgstr "파라곤 스톤해머 조각품"
 
 #. FILE = DA3/Equipment/Items/Valuables/Tier5/valuable_Ander_medallion_of_service
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00029997"
 msgid "Ander Toy Soldier"
-msgstr "앤더펄스 장난감 병정"
+msgstr "앤더펠스 장난감 병정"
 
 #. FILE = DA3/Equipment/Items/Valuables/Tier5/valuable_Diamond
 #. PATH = StackedItemAsset/DisplayName
@@ -19379,7 +19379,7 @@ msgid ""
 "single movement, creating a great blizzard of shed feathers. When the down "
 "settled, no trace of the knight's estate remained save the smell."
 msgstr ""
-"노르드보튼의 레오니다스 폰티발 경은 앤더펄스의 유명한 궁수이자 왕의 암살자 중 하나로 알려졌는데, 그는 오로지 단 하나만을 사랑하였다. "
+"노르드보튼의 레오니다스 폰티발 경은 앤더펠스의 유명한 궁수이자 왕의 암살자 중 하나로 알려졌는데, 그는 오로지 단 하나만을 사랑하였다. "
 "바로 오리였다. 갑옷부터 속옷까지, 그가 소유한 모든 물건은 오리의 형상이 빛나고 있었다. 그의 저택 정원의 연못에는 마흔 개가 넘는 "
 "오리 연못이 있었고, 철 이동을 하던 청둥오리떼와 상오리떼 전체가 경로를 바꾸어 그의 정원에서 먹이를 먹었다.\n"
 "\n"
@@ -19490,7 +19490,7 @@ msgid ""
 "struck down the elven forces' commander with a shot to the throat at two "
 "hundred feet."
 msgstr ""
-"셰백의 이브 경은 숭고한 거병 당시 데일스 엘프에 맞서 이 활을 사용했다. 발 르와요 탈환전에서 그가 이백 피트 떨어진 거리에서 엘프군 "
+"셰백의 이브 경은 승임의 행군 당시 데일스 엘프에 맞서 이 활을 사용했다. 발 르와요 탈환전에서 그가 이백 피트 떨어진 거리에서 엘프군 "
 "사령관의 목을 맞혀 쓰러뜨렸다는 이야기가 특히 유명하다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Rogue/Bows/equip_bow_t2_14_unique
@@ -19504,7 +19504,7 @@ msgid ""
 "one hundred kills and with legends of female Qunari warriors, though she was "
 "far more likely a Ben-Hassrath enforcer."
 msgstr ""
-"보통 쿠나리는 투창이나 대포 같은 원거리 무기를 선호하지만, 폭풍의 시대, 신 숭고한 거병 당시 활약했던 한 쿠나리 궁사의 이야기는 널리 "
+"보통 쿠나리는 투창이나 대포 같은 원거리 무기를 선호하지만, 폭풍의 시대, 신 승임의 행군 당시 활약했던 한 쿠나리 궁사의 이야기는 널리 "
 "알려져 있다. 테다스군 병력에게는 \"새매\"라는 별칭으로 유명했던 그는 깜깜한 곳에서 아무런 조짐도 없이 날아드는 화살로 적진을 "
 "두려움에 떨게 했다고 전해진다. 그는 백 명이 넘는 처치 횟수를 기록하며 여성 쿠나리 전사의 전설이 되었지만, 실상 그의 정체는 "
 "벤하스라스 집행자였을 가능성이 높다."
@@ -19662,7 +19662,7 @@ msgid ""
 "leads caravans though the dangerous Wandering Hills to the distant port of "
 "Laysh and comprise the best marksmen in Thedas."
 msgstr ""
-"앤더펄스의 \"녹의단\" 전사들의 시조는 머데인의 사냥꾼, 그런즈맨이다. 그는 첫 번째 대재앙 당시 어둠의 피조물 전선을 넘어 호스버그 "
+"앤더펠스의 \"녹의단\" 전사들의 시조는 머데인의 사냥꾼, 그런즈맨이다. 그는 첫 번째 대재앙 당시 어둠의 피조물 전선을 넘어 호스버그 "
 "주민들을 굶주림으로부터 구한 것으로 명망이 높다. 그의 이름을 따라 창립된 녹의단은 테다스 최고의 명사수로 구성되어 있으며, 위험천만한 "
 "굽은구릉을 넘어 머나먼 레이슈의 항구로 대상단을 인도한다."
 
@@ -20064,7 +20064,7 @@ msgid ""
 "subjugation techniques."
 msgstr ""
 "이 한 쌍의 단검은 본래 네바라의 도적인 \"벨벳 몽상가\" (그가 택한 별명이다) 에밀리오 안타뉴의 것이었다. 그는 싸움보다 자기과시에 "
-"더 열중하기는 했지만, 결투에서는 무패 전적을 자랑했다. 신 숭고한 거병 이후, 그는 트레비소 시에서 쿠나리의 강제 복종 기법에 당해 "
+"더 열중하기는 했지만, 결투에서는 무패 전적을 자랑했다. 신 승임의 행군 이후, 그는 트레비소 시에서 쿠나리의 강제 복종 기법에 당해 "
 "정신이 망가진 빈껍데기가 된 모습으로 발견되었다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Rogue/Daggers/equip_dagger_t2_14_unique
@@ -20476,7 +20476,7 @@ msgid ""
 "\"questioning.\" The blade disappeared after he died in a fire, though rumor "
 "says it passed to the Antivan Crow who killed him."
 msgstr ""
-"사촌 마드리갈 여왕이 숭고의 시대에 사망하면서, 젊은 세미온 국왕은 편집증적인 은둔 성향을 띠게 되었다. 그는 감옥 요새 벨라방셸을 "
+"사촌 마드리갈 여왕이 승임의 시대에 사망하면서, 젊은 세미온 국왕은 편집증적인 은둔 성향을 띠게 되었다. 그는 감옥 요새 벨라방셸을 "
 "짓고는 제 마음에 들지 않는 이를 가리지 않고 그곳에 가두었다. 이 단검은 그가 \"탐문\"의 일환으로 사용했던 것으로, 국왕이 화재로 "
 "죽음을 맞은 이후 사라졌으나 세간엔 그를 암살한 안티바 까마귀가 단검을 가져갔다는 소문이 돈다."
 
@@ -20728,7 +20728,7 @@ msgid ""
 "when the Qunari invaded in the Steel Age. It has not been seen since."
 msgstr ""
 "이 도끼는 영광의 시대에 자유 동맹을 통일하려 했다 실패한 스탁헤이븐의 파이러스 대공이 처음으로 사용한 것이다. 파이러스의 목숨을 앗은 "
-"전투 이후, 도끼는 테빈터 제국의 손에 떨어졌다. 숭고의 시대에 이르러 아르티지언 베일 대공의 끈질긴 외교 끝에 도끼는 다시 "
+"전투 이후, 도끼는 테빈터 제국의 손에 떨어졌다. 승임의 시대에 이르러 아르티지언 베일 대공의 끈질긴 외교 끝에 도끼는 다시 "
 "스탁헤이븐으로 돌아왔으나, 철의 시대 쿠나리 침공을 겪으면서 또 한번 행방불명되었다. 이후 이 도끼를 본 이는 아무도 없다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Greataxes/equip_greataxe_t3_8_unique
@@ -20821,7 +20821,7 @@ msgid ""
 "astonished court, Helmine was impressed with the baroness's tenacity. They "
 "became fast friends, although they never did talk much."
 msgstr ""
-"카셀의 리제 남작부인이 요한 대왕의 궁정에 처음으로 등장하기 전, 앤더펄스의 선다린 백작부인 헬미네는 여러 명의 반대자들을 언어적으로 ("
+"카셀의 리제 남작부인이 요한 대왕의 궁정에 처음으로 등장하기 전, 앤더펠스의 선다린 백작부인 헬미네는 여러 명의 반대자들을 언어적으로 ("
 "그리고 한 두명 정도는 신체적으로) 골탕먹이곤 했다. 즉시 질투심에 사로잡힌 리제는 금화를 수레째 쏟아 부으며 온갖 발성법과 미사여구, "
 "풍자법을 훈련했지만, 여전히 백작부인의 비유적인 칼날에 당하기 일쑤였다. 그래서 그녀는 재치가 먹히지 않을 때 말을 이어갈 수 있는 "
 "무기를 만드는 데 재산을 쏟아부었다. 둘의 두 번째 만남에서 리제는 강철과도 같은 응수를 날리며 사람들을 놀라게 했고, 헬미네는 "
@@ -21178,7 +21178,7 @@ msgid ""
 "However, while Hossberg did force the horde into retreat, Grey Wardens "
 "entering the city found only chaos and no Ansel."
 msgstr ""
-"이 큰망치는 3차 대재앙 시절의 어둠의 피조물 공성전 때 호스버그가 생존하게 해 준 물건이라 전해진다. 오늘날까지도 앤더펄스에서는 "
+"이 큰망치는 3차 대재앙 시절의 어둠의 피조물 공성전 때 호스버그가 생존하게 해 준 물건이라 전해진다. 오늘날까지도 앤더펠스에서는 "
 "큰망치를 고결하게 들어올린 채 도시의 검은 탑 꼭대기에 군림한 안셀 경의 모습을 그린 그림이 전해지고는 한다. 그러나, 호스버그가 적을 "
 "후퇴시킨 것은 사실이지만, 회색 감시자들이 도시에 들어섰을 때 안셀은 간데없이 도시는 혼란에 휩싸여 있었다고 한다."
 
@@ -21203,7 +21203,7 @@ msgid ""
 "victories, the Chantry elevated him to Anointed after his death. To this "
 "day, Halamshiral elves consider his name a curse."
 msgstr ""
-"리베인 성기사단에 속해 있었던 메흐메트 경이 데일스에서 일어난 숭고한 거병에서 활약한 이유는 단 한 가지뿐이었는데, 이는 바로 그가 "
+"리베인 성기사단에 속해 있었던 메흐메트 경이 데일스에서 일어난 승임의 행군에서 활약한 이유는 단 한 가지뿐이었는데, 이는 바로 그가 "
 "엘프들을 죽이는 것을 광적으로 사랑하기 때문이었다. 그는 이를 원동력 삼아 수많은 승리를 거두었고, 성가회는 그가 사망한 후 그의 업적을 "
 "기리기 위해 성자로 추대하였다. 오늘날, 할람시랄 엘프들에게 그의 이름은 저주와도 같다."
 
@@ -21386,7 +21386,7 @@ msgid ""
 "tree to take the weapon... after fleeing Dalish hunters seeking vengeance "
 "for the sacrilege."
 msgstr ""
-"노마리스는 숭고한 거병이 데일스 엘프를 몰락시킨 후 최후까지 생존한 에메랄드 기사 중 하나로, 자신이 에메랄드 무덤에 심은 나무에 도끼를 "
+"노마리스는 승임의 행군이 데일스 엘프를 몰락시킨 후 최후까지 생존한 에메랄드 기사 중 하나로, 자신이 에메랄드 무덤에 심은 나무에 도끼를 "
 "꽂으며 다음과 같이 말하였다. \"나의 사람들이 자유로울 때까지 이것을 남겨두어, 영원히 쉬지 않을 나의 영혼을 머무르게 하라.\" 이후 "
 "노마리스는 강으로 투신하였고, 그의 시신은 끝내 발견되지 않았다. 올레이의 한 모험가는 이 나무에 독을 풀어 무기를 가져가 버렸다. 그 "
 "불경한 행위를 보복하려는 데일스 사냥꾼을 따돌린 채로..."
@@ -21559,7 +21559,7 @@ msgid ""
 "though this claim has never been proven. She died in the Battle of Afsaana "
 "in 7:75 Storm, her mace claimed by the Orlesian knight who killed her."
 msgstr ""
-"신 숭고한 거병 당시 이름을 떨쳤던 \"재교육자\" 비다티스가 사용했던 쿠나리 무기다. 그는 이 무기로 포로가 된 기사들의 머리를 "
+"신 승임의 행군 당시 이름을 떨쳤던 \"재교육자\" 비다티스가 사용했던 쿠나리 무기다. 그는 이 무기로 포로가 된 기사들의 머리를 "
 "박살냈다고 전해지나, 사실로 확인된 바는 없다. 비다티스는 폭풍의 시대 7:75년 벌어진 아프사아나 전투에서 죽음을 맞았고, 둔기는 그 "
 "목숨을 빼앗은 올레이 기사의 소유가 되었다."
 
@@ -21770,7 +21770,7 @@ msgid ""
 "taxes on the poor. She was arrested, but the Divine ordered her released "
 "before she could be executed."
 msgstr ""
-"숭고의 시대 5:65년, 로자먼드 교황에 의해 성인으로 추대된 크레쉬의 클로틸드는 무고한 이들을 지키는 것으로 널리 알려진 전사였다. "
+"승임의 시대 5:65년, 로자먼드 교황에 의해 성인으로 추대된 크레쉬의 클로틸드는 무고한 이들을 지키는 것으로 널리 알려진 전사였다. "
 "주로 머리를 빡빡 민 모습으로 묘사되는 클로틸드는 종종 남성이라는 오해를 받았으며, 폭압적인 로스포르의 남작이 빈곤층에게 세금을 매긴 "
 "처사에 맞서 무력을 쓰지 않고 시위한 것으로 가장 유명하다. 클로틸드는 체포되었으나, 교황이 석방을 명함에 따라 처형을 면할 수 있었다."
 
@@ -22028,7 +22028,7 @@ msgid ""
 "Marches, Orlesian Circle mages re-enchanted it and gave it to the chevaliers."
 msgstr ""
 "고대 엘프 무덤을 수호하는 바테랄과 마찬가지로, 이 방패는 알라산 시절 제작되었는지도 모른다. 만일 그렇다면, 이 방패는 테빈터 "
-"정복자들의 손에 들어가 그 마법으로 변형을 거쳤을 것이다. 검은 교황의 시대에 벌어진 숭고한 거병 동안, 올레이 마법사 협회의 마법사들이 "
+"정복자들의 손에 들어가 그 마법으로 변형을 거쳤을 것이다. 검은 교황의 시대에 벌어진 승임의 행군 동안, 올레이 마법사 협회의 마법사들이 "
 "이 방패에 다시 한 번 마법을 부여해 슈발리에에게 전했다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/WeaponShield/Shields/equip_shield_t3_15_unique
@@ -22078,7 +22078,7 @@ msgid ""
 "is assumed the artifacts scattered to the winds in the hands of either the "
 "elves or soldiers who thought they could do better than the bounty."
 msgstr ""
-"영광의 시대 2:14년, 데일스 엘프를 향한 숭고한 거병 도중 엘프 군대가 발 르와요를 점거한 때가 있었다. 이때 코딜러스 드레이콘의 "
+"영광의 시대 2:14년, 데일스 엘프를 향한 승임의 행군 도중 엘프 군대가 발 르와요를 점거한 때가 있었다. 이때 코딜러스 드레이콘의 "
 "무덤은 약탈을 당했고, 엘프는 전설적인 황제의 무구를 할람시랄에 가져가 기념물로 삼았다. 전세가 뒤집히고 할람시랄이 역으로 약탈을 당하게 "
 "되었을 때 이 유물에는 큰 현상금이 매겨졌으나, 어느 병사도 이를 찾아 반환하지 않았다. 지금 유물은 엘프, 혹은 현상금보다 더 나은 "
 "보상을 바라고 이를 탈취한 병사에 의해 사방팔방으로 흩어져 있지 않을까 짐작될 뿐이다."
@@ -22335,7 +22335,7 @@ msgid ""
 msgstr ""
 "이 검은 엘프 왕국 데일스의 건립 이후, 공예의 신 유네의 고위 수호자에 의해 벼려졌다. 검은 최초의 에메랄드 기사인 마탈린의 소유였다가 "
 "후일 그의 종자, 술란에게 전해졌으니 이는 술란이 전투에서 마탈린의 목숨을 구한 뒤의 일이다. 에메랄드 기사 중 가장 마지막으로 이 검을 "
-"다룬 자는 린디라네이로, 그는 2차 숭고한 거병 최후의 전투에서 숨을 거두었다."
+"다룬 자는 린디라네이로, 그는 2차 승임의 행군 최후의 전투에서 숨을 거두었다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/WeaponShield/Swords/equip_lsword_t3_11_rare
 #. PATH = EquipItemAsset/DisplayName
@@ -23670,7 +23670,7 @@ msgid ""
 "granted his Honor to warriors who kept watch in the darkest hours in his "
 "name."
 msgstr ""
-"아바르에게 있어 장검이란 요새를 방어하기 위한 무기다. 모든 가구가 밤에 침입자가 닥칠 것을 대비해 눈에 잘 띄는 곳에 적어도 한 자루의 "
+"아바르에게 장검이란 요새를 방어하기 위한 무기다. 모든 가구가 밤에 침입자가 닥칠 것을 대비해 눈에 잘 띄는 곳에 적어도 한 자루의 "
 "장검을 걸어둔다. 그들에게 검은 자신의 민족을 지키고, 적에게 수치스런 죽음을 맞기 전에 목숨을 거두기 위한 명예로운 무기다. 하콘은 "
 "한때 가장 어두운 밤에 경계하는 전사들을 기리기 위해 그의 이름으로 하콘의 명예를 하사했다."
 
