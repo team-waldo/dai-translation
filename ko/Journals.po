@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-30 22:07+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-05-31 09:15+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -883,7 +883,7 @@ msgid ""
 "Frederic, appears to have been waylaid by bandits. The shipping label "
 "suggests his camp is somewhere in Nazaire's Pass."
 msgstr ""
-"강도들이 올레이 대학 연구원 프레데릭 앞으로 발송된 화물을 약탈한 것으로 보인다. 화물에 붙은 송장으로 보건대 프레데릭은 나지르 고개 "
+"강도들이 올레이 대학 연구원 프레데릭 앞으로 발송된 화물을 약탈한 것으로 보인다. 화물에 붙은 송장으로 보건대 프레데릭은 나제르 고개 "
 "어딘가에 있다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_main_dragon_hunters
@@ -3290,7 +3290,7 @@ msgstr "철창 재료를 모으자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00037fdf"
 msgid "Landmarks on the Plains"
-msgstr "평야의 명소들"
+msgstr "평야의 명소"
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_pln_wild_landmarks
 #. PATH = JournalEntry/TextEntry[0]
@@ -6122,7 +6122,7 @@ msgctxt "0x0003a45a"
 msgid ""
 "Active Fade rifts have been spotted on the desert edge, as well as Dustdrop "
 "and a glen off DuLac's Path."
-msgstr "사막 외곽 지역과 듀락의 길, 더스트드롭에 영계 균열이 열린 것을 발견했다."
+msgstr "사막 외곽 지역과 듀락의 길, 먼지떠러지에 영계 균열이 열린 것을 발견했다."
 
 #. EBX = DA3/DesignContent/Journals/ThematicLevels/Oasis/the_oasis_faderift_camp_01
 #. PATH = JournalEntry/TaskEntry[0]
@@ -10307,7 +10307,7 @@ msgstr "신탁의 방을 조사하자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00041ba3"
 msgid "What Lies Dormant"
-msgstr "잠자고 있던 것"
+msgstr "숨어 도사리는 것"
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/Solas/sol_SpecialRift_journal
 #. PATH = JournalEntry/TextEntry[0]
@@ -10344,7 +10344,7 @@ msgstr "균열을 닫자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0002c2f6"
 msgid "Landmarks in Crestwood"
-msgstr "크레스트우드에 있는 명소"
+msgstr "크레스트우드의 명소"
 
 #. EBX = DA3/designcontent/Journals/Ferelden/fer_Wilderness_010/fer010_landmarks
 #. PATH = JournalEntry/TextEntry[0]
@@ -10908,7 +10908,7 @@ msgstr "발견한 비밀"
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0003a617"
 msgid "Burdens of Command"
-msgstr "지휘관의 무게"
+msgstr "지휘의 무게"
 
 #. EBX = DA3/designcontent/Journals/Ferelden/fer_Wilderness_010/fer010_fadespirit_journal
 #. PATH = JournalEntry/TextEntry[0]
@@ -11678,19 +11678,19 @@ msgstr "가스파드가 내빈관 기념물 전시실에서 비밀 모임을 했
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x00022df1"
 msgid "Explore the Trophy Room."
-msgstr "트로피 전시실을 탐색하자."
+msgstr "기념물 전시실을 탐색하자."
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_guestwing_gaspard1
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x00022df5"
 msgid "Lure the guards away from the Trophy Room door."
-msgstr "트로피 전시실을 지키고 있는 경비원을 유인하자."
+msgstr "기념물 전시실을 지키고 있는 경비원을 유인하자."
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_guestwing_gaspard1
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x00022df2"
 msgid "Search the Trophy Room for evidence of Gaspard's meeting."
-msgstr "트로피 전시실에 가서 가스파드의 만남에 대한 증거를 찾자."
+msgstr "기념물 전시실에 가서 가스파드의 만남에 대한 증거를 찾자."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_medic_supplies_3
 #. PATH = JournalEntry/TitleReference
@@ -12924,7 +12924,7 @@ msgstr "문제의 곰을 뒤쫓자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00043f9d"
 msgid "Hinterlands Tapestry Requisition"
-msgstr "내륙지역: 태피스트리 보급 요청"
+msgstr "내륙지역: 벽걸이 융단 보급 요청"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_hinterlands_tapestry
 #. PATH = JournalEntry/TextEntry[0]
@@ -13654,7 +13654,7 @@ msgstr ""
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x00043741"
 msgid "Promote Barris in the throne room."
-msgstr "옥좌의 방에서 배리스 경을 단장으로 임명하자."
+msgstr "알현실에서 배리스 경을 단장으로 임명하자."
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_desertruins_dwarvenartifacts
 #. PATH = JournalEntry/TitleReference
@@ -13887,14 +13887,14 @@ msgid ""
 "Spells protecting the dead there have been broken, attracting demons. "
 "Cleansing the grounds of the demons would gain favor from the Dalish."
 msgstr ""
-"발 벨라나리스라고 알려진 평원에 오래된 데일스 매장지가 있다. 그곳의 죽은 자를 보호하는 주문이 깨지면서 악마들을 유인하고 있다. 이곳의 "
-"악마들을 처치하면 데일스 엘프의 호의를 얻을 수 있을 것이다."
+"바르 벨라나리스라고 알려진 평원에 오래된 데일스 매장지가 있다. 그곳의 죽은 자를 보호하는 주문이 깨지면서 악마들을 유인하고 있다. "
+"이곳의 악마들을 처치하면 데일스 엘프의 호의를 얻을 수 있을 것이다."
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_pln_wild_dalish_graves
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x0002f79f"
 msgid "Defeat the demons at Var Bellanaris."
-msgstr "발 벨라나리스에서 약마들을 물리치자."
+msgstr "바르 벨라나리스에서 약마들을 물리치자."
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_pln_wild_dalish_graves
 #. PATH = JournalEntry/TaskEntry[1]
@@ -14002,7 +14002,7 @@ msgstr "성소의 양초에 불을 밝히자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x000303ca"
 msgid "Field of Bones"
-msgstr "뼈들이 널린 들판"
+msgstr "뼈가 널린 들판"
 
 #. EBX = DA3/DesignContent/Journals/ThematicLevels/DesertRuins/the_DesertRuins_Spiders
 #. PATH = JournalEntry/TextEntry[0]
@@ -14670,7 +14670,7 @@ msgstr "셀린의 군대를 구출하자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0002fc1a"
 msgid "Strange Bedfellows"
-msgstr "뜻밖의 연관자"
+msgstr "뜻밖의 잠자리 상대"
 
 #. EBX = DA3/DesignContent/Journals/Ferelden/Fer_Wilderness_Main/LightQuests/fer_wild_lq8
 #. PATH = JournalEntry/TextEntry[0]
@@ -16719,7 +16719,7 @@ msgctxt "0x00047a51"
 msgid ""
 "The Qunari attacked the Inquisition in the elven mountain ruins and gained "
 "access to the Winter Palace using eluvians."
-msgstr "쿠나리들이 엘프 산 폐허에서 심문회를 공격했고 엘루비안을 통해 겨울 궁전에 침투했다."
+msgstr "쿠나리들이 엘프 산악 유적에서 심문회를 공격했고 엘루비안을 통해 겨울 궁전에 침투했다."
 
 #. EBX = DA3_DLC_Blue/DesignContent/Journals/dlcblue_critpath
 #. PATH = JournalEntry/TextEntry[5]

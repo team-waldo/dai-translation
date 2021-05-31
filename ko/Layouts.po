@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-05-30 22:07+0000\n"
-"Last-Translator: NACHO <deertodear@gmail.com>\n"
+"PO-Revision-Date: 2021-05-31 09:15+0000\n"
+"Last-Translator: cnch <qwsdcvtgvopjkbn@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -167,7 +167,7 @@ msgstr "성소 내부"
 #. PATH = GetLocalizedStringIDData[7]/Text
 msgctxt "0x0004302b"
 msgid "Petitioner's Chamber"
-msgstr "청원실"
+msgstr "청원자의 방"
 
 #. FILE = DA3/Layouts/ArborWilds/myt_TempleOfMythal/QST_200_Banter_Schematic
 #. PATH = NotificationEntityData/TitleTextReference
@@ -399,7 +399,7 @@ msgstr "페렐던의 영웅"
 #. PATH = GetLocalizedStringIDData[16]/Text
 msgctxt "0x0002bc06"
 msgid "Grand Forest Villa"
-msgstr "대초원 저택"
+msgstr "대삼림 저택"
 
 #. FILE = DA3/Layouts/Ferelden/Ferelden_Wilderness_Main/DSG_Landmarks_Content_Schematic
 #. PATH = GetLocalizedStringIDData[17]/Text
@@ -483,7 +483,7 @@ msgstr "셰이나 부인의 협곡"
 #. PATH = GetLocalizedStringIDData[6]/Text
 msgctxt "0x0003f997"
 msgid "Western Outskirts"
-msgstr "서부 외곽지역"
+msgstr "서부 교외지"
 
 #. FILE = DA3/Layouts/Ferelden/Ferelden_Wilderness_Main/DSG_Regions_Schematic
 #. PATH = GetLocalizedStringIDData[7]/Text
@@ -2252,7 +2252,7 @@ msgstr "병 속의 쪽지"
 #. PATH = BWGameInteractionEntityData[18]/InteractionTextReference
 msgctxt "0x00040cbe"
 msgid "Varric: Became His Parents"
-msgstr "배릭: 부모님처럼 되는 것"
+msgstr "배릭: 부모처럼 되는 것"
 
 #. FILE = DA3/Layouts/TheFade/DSG_Global_Codecies
 #. PATH = BWGameInteractionEntityData[19]/InteractionTextReference
@@ -2825,7 +2825,7 @@ msgstr "모린의 발걸음"
 #. PATH = GetLocalizedStringIDData[3]/Text
 msgctxt "0x00037c8c"
 msgid "Daerwin's Mouth"
-msgstr "대르윈의 입"
+msgstr "대어윈의 아귀"
 
 #. FILE = DA3/Layouts/ThematicLevels/the_StormCoast_540/DSG_Landmarks_Schematic
 #. PATH = GetLocalizedStringIDData[4]/Text
@@ -2863,7 +2863,7 @@ msgstr "작은 숲"
 #. PATH = GetLocalizedStringIDData[5]/Text
 msgctxt "0x00039656"
 msgid "Driftwood Margin"
-msgstr "유목 경계지역"
+msgstr "유목 가두리"
 
 #. FILE = DA3/Layouts/ThematicLevels/the_StormCoast_540/DSG_Regions_Schematic
 #. PATH = GetLocalizedStringIDData[7]/Text
@@ -3584,7 +3584,7 @@ msgstr "침묵의 탑"
 #. PATH = GetLocalizedStringIDData[3]/Text
 msgctxt "0x00047e1a"
 msgid "Elven Mountain Ruins"
-msgstr "엘프 산 폐허"
+msgstr "엘프 산악 유적"
 
 #. FILE = DA3_DLC_Blue/Layouts/DLCBlue_Elven_Dungeon/DSG_Regions_Schematic
 #. PATH = GetLocalizedStringIDData[4]/Text
@@ -5566,7 +5566,7 @@ msgstr "큰곰 산그늘"
 #. PATH = GetLocalizedStringIDData[16]/Text
 msgctxt "0x000383bf"
 msgid "Harrow"
-msgstr "해로"
+msgstr "써렛골"
 
 #. FILE = da3/Layouts/TheDales/TheDales_Forest/DSG_RegionNotifications_Schematic
 #. PATH = GetLocalizedStringIDData[17]/Text
@@ -5969,7 +5969,7 @@ msgstr "무덤 열쇠 필요"
 #. PATH = GetLocalizedStringIDData[1]/Text
 msgctxt "0x0003801a"
 msgid "Var Bellanaris"
-msgstr "발 벨라나리스"
+msgstr "바르 벨라나리스"
 
 #. FILE = da3/Layouts/TheDales/TheDales_Plains/TheDales_Plains/DSG_Landmarks_Schematic
 #. PATH = GetLocalizedStringIDData[2]/Text
@@ -6131,7 +6131,7 @@ msgstr "사일레이스의 성소"
 #. PATH = GetLocalizedStringIDData[11]/Text
 msgctxt "0x00038001"
 msgid "Var Bellanaris"
-msgstr "발 벨라나리스"
+msgstr "바르 벨라나리스"
 
 #. FILE = da3/Layouts/TheDales/TheDales_Plains/TheDales_Plains/DSG_RegionNotifications_Schematic
 #. PATH = GetLocalizedStringIDData[12]/Text
@@ -6887,7 +6887,7 @@ msgstr "앤도랄의 관문"
 #. PATH = GetLocalizedStringIDData[6]/Text
 msgctxt "0x0001e4cb"
 msgid "Nazaire's Pass"
-msgstr "나지르 고개"
+msgstr "나제르 고개"
 
 #. FILE = da3/Layouts/TheWesternApproach/TheWesternApproach_Main/DSG_RegionNotifications_Schematic
 #. PATH = GetLocalizedStringIDData[7]/Text
@@ -6989,7 +6989,7 @@ msgstr "미광석 광산"
 #. PATH = GetLocalizedStringIDData[25]/Text
 msgctxt "0x0001e523"
 msgid "Death Drink Springs"
-msgstr "죽음물 온천"
+msgstr "죽음우물"
 
 #. FILE = da3/Layouts/TheWesternApproach/TheWesternApproach_Main/DSG_RegionNotifications_Schematic
 #. PATH = GetLocalizedStringIDData[26]/Text
@@ -7049,7 +7049,7 @@ msgstr "정찰 보고서"
 #. PATH = BWMapPinLocation[63]/TitleReference
 msgctxt "0x0003f65b"
 msgid "Nazaire's Pass Camp"
-msgstr "나지르 고개 야영지"
+msgstr "나제르 고개 야영지"
 
 #. FILE = da3/Layouts/TheWesternApproach/TheWesternApproach_Main/map/TheWesternApproach_Main_floor0
 #. PATH = BWMapPinLocation[79]/TitleReference
@@ -7798,7 +7798,7 @@ msgstr "아이레스 봉우리"
 #. PATH = GetLocalizedStringIDData[16]/Text
 msgctxt "0x00024ad1"
 msgid "Dustdrop"
-msgstr "더스트드롭"
+msgstr "먼지떠러지"
 
 #. FILE = da3/Layouts/ThematicLevels/the_Oasis_500/DSG_RegionNotifications_Schematic
 #. PATH = GetLocalizedStringIDData[17]/Text
@@ -7872,7 +7872,7 @@ msgstr "지하 가도 입구"
 #. PATH = BWMapPinLocation[41]/TitleReference
 msgctxt "0x00043099"
 msgid "Driftwood Margin Camp"
-msgstr "유목 경계지역 야영지"
+msgstr "유목 가두리 야영지"
 
 #. FILE = da3/Layouts/ThematicLevels/the_StormCoast_540/map/the_StormCoast_540_floor0
 #. PATH = BWMapPinLocation[71]/TitleReference
