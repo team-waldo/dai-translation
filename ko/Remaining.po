@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-06-01 13:56+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-06-06 07:56+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -9991,13 +9991,13 @@ msgstr "<font color=\"#{CUSTOM0}\">재활용 불가</font>"
 #. PATH = ItemManagerEntityData/StaffRuneRestrictionText
 msgctxt "0x00044965"
 msgid "Restriction: Staff only"
-msgstr "제한: 스태프 전용"
+msgstr "제한: 지팡이 전용"
 
 #. FILE = DA3/Logic/Levels/SingletonEntities_MP
 #. PATH = ItemManagerEntityData/NonStaffRuneRestrictionText
 msgctxt "0x00044966"
 msgid "Restriction: Non-staff only"
-msgstr "제한: 스태프 불가"
+msgstr "제한: 지팡이 불가"
 
 #. FILE = DA3/Logic/Levels/SingletonEntities_MP
 #. PATH = ItemManagerEntityData/ClassInfos/member[1]/ItemManagerEntity_ClassInfo/Name
