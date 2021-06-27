@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-06-22 14:23+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2021-06-27 00:23+0000\n"
+"Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -1186,7 +1186,7 @@ msgstr "시끄러움"
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x00018209"
 msgid "Bleed on Being Hit"
-msgstr "피격 시 출혈"
+msgstr "피격 시 출혈 유발"
 
 #. FILE = DA3/Combat/Stats/Stat_OnBeingHit_BleedChance
 #. PATH = BWModifiableStat/StatDescription
@@ -1604,7 +1604,7 @@ msgctxt "0x0003242e"
 msgid ""
 "The character's strength of mind and personality. Each point increases "
 "Attack (all classes) and Magic Defense."
-msgstr "해당 캐릭터의 정신과 인격의 강인함입니다. 매 점수가 공격력과(모든 직업에서) 마법 방어력을 증가시킵니다."
+msgstr "해당 캐릭터의 정신과 인격의 강인함입니다. 매 점수가 (모든 직업의)공격력과 마법 방어력을 증가시킵니다."
 
 #. FILE = DA3/Combat/Stats/stat_Cooldown_Modifier
 #. PATH = BWModifiableStat/StatName
@@ -4940,7 +4940,7 @@ msgstr "타빈"
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x000304fa"
 msgid "Gatt"
-msgstr "갯"
+msgstr "가트"
 
 #. FILE = DA3/DesignContent/CreatureProfiles/FollowerPlots/Krem_IRO_creatureprofile
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -8253,13 +8253,13 @@ msgstr "채석장 확보됨"
 #. PATH = BWGameInteractionEntityData/InteractionTextReference
 msgctxt "0x0003304d"
 msgid "Claim Logging Stand"
-msgstr "벌목지 확보"
+msgstr "벌목장 확보"
 
 #. FILE = DA3/DesignContent/Prefabs/Crafting/Wood/LoggingStand
 #. PATH = NotificationEntityData/TitleTextReference
 msgctxt "0x0003304e"
 msgid "Logging Site Located"
-msgstr "벌목지 확보됨"
+msgstr "벌목장 확보됨"
 
 #. FILE = DA3/DesignContent/Prefabs/CreatureCodex/CreatureCodexSubPrefab_Halla
 #. PATH = NotificationEntityData[2]/TitleTextReference
