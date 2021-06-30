@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-06-27 00:23+0000\n"
-"Last-Translator: butnine <butnine@gmail.com>\n"
+"PO-Revision-Date: 2021-06-30 04:23+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -1184,12 +1184,14 @@ msgstr "시끄러움"
 
 #. FILE = DA3/Combat/Stats/Stat_OnBeingHit_BleedChance
 #. PATH = BWModifiableStat/StatName
+#, fuzzy
 msgctxt "0x00018209"
 msgid "Bleed on Being Hit"
 msgstr "피격 시 출혈 유발"
 
 #. FILE = DA3/Combat/Stats/Stat_OnBeingHit_BleedChance
 #. PATH = BWModifiableStat/StatDescription
+#, fuzzy
 msgctxt "0x00032adf"
 msgid ""
 "The chance per enemy attack on the character that the attack inflicts a "
@@ -1212,12 +1214,14 @@ msgstr "해당 캐릭터에게 가해지는 적의 공격이 적을 기절시킬
 
 #. FILE = DA3/Combat/Stats/Stat_OnHit_BleedChance
 #. PATH = BWModifiableStat/StatName
+#, fuzzy
 msgctxt "0x00018208"
 msgid "Bleed on Hit"
 msgstr "적중 시 출혈 확률"
 
 #. FILE = DA3/Combat/Stats/Stat_OnHit_BleedChance
 #. PATH = BWModifiableStat/StatDescription
+#, fuzzy
 msgctxt "0x00032ace"
 msgid ""
 "The chance per hit to inflict a bleed effect on the target. The effect lasts "
@@ -2941,7 +2945,7 @@ msgstr ""
 #. PATH = BWPassiveAbility/AbilityNameReference
 msgctxt "0x00042d67"
 msgid "Virulence"
-msgstr "병독"
+msgstr "전염"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/Necromancer/Virulence/MP_necromancer_passive_virulence_abilitydata
 #. PATH = BWPassiveAbility/AbilityDescriptionReference
@@ -2952,7 +2956,8 @@ msgid ""
 "shocked, and weakened.\n"
 "\n"
 msgstr ""
-"적을 처치하면 적이 갖고 있던 상태 효과(화상, 오한, 빙결, 공황, 마비, 중독, 감전, 약화)가 주변으로 전이됩니다.\n"
+"적을 처치하면 적이 갖고 있던 상태 효과가 주변으로 전이됩니다. (화상, 오한, 빙결, 공황, 마비, 중독, 감전, 약화가 해당됩니다.)"
+"\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/Reaver/Bloodbath/MP_reaver_passive_bloodbath_abilitydata
@@ -3092,7 +3097,7 @@ msgid ""
 "spirit damage.\n"
 "\n"
 msgstr ""
-"파티 전원의 불꽃, 냉기, 전격, 그리고 영혼 피해에 대한 저항력이 증가합니다.\n"
+"파티 전원의 화염, 냉기, 전격, 그리고 영혼 피해에 대한 저항력이 증가합니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/Mage/OverwhelmingForce/MP_mage_passive_overwhelmingforce_abilitydata
@@ -3351,9 +3356,9 @@ msgid ""
 "gig. The Inquisition is his one chance at a comeback tour, and he's going to "
 "grab it with both bejeweled hands."
 msgstr ""
-"지터!는 한때 올레이의 유명인으로 귀족과 평민들로 가득 찬 강당에서 연주하였다. 하지만 협회가 반란을 일으키고, 그의 성기사 지배인이 "
-"그를 죽이려 들자, 그 동안 모아둔 모든 금화를 2년 동안 컴벌랜드의 강변 주점에서 술에 탕진해버렸다. 2년간 공연이 없었던 그에게 "
-"심문회는 유일한 컴백 투어 기회이며, 보석이 주렁주렁 달린 두 손으로 이 기회를 붙잡을 것이다."
+"지터!는 한때 올레이의 유명인으로, 귀족과 평민들로 가득 찬 강당에서 공연을 해왔다. 하지만 협회가 반란을 일으키고, 그의 관리인인 "
+"성기사가 그를 죽이려 들자, 컴벌랜드의 강변 주점으로 들어가 술을 진탕 마셔대며 그동안 모아둔 모든 금화를 2년 만에 탕진해버렸다. "
+"일거리가 없던 그에게 심문회는 유일한 컴백 투어 기회이며, 보석이 주렁주렁 달린 두 손으로 이 기회를 붙잡을 것이다."
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP2/MP_Bard
 #. PATH = BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -4940,7 +4945,7 @@ msgstr "타빈"
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x000304fa"
 msgid "Gatt"
-msgstr "가트"
+msgstr "개트"
 
 #. FILE = DA3/DesignContent/CreatureProfiles/FollowerPlots/Krem_IRO_creatureprofile
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -16454,8 +16459,8 @@ msgid ""
 "signifies a command role. Although in typical Qunari fashion, no one outside "
 "the Qun can tell which role is which. "
 msgstr ""
-"쿠나리 육군이나 해군 장교들이 입는 갑옷이며 높은 지위를 상징한다. 쿠나리들에게는 명백하지만, 쿤의 일부가 아닌 사람들의 눈에는 구분이 "
-"힘들다. "
+"쿠나리 육군과 해군 장교들이 착용하는 갑옷으로, 착용자가 지휘관임을 나타낸다. 전형적인 쿠나리 옷차림이지만, 쿤에 속하지 않는 자들은 이 "
+"옷차림이 무엇을 상징하는지 잘 모른다. "
 
 #. FILE = DA3_ItemPacks/ItemPack3/ip3_equip_armor_light_1p_qunari
 #. PATH = EquipItemAsset/DisplayName
