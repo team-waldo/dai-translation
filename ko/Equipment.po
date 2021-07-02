@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-06-30 04:23+0000\n"
+"PO-Revision-Date: 2021-07-02 14:23+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
@@ -3215,7 +3215,6 @@ msgstr "지하사냥꾼 가죽"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Leather/recipe_material_Deedstalker_Webbing
 #. PATH = RecipeMaterial/Description
-#, fuzzy
 msgctxt "0x00038772"
 msgid ""
 "Tier 1 <font color=\"#848484\">Common</font> Leather\n"
@@ -3229,8 +3228,8 @@ msgstr ""
 "1단계 <font color=\"#848484\">일반</font> 가죽\n"
 "<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 민첩\n"
-"<font color=\"#F3F781\">공격 슬롯:</font> +1% 적중 시 출혈 확률\n"
-"<font color=\"#F3F781\">방어 슬롯:</font> +1% 피격 시 공격자 출혈 확률"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1% 적중 시 방어구 손상 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1% 피격 시 공격자 방어구 손상 확률"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Leather/recipe_material_Dragonling_Webbing
 #. PATH = RecipeMaterial/DisplayName
@@ -3240,7 +3239,6 @@ msgstr "새끼용 비늘"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Leather/recipe_material_Dragonling_Webbing
 #. PATH = RecipeMaterial/Description
-#, fuzzy
 msgctxt "0x00038788"
 msgid ""
 "Tier 1 <font color=\"#848484\">Common</font> Leather\n"
@@ -3253,7 +3251,7 @@ msgstr ""
 "1단계 <font color=\"#848484\">일반</font> 가죽\n"
 "<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 민첩\n"
-"<font color=\"#F3F781\">공격 슬롯:</font> +1% 적중 시 출혈 확률\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1% 적중 시 방어구 손상 확률\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +2.5% 화염 피해 저항"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Leather/recipe_material_Druffalo_Fur
@@ -3311,7 +3309,6 @@ msgstr "거르거트 가죽막"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Leather/recipe_material_Gurgut_Skin
 #. PATH = RecipeMaterial/Description
-#, fuzzy
 msgctxt "0x00038795"
 msgid ""
 "Tier 2 <font color=\"#848484\">Common</font> Leather\n"
@@ -3324,7 +3321,7 @@ msgstr ""
 "2단계 <font color=\"#848484\">일반</font> 가죽\n"
 "<font color=\"#F3F781\">주 슬롯:</font> 중간 방어 수치\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 민첩 / +0.5 교활\n"
-"<font color=\"#F3F781\">공격 슬롯:</font> +1.5% 적중 시 출혈 확률\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.5% 적중 시 방어구 손상 확률\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +3% 화염 피해 저항"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Leather/recipe_material_Halla_Fur
@@ -3345,7 +3342,6 @@ msgstr "단단해진 거른 가죽"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Leather/recipe_material_HardenedGurn_Hide
 #. PATH = RecipeMaterial/Description
-#, fuzzy
 msgctxt "0x0003879c"
 msgid ""
 "Tier 3 <font color=\"#848484\">Common</font> Leather\n"
@@ -3359,8 +3355,8 @@ msgstr ""
 "3단계 <font color=\"#848484\">일반</font> 가죽\n"
 "<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 민첩 / +0.75 교활\n"
-"<font color=\"#F3F781\">공격 슬롯:</font> +1.75% 적중 시 출혈 확률\n"
-"<font color=\"#F3F781\">방어 슬롯:</font> +1.75% 피격 시 공격자 출혈 확률"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.75% 적중 시 방어구 손상 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1.75% 피격 시 공격자 방어구 손상 확률"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Leather/recipe_material_Hound_Fur
 #. PATH = RecipeMaterial/DisplayName
@@ -3409,7 +3405,6 @@ msgstr "피닉스 비늘"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Leather/recipe_material_Phoenix_Scaless
 #. PATH = RecipeMaterial/Description
-#, fuzzy
 msgctxt "0x00038796"
 msgid ""
 "Tier 2 <font color=\"#848484\">Common</font> Leather\n"
@@ -3423,8 +3418,8 @@ msgstr ""
 "2단계 <font color=\"#848484\">일반</font> 가죽\n"
 "<font color=\"#F3F781\">주 슬롯:</font> 중간 방어 수치\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 민첩 / +0.5 교활\n"
-"<font color=\"#F3F781\">공격 슬롯:</font> +1.5% 적중 시 출혈 확률\n"
-"<font color=\"#F3F781\">방어 슬롯:</font> +1.5% 피격 시 공격자 출혈 확률"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.5% 적중 시 방어구 손상 확률\n"
+"<font color=\"#F3F781\">방어 슬롯:</font> +1.5% 피격 시 공격자 방어구 손상 확률"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Leather/recipe_material_Ram_Leather
 #. PATH = RecipeMaterial/DisplayName
@@ -3486,7 +3481,6 @@ msgstr "와이번 비늘"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Leather/recipe_material_Wyvern_Webbing
 #. PATH = RecipeMaterial/Description
-#, fuzzy
 msgctxt "0x0003879b"
 msgid ""
 "Tier 3 <font color=\"#848484\">Common</font> Leather\n"
@@ -3499,7 +3493,7 @@ msgstr ""
 "3단계 <font color=\"#848484\">일반</font> 가죽\n"
 "<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 민첩 / +0.75 교활\n"
-"<font color=\"#F3F781\">공격 슬롯:</font> +1.75% 적중 시 출혈 확률\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +1.75% 적중 시 방어구 손상 확률\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +3.5% 화염 피해 저항"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Leather/recipe_material_Zangolia_Scales
@@ -3953,7 +3947,6 @@ msgstr "용 뼈"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Metal/recipe_material_dragon_bone
 #. PATH = RecipeMaterial/Description
-#, fuzzy
 msgctxt "0x0003fa71"
 msgid ""
 "Tier 4 <font color=\"#2E9AFE\">Rare</font> Metal\n"
@@ -3967,7 +3960,7 @@ msgstr ""
 "4단계 <font color=\"#848484\">희귀</font> 금속\n"
 "<font color=\"#F3F781\">주 슬롯:</font> 매우 높은 방어 수치 / 피해량 (지팡이류 피해 속성: 화염)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 건강 / +1 근력\n"
-"<font color=\"#F3F781\">공격 슬롯:</font> +2% 적중 시 출혈 확률\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2% 적중 시 방어구 손상 확률\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +4% 화염 피해 저항"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Special/recipe_material_Diseased_Tissues
@@ -13011,24 +13004,21 @@ msgstr "고급 체력의 허리띠"
 
 #. FILE = DA3/Equipment/Items/Accessories/Belts/equip_acc_belt_onbeinghit_bleed_1
 #. PATH = EquipItemAsset/DisplayName
-#, fuzzy
 msgctxt "0x00043648"
 msgid "Belt of Bleeding"
-msgstr "출혈의 허리띠"
+msgstr "방어구 손상의 허리띠"
 
 #. FILE = DA3/Equipment/Items/Accessories/Belts/equip_acc_belt_onbeinghit_bleed_2
 #. PATH = EquipItemAsset/DisplayName
-#, fuzzy
 msgctxt "0x0004364d"
 msgid "Enhanced Belt of Bleeding"
-msgstr "상급 출혈의 허리띠"
+msgstr "상급 방어구 손상의 허리띠"
 
 #. FILE = DA3/Equipment/Items/Accessories/Belts/equip_acc_belt_onbeinghit_bleed_3
 #. PATH = EquipItemAsset/DisplayName
-#, fuzzy
 msgctxt "0x00043644"
 msgid "Superb Belt of Bleeding"
-msgstr "고급 출혈의 허리띠"
+msgstr "고급 방어구 손상의 허리띠"
 
 #. FILE = DA3/Equipment/Items/Accessories/Belts/equip_acc_belt_onbeinghit_stun_1
 #. PATH = EquipItemAsset/DisplayName
@@ -13404,24 +13394,21 @@ msgstr "꼼꼼한 연구자에게 주어지는 선물이다."
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/equip_acc_ring_onhit_bleed_1
 #. PATH = EquipItemAsset/DisplayName
-#, fuzzy
 msgctxt "0x00043629"
 msgid "Ring of Bleeding"
-msgstr "출혈의 반지"
+msgstr "방어구 손상의 반지"
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/equip_acc_ring_onhit_bleed_2
 #. PATH = EquipItemAsset/DisplayName
-#, fuzzy
 msgctxt "0x00043625"
 msgid "Enhanced Ring of Bleeding"
-msgstr "상급 출혈의 반지"
+msgstr "상급 방어구 손상의 반지"
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/equip_acc_ring_onhit_bleed_3
 #. PATH = EquipItemAsset/DisplayName
-#, fuzzy
 msgctxt "0x00043610"
 msgid "Superb Ring of Bleeding"
-msgstr "고급 출혈의 반지"
+msgstr "고급 방어구 손상의 반지"
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/equip_acc_ring_onhit_stun_1
 #. PATH = EquipItemAsset/DisplayName
@@ -23070,7 +23057,7 @@ msgstr ""
 "4단계 <font color=\"#848484\">일반</font> 가죽\n"
 "<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 민첩 / +1 교활\n"
-"<font color=\"#F3F781\">공격 슬롯:</font> +2% 적중 시 출혈 확률\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2% 적중 시 방어구 손상 확률\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +4% 화염 피해 저항"
 
 #. FILE = DA3_DLC1/Equipment/Crafting/Materials/Metal/dlc1_recipe_material_dlc1_metal_1

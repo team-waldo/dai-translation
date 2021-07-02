@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-01 06:23+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-07-02 14:23+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -1184,19 +1184,17 @@ msgstr "시끄러움"
 
 #. FILE = DA3/Combat/Stats/Stat_OnBeingHit_BleedChance
 #. PATH = BWModifiableStat/StatName
-#, fuzzy
 msgctxt "0x00018209"
 msgid "Bleed on Being Hit"
-msgstr "피격 시 출혈 유발"
+msgstr "피격 시 방어구 손상 유발"
 
 #. FILE = DA3/Combat/Stats/Stat_OnBeingHit_BleedChance
 #. PATH = BWModifiableStat/StatDescription
-#, fuzzy
 msgctxt "0x00032adf"
 msgid ""
 "The chance per enemy attack on the character that the attack inflicts a "
 "bleed effect on the enemy. The effect lasts a few seconds."
-msgstr "해당 캐릭터에게 가해지는 적의 공격이 적에게 출혈 효과를 부여할 확률입니다. 해당 효과는 수 초간 지속됩니다."
+msgstr "해당 캐릭터에게 가해지는 적의 공격이 적에게 방어구 손상 효과를 부여할 확률입니다. 해당 효과는 수 초간 지속됩니다."
 
 #. FILE = DA3/Combat/Stats/Stat_OnBeingHit_StunChance
 #. PATH = BWModifiableStat/StatName
@@ -1214,19 +1212,17 @@ msgstr "해당 캐릭터에게 가해지는 적의 공격이 적을 기절시킬
 
 #. FILE = DA3/Combat/Stats/Stat_OnHit_BleedChance
 #. PATH = BWModifiableStat/StatName
-#, fuzzy
 msgctxt "0x00018208"
 msgid "Bleed on Hit"
-msgstr "적중 시 출혈 확률"
+msgstr "적중 시 방어구 손상 확률"
 
 #. FILE = DA3/Combat/Stats/Stat_OnHit_BleedChance
 #. PATH = BWModifiableStat/StatDescription
-#, fuzzy
 msgctxt "0x00032ace"
 msgid ""
 "The chance per hit to inflict a bleed effect on the target. The effect lasts "
 "a few seconds."
-msgstr "대상을 타격할 시 출혈 효과를 부여할 확률입니다. 해당 효과는 수 초간 지속됩니다."
+msgstr "대상을 타격할 시 방어구 손상 효과를 부여할 확률입니다. 해당 효과는 수 초간 지속됩니다."
 
 #. FILE = DA3/Combat/Stats/Stat_OnHit_StunChance
 #. PATH = BWModifiableStat/StatName
@@ -11250,7 +11246,7 @@ msgstr "리츠"
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x000350fe"
 msgid "Widow Maura"
-msgstr "미망인 마우라"
+msgstr "과부 마우라"
 
 #. FILE = DA3/designcontent/CreatureProfiles/Ferelden/Hinterlands/fer_npc_cultist_contact_creatureprofile
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -18214,9 +18210,9 @@ msgid ""
 "despite ages of unrest, the lands the elves call \"Dirthavaren\" retain a "
 "fragile beauty."
 msgstr ""
-"승임의 평야는 갈등을 치르고 있는 곳이며, 몇 세기전, 데일스 엘프들이 마지막 저항을 한 장소이기도 하다. 최근에 이 평원은 올레이 "
-"내전에서 가장 극렬하게 벌어졌던 분쟁의 주요 무대였다. 그러나 엘프들은 이렇듯 불안정한 세월을 겪었음에도 불구하고 이 땅을 "
-"'Dirthavaren' 즉 섬세한 아름다움을 간직한 땅이라고 부르고 있다."
+"승임의 평야는 갈등을 치르는 곳이며, 몇 세기전, 데일스 엘프들이 마지막 저항을 펼친 장소이기도 하다. 최근에 이 평원은 올레이 내전에서 "
+"가장 극렬하게 벌어졌던 분쟁의 주요 무대였다. 그러나 엘프들은 이렇듯 불안정한 세월을 겪었음에도 불구하고 이 땅을 '덜사바렌', 즉 "
+"섬세한 아름다움을 간직한 땅이라 부른다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[23]/TitleReference
