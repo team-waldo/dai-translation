@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-06-30 04:23+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-07-03 15:24+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2734,6 +2734,7 @@ msgstr "{string}276509{/string} {string}276505{/string} {string}276511{/string}"
 #.     0x00044f2f(282415) : {string}99831{/string} {string}282380{/string}
 #.     0x00044f30(282416) : {string}99831{/string} {string}282379{/string}
 #.     0x00044f31(282417) : {string}99831{/string} {string}282381{/string}
+#, fuzzy
 msgctxt "0x000185f7"
 msgid "Sera"
 msgstr "세라"
@@ -2753,6 +2754,7 @@ msgstr "도적"
 #.     0x00044f27(282407) : {string}99830{/string} {string}282380{/string}
 #.     0x00044f28(282408) : {string}99830{/string} {string}282379{/string}
 #.     0x00044f29(282409) : {string}99830{/string} {string}282381{/string}
+#, fuzzy
 msgctxt "0x000185f6"
 msgid "Dorian"
 msgstr "도리안"
@@ -2772,6 +2774,7 @@ msgstr "마법사"
 #.     0x00044f37(282423) : {string}99997{/string} {string}282380{/string}
 #.     0x00044f38(282424) : {string}99997{/string} {string}282379{/string}
 #.     0x00044f39(282425) : {string}99997{/string} {string}282381{/string}
+#, fuzzy
 msgctxt "0x0001869d"
 msgid "Varric"
 msgstr "배릭"
@@ -2791,6 +2794,7 @@ msgstr "도적"
 #.     0x00044f1f(282399) : {string}99971{/string} {string}282380{/string}
 #.     0x00044f20(282400) : {string}99971{/string} {string}282379{/string}
 #.     0x00044f21(282401) : {string}99971{/string} {string}282381{/string}
+#, fuzzy
 msgctxt "0x00018683"
 msgid "Cassandra"
 msgstr "카산드라"
@@ -2829,6 +2833,7 @@ msgstr "전사"
 #.     0x00044f23(282403) : {string}99970{/string} {string}282381{/string}
 #.     0x00044f24(282404) : {string}99970{/string} {string}282379{/string}
 #.     0x00044f25(282405) : {string}99970{/string} {string}282380{/string}
+#, fuzzy
 msgctxt "0x00018682"
 msgid "Cole"
 msgstr "콜"
@@ -2842,6 +2847,7 @@ msgstr "콜"
 #.     0x00044f3b(282427) : {string}99999{/string} {string}282380{/string}
 #.     0x00044f3c(282428) : {string}99999{/string} {string}282379{/string}
 #.     0x00044f3d(282429) : {string}99999{/string} {string}282381{/string}
+#, fuzzy
 msgctxt "0x0001869f"
 msgid "Vivienne"
 msgstr "비비엔"
@@ -2861,6 +2867,7 @@ msgstr "마법사"
 #.     0x00044f33(282419) : {string}99998{/string} {string}282380{/string}
 #.     0x00044f34(282420) : {string}99998{/string} {string}282379{/string}
 #.     0x00044f35(282421) : {string}99998{/string} {string}282381{/string}
+#, fuzzy
 msgctxt "0x0001869e"
 msgid "Solas"
 msgstr "솔라스"
@@ -21619,6 +21626,7 @@ msgstr ""
 
 #. FILE = UI/Flow/PRE_ChangeCharacter_Prefab
 #. PATH = BWPopUpEntityData[7]/Title
+#, fuzzy
 msgctxt "0x0001fb30"
 msgid "Error"
 msgstr "오류"

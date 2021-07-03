@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-02 14:23+0000\n"
-"Last-Translator: moram <ahfkatorlf@naver.com>\n"
+"PO-Revision-Date: 2021-07-03 15:24+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
 "Language: ko\n"
@@ -126,6 +126,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_skyhold_op
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x000404bd"
 msgid ""
 "As always with commerce, there are good days as well as bad. This is not one "
@@ -141,6 +142,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_skyhold_op
 #. PATH = OperationEntry/TextEntry[4]
+#, fuzzy
 msgctxt "0x000404bc"
 msgid ""
 "None of our current leads have proven the sort that will earn coin—though it "
@@ -204,8 +206,8 @@ msgid ""
 msgstr ""
 "바살리트안,\n"
 "\n"
-"발 르와이요부터 발 셰빈까지 베나토리 요원을 추적했다. 이곳이 그자들의 본거지는 아니지만, 이들이 올레이에서 벌어지는 작전을 지휘하기 "
-"위한 거점으로 발 셰빈을 사용하는 것은 확실하다. 이에 대응하고 베나토리 첩보망을 지속해서 쫓기 위해서는 요원이 더 필요하다.\n"
+"발 르와요부터 발 셰빈까지 베나토리 요원을 추적했다. 이곳이 그자들의 본거지는 아니지만, 이들이 올레이에서 벌어지는 작전을 지휘하기 위한 "
+"거점으로 발 셰빈을 사용하는 것은 확실하다. 이에 대응하고 베나토리 첩보망을 지속해서 쫓기 위해서는 요원이 더 필요하다.\n"
 "\n"
 "발 셰빈은 조용한 도시다. 추가 요원 파견은 필요하지만 되도록 조심스럽게 행동하도록.\n"
 "\n"
@@ -290,6 +292,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Paranoid_nobleman_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000402bf"
 msgid ""
 "Sister Leliana,\n"
@@ -477,10 +480,9 @@ msgid ""
 "\n"
 "Leliana"
 msgstr ""
-"제 요원 타마르가 성공했다는 보고를 올렸습니다. 파렴치한 테빈터 매지스터의 머릿수가 한 명 줄었군요. 물론 매지스테리움의 나머지 인원들은 "
-"배후에 매지스터 틸라니가 있을 거라 추측할 테지만, 그녀의 보고에서는 그들이 그녀와 지지자들 모두로부터 정중하게 물러났다고 합니다. "
-"그녀가 감사의 말을 전하며 초콜릿 한 상자와 다른 유용한 물품들을 보내왔습니다. 초콜릿은 제 거지만, 나머지는 당신께 넘겨드리죠, 심문관."
-"\n"
+"제 요원 타마르가 성공했다는 보고를 올렸습니다. 파렴치한 테빈터 매지스터의 머릿수가 한 명 줄었군요. 물론 남은 매지스테리움의 사람들은 "
+"배후를 매지스터 틸라니로 추측하긴 할 테지만, 보고에서는 그들이 그녀와 지지자들 모두로부터 정중하게 물러났다고 합니다. 그녀가 감사의 "
+"말을 전하며 초콜릿 한 상자와 다른 유용한 물품들을 보내왔습니다. 초콜릿은 제 거지만, 나머지는 당신께 넘겨드리죠, 심문관.\n"
 "\n"
 "렐리아나"
 
@@ -498,7 +500,7 @@ msgctxt "0x00040862"
 msgid ""
 "Allow me to handle this. Eliminate one of her enemies, and the rest will "
 "believe she can strike at them with impunity. They will back off."
-msgstr "제가 처리하죠. 그녀의 적을 한 명 제거하면, 나머지는 똑같이 암살당할까 두려워 뒤로 물러날 겁니다."
+msgstr "제가 처리하죠. 그녀의 적 한 명을 제거하면, 나머지는 똑같이 암살당할까 두려워 뒤로 물러날 겁니다."
 
 #. EBX = DA3/designcontent/Operations/Tevinter/tev_dorian_op_2
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
@@ -556,14 +558,14 @@ msgstr ""
 "\n"
 "\"영장을 발부받지 못한거죠?\" 제블란이 안도하듯 말했다.\n"
 "\n"
-"\"그래.\" 도넨이 파트너의 눈을 바라보며 말했다. 이제 막 겨우 스무살을 넘긴 듯한 소년은 감자 농장에서 곧바로 커크월의 병영으로 "
-"걸어들어온 듯한 모습이었다. 제블란은 다른 경비대원들보다 키가 컸고 어깨도 더 넓었지만 마치 자신의 팔 다리를 주체할 수 없다는 듯, 더 "
-"작아 보여야 한다는 듯 구부정한 자세로 서 있었다. 자신의 체형에 비해 너무 큰 새 갑옷을 입은 채 몸을 구부린 모습이 마치 경비대원 "
-"놀이를 하는 어린애 같았다. 그는 살인사건을 수사하기엔 너무 풋내기였다.\n"
+"\"그래.\" 도넨이 파트너의 눈을 바라보며 말했다. 이제 갓 스무 살을 넘긴 듯한 소년은 감자 농장에서 막 커크월의 병영으로 걸어들어온 "
+"것 같았다. 제블란은 다른 경비대원보다 키가 컸고 어깨도 더 넓었지만 마치 자신의 팔다리를 주체할 수 없는 듯, 더 작아 보여야 하는 듯 "
+"구부정하게 서 있었다. 그런 자세로 제 체형보다 지나치게 큰, 새 갑옷을 입은 모습이 마치 경비대원 놀이를 하는 어린애 같았다. 그는 "
+"살인사건을 수사하기엔 너무 풋내기였다.\n"
 "\n"
-"\"어쩌면 이게 최선일지도 몰라요.\" 제블란이 입을 열었다. 마치 도넨이 하고 있는 생각을 입 밖으로 소리내어 말하는 것 같았다. "
-"\"당신은 경비대에서 나갈거고, 저는... \" 목소리가 작아지더니 그가 한숨을 내쉬었다. \"한밤중에 귀족을 심문하는 건 훈련 과정에 "
-"없었는데 말이죠.\" \n"
+"\"어쩌면 이게 최선일지도 몰라요.\" 제블란이 입을 열었다. 마치 도넨의 생각을 입 밖으로 소리내어 말하는 것 같았다. \"당신은 "
+"경비대에서 나갈거고, 저는... \" 목소리가 작아지더니 그가 한숨을 내쉬었다. \"한밤중에 귀족을 심문하는 건 훈련 과정에 없었는데 "
+"말이죠.\" \n"
 "\n"
 "도넨은 소년을 노려보았다. \"신입, 나는 도시 경비대원이야. 그건 너도 마찬가지고. 우리가 근무중일 땐 감히 누구도 사람을 죽이고 그냥 "
 "넘어갈 수 없어.\"\n"
@@ -574,7 +576,7 @@ msgstr ""
 "\n"
 "<i>렐리아나가 여백에 적은 글귀</i>\n"
 "\n"
-"죽은 행정관은 배릭을 연루시키려고 한 걸까? 왜? 어떻게?"
+"죽은 행정관... 배릭을 연루시키려고 한 걸까? 왜? 뭐에 연루시키려던거지?"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Varric/gen_ops_varric3
 #. PATH = OperationEntry/TextEntry[1]
@@ -676,9 +678,9 @@ msgid ""
 "stirred up fear and discontent again. The marquis takes steps to quell the "
 "chaos, but it might not be enough."
 msgstr ""
-"저스티니아의 죽음의 원인이 코리피우스라는 사실이 밝혀졌지만, 세로와 그는 관련이 없다. 그런데 마을에 배치되어 있던 요원들이 저스티니아가 "
-"세로에 있는 동안 마을에 반란에 대한 소문이 돌고 있었다는 것을 알게 되었다. 이제 저스티니아는 죽고 성가회는 해산되었으며 균열이 또다시 "
-"두려움과 불만을 불러일으키고 있다. 혼란을 잠재우기 위해 후작이 조치를 취하고는 있지만 그것만으로는 충분하지 않을지도 모른다."
+"저스티니아의 죽음의 원인은 코리피우스라는 사실이 밝혀졌고, 세로와 그는 관련이 없다. 하지만 저스티니아가 세로에 있던 동안 마을에 반란에 "
+"대한 소문이 돌고 있었음을, 마을에 배치되어있던 요원들이 들었다. 이제 저스티니아는 죽고 성가회는 분열되었으며 균열이 또다시 두려움과 "
+"불만을 불러일으키고 있다. 혼란을 잠재우기 위해 후작이 조처하고는 있지만, 그것만으로는 충분하지 않을지도 모른다."
 
 #. EBX = DA3/designcontent/Operations/Global/Serault/serault_ops_2b
 #. PATH = OperationEntry/TextEntry[1]
@@ -691,8 +693,8 @@ msgid ""
 "\n"
 "Cullen"
 msgstr ""
-"세로에 심문회 병사들이 머무르면서 사람들이 훨씬 더 안전하다고 느끼게 되었습니다. 어떤 이유에서인지, 사람들은 깊은 숲 속에 있는 "
-"무언가를 경계하고 있습니다. 후작도 우리의 지원을 기쁘게 받아들였으며 심문회에 세로의 기념품을 보냈습니다.\n"
+"세로에 심문회 병사들이 머무르면서 사람들이 훨씬 더 안전하다고 느끼게 되었습니다. 어떤 이유에서인지, 사람들은 깊은 숲속에 있는 무언가를 "
+"경계하고 있습니다. 후작도 우리의 지원을 기쁘게 받아들였으며 심문회에 세로의 기념품을 보냈습니다.\n"
 "\n"
 "컬렌"
 
@@ -707,9 +709,9 @@ msgid ""
 "\n"
 "Josephine"
 msgstr ""
-"사절을 보낸 걸론 큰 효과를 거두지 못했어요. 사람들은 그들에게 힘을 실어줄만한 행동이 아닌 말 뿐인 진부한 의견만으로는 잘 반응하지 "
-"않아요. 그리고 어쩌면 이 일에는 우리가 이해하는 것보다 더 많은 오래된 문제가 있는건지도 모르겠습니다. 이제 세로의 수수께끼에서는 손을 "
-"떼고 코리피우스에 좀 더 집중하도록 하죠.\n"
+"사절을 보낸 걸론 큰 효과를 거두지 못했어요. 사람들은 진심 어린 행동이 없는 상투적인 말에는 잘 응하지 않죠. 그리고 어쩌면 이 일에는 "
+"우리가 이해하는 것보다 더 오래된 문제가 있는 건지도 모르겠습니다. 이제 세로의 수수께끼에서는 손을 떼고 코리피우스에 좀 더 집중하도록 "
+"하죠.\n"
 "\n"
 "조세핀"
 
@@ -719,7 +721,7 @@ msgctxt "0x0004060a"
 msgid ""
 "Perhaps a representative from the Inquisition, who can spread the word of "
 "our efforts around Thedas, could allay the people's fears."
-msgstr "우리 대리인을 통해 테다스 전역에 심문회의 노력에 대한 소문을 퍼뜨린다면 사람들이 느끼는 공포심도 가라앉힐 수 있을 거예요."
+msgstr "우리 대리인을 통해 테다스 전역에 심문회의 노력에 대한 소문을 퍼뜨린다면 사람들이 느끼는 공포심을 가라앉힐 수도 있을 거예요."
 
 #. EBX = DA3/designcontent/Operations/Global/Serault/serault_ops_2b
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
@@ -749,9 +751,9 @@ msgid ""
 "responsible for the death of seven mages and a noblewoman's daughter. The "
 "Inquisition's templars are prepared to defend against this threat."
 msgstr ""
-"위험한 반란 마법사 조직이 웬딩 숲의 외딴 지역에서 이동중이다. 이들 남녀는 심문회와 그 동맹의 적으로 알려져 있는 자들로, 데네림과 "
-"아마란틴 사이에 있는 순례자의 길을 따라 여행하는 사람들에게 심각한 위협이 되고 있다. 이들은 일곱 명의 마법사와 한 귀족 여성의 딸의 "
-"죽음에 직접적인 책임이 있는 자들이며, 심문회 기사단은 이 위협에 맞설 준비가 되어 있다."
+"위험한 반란 마법사 조직이 웬딩 숲의 외딴 지역에서 이동 중이다. 이들은 심문회와 그 동맹의 적으로 알려져 있으며, 데네림과 아마란틴 "
+"사이에 있는 순례자의 길을 따라 여행하는 사람들에게 심각한 위협이 되고 있다. 이들은 일곱 명의 마법사와 한 귀족의 딸의 죽음에 직접적인 "
+"책임이 있다. 심문회 기사단은 이 위협에 맞설 준비가 되어 있다."
 
 #. EBX = DA3/DesignContent/Operations/Global/Templars/gen_templar_op_6
 #. PATH = OperationEntry/TextEntry[1]
@@ -778,13 +780,13 @@ msgstr ""
 "<i>컬렌 사령관에게 전달된 웬딩 숲의 현장 보고서다.</i>\n"
 "\n"
 "사령관님의 지시에 따라, 반란군 진영에 접근하여 항복한 자들에게 사면을 제의했습니다. 하지만 그 제의를 받아들이는 사람은 거의 "
-"없었습니다. 심지어 그들 중 한명이 우리에게 합류하려 했을 때 그녀는 동료들에게 거의 살해당할 뻔 했습니다. 이 집단은 자신들의 권력에 "
-"의문을 제기하는 사람들에 대해 조금의 애정도 갖고 있지 않은 것으로 보입니다. 그들은 우리를 죽이려고 들기 전에, 자신들이 상상할 수 "
-"있는 모든 살인자의 이름을 <i>우리에게</i> 갖다 붙였습니다.\n"
+"없었습니다. 심지어 그들 중 한 명은 우리에게 합류하려다 동료들에게 거의 살해당할 뻔했습니다. 이 집단은 자신들의 권력에 의문을 제기하는 "
+"사람들에게는 조금의 애정도 없는 것으로 보입니다. 그들은 우리를 죽이려 들기 전에, 자신들이 상상할 수 있는 모든 살인자의 이름을 "
+"<i>우리에게</i> 갖다 붙였습니다.\n"
 "\n"
-"항복한 사람들은 젊었고 이 감당하기 힘든 일에서 벗어날 수 있다는 사실에 감사해 했습니다. 그들을 데리고 함께 하늘보루로 돌아왔으며, "
-"앞으로도 그들을 면밀히 주시할 예정입니다. 테린팔 사건 이후에도, 우리가 여전히 우리를 필요로 하는 사람들을 위해 봉사하고 있다는 사실을 "
-"알게 되어 기쁩니다.\n"
+"항복한 사람들은 젊었고 이 감당하기 힘든 일에서 벗어날 수 있다는 사실에 감사해 했습니다. 그들과 함께 하늘보루로 돌아왔으며, 앞으로도 "
+"면밀히 주시할 예정입니다. 테린팔 사건 이후에도, 우리가 여전히 우리를 필요로 하는 사람들을 위해 봉사하고 있다는 사실을 알게 되어 "
+"기쁩니다.\n"
 "\n"
 "웬딩 숲은 여행자들에게 안전해졌습니다.\n"
 "\n"
@@ -796,7 +798,7 @@ msgctxt "0x0003fd16"
 msgid ""
 "Mage, templar, merchant: any who travel this area are at risk. We must put a "
 "stop to it."
-msgstr "마법사, 성기사, 상인 등 누구든 가릴 것 없이 이 지역을 여행하는 모든 사람이 위험합니다. 그들을 막아야 합니다."
+msgstr "마법사, 성기사, 상인, 누구든 가릴 것 없이 이 지역을 여행하는 모든 사람이 위험합니다. 그들을 막아야 합니다."
 
 #. EBX = DA3/designcontent/Operations/Orlais/chantry_support_cassandra_op
 #. PATH = WartableEntry/TitleReference
@@ -816,11 +818,12 @@ msgid ""
 "support to anyone else."
 msgstr ""
 "심문회는 성가회가 선출할 다음 교황으로 카산드라를 은밀히 지지하려 한다. 전통적으로 성가회는 공개적인 선언을 좋지 않게 생각하므로, 이런 "
-"방법은 역효과를 낼 수 있지만, 적절한 곳에 몇 마디 말을 흘려 넣는 건 매우 효과적인 방법이 될 수 있다. 참고: 심문회가 누군가를 "
-"지지하기로 선택하면, 다른 사람은 지지할 수 없게 된다."
+"방법은 역효과를 낼 수 있다. 하지만 적절한 곳에 몇 마디 말을 흘려 넣는 건 매우 효과적인 방법이 될 수 있다. 참고: 한 번 누군가를 "
+"지지하기로 선택하면, 다른 사람은 지지할 수 없다."
 
 #. EBX = DA3/designcontent/Operations/Orlais/chantry_support_cassandra_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000402b6"
 msgid ""
 "News of your support for Cassandra has made its way to the clerics "
@@ -895,7 +898,7 @@ msgid ""
 "a revered mother in the hat. Somehow Red Jenny is the assumed benefactor, "
 "but we have received several propositions from witnesses to the events."
 msgstr ""
-"이걸 어떻게 설명해야 잘 설명했다고 할 수 있을까요? 우리의 목표 대상인 그 귀족은 산만하게 구는 우리 병사들에게 몹시 화가 나 사람들의 "
+"이걸 어떻게 설명해야 잘했다고 할 수 있을까요? 우리의 목표 대상인 그 귀족은 산만하게 구는 우리 병사들에게 몹시 화가 났고, 사람들의 "
 "주의를 다시 끌어보려다, 주임 신모님의 모자를 실수로 찌르고 말았습니다. 어찌 된 일인지 사람들은 레드 제니를 이 일의 은인으로 여기고 "
 "있었고, 우리는 이 사건의 목격자들로부터 몇 가지 제의를 받았습니다."
 
@@ -913,6 +916,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Sera/ops_sera_red_jenny_02
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0003ffdf"
 msgid ""
 "It appears our detracting lord found shame in the dark, thanks to a "
@@ -934,7 +938,7 @@ msgstr "참석하는 것쯤이야 어려운 일이 아니지만, 이렇게 저�
 #. PATH = OperationEntry/Specialist[1]/SpecialistMissionInfo/OperationTextReference
 msgctxt "0x0003ffe1"
 msgid "Lights out. Not murder—just let them stumble in darkness."
-msgstr "불을 꺼 버리죠. 누굴 죽일 필요는 없어요—그저 컴컴한 데서 허둥지둥하게 두세요."
+msgstr "불을 꺼 버리죠. 살인 할 필요도 없어요. 그저 컴컴한 데서 허둥지둥하게 두세요."
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Sera/ops_sera_red_jenny_02
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
@@ -968,14 +972,15 @@ msgstr ""
 "\n"
 "그리폰 날개 전초기지의 상황은 많이 개선된 상태입니다. 수원이 확보되었고 대부분의 상황도 잘 통제되고 있습니다. 하지만 사막에서 활동 "
 "도중 바게스트 둥지 몇 개가 파괴되는 바람에 그 짐승들이 걷잡을 수 없을 정도로 극단적인 반응을 보이고 있습니다. 놈들이 대로에서 상단을 "
-"공격하고 식량을 뒤져대는 통에 병사들을 위한 보급품을 구하는 일이 어려워졌습니다.\n"
+"공격하고 식량을 뒤져대는 통에 병사들의 보급품을 구하는 일이 어려워졌습니다.\n"
 "\n"
-"조언 부탁드립니다.\n"
+"어떻게 해야 할까요?\n"
 "\n"
 "라일렌 기사대장"
 
 #. EBX = DA3/DesignContent/Operations/WesternApproach/WesternApproachKeep/wes_keep_water_2
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040a03"
 msgid ""
 "It's done. The roads are safe. Haven't seen a varghest in some time. Griffon "
@@ -996,7 +1001,7 @@ msgid ""
 "\n"
 "Rylen"
 msgstr ""
-"이론상으론 괜찮은 생각이었는데 말이죠. 모래 폭풍과 죽음의 구덩이로 인해 병사들을 잃었지만 이제 현지 야생동물은 안전해졌습니다. 그게 "
+"이론상으론 괜찮은 생각이었는데 말이죠. 모래 폭풍과 죽음의 구덩이 탓에 병사들을 잃기는 했지만 이제 현지 야생동물은 안전해졌습니다. 그게 "
 "중요한거죠. 그렇지 않나요?\n"
 "\n"
 "라일렌"
@@ -1018,7 +1023,7 @@ msgctxt "0x00040a05"
 msgid ""
 "Maker's breath. I'll send some of our rangers to hunt and kill these pests. "
 "That'll keep the area clear."
-msgstr "창조주 맙소사. 대원들을 보내 이 성가신 짐승들을 처리하겠습니다. 그렇게 하면 그 지역이 안전해질 겁니다."
+msgstr "창조주여 맙소사. 대원들을 보내 이 성가신 짐승들을 처리하겠습니다. 그렇게 하면 그 지역이 안전해질 겁니다."
 
 #. EBX = DA3/designcontent/Operations/Global/TheWedding/gen_chain_wedding_08
 #. PATH = WartableEntry/TitleReference
@@ -1148,7 +1153,7 @@ msgid ""
 "Leliana"
 msgstr ""
 "제신 린드라는 더 이상 수도에 없습니다. 신부가 견딜 수만 있다면 피에르 데로지어 경과 셀레스트 티보의 결혼식은 별다른 문제 없이 이뤄질 "
-"수 있게 됐습니다. 비록... 올레이인들을 만족시키기 위한 협력관계로서 필요한 것은 단지 그들의 이름뿐이기 때문에 이 결혼식에는 아무런 "
+"수 있게 됐습니다. 비록... 올레이인들의 만족을 위한 협력관계로써 필요한 것은 단지 그들의 이름뿐이기 때문에 이 결혼식에는 아무런 "
 "가치가 없겠지만 말이죠. 그들은 자신들이 지켜야 할 궁정풍 의무를 정부의 존재로 억제하며 사는 일에 익숙할 겁니다.\n"
 "\n"
 "이 문제에 있어 통제력을 손에 쥐고 있어야 한다며 데로지어 경에게 조언한 사람이 여군주 리슐리외라는 부분도 눈여겨봐야 할 부분입니다. "
@@ -1214,11 +1219,11 @@ msgid ""
 msgstr ""
 "바살리트안,\n"
 "\n"
-"우리 행동이 성과를 거뒀다. 하늘보루의 베나토리 요원들이 발 르와요에서 활동하고 있는 첩보 담당관에게 보고를 바치고 있어. 베나토리 "
-"정보망을 역추적해 그물 가운데의 거미를 잡아낼 기회가 될 수 있을 거다.\n"
+"우리 행동이 성과를 거뒀다. 하늘보루의 베나토리 요원들이 발 르와요에서 활동하고 있는 첩보 담당관에게 보고를 올리고 있어. 베나토리 "
+"정보망을 역추적해 그물 가운데의 거미를 잡아낼 기회가 될 거다.\n"
 "\n"
-"그러기 위해서는 내가 정보의 흐름을 쫓는 동안 벤하스라스와 심문단 공작원들을 충분히 대비시켜 발 르와요로 파견해야 한다. 그러면 우리가 "
-"베나토리 첩보망의 종착지를 찾아내서 단번에 첩자들을 제거할 수 있을 거다.\n"
+"그러기 위해서는 내가 정보의 흐름을 쫓는 동안 벤하스라스와 심문단 공작원들을 충분히 대비시켜 발 르와요로 파견해야 한다. 그러면 베나토리 "
+"첩보망의 종착지를 찾아내서 단번에 첩자들을 제거할 수 있을 거다.\n"
 "\n"
 "발 르와요는 음유시인과 첩보원, 외국 고관들로 가득한 곳이다. 그토록 붐비는 곳이라면 우리 쪽 요원들을 이동시키는 건 큰 문제가 되지 "
 "않을 거다.\n"
@@ -1240,7 +1245,7 @@ msgid ""
 msgstr ""
 "바살리트안,\n"
 "\n"
-"발 르와요의 일부 귀족들이 베나토리와 지나치게 가까워 보이더군. 몇몇에게 망신을 주고 심문회에 보탤 기금을 마련할 수 있었다. 내가 널 "
+"발 르와요의 일부 귀족들이 베나토리와 지나치게 가까워 보이더군. 몇 명에게 망신을 주고 심문회에 보탤 기금을 마련할 수 있었다. 내가 널 "
 "위해 보내는 개인적인 포상을 동봉한다. 발 르와요의 첩보원들이 누구의 지휘를 따르는지 파악하면 바로 연락하겠다.\n"
 "\n"
 "탈리스"
@@ -1307,7 +1312,7 @@ msgid ""
 msgstr ""
 "심문관님,\n"
 "\n"
-"심문회가 대무술시합에서 거둔 성과에 대한 보고를 받았습니다. 알브레히트 경의 기사들은 대패했고, 심문회 병사들은 명예롭게 우리를 대표해 "
+"심문회가 대무술시합에서 거둔 성과를 보고 받았습니다. 알브레히트 경의 기사들은 대패했고, 심문회 병사들은 명예롭게 우리를 대표해 "
 "주었습니다. 또한 대난투에서도 승리했고, 궁술 시합 <i>에서도</i> 상당한 실력차로 우승했습니다.\n"
 "\n"
 "알브레히트 경도 심문회가 함부로 시비를 걸 대상이 아니라는 교훈을 배웠겠지요. 제 휘하 부대장의 표현에 따르면 무술시합이 끝날 때 그 "
@@ -1331,6 +1336,7 @@ msgstr "발 가모드 조사"
 
 #. EBX = DA3/designcontent/Operations/WesternApproach/ValGamord/darkspawn_no_wardens
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000402cb"
 msgid ""
 "Commander Cullen,\n"
@@ -1366,7 +1372,7 @@ msgid ""
 msgstr ""
 "컬렌 사령관,\n"
 "\n"
-"발 가모드는 어둠의 피조물에게 파괴되었습니다. 놈들에게 접근했을때 공격받았지만 많은 병력 덕분에 큰 난항없이 전투를 벌였고 안전하게 "
+"발 가모드는 어둠의 피조물에게 파괴되었습니다. 놈들에게 접근하다 공격받기는 했으나 많은 병력 덕분에 큰 난항없이 전투를 벌였고 안전하게 "
 "철수했습니다. \n"
 "\n"
 "마을은 가망이 없습니다. 어둠의 피조물들이 건물의 대부분을 무너뜨린 상태입니다. 놈들이 더 퍼지지 못하게 막으려면 상당수의 병력이 "
@@ -1430,9 +1436,9 @@ msgid ""
 "among the corrupted templars. Assuming they left a trail, it might be "
 "possible to discover what happened."
 msgstr ""
-"테린팔 보루에 있던 시기의 악마는 구도회 대원수를 흉내내고 있었다. 그러나 구도회 대원수 본인이나, 혹은 시체는 어디서도 발견되지 "
-"않았다. 타락한 성기사들 사이에서도 구도회는 전혀 보이지 않았기 때문에, 카산드라는 코리피우스가 그와 다른 구도자들에게 뭔가 했다고 "
-"생각한다. 그들이 흔적을 남겼다는 전제 하에, 무슨 일이 일어났는지 알 수 있을지도 모른다."
+"테린팔 보루에 있던 시기의 악마는 구도회 대원수를 흉내 내고 있었다. 그러나 구도회 대원수 본인도 그의 시체도 전혀 발견되지 않았다. "
+"온통 타락한 성기사들 뿐, 구도자들조차 전혀 보이지 않았기 때문에, 카산드라는 코리피우스가 그와 구도회에 어떤 짓을 했다고 생각한다. "
+"그들이 흔적을 남겼다는 전제하에, 무슨 일이 일어났는지 알 수 있을지도 모른다."
 
 #. EBX = DA3/DesignContent/Operations/Global/Followers/Cassandra/cas_mainplot_Seeker_operation
 #. PATH = OperationEntry/TextEntry[1]
@@ -1446,9 +1452,9 @@ msgid ""
 "\n"
 "Leliana"
 msgstr ""
-"헤이븐을 향한 공격은 코리피우스가 성기사단을 타락시키고 통제했다는 걸 보여주고 있어요. 이는 분명 동료 구도자들의 주시 하에서는 불가능한 "
-"행동입니다. 하지만 구도자, 특히 구도회 대원수 루시우스의 모습은 어디에도 보이지 않아요. 사라진 걸까요? 아니면 카산드라가 생각하는 "
-"것처럼 무슨 일이 생긴 걸까요? 이 일에 대한 진실을 밝혀내야 합니다.\n"
+"헤이븐에서 받았던 공격을 보면, 코리피우스는 성기사단을 타락시키고 통제했어요. 이는 분명 동료 구도자들의 주시 하에서는 불가능했을겁니다. "
+"하지만 구도자, 특히 구도회 대원수 루시우스의 모습은 어디에도 보이지 않아요. 사라진 걸까요? 아니면 카산드라의 생각처럼 무슨 일이 생긴 "
+"걸까요? 이 일에 대한 진실을 밝혀내야 합니다.\n"
 "\n"
 "렐리아나"
 
@@ -1464,10 +1470,10 @@ msgid ""
 "These events are connected, and it seems this is where the missing Seekers "
 "will be found."
 msgstr ""
-"잠시 동안이지만, 실종된 구도회를 찾는 일은 불가능해 보였다. 초기 조사 내용을 보면 이들이 한 명씩 페렐던으로 향한 것은 확인됐지만 그 "
-"후로 행적이 끊겼다. 떠도는 소문으로 수개월간 모습을 드러내지 않고 있는 반 로렌이라는 페렐던의 귀족이 조사를 하기 위해 심문회 요원들을 "
-"데리고 케어 오스윈으로 갔다고 하는데... 그들의 소식 역시 끊겼다고 한다. 이 사건들은 연관이 있다. 그리고 바로 이곳이 사라진 "
-"구도회를 찾아낼 수 있는 장소인 듯하다."
+"잠깐이지만, 실종된 구도회를 찾는 일은 불가능해 보였다. 초기 조사 내용을 보면 이들이 한 명씩 페렐던으로 향한 것은 확인됐지만 그 후로 "
+"행적이 끊겼다. 떠도는 소문으로 몇 달씩 모습을 드러내지 않고 있는 반 로렌이라는 페렐던의 귀족이 조사를 위해 심문회 요원들을 데리고 "
+"케어 오스윈으로 갔다고 하는데... 그들의 소식 역시 끊겼다고 한다. 이 사건들은 연관이 있다. 그리고 바로 이곳이 사라진 구도회를 "
+"찾아낼 수 있는 장소인 것 같다."
 
 #. EBX = DA3/DesignContent/Operations/Global/Followers/Cassandra/cas_mainplot_Seeker_operation
 #. PATH = OperationEntry/Specialist[0]/SpecialistMissionInfo/OperationTextReference
@@ -1603,6 +1609,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Sera/ops_sera_red_jenny_bees
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fc46"
 msgid ""
 "We have received weapon plans and located an apiary to supply us. When the "
@@ -1661,6 +1668,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/duke_of_lydes_4
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000402ed"
 msgid ""
 "Sister Leliana,\n"
@@ -1762,6 +1770,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Followers/Blackwall/blackwall_ops_conscription_2
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fc1c"
 msgid ""
 "We have our first group of recruits; I will continue to search for more. Now "
@@ -1787,6 +1796,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Followers/Blackwall/blackwall_ops_conscription_2
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0003fc1d"
 msgid ""
 "We've gained access to a number of private libraries and archives. No "
@@ -1830,6 +1840,7 @@ msgstr "세라와 버시엘을 위한 군대"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Sera/sera_personal_plot_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00035320"
 msgid ""
 "Commander,\n"
@@ -1852,6 +1863,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Sera/sera_personal_plot_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fa0c"
 msgid ""
 "We marched without incident, although I have it on good authority that there "
@@ -2069,6 +2081,7 @@ msgstr "세로 조사"
 
 #. EBX = DA3/designcontent/Operations/Global/Serault/serault_ops_1
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000405fb"
 msgid ""
 "Serault is a town on the farthest reaches of Orlais, known for its "
@@ -2089,6 +2102,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Serault/serault_ops_1
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040603"
 msgid ""
 "Our emissary has been shown a warm welcome to Serault. He will remain for "
@@ -2317,6 +2331,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/TheDales/Highlands/Michel/dal_michel_agent_ops_2_gaspard
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fead"
 msgid ""
 "I am disappointed by this decision. However, I understand that all strong "
@@ -2349,6 +2364,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/TheDales/Highlands/Michel/dal_michel_agent_ops_2_gaspard
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0003feac"
 msgid ""
 "Perfect. All is in place.\n"
@@ -2547,6 +2563,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_08
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003ff7e"
 msgid ""
 "Sutherland's company delivered some very useful contacts. Their contribution "
@@ -2757,6 +2774,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Mounts/ops_mounts_acquisition_dracolisk
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00041de0"
 msgid ""
 "The researcher has identified a wild variant of dracolisk that the "
@@ -2767,6 +2785,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Mounts/ops_mounts_acquisition_dracolisk
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00041dfd"
 msgid ""
 "The creature has been cornered and saddled. The nippings were severe, but it "
@@ -3331,6 +3350,7 @@ msgstr "테린팔 보루의 악마 사냥"
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_therinfal_bonus
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003fdd5"
 msgid ""
 "Inquisitor,\n"
@@ -3633,6 +3653,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_champion
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0004080e"
 msgid ""
 "The spymaster. So dour for one so pretty.\n"
@@ -3675,6 +3696,7 @@ msgstr "성기사를 위해 더 많은 리륨을 확보하라"
 
 #. EBX = DA3/DesignContent/Operations/Global/CritPathReactivity/SeekerFortress/Seeker_Fortress_Underworld_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0004079c"
 msgid ""
 "Templars need lyrium to function. Josephine is doing what she can, but with "
@@ -4058,6 +4080,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Vivienne/gen_ops_viv5
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040812"
 msgid ""
 "Ambassador,\n"
@@ -4172,6 +4195,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Nemesis/Samson/for_nem_DagnaResearch
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000356d0"
 msgid ""
 "Dagna has forwarded what she learned about Samson's strange armor. Her glee "
@@ -4404,6 +4428,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Mounts/ops_mounts_activation_armored_horse
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00041d38"
 msgid ""
 "The armored mount has arrived, and it is every bit as magnificent as was "
@@ -4612,6 +4637,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Ferelden/ger_fergus_op1
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000409be"
 msgid ""
 "Commander Cullen,\n"
@@ -4631,6 +4657,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Ferelden/ger_fergus_op1
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000409bf"
 msgid ""
 "Ambassador Montilyet,\n"
@@ -4820,6 +4847,7 @@ msgstr "백작의 초대"
 
 #. EBX = DA3/designcontent/Operations/Ferelden/gen_teagan_op1
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040ad0"
 msgid ""
 "Ambassador,\n"
@@ -4859,6 +4887,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Ferelden/gen_teagan_op1
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040b5f"
 msgid ""
 "Commander,\n"
@@ -4930,6 +4959,7 @@ msgstr "비비엔을 지지하라"
 
 #. EBX = DA3/designcontent/Operations/Orlais/chantry_support_vivienne_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040321"
 msgid ""
 "The Inquisition will have to provide any support for Vivienne as the "
@@ -4945,6 +4975,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/chantry_support_vivienne_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040320"
 msgid ""
 "News of your support for Vivienne has made its way to the clerics "
@@ -5135,6 +5166,7 @@ msgstr "올레이 귀족 압박"
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_halam_bonus
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003fe41"
 msgid ""
 "Inquisitor,\n"
@@ -5154,6 +5186,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_halam_bonus
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fe3d"
 msgid ""
 "The Orlesian nobles were most happy to pledge their loyalty to both the "
@@ -5190,6 +5223,7 @@ msgstr "일반 리륨의 밀수를 막아라"
 
 #. EBX = DA3/designcontent/Operations/Global/Nemesis/Nem_Sam_Underworld_Catch_Smugglers_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040958"
 msgid ""
 "Cullen's investigation has stopped the red lyrium smugglers. Disrupting "
@@ -5221,6 +5255,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Nemesis/Nem_Sam_Underworld_Catch_Smugglers_op
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0004095e"
 msgid ""
 "Inquisitor:\n"
@@ -5240,6 +5275,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Nemesis/Nem_Sam_Underworld_Catch_Smugglers_op
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0004095f"
 msgid ""
 "Inquisitor:\n"
@@ -5289,6 +5325,7 @@ msgstr "이중 간첩 폭로"
 
 #. EBX = DA3/DesignContent/Operations/Crestwood/CrestwoodArea/fer010_ops_find_the_mole
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003fd76"
 msgid ""
 "An unknown traitor is lurking in Leliana's closest circle of spies, and she "
@@ -5301,6 +5338,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Crestwood/CrestwoodArea/fer010_ops_find_the_mole
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fddf"
 msgid ""
 "The following is a confession, that I, Abernale Harish, known as \"Painter\" "
@@ -5351,6 +5389,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/dal_highlands_repeatable_collect
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004027e"
 msgid "Our shipment of resources from the Emprise du Lion has arrived."
 msgstr "사자의 용맹에서 수집된 자원이 도착했습니다."
@@ -5488,6 +5527,7 @@ msgstr "레드클리프 성 조사"
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_redcliffe
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003fde9"
 msgid ""
 "The rebel mages at Redcliffe Castle went silent while the Inquisition dealt "
@@ -5504,6 +5544,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_redcliffe
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fde5"
 msgid ""
 "It might be useful to scout Redcliffe Castle for information on how "
@@ -5519,6 +5560,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_redcliffe
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fde4"
 msgid ""
 "The Bull's Chargers investigated Redcliffe Castle with limited success. We "
@@ -5536,6 +5578,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_redcliffe
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0003fde7"
 msgid ""
 "Thanks to Sister Leliana's information, we were able to enter Redcliffe "
@@ -5856,6 +5899,7 @@ msgstr "재판: 레드클리프에서 사용된 마법"
 
 #. EBX = DA3/DesignContent/Operations/Global/Judgments/Ops_judgment_Alexius
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040c29"
 msgid ""
 "Alexius has been put to work as a magical researcher for the Inquisition. "
@@ -6046,6 +6090,7 @@ msgstr "날 기억해요."
 #.     0x00040ede(265950) : Inquisitor,  We are honored to serve the Inquisition, and we will leave straightaway.  I pray that you defeat Corypheus—whatever he is—soon. It is terrifying to see demons pour into the world, endangering innocent people… and as a medium, I have studied spirits at length. I know many of these poor creatures meant no harm to this world, and were drawn into it against their will, corrupted through no fault of their own into something dangerous.  I once called such a creature my friend. I lost him in the rebellion, and never had the chance to offer forgiveness for the mistakes he made, or help him find his way back safely into the Fade.  For the sake of both this world and that of the spirits, I wish you success; both Evangeline and I will fight tirelessly on your behalf.  Yours, Rhys
 #.     0x000449a2(280994) : <i>There is a note below, presumably added by Cole.</i>
 #.     0x000449a7(280999) : He remembers.
+#, fuzzy
 msgctxt "0x000449a6"
 msgid ""
 "{string}265950{/string}\n"
@@ -6243,6 +6288,7 @@ msgstr "동맹: 보수파의 전진"
 
 #. EBX = DA3/designcontent/Operations/Global/TheWedding/gen_chain_wedding_03
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0004070f"
 msgid ""
 "Lord desRosier is asking for additional assurances and partnerships as he "
@@ -6335,6 +6381,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/Halamshiral/gen_ham_celene
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fd3a"
 msgid ""
 "My dear Ambassador,\n"
@@ -6878,12 +6925,13 @@ msgid ""
 msgstr ""
 "<i>컬렌의 손에 들린 급히 쓴 듯한 보고서</i>\n"
 "\n"
-"이 \"랫\"이 가져온 지도에 서덜랜드와 동료들이 실종된 위치가 대략적으로 표시되어 있긴 하지만, 실종 위치를 정확히 알아내기 위해서는 "
-"상당한 투자가 필요해 보입니다. 이 친구는 서덜랜드와 동료들에게 도움이 절실히 필요하다는 점을 분명히 했으니 신속하게 행동에 옮겨야 "
-"합니다."
+"이 \"찍찍이\"가 가져온 지도에 서덜랜드와 동료들이 실종된 위치가 대략적으로 표시되어 있긴 하지만, 실종 위치를 정확히 알아내기 "
+"위해서는 상당한 투자가 필요해 보입니다. 이 친구는 서덜랜드와 동료들에게 도움이 절실히 필요하다는 점을 분명히 했으니 신속하게 행동에 "
+"옮겨야 합니다."
 
 #. EBX = DA3/designcontent/Operations/Global/TheCrew/gen_chain_the_crew_07
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fecb"
 msgid ""
 "The last trail of Sutherland and company found and mapped! On your action, "
@@ -7096,6 +7144,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/CritPathReactivity/Halamshiral/gen_ham_gaspard
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fd5a"
 msgid ""
 "Commander,\n"
@@ -7143,6 +7192,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/dal_plains_repeatable_collect
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040284"
 msgid "Our shipment of resources from the Exalted Plains has arrived."
 msgstr "승임의 평야에서 자원이 도착했습니다."
@@ -7199,6 +7249,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Varric/gen_ops_varric8
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040595"
 msgid ""
 "Varric,\n"
@@ -7418,6 +7469,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Race/gen_race_qunari_2
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fb15"
 msgid ""
 "Adaar,\n"
@@ -7492,6 +7544,7 @@ msgstr "안전 강화"
 
 #. EBX = DA3/DesignContent/Operations/Global/KillCollection/gen_ops_rifts_1
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000404da"
 msgid ""
 "The Inquisitor's efforts to close the Fade rifts has increased stability in "
@@ -7504,6 +7557,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/KillCollection/gen_ops_rifts_1
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000404de"
 msgid ""
 "We have sent our soldiers to the most troubled areas. We've received "
@@ -7521,6 +7575,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/KillCollection/gen_ops_rifts_1
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00040596"
 msgid ""
 "I have secured promises from several noble families. They have agreed to "
@@ -7605,6 +7660,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Followers/Blackwall/blk_mainplot_prisonbreak_options
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x000208eb"
 msgid ""
 "Our chosen replacement was sentenced in Thom Rainier's stead. So far the "
@@ -7661,6 +7717,7 @@ msgstr "파티에서 벨리즈 장관과 대화하라"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Josephine/Josephine_mainquest_favor3
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0001f55b"
 msgid ""
 "Ambassador Montilyet,\n"
@@ -7761,6 +7818,7 @@ msgstr ""
 #.     0x0003fcc4(261316) : {string}261206{/string} {string}261177{/string}
 #.     0x0003fcc5(261317) : {string}261206{/string} {string}261178{/string}
 #.     0x0003fcc6(261318) : {string}261206{/string} {string}261179{/string}
+#, fuzzy
 msgctxt "0x0003fc56"
 msgid ""
 "Inquisitor,\n"
@@ -7782,6 +7840,7 @@ msgstr ""
 #.     0x0003fcc0(261312) : {string}261208{/string} {string}261178{/string}
 #.     0x0003fcc1(261313) : {string}261208{/string} {string}261179{/string}
 #.     0x0003fcc3(261315) : {string}261208{/string} {string}261175{/string}
+#, fuzzy
 msgctxt "0x0003fc58"
 msgid ""
 "Inquisitor,\n"
@@ -7824,6 +7883,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc56(261206) : Inquisitor,  The Grey Wardens fought their way through the mountains. The demons were savage, but the Grey Wardens held them off with great determination. As a result, we have located Marquise Bouffon's secret stronghold deep in the Gamordan Peaks. 
 #.     0x0003fc3a(261178) : The Grey Wardens remain in high spirits. They seem proud of this opportunity to redeem their name in good faith, and losses so far have been light. It is an honor to fight beside them.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fcc5"
 msgid ""
 "{string}261206{/string}\n"
@@ -7837,6 +7897,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc56(261206) : Inquisitor,  The Grey Wardens fought their way through the mountains. The demons were savage, but the Grey Wardens held them off with great determination. As a result, we have located Marquise Bouffon's secret stronghold deep in the Gamordan Peaks. 
 #.     0x0003fc39(261177) : The Grey Wardens have taken losses, but their morale remains high, and their loyalty to the Inquisition is undisputed.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fcc4"
 msgid ""
 "{string}261206{/string}\n"
@@ -7850,6 +7911,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc56(261206) : Inquisitor,  The Grey Wardens fought their way through the mountains. The demons were savage, but the Grey Wardens held them off with great determination. As a result, we have located Marquise Bouffon's secret stronghold deep in the Gamordan Peaks. 
 #.     0x0003fc3b(261179) : The Grey Wardens continue to fight bravely, but they have suffered many losses. I recommend deploying them with care, lest we lose them entirely.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fcc6"
 msgid ""
 "{string}261206{/string}\n"
@@ -7863,6 +7925,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc56(261206) : Inquisitor,  The Grey Wardens fought their way through the mountains. The demons were savage, but the Grey Wardens held them off with great determination. As a result, we have located Marquise Bouffon's secret stronghold deep in the Gamordan Peaks. 
 #.     0x0003fc37(261175) : I regret to inform you that after recent actions, the Grey Wardens have suffered too many losses to be of any further assistance. The last warriors died fighting for the Inquisition in good faith. I have sent their personal effects to Weisshaupt.  Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fcbf"
 msgid ""
 "{string}261206{/string}\n"
@@ -7876,6 +7939,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc58(261208) : Inquisitor,  Sister Leliana's scouts were able to find a path for the Grey Wardens through the mountains. The Wardens were able to avoid most of the demons and saved most of their strength. As a result, we have located Marquise Bouffon's secret stronghold deep in the Gamordan Peaks. 
 #.     0x0003fc3a(261178) : The Grey Wardens remain in high spirits. They seem proud of this opportunity to redeem their name in good faith, and losses so far have been light. It is an honor to fight beside them.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fcc0"
 msgid ""
 "{string}261208{/string}\n"
@@ -7889,6 +7953,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc58(261208) : Inquisitor,  Sister Leliana's scouts were able to find a path for the Grey Wardens through the mountains. The Wardens were able to avoid most of the demons and saved most of their strength. As a result, we have located Marquise Bouffon's secret stronghold deep in the Gamordan Peaks. 
 #.     0x0003fc39(261177) : The Grey Wardens have taken losses, but their morale remains high, and their loyalty to the Inquisition is undisputed.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fcbc"
 msgid ""
 "{string}261208{/string}\n"
@@ -7902,6 +7967,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc58(261208) : Inquisitor,  Sister Leliana's scouts were able to find a path for the Grey Wardens through the mountains. The Wardens were able to avoid most of the demons and saved most of their strength. As a result, we have located Marquise Bouffon's secret stronghold deep in the Gamordan Peaks. 
 #.     0x0003fc3b(261179) : The Grey Wardens continue to fight bravely, but they have suffered many losses. I recommend deploying them with care, lest we lose them entirely.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fcc1"
 msgid ""
 "{string}261208{/string}\n"
@@ -7915,6 +7981,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc58(261208) : Inquisitor,  Sister Leliana's scouts were able to find a path for the Grey Wardens through the mountains. The Wardens were able to avoid most of the demons and saved most of their strength. As a result, we have located Marquise Bouffon's secret stronghold deep in the Gamordan Peaks. 
 #.     0x0003fc37(261175) : I regret to inform you that after recent actions, the Grey Wardens have suffered too many losses to be of any further assistance. The last warriors died fighting for the Inquisition in good faith. I have sent their personal effects to Weisshaupt.  Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fcc3"
 msgid ""
 "{string}261208{/string}\n"
@@ -7928,6 +7995,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc57(261207) : Inquisitor,  Lady Ginette Lagaspe offered her assistance in finding Marquise Bouffon in the mountains, but her forces proved to be allied with the marquise. They turned on us at an inopportune moment, and the Grey Wardens took heavy losses fighting them off. After much bloodshed, we have located Marquise Bouffon's secret stronghold deep in the Gamordan Peaks. 
 #.     0x0003fc3a(261178) : The Grey Wardens remain in high spirits. They seem proud of this opportunity to redeem their name in good faith, and losses so far have been light. It is an honor to fight beside them.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fcbd"
 msgid ""
 "{string}261207{/string}\n"
@@ -7941,6 +8009,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc57(261207) : Inquisitor,  Lady Ginette Lagaspe offered her assistance in finding Marquise Bouffon in the mountains, but her forces proved to be allied with the marquise. They turned on us at an inopportune moment, and the Grey Wardens took heavy losses fighting them off. After much bloodshed, we have located Marquise Bouffon's secret stronghold deep in the Gamordan Peaks. 
 #.     0x0003fc39(261177) : The Grey Wardens have taken losses, but their morale remains high, and their loyalty to the Inquisition is undisputed.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fcbb"
 msgid ""
 "{string}261207{/string}\n"
@@ -7954,6 +8023,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc57(261207) : Inquisitor,  Lady Ginette Lagaspe offered her assistance in finding Marquise Bouffon in the mountains, but her forces proved to be allied with the marquise. They turned on us at an inopportune moment, and the Grey Wardens took heavy losses fighting them off. After much bloodshed, we have located Marquise Bouffon's secret stronghold deep in the Gamordan Peaks. 
 #.     0x0003fc3b(261179) : The Grey Wardens continue to fight bravely, but they have suffered many losses. I recommend deploying them with care, lest we lose them entirely.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fcc2"
 msgid ""
 "{string}261207{/string}\n"
@@ -7967,6 +8037,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc57(261207) : Inquisitor,  Lady Ginette Lagaspe offered her assistance in finding Marquise Bouffon in the mountains, but her forces proved to be allied with the marquise. They turned on us at an inopportune moment, and the Grey Wardens took heavy losses fighting them off. After much bloodshed, we have located Marquise Bouffon's secret stronghold deep in the Gamordan Peaks. 
 #.     0x0003fc37(261175) : I regret to inform you that after recent actions, the Grey Wardens have suffered too many losses to be of any further assistance. The last warriors died fighting for the Inquisition in good faith. I have sent their personal effects to Weisshaupt.  Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fcbe"
 msgid ""
 "{string}261207{/string}\n"
@@ -8007,6 +8078,7 @@ msgstr "네바라의 뱀"
 
 #. EBX = DA3/designcontent/Operations/Orlais/Nevarra/nevarra_plot1_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000409fe"
 msgid ""
 "Inquisition agents have uncovered a potential problem in the nation of "
@@ -8044,6 +8116,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/Nevarra/nevarra_plot1_op
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00040a01"
 msgid ""
 "Inquisitor,\n"
@@ -8069,6 +8142,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/Nevarra/nevarra_plot1_op
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x000409fd"
 msgid ""
 "The agent known as Argent infiltrated the Nevarran royal palace and killed "
@@ -8120,6 +8194,7 @@ msgstr "대성당의 암살자"
 
 #. EBX = DA3/designcontent/Operations/Orlais/Chantry/chantry_main6_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040846"
 msgid ""
 "My {LadyLord} Inquisitor,\n"
@@ -8149,6 +8224,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/Chantry/chantry_main6_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040844"
 msgid ""
 "The Inquisition caught the assassin within the Grand Cathedral. After "
@@ -8316,6 +8392,7 @@ msgstr "용 문서 번역"
 
 #. EBX = DA3/DesignContent/Operations/WesternApproach/WesternApproachArea/wes_area_dragon_manuscript
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0002e113"
 msgid ""
 "Ambassador Montilyet,\n"
@@ -8345,6 +8422,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/WesternApproach/WesternApproachArea/wes_area_dragon_manuscript
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0002e115"
 msgid ""
 "Esteemed Ambassador Montilyet,\n"
@@ -8445,6 +8523,7 @@ msgstr "재판: 선한 루스 경의 죽음"
 
 #. EBX = DA3/designcontent/Operations/Global/Judgments/gen_ops_judgments_warden_01
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000408d8"
 msgid ""
 "The disgraced Grey Warden Ser Ruth wishes to make good on your judgment, "
@@ -8480,6 +8559,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Judgments/gen_ops_judgments_warden_01
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000408d9"
 msgid ""
 "We've a report from a dwarven runner that Warden Ruth was welcomed into a "
@@ -8571,6 +8651,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Judgments/gen_ops_judgments_avaar_01
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040875"
 msgid ""
 "Movran and his clan entered the Silent Plains intending to settle where no "
@@ -8586,6 +8667,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Judgments/gen_ops_judgments_avaar_01
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00040896"
 msgid ""
 "We have received a rather curt reply to the \"gift\" of Movran and his clan "
@@ -8698,6 +8780,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/CritPathReactivity/Redcliffe/gen_ops_red_allies2
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040324"
 msgid ""
 "Inquisitor,\n"
@@ -8881,6 +8964,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/TheDales/Plains/dal_region_temple
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00027564"
 msgid ""
 "It required some \"gifts\" to several Dalish clans traveling along the "
@@ -8912,6 +8996,7 @@ msgstr "진실 게임:  위험한 게임"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Vivienne/gen_ops_viv4
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040782"
 msgid ""
 "Nightingale,\n"
@@ -8976,6 +9061,7 @@ msgstr "페어뱅스와의 동맹 활용"
 
 #. EBX = DA3/designcontent/Operations/TheDales/Forest/Fairbanks/dal_fairbanks_agent_ops_noble_1
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003fcb2"
 msgid ""
 "I've been told that the Council of Heralds has reviewed the evidence and now "
@@ -8994,6 +9080,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/TheDales/Forest/Fairbanks/dal_fairbanks_agent_ops_noble_1
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fd9f"
 msgid ""
 "\"Fairbanks\" continues to impress. He's settled in a modest (but well-"
@@ -9009,6 +9096,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/TheDales/Forest/Fairbanks/dal_fairbanks_agent_ops_noble_1
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fda0"
 msgid ""
 "As I predicted, the gentlewomen of southern Orlais relished the story of the "
@@ -9024,6 +9112,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/TheDales/Forest/Fairbanks/dal_fairbanks_agent_ops_noble_1
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0003fd9e"
 msgid ""
 "A shame what happened to our Fairbanks, no? Socially eviscerated. But he'll "
@@ -9108,6 +9197,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/TheWedding/gen_chain_wedding_02
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004070d"
 msgid ""
 "While I do not trust them, we have at least gained the interest of the "
@@ -9123,6 +9213,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/TheWedding/gen_chain_wedding_02
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0004070a"
 msgid ""
 "I will not turn my back on them, but we have established agreements with the "
@@ -9160,6 +9251,7 @@ msgstr "심문단 숫자 부풀리기"
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_mythal
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003fe51"
 msgid ""
 "Inquisitor,\n"
@@ -9182,6 +9274,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_mythal
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fe52"
 msgid ""
 "My men lit extra campfires, marched with rattles on their boots, and used a "
@@ -9198,6 +9291,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_mythal
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fe4e"
 msgid ""
 "My men lit extra campfires, marched with rattles on their boots, and used a "
@@ -9606,6 +9700,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/WorldUnlocks/Wld_region_bog
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fd4d"
 msgid ""
 "The missing soldiers have been found in a bog called the Fallow Mire. They "
@@ -9647,6 +9742,7 @@ msgstr "창조주의 눈"
 
 #. EBX = DA3/designcontent/Operations/Orlais/Chantry/chantry_main4_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040820"
 msgid ""
 "A report by one of Leliana's agents has given rise to concern: a group of "
@@ -9685,6 +9781,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/Chantry/chantry_main4_op
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00040819"
 msgid ""
 "Most interesting. Approaching a few nobles we thought associated with the "
@@ -9841,6 +9938,7 @@ msgstr "재판: 사르니아 사람들 돕기"
 
 #. EBX = DA3/DesignContent/Operations/Global/Judgments/Ops_judgment_Poulin
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040c07"
 msgid ""
 "Mistress Poulin has been sentenced to provide relief to the people of "
@@ -9853,6 +9951,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Judgments/Ops_judgment_Poulin
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040c4c"
 msgid ""
 "Mistress Poulin's supplies have reached Sahrnia. Food and clothing are being "
@@ -9954,6 +10053,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Crafting/gen_repeatable_cloth_op
 #. PATH = OperationEntry/TextEntry[4]
+#, fuzzy
 msgctxt "0x0004044f"
 msgid ""
 "It's rather frustrating, but speaking with all my merchant contacts turned "
@@ -10075,6 +10175,7 @@ msgstr "만들기"
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_artificer
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000408fb"
 msgid ""
 "Hey, maker.\n"
@@ -10099,6 +10200,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_artificer
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040902"
 msgid ""
 "Very nice. Routing an entire army. We weren't there and yet we were. It's "
@@ -10114,6 +10216,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_artificer
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000408fc"
 msgid ""
 "I can't believe you gave the time of day to the ambassador's suggestion. The "
@@ -10133,6 +10236,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_artificer
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x000408fe"
 msgid ""
 "Why manipulate one army when you can manipulate two? My compliments to the "
@@ -10187,6 +10291,7 @@ msgstr "하드 인 하이타운: 등 뒤의 단검"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Varric/gen_ops_varric6
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040504"
 msgid ""
 "Commander Cullen,\n"
@@ -10206,6 +10311,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Varric/gen_ops_varric6
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040552"
 msgid ""
 "Commander,\n"
@@ -10355,6 +10461,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Race/gen_race_qunari_1
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0003fac5"
 msgid ""
 "Adaar,\n"
@@ -10414,6 +10521,7 @@ msgstr "페렐던의 영웅과 접촉하라"
 
 #. EBX = DA3/designcontent/Operations/Orlais/hero_of_ferelden_reactivity_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0004014c"
 msgid ""
 "Sister Leliana,\n"
@@ -10433,6 +10541,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/hero_of_ferelden_reactivity_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004014f"
 msgid ""
 "Sister Leliana,\n"
@@ -10452,6 +10561,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/hero_of_ferelden_reactivity_op
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0004014e"
 msgid ""
 "Sister Leliana,\n"
@@ -10471,6 +10581,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/hero_of_ferelden_reactivity_op
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0004014b"
 msgid ""
 "Sister Leliana,\n"
@@ -10490,6 +10601,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/hero_of_ferelden_reactivity_op
 #. PATH = OperationEntry/TextEntry[4]
+#, fuzzy
 msgctxt "0x0004014a"
 msgid ""
 "Sister Leliana,\n"
@@ -10511,6 +10623,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/hero_of_ferelden_reactivity_op
 #. PATH = OperationEntry/TextEntry[5]
+#, fuzzy
 msgctxt "0x0004014d"
 msgid ""
 "Sister Leliana,\n"
@@ -10532,6 +10645,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/hero_of_ferelden_reactivity_op
 #. PATH = OperationEntry/TextEntry[6]
+#, fuzzy
 msgctxt "0x00040148"
 msgid ""
 "Sister Leliana,\n"
@@ -10553,6 +10667,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/hero_of_ferelden_reactivity_op
 #. PATH = OperationEntry/TextEntry[7]
+#, fuzzy
 msgctxt "0x00040147"
 msgid ""
 "Sister Leliana,\n"
@@ -10586,6 +10701,7 @@ msgstr "렐리아나를 지지하라"
 
 #. EBX = DA3/designcontent/Operations/Orlais/chantry_support_leliana_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0004031f"
 msgid ""
 "The Inquisition will have to provide any support for Leliana as the "
@@ -10601,6 +10717,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/chantry_support_leliana_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004031d"
 msgid ""
 "News of your support for Leliana has made its way to the clerics sequestered "
@@ -10685,6 +10802,7 @@ msgstr "올레이 용병들과의 만남"
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_halam
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003fe38"
 msgid ""
 "Inquisitor,\n"
@@ -10706,6 +10824,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_halam
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fe36"
 msgid ""
 "The Bull's Chargers met with several mercenary bands. Some were receptive to "
@@ -10776,6 +10895,7 @@ msgstr "붉은 성기사단 부관 제거"
 
 #. EBX = DA3/DesignContent/Operations/TheDales/Forest/dal_forest_ops_final_boss
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003fd63"
 msgid ""
 "Looks like Fairbanks was good on his word. The Freemen were helping the red "
@@ -10794,6 +10914,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/TheDales/Forest/dal_forest_ops_final_boss
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fd72"
 msgid ""
 "We have the name of the red templar lieutenant who was dealing with "
@@ -10861,6 +10982,7 @@ msgstr "까마귀단의 손아귀에서 벗어나라"
 
 #. EBX = DA3/DesignContent/Operations/Global/Crows/gen_ops_zevran_extra
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040166"
 msgid ""
 "My friends,\n"
@@ -10894,6 +11016,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Crows/gen_ops_zevran_extra
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004018d"
 msgid ""
 "Leliana,\n"
@@ -10910,6 +11033,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Crows/gen_ops_zevran_extra
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00040542"
 msgid ""
 "I forgot how wet Ferelden is this time of year—but you have my thanks.\n"
@@ -10991,6 +11115,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Varric/gen_ops_varric4
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000404cb"
 msgid ""
 "Commander,\n"
@@ -11082,6 +11207,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/dal_forest_repeatable_collect
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040277"
 msgid "Our shipment of resources from the Emerald Graves has arrived."
 msgstr "에메랄드 무덤에서 수집한 자원이 도착했습니다."
@@ -11127,6 +11253,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Judgments/gen_ops_judgments_duchess_02
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040a6b"
 msgid ""
 "Well, I cannot say I'm pleased, Inquisitor. Thanks to you, I now have a "
@@ -11171,6 +11298,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Judgments/gen_ops_judgments_duchess_02
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x00040a6c"
 msgid ""
 "I would call our efforts a success, Inquisitor. The peers of Duchess "
@@ -11309,6 +11437,7 @@ msgstr "\"바다 저편에 있는 자들\"의 가면을 벗겨라"
 
 #. EBX = DA3/DesignContent/Operations/Global/Specialists/gen_ops_secrets_executors_2
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040118"
 msgid ""
 "I had our people remove the downward-pointing triangular symbols from our "
@@ -11332,6 +11461,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Specialists/gen_ops_secrets_executors_2
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004011c"
 msgid ""
 "Three outposts on the Nevarran border were found abandoned with no sign of "
@@ -11358,6 +11488,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Specialists/gen_ops_secrets_executors_2
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0004011d"
 msgid ""
 "Compliments to your spymaster. She is a resourceful woman. Once she traced "
@@ -11417,6 +11548,7 @@ msgstr "내전으로 피해를 입은 사람들을 도와라"
 
 #. EBX = DA3/DesignContent/Operations/Global/Specialists/gen_ops_forces_relief_mission
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003ffb5"
 msgid ""
 "The Imperial Army will aid the Inquisition's forces against Corypheus, but "
@@ -11492,6 +11624,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Specialists/gen_ops_forces_relief_mission
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0003ffb9"
 msgid ""
 "Leliana,\n"
@@ -11783,6 +11916,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/TheDales/Highlands/dal_area_rebuildbridge
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0001723e"
 msgid ""
 "Commander,\n"
@@ -11859,6 +11993,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/WorldUnlocks/wld_region_daleshighlands
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00035d6b"
 msgid ""
 "We broke through to Sahrnia, and Lead Scout Harding is with the vanguard "
@@ -11890,6 +12025,7 @@ msgstr "헤이븐을 위한 추모비"
 
 #. EBX = DA3/DesignContent/Operations/Global/OrlesianNobles/gen_ops_orlais_noble1
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040822"
 msgid ""
 "Ambassador Montilyet,\n"
@@ -11934,6 +12070,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/OrlesianNobles/gen_ops_orlais_noble1
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00040866"
 msgid ""
 "Ambassador Montilyet,\n"
@@ -11990,6 +12127,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/Redcliffe/gen_ops_red_subdued2
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040388"
 msgid ""
 "Commander,\n"
@@ -12095,6 +12233,7 @@ msgstr "조세핀의 약혼자에게 결투 신청하기"
 
 #. EBX = DA3/DesignContent/Operations/Global/Followers/Josephine/Josephine_ops_romance_the_duel
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003ff92"
 msgid ""
 "Josephine's parents have betrothed her to a man named Lord Otranto. "
@@ -12232,6 +12371,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fce8(261352) : Inquisitor,  Marquise Bouffon has been killed, along with Lady Lagaspe and her Venatori allies… though their magic made the fighting bloody indeed and cost the lives of many Grey Wardens. 
 #.     0x0003fc3a(261178) : The Grey Wardens remain in high spirits. They seem proud of this opportunity to redeem their name in good faith, and losses so far have been light. It is an honor to fight beside them.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fee9"
 msgid ""
 "{string}261352{/string}\n"
@@ -12245,6 +12385,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fce8(261352) : Inquisitor,  Marquise Bouffon has been killed, along with Lady Lagaspe and her Venatori allies… though their magic made the fighting bloody indeed and cost the lives of many Grey Wardens. 
 #.     0x0003fc39(261177) : The Grey Wardens have taken losses, but their morale remains high, and their loyalty to the Inquisition is undisputed.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fee7"
 msgid ""
 "{string}261352{/string}\n"
@@ -12258,6 +12399,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fce8(261352) : Inquisitor,  Marquise Bouffon has been killed, along with Lady Lagaspe and her Venatori allies… though their magic made the fighting bloody indeed and cost the lives of many Grey Wardens. 
 #.     0x0003fc3b(261179) : The Grey Wardens continue to fight bravely, but they have suffered many losses. I recommend deploying them with care, lest we lose them entirely.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003feee"
 msgid ""
 "{string}261352{/string}\n"
@@ -12271,6 +12413,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fce8(261352) : Inquisitor,  Marquise Bouffon has been killed, along with Lady Lagaspe and her Venatori allies… though their magic made the fighting bloody indeed and cost the lives of many Grey Wardens. 
 #.     0x0003fc37(261175) : I regret to inform you that after recent actions, the Grey Wardens have suffered too many losses to be of any further assistance. The last warriors died fighting for the Inquisition in good faith. I have sent their personal effects to Weisshaupt.  Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003feea"
 msgid ""
 "{string}261352{/string}\n"
@@ -12284,6 +12427,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fce4(261348) : Inquisitor,  Marquise Bouffon has been killed, along with Lady Lagaspe and her Venatori allies. Thanks to Sister Leliana's scouts, we were able to gain covert entry into the fortress, although the Venatori still managed to use their magic against the Grey Wardens to significant effect. 
 #.     0x0003fc3a(261178) : The Grey Wardens remain in high spirits. They seem proud of this opportunity to redeem their name in good faith, and losses so far have been light. It is an honor to fight beside them.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003feed"
 msgid ""
 "{string}261348{/string}\n"
@@ -12297,6 +12441,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fce4(261348) : Inquisitor,  Marquise Bouffon has been killed, along with Lady Lagaspe and her Venatori allies. Thanks to Sister Leliana's scouts, we were able to gain covert entry into the fortress, although the Venatori still managed to use their magic against the Grey Wardens to significant effect. 
 #.     0x0003fc39(261177) : The Grey Wardens have taken losses, but their morale remains high, and their loyalty to the Inquisition is undisputed.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fee8"
 msgid ""
 "{string}261348{/string}\n"
@@ -12310,6 +12455,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fce4(261348) : Inquisitor,  Marquise Bouffon has been killed, along with Lady Lagaspe and her Venatori allies. Thanks to Sister Leliana's scouts, we were able to gain covert entry into the fortress, although the Venatori still managed to use their magic against the Grey Wardens to significant effect. 
 #.     0x0003fc3b(261179) : The Grey Wardens continue to fight bravely, but they have suffered many losses. I recommend deploying them with care, lest we lose them entirely.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fef0"
 msgid ""
 "{string}261348{/string}\n"
@@ -12323,6 +12469,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fce4(261348) : Inquisitor,  Marquise Bouffon has been killed, along with Lady Lagaspe and her Venatori allies. Thanks to Sister Leliana's scouts, we were able to gain covert entry into the fortress, although the Venatori still managed to use their magic against the Grey Wardens to significant effect. 
 #.     0x0003fc37(261175) : I regret to inform you that after recent actions, the Grey Wardens have suffered too many losses to be of any further assistance. The last warriors died fighting for the Inquisition in good faith. I have sent their personal effects to Weisshaupt.  Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fef1"
 msgid ""
 "{string}261348{/string}\n"
@@ -12336,6 +12483,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fce7(261351) : Inquisitor,  The fighting was hard, but the Grey Wardens protected us from the demons until Baroness Natale's siege equipment arrived. We laid siege to the fortress and killed both Marquise Bouffon and Lady Lagaspe with minimal losses on our side. 
 #.     0x0003fc3a(261178) : The Grey Wardens remain in high spirits. They seem proud of this opportunity to redeem their name in good faith, and losses so far have been light. It is an honor to fight beside them.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fee6"
 msgid ""
 "{string}261351{/string}\n"
@@ -12349,6 +12497,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fce7(261351) : Inquisitor,  The fighting was hard, but the Grey Wardens protected us from the demons until Baroness Natale's siege equipment arrived. We laid siege to the fortress and killed both Marquise Bouffon and Lady Lagaspe with minimal losses on our side. 
 #.     0x0003fc39(261177) : The Grey Wardens have taken losses, but their morale remains high, and their loyalty to the Inquisition is undisputed.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003feec"
 msgid ""
 "{string}261351{/string}\n"
@@ -12362,6 +12511,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fce7(261351) : Inquisitor,  The fighting was hard, but the Grey Wardens protected us from the demons until Baroness Natale's siege equipment arrived. We laid siege to the fortress and killed both Marquise Bouffon and Lady Lagaspe with minimal losses on our side. 
 #.     0x0003fc3b(261179) : The Grey Wardens continue to fight bravely, but they have suffered many losses. I recommend deploying them with care, lest we lose them entirely.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003feef"
 msgid ""
 "{string}261351{/string}\n"
@@ -12375,6 +12525,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fce7(261351) : Inquisitor,  The fighting was hard, but the Grey Wardens protected us from the demons until Baroness Natale's siege equipment arrived. We laid siege to the fortress and killed both Marquise Bouffon and Lady Lagaspe with minimal losses on our side. 
 #.     0x0003fc37(261175) : I regret to inform you that after recent actions, the Grey Wardens have suffered too many losses to be of any further assistance. The last warriors died fighting for the Inquisition in good faith. I have sent their personal effects to Weisshaupt.  Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003feeb"
 msgid ""
 "{string}261351{/string}\n"
@@ -12525,6 +12676,7 @@ msgstr "검은 만물상"
 
 #. EBX = DA3/DesignContent/Operations/WorldUnlocks/dlc_region_blackemporium
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00045a9f"
 msgid ""
 "\"Voices on the winds speak of a new power abroad in the world. "
@@ -12578,6 +12730,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/WorldUnlocks/dlc_region_blackemporium
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00045a9d"
 msgid ""
 "A ship has been secured. Be wary of what you find in the Black Emporium, "
@@ -12626,6 +12779,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Kirkwall/kirkwall_ops_aid
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040131"
 msgid ""
 "Rebuilding efforts are progressing well, but there is little we can do about "
@@ -12642,6 +12796,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Kirkwall/kirkwall_ops_aid
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0004012f"
 msgid ""
 "Our plea for aid has earned us great praise. Many see our willingness to "
@@ -12723,6 +12878,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/duke_of_lydes_2
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000402e4"
 msgid ""
 "Commander Cullen,\n"
@@ -12751,6 +12907,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/duke_of_lydes_2
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000402e6"
 msgid ""
 "Sister Leliana,\n"
@@ -12801,6 +12958,7 @@ msgstr "금속 모으기"
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_repeatable_metal_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000403a0"
 msgid ""
 "With Griffon Wing Fortress now occupied, the Inquisition has access to the "
@@ -12949,6 +13107,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Vivienne/gen_ops_vivienne2
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000406f1"
 msgid ""
 "Madame Ambassador,\n"
@@ -12970,6 +13129,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Vivienne/gen_ops_vivienne2
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000406f2"
 msgid ""
 "Nightingale,\n"
@@ -13029,6 +13189,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Templars/gen_templar_op_1
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fbb7"
 msgid ""
 "Commander Cullen, \n"
@@ -13055,6 +13216,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Templars/gen_templar_op_1
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fbb8"
 msgid ""
 "Ambassador Montilyet,\n"
@@ -13079,6 +13241,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Templars/gen_templar_op_1
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0003fbb9"
 msgid ""
 "Sister Leliana,\n"
@@ -13239,6 +13402,7 @@ msgstr ""
 #.     0x0003fee6(261862) : {string}261351{/string} {string}261178{/string}
 #.     0x0003fee9(261865) : {string}261352{/string} {string}261178{/string}
 #.     0x0003feed(261869) : {string}261348{/string} {string}261178{/string}
+#, fuzzy
 msgctxt "0x0003fc3a"
 msgid ""
 "The Grey Wardens remain in high spirits. They seem proud of this opportunity "
@@ -13266,6 +13430,7 @@ msgstr ""
 #.     0x0003fee7(261863) : {string}261352{/string} {string}261177{/string}
 #.     0x0003fee8(261864) : {string}261348{/string} {string}261177{/string}
 #.     0x0003feec(261868) : {string}261351{/string} {string}261177{/string}
+#, fuzzy
 msgctxt "0x0003fc39"
 msgid ""
 "The Grey Wardens have taken losses, but their morale remains high, and their "
@@ -13291,6 +13456,7 @@ msgstr ""
 #.     0x0003feee(261870) : {string}261352{/string} {string}261179{/string}
 #.     0x0003feef(261871) : {string}261351{/string} {string}261179{/string}
 #.     0x0003fef0(261872) : {string}261348{/string} {string}261179{/string}
+#, fuzzy
 msgctxt "0x0003fc3b"
 msgid ""
 "The Grey Wardens continue to fight bravely, but they have suffered many "
@@ -13336,6 +13502,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc33(261171) : Inquisitor,  The Grey Wardens scoured the area as requested. Unfortunately, this left them unprepared when mercenaries working for Marquise Effiloche Bouffon attacked by surprise. It appears that Marquise Bouffon has been mining the area in violation of local treaties, which accidentally freed the darkspawn from beneath the earth. Marquise Bouffon has fled into the Gamordan Peaks. 
 #.     0x0003fc3a(261178) : The Grey Wardens remain in high spirits. They seem proud of this opportunity to redeem their name in good faith, and losses so far have been light. It is an honor to fight beside them.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fc92"
 msgid ""
 "{string}261171{/string}\n"
@@ -13349,6 +13516,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc33(261171) : Inquisitor,  The Grey Wardens scoured the area as requested. Unfortunately, this left them unprepared when mercenaries working for Marquise Effiloche Bouffon attacked by surprise. It appears that Marquise Bouffon has been mining the area in violation of local treaties, which accidentally freed the darkspawn from beneath the earth. Marquise Bouffon has fled into the Gamordan Peaks. 
 #.     0x0003fc39(261177) : The Grey Wardens have taken losses, but their morale remains high, and their loyalty to the Inquisition is undisputed.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fc96"
 msgid ""
 "{string}261171{/string}\n"
@@ -13362,6 +13530,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc33(261171) : Inquisitor,  The Grey Wardens scoured the area as requested. Unfortunately, this left them unprepared when mercenaries working for Marquise Effiloche Bouffon attacked by surprise. It appears that Marquise Bouffon has been mining the area in violation of local treaties, which accidentally freed the darkspawn from beneath the earth. Marquise Bouffon has fled into the Gamordan Peaks. 
 #.     0x0003fc3b(261179) : The Grey Wardens continue to fight bravely, but they have suffered many losses. I recommend deploying them with care, lest we lose them entirely.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fc95"
 msgid ""
 "{string}261171{/string}\n"
@@ -13375,6 +13544,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc33(261171) : Inquisitor,  The Grey Wardens scoured the area as requested. Unfortunately, this left them unprepared when mercenaries working for Marquise Effiloche Bouffon attacked by surprise. It appears that Marquise Bouffon has been mining the area in violation of local treaties, which accidentally freed the darkspawn from beneath the earth. Marquise Bouffon has fled into the Gamordan Peaks. 
 #.     0x0003fc37(261175) : I regret to inform you that after recent actions, the Grey Wardens have suffered too many losses to be of any further assistance. The last warriors died fighting for the Inquisition in good faith. I have sent their personal effects to Weisshaupt.  Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fc99"
 msgid ""
 "{string}261171{/string}\n"
@@ -13388,6 +13558,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc34(261172) : Inquisitor,  Sister Leliana's advice was excellent. Her scouts located a mining operation Marquise Bouffon had started in secret, which must have freed the darkspawn from beneath the earth. When discovered, the marquise sent mercenaries to attack, but the Grey Wardens were well prepared and easily cut down all resistance. Marquise Bouffon has fled into the Gamordan Peaks. 
 #.     0x0003fc3a(261178) : The Grey Wardens remain in high spirits. They seem proud of this opportunity to redeem their name in good faith, and losses so far have been light. It is an honor to fight beside them.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fc97"
 msgid ""
 "{string}261172{/string}\n"
@@ -13401,6 +13572,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc34(261172) : Inquisitor,  Sister Leliana's advice was excellent. Her scouts located a mining operation Marquise Bouffon had started in secret, which must have freed the darkspawn from beneath the earth. When discovered, the marquise sent mercenaries to attack, but the Grey Wardens were well prepared and easily cut down all resistance. Marquise Bouffon has fled into the Gamordan Peaks. 
 #.     0x0003fc39(261177) : The Grey Wardens have taken losses, but their morale remains high, and their loyalty to the Inquisition is undisputed.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fc9c"
 msgid ""
 "{string}261172{/string}\n"
@@ -13414,6 +13586,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc34(261172) : Inquisitor,  Sister Leliana's advice was excellent. Her scouts located a mining operation Marquise Bouffon had started in secret, which must have freed the darkspawn from beneath the earth. When discovered, the marquise sent mercenaries to attack, but the Grey Wardens were well prepared and easily cut down all resistance. Marquise Bouffon has fled into the Gamordan Peaks. 
 #.     0x0003fc3b(261179) : The Grey Wardens continue to fight bravely, but they have suffered many losses. I recommend deploying them with care, lest we lose them entirely.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fc9d"
 msgid ""
 "{string}261172{/string}\n"
@@ -13427,6 +13600,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc34(261172) : Inquisitor,  Sister Leliana's advice was excellent. Her scouts located a mining operation Marquise Bouffon had started in secret, which must have freed the darkspawn from beneath the earth. When discovered, the marquise sent mercenaries to attack, but the Grey Wardens were well prepared and easily cut down all resistance. Marquise Bouffon has fled into the Gamordan Peaks. 
 #.     0x0003fc37(261175) : I regret to inform you that after recent actions, the Grey Wardens have suffered too many losses to be of any further assistance. The last warriors died fighting for the Inquisition in good faith. I have sent their personal effects to Weisshaupt.  Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fc9a"
 msgid ""
 "{string}261172{/string}\n"
@@ -13440,6 +13614,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc38(261176) : Inquisitor,  Ambassador Montilyet's advice was sound. We discovered that Marquise Effiloche Bouffon has been mining the area illegally, which freed the darkspawn from beneath the earth. When discovered, the marquise attacked us with mercenaries. The Grey Wardens fought off the ambush. Marquise Bouffon has fled into the Gamordan Peaks. 
 #.     0x0003fc3a(261178) : The Grey Wardens remain in high spirits. They seem proud of this opportunity to redeem their name in good faith, and losses so far have been light. It is an honor to fight beside them.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fc94"
 msgid ""
 "{string}261176{/string}\n"
@@ -13453,6 +13628,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc38(261176) : Inquisitor,  Ambassador Montilyet's advice was sound. We discovered that Marquise Effiloche Bouffon has been mining the area illegally, which freed the darkspawn from beneath the earth. When discovered, the marquise attacked us with mercenaries. The Grey Wardens fought off the ambush. Marquise Bouffon has fled into the Gamordan Peaks. 
 #.     0x0003fc39(261177) : The Grey Wardens have taken losses, but their morale remains high, and their loyalty to the Inquisition is undisputed.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fc9b"
 msgid ""
 "{string}261176{/string}\n"
@@ -13466,6 +13642,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc38(261176) : Inquisitor,  Ambassador Montilyet's advice was sound. We discovered that Marquise Effiloche Bouffon has been mining the area illegally, which freed the darkspawn from beneath the earth. When discovered, the marquise attacked us with mercenaries. The Grey Wardens fought off the ambush. Marquise Bouffon has fled into the Gamordan Peaks. 
 #.     0x0003fc3b(261179) : The Grey Wardens continue to fight bravely, but they have suffered many losses. I recommend deploying them with care, lest we lose them entirely.  Yours, Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fc93"
 msgid ""
 "{string}261176{/string}\n"
@@ -13479,6 +13656,7 @@ msgstr ""
 #. STRINGS :
 #.     0x0003fc38(261176) : Inquisitor,  Ambassador Montilyet's advice was sound. We discovered that Marquise Effiloche Bouffon has been mining the area illegally, which freed the darkspawn from beneath the earth. When discovered, the marquise attacked us with mercenaries. The Grey Wardens fought off the ambush. Marquise Bouffon has fled into the Gamordan Peaks. 
 #.     0x0003fc37(261175) : I regret to inform you that after recent actions, the Grey Wardens have suffered too many losses to be of any further assistance. The last warriors died fighting for the Inquisition in good faith. I have sent their personal effects to Weisshaupt.  Lieutenant Suzanne Cloche-sec
+#, fuzzy
 msgctxt "0x0003fc98"
 msgid ""
 "{string}261176{/string}\n"
@@ -13526,6 +13704,7 @@ msgstr "폭풍 해안"
 
 #. EBX = DA3/designcontent/Operations/StormCoast/storm_ops_dungeon
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000407d1"
 msgid ""
 "Reports indicate that red templars have taken over an old dwarven port on "
@@ -13542,6 +13721,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/StormCoast/storm_ops_dungeon
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000407d4"
 msgid ""
 "Commander, \n"
@@ -13561,6 +13741,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/StormCoast/storm_ops_dungeon
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000407d6"
 msgid ""
 "Our agents have acquired access to the red templars' foothold on the Storm "
@@ -13627,6 +13808,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/GreyWardens/ops_grey_wardens_1
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fbf4"
 msgid ""
 "Inquisitor, \n"
@@ -13783,6 +13965,7 @@ msgstr "재판: 루스 경의 선행"
 
 #. EBX = DA3/designcontent/Operations/Global/Judgments/gen_ops_judgments_warden_02
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040904"
 msgid ""
 "The Grey Warden Ser Ruth appears to have taken your forgiveness to heart and "
@@ -13809,6 +13992,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Judgments/gen_ops_judgments_warden_02
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004091f"
 msgid ""
 "Ser Ruth was sighted in a number of communities at the borders of our "
@@ -13825,6 +14009,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Judgments/gen_ops_judgments_warden_02
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00040920"
 msgid ""
 "Ser Ruth took our rebuke to heart and has not pursued her self-destructive "
@@ -14494,6 +14679,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/belles_of_hunter_fell_3
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x00040309"
 msgid "With Iron Bull exiled, this operation is no longer available."
 msgstr "아이언 불이 추방되어, 이 작전은 더 이상 불가능하다."
@@ -14556,6 +14742,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/DalishPlayerClan/wycome2
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000400c6"
 msgid ""
 "Ambassador Montilyet,\n"
@@ -14584,6 +14771,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/DalishPlayerClan/wycome2
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000400c3"
 msgid ""
 "Nightingale,\n"
@@ -14619,6 +14807,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/DalishPlayerClan/wycome2
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x000400c4"
 msgid ""
 "Commander Cullen,\n"
@@ -14722,6 +14911,7 @@ msgstr ""
 #. PATH = OperationEntry/TextEntry[1]
 #. USED IN :
 #.     0x00041d60(269664) : {string}269625{/string}
+#, fuzzy
 msgctxt "0x00041d39"
 msgid "The creature has arrived. It is just as unnerving as expected."
 msgstr "그 생물이 도착했습니다. 예상은 했지만 역시나 오싹하군요."
@@ -14853,6 +15043,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_04
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fe81"
 msgid ""
 "A simple bargain, and we risked none of our holdings. Lord Presmond-Als was "
@@ -14979,6 +15170,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/WesternApproach/WesternApproachKeep/wes_keep_morale
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0003ffb0"
 msgid ""
 "Commander,\n"
@@ -15065,6 +15257,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Dorian/dor_approval_plot_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00041e4f"
 msgid ""
 "Dorian's leads were effective. The Inquisition found several locations where "
@@ -15229,6 +15422,7 @@ msgstr "아바르 혼혈종"
 #.     0x0004211e(270622) : {string}269637{/string}
 #.     0x00042120(270624) : {string}269637{/string}
 #.     0x00042124(270628) : {string}269637{/string}
+#, fuzzy
 msgctxt "0x00041d45"
 msgid ""
 "We've received word of an unusual grant. A unique mount, fit for the "
@@ -15257,6 +15451,7 @@ msgstr ""
 #.     0x0004211f(270623) : {string}269639{/string}
 #.     0x00042122(270626) : {string}269639{/string}
 #.     0x00042125(270629) : {string}269639{/string}
+#, fuzzy
 msgctxt "0x00041d47"
 msgid ""
 "Our people have returned with your new mount. It will be available when next "
@@ -15358,6 +15553,7 @@ msgstr "콜을 위한 부적을 얻어라"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Cole/cole_personal_plot_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003dd3c"
 msgid ""
 "Regardless of whether Cole is a demon or a spirit, he remains vulnerable to "
@@ -15493,6 +15689,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crows/gen_ops_crows_proceed
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00040183"
 msgid ""
 "The body of Lord Enzo of Rialto was returned to his family in Antiva for "
@@ -15561,6 +15758,7 @@ msgstr "유황 구덩이 건너기"
 
 #. EBX = DA3/DesignContent/Operations/WesternApproach/WesternApproachArea/wes_area_sulphur_pits
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0001c1d3"
 msgid ""
 "Commander,\n"
@@ -15772,6 +15970,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/DalishPlayerClan/wycome1
 #. PATH = OperationEntry/TextEntry[4]
+#, fuzzy
 msgctxt "0x000400bb"
 msgid ""
 "Da'len,\n"
@@ -15836,6 +16035,7 @@ msgstr "베나토리 동맹과 협상"
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_redcliffe_bonus
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003fdf8"
 msgid ""
 "Inquisitor,\n"
@@ -15869,6 +16069,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_redcliffe_bonus
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fdfa"
 msgid ""
 "The Inquisition passed information to the Fereldan throne. Arl Wulff was "
@@ -15883,6 +16084,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_redcliffe_bonus
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fdf4"
 msgid ""
 "We have begun passing information to Wulff, so that he might share it with "
@@ -15899,6 +16101,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_redcliffe_bonus
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0003fdf5"
 msgid ""
 "Arl Wulff made it clear that he had no idea what the Venatori intended. He "
@@ -16389,6 +16592,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/OrlesianNobles/gen_ops_orlais_noble2
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004088c"
 msgid ""
 "Commander,\n"
@@ -16435,6 +16639,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/OrlesianNobles/gen_ops_orlais_noble2
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0004088d"
 msgid ""
 "Nightingale,\n"
@@ -16486,6 +16691,7 @@ msgstr "고대 실험실 조사"
 
 #. EBX = DA3/DesignContent/Operations/WesternApproach/WesternApproachArea/wes_area_labs
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0001c1cb"
 msgid ""
 "Nightingale,\n"
@@ -16506,6 +16712,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/WesternApproach/WesternApproachArea/wes_area_labs
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0001c1ce"
 msgid ""
 "Ambassador,\n"
@@ -16566,6 +16773,7 @@ msgstr "신뢰"
 
 #. EBX = DA3/DesignContent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_knight_enchanter
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0004087c"
 msgid ""
 "Inquisitor,\n"
@@ -16606,6 +16814,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_knight_enchanter
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000408e0"
 msgid ""
 "Inquisitor,\n"
@@ -16623,6 +16832,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_knight_enchanter
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000408df"
 msgid ""
 "Sister Leliana, \n"
@@ -16688,6 +16898,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/WorldUnlocks/wld_region_desertruins
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fd5b"
 msgid ""
 "The Venatori are camped in a place known as the Hissing Wastes. They're "
@@ -16879,6 +17090,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Mounts/ops_mounts_activation_red_hart
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00041d40"
 msgid ""
 "The red hart has arrived, and it can only be described as inspirational."
@@ -16949,6 +17161,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Ferelden/gen_teagan_op2
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040b86"
 msgid ""
 "Commander Cullen,\n"
@@ -16991,8 +17204,8 @@ msgid ""
 "Your ally,\n"
 "Fairbanks"
 msgstr ""
-"당신과 심문회 지원군의 도움 덕분에 군대가 데일스로 돌아가고 있네. 자유인들은 주둔지와 귀족들의 집에서 훔친 모든 귀중품을 뒤로한 채 "
-"떠나고 있어. 아마도 심문회는 우리가 되찾은 것들에 대한 계획이 있을 것 같은데?\n"
+"당신과 심문회 지원군의 도움 덕에 데일스 지방에 질서가 회복되고 있습니다. 자유인 놈들이 여길 떠나면서, 자기네 주둔지와 이곳 귀족들의 "
+"집에서 훔친 온갖 귀중품들을 남겨뒀더군요. 심문회라면 저희가 발견한 것들에 대해 계획이 있을 것 같습니다만?\n"
 "\n"
 "당신의 동맹,\n"
 "페어뱅스"
@@ -17006,9 +17219,9 @@ msgid ""
 "Everything we've found has been turned over to the Inquisition, for your use "
 "as you see fit. Thank you again, Inquisitor."
 msgstr ""
-"<i>페어뱅스로부터의 전언:</i>\n"
+"<i>페어뱅스의 전언:</i>\n"
 "\n"
-"우리가 회수한 모든 것은 심문회로 넘겼소. 적합하다고 생각되는 쪽으로 사용하길. 다시 한번 고맙네, 심문관."
+"알맞은 곳에 쓰실 수 있도록, 저희가 발견한 모든 걸 심문회에 넘겼습니다. 다시 한 번 감사드립니다, 심문관."
 
 #. EBX = DA3/designcontent/Operations/TheDales/Forest/Fairbanks/dal_fairbanks_agent_ops_brigand_1
 #. PATH = OperationEntry/Specialist[0]/SpecialistMissionInfo/OperationTextReference
@@ -17096,6 +17309,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Sera/ops_sera_red_jenny_04
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040066"
 msgid ""
 "How fascinating to receive help through seemingly random means. So it seems "
@@ -17106,6 +17320,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Sera/ops_sera_red_jenny_04
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000402ba"
 msgid ""
 "I believe we are now in the favor of a Red Jenny in the city of "
@@ -17309,6 +17524,7 @@ msgstr "두 파라켓의 후원자를 찾아라"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Josephine/Josephine_mainquest_favor1
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0001f556"
 msgid ""
 "Making the Du Paraquettes nobility is the key to stopping the assassination "
@@ -17387,6 +17603,7 @@ msgstr "와이컴의 엘프 학살을 저지하라"
 
 #. EBX = DA3/DesignContent/Operations/Global/DalishPlayerClan/wycome4
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000400d9"
 msgid ""
 "Da'len,\n"
@@ -17419,6 +17636,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/DalishPlayerClan/wycome4
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000400db"
 msgid ""
 "Commander Cullen,\n"
@@ -17454,6 +17672,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/DalishPlayerClan/wycome4
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000400da"
 msgid ""
 "Nightingale,\n"
@@ -17553,6 +17772,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/bog_repeatable_op_collect
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040266"
 msgid "The shipment of resources from the Fallow Mire has arrived."
 msgstr "고요한 늪지에서 자원 수송품이 도착했다."
@@ -17583,6 +17803,7 @@ msgstr "베나토리로부터 발 코린을 구하라"
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/SeekerFortress/See_ops_barris_01
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040297"
 msgid ""
 "Venatori and their servants are attacking Val Colline, hoping to raid its "
@@ -17681,6 +17902,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/WorldUnlocks/wld_region_dalesforest
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00035d73"
 msgid ""
 "Lead Scout Harding made contact with Fairbanks and his men in the Emerald "
@@ -17724,6 +17946,7 @@ msgstr "마법사 대학"
 
 #. EBX = DA3/designcontent/Operations/Orlais/Nevarra/nevarra_plot2_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040a09"
 msgid ""
 "A situation is unfolding in the Nevarran city of Cumberland, location of the "
@@ -17742,6 +17965,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/Nevarra/nevarra_plot2_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040a0b"
 msgid ""
 "The presence of Inquisition forces in the College of Magi provoked an angry "
@@ -17763,6 +17987,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/Nevarra/nevarra_plot2_op
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00040a0a"
 msgid ""
 "It took the exchange of several favors, but Duke Sandral eventually agreed "
@@ -17864,6 +18089,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/KillCollection/dragonkills_op_1
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004050b"
 msgid ""
 "Our able-bodied workmen have mounted the head in a conspicuous location. "
@@ -17879,6 +18105,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/KillCollection/dragonkills_op_1
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0004050c"
 msgid ""
 "Such sheen to her scales! A beauty, indeed! Your gift will allow my "
@@ -18061,6 +18288,7 @@ msgstr "도로 개통"
 
 #. EBX = DA3/DesignContent/Operations/Global/SkyholdPeople/gen_skyhold_merchant_traveling
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040a5d"
 msgid ""
 "While the Inquisition has done much to remove threats from the roads of "
@@ -18077,6 +18305,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/SkyholdPeople/gen_skyhold_merchant_traveling
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040a57"
 msgid ""
 "Efforts have proven quite profitable. Trade is flowing as in peacetime. "
@@ -18238,6 +18467,7 @@ msgstr "교육"
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_rift_mage
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040880"
 msgid ""
 "The Mages' Collective sent me a letter—they're very organized. It was they "
@@ -18261,6 +18491,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_rift_mage
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004089a"
 msgid ""
 "Some members of the Mages' Collective arrived earlier this week. My progress "
@@ -18279,6 +18510,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_rift_mage
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000408ac"
 msgid ""
 "I sent my notes to the Mages' Collective. Things must be progressing well—I "
@@ -18294,6 +18526,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_rift_mage
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x00040899"
 msgid ""
 "If I only have one student, I probably have the best one. That's good.\n"
@@ -18765,6 +18998,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Specialists/gen_ops_forces_mission_bonus_2
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040be2"
 msgid ""
 "Inquisitor {spHeroLastName},\n"
@@ -18812,6 +19046,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Specialists/gen_ops_forces_mission_bonus_2
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x00040be0"
 msgid ""
 "Inquisitor {spHeroLastName},\n"
@@ -18871,6 +19106,7 @@ msgstr "내륙지역은 엘프뿌리와 마노의 산지로 유명하다. 야영
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/fer_repeatable_op_collect
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040263"
 msgid "Our shipment of resources from the Hinterlands has arrived."
 msgstr "내륙지역에서 자원 수송품이 도착했다."
@@ -18960,6 +19196,7 @@ msgstr "안드라스테의 비밀"
 
 #. EBX = DA3/DesignContent/Operations/Global/Haven/gen_haven_op_2
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040883"
 msgid ""
 "The runes discovered in the mountain passage during the recent search are of "
@@ -19059,6 +19296,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/CritPathReactivity/Redcliffe/gen_ops_red_mage_surrender_1
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fe6a"
 msgid ""
 "Commander,\n"
@@ -19078,6 +19316,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/CritPathReactivity/Redcliffe/gen_ops_red_mage_surrender_1
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fe6b"
 msgid ""
 "Commander,\n"
@@ -19147,6 +19386,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Varric/gen_ops_varric1
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004041a"
 msgid ""
 "My dear Leliana,\n"
@@ -19168,6 +19408,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Varric/gen_ops_varric1
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00040419"
 msgid ""
 "My dear Josephine,\n"
@@ -19479,6 +19720,7 @@ msgstr "어떤 주군이라도 섬길 수 있도록"
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_crestwood_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0004052c"
 msgid ""
 "Inquisitor,\n"
@@ -19542,6 +19784,7 @@ msgstr "서리등선을 통과하는 경로 확보"
 
 #. EBX = DA3/designcontent/Operations/TheBog/Bog_ops_secure_mountain_route
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000402ae"
 msgid ""
 "Inquisitor:\n"
@@ -19670,6 +19913,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/TheCrew/gen_chain_the_crew_06
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fea6"
 msgid ""
 "Another delivery from the travels of Sutherland's company. The group may not "
@@ -19872,6 +20116,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/gen_region_dagna_misc_dark
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040a45"
 msgid ""
 "On the matter of the Imperial templars hunting Dagna, our soldiers "
@@ -20138,6 +20383,7 @@ msgstr "흉물 혐의를 받고 있는 남성에 대한 조사"
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/SeekerFortress/See_ops_barris_03
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000402a4"
 msgid ""
 "A young man in the city of Jader has been accused of being an abomination. "
@@ -20178,6 +20424,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/SeekerFortress/See_ops_barris_03
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000402a7"
 msgid ""
 "Inquisitor,\n"
@@ -20364,6 +20611,7 @@ msgstr "약초 모으기"
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_repeatable_herbs_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000403f2"
 msgid ""
 "With Caer Bronach now occupied, the Inquisition has access to the fertile "
@@ -20420,6 +20668,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_repeatable_herbs_op
 #. PATH = OperationEntry/TextEntry[4]
+#, fuzzy
 msgctxt "0x000403ed"
 msgid ""
 "Unfortunately, while I was able to find any number of merchants willing to "
@@ -20495,6 +20744,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Nemesis/Calpernia/sec_nem_FindRuins
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000171ff"
 msgid ""
 "Inquisitor! \n"
@@ -20801,6 +21051,7 @@ msgstr "사르니아 채석장 조사"
 
 #. EBX = DA3/DesignContent/Operations/Global/Nemesis/Samson/for_nem_LyriumMine
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00017207"
 msgid ""
 "Sahrnia Quarry has been liberated from the red templars. Send people to "
@@ -20809,6 +21060,7 @@ msgstr "붉은 성기사가 점거했던 사르니아 채석장이 해방됐다.
 
 #. EBX = DA3/DesignContent/Operations/Global/Nemesis/Samson/for_nem_LyriumMine
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00017206"
 msgid ""
 "Inquisitor:\n"
@@ -20842,6 +21094,7 @@ msgstr "테린팔 보루 조사"
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_therinfal
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003fdbc"
 msgid ""
 "The templars at Therinfal Redoubt went quiet while the Inquisition dealt "
@@ -20856,6 +21109,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_therinfal
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fdce"
 msgid ""
 "Therinfal Redoubt seems quiet now, and there's a chance something there "
@@ -20871,6 +21125,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_therinfal
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fdcf"
 msgid ""
 "We scouted the area with limited success. There are signs that a large force "
@@ -20887,6 +21142,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_therinfal
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0003fdd3"
 msgid ""
 "Thanks to the distraction provided by Inquisition scouts, the Chargers were "
@@ -20995,6 +21251,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/gen_region_dagna
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0002b327"
 msgid ""
 "The arcanist has been secured, despite great cost and the concern of more "
@@ -21034,6 +21291,7 @@ msgstr "애도를 위해 할라를 바치다"
 
 #. EBX = DA3/designcontent/Operations/TheDales/Plains/dal_dalish_gift_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003ff0f"
 msgid ""
 "Inquisitor,\n"
@@ -21064,6 +21322,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/TheDales/Plains/dal_dalish_gift_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003ff0e"
 msgid ""
 "Inquisitor,\n"
@@ -21087,6 +21346,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/TheDales/Plains/dal_dalish_gift_op
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003ff10"
 msgid ""
 "Sister Leliana,\n"
@@ -21145,6 +21405,7 @@ msgstr "몽포트의 기록 보관소"
 
 #. EBX = DA3/designcontent/Operations/Orlais/Chantry/chantry_main5_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040829"
 msgid ""
 "A Chantry archive exists outside the city of Montfort, in the lower chambers "
@@ -21194,6 +21455,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/Chantry/chantry_main5_op
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x00040825"
 msgid ""
 "My agents moved everything of importance from the abbey to a safehouse in "
@@ -21468,6 +21730,7 @@ msgstr "하지 말라고 말했잖아요. 내 친구들이 구출되기 전까�
 #.     0x00040eda(265946) : Inquisitor,  Evangeline and I owe you our freedom, and indeed our very lives.  I am greatly saddened to hear what happened at the Conclave. I had truly hoped for a peaceful end to this conflict, and the death of so many good people is a tragedy. Our own investigation took us to renegade templars using a strange new red form of lyrium. I am chagrined that they were powerful enough to subdue us, although your agents tell us that these red templars serve as shock troops for the enemy, who has had both mages and templars dancing to his tune.  Evangeline and I need to recover from our wounds, and our presence at Skyhold will only cause tension with the rebel mages you brought into the Inquisition. Once we are healed, we would be honored to serve.  Yours, Rhys, Senior Enchanter (Aequitarians)
 #.     0x000449a2(280994) : <i>There is a note below, presumably added by Cole.</i>
 #.     0x000449a0(280992) : I asked you not to do this. I was upset until it saved them. This is good.
+#, fuzzy
 msgctxt "0x000449a3"
 msgid ""
 "{string}265946{/string}\n"
@@ -21486,6 +21749,7 @@ msgstr ""
 #.     0x00040edb(265947) : Inquisitor,  Rhys and I owe you both our freedom and our lives.  I once wished that Rhys and I had been able to attend the Conclave, in hopes that our voices might lead to a peaceful resolution to this mad war. After hearing about the destruction of the Temple of Sacred Ashes, though, we might only have died with the rest.  The templars I tracked, and subsequently fell to, were using a strange red form of lyrium I had never previously encountered. The Inquisition troops who rescued us tell us that you found the same lyrium at Therinfal Redoubt and saved the templars from corruption. For this, I thank you. While I left the templars as an organization, I always believed in the ideals for which they stood. I hope that they serve you well against this Corypheus.  Rhys and I must recover from our wounds, and our presence at Skyhold will only cause tension with the templars, many of whom still see me as a traitor. Nevertheless, once we are healed, we would be honored to serve the Inquisition.  Yours, Evangeline, Knight-Commander
 #.     0x000449a2(280994) : <i>There is a note below, presumably added by Cole.</i>
 #.     0x000449a0(280992) : I asked you not to do this. I was upset until it saved them. This is good.
+#, fuzzy
 msgctxt "0x000449a4"
 msgid ""
 "{string}265947{/string}\n"
@@ -21544,6 +21808,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/Chantry/chantry_main2_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000406a6"
 msgid ""
 "There was some initial ranting on the part of the grand cleric, but I think "
@@ -21562,6 +21827,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/Chantry/chantry_main2_op
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000406ac"
 msgid ""
 "I had a productive meeting with Revered Mother Anastasia, who is not seeking "
@@ -21634,6 +21900,7 @@ msgstr "발로 카스 용병들을 해방시켜라"
 
 #. EBX = DA3/DesignContent/Operations/Global/Race/gen_race_qunari_4
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003fb83"
 msgid ""
 "Commander,\n"
@@ -21655,6 +21922,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Race/gen_race_qunari_4
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fbaf"
 msgid ""
 "Adaar,\n"
@@ -21694,6 +21962,7 @@ msgstr "심문관을 위한 전문화"
 #. USED IN :
 #.     0x0003fa45(260677) : {string}260682{/string}
 #.     0x0003fa48(260680) : {string}260682{/string}
+#, fuzzy
 msgctxt "0x0003fa4a"
 msgid ""
 "I can ensure instruction for the legions who want to join, but can we expect "
@@ -21764,6 +22033,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/WesternApproach/ValGamord/darkspawn_no_wardens_3
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000402d5"
 msgid ""
 "Sister Leliana,\n"
@@ -21924,6 +22194,7 @@ msgstr ""
 #. USED IN :
 #.     0x00042068(270440) : {string}161118{/string}  <i>Hastily scrawled below:</i>  Josephine,  The Venatori seek these shards as well. I want to know where they lead. We need access to this auction.   Leliana
 #.     0x00042069(270441) : {string}161118{/string}  <i>Hastily scrawled below:</i>  Josephine,  If this ancient magic is tied to the Breach, or can offer some advantage against it, we need to know. Can you get us into that auction?  Leliana
+#, fuzzy
 msgctxt "0x0002755e"
 msgid ""
 "Sister Leliana, \n"
@@ -21984,6 +22255,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/TheDales/Plains/dal_area_gatewayfort
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00032d14"
 msgid ""
 "Pont Agur has been repaired, and the citadelle is once more accessible by "
@@ -22228,6 +22500,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Vivienne/gen_ops_viv3
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000407ea"
 msgid ""
 "My dear Josephine,\n"
@@ -22316,6 +22589,7 @@ msgstr "감시탑 건축"
 
 #. EBX = DA3/DesignContent/Operations/Ferelden/FereldenArea/fer_area_watchtowers
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0002ebc7"
 msgid ""
 "The refugees in the Hinterlands face threats from bandits, demons, apostate "
@@ -22328,6 +22602,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Ferelden/FereldenArea/fer_area_watchtowers
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0002ebcc"
 msgid ""
 "Commander Cullen,\n"
@@ -22352,6 +22627,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Ferelden/FereldenArea/fer_area_watchtowers
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fa10"
 msgid ""
 "Ambassador Montilyet,\n"
@@ -22438,6 +22714,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/duke_of_lydes_3
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000402e9"
 msgid ""
 "Ambassador Montilyet,\n"
@@ -22886,6 +23163,7 @@ msgstr "퐁샤 드 리유 돕기"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Dorian/dor_giftplot_ponchard_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00041ddc"
 msgid ""
 "The Celestine League is an exclusive organization, composed almost entirely "
@@ -22957,6 +23235,7 @@ msgstr "암라다리스 가문"
 
 #. EBX = DA3/designcontent/Operations/Tevinter/tev_corypheus_name_2
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003fca3"
 msgid ""
 "Dorian has completed his research using the Liberalum and believes he has "
@@ -22973,6 +23252,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Tevinter/tev_corypheus_name_2
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fc9f"
 msgid ""
 "We received a flurry of replies regarding the 'sale' of our findings in the "
@@ -23100,6 +23380,7 @@ msgstr "발로 카스의 사라진 용병들"
 
 #. EBX = DA3/DesignContent/Operations/Global/Race/gen_race_qunari_3
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003fb23"
 msgid ""
 "Adaar,\n"
@@ -23135,6 +23416,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Race/gen_race_qunari_3
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fb31"
 msgid ""
 "Commander,\n"
@@ -23156,6 +23438,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Race/gen_race_qunari_3
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fba4"
 msgid ""
 "Ambassador,\n"
@@ -23183,6 +23466,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Race/gen_race_qunari_3
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0003fba3"
 msgid ""
 "They're in a cave on the coast. At least a hundred fanatics, armed to the "
@@ -23230,6 +23514,7 @@ msgstr "재판: 데넘의 붉은 성기사단 순찰"
 
 #. EBX = DA3/DesignContent/Operations/Global/Judgments/Ops_judgment_Denam
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040c6b"
 msgid ""
 "Knight-Captain Denam has lead the Inquisition to a few red templar enclaves. "
@@ -23243,6 +23528,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Judgments/Ops_judgment_Denam
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040c66"
 msgid ""
 "Knight-Captain Denam was correct when he said red templars were massing by "
@@ -23327,6 +23613,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/des_ruins_repeatable_collect
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040285"
 msgid "Our shipment of resources from the Hissing Wastes has arrived."
 msgstr "칼바람 황무지에서 자원이 도착했다."
@@ -23465,6 +23752,7 @@ msgstr "라벨란 부족과 와이컴을 보호하라"
 
 #. EBX = DA3/DesignContent/Operations/Global/DalishPlayerClan/wycome7
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000400ec"
 msgid ""
 "Da'len,\n"
@@ -23603,6 +23891,7 @@ msgstr "데네림에 드리운 그림자"
 
 #. EBX = DA3/designcontent/Operations/Ferelden/fer_royal1_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000408f7"
 msgid ""
 "My {LadyLord} Inquisitor,\n"
@@ -23666,6 +23955,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Ferelden/fer_royal1_op
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000408f6"
 msgid ""
 "My {LadyLord} Inquisitor,\n"
@@ -23729,6 +24019,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Ferelden/fer_royal1_op
 #. PATH = OperationEntry/TextEntry[4]
+#, fuzzy
 msgctxt "0x000408f1"
 msgid ""
 "My {LadyLord} Inquisitor,\n"
@@ -23922,6 +24213,7 @@ msgstr "장막 강도 측정"
 
 #. EBX = DA3/DesignContent/Operations/Global/Followers/Solas/op_solas_veil
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040ebc"
 msgid ""
 "Inquisitor,\n"
@@ -24207,6 +24499,7 @@ msgstr "아다만트 요새 파괴"
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_adamant
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003fe21"
 msgid ""
 "Inquisitor,\n"
@@ -24248,6 +24541,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_adamant
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fe1f"
 msgid ""
 "The Chargers were able to tear down what was left of Adamant fortress. The "
@@ -24371,6 +24665,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crows/gen_ops_crows_zevran
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x00040181"
 msgid ""
 "We will provide Zevran with the resources he needs—without telling the "
@@ -24459,6 +24754,7 @@ msgstr "동맹: 교착 상태 관찰"
 
 #. EBX = DA3/designcontent/Operations/Global/TheWedding/gen_chain_wedding_01
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040095"
 msgid ""
 "It was to be expected. In the wake of so many important deaths and the rise "
@@ -24473,6 +24769,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/TheWedding/gen_chain_wedding_01
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000406f0"
 msgid ""
 "Despite their intent to craft a political entity to oppose us, these \"noble"
@@ -24516,6 +24813,7 @@ msgstr "해방된 노예들을 유급 노동자로 고용하라"
 
 #. EBX = DA3/designcontent/Operations/DesertRuins/ops_help_freed_slaves
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003feb0"
 msgid ""
 "The former slaves freed from the Hissing Wastes have taken shelter with the "
@@ -24573,6 +24871,7 @@ msgstr "미셸 드 셰빈을 적절한 자리에 배정하자"
 
 #. EBX = DA3/DesignContent/Operations/TheDales/Highlands/Michel/dal_michel_agent_ops_1
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003fca9"
 msgid ""
 "Michel de Chevin, Celene's disgraced champion, has joined the Inquisition. "
@@ -24584,6 +24883,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/TheDales/Highlands/Michel/dal_michel_agent_ops_1
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fe8c"
 msgid ""
 "Very good. I'll speak to Michel immediately. From what I hear, he's already "
@@ -24614,6 +24914,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/TheDales/Highlands/Michel/dal_michel_agent_ops_1
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0003fe8d"
 msgid ""
 "I am impressed by Michel's memory. He's walked the paths between the "
@@ -24668,6 +24969,7 @@ msgstr "안식의 집의 계약서를 파기하라"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Josephine/Josephine_mainquest_destroy_contract
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0001f557"
 msgid ""
 "Leliana wants to send her spies to find the contract on Josephine's life. "
@@ -24681,6 +24983,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Josephine/Josephine_mainquest_destroy_contract
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0001f656"
 msgid ""
 "Inquisitor,\n"
@@ -24730,6 +25033,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/crs_repeatable_op_collect
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004026e"
 msgid "Our shipment of resources from Crestwood has arrived."
 msgstr "크레스트우드에서 자원 수송품이 도착했다."
@@ -24822,6 +25126,7 @@ msgstr "회색 감시자의 조약 활용"
 
 #. EBX = DA3/DesignContent/Operations/Global/Followers/Blackwall/blackwall_ops_conscription_1
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003fbfa"
 msgid ""
 "The Inquisition is in its infancy. Building an organization such as this is "
@@ -24846,6 +25151,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Followers/Blackwall/blackwall_ops_conscription_1
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fc0e"
 msgid ""
 "I was correct. Spreading word that the Inquisition was allied with the Grey "
@@ -24879,6 +25185,7 @@ msgstr "재판: 당신이 어떻게 그럴 수가"
 
 #. EBX = DA3/designcontent/Operations/Global/Judgments/gen_ops_judgments_tranquil
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040a73"
 msgid ""
 "There is a protest we must attend to, Inquisitor. A group of mages has heard "
@@ -24897,6 +25204,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Judgments/gen_ops_judgments_tranquil
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040a6e"
 msgid ""
 "There is a protest we must attend to, Inquisitor. A group of mages has heard "
@@ -24915,6 +25223,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Judgments/gen_ops_judgments_tranquil
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00040a72"
 msgid ""
 "I cannot say we have peace, but we have calm. Our representatives spoke with "
@@ -24935,6 +25244,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Judgments/gen_ops_judgments_tranquil
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x00040a70"
 msgid ""
 "Word of your swift condemnation of the mage protest has been well received. "
@@ -25009,6 +25319,7 @@ msgstr "술레빈의 요람"
 #. PATH = OperationEntry/TextEntry[0]
 #. STRINGS :
 #.     0x0004203d(270397) : A pair of elves was found deceased in Emprise du Lion, victims of the region's unnatural weather. Evidence found at their camp suggests they had discovered the resting place of the Sulevin Blade, a sword from Dalish legend. The blade was lost during the Second Age, and besides being a valuable historical artifact, it's said to be a formidable weapon. The Inquisition's agents should be able to trace the elves' trail back to the blade's location.
+#, fuzzy
 msgctxt "0x0004203c"
 msgid ""
 "{string}270397{/string}\n"
@@ -25024,6 +25335,7 @@ msgstr ""
 #. PATH = OperationEntry/TextEntry[1]
 #. STRINGS :
 #.     0x0004203d(270397) : A pair of elves was found deceased in Emprise du Lion, victims of the region's unnatural weather. Evidence found at their camp suggests they had discovered the resting place of the Sulevin Blade, a sword from Dalish legend. The blade was lost during the Second Age, and besides being a valuable historical artifact, it's said to be a formidable weapon. The Inquisition's agents should be able to trace the elves' trail back to the blade's location.
+#, fuzzy
 msgctxt "0x000328a3"
 msgid ""
 "{string}270397{/string}\n"
@@ -25079,6 +25391,7 @@ msgstr ""
 #. USED IN :
 #.     0x000328a3(207011) : {string}270397{/string}  Recovering the sword could impress potential Dalish allies—particularly if we are willing to share information on it. 
 #.     0x0004203c(270396) : {string}270397{/string}  To see the sword recovered by one of their own—and used in service of the Inquisition—would no doubt inspire our Dalish allies.
+#, fuzzy
 msgctxt "0x0004203d"
 msgid ""
 "A pair of elves was found deceased in Emprise du Lion, victims of the "
@@ -25128,6 +25441,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_haven
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fe06"
 msgid ""
 "Inquisitor,\n"
@@ -25147,6 +25461,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_haven
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fe0a"
 msgid ""
 "Inquisitor,\n"
@@ -25183,6 +25498,7 @@ msgstr ""
 #.     0x0003fe39(261689) : {string}261653{/string}
 #.     0x0003fe54(261716) : {string}261653{/string}
 #.     0x0003fef2(261874) : {string}261653{/string}
+#, fuzzy
 msgctxt "0x0003fe15"
 msgid ""
 "The Bull's Chargers were called back to help in this mission. With their "
@@ -25230,6 +25546,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/Chantry/chantry_main1_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040698"
 msgid ""
 "Some Chantry clerics were openly appreciative once Inquisition soldiers "
@@ -25249,6 +25566,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/Chantry/chantry_main1_op
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00040694"
 msgid ""
 "Inquisition soldiers scuffled briefly with mercenaries hired to guard the "
@@ -25270,6 +25588,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/Chantry/chantry_main1_op
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0004068f"
 msgid ""
 "My diplomatic efforts were successful. Many clerics are appreciative of our "
@@ -25288,6 +25607,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/Chantry/chantry_main1_op
 #. PATH = OperationEntry/TextEntry[4]
+#, fuzzy
 msgctxt "0x00040697"
 msgid ""
 "Diplomacy won the day. The clerics chosen to receive aid have been most "
@@ -25308,6 +25628,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/Chantry/chantry_main1_op
 #. PATH = OperationEntry/TextEntry[5]
+#, fuzzy
 msgctxt "0x00040693"
 msgid ""
 "It is done. As expected, the clerics who spoke most loudly against us were "
@@ -25326,6 +25647,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/Chantry/chantry_main1_op
 #. PATH = OperationEntry/TextEntry[6]
+#, fuzzy
 msgctxt "0x00040690"
 msgid ""
 "It is done. I needed only a few examples, clerics who both spoke against the "
@@ -25504,6 +25826,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Crows/gen_ops_crows_extra
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004018a"
 msgid ""
 "We have heard nothing more from the Crows. No doubt they moved on to their "
@@ -25699,6 +26022,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Ferelden/fer_royal2_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004091a"
 msgid ""
 "Inquisitor,\n"
@@ -25724,6 +26048,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Ferelden/fer_royal2_op
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00040919"
 msgid ""
 "My {LadyLord} Inquisitor,\n"
@@ -25752,6 +26077,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Ferelden/fer_royal2_op
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x00040917"
 msgid ""
 "Inquisitor,\n"
@@ -25777,6 +26103,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Ferelden/fer_royal2_op
 #. PATH = OperationEntry/TextEntry[4]
+#, fuzzy
 msgctxt "0x0004091b"
 msgid ""
 "The talks between Ferelden and Orlais took place in Jader and went off more "
@@ -25793,6 +26120,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Ferelden/fer_royal2_op
 #. PATH = OperationEntry/TextEntry[5]
+#, fuzzy
 msgctxt "0x0004091c"
 msgid ""
 "The talks between Ferelden and Orlais took place in Jader, and it... was not "
@@ -25961,6 +26289,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/gen_ops_skyhold_merchant_hidden
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x00040a65"
 msgid ""
 "I am told that a dedicated blade entered the caves near Val Chevin, and the "
@@ -26115,6 +26444,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Templars/gen_templar_op_2
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fbf0"
 msgid ""
 "Commander Cullen, \n"
@@ -26136,6 +26466,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Templars/gen_templar_op_2
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fbf3"
 msgid ""
 "My lady Ambassador,\n"
@@ -26157,6 +26488,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Templars/gen_templar_op_2
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0003fbf2"
 msgid ""
 "Sister Leliana, \n"
@@ -26300,8 +26632,8 @@ msgid ""
 "rumors that he intends to begin again, he will be too busy managing that "
 "affair to poison ours."
 msgstr ""
-"도너 남작은 예전에 스탁헤이븐의 왕실과 불화를 겪은 적이 있어요. 만약 그가 그 일을 다시 시작하려 한다는 소문을 흘린다면, 그 문제를 "
-"해결하는 것만으로도 너무 바빠 우리에게 해를 끼칠 틈이 없을 거예요."
+"도너 남작은 예전에 스탁헤이븐 왕실과 불화를 겪은 적이 있죠. 그가 또 그런 조짐을 보인다는 소문을 흘린다면, 그걸 무마하느라 우리한테 "
+"해나 끼쳐댈 여유가 없어질 거예요."
 
 #. EBX = DA3/DesignContent/Operations/Global/Race/gen_race_human_2_secrets
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
@@ -26318,6 +26650,7 @@ msgstr "슬픔의 샘 연구"
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/Myt_Arcane_Skill_Op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040951"
 msgid ""
 "The Well of Sorrows was constructed in unspeakably ancient times. There may "
@@ -26330,6 +26663,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/Myt_Arcane_Skill_Op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040950"
 msgid ""
 "Inquisitor:\n"
@@ -26383,6 +26717,7 @@ msgstr "적의 이름"
 
 #. EBX = DA3/designcontent/Operations/Tevinter/tev_corypheus_name
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003fb1a"
 msgid ""
 "According to Dorian, it might be possible to discover who Corypheus once "
@@ -26418,6 +26753,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Tevinter/tev_corypheus_name
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fb1d"
 msgid ""
 "Our agent, a mage named Sidony, returned from Minrathous successful in her "
@@ -26601,6 +26937,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Race/gen_race_dwarf_3
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x0003fca6"
 msgid ""
 "Nightingale,\n"
@@ -26671,6 +27008,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/DalishPlayerClan/wycome6
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000400e6"
 msgid ""
 "Commander Cullen,\n"
@@ -26708,6 +27046,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/DalishPlayerClan/wycome6
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000400e5"
 msgid ""
 "Nightingale,\n"
@@ -26821,6 +27160,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Race/gen_race_dwarf_1
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fb53"
 msgid ""
 "Cadash,\n"
@@ -27265,6 +27605,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Templars/gen_templar_op_5
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fea9"
 msgid ""
 "Lady Dahlia's daughter did far more than sympathize with the mages' plight. "
@@ -27288,6 +27629,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Templars/gen_templar_op_5
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fcb4"
 msgid ""
 "We've discovered the source of the accusations leveled at our templars. A "
@@ -27330,6 +27672,7 @@ msgstr "결말"
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_assassin
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040908"
 msgid ""
 "There is a lady, sitting amidst the tattered splendor of her nobility. Her "
@@ -27359,6 +27702,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_assassin
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040905"
 msgid ""
 "The lady's prayers go unanswered. She is alone in a cold bed. Her kin's "
@@ -27395,6 +27739,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_assassin
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x00040909"
 msgid ""
 "The when is as crucial as the where and the how.\n"
@@ -27480,6 +27825,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/CritPathReactivity/Halamshiral/gen_ham_otp
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fdea"
 msgid ""
 "Ambassador Montilyet,\n"
@@ -27727,6 +28073,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Sera/ops_sera_red_jenny_07
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004007a"
 msgid ""
 "I sent word to several comrades. Knowing or not, the merchants behind the "
@@ -27738,6 +28085,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Sera/ops_sera_red_jenny_07
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00040632"
 msgid ""
 "Regarding the caravan we halted: the Venatori may have cult-like resolve, "
@@ -27749,6 +28097,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Sera/ops_sera_red_jenny_07
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x00040633"
 msgid ""
 "We questioned the merchants who unknowingly funded the Venatori caravan, and "
@@ -28034,6 +28383,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Orlais/duke_of_lydes_1
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000402e0"
 msgid ""
 "Commander Cullen,\n"
@@ -28144,6 +28494,7 @@ msgstr "올레이 대학"
 
 #. EBX = DA3/designcontent/Operations/Orlais/Chantry/chantry_main3_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040805"
 msgid ""
 "To the leaders of the Inquisition,\n"
@@ -28235,6 +28586,7 @@ msgstr "와이컴의 앙투안 공작 조사"
 
 #. EBX = DA3/DesignContent/Operations/Global/DalishPlayerClan/wycome3
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000400d0"
 msgid ""
 "Nightingale,\n"
@@ -28395,6 +28747,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Josephine/Josephine_mainquest_favor2
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0001f65b"
 msgid ""
 "Inquisitor:\n"
@@ -28492,6 +28845,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/WorldUnlocks/wld_region_dalesplains
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00035d62"
 msgid ""
 "We have established an outpost in the Exalted Plains. Lead Scout Harding is "
@@ -28541,6 +28895,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/TheDales/Plains/dal_area_accesstofen
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00039364"
 msgid ""
 "The passageway is clear and safe. Access to the grove restored. One hundred "
@@ -28588,6 +28943,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/CritPathReactivity/Redcliffe/gen_ops_red_mage_allies_1
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fe2d"
 msgid ""
 "Commander,\n"
@@ -28658,6 +29014,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_skyhold_tithe_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00043a07"
 msgid ""
 "I fear the faithful were unable to contribute much to the Inquisition's "
@@ -28673,6 +29030,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_skyhold_tithe_op
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00043a0a"
 msgid ""
 "The faithful reward, although many more will join if they see your continued "
@@ -28686,6 +29044,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_skyhold_tithe_op
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x00043a08"
 msgid ""
 "Investment in the cause grows with your effort and inspiration. I expect "
@@ -28699,6 +29058,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_skyhold_tithe_op
 #. PATH = OperationEntry/TextEntry[4]
+#, fuzzy
 msgctxt "0x00043a0c"
 msgid ""
 "The grace and gratitude of the masses continues to impress. They are "
@@ -28802,6 +29162,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/SeekerFortress/See_ops_barris_02
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000402a0"
 msgid ""
 "Ser Barris:\n"
@@ -29225,6 +29586,7 @@ msgstr "세로 실종자 수색"
 
 #. EBX = DA3/designcontent/Operations/Global/Serault/serault_ops_2a
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000405fe"
 msgid ""
 "We know that Justinia's visit to Serault did not contribute in any way to "
@@ -29240,6 +29602,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Serault/serault_ops_2a
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040600"
 msgid ""
 "We found the emissary in the deep woods, but not the marquis. Our man was "
@@ -29263,6 +29626,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Serault/serault_ops_2a
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00040601"
 msgid ""
 "Our scouts located a strange hut in the deep woods. Entering, they found the "
@@ -29314,6 +29678,7 @@ msgstr "재판을 위해 하늘보루로 샘슨을 호송하기"
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/Mythal/Myt_Judge_Samson_Op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000415c0"
 msgid ""
 "Inquisitor:\n"
@@ -29340,6 +29705,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/Mythal/Myt_Judge_Samson_Op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000415be"
 msgid ""
 "Inquisitor {spHeroLastName}:\n"
@@ -29388,6 +29754,7 @@ msgstr "산을 통한 추적"
 
 #. EBX = DA3/DesignContent/Operations/Global/Specialists/gen_ops_forces_mission_bonus_1
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00040bde"
 msgid ""
 "Commander,\n"
@@ -29405,6 +29772,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Specialists/gen_ops_forces_mission_bonus_1
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040bdb"
 msgid ""
 "Commander,\n"
@@ -29548,6 +29916,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Kirkwall/kirkwall_ops_annex
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00040129"
 msgid ""
 "With our help, Guard-Captain Aveline took care of Sebastian's forces. "
@@ -29563,6 +29932,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Kirkwall/kirkwall_ops_annex
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00040128"
 msgid ""
 "The prince was not pleased with our response. His campaign will move "
@@ -29681,6 +30051,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Sera/ops_sera_red_jenny_01
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fbff"
 msgid ""
 "Mischief, not malevolence. The servants involved were dismissed, and we've a "
@@ -29689,6 +30060,7 @@ msgstr "악의는 없는 단순 장난이었습니다. 이 일과 관련된 하�
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Sera/ops_sera_red_jenny_01
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fc0f"
 msgid ""
 "The papers we received from Sera's \"friends\" document a lord's sabotage of "
@@ -29728,6 +30100,7 @@ msgstr "앞으로가 기대되는 젊은 신병"
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_01
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0003fdc6"
 msgid ""
 "A note in careful handwriting from the youth who recently arrived:\n"
@@ -29752,6 +30125,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_01
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0003fdc8"
 msgid ""
 "The Sutherland lad reported back. The bandits were cleared with minor "
@@ -29765,6 +30139,7 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_01
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0003fdc9"
 msgid ""
 "The bandits we were warned about are gone. Tell the Sutherland boy thanks. "
@@ -29834,6 +30209,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Vivienne/gen_ops_viv1
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000405ac"
 msgid ""
 "Commander,\n"
@@ -29855,6 +30231,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Vivienne/gen_ops_viv1
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000405ad"
 msgid ""
 "Ambassador,\n"
@@ -29878,6 +30255,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Vivienne/gen_ops_viv1
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x000405ae"
 msgid ""
 "Nightingale,\n"
@@ -29926,6 +30304,7 @@ msgstr "샘슨 추적"
 
 #. EBX = DA3/designcontent/Operations/Global/Nemesis/Samson/for_nem_HuntingSamson
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0001720c"
 msgid ""
 "Using Maddox as a lead, Cullen has begun to hunt down anyone providing "
@@ -29938,6 +30317,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Nemesis/Samson/for_nem_HuntingSamson
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0001720e"
 msgid ""
 "Inquisitor: \n"
@@ -29976,6 +30356,7 @@ msgstr "소문을 막아라"
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/gen_ops_skyhold_minstrel
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000407f4"
 msgid ""
 "From far-off Montsimmard, a songstress comes,\n"
@@ -29994,6 +30375,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/gen_ops_skyhold_minstrel
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000407fb"
 msgid ""
 "A soldier cares not for a poet's pain.\n"
@@ -30008,6 +30390,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/gen_ops_skyhold_minstrel
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000407fa"
 msgid ""
 "The lyre's song is all too quick forgot,\n"
@@ -30022,6 +30405,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/gen_ops_skyhold_minstrel
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x000407f9"
 msgid ""
 "A dire act! A lesson learned by all!\n"
@@ -30352,6 +30736,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_templar
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000407e6"
 msgid ""
 "You understand. Now my task is truly complete.\n"
@@ -30364,6 +30749,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_templar
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000407e7"
 msgid ""
 "I will teach them. The Herald will inspire them. Pray it is enough to ease "
@@ -30416,6 +30802,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_haven_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000404b0"
 msgid ""
 "Our efforts bore fruit. A portion of the profits will be passed to you. Use "
@@ -30424,6 +30811,7 @@ msgstr "우리의 노력이 결실을 맺었네요. 수익의 일부는 당신�
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_haven_op
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x000404ad"
 msgid ""
 "Try as we might, our forces have been unable to earn more than meager coin. "
@@ -30437,6 +30825,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_haven_op
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x000404ae"
 msgid ""
 "There are evidently many nobles all too willing to disregard our offer of "
@@ -30453,6 +30842,7 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_haven_op
 #. PATH = OperationEntry/TextEntry[4]
+#, fuzzy
 msgctxt "0x000404af"
 msgid ""
 "While my agents have turned up plenty of information, none of it is of the "
@@ -30495,6 +30885,7 @@ msgstr "하늘감시자를 돌곰 요새로 보내라"
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_avvar_faction_skywatch_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00046e5b"
 msgid ""
 "Skywatcher, the Avvar healer we encountered in the Fallow Mire, is evidently "
@@ -30511,6 +30902,7 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_avvar_faction_skywatch_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00046e5c"
 msgid ""
 "Skywatcher's arrival was grounds for a feast at Stone-Bear Hold. He told "
@@ -30532,6 +30924,7 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_avvar_faction_skywatch_op
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00046e59"
 msgid ""
 "Skywatcher caused quite a stir at Stone-Bear Hold. The feats of strength and "
@@ -30842,6 +31235,7 @@ msgstr "어리석은 자들의 음모"
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_avvar_agents_conspiracyguy
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00047005"
 msgid ""
 "This Avvar trader, Helsdim Rolfsen, sent us a report claiming that \"a Plot "
@@ -30864,6 +31258,7 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_avvar_agents_conspiracyguy
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00047007"
 msgid ""
 "One of our spies arrived in Churneau to confirm Rolfsen's report. The men "
@@ -30983,6 +31378,7 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_avvar_agents_mageexile
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004700f"
 msgid ""
 "As per Commander Cullen's suggestion, only our own scholars have spoken with "
@@ -30999,6 +31395,7 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_avvar_agents_mageexile
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x0004700a"
 msgid ""
 "Dear Lady Montilyet,\n"
@@ -31074,6 +31471,7 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_avvar_faction_tyrdda_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00046e44"
 msgid ""
 "Stone-Bear Hold is extremely grateful for the relics. According to Thane Sun-"
@@ -31094,6 +31492,7 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_avvar_faction_tyrdda_op
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00046e43"
 msgid ""
 "Stone-Bear Hold is extremely grateful for the relics, and for us sharing the "
@@ -31139,6 +31538,7 @@ msgstr "아메리단의 후손들과 함께 축하하기"
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_ameridan_lie_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00046e02"
 msgid ""
 "The d'Amerides of Orlais claim descent from Inquisitor Ameridan. They are "
@@ -31150,6 +31550,7 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_ameridan_lie_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00046e00"
 msgid ""
 "We are absolutely committed to maintaining a proper relationship with the "
@@ -31168,6 +31569,7 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_ameridan_lie_op
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00046dff"
 msgid ""
 "The party was the talk of the country, Lady Montilyet. The Inquisition's "
@@ -31211,6 +31613,7 @@ msgstr "서리등선 분지 조사"
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_region_unlock_op
 #. PATH = WartableEntry/LevelNameLocalizedString
+#, fuzzy
 msgctxt "0x0004510b"
 msgid "Frostback Basin"
 msgstr "서리등선 분지"
@@ -31220,6 +31623,7 @@ msgstr "서리등선 분지"
 #. STRINGS :
 #.     0x000470c4(291012) : Minimum Suggested Level
 #.     0x000470c5(291013) : 20
+#, fuzzy
 msgctxt "0x000451ab"
 msgid ""
 "{string}291012{/string}: {string}291013{/string}\n"
@@ -31253,6 +31657,7 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_region_unlock_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000451ac"
 msgid ""
 "We've scouted the region and set up camp. Professor Kenric has the scouts "
@@ -31287,6 +31692,7 @@ msgstr "아메리단의 후손 달래기"
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_ameridan_truth_op
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00046df5"
 msgid ""
 "In light of new evidence regarding Inquisitor Ameridan's heritage, the "
@@ -31303,6 +31709,7 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_ameridan_truth_op
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00046df7"
 msgid ""
 "Clan Ghilain asked for a great deal more, but they are placated for the time "
@@ -31318,6 +31725,7 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_ameridan_truth_op
 #. PATH = OperationEntry/TextEntry[2]
+#, fuzzy
 msgctxt "0x00046df4"
 msgid ""
 "Clan Ghilain has been happy to work with the Inquisition, sending scouts to "
@@ -31333,6 +31741,7 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_ameridan_truth_op
 #. PATH = OperationEntry/TextEntry[3]
+#, fuzzy
 msgctxt "0x00046dfa"
 msgid ""
 "Clan Ghilain offers its thanks to the Inquisition. We have long argued that "
@@ -31499,6 +31908,7 @@ msgstr "{string}305810{/string}: 군단 야영지 개선"
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/dlcred_rebuild_mission_09
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0004a999"
 msgid ""
 "The Inquisition's efforts in the Deep Roads would greatly benefit from "
@@ -31511,6 +31921,7 @@ msgstr ""
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/dlcred_rebuild_mission_09
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004a998"
 msgid ""
 "Inquisition forces have built additional crafting tables, and a "
@@ -31572,6 +31983,7 @@ msgstr "{string}305810{/string}: 순수의 요새 광석 수확"
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/dlcred_rebuild_mission_13
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0004a9b3"
 msgid ""
 "A tunnel cleared by the Inquisition in the Bastion of the Pure has revealed "
@@ -31582,6 +31994,7 @@ msgstr ""
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/dlcred_rebuild_mission_13
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004a9b1"
 msgid "The expedition has returned with a bounty of mineral resources."
 msgstr "원정대가 풍부한 광물 자원을 가지고 돌아왔다."
@@ -31602,6 +32015,7 @@ msgstr "{string}305810{/string}: 헤이드룬 타이그 상층부 다리"
 
 #. EBX = DA3_dlc_red/designcontent/Operations/da3_dlc_red_rebuild_mission_01
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x000483c7"
 msgid ""
 "The Inquisition has identified a location near the entrance to Heidrun Thaig "
@@ -31614,6 +32028,7 @@ msgstr ""
 
 #. EBX = DA3_dlc_red/designcontent/Operations/da3_dlc_red_rebuild_mission_01
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x000483c9"
 msgid ""
 "The construction team has completed a bridge near the entrance to Heidrun "
@@ -31691,6 +32106,7 @@ msgstr "{string}305810{/string}: 순수의 요새 크레탈 사냥"
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/dlcred_rebuild_mission_14
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0004a9b6"
 msgid ""
 "The Inquisition has identified several cretahl dens in the caves near the "
@@ -31703,6 +32119,7 @@ msgstr ""
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/dlcred_rebuild_mission_14
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004a9b7"
 msgid ""
 "Inquisition hunters have returned with a number of quality cretahl hides, "
@@ -31725,6 +32142,7 @@ msgstr "{string}305810{/string}: 잊힌 동굴 다리 건설"
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/da3_dlc_red_rebuild_mission_06
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00049f6e"
 msgid ""
 "Inquisition scouts have identified a location in the Forgotten Caverns where "
@@ -31736,6 +32154,7 @@ msgstr ""
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/da3_dlc_red_rebuild_mission_06
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00049f6b"
 msgid ""
 "The construction team has completed a bridge in the Forgotten Caverns to "
@@ -31778,6 +32197,7 @@ msgstr "{string}305810{/string}: 가라앉은 바다 다리 건설"
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/dlcred_rebuild_mission_08
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x0004a997"
 msgid ""
 "The Inquisition has identified a location near the Buried Sea in the Bastion "
@@ -31789,6 +32209,7 @@ msgstr ""
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/dlcred_rebuild_mission_08
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x0004a993"
 msgid ""
 "The construction team has built a bridge that grants access to a rocky spire "
@@ -31814,6 +32235,7 @@ msgstr "{string}305810{/string}: 헤이드룬 타이그 중앙부 다리"
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/da3_dlc_red_rebuild_mission_02
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00049f56"
 msgid ""
 "The Inquisition has discovered an interesting artifact halfway down the "
@@ -31825,6 +32247,7 @@ msgstr ""
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/da3_dlc_red_rebuild_mission_02
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00049f55"
 msgid ""
 "The construction team has completed a bridge halfway down the ruins of "
@@ -31866,6 +32289,7 @@ msgstr "{string}305810{/string}: 순수의 요새 발굴"
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/da3_dlc_red_rebuild_mission_04
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00049f5e"
 msgid ""
 "The Inquisition has identified a location where a construction team could "
@@ -31877,6 +32301,7 @@ msgstr ""
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/da3_dlc_red_rebuild_mission_04
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00049f5d"
 msgid ""
 "The construction team has finished clearing a tunnel that will allow "
@@ -31918,6 +32343,7 @@ msgstr "{string}305810{/string}: 순수의 요새 다리 건설"
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/da3_dlc_red_rebuild_mission_05
 #. PATH = OperationEntry/TextEntry[0]
+#, fuzzy
 msgctxt "0x00049f60"
 msgid ""
 "The Inquisition has identified a location near the entrance to the Bastion "
@@ -31927,6 +32353,7 @@ msgstr "심문회가 순수의 요새 입구 근처에서 해당 지역을 정�
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/da3_dlc_red_rebuild_mission_05
 #. PATH = OperationEntry/TextEntry[1]
+#, fuzzy
 msgctxt "0x00049f62"
 msgid ""
 "The construction team has completed a bridge in the Bastion of the Pure that "
