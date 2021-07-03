@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-06-30 04:23+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-07-03 16:23+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -256,6 +256,7 @@ msgstr "균열의 표식"
 
 #. FILE = DA3/Party/General/Abilities/InquisiteAbility/party_general_inquisitorammo_abilitydata
 #. PATH = BWAoEAbility/AbilityDescriptionReference
+#, fuzzy
 msgctxt "0x000448fd"
 msgid ""
 "You have gained Mark of the Rift, a focus-based ability.\n"
@@ -9589,6 +9590,7 @@ msgstr ""
 
 #. FILE = DA3/Party/mage/Staff/BurstLightning/party_mage_staff_burst_lightning2_abilitydata
 #. PATH = BWAoEAbility/AbilityNameReference
+#, fuzzy
 msgctxt "0x00026f30"
 msgid "Lightning Bolt"
 msgstr "벼락"
@@ -11688,6 +11690,7 @@ msgstr ""
 
 #. FILE = da3/Party/Archived/Rogue/General/PartyStealth/party_rogue_general_partystealth_ring_upgrade_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
+#, fuzzy
 msgctxt "0x000426e3"
 msgid "Increased ability duration by 30%"
 msgstr "기술 지속시간 30% 증가"
