@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-03 15:23+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2021-07-05 14:23+0000\n"
+"Last-Translator: 명란밥 <roddl72000@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/codex/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -695,10 +695,9 @@ msgstr "낡은 풍차"
 
 #. EBX = DA3/designcontent/Codex/Plot/TheBog/the_bog_landmark_tower
 #. PATH = CodexEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00042a09"
 msgid "{i}This sturdy windmill appears old but well-kept.{/i}"
-msgstr "{i}이 튼튼한 풍차는 오래됐지만 잘 관리된 듯하다.{/i}"
+msgstr "{b}이 튼튼한 풍차는 오래됐지만 잘 관리된 듯하다.{/b}"
 
 #. EBX = DA3/designcontent/Codex/Plot/Global/Astrarium/cod_lor_astrarium_05
 #. PATH = CodexEntry/TitleReference
@@ -982,7 +981,6 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00042f49"
 msgid ""
 "{blank}\n"
@@ -992,12 +990,11 @@ msgid ""
 msgstr ""
 "{blank}\n"
 "\n"
-"{i}(아래로는 세라가 남긴 짤막한 의견들과 일지 내용이 이어진다. 그리고 세라와 {spHeroName} {spHeroLastName}, "
-"둘이 함께 혓바닥을 내밀고 웃고 있는 낙서도 그려져 있다.){/i}"
+"{b}(아래로는 세라가 남긴 짤막한 의견들과 일지 내용이 이어진다. 그리고 세라와 {spHeroName} {spHeroLastName}, "
+"둘이 함께 혓바닥을 내밀고 웃고 있는 낙서도 그려져 있다.){/b}"
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[2]
-#, fuzzy
 msgctxt "0x00042f4b"
 msgid ""
 "{blank}\n"
@@ -1007,7 +1004,7 @@ msgid ""
 msgstr ""
 "{blank}\n"
 "\n"
-"{i}(아래로는 세라가 남긴 짤막한 의견들과 일지 내용이 이어진다. 세라가 혓바닥을 내밀고 있는 낙서도 그려져 있다.){/i}"
+"{b}(아래로는 세라가 남긴 짤막한 의견들과 일지 내용이 이어진다. 세라가 혓바닥을 내밀고 있는 낙서도 그려져 있다.){/b}"
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[3]
@@ -1024,7 +1021,6 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[4]
-#, fuzzy
 msgctxt "0x00042f5b"
 msgid ""
 "{blank}\n"
@@ -1033,11 +1029,10 @@ msgid ""
 msgstr ""
 "{blank}\n"
 "\n"
-"{i}(개인적인 내용 일부는 완전히 찢겨나갔다.){/i}"
+"{b}(개인적인 내용 일부는 완전히 찢겨나갔다.){/b}"
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[5]
-#, fuzzy
 msgctxt "0x00042f4a"
 msgid ""
 "{blank}\n"
@@ -1060,19 +1055,18 @@ msgstr ""
 "물건들:\n"
 "\n"
 "- 현수막. 동그란 거. 부드러움.\n"
-"- 도마뱀. {i}(취소선이 그어져 있다){/i}. 거칠거칠하고 이상함.\n"
+"- 도마뱀. {b}(취소선이 그어져 있다){/b}. 거칠거칠하고 이상함.\n"
 "- 할라. 가짜로. 진짜는 완전 냄새남.\n"
 "- 카드. 작은 세상.\n"
 "- 술잔. 멋진 컵.\n"
 "- 컵. 구린 술잔.\n"
 "- 술 한 병. 감시자. 독함.\n"
 "- 술 한 병. 테빈터. 완전 밍밍함.\n"
-"- 멍청한 검. {i}(작은 핏자국이 있다.){/i}\n"
+"- 멍청한 검. {b}(작은 핏자국이 있다.){/b}\n"
 "- 실크. 깃. 화살깃 말고. 부드러운 거! 뭔가 만들자!"
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[6]
-#, fuzzy
 msgctxt "0x00042f53"
 msgid ""
 "{blank}\n"
@@ -1082,9 +1076,9 @@ msgid ""
 "- Silk comes out of a worm's arse! Yuck!"
 msgstr ""
 "{blank}\n"
-"- 걔를 위해서 실크를 쓰자! 속옷 {i}(지워져 있다){/i}. 젖에 두르는 거{i}(지워져 있다){/i}. 스카프 {/i}(지워져 "
-"있다){/i}.\n"
-"- 실크는 그지 같아. 바느질하는 법 책에서 찾아보기. {/i}(지워져 있다){/i}\n"
+"- 걔를 위해서 실크를 쓰자! 속옷 {b}(지워져 있다){/b}. 젖에 두르는 거{b}(지워져 있다){/b}. 스카프 {b}(지워져 "
+"있다){/b}.\n"
+"- 실크는 그지 같아. 바느질하는 법 책에서 찾아보기. {b}(지워져 있다){/b}\n"
 "- 실크가 애벌레 똥구멍에서 나온대! 우웩!"
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
@@ -1100,7 +1094,6 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[8]
-#, fuzzy
 msgctxt "0x00042f51"
 msgid ""
 "{blank}\n"
@@ -1118,7 +1111,7 @@ msgstr ""
 "- 그 남자의 가면. 얼굴이 꽉 참.\n"
 "- 들롱세 걔네가 입던 코르셋 레이스. 싹둑! 휙휙! \n"
 "\n"
-"{i}(눈을 휘둥그레 뜨고 희한한 콧수염이 난 사람 얼굴 그림이—이거 얼굴이 아니잖아!){/i}\n"
+"{b}(눈을 휘둥그레 뜨고 희한한 콧수염이 난 사람 얼굴 그림이—이거 얼굴이 아니잖아!){/b}\n"
 "\n"
 "{blank}"
 
@@ -1135,7 +1128,6 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[10]
-#, fuzzy
 msgctxt "0x00042f66"
 msgid ""
 "{blank}\n"
@@ -1149,13 +1141,12 @@ msgstr ""
 "{blank}\n"
 "-악보다. 그날 밤 할람에서 들은 곡이야. 춤 췄어. 걔도 춤 추고. 나랑 걔랑 춤 췄지롱.\n"
 "\n"
-"{i}(세라와 {spHeroName}, 둘이서 무도회장을 빙글빙글 도는 그림이 그려져 있다.){/i}\n"
+"{b}(세라와 {spHeroName}, 둘이서 무도회장을 빙글빙글 도는 그림이 그려져 있다.){/b}\n"
 "\n"
 "{blank}"
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[11]
-#, fuzzy
 msgctxt "0x00042f4d"
 msgid ""
 "{blank}\n"
@@ -1163,7 +1154,7 @@ msgid ""
 "- Stupid book. Didn't cry."
 msgstr ""
 "{blank}\n"
-"- 걔가 읽는 책. 뭐가 재밌다는 거야? 너어어무 길어 {i}(지워져 있다){/i}.\n"
+"- 걔가 읽는 책. 뭐가 재밌다는 거야? 너어어무 길어 {b}(지워져 있다){/b}.\n"
 "- 멍청한 책. 안 울었음."
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
@@ -1181,7 +1172,6 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[13]
-#, fuzzy
 msgctxt "0x00042f5a"
 msgid ""
 "{blank}\n"
@@ -1189,12 +1179,11 @@ msgid ""
 "giant, {spHeroName} laughing on her shoulder.){/i}"
 msgstr ""
 "{blank}\n"
-"- 책. 걔를 위해 드워프 어쩌구 배우기. 다 너무 쪼그매! {i}(거인이 된 세라의 어깨 위에서 웃고 있는 {spHeroName}의 "
-"모습이 그려져 있다.{/i}"
+"- 책. 걔를 위해 드워프 어쩌구 배우기. 다 너무 쪼그매! {b}(거인이 된 세라의 어깨 위에서 웃고 있는 {spHeroName}의 "
+"모습이 그려져 있다.{/b}"
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[14]
-#, fuzzy
 msgctxt "0x00042f57"
 msgid ""
 "{blank}\n"
@@ -1207,13 +1196,12 @@ msgstr ""
 "{blank}\n"
 "- 책. 걔를 위해 쿠나리 어쩌구 배우기. 이거 완전—우와. \n"
 "\n"
-"{i}(세라가 아랫입술을 세게 깨물고 있는 그림이 그려져 있다.){/i}\n"
+"{b}(세라가 아랫입술을 세게 깨물고 있는 그림이 그려져 있다.){/b}\n"
 "\n"
 "{blank}"
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[15]
-#, fuzzy
 msgctxt "0x00042f58"
 msgid ""
 "{blank}\n"
@@ -1221,11 +1209,10 @@ msgid ""
 "human stuff."
 msgstr ""
 "{blank}\n"
-"- 책. 걔를 위해 인간 어쩌구 배우기.{i}(지워져 있다){/i}. 모든 책이 인간 어쩌구잖아."
+"- 책. 걔를 위해 인간 어쩌구 배우기.{b}(지워져 있다){/b}. 모든 책이 인간 어쩌구잖아."
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[16]
-#, fuzzy
 msgctxt "0x00042f59"
 msgid ""
 "{blank}\n"
@@ -1233,12 +1220,11 @@ msgid ""
 "- Maybe wine?"
 msgstr ""
 "{blank}\n"
-"- 책. 걔를 위해 엘프스러운 어쩌구 읽기 {i}(지워져 있다){/i}.\n"
+"- 책. 걔를 위해 엘프스러운 어쩌구 읽기 {b}(지워져 있다){/b}.\n"
 "- 아니면 포도주?"
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[17]
-#, fuzzy
 msgctxt "0x00042f4c"
 msgid ""
 "{blank}\n"
@@ -1250,22 +1236,21 @@ msgid ""
 msgstr ""
 "{blank}\n"
 "- 걔의 머리카락 조금. 구슬이랑 같이 엮어서 팔찌 만들기!\n"
-"- 구슬 구하기 {i}(지워져 있다){/i}.\n"
-"- 책 찾기. 팔찌 엮는 법 배우기 {i}(지워져 있다){/i}.\n"
-"- 돈 주고 팔찌 엮는 거 맡기기 {i}(지워져 있다){/i}.\n"
+"- 구슬 구하기 {b}(지워져 있다){/b}.\n"
+"- 책 찾기. 팔찌 엮는 법 배우기 {b}(지워져 있다){/b}.\n"
+"- 돈 주고 팔찌 엮는 거 맡기기 {b}(지워져 있다){/b}.\n"
 "- 매일 차고 다니기."
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[18]
-#, fuzzy
 msgctxt "0x00042f52"
 msgid ""
 "{blank} {i}(scratched out){/i}\n"
 "- Forget her. Burn it. {i}(ash marks.){/i}\n"
 "- Burning hair smells like horse. Stupid horses."
 msgstr ""
-"{blank} {i}(지워져 있다){/i}\n"
-"- 걔는 잊어버리자. 태워 버려. {i}(탄 흔적.){/i}\n"
+"{blank} {b}(지워져 있다){/b}\n"
+"- 걔는 잊어버리자. 태워 버려. {b}(탄 흔적.){/b}\n"
 "- 머리카락 태우면 말 같은 냄새가 남. 멍청한 말들."
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
@@ -1281,7 +1266,6 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[20]
-#, fuzzy
 msgctxt "0x00042f73"
 msgid ""
 "{blank}\n"
@@ -1292,14 +1276,13 @@ msgid ""
 "- Drink to Andraste."
 msgstr ""
 "{blank}\n"
-"- 심문관 나리가 창조주의 전령 뭐시기가 아니래? 걔 말이 맞을지도 모르겠네{i}(지워져 있다){/i}?\n"
-"- 책 구하기. 대학교 어쩌구 {i}(지워져 있다){/i}. 지루해짐.\n"
-"- 렐리아나한테 물어보기. 환상? 질문들 {i}(지워져 있다){/i}? 새가 너무 많음.\n"
+"- 심문관 나리가 창조주의 전령 뭐시기가 아니래? 걔 말이 맞을지도 모르겠네{b}(지워져 있다){/b}?\n"
+"- 책 구하기. 대학교 어쩌구 {b}(지워져 있다){/b}. 지루해짐.\n"
+"- 렐리아나한테 물어보기. 환상? 질문들 {b}(지워져 있다){/b}? 새가 너무 많음.\n"
 "- 안드라스테에게 건배하기."
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[21]
-#, fuzzy
 msgctxt "0x00042f6f"
 msgid ""
 "{blank}\n"
@@ -1310,14 +1293,13 @@ msgid ""
 "- Drink to Andraste."
 msgstr ""
 "{blank}\n"
-"- 종교 책. 심문관은 좋아하는 거 같음. 읽어보기 {i}(지워져 있다){/i}. 재미 없음.\n"
-"- 지젤한테 설명해달라고 하기 {i}(지워져 있다){/i}. 재미 없음.\n"
-"- 정원에 앉아서 생각해보기 {i}(지워져 있다){/i}. 재미 없음.\n"
+"- 종교 책. 심문관은 좋아하는 거 같음. 읽어보기 {b}(지워져 있다){/b}. 재미 없음.\n"
+"- 지젤한테 설명해달라고 하기 {b}(지워져 있다){/b}. 재미 없음.\n"
+"- 정원에 앉아서 생각해보기 {b}(지워져 있다){/b}. 재미 없음.\n"
 "- 안드라스테에게 건배하기."
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[22]
-#, fuzzy
 msgctxt "0x00042f70"
 msgid ""
 "{blank}\n"
@@ -1325,12 +1307,11 @@ msgid ""
 "- Buy good cookies for Inquisitor {i}(scratched out){/i}."
 msgstr ""
 "{blank}\n"
-"- 심문관을 위해 맛있는 쿠키 만들기 {i}(지워져 있다){/i}.\n"
-"- 심문관을 위해 맛있는 쿠키 사오기 {i}(지워져 있다){/i}."
+"- 심문관을 위해 맛있는 쿠키 만들기 {b}(지워져 있다){/b}.\n"
+"- 심문관을 위해 맛있는 쿠키 사오기 {b}(지워져 있다){/b}."
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[23]
-#, fuzzy
 msgctxt "0x00042f74"
 msgid ""
 "{blank}\n"
@@ -1338,12 +1319,11 @@ msgid ""
 "- Hates cookies! Make something else! {i}(scratched out){/i}."
 msgstr ""
 "{blank}\n"
-"- 심문관을 위해 맛있는 쿠키 만들기 {i}(지워져 있다){/i}.\n"
-"- 쿠키는 싫다네! 다른 거 만들기! {i}(지워져 있다){/i}."
+"- 심문관을 위해 맛있는 쿠키 만들기 {b}(지워져 있다){/b}.\n"
+"- 쿠키는 싫다네! 다른 거 만들기! {b}(지워져 있다){/b}."
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
 #. PATH = CodexEntry/TextEntry[24]
-#, fuzzy
 msgctxt "0x00042f75"
 msgid ""
 "{blank}\n"
@@ -1351,7 +1331,7 @@ msgid ""
 "- Cake!"
 msgstr ""
 "{blank}\n"
-"- 파이 사오기, 던지지 말고 {i}(지워져 있다){/i}.\n"
+"- 파이 사오기, 던지지 말고 {b}(지워져 있다){/b}.\n"
 "- 케이크!"
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
@@ -6513,7 +6493,6 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Codex/Plot/TheDesertRuins/the_DesertRuins_Lorehunter_Intro
 #. PATH = CodexEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00030228"
 msgid ""
 "The inscriptions on the ruins are all in the old tongue. (Thank you, "
@@ -6530,7 +6509,7 @@ msgid ""
 "{blank}"
 msgstr ""
 "유적에 새겨진 비문은 전부 고대 언어로 쓰여 있었다. (버릇없는 손주 놈한테 고대 드워프어를 가르쳐 주셔서 감사해요, 할머니.) 비문은 "
-"\"돌과의 슬픈 이별\"에 대해 말하고 있었다. 수백 년 전 한 지도자가 여러 가문을 이끌고 타이그를 떠나와 이곳에 정착했다고 한다. "
+"\"돌과의 슬픈 이별\"에 대해 말하고 있었다. 수백 년 전, 한 지도자가 여러 가문을 이끌고 타이그를 떠나와 이곳에 정착했다고 한다. "
 "전쟁에서 도망쳐 온 걸까, 아니면 아예 전쟁이 일어나지 않도록 몸을 피해 온 걸까? 빛이 사그라들 때까지 기둥을 읽고 또 읽었지만 계속 "
 "뭔가를 놓치고 있는 느낌이 들었다.\n"
 "\n"
@@ -47661,7 +47640,7 @@ msgstr ""
 "\n"
 "다 미는 건 어떻습니까? —컬렌\n"
 "\n"
-"언덕이 있다면 없어질 때까지 때려부숴라. 정말 지휘관님다운 발상이군요. —L\n"
+"언덕이 있다면 없어질 때까지 때려부숴라. 정말 사령관님다운 발상이군요. —L\n"
 "\n"
 "병력을 동원해 절벽을 조금 깎던가 높이가 있는 뭔가를 건설하는 건 어떨까요? 작업대 같은 거요. —조세핀\n"
 "\n"
