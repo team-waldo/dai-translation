@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-03 15:24+0000\n"
+"PO-Revision-Date: 2021-07-11 11:23+0000\n"
 "Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
@@ -4135,19 +4135,19 @@ msgstr "순수한 용의 피"
 #. PATH = RecipeMaterial/DisplayName
 msgctxt "0x00027e0e"
 msgid "Fire Essence"
-msgstr "불의 정수"
+msgstr "화염 정수"
 
 #. FILE = DA3/Equipment/Crafting/Materials/recipe_material_rune_fire_essence_intense
 #. PATH = RecipeMaterial/DisplayName
 msgctxt "0x00029146"
 msgid "Intense Fire Essence"
-msgstr "강렬한 불의 정수"
+msgstr "강렬한 화염 정수"
 
 #. FILE = DA3/Equipment/Crafting/Materials/recipe_material_rune_fire_essence_pure
 #. PATH = RecipeMaterial/DisplayName
 msgctxt "0x00029148"
 msgid "Pure Fire Essence"
-msgstr "순수한 불의 정수"
+msgstr "순수한 화염 정수"
 
 #. FILE = DA3/Equipment/Crafting/Materials/recipe_material_rune_frost_essence
 #. PATH = RecipeMaterial/DisplayName
@@ -8268,8 +8268,8 @@ msgid ""
 "forces upon which they draw to coat their blades and become a force of "
 "nature on the battlefield."
 msgstr ""
-"어떻게 번개를 병에 담을 수 있는 것일까? 어떻게 화염의 정수를 사로잡아 냉기의 정수와 조화를 이루게 하는 것일까? 폭풍을 이해하면 곧 "
-"폭풍 그 자체가 될 수 있다. 이 \"연기가 담긴 병\"은 원소의 힘을 칼날에 덧씌우고 당신을 전장의 섭리로 거듭나게 만들어 줄 것이다."
+"어떻게 번개를 병에 담을 수 있는 것일까? 어떻게 화염 정수를 사로잡아 냉기 정수와 조화를 이루게 하는 것일까? 폭풍을 이해하면 곧 폭풍 "
+"그 자체가 될 수 있다. 이 \"연기가 담긴 병\"은 원소의 힘을 칼날에 덧씌우고 당신을 전장의 섭리로 거듭나게 만들어 줄 것이다."
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_Crestwood_Covered_Caravans
 #. PATH = Recipe/DisplayName
@@ -15013,7 +15013,7 @@ msgstr ""
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x000425b9"
 msgid "Mask of the Grand Duchess"
-msgstr "여대공의 가면"
+msgstr "플로리안 대공의 가면"
 
 #. FILE = DA3/Equipment/Items/Armors/Masks/equip_mask_2a
 #. PATH = EquipItemAsset/Description
@@ -15024,7 +15024,7 @@ msgid ""
 "envy of many. It has been granted to the Inquisition with the approval of "
 "the Orlesian Imperial Court."
 msgstr ""
-"샬롱의 플로리안 여대공 소유의 가면 중 하나다. 올레이에서 가장 뛰어난 명장이 제작한 아름다운 작품으로 많은 이의 시샘의 대상이 되었다. "
+"샬롱의 플로리안 대공 소유의 가면 중 하나다. 올레이에서 가장 뛰어난 명장이 제작한 아름다운 작품으로 많은 이의 시샘의 대상이 되었다. "
 "이제는 올레이 황실 궁정의 인정을 받은 심문회의 물건이 되었다."
 
 #. FILE = DA3/Equipment/Items/Armors/Masks/equip_mask_3
@@ -15114,7 +15114,7 @@ msgstr ""
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x000425bc"
 msgid "Mask of the Empress"
-msgstr "여제의 가면"
+msgstr "황제의 가면"
 
 #. FILE = DA3/Equipment/Items/Armors/Masks/equip_mask_5a
 #. PATH = EquipItemAsset/Description
@@ -15128,7 +15128,7 @@ msgid ""
 "This mask has been granted to the Inquisition with the empress's blessing, "
 "as well as the approval of the court."
 msgstr ""
-"이것은 여제 셀린 드 발몽이 사용했던 가면 중 하나로, 재능 있는 장인 칼록이 황제를 위해 만들어 바친 물건이라는 소문이 전해진다. "
+"이것은 황제 셀린 드 발몽이 사용했던 가면 중 하나로, 재능 있는 장인 칼록이 황제를 위해 만들어 바친 물건이라는 소문이 전해진다. "
 "드워프 칼록은 올레이 귀족가의 주문을 받을 때면 언제나 까다롭게 굴었으며, 줄곧 황가의 요청을 거절해 왔으나 용의 시대 9:33년 마침내 "
 "셀린에게 가면 한 벌을 지어 진상했다고 한다. 당시 칼록이 만든 가면을 받는 것은 큰 영예로 여겨졌으며, 이제 이 가면은 황제의 축복과 "
 "올레이 궁정의 호의를 함께 얻은 심문회에게 수여되었다."
@@ -23479,7 +23479,7 @@ msgid ""
 "Hunters, those Emerald Knights tasked with protecting the Dalish kingdom "
 "from maleficarum and demons."
 msgstr ""
-"할람시랄의 타나레스라는 전설의 엘프 대장장이는 한때 말레피카와 악마들로부터 데일스 왕국을 보호하는 임무를 맡은 에메랄드 기사들인, 영계 "
+"할람시랄의 타날레스라는 전설의 엘프 대장장이는 한때 말레피카와 악마들로부터 데일스 왕국을 보호하는 임무를 맡은 에메랄드 기사들인, 영계 "
 "사냥꾼들을 위해 활을 만들었다."
 
 #. FILE = DA3_DLC1/Equipment/Items/Weapons/Rogue/Bows/dlc1_equip_dlc1_bow_2
