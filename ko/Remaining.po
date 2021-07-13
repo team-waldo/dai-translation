@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-11 11:23+0000\n"
-"Last-Translator: moram <ahfkatorlf@naver.com>\n"
+"PO-Revision-Date: 2021-07-13 13:23+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -15514,14 +15514,12 @@ msgstr "전 심문관의 정찰병들이 남긴 그림의 흔적이다."
 
 #. FILE = DA3_DLC1/designcontent/Journals/System/DLC1JournalSystemCategories
 #. PATH = JournalSystemCategory[2]/TitleReference
-#, fuzzy
 msgctxt "0x000450b7"
 msgid "Frostback Basin"
 msgstr "서리등선 분지"
 
 #. FILE = DA3_DLC1/designcontent/Journals/System/DLC1JournalSystemCategories
 #. PATH = JournalSystemCategory[2]/DescriptionReference
-#, fuzzy
 msgctxt "0x000450bb"
 msgid ""
 "Throughout history, few have dared explore the Frostback Basin. Ancient "
@@ -15531,9 +15529,9 @@ msgid ""
 "and, in more recent generations, established a hold along its steep mountain "
 "cliffs."
 msgstr ""
-"역사를 통틀어 보자면, 감히 서리등선 분지를 탐험할 수 있었던 자들은 거의 없었다. 고대 테빈터 폐허는 목적이 잊힌 채로 빽빽이 우거진 "
-"숲에 뒤덮여 있었으며, 지난 몇 년간 드물게 있었던 원정대들도 큰 소득을 얻지 못했거나 아예 돌아오지 못했다. 이 중 예외가 있다면 바로 "
-"아바르족이다. 아바르는 오랜 세월 동안 분지를 여행해 왔고, 최근 세대에 이르러서는 가파른 산의 절벽을 따라 요새들을 건립했다."
+"역사를 통틀어 감히 서리등선 분지를 탐험할 수 있었던 자들은 거의 없었다. 빽빽이 우거진 숲속 고대 테빈터 폐허는 그 용도가 잊혔고, "
+"드물게 있었던 원정대들도 큰 소득을 얻지 못했거나 아예 돌아오지 못했다. 그러나 아바르족만큼은 예외였다. 그들은 오랜 세월 분지를 여행해 "
+"왔으며, 최근 세대에 이르러서는 가파른 산의 절벽을 따라 요새들을 건립했다."
 
 #. FILE = DA3_DLC_BlackEmporium/DSG_Codex
 #. PATH = GetLocalizedStringIDData/Text
@@ -16244,14 +16242,12 @@ msgstr "오우거의 손아귀에서 벗어나려면 적을 기절시키거나, 
 
 #. FILE = DA3_DLC_Red/designcontent/Journals/JournalSystem/DLC_Red_JournalSystemCategories
 #. PATH = JournalSystemCategory[1]/TitleReference
-#, fuzzy
 msgctxt "0x0004ab9e"
 msgid "Gates of Segrummar "
 msgstr "세그러마르의 관문 "
 
 #. FILE = DA3_DLC_Red/designcontent/Journals/JournalSystem/DLC_Red_JournalSystemCategories
 #. PATH = JournalSystemCategory[1]/DescriptionReference
-#, fuzzy
 msgctxt "0x0004ab9c"
 msgid ""
 "Locked away in the Deep Roads are any number of secrets. Sometimes those "
@@ -16259,20 +16255,17 @@ msgid ""
 "mysterious purpose and unspeakable complexity. Treasure and a tough fight "
 "await those with the gumption to open all Gates of Segrummar."
 msgstr ""
-"지하 가도에는 수많은 비밀이 존재한다. 때때로 그런 비밀들은 찾아내기란 매우 힘든 일이다. 심지어 그 비밀들은 기이한 의도와 형언하기 "
-"힘든 복잡한 특징을 가진 문 뒤에 있을 수도 있다. 보물과 치열한 전투가 세그러마르의 모든 관문을 열려고 시도하는 배짱 있는 이들을 "
-"기다리고 있다."
+"지하 가도에는 수많은 비밀이 존재한다. 그 비밀 중 일부는 매우 찾아내기 힘들다. 그를 위해 심지어 기이한 의도와 형언하기 힘든 복잡한 "
+"특징을 가진 문을 열어야 할지도 모른다. 보물과 치열한 전투가 세그러마르의 모든 관문을 열려고 시도하는 배짱 있는 이들을 기다리고 있다."
 
 #. FILE = DA3_DLC_Red/designcontent/Journals/JournalSystem/DLC_Red_JournalSystemCategories
 #. PATH = JournalSystemCategory[2]/TitleReference
-#, fuzzy
 msgctxt "0x0004ab9f"
 msgid "Dwarven Mugs"
 msgstr "드워프 머그컵"
 
 #. FILE = DA3_DLC_Red/designcontent/Journals/JournalSystem/DLC_Red_JournalSystemCategories
 #. PATH = JournalSystemCategory[2]/DescriptionReference
-#, fuzzy
 msgctxt "0x0004ab9d"
 msgid ""
 "It is true that dwarves like their ale, and one can learn an awful lot about "
@@ -16281,21 +16274,19 @@ msgstr "드워프들이 에일을 사랑한다는 것은 사실이며, 그들이
 
 #. FILE = DA3_DLC_Red/designcontent/Journals/JournalSystem/DLC_Red_JournalSystemCategories
 #. PATH = JournalSystemCategory[3]/TitleReference
-#, fuzzy
 msgctxt "0x000473a2"
 msgid "Deep Roads"
 msgstr "지하 가도"
 
 #. FILE = DA3_DLC_Red/designcontent/Journals/JournalSystem/DLC_Red_JournalSystemCategories
 #. PATH = JournalSystemCategory[3]/DescriptionReference
-#, fuzzy
 msgctxt "0x0004739f"
 msgid ""
 "The descent into treacherous and long forgotten corners of the dwarven Deep "
 "Roads is only for the brave. You never know what you might dig up."
 msgstr ""
-"오랫동안 잊혀졌던 위험한 드워프 지하 가도의 외딴 곳으로 내려가는 건 용감한 자들의 일이다. 직접 보기 전까진 무엇을 파낼지 절대로 알 "
-"수 없다."
+"오랫동안 버려진 위험천만한 드워프 지하 가도 한구석으로 내려가는 일은 오직 용감한 자들만이 할 수 있는 일이다. 무엇을 파내게 될지 절대 "
+"알 수 없으니."
 
 #. FILE = DA3_DLC_Red/designcontent/PrefabComponents/General/CMP_LootLogic_Corpse_Kolg
 #. PATH = BWGameInteractionEntityData/InteractionTextReference
@@ -16790,7 +16781,7 @@ msgstr ""
 #. PATH = BWActivatedAbility/AbilityNameReference
 msgctxt "0x000470dd"
 msgid "Gangway!"
-msgstr "선원의 통로"
+msgstr "비켜라!"
 
 #. FILE = DA3_MP2/Combat/Kits/Isabela/Reposition/combat_kits_isabela_reposition_abilitydata
 #. PATH = BWActivatedAbility/AbilityDescriptionReference
@@ -17909,14 +17900,12 @@ msgstr "기타"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[1]/TitleReference
-#, fuzzy
 msgctxt "0x000423f7"
 msgid "Shards"
 msgstr "편린"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[1]/DescriptionReference
-#, fuzzy
 msgctxt "0x000423f4"
 msgid ""
 "The Tevinter oculara reveal mysterious shards scattered across the "
@@ -17924,37 +17913,33 @@ msgid ""
 "or, at the very least, profitable."
 msgstr ""
 "테빈터 편린경은 이전에 제국의 식민지였던 지역들 여기저기에 흩뿌려져 있는 신비한 편린들을 드러낸다. 이 편린들은 아주 중요하거나—아니면 "
-"최소한 유용하다고 밝혀질지도 모른다."
+"최소한 유용할 수 있다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[2]/TitleReference
-#, fuzzy
 msgctxt "0x0002df90"
 msgid "Cradle of Sulevin"
 msgstr "술레빈의 요람"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[2]/DescriptionReference
-#, fuzzy
 msgctxt "0x0004072f"
 msgid ""
 "Located on the edge of the Arbor Wilds, nature long ago reclaimed the Cradle "
 "of Sulevin. It is said that an ancient tragedy unfolded here—and that a "
 "legendary elven sword lies within."
 msgstr ""
-"수목 야생지의 외곽에 위치해 있는 이곳은 이미 예전에 자연에 재점령당했다. 이곳에서는 어떤 고대의 비극이 일어났다고 하며, 전설의 엘프제 "
-"검이 잠들어 있다고 전해진다."
+"수목 야생지 외곽에 있는 이곳이, 오래전 자연의 일부가 된 술레빈의 요람이 자리 잡은 곳이다. 바로 이곳이 고대의 비극이 일어난 곳이며, "
+"전설의 엘프 검이 잠든 곳이라고 전해진다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[3]/TitleReference
-#, fuzzy
 msgctxt "0x000423f3"
 msgid "Maps"
 msgstr "지도"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[3]/DescriptionReference
-#, fuzzy
 msgctxt "0x000423f2"
 msgid ""
 "Sketches and maps drawn by explorers and bandits may reveal great treasures."
@@ -17962,7 +17947,6 @@ msgstr "탐험가와 도둑들이 그린 그림과 지도를 통해 엄청난 �
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[4]/TitleReference
-#, fuzzy
 msgctxt "0x00019c90"
 msgid "Characters"
 msgstr "인물"
@@ -17980,10 +17964,9 @@ msgstr ""
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[6]/TitleReference
-#, fuzzy
 msgctxt "0x0003a0ab"
 msgid "Forbidden Oasis"
-msgstr "금단의 오아시스"
+msgstr "금지된 오아시스"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[6]/DescriptionReference
@@ -17994,38 +17977,34 @@ msgid ""
 "on when profits dried up. A mysterious temple lies at the heart of the "
 "oasis, but none have managed to enter it."
 msgstr ""
-"금단의 오아시스는 서부 접경지의 북쪽에 자리잡고 있다. 한때 발 피르맹의 채광 회사가 이 지역에서 사업을 벌였지만, 수익이 줄어들면서 "
+"금지된 오아시스는 서부 접경지의 북쪽에 자리잡고 있다. 한때 발 피르맹의 채광 회사가 이 지역에서 사업을 벌였지만, 수익이 줄어들면서 "
 "다른 곳으로 떠났다. 오아시스의 중심부에는 신비한 사원이 있지만, 그 안에 들어가는 데 성공한 사람은 아무도 없다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[7]/TitleReference
-#, fuzzy
 msgctxt "0x00040c7e"
 msgid "Letters & Notes"
 msgstr "편지와 쪽지"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[7]/DescriptionReference
-#, fuzzy
 msgctxt "0x00040c79"
 msgid ""
 "An organization as massive as the Inquisition has a way of piling up paper. "
 "Letters and notes may include clues or essential information, but they may "
 "just be worth reading in what little downtime can be sacrificed."
 msgstr ""
-"심문회처럼 거대한 조직에는 수많은 서류가 전달된다. 편지와 쪽지에는 단서나 필수적인 정보가 담겨있으므로, 작게나마 시간을 내 읽어볼 "
-"가치는 충분히 있다."
+"심문회처럼 큰 조직에는 수많은 서류가 전달된다. 편지와 쪽지 속에는 단서나 필수 정보가 담겨있을 수 있으니, 잠시나마 남는 시간을 할애해 "
+"읽어볼 가치는 충분하다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[8]/TitleReference
-#, fuzzy
 msgctxt "0x0004161a"
 msgid "Haven"
 msgstr "헤이븐"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[8]/DescriptionReference
-#, fuzzy
 msgctxt "0x0004161b"
 msgid ""
 "Haven once offered respite for pilgrims traveling to the Temple of Sacred "
@@ -18034,20 +18013,18 @@ msgid ""
 "cult during the Fifth Blight—now serves as a makeshift camp for those "
 "working to pick up the pieces."
 msgstr ""
-"헤이븐은 한 때 서리등선 산맥 깊숙한 곳에 있는 성스러운 재의 성전으로 향하는 순례자들의 휴식처였다. 사원이 파괴된 후, 다섯번째 "
-"대재앙이 일어났을 때 용을 숭배하는 집단의 본거지기도 했던 이 유명한 마을은 이제 질서를 바로세우려는 사람들을 위한 임시거점 역할을 하고 "
-"있다."
+"헤이븐은 한 때 서리등선 산맥 깊숙한 곳에 있는 성스러운 재의 성전으로 향하는 순례자들의 휴식처였다. 사원이 파괴된 후, 다섯 번째 "
+"대재앙이 일어났을 때 용을 숭배하는 집단의 본거지기도 했던 이 유명한 마을은 이제 질서를 바로 세우려는 사람들을 위한 임시거점 역할을 "
+"하고 있다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[9]/TitleReference
-#, fuzzy
 msgctxt "0x00035bbd"
 msgid "Emerald Graves"
-msgstr "에메랄드 묘역"
+msgstr "에메랄드 무덤"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[9]/DescriptionReference
-#, fuzzy
 msgctxt "0x00035c76"
 msgid ""
 "This forest in the Dales, once known as the Emerald March, is now the "
@@ -18055,61 +18032,54 @@ msgid ""
 "Dales, protecting the region from the humans during their Exalted March on "
 "the Dales."
 msgstr ""
-"한때는 에메랄드 행군이었던 데일스의 이 숲은 이제 에메랄드 묘역으로 불리고 있다. 데일스의 숭고한 행군 당시 인간들로부터 지역을 "
-"보호하려다 전사한 엘프 전사들의 주검으로부터 자라난 나무가 숲을 이루었다고 한다."
+"한때 에메랄드 행진으로 불렸던 데일스의 이 숲은 이제 에메랄드 무덤이 되었다. 숭고한 거병 당시 수많은 엘프 전사들이 인간과 맞서 "
+"데일스를 지키다 전사했고, 그들을 위해 심었던 나무가 모여 숲을 이룬 것이다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[10]/TitleReference
-#, fuzzy
 msgctxt "0x00040e92"
 msgid "The Inner Circle"
 msgstr "측근"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[10]/DescriptionReference
-#, fuzzy
 msgctxt "0x00040e93"
 msgid ""
 "An Inquisition is nothing without an inner circle of power brokers and "
 "battle masters. Recruiting talent and strengthening ties with them is all "
 "but essential to succeed."
 msgstr ""
-"힘을 다루는 자들과 전투의 달인들로 이루어진 측근들이 없다면 심문회는 아무 것도 아니다. 재능있는 자들을 영입하고 그들과의 유대를 "
-"강화하는 것은 성공에 필수적이다."
+"정치적 유력 인사와 전투의 달인으로 이루어진 측근들이 없다면 심문회는 아무것도 아니다. 성공을 위해 재능있는 자들을 영입하고 그들과의 "
+"유대를 강화하는 일은 필수적이다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[12]/TitleReference
-#, fuzzy
 msgctxt "0x00019c8d"
 msgid "Places"
 msgstr "장소"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[12]/DescriptionReference
-#, fuzzy
 msgctxt "0x00019c76"
 msgid ""
 "Nations and regions. Cities and villages. Landmarks and empty expanses. "
 "There are many places in Thedas to call home."
-msgstr "국가와 지역. 도시와 마을. 명소들과 빈 지역. 테다스에는 집이라 불릴만한 곳들이 많다."
+msgstr "국가와 지역. 도시와 마을. 명소들과 광활한 공터까지. 테다스에는 고향이라 부를만한 장소가 많다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[14]/TitleReference
-#, fuzzy
 msgctxt "0x00019c7b"
 msgid "Tutorials"
 msgstr "튜토리얼"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[14]/DescriptionReference
-#, fuzzy
 msgctxt "0x00019c80"
 msgid "An Inquisition has to start somewhere."
 msgstr "아무리 심문회라 해도 처음은 있기 마련인 법."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[15]/TitleReference
-#, fuzzy
 msgctxt "0x000423f6"
 msgid "Mosaics"
 msgstr "모자이크"
@@ -18126,7 +18096,6 @@ msgstr ""
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[16]/TitleReference
-#, fuzzy
 msgctxt "0x000435f6"
 msgid "Therinfal Redoubt"
 msgstr "테린팔 보루"
@@ -18141,14 +18110,12 @@ msgstr "진리의 구도자들의 훈련장은 깊은 야생의 외딴 성에 �
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[17]/TitleReference
-#, fuzzy
 msgctxt "0x00035bbc"
 msgid "Emprise du Lion"
 msgstr "사자의 용맹"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[17]/DescriptionReference
-#, fuzzy
 msgctxt "0x00035bba"
 msgid ""
 "The ancient and the modern co-exist in the highlands of Emprise du Lion, "
@@ -18156,9 +18123,9 @@ msgid ""
 "villages. These hills are home to the village of Sahrnia, known throughout "
 "Orlais for its quarry, which produces azure granite of remarkable quality."
 msgstr ""
-"사자의 용맹 산악지대는, 지금은 사라진 엘프 왕국의 유물들이 북적거리는 인간 마을 곳곳에 흩어진 곳으로서 고대와 현대가 공존하는 곳이다. "
-"또한 이 산악지대는 사르니아 마을의 보금자리이기도 하며, 뛰어난 품질의 푸른 화강암을 생산하는 채석장이 있는 곳으로도 올레이 전역에 "
-"알려져 있다."
+"북적거리는 인간 마을 사이로 사라진 엘프 왕국의 유물들이 흩어져 있는 이곳, 사자의 용맹 산악지대는 고대와 현대가 공존하는 장소다. "
+"이곳의 산지는 사르니아 마을의 보금자리가 되어주었으며, 뛰어난 품질의 푸른 화강암을 생산하는 채석장이 있는 곳으로도 올레이 전역에 "
+"알려졌다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[18]/TitleReference
@@ -18176,23 +18143,20 @@ msgstr "하늘보루는 심문관이 선호하는 방식에 따라 다양한 양
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[19]/TitleReference
-#, fuzzy
 msgctxt "0x00042fdc"
 msgid "Bottles"
 msgstr "술병"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[19]/DescriptionReference
-#, fuzzy
 msgctxt "0x00042fd9"
 msgid ""
 "With so much out to kill the people of Thedas, a good drink isn't so hard to "
 "find."
-msgstr "테다스에서 이렇게 많은 사람들이 죽어나가고 있으니, 좋은 술은 찾기 어렵지 않을 것이다."
+msgstr "테다스에서 이렇게 많은 사람이 죽어나가고 있으니, 좋은 술을 찾는 일은 그리 어렵지 않을 것이다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[20]/TitleReference
-#, fuzzy
 msgctxt "0x00019c87"
 msgid "Crestwood"
 msgstr "크레스트우드"
@@ -18212,7 +18176,6 @@ msgstr ""
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[21]/TitleReference
-#, fuzzy
 msgctxt "0x000435fb"
 msgid "The Winter Palace"
 msgstr "겨울 궁전"
@@ -18232,7 +18195,6 @@ msgstr ""
 #. PATH = JournalSystemCategory[22]/TitleReference
 #. USED IN :
 #.     0x00032266(205414) : This map was in a hunter's shack in the fens. It appears to mark a spot on high ground in the {string}105584{/string}.
-#, fuzzy
 msgctxt "0x00019c70"
 msgid "Exalted Plains"
 msgstr "승임의 평야"
@@ -18253,22 +18215,19 @@ msgstr ""
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[23]/TitleReference
-#, fuzzy
 msgctxt "0x00019c92"
 msgid "Arbor Wilds"
 msgstr "수목 야생지"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[23]/DescriptionReference
-#, fuzzy
 msgctxt "0x00019c6b"
 msgid ""
 "The ancient Arbor Wilds protect many secrets deep within the overgrowth."
-msgstr "고대의 수목 야생지는 울창한 숲 속에 많은 비밀들을 깊숙히 품고 있다."
+msgstr "고대 수목 야생지의 울창한 숲 속에는 많은 비밀이 숨겨져 있다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[24]/TitleReference
-#, fuzzy
 msgctxt "0x000303e9"
 msgid "Hissing Wastes"
 msgstr "칼바람 황무지"
@@ -18289,14 +18248,12 @@ msgstr ""
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[25]/TitleReference
-#, fuzzy
 msgctxt "0x00019c5e"
 msgid "The Hinterlands"
 msgstr "내륙지역"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[25]/DescriptionReference
-#, fuzzy
 msgctxt "0x00019c72"
 msgid ""
 "Nestled in the heart of Ferelden are the old forests and farmsteads of the "
@@ -18304,20 +18261,18 @@ msgid ""
 "chaos. The conflict between mages and templars forced many off their lands, "
 "demons stalk the hills, and reports of strange magic abound near Redcliffe."
 msgstr ""
-"페렐던 중심부에는 내륙지역의 오래된 숲과 농장들이 자리잡고 있다. 레드클리프로 향하는 바위투성이의 경사가 심한 길목은 현재 혼란에 빠져 "
-"있는 상태이며, 마법사와 성기사간의 갈등으로 인해 많은 사람들이 고향에서 떠났다. 이곳 언덕에는 악마들이 서성거리고 있고, 레드클리프 "
-"근처에서는 이상한 마법에 대한 보고가 끝없이 들려오고 있다."
+"페렐던 중심부에는 내륙지역의 오래된 숲과 농장들이 자리 잡고 있다. 이 레드클리프로 향하는 바위투성이의 경사진 길목은 현재 혼란에 빠진 "
+"상태다. 마법사와 성기사간의 갈등으로 많은 사람이 고향을 떠났으며, 언덕에는 악마가 서성거리고, 레드클리프 근처에서는 이상한 마법에 대한 "
+"보고가 들려오고 있다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[26]/TitleReference
-#, fuzzy
 msgctxt "0x0002bbc5"
 msgid "Lost Temple of Dirthamen"
 msgstr "덜사멘의 잃어버린 사원"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[26]/DescriptionReference
-#, fuzzy
 msgctxt "0x0002bbc8"
 msgid ""
 "Hidden off the southern coast of the Waking Sea, the Lost Temple of "
@@ -18325,42 +18280,38 @@ msgid ""
 "and flooded after ages of neglect, it is a dark, dangerous place full of "
 "despair."
 msgstr ""
-"깨어나는 바다 남쪽 해안의 숨겨진 곳에, 덜사멘의 잃어버린 사원이 어마어마한 가치를 지닌 고대 엘프 유물을 지키고 있다. 이 사원은 오랜 "
+"깨어나는 바다 남쪽 해안의 숨겨진 곳, 덜사멘의 잃어버린 사원은 어마어마한 가치를 지닌 고대 엘프 유물을 지키고 있다. 이 사원은 오랜 "
 "세월 방치되어 내부가 무너지고 물에 잠겼으며, 절망으로 가득 찬 어둡고 위험한 장소가 되었다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[28]/TitleReference
-#, fuzzy
 msgctxt "0x00019c8e"
 msgid "Inquisitor's Path"
 msgstr "심문관의 길"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[28]/DescriptionReference
-#, fuzzy
 msgctxt "0x00019c7e"
 msgid ""
 "As the Inquisition's power grows, it gains enemies in equal measure. It will "
 "take an iron will to bring Thedas back from the brink of chaos, but that is "
 "precisely what must be done."
 msgstr ""
-"심문회가 커져갈수록 적도 그만큼 강력해진다. 테다스를 혼돈으로부터 구하는 건 강철같은 의지가 필요한 일이지만, 반드시 행해야 하는 일이다."
+"심문회가 커질수록 적도 그만큼 강력해진다. 테다스를 혼돈으로부터 구하는 일에는 강철같은 의지가 필요할 테지만, 반드시 해내야만 할 것이다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[29]/TitleReference
-#, fuzzy
 msgctxt "0x00019c6d"
 msgid "History"
 msgstr "역사"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[29]/DescriptionReference
-#, fuzzy
 msgctxt "0x00019c6f"
 msgid ""
 "Only fools ignore the history of the ground they walk and the people they "
 "meet."
-msgstr "자신들이 발을 딛고 살아가는 이 땅의 역사와 그 역사 속의 사람들을 무시하는 건 어리석은 자들이나 하는 짓이다."
+msgstr "자신들이 발을 딛고 살아가는 땅의 역사와 그 속의 사람들을 무시하는 건 어리석은 자들이나 하는 짓이다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[30]/TitleReference
@@ -18382,14 +18333,12 @@ msgstr ""
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[31]/TitleReference
-#, fuzzy
 msgctxt "0x000423fa"
 msgid "Landmarks"
 msgstr "명소"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[31]/DescriptionReference
-#, fuzzy
 msgctxt "0x000423fc"
 msgid ""
 "Any navigator worth following will look out for distinctive landmarks that "
@@ -18398,14 +18347,12 @@ msgstr "길잡이를 따라가면 지역에 대한 정의와 함께, 방향을 �
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[32]/TitleReference
-#, fuzzy
 msgctxt "0x00042416"
 msgid "Astrariums"
 msgstr "천체 투영기"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[32]/DescriptionReference
-#, fuzzy
 msgctxt "0x00042417"
 msgid ""
 "The astrarium is a curious device of ancient Tevinter origin that allows the "
@@ -18414,17 +18361,15 @@ msgstr "천체 투영기는 고대 테빈터에서 만들어졌으며 별자리�
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[33]/TitleReference
-#, fuzzy
 msgctxt "0x00040c80"
 msgid "Maps"
 msgstr "지도"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[33]/DescriptionReference
-#, fuzzy
 msgctxt "0x00040c7f"
 msgid "Not all treasure is stumbled upon. Sometimes there's a map."
-msgstr "모든 보물이 우연히 발견되는 건 아니다. 어떤 것은 지도를 통해 발견되기도 한다."
+msgstr "모든 보물이 우연히 발견되는 건 아니다. 어떤 것은 지도를 통해 발견할 수 있다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[34]/TitleReference
@@ -18449,54 +18394,48 @@ msgstr ""
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[35]/TitleReference
-#, fuzzy
 msgctxt "0x00042fda"
 msgid "Songs"
 msgstr "노래"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[35]/DescriptionReference
-#, fuzzy
 msgctxt "0x00042fd7"
 msgid "Songs chronicle the history and cultural experience of life in Thedas."
 msgstr "노래는 테다스의 삶과 문화 그리고 역사를 담고 있다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[36]/TitleReference
-#, fuzzy
 msgctxt "0x00019c8f"
 msgid "Creatures"
 msgstr "생물"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[36]/DescriptionReference
-#, fuzzy
 msgctxt "0x00019c63"
 msgid ""
 "Thedas is full of weird and wild creatures. Some are dangerous. Some are "
 "harmless. It's important to be able to tell the difference."
 msgstr ""
-"테다스는 기이한 야생의 생물들로 가득 차 있는 곳이다. 어떤 것들은 위험하지만 어떤 것은 해가 없다. 이러한 차이를 구분하는 건 중요한 "
+"테다스는 기이한 야생의 생물들로 가득 차 있는 곳이다. 어떤 것은 위험하지만 어떤 것은 그렇지 않다. 이러한 차이를 구분하는 건 중요한 "
 "일이다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[38]/TitleReference
-#, fuzzy
 msgctxt "0x00043890"
 msgid "Crafting Materials"
 msgstr "제작 재료"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[38]/DescriptionReference
-#, fuzzy
 msgctxt "0x0004388f"
 msgid ""
 "An army is only as good as its equipment. Fortunately, the landscape is "
 "filled with natural resources that can be crafted into items that will give "
 "troops an edge."
 msgstr ""
-"군대의 능력은 그들이 갖추고 있는 장비에 의해 좌우된다. 다행히도 이 지역에는 우리 군을 유리하게 만들어줄 군수품 생산이 용이한 천원 "
-"자원이 가득하다."
+"군대의 능력은 그들이 갖추고 있는 장비에 의해 좌우된다. 다행히도 이 지역에는 우리 군을 유리하게 만들어줄 군수품 생산에 용이한 "
+"천연자원이 가득하다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[39]/TitleReference
@@ -18517,7 +18456,6 @@ msgstr ""
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[40]/TitleReference
-#, fuzzy
 msgctxt "0x00040c7a"
 msgid "Groups"
 msgstr "단체"
@@ -18532,33 +18470,29 @@ msgstr "테다스에는 수많은 사람들과 단체들이 존재하며, 종종
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[41]/TitleReference
-#, fuzzy
 msgctxt "0x0003fd3c"
 msgid "The Storm Coast"
 msgstr "폭풍 해안"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[41]/DescriptionReference
-#, fuzzy
 msgctxt "0x0003fd3b"
 msgid ""
 "The Storm Coast is a sparsely-populated stretch of shoreline along the "
 "Waking Sea. Ancient dwarven ruins—abandoned since the Divine Age—still line "
 "the coast, their architects long forgotten."
 msgstr ""
-"폭풍해안은 깨어나는 바다를 따라 해안가가 길게 이어져있는 인적이 없는 곳이다. 교황의 시대 이후로 버려진 고대 드워프 유적은 여전히 "
-"해안을 따라 늘어서 있으며 그들의 건축물은 오랜 세월 잊힌 채로 남아있다."
+"폭풍 해안은 깨어나는 바다를 따라 길게 이어진 인적 드문 해안가를 말한다. 교황의 시대 이래 버려진 고대 드워프 유적은 여전히 해안을 "
+"따라 늘어서 있으며 그들의 건축물은 오랜 세월 잊힌 채 남아있다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[42]/TitleReference
-#, fuzzy
 msgctxt "0x000435f8"
 msgid "The Fade"
 msgstr "영계"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[42]/DescriptionReference
-#, fuzzy
 msgctxt "0x000435f9"
 msgid ""
 "The Fade is a realm of dreamers, shaped by the spirits who call it home. "
@@ -18566,27 +18500,23 @@ msgid ""
 "reflection, crafted by the spirits with great interest but little "
 "understanding of the way the world works."
 msgstr ""
-"영계는 꿈꾸는 자들의 투영이며, 그것을 집이라고 부르는 영들에 의해 형성되었다. 종종 깨어있는 세계와 유사해 보이기도 한다. 하지만 "
-"영계는 세상이 어떤 원리로 돌아가는지에 대해서 큰 관심을 가지곤 있으나 정작 이해는 거의 하지 못한 영들에 의해 만들어진 왜곡된 상에 "
-"가깝다."
+"영계는 꿈꾸는 자들의 투영이며, 그것을 고향이라 부르는 영들에 의해 형성된다. 종종 현세와 유사해 보이기도 하지만, 영계는 세상이 어떤 "
+"원리로 돌아가는지 관심만 많고 이해는 부족한 영들에 의해 만들어진 왜곡된 상에 가깝다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[43]/TitleReference
-#, fuzzy
 msgctxt "0x00040c7c"
 msgid "Tales"
 msgstr "이야기"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[43]/DescriptionReference
-#, fuzzy
 msgctxt "0x00040c7b"
 msgid "Stories and songs are windows into the minds of the people."
-msgstr "이야기와 노래를 통해 사람들의 속마음을 들여다볼 수도 있다."
+msgstr "이야기와 노래를 통해 사람들의 속마음을 들여다볼 수 있다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[44]/TitleReference
-#, fuzzy
 msgctxt "0x00041f50"
 msgid "Multiplayer"
 msgstr "멀티플레이어"
@@ -18600,32 +18530,26 @@ msgstr "모든 저널은 멀티플레이어 퀘스트와 연관되어 있다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[45]/TitleReference
-#, fuzzy
 msgctxt "0x000423f5"
 msgid "Regions"
 msgstr "지역"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[45]/DescriptionReference
-#, fuzzy
 msgctxt "0x000423f8"
 msgid ""
 "The unique and wondrous corners of southern Thedas are often best explored "
 "with a sword in hand, but that's not to say they aren't worth exploring."
-msgstr ""
-"테다스 남부지역에는 탐험할만한 특별하고 경이로운 곳들이 곳곳에 펼쳐져있다. 종종 검을 손에 들고 탐험을 해야 하는 경우도 있지만, "
-"그렇다해도 그곳을 탐험할만한 가치가 떨어지는 건 아니다."
+msgstr "테다스 남부의 특별하고 놀라운 곳을 탐험하려 할 때는 손에 칼을 꼭 쥐고 있는 게 좋다. 그래도 탐험할 가치는 충분할 것이다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[46]/TitleReference
-#, fuzzy
 msgctxt "0x0003a0aa"
 msgid "The Fallow Mire"
 msgstr "고요한 늪지"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[46]/DescriptionReference
-#, fuzzy
 msgctxt "0x0003a0a8"
 msgid ""
 "The Fallow Mire is a sprawling stretch of isolated marshland in southwestern "
@@ -18633,44 +18557,40 @@ msgid ""
 "community called Fisher's End, which was wiped out by a plague that swept "
 "through a few years ago."
 msgstr ""
-"고요한 늪지는 남부 페렐던의 고립된 습지대에 넓게 펼쳐져 있는 곳이다. 이 눅눅하고 위험한 습지는 한 때 어부의 해안이라고 불리는 작은 "
-"어촌 공동체의 거처였다. 그러나 이들은 몇 년전 불어닥친 전염병에 의해 모두 몰살당했다."
+"고요한 늪지는 페렐던 남서쪽 외딴 습지대에 넓게 펼쳐져 있는 곳이다. 이 눅눅하고 위험한 습지는 한때 어부의 해안이라고 불리는 작은 어촌 "
+"공동체의 거처였으나, 이들은 몇 년 전 불어닥친 전염병에 의해 모두 몰살당하고 말았다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[47]/TitleReference
-#, fuzzy
 msgctxt "0x00042fdb"
 msgid "High Dragons"
 msgstr "고룡"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[47]/DescriptionReference
-#, fuzzy
 msgctxt "0x00042fd8"
 msgid ""
 "High dragons stalk the lands and own the skies of Thedas. When chaos is near "
 "commonplace, taking down these beasts can only help."
 msgstr ""
-"고룡은 테다스의 땅에 접근할 뿐 아니라 하늘을 점령하고 있다. 혼란이 가까웠을 때, 이 괴수를 쓰러뜨리는 것만이 도움이 될 수 있다."
+"고룡은 테다스의 땅을 활보하고 하늘을 지배하는 존재다. 혼란이 가까웠을 때, 이 괴수들을 쓰러뜨리는 일은 필시 도움이 될 것이다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[48]/TitleReference
-#, fuzzy
 msgctxt "0x00019c75"
 msgid "Magic"
 msgstr "마법"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[48]/DescriptionReference
-#, fuzzy
 msgctxt "0x00019c5c"
 msgid ""
 "Across much of Thedas, magic is a power that is feared or reviled. But it "
 "often proves useful. The more magic is studied, the better off the people "
 "wielding or running from it."
 msgstr ""
-"테다스의 거의 모든 지역에서 마법의 힘은 두려움이자 멸시의 대상이다. 하지만 많은 마법 연구를 통해, 더 나은 결과물을 만들어낼 수 "
-"있으며 유용하게 사용할 수 있다."
+"테다스의 많은 지역에서 마법의 힘은 두려움과 멸시의 대상이다. 하지만 많은 마법 연구를 통해, 더 나은 결과물을 만들어낼 수 있으며 "
+"유용하게 사용할 수 있다."
 
 #. FILE = Systems/Localization/LanguageDefinition_Br
 #. PATH = LocalizedLanguage/DisplayName
@@ -20819,7 +20739,7 @@ msgstr ""
 #. PATH = BWAbilityUpgrade/AbilityNameReference
 msgctxt "0x00047100"
 msgid "Avast!"
-msgstr "그만!"
+msgstr "다시 간다!"
 
 #. FILE = da3_mp2/Combat/Kits/Isabela/Reposition/combat_kits_isabela_reposition_upgrade_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityDescriptionReference
@@ -20828,7 +20748,7 @@ msgid ""
 "If your target of Gangway! has a Vendetta, your cooldown is reduced.\n"
 "\n"
 msgstr ""
-"선원의 통로의 대상이 복수의 표식을 가지고 있을 시, 재사용 대기시간이 줄어듭니다.\n"
+"비켜라!의 대상이 복수의 표식을 가지고 있을 시, 재사용 대기시간이 줄어듭니다.\n"
 "\n"
 
 #. FILE = da3_mp2/Combat/Kits/Isabela/ScatterBlast/combat_kits_isabela_scatterblast_abilitydata
