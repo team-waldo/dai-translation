@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-13 13:23+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-07-20 15:23+0000\n"
+"Last-Translator: goodgood <bbung108@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -256,7 +256,6 @@ msgstr "균열의 표식"
 
 #. FILE = DA3/Party/General/Abilities/InquisiteAbility/party_general_inquisitorammo_abilitydata
 #. PATH = BWAoEAbility/AbilityDescriptionReference
-#, fuzzy
 msgctxt "0x000448fd"
 msgid ""
 "You have gained Mark of the Rift, a focus-based ability.\n"
@@ -277,7 +276,7 @@ msgid ""
 "near Fade rifts are particularly vulnerable and are banished entirely.\n"
 "\n"
 msgstr ""
-"작은 균열을 열어 근처의 적을 영계로 밀어넣습니다. 적은 영계에 그대로 노출되며, 잠시 뒤 상처를 입은 채 돌아옵니다. 특히 악마는 이 "
+"작은 균열을 열어 근처의 적을 영계로 밀어넣습니다. 적은 영계에 그대로 노출되며, 잠시 뒤 상처를 입고 돌아옵니다. 특히 악마는 이 "
 "공격에 취약하여 영계로 추방되면 다시 돌아오지 않습니다.\n"
 "\n"
 
@@ -490,7 +489,7 @@ msgid ""
 "twist the Veil into a weapon to hamper his opponents."
 msgstr ""
 "영계에 대한 수년간의 연구 끝에, 솔라스는 생각지도 못한 방식으로 영계의 힘을 다룰 수 있는 능력을 얻게 되었습니다. 솔라스는 영계에서 "
-"물질을 끌어낼 수 있고, 심지어 장막을 무기로 변위시켜 상대방을 방해할 수 있습니다."
+"물질을 끌어낼 수 있고, 심지어 장막을 무기로 변형시켜 상대를 방해할 수 있습니다."
 
 #. FILE = DA3/Party/General/AbilityTrees/Mage_Spirit_AbilityTree
 #. PATH = BWAbilityTree/TreeNameReference
@@ -507,7 +506,7 @@ msgid ""
 "defensive barriers, and even heal injuries."
 msgstr ""
 "영혼 학파에 통달한 마법사들은 영계 자체의 본질과 영혼을 불러내는 수호 마법을 사용합니다. 이 마법사들은 적대적 마법을 교란하고 보호막을 "
-"만들 수 있으며 부상 또한 치료할 수 있습니다."
+"만들 수 있으며 부상도 치료할 수 있습니다."
 
 #. FILE = DA3/Party/General/AbilityTrees/Mage_Summoner_Spec_AbilityTree
 #. PATH = BWAbilityTree/TreeDescriptionReference
@@ -543,8 +542,8 @@ msgid ""
 "wreathe them in frost or flame. Fast, chaotic, and possibly mad, they wade "
 "into the fight and dare enemies to face the storm. "
 msgstr ""
-"이 예측불허의 달인들은 연금술 화학 혼합물을 싸늘한 냉기나 타오르는 불꽃으로 변화시키는데 능통합니다. 빠르고 혼란스러우며, 그리고 약간의 "
-"광기로 가득 찬 이 전문가들은 싸움에 뛰어들어 적에게 폭풍을 선사해줍니다. "
+"이 예측불허의 달인들은 연금술 화학 혼합물을 싸늘한 냉기나 타오르는 불꽃으로 변화시키는데 능통합니다. 빠르고 혼란스러우며, 그리고 약간 "
+"미친듯한 이 전문가들은 싸움에 뛰어들어 적에게 폭풍을 선사해줍니다. "
 
 #. FILE = DA3/Party/General/AbilityTrees/Rogue_Archery_AbilityTree
 #. PATH = BWAbilityTree/TreeNameReference
@@ -578,8 +577,8 @@ msgid ""
 "undetected, or indirect kills that eliminate targets while the assassin is "
 "safely away."
 msgstr ""
-"어떤 도적이든 목표를 죽일 수는 있습니다, 하지만 암살자들은 죽음을 예술의 형태로 승화해냅니다. 이들은 치명적이고 신속하게 목표를 죽이고 "
-"아무도 눈치채지 못한 채 그림자 속으로 유유히 빠져나가거나, 간접적인 방식으로 목표를 제거하는 법에 통달한 자들입니다."
+"어떤 도적이든 목표를 죽일 수는 있습니다만, 암살자들은 죽음을 예술의 형태로 승화해냅니다. 이들은 신속히 치명상을 입혀 목표를 죽이고 "
+"들키지 않으며 그림자 속으로 숨거나, 간접적인 방식으로 목표를 제거하는 법에 통달한 자들입니다."
 
 #. FILE = DA3/Party/General/AbilityTrees/Rogue_Cole_Spec_AbilityTree
 #. PATH = BWAbilityTree/TreeDescriptionReference
@@ -604,8 +603,7 @@ msgctxt "0x00042eaf"
 msgid ""
 "Experts in this style are fast and deadly, their blades slicing through "
 "enemies' defenses—and throats—before they have time to react."
-msgstr ""
-"신속하고 치명적인 형태의 전투에 통달한 전문가입니다. 이들의 칼날은 적이 반응하기도 전에 방어를 뚫고 목을 썰어버릴 수 있습니다."
+msgstr "신속하고 치명적인 전투에 통달한 전문가입니다. 이들의 칼날은 적이 반응하기도 전에 방어를 뚫고 목을 썰어버릴 수 있습니다."
 
 #. FILE = DA3/Party/General/AbilityTrees/Rogue_FieldControl_AbilityTree
 #. PATH = BWAbilityTree/TreeNameReference
@@ -621,8 +619,8 @@ msgid ""
 "leave enemies sick and limping, easy pickings for a sharp blade or a barbed "
 "arrow."
 msgstr ""
-"이러한 재능의 전문가는 독과 함정을 전문으로 합니다. 그들의 더러운 속임수는 적을 고통스럽게 하고 절뚝거리게 하여, 날카로운 칼날이나 "
-"가시 화살에 손쉽게 희생되도록 합니다."
+"이 재능의 전문가는 독과 함정을 전문으로 합니다. 그들의 더러운 속임수는 적을 고통스럽게 하고 절뚝거리게 하여, 날카로운 칼날이나 가시 "
+"화살에 손쉽게 희생되도록 합니다."
 
 #. FILE = DA3/Party/General/AbilityTrees/Rogue_Sera_Spec_AbilityTree
 #. PATH = BWAbilityTree/TreeDescriptionReference
@@ -649,8 +647,8 @@ msgid ""
 "safety, disappearing into the shadows, or tricking enemies into slashing at "
 "empty air, they are never where anyone expects them to be."
 msgstr ""
-"적을 교란하는 데 능통한 전문가입니다. 어떤 상황이든 안전한 곳으로 도약해 그림자 속으로 사라질 수 있으며, 적을 속여 허공을 공격하게 "
-"할 수 있습니다. 전장 속에서 이 전문가들이 어디에 있는지, 누구도 예상할 수 없습니다."
+"적을 교란하는 데 능통한 전문가입니다. 어떤 상황이든 안전한 곳으로 도약해 그림자 속으로 사라질 수 있으며, 혹은 적을 속여 허공을 "
+"공격하게 할 수 있습니다. 전장 속에서 이 전문가들이 어디에 있는지, 누구도 예상할 수 없습니다."
 
 #. FILE = DA3/Party/General/AbilityTrees/Rogue_Tinker_Spec_AbilityTree
 #. PATH = BWAbilityTree/TreeNameReference
@@ -778,7 +776,7 @@ msgid ""
 "Experts in this style are still on their feet after punishment that would "
 "kill their allies. They use their shield to protect themselves and stagger "
 "their enemies."
-msgstr "방패의 전문가들은 전우를 대신해 치명적인 공격을 굳건하게 버팁니다. 그들은 방패를 사용하여 스스로를 보호하고 적을 경직시킵니다."
+msgstr "방패 전문가들은 전우를 대신해 치명적인 공격을 굳건하게 버팁니다. 그들은 방패를 사용하여 스스로를 보호하고 적을 경직시킵니다."
 
 #. FILE = DA3/Party/General/AbilityTrees/Warrior_Templar_Spec_AbilityTree
 #. PATH = BWAbilityTree/TreeDescriptionReference
@@ -858,7 +856,7 @@ msgctxt "0x00043734"
 msgid ""
 "Successfully performing an ability combo earns additional focus for the "
 "party."
-msgstr "기술 콤보를 성공적으로 발동시키면 파티가 추가적인 집중도를 얻습니다."
+msgstr "기술 콤보를 성공적으로 발동시키면 파티가 추가 집중도를 얻습니다."
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_attackspeed_lowhp_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -1033,7 +1031,7 @@ msgctxt "0x0004b274"
 msgid ""
 "Every time an enemy dies nearby, the wearer of this amulet gains health and "
 "stamina."
-msgstr "이 목걸이를 착용한 캐릭터 주변에서 적이 쓰러질 때마다 착용자가 체력과 기력을 회복합니다."
+msgstr "이 목걸이를 착용한 캐릭터 주변에서 적이 죽을 때마다 착용자가 체력과 기력을 회복합니다."
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_elecboost_t1_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -2602,7 +2600,7 @@ msgid ""
 "Creates a small healing mist in the target area, instantly healing allies "
 "within for <font color=\"#F5ECCE\">{CUSTOM0}</font> health.\n"
 msgstr ""
-"대상 지점에 작은 치유의 안개를 생성하여 연막 내부의 동료의 체력을 <font color=\"#F5ECCE\">{CUSTOM0}</"
+"대상 지점에 작은 치유의 안개를 생성하여 내부에 있는 동료의 체력을 <font color=\"#F5ECCE\">{CUSTOM0}</"
 "font>만큼 즉시 치유합니다.\n"
 
 #. FILE = DA3/Party/General/Potions/HealingMist/party_general_potion_healingmist_finalupgrade1_abilitydata
@@ -4829,7 +4827,7 @@ msgid ""
 "This ability does not apply to healing potions.\n"
 "\n"
 msgstr ""
-"영약에 대한 깊은 조예 덕분에 물약을 비롯한 소모품을 능숙하게 다루게 되었습니다. 소모품 소지 한도가 증가하며 영약 사용 시 일정 확률로 "
+"영약에 대한 깊은 조예로 물약을 비롯한 소모품을 능숙하게 다룰 수 있습니다. 소모품 소지 한도가 증가하며 영약 사용 시 일정 확률로 "
 "영약을 소모하지 않습니다. 치유 물약에는 적용되지 않습니다.\n"
 "\n"
 
@@ -5574,8 +5572,8 @@ msgid ""
 "can't use this ability while another elixir is active.\n"
 "\n"
 msgstr ""
-"번개 비약이 엄청난 체감 속도를 느끼는 고조된 상태로 만듭니다. 일정 시간 동안 전장의 다른 대상은 본래 시간보다 훨씬 느리게 "
-"움직입니다. 다른 플라스크의 효과를 받고 있을 때는 이 기술을 사용할 수 없습니다.\n"
+"번개 비약이 엄청난 속도를 느끼게끔 고조된 상태로 만듭니다. 일정 시간 동안 전장의 다른 대상이 본래 시간보다 훨씬 느리게 움직입니다. "
+"다른 플라스크의 효과를 받고 있을 때는 이 기술을 사용할 수 없습니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/Stalker/RageTonic/party_rogue_stalker_ragetonic_abilitydata
@@ -6959,8 +6957,8 @@ msgid ""
 "fight. You now hit harder and reduce the cooldown time for Devour with every "
 "attack.\n"
 msgstr ""
-"다른 사람이 보기에 흉악해 보일지 몰라도, 목숨을 건 싸움에 왕도는 없습니다. 용의 격노가 한층 더 매서운 돌격으로 적진을 유린하며, 매 "
-"공격은 탐식의 재사용 대기시간을 감소시킵니다.\n"
+"누군가에겐 흉악해 보일지 몰라도, 목숨을 건 싸움에 왕도는 없습니다. 용의 격노가 한층 더 매서운 돌격으로 적진을 유린하며, 매 공격은 "
+"탐식의 재사용 대기시간을 감소시킵니다.\n"
 
 #. FILE = DA3/Party/Warrior/Reaver/Fury/party_warrior_reaver_fury_upgrade2_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -8094,8 +8092,8 @@ msgid ""
 "fight on your behalf.\n"
 "\n"
 msgstr ""
-"대상에게 징표를 남기면, 영혼이 달려들어 지속 피해를 줍니다. 낙인 지속 시간 중에 대상이 죽으면 영혼이 죽은 이의 몸을 빼앗아 짧은 "
-"시간 동안 당신을 위해 싸웁니다.\n"
+"대상에게 공격적인 영혼의 징표를 남겨 지속 피해를 줍니다. 낙인 지속 시간 중에 대상이 죽으면 영혼이 죽은 이의 몸을 빼앗아 짧은 시간 "
+"동안 당신을 위해 싸웁니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/BloodMage/GraveMarker/party_mage_bloodmage_gravemarker_abilitydata
@@ -9590,7 +9588,6 @@ msgstr ""
 
 #. FILE = DA3/Party/mage/Staff/BurstLightning/party_mage_staff_burst_lightning2_abilitydata
 #. PATH = BWAoEAbility/AbilityNameReference
-#, fuzzy
 msgctxt "0x00026f30"
 msgid "Lightning Bolt"
 msgstr "벼락"
@@ -11690,7 +11687,6 @@ msgstr ""
 
 #. FILE = da3/Party/Archived/Rogue/General/PartyStealth/party_rogue_general_partystealth_ring_upgrade_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
-#, fuzzy
 msgctxt "0x000426e3"
 msgid "Increased ability duration by 30%"
 msgstr "기술 지속시간 30% 증가"
