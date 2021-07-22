@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-20 15:23+0000\n"
-"Last-Translator: butnine <butnine@gmail.com>\n"
+"PO-Revision-Date: 2021-07-22 15:23+0000\n"
+"Last-Translator: 평범남 <aaasioa@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
 "Language: ko\n"
@@ -65,8 +65,8 @@ msgid ""
 "\n"
 "Ambassador Montilyet"
 msgstr ""
-"<i>심문회와 안티바의 거상들이 계약한 무역 협정에 관해 기록되어 있는 두꺼운 서류뭉치다. 최소한 50장은 되어 보인다. 조세핀이 쪽지를 "
-"붙여 놓았다.</i>\n"
+"<i>심문회와 안티바의 거상들이 맺은 무역 협정을 기록한 두꺼운 서류뭉치다. 최소한 50장은 되어 보인다. 조세핀이 쪽지를 붙여 "
+"놓았다.</i>\n"
 "\n"
 "심문관님,\n"
 "\n"
@@ -1566,7 +1566,7 @@ msgstr "성대한 행진을 합시다. 심문관님이 지휘하는 군단을 �
 #. PATH = WartableEntry/TitleReference
 msgctxt "0x0003fc31"
 msgid "Red Jenny: Inquisition Needs Beeees!"
-msgstr "레드 제니:  심문회는 버어어어얼이 필요해!"
+msgstr "레드 제니: 심문회는 버어어어얼이 필요해!"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Sera/ops_sera_red_jenny_bees
 #. PATH = OperationEntry/TextEntry[0]
@@ -2549,8 +2549,7 @@ msgid ""
 "Sutherland's company delivered some very useful contacts. Their contribution "
 "has been immeasurable, and I hope they know it."
 msgstr ""
-"서덜랜드와 동료들이 굉장히 유용한 연줄을 얻어왔어요. 자신들이 심문회에 헤아릴 수 없을 만큼 큰 공헌을 했다는 사실을 그들도 알았으면 "
-"하네요."
+"서덜랜드 모험단이 굉장히 유용한 연줄을 얻어왔습니다. 자신들이 심문회에 헤아릴 수 없을 만큼 큰 공헌을 했다는 사실을 알았으면 좋겠군요."
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_08
 #. PATH = OperationEntry/Specialist[0]/SpecialistMissionInfo/OperationTextReference
@@ -2562,7 +2561,7 @@ msgstr "즉시 교역을 확장시키죠. 이보다 더 쉬운 일이 있을까�
 #. PATH = OperationEntry/Specialist[1]/SpecialistMissionInfo/OperationTextReference
 msgctxt "0x0003ff7a"
 msgid "The primary work is done. I shall begin with the neighbors."
-msgstr "1차 작업은 끝난 셈이군요. 그럼 전 일단 가까운 곳에 있는 사람들부터 시작하겠습니다."
+msgstr "주요 작업은 끝난 셈이군요. 그럼 전 주변 인물들부터 시작하겠습니다."
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_08
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
@@ -2570,7 +2569,7 @@ msgctxt "0x0003ff7d"
 msgid ""
 "I suggest a retinue to welcome new territories. A simple matter, thanks to "
 "the work already done."
-msgstr "새로운 영토를 맞아들이기 위해 수행단을 보내는 건 어떻겠습니까. 이미 사전에 작업이 완료된 덕분에 일이 간단해지겠군요."
+msgstr "새로운 보호령을 맞기 위해 수행단을 보내는 건 어떻겠습니까. 이미 작업이 완료된 덕분에 간단하게 할 수 있습니다."
 
 #. EBX = DA3/DesignContent/Operations/TheDales/Highlands/dal_keep_ops_2b
 #. PATH = WartableEntry/TitleReference
@@ -3368,7 +3367,7 @@ msgid ""
 msgstr ""
 "심문관님께,\n"
 "\n"
-"악마는 구도자 펜타가스트님이나 대장, 심지어는 제 모습으로 가장하는 등 모든 사람을 흉내 낼 만큼 영리하더군요. 하지만 잡아서 "
+"악마는 펜타가스트 구도자님이나 대장, 심지어는 제 모습으로 가장하는 등 모든 사람을 흉내 낼 만큼 영리하더군요. 하지만 잡아서 "
 "처리했습니다. 악마를 죽인 뒤 유해라고 할 만한 건 별로 남아 있지 않았습니다. 대신 유용한 정보가 담긴 서신을 발견했는데, 대부분은 "
 "이미 우리가 알고 있는 것을 확인시켜주는 내용이었습니다. 오래된 존재가 셀린 황제를 죽이려 한다거나, 악마의 군대를 끌고 올레이를 "
 "행군하려 한다거나 그런 것 말입니다. 내용이 어쨌든 이 서신은 렐리아나 수녀님께 전달하도록 하겠습니다.\n"
@@ -5316,11 +5315,12 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Crestwood/CrestwoodArea/fer010_ops_find_the_mole
 #. PATH = OperationEntry/Specialist[1]/SpecialistMissionInfo/OperationTextReference
+#, fuzzy
 msgctxt "0x0003fdde"
 msgid ""
 "We must move carefully. This traitor is a master of the craft to escape my "
 "detection for so long."
-msgstr "조심스럽게 움직여야 합니다. 이 배신자는 오랫동안 제 탐지를 따돌리는 데 도가 튼 놈입니다."
+msgstr "조심스럽게 움직여야 합니다. 이 배신자는 제 탐지를 따돌리는 데 도가 튼 놈입니다. 오랫동안 말이죠."
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/dal_highlands_repeatable_collect
 #. PATH = WartableEntry/TitleReference
@@ -5769,17 +5769,17 @@ msgid ""
 msgstr ""
 "심문관,\n"
 "\n"
-"저는 고대 아바르를 오랜 시간 연구한 학자로서 빛나는 도끼 티르다에 관해 발견된 정보에 완전히 매료되었습니다. 많은 사람이 아바르를 "
-"연구할만한 가치 있는 문화가 없는 단순한 야만인으로 치부하고 있지만 올레이인들 역시 우리를 두고 그와 같은 말을 했었지요.\n"
+"고대 아바르를 오랜 시간 연구한 학자로서, 이번에 발견하신 빛나는 도끼 티르다의 정보가 아주 흥미롭습니다. 많은 이들이 아바르를 "
+"연구할만큼 가치 있는 문화가 없는 단순한 야만인으로 치부하고 있지만 올레이인들 역시 우리를 두고 그와 같은 말을 했었지요.\n"
 "\n"
-"아바르의 풍부한 구전은 이런 룬이 새겨진 조각들만을 남겨둔 채 대부분 소실되었습니다. 그런데도 이런 조각들을 보면 우리가 전해 들은 "
-"이야기들, 즉 티르다가 우리가 모르는 모종의 이유로 자신의 부족을 족장 지망자의 휘하에서 데리고 나와 산속으로 들어가 사는 힘든 삶을 "
-"선택했다는 것이 사실임을 확인할 수 있습니다. 그 편이 다행인 일입니다. 아바르가 떠나지 않고 그대로 남아있었다면 고대 알라마리는 "
+"아바르의 풍부한 구전은 이런 룬이 새겨진 조각만을 남겨둔 채 대부분 소실되었습니다. 그런데도 이 같은 여러 조각을 보면 우리가 전해 들은 "
+"이야기들, 즉 티르다가 우리가 모르는 모종의 이유로 그녀의 부족을 족장 지망자의 휘하에서 데리고 나와 산속으로 들어가 사는 힘든 삶을 "
+"선택했다는 것이 사실임을 확인할 수 있습니다. 그 편이 다행인 일입니다. 아바르가 떠나지 않고 그대로 남아있었다면, 고대 알라마리는 "
 "북쪽으로 밀고 올라가 추후 테빈터 제국을 형성할 네로메니안 부족의 이목을 끌었을 테니까요. 그런 일이 벌어졌다면 알라마리는 아마 살아남지 "
 "못했을 테고 지금 우리가 아는 페렐던도 존재하지 않았겠지요.\n"
 "\n"
-"이러한 각각의 위치에 표시가 된 룬을 기반으로 티르다의 전설적인 도끼가 있는 장소를 찾아낼 수 있을지 모릅니다. 심문회로부터 제 원정대가 "
-"자금을 지원받아 끝에 수정이 달려있고 불길이 타오른다고 전해지는 그 도끼를 찾아낼 수 있다면 대단한 발견이 되지 않을까요?\n"
+"각 위치에 표시가 된 이 룬들을 기반으로 티르다의 전설적인 도끼가 있는 장소를 찾아낼 수 있을지 모릅니다. 심문회가 제 원정에 자금을 "
+"지원하여, 끝에 수정이 달려있고 불길이 타오른다고 전해지는 그 도끼를 찾아낼 수 있다면 실로 대단한 발견이 되지 않을까요?\n"
 "\n"
 "이만 줄이겠습니다,\n"
 "도르카스 게린 수녀"
@@ -5937,7 +5937,7 @@ msgid ""
 msgstr ""
 "최선을 다해 전투를 피했지만, 우려한 대로 상황이 좋지 않습니다. 배교자 마법사들은 광기에 사로잡혀 움직이는 모든 걸 공격하고 있고, "
 "성기사들은 더 이상 누구의 명령도 듣지 않습니다. 지젤 신모를 찾아내 보호하려 했지만, 피난민의 안전이 보장되기 전까지는 이곳을 떠나지 "
-"않겠다며 거부하셨습니다. 변절 마법사와 성기사를 지역에서 몰아내는 건 추가 병력 없이는 어려울 것 같습니다.\n"
+"않겠다며 거부하셨습니다. 배교자 마법사와 성기사를 지역에서 몰아내는 건 추가 병력 없이는 어려울 것 같습니다.\n"
 "\n"
 "컬렌 사령관님이 이 지역에 거주 중인 은퇴한 레드클리프 조마사 데넷에 대한 조사를 요청하셨습니다. 심문회가 쓸 질 좋은 말을 구하고자 "
 "접촉을 시도했지만, 전투 지역을 통과할 수 없었습니다.\n"
@@ -6874,8 +6874,7 @@ msgstr ""
 "<i>컬렌의 손에 들린 급히 쓴 듯한 보고서</i>\n"
 "\n"
 "이 \"찍찍이\"가 가져온 지도에 서덜랜드와 동료들이 실종된 위치가 대략적으로 표시되어 있긴 하지만, 실종 위치를 정확히 알아내기 "
-"위해서는 상당한 투자가 필요해 보입니다. 이 친구는 서덜랜드와 동료들에게 도움이 절실히 필요하다는 점을 분명히 했으니 신속하게 행동에 "
-"옮겨야 합니다."
+"위해서는 상당한 투자가 필요해 보입니다. 이 친구는 그들에게 도움이 절실히 필요하다는 점을 분명히 했으니 신속하게 행동에 옮겨야 합니다."
 
 #. EBX = DA3/designcontent/Operations/Global/TheCrew/gen_chain_the_crew_07
 #. PATH = OperationEntry/TextEntry[1]
@@ -6885,8 +6884,8 @@ msgid ""
 "Inquisitor. If they need assistance, you're in the best position to render "
 "it."
 msgstr ""
-"서덜랜드와 동료들의 마지막 흔적을 찾아 지도에 표시했다! 이제 심문관이 나설 때가 되었다. 만일 그들이 도움이 필요하다면, 심문관이야말로 "
-"그들을 돕기에 가장 적합한 위치에 있다."
+"서덜랜드 모험단의 마지막 흔적을 찾아 지도에 표시했다! 이제 심문관이 나설 차례다. 만일 그들이 누군가의 도움을 필요로 한다면, "
+"심문관이야말로 적격일 것이다."
 
 #. EBX = DA3/designcontent/Operations/Global/TheCrew/gen_chain_the_crew_07
 #. PATH = OperationEntry/Specialist[0]/SpecialistMissionInfo/OperationTextReference
@@ -7231,7 +7230,7 @@ msgid ""
 "\n"
 "Cooper"
 msgstr ""
-"나이팅게일님께,\n"
+"나이팅게일,\n"
 "\n"
 "그 드워프를 하이타운에 있는 자택에서 데려왔습니다. 그 자가 작업중이던 다른 원고는 산을 붓고 불에 태운 뒤 바다에 던져버렸습니다.\n"
 "\n"
@@ -7379,17 +7378,17 @@ msgstr ""
 "아다르,\n"
 "\n"
 "키 작고 까칠한 인간과 빨간 머리가 널 승진시켜 주었다고 들었다. 보수는 얼마나 받고 있지? 네 새로운 계약을 검토하려면 타로크를 보내야 "
-"하나? 우리의 첫 번째 규칙을 기억해라. 숫자에 관한 한은 인간을 절대로 믿지 말 것.\n"
+"하나? 우리의 첫 번째 규칙을 기억해라. 숫자 얘기에서는 인간을 절대 믿지 말 것.\n"
 "\n"
 "미안하다. 잠시 옆길로 샜군. 이 말을 하려고 서신을 쓴 게 아닌데.\n"
 "\n"
-"부대 애들은 지금 굉장히 지루해하고 있다. 인간들에게 둘러싸인 채 오랫동안 손을 놓고 있다 보면 지루해질 수밖에 없긴 하지. 지금 너는 "
-"털 달린 눈알 병사들을 맡고 있잖아? 우리가 할만한 일을 찾아줘, 지금 당장. 카리스가 지어내는 시를 조금만 더 듣다간 놈의 입 주위에 "
-"두 번째 입을 뚫어버리게 될 것 같으니까.\n"
+"부대 애들은 지금 굉장히 지루해하고 있다. 인간들에게 둘러싸여서 오랫동안 손을 놓고 있다 보면 지루해질 수밖에 없긴 하지. 지금 너는 털 "
+"달린 눈알 병사들을 맡고 있잖아? 우리가 할만한 일을 찾아줘, 지금 당장. 카리스가 지어내는 시를 조금만 더 듣다간 놈의 입 주위에 두 "
+"번째 입을 뚫어버리게 될 것 같으니까.\n"
 "\n"
 "쇼크라카르\n"
 "\n"
-"추신:  네가 들어오면 카리스가 선보이게 될 새로운 시가 34개나 있어. 6행 6연체로 쓰고 있는 것 같더군. 들어가면 안 들리는 척해."
+"추신: 네가 돌아오면 카리스가 선보이게 될 새로운 시가 34개나 있어. 6행 6연체로 쓰고 있는 것 같더군. 지금부턴, 안 들리는 척해."
 
 #. EBX = DA3/designcontent/Operations/Global/Race/gen_race_qunari_2
 #. PATH = OperationEntry/TextEntry[1]
@@ -7675,12 +7674,12 @@ msgstr ""
 "몽틸리예 대사,\n"
 "\n"
 "답신이 늦은 점 사과드립니다. 데일스 문제로 시달리던 참에 당신의 소식을 받게 되어 참으로 반가웠습니다. 실은 내전으로 인해 자산을 "
-"관리하는 일이 어려워졌습니다. 전령의 자문단과 같은 소식통이 제게도 있었더라면 훨씬 쉬운 일이었겠지만, 안타깝게도 그 점에서는 운이 "
-"따라주지 않더군요.\n"
+"관리하는 일이 어려워졌습니다. 공의회와 같은 소식통이 제게도 있었더라면 훨씬 쉬운 일이었겠지만, 안타깝게도 그 점에서는 운이 따라주지 "
+"않더군요.\n"
 "\n"
 "심문관님께서 제 변변찮은 행사에 참석해 주시는 건 언제나 두 팔 벌려 환영입니다. 다만 제 생각만큼 규모가 크지는 않을 것 같아 애석할 "
-"따름이군요. 제가 심문관님을 붙들고 있느라 다른 손님들과의 풍성한 저녁 식사를 보내실 수 없을지도 모르겠습니다. 심문관님께 그 점에 대해 "
-"미리 양해 말씀 부탁드리겠습니다.\n"
+"따름이군요. 심문관님께서 제게 어울려 주시느라 다른 손님들과의 풍성한 저녁 연회를 즐기실 수 없을지도 모르겠으니, 부디 미리 양해 말씀 "
+"부탁드리겠습니다.\n"
 "\n"
 "깊은 존경을 담아,\n"
 "위스콧 후작"
@@ -7700,9 +7699,8 @@ msgid ""
 msgstr ""
 "심문관님,\n"
 "\n"
-"여기 후작의 파티 장소와 시간이 있습니다. 거기서 벨리즈 장관을 개인적으로 만나 두 파라켓 가문을 다시 귀족으로 승격시키는 것을 승인하는 "
-"문제에 대해 얘기할 방법을 찾아야 합니다. 이것이 우리에게 필요한 마지막 단계입니다. 그녀가 이 모든 일을 성공적으로 끝맺을 수 있는 "
-"열쇠를 손에 쥐고 있습니다.\n"
+"여기 후작의 파티 장소와 시간이 있습니다. 그곳에서 두 파라켓 가문의 귀족 복권을 비준하도록 벨리즈 장관과 개인적으로 이야기할 방법을 "
+"찾아야 해요. 이게 마지막 단계입니다. 지금까지의 모든 노력이 성공으로 끝날지 아닐지는 장관의 손에 달려있어요.\n"
 "\n"
 "조세핀"
 
@@ -7712,7 +7710,7 @@ msgctxt "0x0001f65e"
 msgid ""
 "The marquis is clearly fishing for an introduction to the council before you "
 "attend his party. I'll arrange one."
-msgstr "후작은 당신이 자기 파티에 참석하기 전에, 자문단을 소개받고 싶어하는 게 분명해요. 제가 자리를 마련해 보겠습니다."
+msgstr "후작은 심문관님이 그의 파티에 참석하기에 앞서 자신을 공의회에 소개해주길 원하는군요. 제가 자리를 마련해 보겠습니다."
 
 #. EBX = DA3/designcontent/Operations/Global/GreyWardens/ops_grey_wardens_3
 #. PATH = WartableEntry/TitleReference
@@ -8275,8 +8273,8 @@ msgid ""
 "\n"
 "Josephine"
 msgstr ""
-"사절을 보내 공식적으로 사과를 전했습니다. 돌려줄 수 있는건 전부 돌려줬고, 그럴 수 없는것들은 다른 물건으로 대신했습니다. 이번 실수를 "
-"통해 배운 교훈을 기억하자는 의미로, 회색 감시자의 조약은 렐리아나가 하늘보루의 기록 보관소에 보관해두었습니다.\n"
+"사절을 보내 공식적인 사과를 전했습니다. 돌려줄 수 있는 것은 전부 돌려주었고, 그럴 수 없는 것들은 다른 물건으로 대신했습니다. 이번 "
+"실수에서 배운 교훈을 기억하자는 의미로, 렐리아나가 회색 감시자의 조약을 하늘보루의 기록 보관소에 보관해두었습니다.\n"
 "\n"
 "조세핀"
 
@@ -8902,7 +8900,7 @@ msgstr "심문회 마법사인 데일스 엘프 실리안이 자료를 제공해
 #. PATH = WartableEntry/TitleReference
 msgctxt "0x00040781"
 msgid "Truth or Dare: A Dangerous Game"
-msgstr "진실 게임:  위험한 게임"
+msgstr "진실 게임: 위험한 놀이"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Vivienne/gen_ops_viv4
 #. PATH = OperationEntry/TextEntry[0]
@@ -8921,9 +8919,9 @@ msgid ""
 msgstr ""
 "나이팅게일,\n"
 "\n"
-"우리가 위협을 과소평가한 것 같습니다. 우리의 친구인 후작부인이 지난주에 십여 명의 귀족을 만났습니다. 그곳에서는 \"선물\"이라는 "
-"형태로 뇌물이 오고 갔으며 대부분 저스티니아 5세의 흉상이었습니다. 그중 하나를 손에 넣에 넣는데 성공했는데, 속에 있는 빈 공간에 붉은 "
-"리륨이 채워져 있었습니다.\n"
+"우리가 위협을 과소평가한 것 같습니다. 우리의 친구인 후작 부인이 지난주에 십여 명의 귀족을 만났습니다. 그곳에서는 \"선물\"이라는 "
+"형태로 뇌물이 오고 갔으며 대부분 저스티니아 5세의 흉상이었습니다. 그중 하나를 손에 넣어 살펴보니 속의 빈 공간에 붉은 리륨이 채워져 "
+"있었습니다.\n"
 "\n"
 "지시 기다리겠습니다.\n"
 "\n"
@@ -8944,13 +8942,13 @@ msgid ""
 "\n"
 "Fisher"
 msgstr ""
-"나이팅게일님께,\n"
+"나이팅게일,\n"
 "\n"
-"발 르와요에서 폰테인 공작을 위해 가방을 내리던 짐꾼의 발을 걸어 넘어트리자, 흉상이 산산조각나며 그 내용물이 드러났습니다. 이 예상치 "
-"못하게 벌어진 일로 공작은 몹시 화를 냈습니다. 그가 분노한 이유가 리륨을 들켰기 때문인지 흉상이 진품이기 때문인지, 어느 쪽인지는 "
-"모르겠지만요. 인근에 있던 집 세 채에서 창문을 통해 내다보던 사람들의 얼굴은 충격으로 가득 차 있었습니다. \n"
+"발 르와요에서 폰테인 공작을 위해 가방을 내리던 짐꾼이 \"우연히\" 발이 걸려 넘어지는 바람에 흉상이 산산조각나며 그 내용물이 "
+"드러났습니다. 이 일로 공작은 예상과 달리 몹시 화를 냈는데, 그게 리륨 때문인지 흉상 때문인지 모르겠습니다. 인근의 집 세 곳에서 "
+"창문을 통해 내다보던 사람들의 얼굴은 충격으로 가득 차 있었습니다.\n"
 "\n"
-"지금으로부터 2주 후, 모든 올레이인들이 이 사실을 알게 될 겁니다.\n"
+"이제 2주만 지나면, 모든 올레이 사람이 이 일을 알게 될 겁니다.\n"
 "\n"
 "어부"
 
@@ -10228,7 +10226,7 @@ msgid ""
 "\n"
 "Cooper"
 msgstr ""
-"나이팅게일님께,\n"
+"나이팅게일,\n"
 "\n"
 "그 칼은 하이타운의 어느 상인이 취급한 물건입니다. 그걸 드워프 룬 세공자에게 팔았더군요. 푸른 눈에 굉장히 쾌활한 자였다고 합니다. "
 "이름은 알아낼 수 없었습니다.\n"
@@ -11581,11 +11579,12 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/SkyholdPeople/gen_region_dagna_into_the_fade
 #. PATH = OperationEntry/Specialist[0]/SpecialistMissionInfo/OperationTextReference
+#, fuzzy
 msgctxt "0x0003ffda"
 msgid ""
 "Remnants are easy enough. I shall poll the powers we have established in "
 "your wake."
-msgstr "잔해라면 충분히 구하기 쉽죠. 심문관님이 남긴 자취를 통해 밝혀낸 것들을 이번 기회에 확인해보도록 하죠."
+msgstr "잔해라면 구하기 쉬워요. 심문관님이 남긴 자취를 통해 밝혀낸 것들을 이번 기회에 확인해보도록 하죠."
 
 #. EBX = DA3/DesignContent/Operations/Global/SkyholdPeople/gen_region_dagna_into_the_fade
 #. PATH = OperationEntry/Specialist[1]/SpecialistMissionInfo/OperationTextReference
@@ -12438,7 +12437,7 @@ msgid ""
 "\n"
 "Tailor"
 msgstr ""
-"나이팅게일님,\n"
+"나이팅게일,\n"
 "\n"
 "우리의 친구를 따라 한 작은 만으로 따라가 보니, 작은 테빈터 배가 정박되어 있더군요. 이로써 문제를 일으킬만한 베나토리가 12명은 "
 "줄었습니다. \n"
@@ -12909,7 +12908,7 @@ msgstr "군대를 보내 우리가 필요한 것을 찾도록 하고, 필요하�
 #. PATH = WartableEntry/TitleReference
 msgctxt "0x000406d8"
 msgid "Truth or Dare: Lake Celestine"
-msgstr "진실 게임:  셀레스틴 호수"
+msgstr "진실 게임: 셀레스틴 호수"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Vivienne/gen_ops_vivienne2
 #. PATH = OperationEntry/TextEntry[0]
@@ -12931,13 +12930,13 @@ msgid ""
 msgstr ""
 "<i>성가회 학자의 여행이라는 책의 한 페이지가 탁자 위에 놓여있고, 아래쪽에 있는 문장엔 동그라미가 쳐져 있다.</i>\n"
 "\n"
-"이 셀레스틴 호수와 깨어나는 바다의 연안 사이에 있는 지역은 \"심장부\"로 알려진 곳으로, 현지인들은 이곳의 포도원과 금을 입힌 대리석 "
-"건물들을 가리켜 \"코티지\"라고 부른다. 흔히 올레이의 심장은 금으로 도금되어 있다고들 하는데, 따라서 어쩌면 이 심장부를 발 르와요의 "
-"밖에서 가장 부유한 장소라고 보아도 무리가 없을 듯하다.\n"
+"이 셀레스틴 호수와 일깨우는 바다 연안 사이에 있는 지역은 \"심장부\"로 알려진 곳으로, 현지인들은 이곳의 포도원과 금을 입힌 대리석 "
+"건물들을 가리켜 \"별장\"이라고 부른다. 흔히 올레이의 심장은 금으로 도금되어 있다고들 하니, 어쩌면 이 심장부를 발 르와요 밖에서 "
+"가장 부유한 장소라고 보아도 무리가 없을 듯하다.\n"
 "\n"
 "<i>페이지의 아랫부분에 적혀있는 글귀</i>\n"
 "\n"
-"드 무리어 백작과 크트망쉬 부인. 두 사람 모두 돈을 마치 물 쓰듯 하는 자들입니다. 어느 쪽을 캐 볼까요?"
+"드 무리어 백작과 크트망쉬 부인. 두 사람 모두 돈을 물 쓰듯 하는 자들입니다. 어느 쪽을 캐 볼까요?"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Vivienne/gen_ops_vivienne2
 #. PATH = OperationEntry/TextEntry[1]
@@ -12954,8 +12953,8 @@ msgid ""
 msgstr ""
 "대사님께,\n"
 "\n"
-"귀하의 초대를 받게 되어 영광입니다. 그동안 당신의 조직을 직접 보고 싶었던 만큼, 빠른 시일 내에 채비를 하여 심문회를 방문할 준비를 "
-"하겠습니다. \n"
+"귀하의 초대를 받게 되어 영광입니다. 그동안 귀하의 조직을 직접 보고 싶었던 만큼, 이른 시일 내에 채비를 하여 심문회를 방문하도록 "
+"하지요.\n"
 "\n"
 "그럼 이만,\n"
 "레날드 드 무리어 백작"
@@ -12972,7 +12971,7 @@ msgid ""
 msgstr ""
 "나이팅게일,\n"
 "\n"
-"명령 접수 완료. 갱신 예정.\n"
+"명령 접수했습니다. 추후 보고하겠습니다.\n"
 "\n"
 "어부"
 
@@ -13728,11 +13727,11 @@ msgid ""
 msgstr ""
 "<i>컬렌의 손에 들려있는 보고서</i>\n"
 "\n"
-"고려해볼 가치가 있는 요청이 들어왔습니다. 병사들을 보내면 위협적으로 보일 테고 외교관들을 보내면 의심스러워 보일 만한 지역에 순찰만을 "
-"목적으로 한 소규모의 순찰대라면 주둔시켜도 된다는 허락이 떨어졌는데, 듣자 하니 서덜랜드와 동료들이 흔히 보기 힘든 드워프 작업반과 "
-"우연히 마주친 듯합니다. 그리고 그로 인해 우리에게 예상치 못한 기회가 생겼습니다. 오자마르의 광부 계급을 원조하게 된 겁니다. 그들은 "
-"방랑자들로 이루어진 실종된 원정대를 찾아 달라는 요청과 함께 상당한 보상을 제안해왔습니다. 그리고 그중에서도 특히 \"당신들 전부가 "
-"하늘에 미친 건 아니라는 걸 보여줄 수 있는 집단\"을 보내 달라고 요청했습니다."
+"고려해볼 만한 요청이 들어왔습니다. 병사들을 보내면 위협적으로 보일 테고 외교관들을 보내면 의심스러워 보일 만한 지역에 소규모의 "
+"순찰대라면 주둔시켜도 된다는 허가가 떨어졌었습니다. 그래서 서덜랜드와 동료들을 보냈더니 그곳에서 흔히 보기 힘든 드워프 작업반과 마주치게 "
+"되었죠. 그리고 그로 인해 우리에게 예상치 못한 기회가 생겼습니다. 오자마르의 광부 계급을 원조하게 된 겁니다. 그들은 실종된 '방랑자' "
+"원정대를 찾아 달라는 요청과 함께 상당한 보상을 제안해왔습니다. 특히 \"당신들 전부가 하늘만 보고 있는 건 아니라는 걸 보여주는 "
+"집단\"으로 보내 달라고 요청했습니다."
 
 #. EBX = DA3/designcontent/Operations/Global/TheCrew/gen_chain_the_crew_05
 #. PATH = OperationEntry/TextEntry[1]
@@ -13749,7 +13748,7 @@ msgstr ""
 #. PATH = OperationEntry/Specialist[0]/SpecialistMissionInfo/OperationTextReference
 msgctxt "0x0003fec7"
 msgid "A rare chance for exchange. They'll have writs to bargain."
-msgstr "교환이 걸린 흔치 않은 기회입니다. 그들에게 협상 서류를 들려주도록 하죠."
+msgstr "흔치 않은 교역 기회에요. 그들에게 협상 서류를 들려주도록 하죠."
 
 #. EBX = DA3/designcontent/Operations/Global/TheCrew/gen_chain_the_crew_05
 #. PATH = OperationEntry/Specialist[1]/SpecialistMissionInfo/OperationTextReference
@@ -13972,14 +13971,15 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/Global/Specialists/gen_ops_secrets_collection
 #. PATH = OperationEntry/Specialist[1]/SpecialistMissionInfo/OperationTextReference
+#, fuzzy
 msgctxt "0x00040110"
 msgid ""
 "I can certainly tell my agents to look out for this \"Provident,\" but I "
 "wouldn't get my hopes up. Since the mage rebellion, so many have been killed "
 "or lost. I wouldn't hold my breath for these \"designs\" either."
 msgstr ""
-"당연히 제 요원들에게 이 \"프로비던트\" 라는 자에 대해 알아보게 할 수는 있지만 딱히 찾을 수 있을 거라 생각하진 않습니다. 마법사 "
-"반란 이후 수많은 사람들이 죽거나 실종됐으니까요. 저라면 이 \"설계도\"에도 별다른 기대는 안 할 것 같네요."
+"물론 제 요원들에게 이 \"프로비던트\" 라는 자를 알아보게 할 수는 있지만, 딱히 찾을 수 있을 거라 생각하진 않습니다. 마법사 반란 "
+"이후 수많은 사람들이 죽거나 실종됐으니까요. 저라면 이 \"설계도\"에도 별다른 기대는 안 할 것 같네요."
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/gen_specialization_rogues
 #. PATH = WartableEntry/TitleReference
@@ -14029,9 +14029,9 @@ msgid ""
 msgstr ""
 "<i>컬렌의 손에 들려있는 보고서</i>\n"
 "\n"
-"정기 순찰 요청이 들어왔습니다. 심문회가 주민들로부터 이런 식으로 관심을 받게 된 것은 고무적인 일입니다. 하지만 이곳에서 코리피우스와 "
-"직접적인 관련이 있는 활동을 찾을 수 있을 것 같진 않기 때문에 우리 병사들은 다른 곳으로 보내는 편이 좋을 것 같습니다. 요청이 들어온 "
-"곳은 서덜랜드라는 소년이 도적 떼에 대해 보고했던 곳과 같은 지역입니다. 그 소년에게 임무를 좀 더 맡길까요?"
+"정기 순찰 요청이 들어왔습니다. 심문회가 주민들로부터 이런 관심을 받게 된 것은 고무적인 일입니다. 하지만 이곳에서 코리피우스와 "
+"직접적으로 관련된 활동을 찾을 수 있을 것 같진 않기 때문에 우리 병사들은 다른 곳으로 보내는 편이 좋을 것 같습니다. 요청이 들어온 "
+"곳은 서덜랜드라는 청년이 도적 떼를 보고했던 곳과 같은 지역입니다. 그 청년에게 임무를 좀 더 맡길까요?"
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_02
 #. PATH = OperationEntry/TextEntry[1]
@@ -14041,8 +14041,8 @@ msgid ""
 "as expected. Nevertheless, they have increased our presence. They seem "
 "useful freelancers."
 msgstr ""
-"그 서덜랜드란 친구와 그의 동료들이 보고해온 건 예상대로 사소한 문제였을 뿐이더군요. 어쨌든, 그 친구들 덕분에 심문회의 영향력은 "
-"증대됐습니다. 비전속 요원으로 굴리면 쓸만하겠군요."
+"그 서덜랜드란 친구와 그의 동료들이 보고를 올렸습니다. 예상대로 사소한 문제더군요. 어쨌든, 그들 덕분에 심문회의 영향력은 증대됐습니다. "
+"비전속 요원으로 굴리면 쓸만하겠군요."
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_02
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
@@ -14050,7 +14050,7 @@ msgctxt "0x0003fe43"
 msgid ""
 "I'll notify the Sutherland boy he'll have minor sanction to request "
 "resources for patrols."
-msgstr "서덜랜드라는 소년에게 약간의 지원과 함께 순찰할 수 있는 허가를 내리겠습니다."
+msgstr "서덜랜드라는 청년에게 순찰 요청에 대응할 수 있는 허가를 내리겠습니다."
 
 #. EBX = DA3/DesignContent/Operations/Global/BullsChargers/chargers_haven_bonus
 #. PATH = WartableEntry/TitleReference
@@ -14816,11 +14816,11 @@ msgid ""
 msgstr ""
 "<i>하급 영주의 인장으로 봉인된 보고서</i>\n"
 "\n"
-"누가 어둠의 피조물에 관심을 갖는지는 관심 없습니다. 그런 집단은 흔하게 있으니까요. 당신들이 이용하고자 하는 무역로에 그런 것들이 "
-"돌아다니는 상황을 용납할 수 없다는 점은 이해하나, 유감스럽게도 우리는 외부 병력이 우리 땅을 가로지르는 것을 허용할 수 없습니다. 대신 "
-"우리가 심문회의 이름 아래서 활동할 수 있도록 허가해주십시오. 그에 따른 위험은 우리가 감수하겠습니다. 우리의 동업 관계와 이를 통해 "
-"예상되는 지위 상승은 분명 이득이 될 테니까요. 그 대가로 우리의 자원을 약속드리겠습니다. 하지만 심문회의 더 큰 투쟁에 관해서라면, 한 "
-"발짝 뒤로 물러나 지켜보고자 합니다. 이해해 주시리라 믿습니다.\n"
+"어둠의 피조물에 관심을 갖는 게 누구인지는 상관없소. 그런 집단은 널렸으니. 당신들이 이용하고자 하는 무역로에 그런 것들이 돌아다니는 "
+"상황을 용납할 수 없다는 점은 이해하나, 유감스럽게도 우리는 외부 병력이 우리 땅을 가로지르는 것을 허용할 수 없소. 대신 우리가 "
+"심문회의 이름 아래서 활동할 수 있도록 허가해주시오. 그에 따른 위험은 우리가 감수하지. 우리의 협력을 통해 예상되는 지위 상승은 분명 "
+"이득이 될 테니까. 그 대가로 우리의 자원을 약속드리겠소. 하지만 심문회의 더 큰 투쟁에 관해서라면, 지금처럼 뒤에서 지켜보고만 있겠소. "
+"이해해 주시리라 믿소.\n"
 "\n"
 "프레스몬드 알스 경\n"
 "\n"
@@ -14838,8 +14838,8 @@ msgid ""
 "\n"
 "Cullen"
 msgstr ""
-"우리 병사들로부터 길이 봉쇄되었다는 보고를 받았습니다. 하지만 단순한 허세였는지 금방 항복했다고 합니다. 이 임무를 진행하면서 지지자는 "
-"거의 만들 수 없었지만, 어쨌든 어둠의 피조물로부터의 위협은 제거했습니다.\n"
+"우리 병사들로부터 길이 봉쇄되었다는 보고를 받았습니다. 하지만 단순한 허세였는지 금방 항복했다고 하더군요. 이 일로 동맹은 만들지 "
+"못했지만, 어둠의 피조물 문제는 해결했습니다.\n"
 "\n"
 "컬렌"
 
@@ -14853,8 +14853,8 @@ msgid ""
 "\n"
 "Josephine"
 msgstr ""
-"협상은 간단하게 끝났고, 어떤 자원도 손해보지 않았어요. 프레스몬드 알스 경은 약속을 훌륭하게 지켜주었답니니다. 비록 심문회와의 관계를 "
-"여기저기 이용하고 다니기는 했지만요.\n"
+"협상은 간단하게 끝났고, 아무 손해도 없었습니다. 프레스몬드 알스 경은 약속을 훌륭하게 지켰어요. 비록 심문회와의 관계를 여기저기 "
+"이용하고 다니기는 했지만요.\n"
 "\n"
 "조세핀"
 
@@ -14869,9 +14869,8 @@ msgid ""
 "\n"
 "Leliana"
 msgstr ""
-"서덜랜드와 그 동료들이 어둠의 피조물들의 위협을 처리했습니다. \"관심 없으신\"귀족분은 그들이 뭘 하건 전혀 신경도 쓰지 않더군요. "
-"저런 젊은 모험가들이 아니라, 자기가 허세를 떠는데 이용할 수 있는 더 큰 병력을 기대했던 모양입니다. 그의 기대를 실망시켜서 참으로 "
-"유감이네요.\n"
+"서덜랜드와 그 동료들이 어둠의 피조물들을 처리했습니다. \"누구든 상관없다는\" 영주께서는 그들에게 조금의 신경도 쓰지 않더군요. 저런 "
+"젊은 모험가들이 아니라, 자기의 겉치레에 걸맞은 대규모 병력을 기대했던 모양입니다. 그의 기대에 못 미쳐서 참으로 유감이네요.\n"
 "\n"
 "렐리아나"
 
@@ -14881,7 +14880,7 @@ msgctxt "0x0003fe7a"
 msgid ""
 "A holdout over negotiations. This offer comes with caveats, but it is "
 "valuable."
-msgstr "이 협상은 보류하지요. 경고를 동반한 제안이기는 하지만, 분명 가치는 있습니다."
+msgstr "협상하면 해결되는 문제에요. 경고를 동반한 제안이기는 하지만, 그럴만한 가치가 있어요."
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_04
 #. PATH = OperationEntry/Specialist[1]/SpecialistMissionInfo/OperationTextReference
@@ -14889,7 +14888,7 @@ msgctxt "0x0003fe7b"
 msgid ""
 "Answer with a small group and give this fool no reason to posture. "
 "Sutherland and his crew will serve."
-msgstr "대답 대신 소규모 집단을 보내서 이 머저리가 더는 허세를 부리지 못하게 하겠습니다. 서덜랜드와 그 동료들만으로도 충분할 겁니다."
+msgstr "소규모 집단을 보내 이 머저리가 잘난 척할만한 이유가 없게 만들죠. 서덜랜드와 그의 동료들이면 되겠군요."
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_04
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
@@ -18745,7 +18744,7 @@ msgid ""
 "\n"
 "Sister Paulette"
 msgstr ""
-"심문관 {spHeroLastName},\n"
+"{spHeroLastName} 심문관님,\n"
 "\n"
 "저를 기억하지 못하실수도 있겠지만, 저는 하늘보루에 잠시 머물다가 부상당한 병사 몇명과 함께 페렐던까지 동행했습니다. 저희의 여정은 "
 "생각했던 것보다 더 위험했지만, 심문회의 도움덕분에 이렇게 살아남아 이 글을 씁니다.\n"
@@ -18789,7 +18788,7 @@ msgid ""
 "\n"
 "Sister Paulette"
 msgstr ""
-"심문관 {spHeroLastName},\n"
+"{spHeroLastName} 심문관님,\n"
 "\n"
 "저는 데네림의 성가회 자매들과 합류했습니다. 그전에 제가 있던 마을의 성가회보다 더 웅장하군요. 이곳에서 제가 선한 일을 행할 수 있다고 "
 "믿습니다.\n"
@@ -19654,10 +19653,9 @@ msgid ""
 msgstr ""
 "<i>렐리아나의 손에 들린 보고서</i>\n"
 "\n"
-"서덜랜드와 그 동료들이 심문회의 금고를 불리기 위해 좀 더 탐험을 해보겠다고 요청했다. 자신들이 투자받은 만큼의 값어치를 하고 "
-"돌아가겠다는 의욕에 가득 차 있는 듯하다. 목표에 관해 설명할 때는 조금 횡설수설하긴 했지만 가능성은 있어 보인다. 이런 소규모 "
-"집단이라면 확실히 그들이 순찰하려는 잃어버린 도시라던가 공포로 가득 찬 무덤, 국경지대의 요새 같은 곳을 뒤지고 다니는데 훨씬 적합할 "
-"듯하다."
+"서덜랜드 모험단이 심문회의 금고를 불리기 위한 추가 탐험을 요청했다. 그는 투자받은 만큼의 값어치를 하고 말겠다는 의욕에 가득 차 있는 "
+"듯하다. 목표에 관해 설명할 때는 조금 횡설수설하긴 했지만, 가능성은 있어 보인다. 이런 소규모 집단이라면 확실히 그들이 순찰하려는 "
+"잃어버린 도시나 공포로 가득 찬 무덤, 국경지대의 요새 같은 곳을 뒤지고 다니는 데 훨씬 적합할 듯하다."
 
 #. EBX = DA3/designcontent/Operations/Global/TheCrew/gen_chain_the_crew_06
 #. PATH = OperationEntry/TextEntry[1]
@@ -19720,17 +19718,17 @@ msgid ""
 msgstr ""
 "심문회는 애버나시 경과 아래쪽의 모브란이 어떻게 지내는지에 대한 소식을 받았다.\n"
 "\n"
-"<i>애버나시 경으로부터:  </i>\n"
+"<i>애버나시 경으로부터: </i>\n"
 "\n"
 "더는 못 참겠습니다! 부탁드립니다, 심문관. 그 짐승을 다시 데려가 주십시오! 그 짐승 놈이 네스터 부인에게 볼기짝을 드러내 보이고, "
 "엠멜 경의 말을 때렸습니다. 게다가 혼자서 제 어머니의 금색 장의자를 4층 계단 위로 옮겨 놓았습니다! 사실, 이건 지금 생각해 보니 "
-"상당히 도움이 되긴 했지만, 아니, 제가 말씀드리려는 건 이게 아닙니다! 이 자를 데리고 있으면 제게 무슨 득이 있단 말입니까? 이 자가 "
-"어떤 부분에서 제게 도움이 될 수 있냔 말입니다! 이젠 정말 한계입니다!\n"
+"도움이 되긴 했지만, 아니, 제가 말씀드리려는 건 이게 아닙니다! 이 자를 데리고 있는게 제게 무슨 득이 있단 말입니까? 이 자가 어떤 "
+"부분에서 제게 도움이 될 수 있냔 말입니다! 이젠 정말 한계입니다!\n"
 "\n"
 "<i>아래쪽의 모브란이 적어 놓은 것으로 보이는 글귀:</i>\n"
 "\n"
 "지겨워 죽겠군! 이 멍청한 인간은 자기 운명이 어쩌고 하면서 징징거리는 것 말고는 도대체 하는 것이 없소! 우리 사이엔 당신의 대업에 "
-"도움을 줄 수 있는 공통점이 아무것도 없다오. 게다가 이 자가 얼마나 지저분하게 사는지 당신은 상상도 못할 걸."
+"도움을 줄 수 있는 공통점이 아무것도 없다오. 게다가 이 자가 얼마나 지저분하게 사는지 당신은 상상도 못 할 걸."
 
 #. EBX = DA3/designcontent/Operations/Global/Judgments/gen_ops_judgments_avaar_02
 #. PATH = OperationEntry/TextEntry[1]
@@ -20136,9 +20134,8 @@ msgid ""
 "grown more sinister in the retelling. Ser Barris has volunteered to "
 "investigate. If the accused is an abomination, the city is in danger."
 msgstr ""
-"제이더의 한 젊은 남성에게 흉물이라는 혐의가 떨어졌다. 지역 당국에서는 이 이야기가 전해질수록 그가 저질렀다는 범죄 혐의에 대한 소문이 "
-"점점 악랄해지고 있어, 그를 철저히 감사하고 있다. 이에 배리스 경이 조사하겠다고 자원했다. 그 남성이 정말로 흉물이라면 도시가 "
-"위험해진다."
+"제이더의 한 젊은 남성에게 흉물이라는 혐의가 떨어졌다. 그가 저질렀다는 범죄에 관한 소문이 사람들 입에 오르내리며 점점 더 악랄해지자, "
+"지역 당국은 그를 구금하기로 하였다. 이에 배리스 경이 조사를 위해 자원했다. 그 남성이 정말로 흉물이라면 도시가 위험에 빠질 수도 있다."
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/SeekerFortress/See_ops_barris_03
 #. PATH = OperationEntry/TextEntry[1]
@@ -20159,11 +20156,11 @@ msgstr ""
 "심문관님,\n"
 "\n"
 "흉물이라는 혐의를 받은 자는 무고한 것으로 밝혀졌습니다. 그는 그저 이제 막 자신의 힘에 눈을 뜬 마법사였습니다. 불행히도, 우리가 "
-"도착했을 때는 이미 많은 시민들이 그를 찾아서 폭행한 후였습니다. 무장한 병사들이 군중을 해산시켰지만, 그의 부상이 치유되기까지는 수 "
-"주가 걸릴 것으로 예상됩니다.\n"
+"도착했을 때는 이미 많은 시민이 그를 찾아서 폭행한 후였습니다. 무장한 병사들이 군중을 해산시켰지만, 그의 부상이 치유되기까지는 수 주가 "
+"걸릴 것으로 예상됩니다.\n"
 "\n"
-"그는 이 일에서 벗어났지만, 아직 고통에 빠져있습니다. 하지만 우리의 새 마법사는 곧 훈련을 시작해야만 합니다. 심문회에 복귀한 후, "
-"그가 자신의 새로운 힘을 제어할 수 있도록 도와줄 수 있을만한 사람을 찾겠습니다.\n"
+"그는 혐의를 벗었지만, 아직 고통에 빠져있습니다. 우리는 곧 새 마법사를 위한 훈련을 시작해야 할 것입니다. 심문회에 복귀하면 그가 "
+"자신의 새로운 힘을 제어하는 것을 도와줄 수 있는 사람을 찾겠습니다.\n"
 "\n"
 "배리스 경"
 
@@ -20205,7 +20202,7 @@ msgid ""
 "We're owed favors in Jader. Local nobility can take the man into protection "
 "until Ser Barris arrives, in case a mob transpires."
 msgstr ""
-"제이더에는 우리에게 신세진 이들이 있죠. 군중들이 들고 일어설 경우를 대비해서, 배리스 경이 도착할 때까지 현지 귀족들이 그 남성을 "
+"제이더에는 우리에게 신세진 이들이 있죠. 군중들이 들고 일어설 경우를 대비해서, 배리스 경이 도착할 때까지 현지 귀족이 그 남성을 "
 "보호하게 하겠습니다."
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/SeekerFortress/See_ops_barris_03
@@ -20213,7 +20210,7 @@ msgstr ""
 msgctxt "0x000402a9"
 msgid ""
 "My scouts can attempt to sort fact from rumor, although it may be futile."
-msgstr "제 요원들을 시켜 소문에서 사실을 가려내기 위해 시도해 볼 순 있습니다. 헛고생일지도 모르겠지만요."
+msgstr "제 요원들이 소문에서 무엇이 사실인지 가려내 볼 수 있습니다. 헛고생일지도 모르겠지만요."
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/SeekerFortress/See_ops_barris_03
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
@@ -22182,7 +22179,7 @@ msgstr ""
 #. PATH = WartableEntry/TitleReference
 msgctxt "0x00040766"
 msgid "Truth or Dare: See and Be Seen"
-msgstr "진실 게임:  보는 것과 보이는 것"
+msgstr "진실 게임: 보는 것과 보이는 것"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Vivienne/gen_ops_viv3
 #. PATH = OperationEntry/TextEntry[0]
@@ -22205,13 +22202,12 @@ msgid ""
 msgstr ""
 "대사님께,\n"
 "\n"
-"하늘보루에서 귀하가 보여주신 은혜로운 환대에 대한 감사를 차마 말로 표현할 수가 없군요. 헤이븐에서 사건이 있었던 후로 제국 내에선 어딜 "
-"가도 \"심문회\"라는 단어가 들리지 않는 곳이 없습니다. 들려오는 여러 유언비어에 제가 몇 가지나마 사실을 보탤 수 있게 되어 기쁩니다."
+"하늘보루에서 귀하가 보여주신 정중한 환대에 감사하는 마음을 차마 다 표현할 길이 없군요. 헤이븐 사건 이후로 제국 내에선 \"심문회\"라는"
+" 단어가 들리지 않는 곳이 없습니다. 들려오는 여러 유언비어에 제가 몇 가지나마 사실을 보탤 수 있게 되어 기쁩니다.\n"
 "\n"
-"\n"
-"저 역시 사방에 퍼지고 있는 악의적인 비방을 듣고 있자면 마음이 좋지 않습니다. 저스티니아 5세는 정말 훌륭한 분이셨습니다. 사람들이 "
-"그녀의 유산을 그런 식으로 더럽힌다고 생각하니 몹시 고통스럽습니다. 전 곧 발 포레로 향할 예정입니다. 제가 이 문제에 대한 진실을 "
-"사촌들에게 알리겠습니다.\n"
+"저 역시 사방에 퍼지고 있는 악의적인 비방들을 듣고 있자면 마음이 좋지 않습니다. 저스티니아 5세는 정말 훌륭한 분이셨습니다. 사람들이 "
+"그녀의 유산을 그런 식으로 더럽힌다고 생각하니 몹시 고통스러울 따름입니다. 전 곧 발 포레로 향할 예정입니다. 제가 이 문제에 대한 "
+"진실을 사촌들에게 알리겠습니다.\n"
 "\n"
 "이만 줄이겠습니다,\n"
 "레날드 드 무리어 백작"
@@ -22741,7 +22737,7 @@ msgid ""
 "Cordially,\n"
 "Marquise Mantillon\n"
 msgstr ""
-"친애하는 심문관 {spHeroName},\n"
+"친애하는 {spHeroName} 심문관,\n"
 "\n"
 "겨울 궁전에서는 함께 춤을 출 기회가 없어 아쉬웠습니다. 혹시 그때 추지 못한 춤을 지금 추는 건 어떠신지요? 어쩌면 알망드에는 별로 "
 "익숙하지 않으실지 모르겠군요. 알망드는 음악과 놀음판의 우아한 춤동작에 적용되는 서곡입니다. 제가 당신에게 그 스텝을 가르쳐드리겠습니다."
@@ -23703,8 +23699,9 @@ msgstr ""
 "\n"
 "귀공이 내 나라의 서부 지역에 야영지를 꾸린 걸 보니 진작에 귀공을 만날 걸 그랬다는 생각이 드는군요. 누군가 지도에서 헤이븐을 "
 "없애버리기 전에 말입니다. 더 정확히 말하면 <i>내</i> 지도에서요. 기분이 언짢습니다. 처음에 허가도 받지 않은 군대 하나가 "
-"페렐던에 들어서더니, 이젠 두 개라니요. 이런, 딴 얘기로 샜군요. 요점은 페렐던의 통치자인 나 알리스터 왕이 그 두 번째 군대의 배후에 "
-"누가 있는지 알아냈다는 겁니다. 그의 테빈터 광신도 집단 신도들이 아마 왕궁 어딘가에 잠입해 있는듯합니다. 분명 잔뜩 신나있겠지요.\n"
+"페렐던에 들어서더니, 이젠 두 개라니요. 이런, 딴 얘기로 샜군요. 요점은 페렐던의 통치자인 나, 알리스터 왕이 그 두 번째 군대의 "
+"배후에 누가 있는지 알아냈다는 겁니다. 그의 테빈터 광신도 집단 신도들이 아마 왕궁 어딘가에 잠입해 있는듯합니다. 분명 잔뜩 신나있겠지요."
+"\n"
 "\n"
 "심문회는 놈들에 대해 더 많은 걸 알고 있지 않습니까. 그대들이 우리를 도와 그 뾰족한 검으로 광신도들을 색출해낸 뒤 이곳에서 떠나 "
 "달라고 요청해 줬으면 합니다. 놈들이 뭘 꾸미는지는 알고 싶지도 않습니다. 한 세기에 대악마 하나까지가 정말로 페렐던이 감당할 수 있는 "
@@ -23768,11 +23765,12 @@ msgstr "딱 생각해 놓은 요원이 있습니다. 그녀를 데네림으로 �
 
 #. EBX = DA3/designcontent/Operations/Ferelden/fer_royal1_op
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
+#, fuzzy
 msgctxt "0x000408f5"
 msgid ""
 "Send forces to aid in the manhunt. Not only should we help, but everyone "
 "should see us doing it."
-msgstr "군대를 보내 수사를 도와야 합니다. 단순히 도와주는 것만이 아니라, 모두에게 우리가 도왔다는 것을 보여줘야 합니다."
+msgstr "군대를 보내 수색를 도와야 합니다. 그저 도와주는 것이 아니라, 모두에게 우리가 도왔다는 것을 보여줘야 합니다."
 
 #. EBX = DA3/designcontent/Operations/WorldUnlocks/dlcred_region_thedescent_epilogue_1
 #. PATH = WartableEntry/TitleReference
@@ -24079,7 +24077,7 @@ msgstr ""
 "\n"
 "<i>그 아래에 있는 플로리안의 글귀</i>\n"
 "\n"
-"위험은 잘 해결되었군요, 심문관 {spHeroLastName}. 당신도 나도 알고 있는 바와 같이, 잠시 동안 검을 찔러 넣고, 이 "
+"위험은 잘 해결되었군요, {spHeroLastName} 심문관. 당신도 나도 알고 있는 바와 같이, 잠시 동안 검을 찔러 넣고, 이 "
 "상황을 이용하고 싶은 욕망을 느꼈지만, 파멸한 병사들 수십의 괴로움을 지켜보는 것만으로도 충분히 달콤한 일이더군요.\n"
 "\n"
 "놀라우시겠지만 당신을 위해 일하는,\n"
@@ -26468,10 +26466,10 @@ msgid ""
 msgstr ""
 "<i>병참 장교가 급히 휘갈겨 쓴 서신</i>\n"
 "\n"
-"지금 같은 논쟁의 여지가 있는 시기에 심문관님의 지혜로움에 이의를 제기하고 싶은 생각은 없으나, 만약 심문회의 이름 하에 활동하는 "
-"용병들에게 계속해서 의존할 생각이라면, 그들에게 <i>우리를</i> 제대로 대변시켜야 한다고 생각합니다. 외부에 심문회가 제대로 된 "
-"장비도 갖추지 못한 용병들을 고용하는 것처럼 보일 순 없습니다. 더 정확히 말하면 <i>제가</i> 용납할 수 없습니다. 서덜랜드가 "
-"이끄는 무리에게 장비를 갖춰줄 수 있도록 허가해주십시오.\n"
+"지금 같은 정신 없는 시기에 심문관님의 현명함에 이의를 제기하고 싶은 생각은 없으나, 만약 <i>우리의</i> 이름 아래 활동하는 "
+"용병들에게 계속해서 의존하실 생각이라면, 그들이 <i>우리를</i> 제대로 나타낼 수 있게 해야 한다고 생각합니다. 심문회가 제대로 된 "
+"장비 하나 챙겨주지 못하는 곳처럼 보일 수는 없습니다. 더 정확히 말하면 <i>제가</i> 용납할 수 없습니다. 서덜랜드가 이끄는 "
+"'일행'에게 장비를 갖춰줄 수 있도록 허가해주십시오.\n"
 "\n"
 "모리스 경"
 
@@ -26505,13 +26503,13 @@ msgstr "그들이 우리를 대변한다면, 우리의 영향력을 반영시킬
 msgctxt "0x0003fe4c"
 msgid ""
 "It would take little to have them look like the hidden arm they could be."
-msgstr "그들을 비밀 병기처럼 보이게 하는 데는 그닥 큰 노력이 들지 않을 겁니다."
+msgstr "그들을 비밀 병기처럼 보이게 만드는 건 그리 어려운 일도 아니죠."
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_03
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
 msgctxt "0x0003fe4d"
 msgid "He wishes them formidable, make them formidable. Heavy armor."
-msgstr "그들이 강해지길 원한다면, 강하게 만들어 주면 되지요. 중갑으로 무장시킵시다."
+msgstr "그들이 강해 보이길 원한다면, 강하게 만들어 주면 되지요. 중갑으로 무장시킵시다."
 
 #. EBX = DA3/designcontent/Operations/Global/Race/gen_race_dwarf_3
 #. PATH = WartableEntry/TitleReference
@@ -27651,7 +27649,7 @@ msgctxt "0x0004092b"
 msgid ""
 "Comtesse Montbelliard, \"the Silver Lady of Churneau,\" is our best ally "
 "here."
-msgstr "\"추르노의 은빛 숙녀\", 몽벨리아드 백작이야말로 우리가 가진 최고의 협력자입니다."
+msgstr "\"처노의 은빛 숙녀\", 몽벨리아드 백작이야말로 우리가 가진 최고의 협력자입니다."
 
 #. EBX = DA3/designcontent/Operations/Global/OrlesianNobles/gen_ops_orlais_noble4
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
@@ -27725,7 +27723,7 @@ msgid ""
 "Red Jenny Charade is looking into who might have organized them."
 msgstr ""
 "우리가 멈춰 세웠던 상단에 관해 보고 드립니다. 베나토리에게는 광신도 나름의 결의가 있을지 몰라도, 알지도 못한 채 그들을 지원하던 "
-"상인들은 내빼는 것도 아주 빠르더군요. 레드 제니의 샤레이트가 그들을 조직한 게 누구인지 알아보는 중입니다."
+"상인들은 내빼는 것도 아주 빠르더군요. 레드 제니의 샤레이드가 그들을 조직한 게 누구인지 알아보는 중입니다."
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Sera/ops_sera_red_jenny_07
 #. PATH = OperationEntry/TextEntry[3]
@@ -28345,7 +28343,6 @@ msgstr "판사의 호의를 얻어내라"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Josephine/Josephine_mainquest_favor2
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0001f55a"
 msgid ""
 "Inquisitor:\n"
@@ -28364,18 +28361,17 @@ msgid ""
 msgstr ""
 "심문관님,\n"
 "\n"
-"두 파라켓 가문을 귀족으로 승격시켜달라는 공식 요청 문서에 올레이 판사의 서명이 필요해요. 이를 위해 올드 판사에게 부탁했더니 대가로 "
-"자신의 사냥 원정에 동행해 줄 병사들을 서리등선 산맥으로 보내달라고 하네요. 그의 말에 따르면 크기가 말만한 어떤 희귀종 거미가 "
-"하늘보루에서 서쪽 방향으로 며칠 동안 가다 보면 있는 동굴 안에 살고 있다고 해요. 길을 안내해 줄 수 있도록 산맥의 지리를 잘 아는 "
+"두 파라켓 가문을 귀족으로 승격시키기 위한 공식 요청 문서에는 반드시 올레이 판사의 서명이 있어야 해요. 올드 판사에게 이를 부탁했더니, "
+"자신의 사냥 원정에 동행할 심문회 병사들을 서리등선 산맥으로 보내달라고 요구해 왔어요. 그의 말에 따르면 하늘보루 서쪽으로 며칠간 "
+"이동해야 나오는 동굴 안에 덩치가 말만 한 어떤 희귀 거미가 살고 있다고 해요. 그에게 길을 안내해 줄 수 있도록 산맥의 지리를 잘 아는 "
 "의장대면 더 좋겠다는군요.\n"
 "\n"
-"올드 판사에게 정찰대와 장교들을 동행시켜주면 기꺼이 우리가 필요한 문서에 서명을 해 줄 거예요.\n"
+"정찰병 몇 명과 장교들을 올드 판사의 동행으로 붙여준다면, 기꺼이 우리에게 필요한 문서에 서명을 해 줄 거예요.\n"
 "\n"
 "조세핀"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Josephine/Josephine_mainquest_favor2
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x0001f65b"
 msgid ""
 "Inquisitor:\n"
@@ -28391,13 +28387,13 @@ msgid ""
 "\n"
 "Josephine"
 msgstr ""
-"심문관,\n"
+"심문관님,\n"
 "\n"
-"두 파라켓 가문을 다시 귀족으로 승격시키기 위해 필요한 서류에 올드 판사의 서명을 받았어요. 이제 그 서류를 여왕의 장관으로부터 "
-"승인받기만 하면 돼요. 시간 되시면 저한테 한번 들러주세요.\n"
+"올드 판사가 두 파라켓 가문을 다시 귀족으로 승격시키기 위해 필요한 서류에 서명했어요. 이제 남은 일은 왕실 장관이 그 서류를 승인해주는 "
+"것뿐이에요. 시간 되시면 제게 한번 들러주세요.\n"
 "\n"
-"그건 그렇고 판사가 우리를 향해 찬사를 보내왔어요. 사냥은 경이로웠고, 우리 병사들은 \"비명을 질러대는 식인괴물\"을 상대로 용감하게 "
-"맞섰다고요. 부상자들은 곧 완쾌될 거라고 치료실로부터 확답을 받았습니다. 덕분에 안심이네요.\n"
+"그건 그렇고 올드 판사는 아주 만족했던 모양이에요. 사냥은 경이로웠고, 우리 병사들은 \"공포의 식인괴물\"을 상대로 용감하게 맞섰다며 "
+"찬사를 보냈어요. 치료소에서 부상자들은 곧 완쾌될 거라고 절 안심시키더군요.\n"
 "\n"
 "조세핀"
 
@@ -28407,7 +28403,7 @@ msgctxt "0x0001f65c"
 msgid ""
 "The commander has kindly found some soldiers he can spare to accompany Judge "
 "Auld's hunting party."
-msgstr "친절하게도 사령관이 올드 판사의 사냥에 동행할 병사들을 몇 명 보내주었어요."
+msgstr "친절하게도 사령관이 올드 판사의 사냥에 동행할 병사들을 몇 명 구해줬어요."
 
 #. EBX = DA3/designcontent/Operations/WorldUnlocks/wld_region_dalesplains
 #. PATH = WartableEntry/TitleReference
@@ -28439,10 +28435,10 @@ msgid ""
 msgstr ""
 "컬렌,\n"
 "\n"
-"우리 첩보원들이 발 르와요와 데일스에 있는 제국군이 접촉을 실패한 이유에 대해 조사했습니다. 할람시랄에서 사건이 있었으니, 발 르와요는 "
-"승임의 평야에 있는 부대에게서 철수했다는 확인을 받았어야 했지만, 그 부분에 대한 확인은 받지 못했습니다. 가스파드 사령관의 최근 공식 "
-"성명에 따르면 탈영이 빈번하다고 합니다. 그리고 그 이후로 소식이 끊겼습니다. 이 일에 추가적인 조사가 필요하다는데 동의하는 바입니다. "
-"필요한 일을 하십시오. 제 요원들을 통해 지원해 드리겠습니다.\n"
+"우리 첩보원들이 수도와 데일스에 주둔 중인 제국군 사이의 연락이 끊어진 이유를 조사했어요. 할람시랄에서의 사건 이후, 발 르와요는 승임의 "
+"평야에 주둔하던 부대로부터 철수했다는 확인을 받았어야 했지만, 그러한 내용은 전혀 받지 못했죠. 가스파드의 사령관이 보내온 마지막 공식 "
+"보고는 탈영 건수가 급속도로 늘고 있다는 내용이었어요. 그리고는 소식이 두절되었죠. 저는 이 일에 추가적인 조사가 필요하다는 데 동의하는 "
+"바입니다. 필요한 일을 하세요. 제 요원들이 지원해 드릴 겁니다.\n"
 "\n"
 "렐리아나"
 
@@ -28464,16 +28460,15 @@ msgid ""
 msgstr ""
 "컬렌,\n"
 "\n"
-"우리 첩보원들이 발 르와요와 데일스에 있는 제국군이 접촉을 실패한 이유에 대해 조사했습니다. 양측 병력은 적대행위를 중단하는데 동의했고, "
-"평화 회담의 결과를 기다리기 위해 각자의 야영지로 후퇴했습니다. 불가사의한 건, 병력이 철수한 이후에 벌어진 일입니다. 가스파드 사령관의 "
-"최근 공식 성명에 따르면 탈영이 빈번하다고 합니다. 그리고 그 이후로 소식이 끊겼습니다. 이 일에 추가적인 조사가 필요하다는데 동의하는 "
-"바입니다. 필요한 일을 하십시오. 제 요원들을 통해 지원해 드리겠습니다.\n"
+"우리 첩보원들이 발 르와요와 데일스에 주둔 중인 제국군 사이의 연락이 끊어진 이유를 조사했어요. 양측 병력은 적대행위를 중단하는데 "
+"동의했고, 평화 회담의 결과를 기다리기 위해 각자의 야영지로 후퇴했습니다. 불가사의한 건, 병력이 철수한 이후에 벌어진 일입니다. "
+"가스파드의 사령관이 보내온 마지막 공식 보고는 탈영 건수가 급속도로 늘고 있다는 내용이었어요. 그리고는 소식이 두절되었죠. 저는 이 일에 "
+"추가적인 조사가 필요하다는 데 동의하는 바입니다. 필요한 일을 하세요. 제 요원들이 지원해 드릴 겁니다.\n"
 "\n"
 "렐리아나"
 
 #. EBX = DA3/designcontent/Operations/WorldUnlocks/wld_region_dalesplains
 #. PATH = OperationEntry/TextEntry[2]
-#, fuzzy
 msgctxt "0x00035d62"
 msgid ""
 "We have established an outpost in the Exalted Plains. Lead Scout Harding is "
@@ -28487,7 +28482,7 @@ msgid ""
 "We can march soldiers into the Exalted Plains and position scouts in "
 "strategic areas. If lines of communication are down, we must be prepared for "
 "anything."
-msgstr "병사들을 승임의 평야로 진군시켜, 전략 요충지에 정찰대를 배치시키지요. 통신망이 끊어졌다면 뭐가 됐든 대비하고 있어야 합니다."
+msgstr "병사들을 승임의 평야로 진군시키고 전략적 요충지에 정찰대를 배치하지요. 연락망이 끊어졌다면, 모든 상황을 대비해야 합니다."
 
 #. EBX = DA3/DesignContent/Operations/TheDales/Plains/dal_area_accesstofen
 #. PATH = WartableEntry/TitleReference
@@ -28523,7 +28518,6 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Operations/TheDales/Plains/dal_area_accesstofen
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00039364"
 msgid ""
 "The passageway is clear and safe. Access to the grove restored. One hundred "
@@ -28532,7 +28526,7 @@ msgid ""
 "\n"
 "Chief Engineer Bernardine"
 msgstr ""
-"통로를 안전하게 정리하였고, 숲으로 통하는 길도 복원하였습니다. 에일 백칠십 통 가지고는 열심히 일한 심문회 일꾼 열다섯명을 먹이기에는 "
+"통로를 안전하게 정리하였고, 숲으로 통하는 길도 복원하였습니다. 에일 백칠십 통 가지고는 열심히 일한 심문회 일꾼 열다섯 명을 먹이기에 "
 "턱없이 부족하더군요.\n"
 "\n"
 "수석 기술자 버나딘"
@@ -28632,16 +28626,15 @@ msgid ""
 "\n"
 "Mother Giselle"
 msgstr ""
-"신도들을 보호하겠다는 약속을 잊지 않고 전통적인 성가회 건물을 지으셨군요. 환영할 만한 일입니다. 유익한 일이기도 하고요. 신도들은 "
-"당신이 이 혼란 속에서 길을 안내해줄 거라 기대하며 모여들겠지만, 그 길을 따르며 함께 전력을 다할 것입니다. 대의에 통감하는 한 사람 "
-"한 사람이 모여 군대가 되듯, 작은 구호의 손길이 모이면 커다란 은덕으로 되돌아옵니다. 믿음을 보여주려면 신도들이 자유롭게 봉사할 수 "
-"있도록 힘을 실어주세요. 그러면 지난한 싸움을 이어갈 자금은 저절로 모일 것입니다.\n"
+"신도들을 보호하겠다는 약속을 잊지 않고 전통적인 성가회 건물을 지으셨군요. 환영할 만한 일입니다. 이로운 일이기도 하죠. 신도들은 단지 "
+"당신이 이 혼란 속에서 길을 밝혀주길 바라기만 하는 게 아니라 각자 최선을 다해 기부도 할 것입니다. 대의에 통감하는 개인이 모여 군대가 "
+"되듯, 작은 기부의 손길이 모여 커다란 은혜가 될 수 있습니다. 그대의 믿음을 대변하는 자들에게 힘을 실어주세요. 그러면 우리의 싸움을 "
+"위한 자금은 절로 모일 것입니다.\n"
 "\n"
 "지젤 신모"
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_skyhold_tithe_op
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00043a07"
 msgid ""
 "I fear the faithful were unable to contribute much to the Inquisition's "
@@ -28650,14 +28643,13 @@ msgid ""
 "\n"
 "Mother Giselle"
 msgstr ""
-"이번에는 신자들이 심문회 재정에 도움 드릴 일이 거의 없었던 것 같군요. 예술적 영감을 나무랄 수는 없지요. 우리 모두 혼란과 불안의 "
-"시대를 겪고 있으니.\n"
+"이번에는 신자들이 심문회 재정에 도움 드릴 일이 거의 없었던 것 같군요. 심문관님을 나무랄 수는 없지요. 우리 모두 혼란과 불안의 시대를 "
+"겪고 있으니.\n"
 "\n"
 "지젤 신모"
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_skyhold_tithe_op
 #. PATH = OperationEntry/TextEntry[2]
-#, fuzzy
 msgctxt "0x00043a0a"
 msgid ""
 "The faithful reward, although many more will join if they see your continued "
@@ -28665,13 +28657,12 @@ msgid ""
 "\n"
 "Mother Giselle"
 msgstr ""
-"믿는 자에겐 복이 온다 하지요. 심문관께서 신도들의 신앙심을 고취하려고 노력하시면 더 많은 신도들이 그 은혜에 보답하려 할 것입니다.\n"
+"믿는 자에겐 복이 온다고 하지요. 심문관께서 신도들의 신앙심을 고취하려고 노력하시면 더 많은 신도가 거기에 보답하려 할 것입니다.\n"
 "\n"
 "지젤 신모"
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_skyhold_tithe_op
 #. PATH = OperationEntry/TextEntry[3]
-#, fuzzy
 msgctxt "0x00043a08"
 msgid ""
 "Investment in the cause grows with your effort and inspiration. I expect "
@@ -28679,13 +28670,12 @@ msgid ""
 "\n"
 "Mother Giselle"
 msgstr ""
-"심문관님의 노력과 영감 덕분에 대의에 투자하는 이들이 점점 많아지고 있습니다. 이 길에 축복만이 가득하기를 빕니다.\n"
+"심문관님이 보여준 노력과 정신적 고무 덕분에 대의에 투자하는 이들이 늘어나고 있습니다. 이 길에 축복만이 가득하기를 빕니다.\n"
 "\n"
 "지젤 신모"
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_skyhold_tithe_op
 #. PATH = OperationEntry/TextEntry[4]
-#, fuzzy
 msgctxt "0x00043a0c"
 msgid ""
 "The grace and gratitude of the masses continues to impress. They are "
@@ -28693,7 +28683,7 @@ msgid ""
 "\n"
 "Mother Giselle"
 msgstr ""
-"계속되는 민중의 감사와 은총에 감사할 뿐입니다. 그들은 모든 방면에서 심문관님께 충성을 바칩니다.\n"
+"민중의 감사와 은혜에 커다란 감명을 받았습니다. 그들은 물심양면으로 심문관님을 지지하고 있어요.\n"
 "\n"
 "지젤 신모"
 
@@ -28703,7 +28693,7 @@ msgctxt "0x00043a0f"
 msgid ""
 "The nobility are always willing to prove their faith through the power of "
 "their purse. Many know no other way."
-msgstr "귀족들은 항상 돈주머니의 힘으로 자신의 믿음을 증명하려고 하죠. 다른 방법을 모르는 사람들이 많아요."
+msgstr "귀족들은 항상 자신의 지갑으로 믿음을 증명하려고 애쓰죠. 대부분 다른 방법은 모르거든요."
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_skyhold_tithe_op
 #. PATH = OperationEntry/Specialist[1]/SpecialistMissionInfo/OperationTextReference
@@ -28725,7 +28715,7 @@ msgstr "징집 활동에 수녀나 수사를 동행시키는 건 간단한 일�
 #. PATH = WartableEntry/TitleReference
 msgctxt "0x0004029e"
 msgid "Have Ser Barris Lead Against Demons"
-msgstr "배리스경이 악마에 맞서 기사단을 이끌게 하자"
+msgstr "배리스 경이 악마에 맞설 수 있게 하라"
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/SeekerFortress/See_ops_barris_02
 #. PATH = OperationEntry/TextEntry[0]
@@ -28750,11 +28740,11 @@ msgstr ""
 "\n"
 "배리스 경,\n"
 "\n"
-"당신 말고는 도움을 청할 사람이 떠오르지 않더군요. 공포가 안스버그를 뒤덮고 있습니다. 악마들이 집을 잿더미로 만들고, 어둠이 우리 경비 "
-"대원들을 찢어발기고 있으며, 백작은 성 안에서 두문불출하고 있습니다. 이곳에 경비대와 함께 싸울 정도로 용기 있는 자들은 이제 거의 남아 "
-"있지 않습니다.\n"
+"자네 말고는 도움을 청할 사람이 떠오르지 않았네, 친구여. 공포가 안스버그를 뒤덮고 있어. 악마들이 집을 잿더미로 만들고, 어둠이 우리 "
+"경비대원들을 찢어발겼지. 백작은 성안에 들어가 문을 걸어 잠가버렸고, 이제 이곳에 경비대와 함께 싸울 정도로 용기 있는 자들은 거의 남아 "
+"있지 않네.\n"
 "\n"
-"배리스, 진심으로 부탁드립니다. 우리에게는 마법에 대항하여 싸울 수 있는 사람이 필요합니다. 안스버그는 성기사단이 필요합니다.\n"
+"배리스, 내 진심으로 부탁하네. 우리에게는 마법에 대항하여 싸울 수 있는 사람이 필요해. 안스버그에는 성기사단이 필요하다네.\n"
 "\n"
 "경비대장 와인만"
 
@@ -28777,19 +28767,18 @@ msgid ""
 msgstr ""
 "배리스 경,\n"
 "\n"
-"죽은 자를 위한 모닥불이 밤낮없이 타오르고 있습니다. 백작은 전투가 극에 달했을 당시 살해되었다는 소문이 있습니다. 그 여인이 마음에 "
-"들었던 건 아니었지만, 그녀의 가족이 후계자를 결정하려면 아직 한참은 멀은 것 같습니다.\n"
+"죽은 자를 위한 모닥불이 밤낮없이 타오르고 있네. 소문에는 전투가 한창 치열해졌을 때 백작이 살해되었다고 하더군. 그다지 좋게 생각하던 "
+"사람은 아니었지만, 그녀의 가족이 일주일째 후계자 자리를 놓고 다투는 걸 보니 애석한 마음이 드는군.\n"
 "\n"
-"우울한 소식만 있는 건 아닙니다. 성가회의 수녀가 어제 있었던 설교에서 내내 \"성기사의 선행\"에 대해 전했습니다. 우리에게 어떤 일이 "
-"닥치더라도, 당신에 대한 감사함은 변함없을 겁니다.\n"
+"우울한 소식만 있는 건 아닐세. 성가회 수녀가 어제 있었던 설교에서 내내 \"성기사의 선행\"에 대해 전해 주었지. 앞으로 우리에게 어떤 "
+"일이 닥치더라도, 자네를 향한 우리의 감사는 변함없을 걸세.\n"
 "\n"
-"당신과 심문관에게 안드라스테의 가호가 있기를.\n"
+"자네와 심문관님에게 안드라스테의 가호가 있기를.\n"
 "\n"
 "경비 대장 와인만"
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/SeekerFortress/See_ops_barris_02
 #. PATH = OperationEntry/TextEntry[2]
-#, fuzzy
 msgctxt "0x000402a0"
 msgid ""
 "Ser Barris:\n"
@@ -28808,19 +28797,18 @@ msgid ""
 "Always in your debt,\n"
 "Guard-Captain Weinman"
 msgstr ""
-"배리스 경:\n"
+"배리스 경,\n"
 "\n"
-"당신이 떠난 지 불과 일주일밖에 지나지 않았지만, 안스버그는 천천히 예전의 모습을 찾아가고 있습니다. 우리는 악마들이 거리를 뒤덮었을 "
-"때를 결코 잊지 않을 것이고, 마찬가지로 거리를 되찾아준 사람들을 언제나 기억할 것입니다.\n"
+"자네가 떠난 지 불과 일주일밖에 지나지 않았지만, 안스버그는 천천히 예전의 모습을 찾아가고 있네. 우리는 어떻게 악마들이 우리의 거리를 "
+"뒤덮었는지, 또한 누가 그것을 되찾아주었는지 절대 잊지 않을 걸세.\n"
 "\n"
-"이곳에서는 우리의 성기사 수호자들을 기리기 위한 동상을 세우자는 말이 나오고 있습니다. 벌써부터 \"너무 과하다, 말도 안 되는 소리 "
-"마라\"라고 말하는 당신의 목소리가 들리는 것 같지만, 당신들이 도시를 구해준 것에 비하면 너무나 약소합니다. 부디 우리가 영웅들을 "
-"예우할 수 있도록 허락해 주십시오.\n"
+"이곳에서는 우리의 성기사 수호자들을 기리는 동상을 세우자는 말이 나오고 있네. 벌써부터 \"너무 과해, 말도 안 되는 소리.\"라고 "
+"말하는 자네의 목소리가 들리는 것 같네만, 도시를 구해준 것에 비하면 너무나 약소한 일이지. 부디 우리의 영웅들을 예우할 수 있도록 "
+"허락해 주게.\n"
 "\n"
-"다리에 입은 부상이 흉터로 남도록 두지 마시길. 그리고 시간이 날 때 이곳에 방문해 주시길. 당신의 전투 이야기를 신병들에게도 들려주고 "
-"싶습니다.\n"
+"다리에 입었던 상처는 제대로 치료하게나, 그리고 시간 날 때 한 번 찾아오게. 신병들에게 자네 무용담을 들려줘야지.\n"
 "\n"
-"항상 신세만 지는군요,\n"
+"항상 신세만 지는군,\n"
 "경비 대장 와인만"
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/SeekerFortress/See_ops_barris_02
@@ -28838,7 +28826,7 @@ msgid ""
 "Are mages calling up these demons, or is the Veil there thin? We should "
 "investigate before we send Ser Barris."
 msgstr ""
-"마법사들이 이 악마들을 불러낸 걸까요, 아니면 그곳의 장막이 얇기 때문인 걸까요? 배리스 경을 보내기 전에 먼저 조사를 해야 합니다."
+"이 악마들은 마법사들이 불러낸 걸까요, 아니면 얇은 장막으로 인해 생겨난 걸까요? 배리스 경을 보내기 전에 조사부터 해봐야겠어요."
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/SeekerFortress/See_ops_barris_02
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
@@ -28847,8 +28835,8 @@ msgid ""
 "This isn't a battle; it's a siege inside the city. Arm our veterans and give "
 "them to Ser Barris. I trust him to lead them."
 msgstr ""
-"이건 전투가 아니라, 도시 내의 포위 작전입니다. 전문가들을 무장시키고 배리스 경에게 맡기겠습니다. 배리스 경이라면 그들을 이끌 수 "
-"있으리라 믿습니다."
+"이건 단순한 전투가 아니라, 도시 안에서의 공성전입니다. 숙련병들을 무장시키고 배리스 경에게 맡기겠습니다. 그라면 잘 이끌 수 있을 "
+"겁니다."
 
 #. EBX = DA3/designcontent/Operations/StormCoast/storm_ops_blades_gift
 #. PATH = WartableEntry/TitleReference
@@ -29213,7 +29201,6 @@ msgstr "세로 실종자 수색"
 
 #. EBX = DA3/designcontent/Operations/Global/Serault/serault_ops_2a
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x000405fe"
 msgid ""
 "We know that Justinia's visit to Serault did not contribute in any way to "
@@ -29224,12 +29211,11 @@ msgid ""
 "the deep woods across the river."
 msgstr ""
 "심문회는 저스티니아가 세로를 방문한 일이 그녀의 죽음과 아무런 관련이 없다는 걸 알고 있다. 그럼에도 불구하고 몽틸리예 대사는 심문회의 "
-"사절을 후작의 옆에 남겨두는 방안을 고려중이었다. 불행히도, 세로에서 대사에게 긴급 서신을 보내 후작과 사절이 사냥에서 실종되었다는 "
-"소식을 알려왔다. 후작의 가문은 강 건너편으로 사람들을 보내 깊은 숲을 수색중이다."
+"밀사를 후작의 옆에 남겨두는 방안을 고려 중이었다. 불행히도, 세로에서 긴급 서신을 보내 후작과 밀사가 사냥에서 실종되었다는 소식을 "
+"알려왔다. 현재 후작의 가문은 강 건너편으로 사람들을 보내 깊은 숲을 수색 중이다."
 
 #. EBX = DA3/designcontent/Operations/Global/Serault/serault_ops_2a
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00040600"
 msgid ""
 "We found the emissary in the deep woods, but not the marquis. Our man was "
@@ -29243,17 +29229,16 @@ msgid ""
 "\n"
 "Cullen"
 msgstr ""
-"우리는 깊은 숲속에서 사절을 발견했지만 후작은 찾지 못했습니다. 우리 사절은 몸을 떨고 있었고 목소리를 낼 수도 없었지만 병사들을 이상한 "
-"오두막으로 데려가 줄 수는 있었습니다. 최근에 사용된 흔적이 있었고 그곳에 살았던 자는 우리가 도착했을 때는 이미 달아난 뒤였습니다. "
-"아마도 우리 병사들이 숲속으로 다가오는 소리를 들은 것 같습니다.\n"
+"깊은 숲속에서 밀사를 발견했습니다. 후작은 찾지 못했고요. 우리 밀사는 충격에 말도 할 수 없는 상태였지만, 병사들을 이상한 오두막으로 "
+"데려가 줄 수는 있었습니다. 오두막에는 최근까지 사용된 흔적이 있었지만, 그곳에 살았던 자가 누구든 우리가 도착했을 때는 이미 달아난 "
+"뒤였습니다. 아마도 우리 병사들이 숲속으로 다가오는 소리를 들은 것 같습니다.\n"
 "\n"
-"최선의 결과는 아니었지만, 병사들이 깊은 숲속에서 치유용 약초밭을 발견한 일이 작은 위안이 되었습니다.\n"
+"최선의 결과는 아니었지만, 그나마 병사들이 깊은 숲속에서 치유용 약초밭을 발견한 일이 작은 위안이 되겠군요.\n"
 "\n"
 "컬렌"
 
 #. EBX = DA3/designcontent/Operations/Global/Serault/serault_ops_2a
 #. PATH = OperationEntry/TextEntry[2]
-#, fuzzy
 msgctxt "0x00040601"
 msgid ""
 "Our scouts located a strange hut in the deep woods. Entering, they found the "
@@ -29269,12 +29254,12 @@ msgid ""
 "\n"
 "Leliana"
 msgstr ""
-"우리 정찰대가 깊은 숲 속에서 이상한 오두막을 찾아냈습니다. 그리고 그 안에서 마주보고 앉아서 체스를 두고 있던 후작과 사절도 "
-"발견했는데, 사절은 우리 정찰대를 보자마자 하던 것을 멈추고 달아났다고 합니다. 보고서에는 그의 눈이 '인간의 것이 아니었다'고 묘사되어 "
-"있습니다. 우리 요원들은 곧바로 추적에 나섰지만 붙잡을 순 없었습니다. 후작은 구해준 일에 대해서는 고마워 했지만, 우리 사절의 운명에 "
-"대한 답을 주는 건 꺼려했습니다.\n"
+"정찰대가 깊은 숲속에서 이상한 오두막을 찾아냈습니다. 그리고 그 안에서 후작과 밀사가 마주 보고 앉아 체스를 두고 있는 것을 발견했죠. "
+"밀사는 우리 정찰대를 보자마자 하던 것을 멈추고 달아났습니다. 보고서에는 그의 눈이 '인간의 것이 아니었다'고 묘사되어 있어요. 우리 "
+"요원들이 곧바로 추적에 나섰지만 붙잡을 순 없었습니다. 후작은 자신을 구해준 것을 감사하는 한편, 우리 밀사에게 일어난 일에 대해서는 "
+"대답을 하지 못했습니다. 안 하는 걸 수도 있고요.\n"
 "\n"
-"감사와 조의의 뜻으로 심문회에 세로의 기념품이 도착했습니다.\n"
+"감사와 조의의 뜻을 담아, 심문회에 세로의 기념품이 도착했습니다.\n"
 "\n"
 "렐리아나"
 
@@ -29305,7 +29290,6 @@ msgstr "재판을 위해 하늘보루로 샘슨을 호송하기"
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/Mythal/Myt_Judge_Samson_Op
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x000415c0"
 msgid ""
 "Inquisitor:\n"
@@ -29322,17 +29306,16 @@ msgid ""
 msgstr ""
 "심문관님께,\n"
 "\n"
-"코리피우스는 미살의 사원으로 달려들면서 그의 장군을 죽도록 내버려 뒀더군요. 그가 당신과의 전투로 인해 의식이 없던 덕에 저와 제 "
-"병사들이 그를 쉽게 구속할 수 있었습니다. 군이 야생지에서 돌아오려면 조금 걸리겠지만 우리는 그를 재판에 회부할 수 있도록 샘슨의 복귀를 "
-"신속히 처리할 수 있습니다.\n"
+"코리피우스가 미살의 사원에 쳐들어갔을 때, 놈은 자신의 장군을 죽도록 내버려 뒀더군요. 샘슨이 당신과의 전투로 의식을 잃었던 덕분에 저와 "
+"제 병사들이 그를 쉽게 구속할 수 있었습니다. 병력이 야생지에서 돌아오려면 시간이 조금 걸립니다만, 샘슨을 재판에 회부할 수 있도록 "
+"신속히 데려올 방법을 강구할 수 있을 겁니다.\n"
 "\n"
-"이의가 없으시다면, 제가 그의 재판에 출석하도록 하겠습니다.\n"
+"그리고 이견이 없으시다면, 제가 그의 재판에 출석하도록 하겠습니다.\n"
 "\n"
 "컬렌 사령관"
 
 #. EBX = DA3/designcontent/Operations/Global/CritPathReactivity/Mythal/Myt_Judge_Samson_Op
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x000415be"
 msgid ""
 "Inquisitor {spHeroLastName}:\n"
@@ -29344,7 +29327,7 @@ msgid ""
 msgstr ""
 "{spHeroLastName} 심문관님,\n"
 "\n"
-"샘슨을 감옥에 확보해 놨습니다. 그다지 말을 하지는 않습니다만, 심문관님의 뜻대로 재판장에 데려가겠습니다.\n"
+"무사히 샘슨을 감옥에 집어넣었습니다. 별다른 말은 없더군요. 심문관님이 재판을 원하실 때 이 죄인을 데려가도록 하겠습니다.\n"
 "\n"
 "간수장 블라이스"
 
@@ -29381,7 +29364,6 @@ msgstr "산을 통한 추적"
 
 #. EBX = DA3/DesignContent/Operations/Global/Specialists/gen_ops_forces_mission_bonus_1
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00040bde"
 msgid ""
 "Commander,\n"
@@ -29391,15 +29373,14 @@ msgid ""
 "\n"
 "Lieutenant Kestral"
 msgstr ""
-"사령관,\n"
+"사령관님,\n"
 "\n"
-"붉은 성기사가 서리등선에서 이용하는 경로에 대한 정보를 알아냈습니다. 어떻게 진행할까요?\n"
+"붉은 성기사단이 이용하는 서리등선 산맥 경로를 알아냈습니다. 어떻게 처리할까요?\n"
 "\n"
 "부관 케스트랄"
 
 #. EBX = DA3/DesignContent/Operations/Global/Specialists/gen_ops_forces_mission_bonus_1
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00040bdb"
 msgid ""
 "Commander,\n"
@@ -29409,9 +29390,9 @@ msgid ""
 "\n"
 "Lieutenant Kestral"
 msgstr ""
-"사령관,\n"
+"사령관님,\n"
 "\n"
-"붉은 성기사단이 허를 찔렸습니다. 그들 나름대로는 최선을 다해 싸웠겠으나, 심문회는 생각보다 감당하기 힘든 상대였을 겁니다.\n"
+"붉은 성기사단의 허를 찌르는 데 성공했습니다. 그들 나름대로 반격을 해왔지만, 심문회의 상대가 되지는 못했습니다.\n"
 "\n"
 "부관 케스트랄"
 
@@ -29421,16 +29402,14 @@ msgctxt "0x00040be5"
 msgid ""
 "Wait until they make camp. Assassins can eliminate any sentries, allowing "
 "our soldiers to strike while the templars' guard is down."
-msgstr ""
-"그들이 야영지를 꾸릴 때까지 기다리지요. 암살자들이 보초를 제거하면, 성기사들의 보초가 쓰러진 사이에 우리 병사들이 공격할 수 있을 "
-"겁니다."
+msgstr "그들이 야영지를 꾸릴 때까지 기다리지요. 암살자들이 보초를 제거하면, 무방비한 틈을 타서 우리 병사들이 공격할 수 있을 겁니다."
 
 #. EBX = DA3/DesignContent/Operations/Global/Specialists/gen_ops_forces_mission_bonus_1
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
 msgctxt "0x00040be4"
 msgid ""
 "Set up an ambush. We could block their path while archers lie in wait above."
-msgstr "매복할 준비를 하지요. 궁수들이 높은 곳에서 대기하는 동안 우리가 그들의 경로를 차단하면 됩니다."
+msgstr "매복을 준비합시다. 궁수들이 고지대에서 대기하는 동안 우리가 그들의 경로를 차단하는 겁니다."
 
 #. EBX = DA3/DesignContent/Operations/Crestwood/CrestwoodArea/fer010_ops_rescue_the_spy
 #. PATH = WartableEntry/TitleReference
@@ -29502,11 +29481,12 @@ msgstr "이 일에 우리의 흔적이 남아서는 안 됩니다. 도주에 필
 
 #. EBX = DA3/DesignContent/Operations/Crestwood/CrestwoodArea/fer010_ops_rescue_the_spy
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
+#, fuzzy
 msgctxt "0x0003fe1b"
 msgid ""
 "I can dispatch armed guards claiming Miller is wanted by the Inquisition. I "
 "doubt anyone will contest us."
-msgstr "근위대를 파견해 심문회의 이름으로 방앗간지기의 신병을 요구하겠습니다. 누구도 이의를 제기하지 못할 겁니다."
+msgstr "근위대를 파견해 심문회의 이름으로 방앗간지기의 모병을 요구하겠습니다. 누구도 이의를 제기하지 못할 겁니다."
 
 #. EBX = DA3/designcontent/Operations/Global/Kirkwall/kirkwall_ops_annex
 #. PATH = WartableEntry/TitleReference
@@ -29533,17 +29513,16 @@ msgid ""
 "Sebastian Vael"
 msgstr ""
 "마법사 반란이 불러온 최악의 상황은 이제 지나갔습니다. 하지만 커크월의 성가회를 파괴하고 대주교 엘시나와 많은 무고한 신자들의 목숨을 "
-"빼앗은, 이 모든 일의 원흉인 그 마법사는 여전히 도주중입니다. 광인 앤더스에게 반드시 심판을 내려야 합니다. 비록 그 자는 더는 도시 "
-"내에 없을지 모르나, 그의 수많은 동료들은 여전히 남아있습니다. 따라서 앤더스를 찾기 위해 커크월을 침략할 생각이었으나, 스탁헤이븐과 이 "
-"문제많기로 악명높은 도시와의 합병은 도시 내 저항세력의 반대로 계획대로 진행되지 않고 있습니다. 그들은 내가 이 도시와 자유 동맹의 "
-"모두를 위해 이 일을 하고 있다는 사실을 잊은 듯합니다. 심문회의 충실한 동맹으로서, 더는 무고한 자들이 피해를 입기 전에 커크월의 "
-"통제권을 갖출 수 있도록 이 일에 지지해주시길 마음 깊이 간청드립니다.\n"
+"빼앗은, 이 모든 일의 원흉인 그 마법사는 여전히 도주 중입니다. 광인 앤더스는 반드시 심판을 받아야 합니다. 비록 그자가 도시를 떠났다 "
+"하더라도, 그의 많은 동료는 여전히 그곳에 남아있습니다. 따라서 저는 앤더스를 찾기 위해 커크월을 침략할 생각이었으나, 스탁헤이븐과 이 "
+"악명높은 도시와의 합병은 도시 내 저항 세력의 반대로 계획대로 진행되지 않고 있습니다. 그들은 내가 이 도시와 자유 동맹의 모두를 위해 "
+"이 일을 하고 있다는 사실을 잊은 듯합니다. 심문회의 충실한 동맹으로서, 더는 무고한 자들이 피해를 보기 전에 커크월의 통제권을 갖출 수 "
+"있도록 이 일을 지지해주시길 마음 깊이 간청드립니다.\n"
 "\n"
 "세바스티안 베일"
 
 #. EBX = DA3/designcontent/Operations/Global/Kirkwall/kirkwall_ops_annex
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00040129"
 msgid ""
 "With our help, Guard-Captain Aveline took care of Sebastian's forces. "
@@ -29559,7 +29538,6 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Kirkwall/kirkwall_ops_annex
 #. PATH = OperationEntry/TextEntry[2]
-#, fuzzy
 msgctxt "0x00040128"
 msgid ""
 "The prince was not pleased with our response. His campaign will move "
@@ -29568,8 +29546,8 @@ msgid ""
 "\n"
 "Josephine"
 msgstr ""
-"대공은 우리의 답변을 기꺼워하지 않았어요. 우리의 지원 없이도 그의 계획은 계속 진행될거예요. 그렇게 하게 둡시다. 우리에게는 해결해야 "
-"할 더 큰 문제들이 남아있으니까요.\n"
+"대공은 우리의 답변을 기꺼워하지 않았어요. 우리의 지원 없이도 그의 계획은 계속 진행될 거예요. 그렇게 하라죠. 우리에게는 해결해야 할 "
+"더 큰 문제들이 남아있으니까요.\n"
 "\n"
 "조세핀"
 
@@ -29590,10 +29568,10 @@ msgid ""
 "Leliana"
 msgstr ""
 "세바스티안 베일이 큰 승리를 거두면서, 커크월은 북부 영토 대부분을 양도할 수밖에 없게 되었습니다. 우리는 경비대장 아벨린에게 압도적인 "
-"병력을 보임으로서, 사상자 없이 민병대를 철수시킬 것을 권고했고,이제 그들 전원 모두가 도시의 성벽 뒤에서 요새화하고 있습니다. 그 결과 "
-"교착 상태가 이어지면서 대공은 분노를 누그러뜨리지 못하고 있지만 현재 그가 진행할만한 전략은 모두 불확실한 것들 뿐이라 베일은 우리에게 "
-"신세를 졌다고 생각하고 있습니다. 그 덕분에 제 요원들이 접근하여 그에게 신뢰를 얻었습니다. 이제부터 심문회는 대공의 계획을 알 수 있게 "
-"됐습니다.\n"
+"병력을 보임으로써 사상자 없이 민병대를 철수시킬 것을 권고했고, 이제 그들은 전력을 다해 도시의 성벽 뒤에서 방어 태세를 갖추고 "
+"있습니다. 그 결과 교착 상태가 이어지면서 대공은 분노를 누그러뜨리지 못하고 있지만, 다른 뾰족한 수도 없는 상황에 부닥쳤죠. 베일은 "
+"우리에게 신세를 졌다고 생각하고, 그 감사의 뜻으로 그에게 붙였던 제 요원들이 그의 신뢰를 얻을 수 있었습니다. 이제부터 심문회는 대공의 "
+"계획을 알 수 있게 됐어요.\n"
 "\n"
 "렐리아나"
 
@@ -29605,7 +29583,7 @@ msgid ""
 "conquering army. Let us tell the prince that the Inquisition has no one to "
 "spare. After the destruction of Haven, who would blame us?"
 msgstr ""
-"우리 병사들이 정복군의 일부로 보여진다면 외교적으로 파문을 일으키게 될까봐 우려됩니다. 대공에게는 심문회에 남는 병력이 없다고 전하지요. "
+"우리 병사들이 정복군의 일부로 보인다면 외교적으로 파문을 일으키게 될까 봐 우려됩니다. 대공에게는 심문회에 남는 병력이 없다고 전하지요. "
 "헤이븐이 파괴된 직후니, 누가 우리를 비난할 수 있겠어요?"
 
 #. EBX = DA3/designcontent/Operations/Global/Kirkwall/kirkwall_ops_annex
@@ -29616,8 +29594,8 @@ msgid ""
 "face of our overwhelming force. If we bolster Sebastian with Inquisition "
 "agents as his \"advisors,\" we can keep him from doing more damage."
 msgstr ""
-"이 일을 우리에게 유리한 쪽으로 결론낼 수 있습니다. 아벨린은 압도적인 병력을 마주하면 물러날 테고, 심문회 요원들을 \"조언자\" 로 "
-"보내 세바스티안을 지지한다면 그가 더 큰 피해를 입히는 걸 막을 수 있을 겁니다."
+"이 일을 우리에게 유리한 방향으로 이끌 수 있습니다. 아벨린은 우리의 압도적인 병력을 마주하면 물러날 테고, 심문회 요원들을 세바스티안의 "
+"\"조언자\"로 보내 그를 지지한다면, 그가 더 큰 피해를 주는 걸 막을 수 있을 겁니다."
 
 #. EBX = DA3/designcontent/Operations/Global/Kirkwall/kirkwall_ops_annex
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
@@ -29725,7 +29703,6 @@ msgstr "앞으로가 기대되는 젊은 신병"
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_01
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0003fdc6"
 msgid ""
 "A note in careful handwriting from the youth who recently arrived:\n"
@@ -29742,15 +29719,13 @@ msgstr ""
 "\n"
 "심문회 여러분께,\n"
 "\n"
-"도적 떼가 심문회의 순찰대를 쫓아다니며 괴롭히고 있는 것을 알아냈습니다. 평범한 도적 떼입니다. 제가 그들이 있는 곳을 알려드릴 수 "
-"있어요. 놈들을 막아보려 했지만, 놈들과 달리 저에겐 검이 없습니다. 남는 장비가 있다면 제가 도울 수 있을 것 같습니다. 부디 돕게 해 "
-"주세요.\n"
+"여러분의 순찰대를 집요하게 노리는 도적 떼를 발견했어요. 평범한 놈들이에요. 제가 위치를 알려드릴 수 있어요. 놈들을 막아보려 했지만, "
+"놈들과 달리 저에겐 검이 없습니다. 혹시 남는 무기가 있다면 제가 도울 수 있을 거예요. 꼭 돕고 싶습니다.\n"
 "\n"
 "D.서덜랜드"
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_01
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x0003fdc8"
 msgid ""
 "The Sutherland lad reported back. The bandits were cleared with minor "
@@ -29758,13 +29733,13 @@ msgid ""
 "\n"
 "Cullen"
 msgstr ""
-"서덜랜드가 보고를 올렸습니다. 도적 떼를 물리치고 약간의 전리품을 얻었다고 합니다. 어쩌면 그 소년에게 잠재력이 있을지도 모르겠군요.\n"
+"그 서덜랜드라는 청년이 보고를 올렸습니다. 도적 떼를 물리치고 약간의 전리품을 얻었다고 하는군요. 어쩌면 가능성이 있는 친구인지도 "
+"모르겠습니다.\n"
 "\n"
 "컬렌"
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_01
 #. PATH = OperationEntry/TextEntry[2]
-#, fuzzy
 msgctxt "0x0003fdc9"
 msgid ""
 "The bandits we were warned about are gone. Tell the Sutherland boy thanks. "
@@ -29772,7 +29747,7 @@ msgid ""
 "\n"
 "Leliana"
 msgstr ""
-"경고를 받았던 도적 떼는 모두 처리했습니다. 서덜랜드라는 소년에게 고맙다고 전해주세요.그 아이는 부엌 일꾼으로 들이는걸로 하죠.\n"
+"이야기했던 도적 떼는 처리했습니다. 서덜랜드라는 청년에게 고맙다고 전해주세요. 그를 부엌 일꾼으로 들이는 건 어떨까요.\n"
 "\n"
 "렐리아나"
 
@@ -29781,19 +29756,19 @@ msgstr ""
 msgctxt "0x0003fdca"
 msgid ""
 "If we have the location, just eliminate them. Put the boy to work elsewhere."
-msgstr "위치만 알면, 우리가 처리하면 됩니다. 그 소년은 다른 곳에서 일하게 하고요."
+msgstr "위치만 알면, 우리가 처리하면 됩니다. 그 청년은 다른 곳에서 일하게 하고요."
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_01
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
 msgctxt "0x0003fdc7"
 msgid "If the boy knows where they are, outfit him. It is a minor threat."
-msgstr "그 소년이 도적 떼의 위치를 알고 있는 거라면, 장비를 쥐어주도록 하죠. 그렇게 위험한 일은 아니니까요."
+msgstr "그 청년이 위치를 알고 있다면, 장비를 쥐여주도록 하죠. 그렇게 위험한 일은 아니니까요."
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Vivienne/gen_ops_viv1
 #. PATH = WartableEntry/TitleReference
 msgctxt "0x000405a1"
 msgid "Truth or Dare: The Imperial Court"
-msgstr "진실 게임:  궁정"
+msgstr "진실 게임: 궁정"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Vivienne/gen_ops_viv1
 #. PATH = OperationEntry/TextEntry[0]
@@ -29823,18 +29798,17 @@ msgstr ""
 "\n"
 "친애하는 비비엔,\n"
 "\n"
-"심문회에 대한 그 충격적인 말들에 대해 듣지 못하신 게 분명하군요. 그걸 들었다면 그 자들과 함께 있는 모습 같은 건 절대로 보이지 "
-"않으셨을 테니 말이에요. 당신의 친구된 입장으로서, 제가 진실을 알려드리겠습니다. 그 자들은 저스티니아 교황이 사실은 살아있고, 교황의 "
-"가장 가까운 조언자이자 가장 신뢰하는 심복인 심문회가 이 모든 혼란을 조장했다고 말합니다. 구도자 펜타가스트와 나이팅게일 수녀가 성가회 "
-"내에서 반대 세력을 제거하고 단 한 번의 공격으로 마법사 반란군과 성기사 수장을 동시에 없애버리기 위해 콘클라베를 고의로 폭파했다고요. "
-"당신의 평판을 위해서라도 그들과의 친분을 즉시 끊어버리도록 하세요.\n"
+"심문회와 얽혀있는 그 충격적인 추문들을 듣지 못하신 게 분명하군요. 그걸 들었다면 그자들과 함께 있는 모습 같은 건 절대로 보이지 "
+"않으셨을 테니까요. 당신의 친구로서, 제가 그 내용을 알려드리겠습니다. 사람들은 저스티니아 교황이 사실은 살아있고, 그녀의 가장 가까운 "
+"조언자이자 가장 신뢰하는 심복인 심문회가 그녀의 명에 따라 이 모든 혼란을 조장했다고 말합니다. 펜타가스트 구도자와 나이팅게일 수녀가 "
+"성가회 내 반대 세력을 제거하고 단 한 번의 공격으로 마법사 반란군과 성기사단의 수장을 동시에 없애버리기 위해 콘클라베를 고의로 "
+"폭파했다고요. 당신의 평판을 위해서라도 그들과의 친분을 즉시 끊어버리도록 하세요.\n"
 "\n"
 "깊은 우려를 표하며,\n"
 "엘로디 드 모로 자작"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Vivienne/gen_ops_viv1
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x000405ac"
 msgid ""
 "Commander,\n"
@@ -29848,15 +29822,14 @@ msgid ""
 msgstr ""
 "사령관님께,\n"
 "\n"
-"귀족들을 현장에 데려간 일은... 꽤나 흥미로운 경험이었습니다. 말로리는 붉은 리륨 수정에 본인들의 이름을 새기려는 몇몇 귀족을 몸을 "
-"날려 뜯어말려야 했고, 그중 한 명은 기념으로 새까맣게 탄 시체를 한 구 가져가고 싶어 하기까지 했습니다. 다음번에는, 그 자들을 그냥 "
-"구멍에 떨어뜨리고 오는 편이 낫겠습니다.\n"
+"귀족들을 현장에 데려간 일은... 흥미로운 경험이었습니다. 말로리는 붉은 리륨 수정에 본인의 이름을 새기려는 일부 귀족을 물리적으로 "
+"뜯어말려야 했고, 그중에는 기념으로 새까맣게 탄 시체를 가져가려는 자도 있었습니다. 다음번에는, 그 자들을 그냥 구멍에 떨어뜨리고 오는 "
+"편이 낫겠습니다.\n"
 "\n"
 "기사대장 라일렌"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Vivienne/gen_ops_viv1
 #. PATH = OperationEntry/TextEntry[2]
-#, fuzzy
 msgctxt "0x000405ad"
 msgid ""
 "Ambassador,\n"
@@ -29880,7 +29853,6 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Vivienne/gen_ops_viv1
 #. PATH = OperationEntry/TextEntry[3]
-#, fuzzy
 msgctxt "0x000405ae"
 msgid ""
 "Nightingale,\n"
@@ -29892,8 +29864,7 @@ msgid ""
 msgstr ""
 "나이팅게일,\n"
 "\n"
-"백 개의 그림자를 추적했습니다. 셀레스틴 호수로 향하더군요. 귀족들이 말하기를 그곳은 1년 중에 이맘때가 가장 아름다운 곳이라고 하네요."
-"\n"
+"백 개의 그림자를 추적했습니다. 셀레스틴 호수로 향하더군요. 귀족들이 말하길 그곳은 일 년 중 이맘때가 가장 아름답다고 합니다.\n"
 "\n"
 "어부"
 
@@ -29929,7 +29900,6 @@ msgstr "샘슨 추적"
 
 #. EBX = DA3/designcontent/Operations/Global/Nemesis/Samson/for_nem_HuntingSamson
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0001720c"
 msgid ""
 "Using Maddox as a lead, Cullen has begun to hunt down anyone providing "
@@ -29937,12 +29907,11 @@ msgid ""
 "reagents, dwarven tools, and so on. Cullen is arranging patrols along roads "
 "and bridges for any sign of Samson's forces trading and moving equipment."
 msgstr ""
-"컬렌이 매덕스를 단서 삼아 샘슨의 갑옷을 만드는데 필요한 장비와 보급품을 제공한 사람을 찾고 있다. 컬렌은 샘슨의 부대가 리륨, 온갖 "
-"시약들, 드워프제 연장 등을 거래하고 운송한 흔적을 찾기 위해 도로와 다리에 순찰대를 배치했다."
+"컬렌은 매덕스를 단서 삼아, 샘슨의 갑옷을 관리하는 데 필요할 수 있는 장비와 보급품을 제공하는 자들을 찾고 있다. 예를 들면, 리륨, "
+"시약, 드워프제 연장 같은 것들이다. 컬렌은 샘슨의 부대가 이를 거래하고 운송한 흔적을 찾기 위해 도로와 다리에 순찰대를 배치했다."
 
 #. EBX = DA3/designcontent/Operations/Global/Nemesis/Samson/for_nem_HuntingSamson
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x0001720e"
 msgid ""
 "Inquisitor: \n"
@@ -29958,8 +29927,8 @@ msgid ""
 msgstr ""
 "심문관님,\n"
 "\n"
-"샘슨의 붉은 성기사단 잔존병들이 황야의 숨겨진 장소로 호송하는 보급 상단을 추적했습니다. 그의 본부일지도 모릅니다. 빠르게 확인이 "
-"필요합니다. 중대의 병사들을 우리와 동행하도록 미리 준비시켜 놓았습니다.\n"
+"보급 상단을 황야의 숨겨진 장소로 호송하던 샘슨의 붉은 성기사들을 추적했습니다. 그자의 본거지일 수도 있습니다. 늦기 전에 확인해야 "
+"합니다. 전 이미 병사들을 소집해 우리와 동행하도록 준비 시켜 놓았습니다.\n"
 "\n"
 "시간이 괜찮으실 때 직접 보고드리도록 하겠습니다.\n"
 "\n"
@@ -29971,7 +29940,7 @@ msgctxt "0x0001c960"
 msgid ""
 "I can have the patrols leave right away. This could lead to Samson's "
 "headquarters."
-msgstr "순찰대를 바로 출발시키겠습니다. 샘슨의 본부로 가는 실마리를 찾을 수 있을지 모릅니다."
+msgstr "순찰대를 바로 출발시키겠습니다. 샘슨의 본거지를 알아낼 수 있을지도 모릅니다."
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/gen_ops_skyhold_minstrel
 #. PATH = WartableEntry/TitleReference
@@ -29981,7 +29950,6 @@ msgstr "소문을 막아라"
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/gen_ops_skyhold_minstrel
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x000407f4"
 msgid ""
 "From far-off Montsimmard, a songstress comes,\n"
@@ -29991,16 +29959,15 @@ msgid ""
 "\n"
 "Maryden"
 msgstr ""
-"머나먼 몽시마드서 한 여가수가 왔다네, \n"
-"거짓과 못된 말로 심문회의 이름을 모욕하고 있다네.\n"
-"(이 여잔 학교에서도 맨날 제 머리카락을 잡아당겼어요. 진짜 싫어요.)\n"
-"그녀가 이런 저속한 말을 떠들어대고 다녀서는 안 된다네!\n"
+"머나먼 몽시마드에서 한 여가수가 왔다네, \n"
+"거짓말과 못된 말로 심문회의 이름을 모욕하고 있지.\n"
+"(학교 다닐 때도 진짜 싫었네. 내 머리카락을 잡아당긴 너.)\n"
+"그녀가 이런 저속한 말을 떠들게 놔둬서는 안 된다네!\n"
 "\n"
 "메리덴"
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/gen_ops_skyhold_minstrel
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x000407fb"
 msgid ""
 "A soldier cares not for a poet's pain.\n"
@@ -30015,7 +29982,6 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/gen_ops_skyhold_minstrel
 #. PATH = OperationEntry/TextEntry[2]
-#, fuzzy
 msgctxt "0x000407fa"
 msgid ""
 "The lyre's song is all too quick forgot,\n"
@@ -30030,7 +29996,6 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/gen_ops_skyhold_minstrel
 #. PATH = OperationEntry/TextEntry[3]
-#, fuzzy
 msgctxt "0x000407f9"
 msgid ""
 "A dire act! A lesson learned by all!\n"
@@ -30038,7 +30003,7 @@ msgid ""
 "\n"
 "Maryden"
 msgstr ""
-"끔찍한 일이었다네! 모두가 교훈을 얻었지!\n"
+"무시무시한 일이었다네! 모두가 교훈을 얻었지!\n"
 "행동으로든, 생각으로든 우리를 거스르면 안 된다는 것을.\n"
 "\n"
 "메리덴"
@@ -30047,7 +30012,7 @@ msgstr ""
 #. PATH = OperationEntry/Specialist[0]/SpecialistMissionInfo/OperationTextReference
 msgctxt "0x000407f8"
 msgid "Our allies' words will turn the tide for us."
-msgstr "우리 동맹들의 말이라면, 우리에게 유리한 쪽으로 상황을 역전시킬 수 있을 거예요."
+msgstr "우리 동맹의 말 한마디면 상황을 역전시킬 수 있을 거예요."
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/gen_ops_skyhold_minstrel
 #. PATH = OperationEntry/Specialist[1]/SpecialistMissionInfo/OperationTextReference
@@ -30353,28 +30318,26 @@ msgid ""
 "\n"
 "Ser"
 msgstr ""
-"자네는 나의 가르침을 참고 견뎌냈네. 이제 더는 가르칠 것이 없군. 하지만 자네에게는 아직 신병들과 채워지지 않은 서판들이 남아 있지. "
-"충분히 용감하고 승리를 위해 기꺼이 고통을 겪을 의향이 있는 자 가 있다면 내게로 데려오게. 자네는 마법사를 사냥하지 않나. 내가 그들을 "
-"마법사 사냥꾼으로 만들어 주겠네.\n"
+"난 가르침을 전했고, 그대는 견뎌냈습니다. 이제 더는 가르칠 것이 없습니다. 하지만 그대에겐 새하얀 백지 같은 신병들이 있죠. 그들에게 "
+"용기가 있다면, 그들에게 승리를 위해 고통을 감내할 의지가 있다면, 내게 데려오십시오. 그대는 마법사를 사냥하죠. 내가 마법사 사냥꾼들을 "
+"만들어 드리겠습니다.\n"
 "\n"
 "경"
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_templar
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x000407e6"
 msgid ""
 "You understand. Now my task is truly complete.\n"
 "\n"
 "Ser"
 msgstr ""
-"이해하네. 그렇다면 내 임무는 이걸로 정말 끝이로군.\n"
+"이해합니다. 이로써 내 임무는 정말 끝났군요.\n"
 "\n"
 "경"
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_templar
 #. PATH = OperationEntry/TextEntry[2]
-#, fuzzy
 msgctxt "0x000407e7"
 msgid ""
 "I will teach them. The Herald will inspire them. Pray it is enough to ease "
@@ -30382,7 +30345,7 @@ msgid ""
 "\n"
 "Ser"
 msgstr ""
-"내가 그들을 가르치겠네. 전령의 격려가 있다면, 그들의 고통을 덜어주기에 충분할 걸세.\n"
+"내가 그들을 가르치겠습니다. 전령은 그들을 격려해 주십시오. 그게 그들의 고통을 덜어주기에 충분하면 좋겠군요.\n"
 "\n"
 "경"
 
@@ -30394,8 +30357,8 @@ msgid ""
 "against magic, the greater our chances of defeating Corypheus and the "
 "Venatori."
 msgstr ""
-"경의 말이 맞습니다. 우리에겐 이런저런 위험을 감수할만한 여유가 없어요. 마법에 저항할 수 있는 병사들이 많아진다면 코리피우스와 "
-"베나토리를 처리할 수 있는 가능성도 더 올라갈 겁니다."
+"경의 말이 맞아요. 우리에게 도움을 마다할 여유가 있나요? 마법에 저항할 수 있는 병사들이 많아진다면 코리피우스와 베나토리를 물리칠 수 "
+"있는 가능성도 더 올라갈 거예요."
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/Trainers/gen_ops_trainer_templar
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
@@ -30403,8 +30366,7 @@ msgctxt "0x000407e5"
 msgid ""
 "Do not subject more to this. Men may volunteer but they don't know the truth "
 "of it. They won't until it's too late."
-msgstr ""
-"저는 더 많은 자들이 이 길에 들어서게 하고 싶지 않습니다. 많은 이들이 진실을 모른 채 자원하겠지요. 그리고 깨달았을 땐 이미 늦습니다."
+msgstr "이 길에 들어서는 자를 늘려서는 안됩니다. 이들은 진실을 모른 채 자원할 겁니다. 그리고 깨달았을 땐 이미 늦은 후겠죠."
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_haven_op
 #. PATH = WartableEntry/TitleReference
@@ -30427,16 +30389,14 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_haven_op
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x000404b0"
 msgid ""
 "Our efforts bore fruit. A portion of the profits will be passed to you. Use "
 "it wisely, Herald."
-msgstr "우리의 노력이 결실을 맺었네요. 수익의 일부는 당신에게 보내겠습니다. 현명하게 쓰시길 바랍니다, 전령."
+msgstr "우리의 노력이 결실을 맺었네요. 수익의 일부는 당신에게 보내겠습니다. 현명하게 쓰길 바랍니다, 전령."
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_haven_op
 #. PATH = OperationEntry/TextEntry[2]
-#, fuzzy
 msgctxt "0x000404ad"
 msgid ""
 "Try as we might, our forces have been unable to earn more than meager coin. "
@@ -30450,7 +30410,6 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_haven_op
 #. PATH = OperationEntry/TextEntry[3]
-#, fuzzy
 msgctxt "0x000404ae"
 msgid ""
 "There are evidently many nobles all too willing to disregard our offer of "
@@ -30467,7 +30426,6 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_haven_op
 #. PATH = OperationEntry/TextEntry[4]
-#, fuzzy
 msgctxt "0x000404af"
 msgid ""
 "While my agents have turned up plenty of information, none of it is of the "
@@ -30510,7 +30468,6 @@ msgstr "하늘감시자를 돌곰 요새로 보내라"
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_avvar_faction_skywatch_op
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00046e5b"
 msgid ""
 "Skywatcher, the Avvar healer we encountered in the Fallow Mire, is evidently "
@@ -30520,14 +30477,13 @@ msgid ""
 "\n"
 "Josephine"
 msgstr ""
-"고요한 늪지에서 만난 아바르 치유사인 하늘감시자는 지혜롭고 실용적인 사람으로 많은 사람들로부터 지지를 받고 있는 것으로 보입니다. 그리고 "
-"그런 그가 돌곰 요새에 관심이 있다고 합니다. 그가 심문회를 대신하여 그들을 방문하게 하면 더 많은 존경을 받을 수 있을 거예요.\n"
+"고요한 늪지에서 만난 아바르치유사인 하늘 감시자는 지혜롭고 실용적인 사람으로 많은 요새에서 존경을 받는 것으로 보입니다. 그리고 그런 "
+"그가 돌곰 요새에 관심을 보였어요. 그가 심문회를 대신하여 그 요새를 방문하게 하면 더 많은 존경을 받을 수 있을 거예요.\n"
 "\n"
 "조세핀"
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_avvar_faction_skywatch_op
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00046e5c"
 msgid ""
 "Skywatcher's arrival was grounds for a feast at Stone-Bear Hold. He told "
@@ -30540,16 +30496,15 @@ msgid ""
 "\n"
 "Josephine"
 msgstr ""
-"돌곰 요새에 하늘감시자가 도착한 것은 엄청난 사건이었어요. 그는 자기 요새의 이야기를 들려주고 치료법을 공유했습니다. 태양머리칼 추장은 "
+"돌곰 요새에 하늘 감시자가 도착한 것은 엄청난 사건이었어요. 그는 자기 요새의 이야기를 들려주고 치료법을 공유했습니다. 태양머리칼 추장은 "
 "심문회에 감사를 표했습니다. 돌곰 요새로도, 그리고 그 날 밤 그녀의 침대 속으로도 선물을 보내 준 것에 대해 말이죠.\n"
 "\n"
-"결혼식 때 실로 매듭을 묶는 아바르 전통을 생각했을 때, 이제 \"실 한 오라기 안 걸쳤다\"는 말에는 새로운 의미가 생긴 것 같네요.\n"
+"결혼식 때 실로 매듭을 묶는 아바르 전통을 생각했을 때, 이제 \"바늘 가는 데 실 간다\"는 속담에 새로운 의미가 생긴 것 같네요.\n"
 "\n"
 "조세핀"
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_avvar_faction_skywatch_op
 #. PATH = OperationEntry/TextEntry[2]
-#, fuzzy
 msgctxt "0x00046e59"
 msgid ""
 "Skywatcher caused quite a stir at Stone-Bear Hold. The feats of strength and "
@@ -30562,10 +30517,10 @@ msgid ""
 "\n"
 "Josephine"
 msgstr ""
-"하늘감시자는 돌곰 요새에 상당한 반향을 일으켰습니다. 그의 놀라운 힘과 기술은 아주 요란하고 열광적이었으며, 딱 돌곰 요새에 필요한 "
+"하늘 감시자는 돌곰 요새에 상당한 반향을 일으켰습니다. 그의 놀라운 힘과 기술은 아주 요란하고 열광적이었으며, 딱 돌곰 요새에 필요한 "
 "것이었다고 합니다. 아, 그리고 태양머리칼 추장에 따르면 그는 \"결투장에서만큼 침대 위에서도 훌륭했다\"고 하더군요.\n"
 "\n"
-"결혼식 때 실로 매듭을 묶는 아바르 전통을 생각했을 때, 이제 \"실 한 오라기 안 걸쳤다\"는 말에는 새로운 의미가 생긴 것 같네요.\n"
+"결혼식 때 실로 매듭을 묶는 아바르 전통을 생각했을 때, 이제 \"바늘 가는 데 실 간다\"는 속담에 새로운 의미가 생긴 것 같네요.\n"
 "\n"
 "조세핀"
 
@@ -30583,7 +30538,7 @@ msgctxt "0x00046e60"
 msgid ""
 "Skywatcher is from a different hold. Some friendly competition and tests of "
 "strength will bring both sides together."
-msgstr "하늘감시자는 외지인입니다. 우호적인 경쟁과 힘을 시험하는 방식을 통해 양측을 하나로 합칠 수 있을 겁니다."
+msgstr "하늘 감시자는 외지인입니다. 친선 대결과 힘의 시험 등을 통해 양측을 하나로 합칠 수 있을 겁니다."
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_orinna_op
 #. PATH = WartableEntry/TitleReference
@@ -30860,7 +30815,6 @@ msgstr "어리석은 자들의 음모"
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_avvar_agents_conspiracyguy
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00047005"
 msgid ""
 "This Avvar trader, Helsdim Rolfsen, sent us a report claiming that \"a Plot "
@@ -30873,7 +30827,7 @@ msgid ""
 "\n"
 "Leliana"
 msgstr ""
-"아바르 상인 헬스딤 롤프슨이 \"심문관에 대한 음모\"가 추르노에서 벌어지고 있다고 주장하는 내용의 보고서를 보내왔습니다. 그는 "
+"아바르 상인 헬스딤 롤프슨이 \"심문관에 대한 음모\"가 처노에서 벌어지고 있다고 주장하는 내용의 보고서를 보내왔습니다. 그는 "
 "\"안드라스테인 혈통\"에 대한 추측이나, \"날씨를 통제하기 위해 개발된 북부의 마법 공식\" 따위의 매우 허황된 이야기들을 "
 "늘어놓았지만, 제가 개중에서 이 일과 관련된 몇 명의 이름을 찾아냈습니다. 높은 위치에 있는 하찮은 선동가들이 관심을 끌기 위해 이 같은 "
 "소문을 퍼뜨리고 있습니다. 만약 롤프슨이 이 작당의 주동자를 알아볼 수 있다면, 우리에게 어떤 실질적인 해를 가하기 전에 이 위협을 끝낼 "
@@ -30883,7 +30837,6 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_avvar_agents_conspiracyguy
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00047007"
 msgid ""
 "One of our spies arrived in Churneau to confirm Rolfsen's report. The men "
@@ -30893,8 +30846,8 @@ msgid ""
 "\n"
 "Leliana"
 msgstr ""
-"우리가 보낸 첩보원 한 명이 추르노에 도착해 롤프센의 보고서를 확인했습니다. 문제의 남녀는 모두 도시를 떠난 상태였고, 그들이 지나간 "
-"길의 날씨가 너무나 추워 추적할 수 없었습니다. 이 음모에 대해 밝혀내는 것은 아무래도 어려워 보입니다.\n"
+"우리가 보낸 첩보원 한 명이 처노에 도착해 롤프센의 보고서를 확인했습니다. 문제의 남녀는 모두 도시를 떠난 상태였고, 그들이 지나간 길의 "
+"날씨가 너무나 추워 추적할 수 없었습니다. 이 음모에 대해 밝혀내는 것은 아무래도 어려워 보입니다.\n"
 "\n"
 "렐리아나"
 
@@ -30932,7 +30885,7 @@ msgid ""
 msgstr ""
 "첩보대장님:\n"
 "\n"
-"추르노의 공모자들을 도시 외곽의 대저택까지 추적했습니다. 그곳에서 저는 올레이 귀족들에게 아바르 제품을 파는 보잘것없는 상인인 척 "
+"처노의 공모자들을 도시 외곽의 대저택까지 추적했습니다. 그곳에서 저는 올레이 귀족들에게 아바르 제품을 파는 보잘것없는 상인인 척 "
 "가장하였는데, 많은 올레이인들이 우리의 수공예품을 \"좋은 이야깃거리\"라고 생각하고 있더군요. 안뜰에는 다른 상인들이 있었으며, "
 "재화들을 검사하고 있었습니다. 그곳에서 제 체격을 굉장히 마음에 들어하던 하녀와 친분을 쌓았습니다. 그녀는 그날 밤 자신의 주인과 함께 "
 "연회를 가진 사람들의 이름과, 비밀에 싸인 객차와 가면을 동원해 그 사건을 어떻게 은폐했는지 알려 주었습니다. 그 손님들의 이름은 "
@@ -31003,7 +30956,6 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_avvar_agents_mageexile
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x0004700f"
 msgid ""
 "As per Commander Cullen's suggestion, only our own scholars have spoken with "
@@ -31020,7 +30972,6 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_avvar_agents_mageexile
 #. PATH = OperationEntry/TextEntry[2]
-#, fuzzy
 msgctxt "0x0004700a"
 msgid ""
 "Dear Lady Montilyet,\n"
@@ -31096,7 +31047,6 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_avvar_faction_tyrdda_op
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00046e44"
 msgid ""
 "Stone-Bear Hold is extremely grateful for the relics. According to Thane Sun-"
@@ -31117,7 +31067,6 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_avvar_faction_tyrdda_op
 #. PATH = OperationEntry/TextEntry[2]
-#, fuzzy
 msgctxt "0x00046e43"
 msgid ""
 "Stone-Bear Hold is extremely grateful for the relics, and for us sharing the "
@@ -31163,19 +31112,17 @@ msgstr "아메리단의 후손들과 함께 축하하기"
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_ameridan_lie_op
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00046e02"
 msgid ""
 "The d'Amerides of Orlais claim descent from Inquisitor Ameridan. They are "
 "overjoyed at our discovery of his resting place and wish to honor the "
 "Inquisition for locating their long-lost ancestor."
 msgstr ""
-"올레이의 디 아메리드 가문은 자신들이 아메리단 심문관의 후손이라고 주장하고 있다. 그들은 우리가 자신들의 은신처를 발견한 것에 매우 "
-"기뻐하며, 그들의 오랫동안 잃어버린 조상을 찾아준 심문관에게 경의를 표하고자 하고 있다."
+"올레이의 디 아메리드 가문은 자신들이 아메리단 심문관의 후손이라고 주장하고 있다. 그들은 우리가 아메리단의 은신처를 발견한 것에 매우 "
+"기뻐하며, 오랫동안 잃어버린 그들의 조상을 찾아준 심문관에게 경의를 표하고자 하고 있다."
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_ameridan_lie_op
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00046e00"
 msgid ""
 "We are absolutely committed to maintaining a proper relationship with the "
@@ -31186,15 +31133,13 @@ msgid ""
 "\n"
 "Lady Corinne d'Ameride"
 msgstr ""
-"우리는 심문회와 좋은 관계를 유지하기 위해 최선을 다하고 있습니다. 보잘것없는 헌금이지만 저희가 이번 중요하고 조심스러운 문제에 대한 "
-"귀하의 도움에 깊이 감사하고 있다는 것을 부디 알아주셨으면 합니다. 저희는 언제나 심문회를 생각하고 있다고 자신있게 말씀드리는 바입니다."
-"\n"
+"우리는 심문회와 좋은 관계를 유지하기 위해 최선을 다하고 있습니다. 보잘것없는 헌금이지만 저희가 이 중요하고 민감한 문제를 도와주신 "
+"귀하께 깊이 감사하고 있다는 것을 부디 알아주셨으면 합니다. 저희는 언제나 심문회를 생각하고 있다고 자신있게 말씀드리는 바입니다.\n"
 "\n"
 "코린 디 아메리드 부인"
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_ameridan_lie_op
 #. PATH = OperationEntry/TextEntry[2]
-#, fuzzy
 msgctxt "0x00046dff"
 msgid ""
 "The party was the talk of the country, Lady Montilyet. The Inquisition's "
@@ -31205,9 +31150,9 @@ msgid ""
 "\n"
 "Lady Corinne d'Ameride"
 msgstr ""
-"이번 파티가 나라 전체에서 화젯거리예요, 몽틸리예 대사님. 상류층에서는 올레이의 문화와 유산에 대한 종교재판의 헌신과 노력에 대해 모르는 "
-"사람이 거의 없을 정도이며, 아메리단의 대의를 위한 공물을 바치는 것은 이미 또 하나의 유행이 되었답니다. 이런 일이 가능하게 만들어주신 "
-"심문회에게 크게 감사드리는 바입니다. 이러한 귀족 가문의 일원이 될 수 있어 영광스럽기 그지없네요.\n"
+"이번 파티가 나라 전체에서 화젯거리예요, 몽틸리예 대사님. 상류층에서는 올레이의 문화와 유산에 대한 심문회의 헌신과 노력에 대해 모르는 "
+"사람이 거의 없을 정도이며, 아메리단의 대의에 공물을 바치는 것은 이미 또 하나의 유행이 되었답니다. 이런 일을 가능하게 한 심문회에게 "
+"크게 감사드리는 바입니다. 당신의 일원이 되어 영광입니다 .\n"
 "\n"
 "코린 디 아메리드 부인"
 
@@ -31238,7 +31183,6 @@ msgstr "서리등선 분지 조사"
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_region_unlock_op
 #. PATH = WartableEntry/LevelNameLocalizedString
-#, fuzzy
 msgctxt "0x0004510b"
 msgid "Frostback Basin"
 msgstr "서리등선 분지"
@@ -31248,7 +31192,6 @@ msgstr "서리등선 분지"
 #. STRINGS :
 #.     0x000470c4(291012) : Minimum Suggested Level
 #.     0x000470c5(291013) : 20
-#, fuzzy
 msgctxt "0x000451ab"
 msgid ""
 "{string}291012{/string}: {string}291013{/string}\n"
@@ -31272,8 +31215,8 @@ msgstr ""
 "몽틸리예 대사,\n"
 "\n"
 "이전에 보내주신 서신은 정말 감사했습니다. 최근에 있었던 일을 감안하면 올레이 사람들은 이 발견을 진지하게 받아들이기 어려울 것 "
-"같습니다. 하지만 서리등선 분지를 정찰하면, 학문 분야와 심문회 양쪽 모두에게 유익한 역사적 발견을 안겨줄 수 있을 거라고 확신합니다. "
-"심문회의 확고한 지지자로서, 이 역사적인 순간에 이렇게 훌륭한 단체와 일하게 되어 영광입니다.\n"
+"같습니다. 하지만 서리등선 분지를 정찰하면, 이 분야의 학문과 심문회 양쪽 모두에게 유익한 역사적 발견을 안겨줄 수 있을 거라고 "
+"확신합니다. 심문회의 확고한 지지자로서, 이 역사적인 순간에 이렇게 훌륭한 단체와 일하게 되어 영광입니다.\n"
 "\n"
 "당신의 가장 진실한 벗,\n"
 "\n"
@@ -31282,7 +31225,6 @@ msgstr ""
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_region_unlock_op
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x000451ac"
 msgid ""
 "We've scouted the region and set up camp. Professor Kenric has the scouts "
@@ -31294,8 +31236,8 @@ msgid ""
 "\n"
 "Scout Harding\n"
 msgstr ""
-"지역을 정찰하고 야영지를 세웠습니다. 켄릭 교수는 정찰병들이 찾을 수 있는 거라면 전부 수집하고 있습니다. 지금까지는, 오래된 버클만 "
-"잔뜩 발견했습니다.이것이 더 흥미로운 무언가를 찾아내는 계기가 되길 바랍니다.\n"
+"지역을 정찰하고 야영지를 세웠습니다. 켄릭 교수는 정찰병들이 찾을 수 있는 거라면 전부 수집하고 있습니다. 지금까지는 오래된 버클만 잔뜩 "
+"발견했지만요. 이게 더 흥미로운 무언가를 찾아내는 계기가 되길 바랍니다.\n"
 "\n"
 "이 장소에 오려는 사람이 있다면 누구든 사나운 야생 동물과 성난 아바르에 대비해야 합니다. 여긴 위험한 곳입니다.\n"
 "\n"
@@ -31317,7 +31259,6 @@ msgstr "아메리단의 후손 달래기"
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_ameridan_truth_op
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00046df5"
 msgid ""
 "In light of new evidence regarding Inquisitor Ameridan's heritage, the "
@@ -31328,13 +31269,12 @@ msgid ""
 "reparations, while the d'Amerides would like this embarrassing matter to "
 "disappear."
 msgstr ""
-"아메리단의 유산에 관한 새롭게 나타난 증거에 비추어, 올레이의 디 아메리드 가문은 자신들이 아메리단 심문관의 혈통이라며 수세기 동안 디 "
-"아메리드가 이에 대한 이득을 가로챘다고 주장하는 데일스의 길라인 부족으로 인해 괴로운 상황이라고 호소했다. 길라인 부족은 역사적으로 "
+"심문관 아메리단의 유산과 관련된 새로운 증거에 비추어, 올레이의 디 아메리드 가문은 자신들이 아메리단 심문관의 혈통이라며 수세기 동안 디 "
+"아메리드가 이와 연관된 이득을 가로챘다고 주장하는 데일스의 길라인 부족 때문에 괴로운 상황이라고 호소했다. 길라인 부족은 역사적으로 "
 "동일한 주장을 했으나 당국은 이를 무시했다. 데일스는 배상을 원하는 반면, 디 아메리드 가문은 이 난처한 문제가 종식되길 바라고 있다."
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_ameridan_truth_op
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00046df7"
 msgid ""
 "Clan Ghilain asked for a great deal more, but they are placated for the time "
@@ -31343,14 +31283,13 @@ msgid ""
 "\n"
 "Josephine"
 msgstr ""
-"길라인 부족은 훨씬 더 많은 것을 요구했지만, 당분간은 진정된 상태입니다. 디 아메리드는 이번 일에 대해 대단히 감사해하며, 누가 봐도 "
-"알 수 있을 만큼 심문회에게 충성하고 있습니다.\n"
+"길라인 부족은 훨씬 더 많은 것을 요구했지만 일단은 진정된 상태입니다. 디 아메리드는 이번 일을 대단히 감사해하며, 누가 봐도 알 수 "
+"있을 만큼 심문회에게 충성하고 있습니다.\n"
 "\n"
 "조세핀"
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_ameridan_truth_op
 #. PATH = OperationEntry/TextEntry[2]
-#, fuzzy
 msgctxt "0x00046df4"
 msgid ""
 "Clan Ghilain has been happy to work with the Inquisition, sending scouts to "
@@ -31359,14 +31298,13 @@ msgid ""
 "\n"
 "Leliana"
 msgstr ""
-"길라인 부족은 심문회와 함께 일하게 된 것을 기뻐하며, 자신들의 조상을 기리고, 우리를 돕기 위해 정찰병을 보냈습니다. 한편 디 "
-"아메리드는 심문회에게 보상을 함으로써 문제를 해결할 수 있어 기쁘게 생각하고 있습니다.\n"
+"길라인 부족은 심문회와 함께 일하게 되어 기뻐하며, 그들의 조상을 기리고자 우리를 도울 정찰병을 보냈습니다. 한편 디 아메리드는 "
+"심문회에게 보상을 함으로써 문제를 해결할 수 있어 기쁘게 생각하고 있습니다.\n"
 "\n"
 "렐리아나"
 
 #. EBX = DA3_DLC1/DesignContent/Operations/dlc1_ameridan_truth_op
 #. PATH = OperationEntry/TextEntry[3]
-#, fuzzy
 msgctxt "0x00046dfa"
 msgid ""
 "Clan Ghilain offers its thanks to the Inquisition. We have long argued that "
@@ -31377,9 +31315,9 @@ msgid ""
 "\n"
 "Keeper Levinia Ghilain"
 msgstr ""
-"길라인 부족은 심문회에게 감사를 표하는 바입니다. 우리는 오랫동안 올레이 영주들의 조롱을 받으며 아메리단이 우리 민족 중 하나였다는 "
-"사실을 주장해왔습니다. 디 아메리드로부터 받은 배상금은 올 겨울 부족 사람들에게 전달할 예정입니다. 진실을 위한 심문회의 이 같은 헌신에 "
-"깊은 존경을 드립니다.\n"
+"길라인 부족은 심문회에게 감사를 표하는 바입니다. 우리는 올레이 영주들의 조롱을 받으면서도 아메리단이 우리 동족이었다는 사실을 오랫동안 "
+"주장해왔습니다. 디 아메리드로부터 받은 배상금은 올 겨울 부족 사람들에게 전달할 예정입니다. 진실을 위한 심문회의 이 같은 헌신에 깊은 "
+"존경을 드립니다.\n"
 "\n"
 "수호자 레비니아 길라인"
 
@@ -31533,7 +31471,6 @@ msgstr "{string}305810{/string}: 군단 야영지 개선"
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/dlcred_rebuild_mission_09
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0004a999"
 msgid ""
 "The Inquisition's efforts in the Deep Roads would greatly benefit from "
@@ -31541,12 +31478,11 @@ msgid ""
 "Additional crafting tables can be constructed and a quartermaster brought in "
 "to offer basic goods and services."
 msgstr ""
-"지하 가도 내에서의 심문회의 노력 덕분에 망자의 군단 주 야영지로부터의 추가 물류 지원을 받게 되면서 큰 이득을 얻게 되었다. 추가 "
+"심문회가 지하 가도 내에서 노력한 덕분에, 망자의 군단 주 야영지에서 추가 물류 지원을 받게 되면서 큰 이득을 얻게 되었다. 추가 "
 "제작대를 만들 수 있고, 기초적인 상품과 서비스를 제공하는 병참 장교를 데려올 수 있게 되었다."
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/dlcred_rebuild_mission_09
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x0004a998"
 msgid ""
 "Inquisition forces have built additional crafting tables, and a "
@@ -31608,18 +31544,16 @@ msgstr "{string}305810{/string}: 순수의 요새 광석 수확"
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/dlcred_rebuild_mission_13
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0004a9b3"
 msgid ""
 "A tunnel cleared by the Inquisition in the Bastion of the Pure has revealed "
 "a cave rich with mineral resources. An expeditionary force could recover a "
 "large quantity of useful materials."
 msgstr ""
-"심문회가 정리한 순수의 요새의 땅굴에서 광물 자원이 풍부한 동굴이 모습을 드러냈다. 원정대를 보내면 대량의 유용한 광물을 회수할 수 있다."
+"심문회가 정리한 순수의 요새 땅굴에서 광물 자원이 풍부한 동굴이 모습을 드러냈다. 원정대를 보내면 대량의 유용한 광물을 회수할 수 있다."
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/dlcred_rebuild_mission_13
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x0004a9b1"
 msgid "The expedition has returned with a bounty of mineral resources."
 msgstr "원정대가 풍부한 광물 자원을 가지고 돌아왔다."
@@ -31640,7 +31574,6 @@ msgstr "{string}305810{/string}: 헤이드룬 타이그 상층부 다리"
 
 #. EBX = DA3_dlc_red/designcontent/Operations/da3_dlc_red_rebuild_mission_01
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x000483c7"
 msgid ""
 "The Inquisition has identified a location near the entrance to Heidrun Thaig "
@@ -31653,7 +31586,6 @@ msgstr ""
 
 #. EBX = DA3_dlc_red/designcontent/Operations/da3_dlc_red_rebuild_mission_01
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x000483c9"
 msgid ""
 "The construction team has completed a bridge near the entrance to Heidrun "
@@ -31731,7 +31663,6 @@ msgstr "{string}305810{/string}: 순수의 요새 크레탈 사냥"
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/dlcred_rebuild_mission_14
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0004a9b6"
 msgid ""
 "The Inquisition has identified several cretahl dens in the caves near the "
@@ -31744,12 +31675,11 @@ msgstr ""
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/dlcred_rebuild_mission_14
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x0004a9b7"
 msgid ""
 "Inquisition hunters have returned with a number of quality cretahl hides, "
 "ready for sale."
-msgstr "심문회 사냥꾼들이 판매 준비가 된 여러가지의 고급 크레탈 가죽을 들고 돌아왔다."
+msgstr "심문회 사냥꾼들이 팔 만한 여러 질 좋은 크레탈 가죽을 들고 돌아왔다."
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/dlcred_rebuild_mission_14
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
@@ -31767,7 +31697,6 @@ msgstr "{string}305810{/string}: 잊힌 동굴 다리 건설"
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/da3_dlc_red_rebuild_mission_06
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00049f6e"
 msgid ""
 "Inquisition scouts have identified a location in the Forgotten Caverns where "
@@ -31779,7 +31708,6 @@ msgstr ""
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/da3_dlc_red_rebuild_mission_06
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00049f6b"
 msgid ""
 "The construction team has completed a bridge in the Forgotten Caverns to "
@@ -31822,7 +31750,6 @@ msgstr "{string}305810{/string}: 가라앉은 바다 다리 건설"
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/dlcred_rebuild_mission_08
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0004a997"
 msgid ""
 "The Inquisition has identified a location near the Buried Sea in the Bastion "
@@ -31834,7 +31761,6 @@ msgstr ""
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/dlcred_rebuild_mission_08
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x0004a993"
 msgid ""
 "The construction team has built a bridge that grants access to a rocky spire "
@@ -31860,7 +31786,6 @@ msgstr "{string}305810{/string}: 헤이드룬 타이그 중앙부 다리"
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/da3_dlc_red_rebuild_mission_02
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00049f56"
 msgid ""
 "The Inquisition has discovered an interesting artifact halfway down the "
@@ -31872,7 +31797,6 @@ msgstr ""
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/da3_dlc_red_rebuild_mission_02
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00049f55"
 msgid ""
 "The construction team has completed a bridge halfway down the ruins of "
@@ -31914,7 +31838,6 @@ msgstr "{string}305810{/string}: 순수의 요새 발굴"
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/da3_dlc_red_rebuild_mission_04
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00049f5e"
 msgid ""
 "The Inquisition has identified a location where a construction team could "
@@ -31926,7 +31849,6 @@ msgstr ""
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/da3_dlc_red_rebuild_mission_04
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00049f5d"
 msgid ""
 "The construction team has finished clearing a tunnel that will allow "
@@ -31968,7 +31890,6 @@ msgstr "{string}305810{/string}: 순수의 요새 다리 건설"
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/da3_dlc_red_rebuild_mission_05
 #. PATH = OperationEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00049f60"
 msgid ""
 "The Inquisition has identified a location near the entrance to the Bastion "
@@ -31978,7 +31899,6 @@ msgstr "심문회가 순수의 요새 입구 근처에서 해당 지역을 정�
 
 #. EBX = DA3_DLC_Red/designcontent/Operations/da3_dlc_red_rebuild_mission_05
 #. PATH = OperationEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00049f62"
 msgid ""
 "The construction team has completed a bridge in the Bastion of the Pure that "

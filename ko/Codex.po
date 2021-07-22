@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-20 15:23+0000\n"
-"Last-Translator: goodgood <bbung108@gmail.com>\n"
+"PO-Revision-Date: 2021-07-22 15:23+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/codex/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1347,7 +1347,7 @@ msgstr ""
 "- 깜짝 문신은 취소. 그 여자는 어떻게 알았대? 그놈의. 새들. 때문에. {i}(까마귀들로 만들어진 렐리아나의 그림.){/i}\n"
 "- 세상을 구하고 나서 심문관을 위해 파티 열기. 술병 확인하기 {i}(지워져 있다){/i}.\n"
 "- 술 다 마셔버림. 술을 더 사자 {i}(지워져 있다){/i}.\n"
-"- 한 병 남겨둠. 심문관 {spHeroName} {spHeroLastName} 나리를 위해 {i}(지워져 있다){/i}.\n"
+"- 한 병 남겨둠. {spHeroName} {spHeroLastName} 심문관 나리를 위해 {i}(지워져 있다){/i}.\n"
 "- 마셔버림. 나중에 하자."
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_quarters_sera
@@ -2157,7 +2157,6 @@ msgstr "마페라스의 참회"
 
 #. EBX = DA3/designcontent/Codex/Plot/ValRoyeaux/cod_val_statues_maferath_02
 #. PATH = CodexEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x000425cc"
 msgid ""
 "{i}Beneath, scratched by a vandal:{/i}\n"
@@ -3666,14 +3665,13 @@ msgstr "와이번의 감시소"
 
 #. EBX = DA3/designcontent/Codex/Plot/Crestwood/fer010_landmark_i
 #. PATH = CodexEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0003fff7"
 msgid ""
 "{i}A mug and a bottle of wine indicate this sheltered spot may have once "
 "been a popular place to enjoy the view. Someone has carved \"Milton + "
 "Lonnie\" into the side of the bench.{/i}"
 msgstr ""
-"{i}머그컵과 술병이 있는 것을 보아, 이곳은 한때 사람들이 풍경을 감상하기 위해 즐겨찾던 장소였던 듯하다. \"밀튼 + 로니\"라는 "
+"{i}머그컵과 술병이 있는 것을 보아, 이곳은 한때 사람들이 풍경을 감상하기 위해 즐겨 찾던 장소였던 듯하다. \"밀튼 + 로니\"라는 "
 "글귀가 벤치 옆에 새겨져 있다.{/i}"
 
 #. EBX = DA3/designcontent/Codex/Plot/ExaltedPlains/dal_pln_deaddalishelf_diary
@@ -3874,10 +3872,9 @@ msgstr "펠릭스의 쪽지"
 
 #. EBX = DA3/DesignContent/Codex/Plot/Redcliffe/let_red_felix_warning
 #. PATH = CodexEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0002f97d"
 msgid "Come to the chantry. You are in danger."
-msgstr "성당으로 오세요. 당신은 지금 위험해요."
+msgstr "성당으로 오세요. 당신은 지금 위험합니다."
 
 #. EBX = DA3/designcontent/Codex/Plot/Hinterlands/DeepRoads/the_DeepRoads_Carta_2
 #. PATH = CodexEntry/TitleReference
@@ -3942,7 +3939,6 @@ msgstr "동굴"
 
 #. EBX = DA3/designcontent/Codex/Plot/TheBog/the_bog_landmark_bear_den
 #. PATH = CodexEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00042a06"
 msgid ""
 "{i}The stench of wet fur is so strong, it almost masks the pungent odors of "
@@ -3952,13 +3948,13 @@ msgid ""
 msgstr ""
 "{i}젖은 모피에서 풍기는 악취가 너무 강해서 수렁의 끔찍한 냄새를 거의 맡을 수 없을 정도다.\n"
 "\n"
-"거의. {/i}"
+"거의.{/i}"
 
 #. EBX = DA3/designcontent/Codex/Plot/Crestwood/fer010_landmark_j
 #. PATH = CodexEntry/TitleReference
 msgctxt "0x0003fff9"
 msgid "Memory of the Drowned"
-msgstr "수몰자 추모비"
+msgstr "수몰 희생자 추모비"
 
 #. EBX = DA3/designcontent/Codex/Plot/Crestwood/fer010_landmark_j
 #. PATH = CodexEntry/TextEntry[0]
@@ -7160,13 +7156,13 @@ msgid ""
 msgstr ""
 "일반적으로, 세 자매는 벨 마르셰에 발을 들이며 비슷한 반응을 보인다. 셰리즈는 모험심이 강해, 시장의 모든 광경과 소리에 흥미를 느끼고 "
 "위험에 주의를 잘 기울이지 않는다. 마리는 건방진 성격으로, 그녀가 보는 모든 것을 의심하며, 자매들에게 끌려다니면서도 듣는 사람이 힘이 "
-"빠지게 비꼬는 말을 툭툭 내뱉곤 한다. 한편, 브리엘은 자매 중 가장 순진한 인물이다. 그녀는 늘 황야에서 길을 잃은 암사슴처럼 눈이 "
+"빠지게 비꼬는 말을 툭툭 내뱉곤 한다. 한편 브리엘은 자매 중 가장 순진한 인물이다. 그녀는 늘 황야에서 길을 잃은 암사슴처럼 눈이 "
 "휘둥그레한 놀란 모습으로 묘사되지만, 이야기가 끝날 무렵에는 좀 더 자신감을 찾고 당당해진다.\n"
 "\n"
 "일반적으로 이 소녀들의 첫 번째 목적지는 \"흰 장미\"이다. 이곳은 낮에는 고급 손님들에게 차와 케이크를 대접하고, 밤에는 야한 옷을 "
 "입은 남녀 매춘부들로 가득 찬 업소로 변신하는 벨 마르셰의 악명 높은 건물로, 건물의 세련된 외관에 끌린 소녀들은 시장의 혼잡함에서 "
 "벗어나기 위해 그곳으로 향한다. 그 안에서 마리는 그곳의 \"친절한 신사들\"이 보이는 것과 다르다는 것을 가장 먼저 깨닫는다. "
-"당황스러워하는 브리엘과 달리, 셰리즈는 자매들의 만류에도 불구하고 남자들과 춤을 추기 위해 달아난다. 이야기의 다음은 마리와브리엘이 "
+"당황스러워하는 브리엘과 달리, 셰리즈는 자매들의 만류에도 불구하고 남자들과 춤을 추기 위해 달아난다. 이야기의 다음은 마리와 브리엘이 "
 "방마다 문을 열며 안에 있는 다양한 귀족 손님들(셀린 황제가 자주 언급하는)을 마주하는 추격전으로 이어진다. 마리는 이 손님들을 신랄하게 "
 "비난하고, 그러던 도중 그들에게 흥미를 느낀 브리엘은 마리 몰래 그들 합류한다. 이 넌더리 나는 상황에 두손 두발 다 든 마리는, 한 "
 "드워프와 함께 수상한 기구를 사용하여 불법적인 물질을 흡입한다. 이야기는 이 소녀들을 필사적으로 추격하는 라 베테가 흰 장미에 도착하면서 "
@@ -9798,12 +9794,12 @@ msgid ""
 "\n"
 "Archon Calpernia"
 msgstr ""
-"공경하는 그분을 대리하여, 페렐던과 자유 동맹으로 불렸던 영토의 관리자에게 고한다,\n"
+"경외하는 그분을 대리하여, 페렐던과 자유 동맹으로 불렸던 영토의 관리자에게 고한다,\n"
 "\n"
 "황실에 있던 우리 요원들이 공격을 개시했다. 셀린 황제는 죽었고, 가스파드 대공은 처형당했다. 올레이는 혼란에 휩싸여 있고, 네바라는 "
 "새로운 신에게 충성을 맹세했다.\n"
 "\n"
-"우리의 병력이 진군하고 있다. 한 달 내로, 우리 제국은 다시 한번 보에릭 대양에서 찢어진 바다에 이르는 영토를 지배할 것이다.\n"
+"우리 병력이 진군하고 있다. 한 달 내로, 우리 제국은 다시 한번 보에릭 대양에서 찢어진 바다에 이르는 영토를 지배할 것이다.\n"
 "\n"
 "그분의 이름 아래, 우리는 다시 한번 영광을 찾을 것이다.\n"
 "\n"
@@ -11756,8 +11752,8 @@ msgstr ""
 "테다스는 반드시 불로써 정화되어야만 낙원으로 다시 태어날 수 있다. 그들은 이에 대해 엄숙하게 맹세하며, 이를 구현하는 일에 매우 "
 "헌신적인 모습을 보였다. 하지만 그들이 얼마나 그 목적에 근접했는지는 알려진 바 없다.\n"
 "\n"
-"심문회는 마침내 \"추르노의 정화\"로 기록된 전투에서 이 \"맹세자들\"을 제압했다. 이 교단은 교황의 시대 초기에 다시 등장하여 "
-"진리의 구도자로 변모한 심문회의 대를 자신들이 계승하겠다고 선언하여 성가회의 사냥을 촉발했다. 그리하여 승임의 시대에 이들 맹세자는 다시 "
+"심문회는 마침내 \"처노의 정화\"로 기록된 전투에서 이 \"맹세자들\"을 제압했다. 이 교단은 교황의 시대 초기에 다시 등장하여 진리의 "
+"구도자로 변모한 심문회의 대를 자신들이 계승하겠다고 선언하여 성가회의 사냥을 촉발했다. 그리하여 승임의 시대에 이들 맹세자는 다시 "
 "근절되었다.\n"
 "\n"
 "—제니티비 수사의 저서, {i}지식을 찾아서: 성가회 학자의 여행기{/i}에서 발췌"
@@ -12355,7 +12351,7 @@ msgid ""
 msgstr ""
 "카산드라에게\n"
 "\n"
-"조세핀 몽틸리예는 안티바 출신 귀족이야. 발 르와요에서 교육과정을 마쳤고 그곳의 궁정에서 연줄을 만들었어. 놀랍도록 어린 나이로 학업을 "
+"조세핀 몽틸리예는 안티바 출신 귀족이야. 발 르와요에서 교육과정을 마쳤고 그곳 궁정에서 연줄을 만들었어. 놀랍도록 어린 나이에 학업을 "
 "수료한 후, 조세핀은 안티바의 풀지노 왕과 올레이의 셀린 황제 사이의 공식적인 사절이 되었어. 딱 어울리는 직책이지. 많은 곳을 "
 "여행했고, 예의범절에도 두루 익숙한 데다, 모든 방면에서 실력 있는 협상가야.\n"
 "\n"
@@ -13782,7 +13778,6 @@ msgstr "마페라스의 유혈의 죄"
 
 #. EBX = DA3/designcontent/Codex/Plot/ValRoyeaux/cod_val_statues_maferath_03
 #. PATH = CodexEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x000425c9"
 msgid ""
 "{i}Beneath, scratched by a vandal:{/i}\n"
@@ -16340,7 +16335,6 @@ msgstr "숨겨진 동굴"
 
 #. EBX = DA3/designcontent/Codex/Plot/Crestwood/fer010_landmark_a
 #. PATH = CodexEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0003ffe8"
 msgid ""
 "{i}A wooden façade has been erected at the mouth of this cave, presumably to "
@@ -20786,7 +20780,6 @@ msgstr "브로나크 성의 교수대"
 
 #. EBX = DA3/designcontent/Codex/Plot/Crestwood/fer010_landmark_h
 #. PATH = CodexEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0003fff5"
 msgid ""
 "The gallows by the fortress are leftover from when Orlais warred with "
@@ -20795,8 +20788,8 @@ msgid ""
 "\n"
 "—From the memoirs of Sister Vaughn of Crestwood"
 msgstr ""
-"요새의 옆에는 올레이가 페렐던과 전쟁을 벌였을 때 사용했던 교수대가 남아 있다. 아이들이 밧줄을 매달아 그네를 타다가 사냥터지기에게 "
-"쫓겨난 때를 제외하고, 몇 년이 넘도록 이 교수대가 쓰일 일이 없었다는 것에 감사함을 느낀다.\n"
+"요새의 옆에는 올레이가 페렐던과 전쟁을 벌였을 때 사용했던 교수대가 남아 있다. 몇 년 동안이나 이 교수대가 쓰일 일이 없었다는 것에 "
+"감사함을 느낀다. 아이들이 여기 밧줄을 매달아 그네를 타다가 사냥터지기에게 쫓겨난 때를 제외하고.\n"
 "\n"
 "—크레스트우드의 보운 수녀의 회고록에서 발췌"
 
@@ -23163,7 +23156,7 @@ msgstr ""
 "주인님께서 아직 우리의 쓸모를 헤아려주신다는 점에 감사해야 한다. 만일 그분께서 붉은 성기사단을 요구하신다면 비록 그 수가 적다한들 "
 "우리는 따라야 한다.\n"
 "\n"
-"베나토리 첩자들이 심문관 {spHeroLastName}, 그 작자가 직접 데일스로 향하는 걸 보았다고 한다. 그자에게 우리가 테린팔에서 "
+"베나토리 첩자들이 {spHeroLastName} 심문관, 그 작자가 직접 데일스로 향하는 걸 보았다고 한다. 그자에게 우리가 테린팔에서 "
 "쓰러진 형제자매들을 잊지 않았다는 걸 보여줘라.\n"
 "\n"
 "대장 팩슬리"
@@ -27896,7 +27889,6 @@ msgstr "마페라스의 후회"
 
 #. EBX = DA3/designcontent/Codex/Plot/ValRoyeaux/cod_val_statues_maferath_05
 #. PATH = CodexEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x000425d6"
 msgid ""
 "{i}Beneath, scratched by a vandal:{/i}\n"
@@ -31477,7 +31469,7 @@ msgid ""
 "—From {i}Tales of Val Royeaux{/i} by Lord Werner Jauquin"
 msgstr ""
 "\"세 자매\"의 전설은 올레이에서 종종 전해지며, 믿을 수 없을 만큼 다양하게 변형되었다. 어떤 전승에서는, 세 자매는 겉으로는 순수해 "
-"보이지만 샤프롱에게서 도망치자마자 열광적으로 음탕한 행동들을 저지르는 인물들로 묘사되거나, 다른 전승에서는 영웅적이며, (때로는 의도하지 "
+"보이지만 샤프롱에게서 도망치자마자 열광적으로 음탕한 행동들을 저지르는 인물들로 묘사된다. 다른 전승에서는 영웅적이며, (때로는 의도하지 "
 "않은 채로) 여러 가지 문제들을 해결하는 것으로도 묘사된다. 또 다른 전승에서는, 우둔하고 여기저기 사건을 몰고 다니며, 의도하지 않게 "
 "가는 곳마다 혼란과 소동을 불러일으키는 것으로도 표현된다. 이런 버전들은 이야기꾼이 누구인지, 그들이 이 이야기를 어디서 들었는지에 따라 "
 "갈린다. 때때로 이는 술집 술꾼들을 위한 화려한 이야기가 되거나, 혹은 황제나 성가회를 비판하기 위한 풍자적 이야기가 되기도 한다. "
@@ -33356,10 +33348,9 @@ msgstr "어부의 오두막"
 
 #. EBX = DA3/designcontent/Codex/Plot/Crestwood/fer010_landmark_c
 #. PATH = CodexEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0003ffeb"
 msgid "{i}The stink of carrion fills the air around this hut.{/i}"
-msgstr "{i}오두막 주변에 시체 썩는 냄새가 한껏 감돈다.{/i}"
+msgstr "{i}오두막 주변에는 시체 썩는 냄새가 한껏 감돈다.{/i}"
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_specialization_rift_mage
 #. PATH = CodexEntry/TitleReference
@@ -34183,7 +34174,6 @@ msgstr "페렐던 와이번 동상"
 
 #. EBX = DA3/designcontent/Codex/Plot/Crestwood/fer010_landmark_b
 #. PATH = CodexEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0003ffea"
 msgid ""
 "Wyvern statues found throughout Ferelden were inspired by a legend that "
@@ -34194,9 +34184,10 @@ msgid ""
 "\n"
 "—Excerpt from an unfinished treatise by Brother Regaren, 8:73 Blessed"
 msgstr ""
-"페렐던 전역에서 종종 발견되는 와이번 조각상들은 안드라스테 님께서 이 독을 품은 야수들을 노래로 길들이셨다는 전설의 영향을 받아 만들어진 "
-"것이다. 물론 \"전설\"이라고 했지, \"성가\"라 하지 않았다. 이 이야기 또한 민간을 떠도는 미신에 불과하다. 우리는 신실한 "
-"신도들에게 빛의 성가로 전해지는 것 이외의 주님의 신부에 관한 이야기는 이단—민담에 지나지 않는다는 것을 준엄히 일러줘야만 한다. \n"
+"페렐던 전역에서 종종 발견되는 와이번 조각상들은 안드라스테 님께서 독을 품은 야수 한 마리를 노래로 길들이셨다는 전설의 영향을 받아 "
+"만들어진 것이다. 물론 \"전설\"이라고 했지, \"성가\"라 하지 않았다. 이 이야기 또한 민간을 떠도는 미신에 불과하다. 우리는 "
+"신실한 신도들에게 빛의 성가로 전해지는 것 이외의 주님의 신부에 관한 이야기는 이단—민담에 지나지 않는다는 것을 준엄히 일러줘야만 한다. "
+"\n"
 "\n"
 "—축복의 시대 8:73년, 수사 르게런의 미완성 논고에서 발췌"
 
@@ -36937,7 +36928,6 @@ msgstr "마페라스의 번민"
 
 #. EBX = DA3/designcontent/Codex/Plot/ValRoyeaux/cod_val_statues_maferath
 #. PATH = CodexEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x000425d7"
 msgid ""
 "{i}Beneath, scratched by a vandal:{/i}\n"
@@ -36955,7 +36945,7 @@ msgstr ""
 "배신자는 영원히 조롱을 받을지니, 그것이 우리네 멸시의 상징이 된 자의 말로일세. 도시의 조각들을 깨끗이 닦건마는, 사실은 무용한 "
 "일이로세. 막 닦아낸 마페라스, 곧바로 낙서장이 될 노릇일 뿐.\n"
 "\n"
-"—음유시인 필리엄! 저, {i}일회용 수도 도보여행 안내서{/i}에서 발췌 및 뜯어냄."
+"—필리엄 저, {i}일회용 수도 도보여행 안내서{/i}에서 발췌 및 뜯어냄. 음유시인이다!"
 
 #. EBX = DA3/DesignContent/Codex/Plot/TheBog/the_bog_castle
 #. PATH = CodexEntry/TitleReference
@@ -38896,7 +38886,6 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Codex/Plot/Halamshiral/cod_hal_winter_palace_general
 #. PATH = CodexEntry/TextEntry[4]
-#, fuzzy
 msgctxt "0x00040778"
 msgid ""
 "Le Requiem\n"
@@ -38914,7 +38903,7 @@ msgstr ""
 "\n"
 "축복의 시대 8:84년 즉위 직후, 플로리안 황제는 첫 공무로서 할람시랄 궁전 내부에 예배당을 건축할 것을 주문했다. 이는 축복의 시대 "
 "8:77년 백일해 유행으로 유아기에 목숨을 잃은 그의 딸 에반젤린을 기리기 위한 것으로서, 예배당 내부에는 안드라스테의 삶과 죽음을 "
-"소재로 하여 유스티니아 황비가 직접 그린 정교한 벽화가 존재한다.\n"
+"소재로 하여 유스티니아 황후가 직접 그린 정교한 벽화가 존재한다.\n"
 "\n"
 "—일로디 뻬흐노 저, {i}올레이 건축사 1권{/i}에서 인용"
 
@@ -40237,7 +40226,7 @@ msgstr ""
 "가스파드 대공이 황위를 노리고 올레이의 셀린 황제를 공격했을 때만 해도 우린 전 올레이의 상업 활동이 크게 위축될 거로 생각했어. "
 "엘프에게 지나칠 정도로 관대하다는 흑색선전에 반박하기 위해 셀린은 할람시랄에서 벌어진 엘프 반란을 무자비하게 진압했고, 그때를 노려 "
 "공격한 가스파드 대공에 의해 병력을 잃고 발 르와요로부터 차단되었지. 황제가 수도로 돌아왔을 때(대체 어떻게 그럴 수 있었는지에 대해서는 "
-"워낙 말이 많지만) 우린 사업을 접을 준비를 하고 있었어. 가스파드의 군대가 하틀랜드를 뚫고 셀린에게 충성하는 도시들을 집어삼키려고 오는 "
+"워낙 말이 많지만) 우린 사업을 접을 준비를 하고 있었어. 가스파드의 군대가 심장부를 뚫고 셀린에게 충성하는 도시들을 집어삼키려고 오는 "
 "줄로만 알았으니까.\n"
 "\n"
 "그런데 그러긴커녕, 인간들은 지금까지는 우리 쪽에 아주 유리하게 행동해주고 있어. 가스파드가 남부 올레이를 장악하면서 페렐던과의 교역이 "
@@ -42786,7 +42775,7 @@ msgid ""
 "—From {i}In Pursuit of Knowledge: Travels of a Chantry Scholar{/i} by "
 "Brother Genitivi"
 msgstr ""
-"올레이 큰곰은 정말, 정말로 거대하므로 그런 이름이 붙었다. 다르게는 창의적인 \"숲속의 노인\" 이나 매력은 덜하지만, 더 정확한 "
+"올레이 큰곰은 정말, 정말로 거대하므로 그런 이름이 붙었다. 다르게는 창의적인 \"숲속의 노인\" 이나, 매력은 덜하지만 더 정확한 "
 "이름인 \"나무꾼의 죽음\" 등의 이름으로 불린다. 이것들은 데일스 지방의 외진 곳에서만 발견되며 귀족들조차도 그들을 사냥하기를 꺼린다고 "
 "한다. 이 사실은 희귀하고 치명적이며 이국적인 테다스의 동물들 가운데에서도 큰곰을 돋보이게 한다. 즉, 이들은 올레이인들이 진심으로 "
 "두려워하는 유일한 생물인 것이다.\n"
@@ -44330,7 +44319,6 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Codex/Plot/Halamshiral/cod_hal_art
 #. PATH = CodexEntry/TextEntry[10]
-#, fuzzy
 msgctxt "0x00042382"
 msgid ""
 "Maferath the Betrayer\n"
@@ -44341,7 +44329,7 @@ msgid ""
 msgstr ""
 "배신자 마페라스\n"
 "\n"
-"황제 이베트께 바치는 르투노의 진상품.\n"
+"이베트 황후께 바치는 르투노의 진상품.\n"
 "\n"
 "{blank}"
 
@@ -44560,8 +44548,8 @@ msgstr ""
 "\n"
 "아샤 왕비의 혈통은 올레이 황제, 스탁헤이븐의 대공, 네바라 국왕, 그리고 앤더펠스의 공작 일곱 명의 핏줄에 전해지고 있으며, 안티바 "
 "왕가는 심지어 테빈터 제국의 일부 매지스터 가문과도 혈연으로 이어져 있다고 한다. 아샤 왕비가 펼친 혈연의 그물은 대륙의 많은 국가로 "
-"하여금 안티바와 원만한 관계를 유지하도록 만들며, 그러지 않는 경우 가문 저녁식사 자리에서 끔찍한 결과를 맞지 않을 수 없게끔 하고 있다."
-"\n"
+"하여금 안티바와 원만한 관계를 유지하도록 만들며, 그러지 않는 경우 가문의 저녁식사 자리에서 끔찍한 결과를 맞지 않을 수 없게끔 하고 "
+"있다.\n"
 "\n"
 "—제니티비 수사의 저서, {i}지식을 찾아서: 성가회 학자의 여행기{/i}에서 발췌"
 
@@ -45083,7 +45071,6 @@ msgstr "마페라스의 가책"
 
 #. EBX = DA3/designcontent/Codex/Plot/ValRoyeaux/cod_val_statues_maferath_04
 #. PATH = CodexEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x000425d0"
 msgid ""
 "{i}Beneath, scratched by a vandal:{/i}\n"
@@ -45092,7 +45079,7 @@ msgid ""
 msgstr ""
 "{i}아랫부분은 누군가에 의해 훼손되어 있다.{/i}\n"
 "\n"
-"문간에 머릴 갖다박아서 그런가보지."
+"문간에 머릴 갖다 박아서 그런가 보지."
 
 #. EBX = DA3/designcontent/Codex/Plot/ExaltedPlains/dal_pln_wild_freemen
 #. PATH = CodexEntry/TitleReference
@@ -47463,15 +47450,15 @@ msgstr ""
 "펜타가스트 가문 때문에 일어났다.\n"
 "\n"
 "폭풍의 시대 7:82년, 수 세대 만에 다시 새로이 왕위에 오른 펜타가스트 가문은 반 마컴 왕조가 지배할 당시 잃고 말았던 동맹을 "
-"재건하는 데 열심이었다. 펜타가스트 가문은 혼인을 통해 평화 조약을 다지고자 황제에게 접선했고, 후계자 문제로 심한 압박을 받고 있던 "
-"황제는 당시 17세였던 황비를 따로 떼어 놓고서는 소티리아 펜타가스트 공주와 결혼했다. 이로써 올레이와 네바라 간에는 평화와 협동을 "
-"결의하는 약속이 단단히 맺어진 것으로 생각되었다.\n"
+"재건하는 데 열심이었다. 펜타가스트 가문은 혼인을 통해 평화 조약을 다지고자 황제에게 접선했고, 후계 문제로 심한 압박을 받고 있던 "
+"황제는 당시 17세였던 황후를 제쳐두고서 소티리아 펜타가스트 공주와 결혼했다. 이로써 올레이와 네바라 간에는 평화와 협력을 결의하는 "
+"약속이 맺어졌다고 여겨졌다.\n"
 "\n"
 "그러나 약속이란 본디 지키기가 어려운 것이다. 폭풍의 시대 7:97년에 이르러서도 소티리아는 여전히 아이를 낳지 못했고, 이에 황제는 "
 "이전에 제쳐둔 자신의 정부와 결혼할 수 있으리라는 심산으로 황후를 수도원으로 보내버렸다. 에티엔을 뺀 모든 이가 예상한 대로, "
 "네바라인들은 이 사실을 좋게 받아들이지 않았다. 노기어린 서신이 황궁에 잔뜩 배달되었고, 펜타가스트 가문 일원으로 이루어진 소규모 주전파 "
-"집단이 올레이로 말을 달려 소티리아 공주를 돌려보내라고 요구하기도 했다. 하지만 네바라인들은 그때까지도 군사적인 행동을 취하지는 "
-"않았으니, 그들은 전술가로서 알맞은 때를 기다려야 한다는 것을 잘 알았기 때문이다.\n"
+"집단이 올레이로 말을 달려 소티리아 공주를 돌려보내라고 요구하기도 했다. 그러나 네바라인들은 그때까지도 군사적인 행동을 취하지는 "
+"않았으니, 이는 그들이 전술가로서 알맞은 때를 기다려야 한다는 것을 잘 알았기 때문이다.\n"
 "\n"
 "축복의 시대 8:46년, 올레이 병력 대부분이 페렐던과의 전쟁에 몰두하던 때 펜타가스트 가문은 올레이를 향해 전쟁을 일으켰다. "
 "올레이인들은 방어를 위해 결집하여 네바라인들을 기슬레인과 알레장 지방에서 몰아냈으나, 그 대가로 북부 영토의 상당 부분을 잃고 말았다. "
@@ -48864,7 +48851,7 @@ msgstr ""
 "위원회에서는 이러한 문제 때문에 대학이 승인한 역사적 탐사 원정에는 항상 마법사 자문을 두도록 권고합니다. 그래야만 선조들이 했던 "
 "부끄러운 실수를 피하고 올레이에 진실한 지식을 전달할 수 있을 것입니다.\n"
 "\n"
-"—올레이 대학 역사 위원회에서 황제 셀린에게 보내는 편지(마법사 반란 이후 요청 연기됨)"
+"—올레이 대학 역사 위원회에서 셀린 황제에게 보내는 편지(마법사 반란 이후 요청 연기됨)"
 
 #. EBX = DA3_DLC1/DesignContent/Codex/Plot/Global/HakkonDungeon/dlc1_cod_gurdjournal
 #. PATH = CodexEntry/TitleReference
@@ -52880,7 +52867,7 @@ msgstr "친애하는 {spHeroName},"
 #, fuzzy
 msgctxt "0x0004af75"
 msgid "Dear Inquisitor {spHeroLastName},"
-msgstr "친애하는 심문관 {spHeroName},"
+msgstr "친애하는 {spHeroName} 심문관,"
 
 #. EBX = DA3_DLC_Blue/DesignContent/Codex/WinterPalace/dlcend_hub_Josephine
 #. PATH = CodexEntry/TextEntry[2]
