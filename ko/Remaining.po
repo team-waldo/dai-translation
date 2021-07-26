@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-25 07:24+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2021-07-26 11:23+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -926,7 +926,8 @@ msgctxt "0x0003242f"
 msgid ""
 "The character's agility, reflexes, and coordination. Each point increases "
 "Attack (rogues only) and Critical Damage Bonus."
-msgstr "해당 캐릭터의 민첩합, 날렵함, 그리고 능수능란함입니다. 매 점수가 공격력과(도적만) 치명타 피해량을 증가시킵니다."
+msgstr ""
+"해당 캐릭터의 민첩합, 날렵함, 그리고 능수능란함입니다. 매 점수가 치명타 피해량을 증가시킵니다. 도적의 경우 공격력 또한 증가합니다."
 
 #. FILE = DA3/Combat/Stats/Stat_DisableCSM
 #. PATH = BWStat/StatName
@@ -1136,7 +1137,8 @@ msgctxt "0x0003242c"
 msgid ""
 "The character's connection to the Fade and ability to manipulate it. Each "
 "point increases Attack (mages only) and Barrier Damage Bonus."
-msgstr "해당 캐릭터의 영계와의 결속과 이를 다루는 능력입니다. 매 점수마다 공격력과 (마법사만 적용) 보호막 피해량을 증가시킵니다."
+msgstr ""
+"해당 캐릭터의 영계와의 결속과 이를 다루는 능력입니다. 매 점수가 보호막 피해량을 증가시킵니다. 마법사의 경우 공격력 또한 증가합니다."
 
 #. FILE = DA3/Combat/Stats/Stat_Mana_Max
 #. PATH = BWModifiableStat/StatName
@@ -1452,7 +1454,7 @@ msgctxt "0x0003242b"
 msgid ""
 "The character's physical strength and ability. Each point increases Attack ("
 "warriors only) and Guard Damage Bonus."
-msgstr "해당 캐릭터의 물리적인 완력과 능력입니다. 매 점수가 공격력과(전사만) 방어도 피해량을 증가시킵니다."
+msgstr "해당 캐릭터의 물리적인 완력과 능력입니다. 매 점수가 방어도 피해량을 증가시킵니다. 전사의 경우 공격력 또한 증가합니다."
 
 #. FILE = DA3/Combat/Stats/Stat_Stun_Duration_Modifier
 #. PATH = BWModifiableStat/StatName
@@ -1604,7 +1606,7 @@ msgctxt "0x0003242e"
 msgid ""
 "The character's strength of mind and personality. Each point increases "
 "Attack (all classes) and Magic Defense."
-msgstr "해당 캐릭터의 정신과 인격의 강인함입니다. 매 점수가 (모든 직업의)공격력과 마법 방어력을 증가시킵니다."
+msgstr "해당 캐릭터의 정신과 인격의 강인함입니다. 매 점수가 공격력과 마법 방어력을 증가시킵니다."
 
 #. FILE = DA3/Combat/Stats/stat_Cooldown_Modifier
 #. PATH = BWModifiableStat/StatName
@@ -14149,7 +14151,7 @@ msgstr ""
 "장막불꽃은 마법사만이 소환할 수 있는 특수한 불빛이며, 일단 켜진 횃불은 누구든 들고 다닐 수 있습니다. 장막불꽃을 비춰야만 볼 수 있는 "
 "고대의 룬이나 장치들을 찾아보세요.\n"
 "\n"
-"전투행동을 하면, 들고 있던 장막불꽃은 바닥에 떨어집니다."
+"전투 행동을 하면, 들고 있던 장막불꽃은 바닥에 떨어집니다."
 
 #. FILE = DA3/designcontent/Prefabs/Levels/CritPlots/Halamshiral/Winter_Palace_Double_Gate
 #. PATH = BWGameInteractionEntityData/InteractionTextReference
@@ -17867,7 +17869,7 @@ msgstr "기타"
 #. PATH = UIBWInventoryCategories/CategoryLabels/member[6]/UIBWInventoryComponentCategoryData/CategoryLabel
 msgctxt "0x0002713d"
 msgid "Valuables"
-msgstr "귀중품"
+msgstr "잡화"
 
 #. FILE = Systems/Inventory/InventoryCategories
 #. PATH = UIBWInventoryCategories/CategoryLabels/member[7]/UIBWInventoryComponentCategoryData/CategoryLabel
