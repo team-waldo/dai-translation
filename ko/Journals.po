@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-26 11:23+0000\n"
+"PO-Revision-Date: 2021-07-27 16:23+0000\n"
 "Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
@@ -297,7 +297,7 @@ msgctxt "0x000393f4"
 msgid ""
 "Vivienne de Fer, the First Enchanter of Montsimmard, has extended an "
 "invitation to her salon at the chateau of Duke Bastien de Ghislain."
-msgstr "몽시마드의 수석 마도사, 철의 비비엔이 바스티앵 드 기슬레인 공작의 성에서 열리게 될 자신의 사교 모임에 심문관을 초대했다."
+msgstr "몽시마르의 수석 마도사, 철의 비비엔이 바스티앵 드 기슬레인 공작의 성에서 열리게 될 자신의 사교 모임에 심문관을 초대했다."
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/viv_acquisition
 #. PATH = JournalEntry/TextEntry[1]
@@ -2541,8 +2541,8 @@ msgid ""
 "time before succumbing to their corruption. A number of panicked Wardens are "
 "gathering in the Western Approach for reasons unknown."
 msgstr ""
-"모든 회색 감시자가 '부름'을 듣고 자신이 곧 타락에 무릎 꿇고 말 것이라 여긴다. 공포에 질린 수많은 감시자들이 모종의 이유로 "
-"서부접경지에 모여들고 있다."
+"모든 회색 감시자가 '부름'을 듣고 자신이 곧 타락에 무릎 꿇고 말 것이라 여긴다. 공포에 질린 수많은 감시자들이 모종의 이유로 서부 "
+"접경지에 모여들고 있다."
 
 #. EBX = DA3/designcontent/Journals/Adamant/ada_adamant_main_journal
 #. PATH = JournalEntry/TextEntry[2]
@@ -4242,7 +4242,7 @@ msgctxt "0x0004401a"
 msgid ""
 "The University of Orlais has requested lazurite and Paragon's Luster samples "
 "for a geological survey of the Western Approach."
-msgstr "올레이의 대학에서 서부접경지의 지질 조사를 위해 청금석과 파라곤의 영광석 표본을 요청했다."
+msgstr "올레이의 대학에서 서부 접경지의 지질 조사를 위해 청금석과 파라곤의 영광석 표본을 요청했다."
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_westernapproach_geosurvey01
 #. PATH = JournalEntry/TaskEntry[0]
@@ -10856,7 +10856,6 @@ msgstr "데넷 조마사의 아내 일레이나는 농부들이 돌아오기에�
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_horses_wolves
 #. PATH = JournalEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x0003fe89"
 msgid ""
 "Elaina has agreed to bring the farmers back once the area has been rid of "
@@ -10871,7 +10870,6 @@ msgstr "일레이나에게 농장의 안전을 되찾을 방법을 물어보자.
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_horses_wolves
 #. PATH = JournalEntry/TaskEntry[1]
-#, fuzzy
 msgctxt "0x0003fe8b"
 msgid "Deal with the wolves."
 msgstr "늑대들을 처리하자."
@@ -10890,14 +10888,12 @@ msgstr "악마적 교리"
 
 #. EBX = DA3/DesignContent/Journals/SeekerFortress/see_NightmareCollection_journal
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0003245b"
 msgid "Explore the depths of Envy to discover its dark secrets."
 msgstr "시기의 악마의 내면을 더 깊이 탐구하여 악마의 어두운 비밀을 밝혀내자."
 
 #. EBX = DA3/DesignContent/Journals/SeekerFortress/see_NightmareCollection_journal
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x0003245d"
 msgid "Secrets discovered"
 msgstr "발견한 비밀"
@@ -10910,7 +10906,6 @@ msgstr "지휘의 무게"
 
 #. EBX = DA3/designcontent/Journals/Ferelden/fer_Wilderness_010/fer010_fadespirit_journal
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0003a618"
 msgid ""
 "A spirit in Old Crestwood refuses to return to the Fade until someone "
@@ -10919,7 +10914,6 @@ msgstr "구 크레스트우드의 한 영이 범람한 동굴에서 어슬렁대
 
 #. EBX = DA3/designcontent/Journals/Ferelden/fer_Wilderness_010/fer010_fadespirit_journal
 #. PATH = JournalEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x0003a619"
 msgid ""
 "The spirit in Old Crestwood should be pleased to learn that the rage demon "
@@ -10928,14 +10922,12 @@ msgstr "구 크레스트우드에 있는 영에게 범람한 동굴을 활보하
 
 #. EBX = DA3/designcontent/Journals/Ferelden/fer_Wilderness_010/fer010_fadespirit_journal
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x0003a61b"
 msgid "Destroy the rage demon in the Flooded Caves."
 msgstr "범람한 동굴에 있는 분노의 악마를 처치하자."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/fer_Wilderness_010/fer010_fadespirit_journal
 #. PATH = JournalEntry/TaskEntry[1]
-#, fuzzy
 msgctxt "0x0003a61a"
 msgid "Inform the spirit in Old Crestwood of the demon's demise."
 msgstr "구 크레스트우드에 있는 영에게 악마가 죽었다고 전하자."
@@ -10948,7 +10940,6 @@ msgstr "흩어진 상형 문자"
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_pln_wild_glyphs
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00030609"
 msgid ""
 "Keeper Hawen saw glyphs in a ruined temple called the Shrine to Sylaise. He "
@@ -10957,7 +10948,6 @@ msgstr "수호자 하웬이 사일레이스의 성소라 불리는 사원에서 
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_pln_wild_glyphs
 #. PATH = JournalEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x0002b709"
 msgid ""
 "There are ancient elven glyphs scattered across the plains that appear to be "
@@ -10966,14 +10956,12 @@ msgstr "더 큰 뜻을 담고 있는 것으로 보이는 고대 엘프의 문자
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_pln_wild_glyphs
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x00030608"
 msgid "Investigate the glyphs in the Shrine to Sylaise."
 msgstr "사일레이스의 성소에 있는 글자들을 조사하자."
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_pln_wild_glyphs
 #. PATH = JournalEntry/TaskEntry[1]
-#, fuzzy
 msgctxt "0x0002b75f"
 msgid "Glyphs found"
 msgstr "발견한 상형문자"
@@ -10988,7 +10976,6 @@ msgstr "{string}205752{/string}"
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_pln_wild_glyphs
 #. PATH = JournalEntry/TaskEntry[3]
-#, fuzzy
 msgctxt "0x00043080"
 msgid "Go to the war table to investigate the glyphs."
 msgstr "작전 지도로 가 글씨들을 조사하자."
@@ -12612,7 +12599,7 @@ msgstr "접경지 명소"
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x0002c2fa"
 msgid "Discover all landmarks in the Western Approach."
-msgstr "서부접경지에 있는 모든 명소를 찾아보자."
+msgstr "서부 접경지에 있는 모든 명소를 찾아보자."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_landmarks
 #. PATH = JournalEntry/TaskEntry[0]
@@ -14674,7 +14661,7 @@ msgstr "접경지 편린"
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x00038128"
 msgid "Search for any shards scattered around the Western Approach."
-msgstr "서부접경지에 흩어진 편린을 찾아보자."
+msgstr "서부 접경지에 흩어진 편린을 찾아보자."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_main_shards
 #. PATH = JournalEntry/TaskEntry[0]
