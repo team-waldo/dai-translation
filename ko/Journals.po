@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-27 16:23+0000\n"
-"Last-Translator: butnine <butnine@gmail.com>\n"
+"PO-Revision-Date: 2021-07-29 08:23+0000\n"
+"Last-Translator: goodgood <bbung108@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -3744,7 +3744,7 @@ msgid ""
 "hopes he can do more for the people of the Dales."
 msgstr ""
 "클라라는 페어뱅스가 어느 귀족의 후손이라는 소문을 들었다. 클라라는 소문을 믿을 뿐만 아니라 페어뱅스가 귀족 지위를 얻으면 데일스의 "
-"사람들을 더 도울 수 있을 것이라고 생각하며, 공의회에 내보일 증거를 찾으려 한다."
+"사람들을 더 도울 수 있을 것이라고 생각하며, 문장관 의회에 내보일 증거를 찾으려 한다."
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_fst_wild_fairbanks_a_noble
 #. PATH = JournalEntry/TaskEntry[0]
@@ -8518,7 +8518,7 @@ msgctxt "0x00022dfb"
 msgid ""
 "Gaspard appears to have some sort of relationship with the Orlesian Council "
 "of Heralds."
-msgstr "가스파드 대공과 올레이 공의회 사이에 모종의 관계가 있는 듯하다."
+msgstr "가스파드 대공과 올레이 문장관 의회 사이에 모종의 관계가 있는 듯하다."
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_guestwing_gaspard2
 #. PATH = JournalEntry/TaskEntry[0]
@@ -8532,13 +8532,13 @@ msgstr "내빈관의 귀족들에게 의회와 가스파드의 관계에 대해 
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x00022dfa"
 msgid "Find the Council of Heralds representative in the guest wing."
-msgstr "내빈관에서 공의회 대표자를 찾자."
+msgstr "내빈관에서 문장관 의회 대표자를 찾자."
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_guestwing_gaspard2
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x00022df7"
 msgid "Speak with the Council of Heralds representative."
-msgstr "공의회 대표자와 대화하자."
+msgstr "문장관 의회 대표자와 대화하자."
 
 #. EBX = DA3/DesignContent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_faderift_camp_04
 #. PATH = JournalEntry/TitleReference
@@ -10988,7 +10988,6 @@ msgstr "프레데릭의 생계물품"
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_researcher_missing_supplies
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0002d8c2"
 msgid ""
 "White Claw Raiders have made off with Frederic's supplies. Search areas "
@@ -10997,14 +10996,12 @@ msgstr "흰발톱단이 프레데릭의 보급품을 훔쳐 달아났다. 흰발
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_researcher_missing_supplies
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x0002dbf6"
 msgid "Research supplies recovered"
 msgstr "회수한 연구 자료"
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_researcher_missing_supplies
 #. PATH = JournalEntry/TaskEntry[1]
-#, fuzzy
 msgctxt "0x0002dcf2"
 msgid "Return Frederic's supplies."
 msgstr "프레데릭의 물품들을 돌려주자."
@@ -11017,12 +11014,11 @@ msgstr "내륙지역: 퍼즐 상자 보급 요청"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_hinterlands_puzzlebox
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00043fa0"
 msgid ""
 "Dwarven puzzle boxes serve as entertaining diversions for Inquisition "
 "soldiers, not to mention being useful for trade."
-msgstr "드워프의 퍼즐 상자는 거래에서 유용하게 쓰일 뿐만 아니라 심문회 병사들에게 즐거움을 선사한다."
+msgstr "드워프 퍼즐 상자는 거래에서 유용하게 쓰일 뿐만 아니라 심문회 병사들에게 즐거움을 선사한다."
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_hinterlands_puzzlebox
 #. PATH = JournalEntry/TaskEntry[0]
@@ -11040,28 +11036,24 @@ msgstr "수정 은총"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_hinterlands_puzzlebox
 #. PATH = JournalEntry/TaskEntry[2]
-#, fuzzy
 msgctxt "0x00043fa2"
 msgid "Ram Leather"
 msgstr "숫양 가죽"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_hinterlands_puzzlebox
 #. PATH = JournalEntry/TaskEntry[3]
-#, fuzzy
 msgctxt "0x00043fa5"
 msgid "Obsidian"
 msgstr "흑요석"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_hinterlands_puzzlebox
 #. PATH = JournalEntry/TaskEntry[4]
-#, fuzzy
 msgctxt "0x00043fa1"
 msgid "Drakestone"
 msgstr "용석"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_hinterlands_puzzlebox
 #. PATH = JournalEntry/TaskEntry[5]
-#, fuzzy
 msgctxt "0x00043fa3"
 msgid "Gather puzzle box materials."
 msgstr "퍼즐 상자 재료를 모으자."
@@ -11111,30 +11103,26 @@ msgstr "양심적 병역 거부자"
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/LightQuests/fer_wild_lq7
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00043756"
 msgid "A cabin in Witchwood is locked."
 msgstr "마녀숲에 있는 오두막이 잠겨 있다."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/LightQuests/fer_wild_lq7
 #. PATH = JournalEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x0002fc16"
 msgid ""
 "A letter found on a corpse suggests that his brother, an Isolationist mage, "
 "is hiding out in a cabin northwest of the crossroads."
-msgstr "시체에서 찾은 편지에 의하면 은둔 마법사인 그의 형제가 교차로 북서쪽 어딘가에 숨어 있는 듯하다."
+msgstr "시체에서 찾은 편지에 의하면 은둔 마법사인 그의 형제가 교차로 북서쪽 어딘가에 있는 오두막에 숨어 있는 듯하다."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/LightQuests/fer_wild_lq7
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x00043755"
 msgid "Find a key to the cabin."
 msgstr "오두막 열쇠를 찾자."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/LightQuests/fer_wild_lq7
 #. PATH = JournalEntry/TaskEntry[1]
-#, fuzzy
 msgctxt "0x0002fc18"
 msgid "Go to the cabin in the highlands."
 msgstr "산악지대에 있는 오두막에 들어가자."
@@ -11147,7 +11135,6 @@ msgstr "장막 측정"
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/Solas/sol_ApprovalGrind_journal
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00041b9c"
 msgid ""
 "Solas has learned of an artifact in the Hinterlands that he wishes to study."
@@ -11163,7 +11150,6 @@ msgstr "{string}280827{/string}"
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/Solas/sol_ApprovalGrind_journal
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x00041b9a"
 msgid "Travel to the Hinterlands with Solas."
 msgstr "솔라스와 함께 내륙지역으로 가자."
@@ -11172,14 +11158,12 @@ msgstr "솔라스와 함께 내륙지역으로 가자."
 #. PATH = JournalEntry/TaskEntry[1]
 #. USED IN :
 #.     0x00044956(280918) : {string}269222{/string}
-#, fuzzy
 msgctxt "0x00041ba6"
 msgid "Locate the artifact."
 msgstr "유물을 찾자."
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/Solas/sol_ApprovalGrind_journal
 #. PATH = JournalEntry/TaskEntry[2]
-#, fuzzy
 msgctxt "0x00041ba7"
 msgid "Use the artifact."
 msgstr "유물을 사용하자."
@@ -11192,7 +11176,6 @@ msgstr "안전 보관"
 
 #. EBX = DA3/DesignContent/Journals/TheDales/dgn_s_290/dal_290_energizePuzzle
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0002d461"
 msgid ""
 "There are fragments of a runed key scattered throughout Villa Maurel. If the "
@@ -11201,21 +11184,18 @@ msgstr "룬이 새겨진 열쇠 조각이 모렐 저택 곳곳에 흩어져 있�
 
 #. EBX = DA3/DesignContent/Journals/TheDales/dgn_s_290/dal_290_energizePuzzle
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x0002d465"
 msgid "Key fragments"
 msgstr "열쇠 파편"
 
 #. EBX = DA3/DesignContent/Journals/TheDales/dgn_s_290/dal_290_energizePuzzle
 #. PATH = JournalEntry/TaskEntry[1]
-#, fuzzy
 msgctxt "0x0002d463"
 msgid "Find a way to reassemble the runed key."
 msgstr "룬이 새겨진 열쇠를 재조립할 방법을 찾자."
 
 #. EBX = DA3/DesignContent/Journals/TheDales/dgn_s_290/dal_290_energizePuzzle
 #. PATH = JournalEntry/TaskEntry[2]
-#, fuzzy
 msgctxt "0x0002d464"
 msgid "Find a use for the runed key."
 msgstr "룬이 새겨진 열쇠를 사용할 곳을 찾자."
@@ -11228,24 +11208,22 @@ msgstr "도적단 청소하기"
 
 #. EBX = DA3/designcontent/Journals/ThematicLevels/StormCoast/storm_main
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00036e16"
 msgid ""
 "Inquisition soldiers were dispatched to meet with a group of bandits "
 "operating on the Storm Coast. The Inquisition lost contact with its soldiers "
 "before their planned rendezvous with the bandits."
-msgstr "심문회 병사들이 폭풍 해안에서 활동하는 도적단을 만나기 위해 파견되었다. 도적단과의 만남 전, 병사들과의 연락이 두절되었다."
+msgstr ""
+"심문회 병사들이 폭풍 해안에서 활동하는 도적단을 만나기 위해 파견되었다. 그러나 예정된 회합을 하기도 전에 병사들과의 연락이 두절되었다."
 
 #. EBX = DA3/designcontent/Journals/ThematicLevels/StormCoast/storm_main
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x0003a37a"
 msgid "Advance to the rendezvous point."
 msgstr "약속된 장소로 가자."
 
 #. EBX = DA3/designcontent/Journals/ThematicLevels/StormCoast/storm_main
 #. PATH = JournalEntry/TaskEntry[1]
-#, fuzzy
 msgctxt "0x00036e15"
 msgid "Find the bandits and deal with them."
 msgstr "도적들을 찾아 처리하자."
@@ -11268,14 +11246,12 @@ msgstr "{string}100801{/string}"
 
 #. EBX = DA3/designcontent/Journals/ThematicLevels/StormCoast/storm_main
 #. PATH = JournalEntry/TaskEntry[4]
-#, fuzzy
 msgctxt "0x00040216"
 msgid "Optional: Requisition Mercy's Crest to challenge the bandit leader."
 msgstr "선택사항: 도적단 우두머리에게 도전하려면 자비의 문장을 보급 요청하자."
 
 #. EBX = DA3/designcontent/Journals/ThematicLevels/StormCoast/storm_main
 #. PATH = JournalEntry/TaskEntry[5]
-#, fuzzy
 msgctxt "0x0004021c"
 msgid "Optional: Challenge the bandit leader while wearing Mercy's Crest."
 msgstr "선택사항: 자비의 문장을 착용하고 도적단 우두머리에게 도전하자."
@@ -11288,10 +11264,9 @@ msgstr "남아 있는 위협"
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00017080"
 msgid "The Breach is calmed, but the trouble is only beginning."
-msgstr "대균열은 진정되었지만, 문제는 이제 지금부터 시작이다."
+msgstr "대균열은 진정되었지만, 문제는 이제 시작되었을 뿐이다."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
 #. PATH = JournalEntry/TextEntry[1]
@@ -11346,7 +11321,6 @@ msgstr "헤이븐의 성당에 보고하자."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
 #. PATH = JournalEntry/TaskEntry[2]
-#, fuzzy
 msgctxt "0x000424b6"
 msgid "Scout the Hinterlands to gain access to the region."
 msgstr "내륙지역에 접근하기 위해 정찰대를 파견하자."
@@ -11359,14 +11333,12 @@ msgstr "내륙지역으로 가서 지젤 신모와 이야기하자."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
 #. PATH = JournalEntry/TaskEntry[4]
-#, fuzzy
 msgctxt "0x0003fbba"
 msgid "Clear threats at the crossroads."
 msgstr "교차로의 위험요소들을 제거하자."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
 #. PATH = JournalEntry/TaskEntry[5]
-#, fuzzy
 msgctxt "0x0003fbeb"
 msgid "Speak with Corporal Vale about the state of the Hinterlands."
 msgstr "베일 상병과 내륙지역에 대해 이야기하자."
@@ -11404,17 +11376,15 @@ msgstr "발 르와요로 이동하자."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
 #. PATH = JournalEntry/TaskEntry[8]
-#, fuzzy
 msgctxt "0x00042ce6"
 msgid "Go to the war room."
 msgstr "작전실로 가자."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
 #. PATH = JournalEntry/TaskEntry[9]
-#, fuzzy
 msgctxt "0x0002760d"
 msgid "Address the clerics."
-msgstr "성직자들에게 연설하자."
+msgstr "성직자들과 이야기하자."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
 #. PATH = JournalEntry/TaskEntry[10]
@@ -11430,33 +11400,29 @@ msgstr "동테르 저택"
 
 #. EBX = DA3/DesignContent/Journals/TheDales/dgn_s_160/dgn_s_160
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0001702a"
 msgid ""
 "What exactly happened in the long-abandoned Chateau d'Onterre is a bit of a "
 "mystery. Perhaps exploring its darkest corners will uncover some truth—or "
 "treasures."
 msgstr ""
-"오래 전 버려진 동테르 저택에서 무슨 일이 일어났는지는 수수께끼로 남아 있다. 저택의 곳곳을 조사하면 진실— 혹은 보물을 발견할 수 "
-"있을지도 모른다."
+"오래전 버려진 동테르 저택에서 무슨 일이 일어났는지는 수수께끼로 남아 있다. 저택의 곳곳을 조사하면 진실 혹은 보물을 발견할 수 있을지도 "
+"모른다."
 
 #. EBX = DA3/DesignContent/Journals/TheDales/dgn_s_160/dgn_s_160
 #. PATH = JournalEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x0002be91"
 msgid "An ancient horror has awakened in the chateau courtyard."
 msgstr "고대의 공포가 저택 안뜰에서 되살아났다."
 
 #. EBX = DA3/DesignContent/Journals/TheDales/dgn_s_160/dgn_s_160
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x0001702b"
 msgid "Gain access to the Grand Balcony."
 msgstr "황실 발코니로 가는 방법을 찾자."
 
 #. EBX = DA3/DesignContent/Journals/TheDales/dgn_s_160/dgn_s_160
 #. PATH = JournalEntry/TaskEntry[1]
-#, fuzzy
 msgctxt "0x0002be90"
 msgid "Kill the Arcane horror."
 msgstr "비전 공포귀를 처치하자."
@@ -11469,21 +11435,18 @@ msgstr "잃어버린 열쇠 찾기"
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_hallastatue_SQ_Bonus
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0003fa40"
 msgid "Find a way into the vault in the Grand Apartments."
 msgstr "황족의 방에 있는 금고실에 들어갈 방법을 찾자."
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_hallastatue_SQ_Bonus
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x0003fa42"
 msgid "Gain access to the vault."
 msgstr "지하실에 접근할 방법을 찾자."
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_hallastatue_SQ_Bonus
 #. PATH = JournalEntry/TaskEntry[1]
-#, fuzzy
 msgctxt "0x0003fa41"
 msgid "Statuettes required"
 msgstr "필요한 조각상"
@@ -11496,19 +11459,16 @@ msgstr "반품 정책"
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/LightQuests/fer_wild_lq9
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0002fc1c"
 msgid ""
 "A thief stole something important from a fortress to the west. A threatening "
 "note found on the thief's body suggests that whoever he stole it from very "
 "much wants it back."
 msgstr ""
-"한 도둑이 서쪽의 요새에서 중요한 물건을 훔쳤다. 도둑의 시체에서 나온 협박장을 보니 물건의 원래 주인이 절실하게 이를 돌려받길 원하는 "
-"것 같다."
+"한 도둑이 서쪽의 요새에서 중요한 물건을 훔쳤다. 도둑의 시체에서 나온 협박장을 보니 원래 주인이 이를 정말 되찾고 싶어하는 것 같다."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/LightQuests/fer_wild_lq9
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x0002fc1d"
 msgid "Return the stolen treasure to the western fortress."
 msgstr "도둑맞은 보물을 서쪽 요새에 돌려주자."
@@ -11521,16 +11481,14 @@ msgstr "모독의 전리품"
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_pln_wild_dalish_tomb
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00031000"
 msgid ""
 "A piece of what appears to be an ancient key was encased inside the broken "
 "grave marker."
-msgstr "고대의 열쇠로 보이는 물체가 부서진 묘비 안에 들어있다."
+msgstr "고대의 열쇠로 보이는 조각이 부서진 묘비 안에 들어있다."
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_pln_wild_dalish_tomb
 #. PATH = JournalEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00031001"
 msgid ""
 "The combined pieces make a key that may be used to open something likely "
@@ -11539,42 +11497,36 @@ msgstr "조각을 조립하자, 오래되고 중요한 뭔가를 여는 데 사�
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_pln_wild_dalish_tomb
 #. PATH = JournalEntry/TextEntry[2]
-#, fuzzy
 msgctxt "0x00043997"
 msgid "The entrance to Unadin Grotto is locked."
 msgstr "어나딘 동굴의 입구는 잠겨 있다."
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_pln_wild_dalish_tomb
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x00030ffe"
 msgid "Tomb key pieces"
-msgstr "무덤 열쇠의 일부"
+msgstr "무덤 열쇠 조각"
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_pln_wild_dalish_tomb
 #. PATH = JournalEntry/TaskEntry[1]
-#, fuzzy
 msgctxt "0x00031002"
 msgid "Use the key to open the tomb door."
 msgstr "열쇠를 사용해 무덤 문을 열자."
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_pln_wild_dalish_tomb
 #. PATH = JournalEntry/TaskEntry[2]
-#, fuzzy
 msgctxt "0x0003523b"
 msgid "Choose to use the key to open the tomb door."
 msgstr "열쇠를 사용해 무덤 문을 열기로 결정하자."
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_pln_wild_dalish_tomb
 #. PATH = JournalEntry/TaskEntry[3]
-#, fuzzy
 msgctxt "0x0003523a"
 msgid "Choose to give the tomb key to Keeper Hawen."
 msgstr "하웬 수호자에게 열쇠를 돌려주기로 결정하자."
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_pln_wild_dalish_tomb
 #. PATH = JournalEntry/TaskEntry[4]
-#, fuzzy
 msgctxt "0x00043998"
 msgid "Find the key to Unadin Grotto."
 msgstr "어나딘 동굴의 열쇠를 찾자."
@@ -11587,7 +11539,6 @@ msgstr "연인의 약속"
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_fst_wild_lq07
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0003191a"
 msgid ""
 "A man has asked his lover to meet him in Gracevine, so they can run away "
@@ -11596,7 +11547,6 @@ msgstr "한 남자가 그의 연인과 그레이스바인에서 만나 함께 �
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_fst_wild_lq07
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x0003191c"
 msgid "Go to the Gracevine grove."
 msgstr "그레이스바인 숲으로 가자."
@@ -11609,7 +11559,6 @@ msgstr "황금 할라"
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_pln_wild_dalish_golden_halla
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0002b58e"
 msgid ""
 "A golden halla known as Hanal'ghilan is said to visit the Dalish in times of "
@@ -11621,14 +11570,12 @@ msgstr ""
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_pln_wild_dalish_golden_halla
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x0002b9b5"
 msgid "Find the golden halla."
 msgstr "황금 할라를 찾자."
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_pln_wild_dalish_golden_halla
 #. PATH = JournalEntry/TaskEntry[1]
-#, fuzzy
 msgctxt "0x00041a8d"
 msgid "Herd the halla to the Dalish."
 msgstr "할라를 데일스 야영지로 유인하자."
@@ -11647,7 +11594,6 @@ msgstr "귀향"
 
 #. EBX = DA3/designcontent/Journals/Ferelden/fer_Wilderness_010/fer_010_OldCrestwoodFetch_journal
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0002d08d"
 msgid ""
 "Sister Vaughn would like the remains of the dead in Old Crestwood returned "
@@ -11656,7 +11602,6 @@ msgstr "보운 수녀가 장례식을 치를 수 있도록 구 크레스트우�
 
 #. EBX = DA3/designcontent/Journals/Ferelden/fer_Wilderness_010/fer_010_OldCrestwoodFetch_journal
 #. PATH = JournalEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00037f8c"
 msgid ""
 "Sister Vaughn wants to cremate the bodies of people lost in a flood ten "
@@ -11665,21 +11610,18 @@ msgstr "보운 수녀가 10년 전 홍수로 목숨을 잃은 사람들의 시�
 
 #. EBX = DA3/designcontent/Journals/Ferelden/fer_Wilderness_010/fer_010_OldCrestwoodFetch_journal
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x0002d08e"
 msgid "Return remains to Sister Vaughn."
 msgstr "시신을 보운 수녀에게 가져다주자."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/fer_Wilderness_010/fer_010_OldCrestwoodFetch_journal
 #. PATH = JournalEntry/TaskEntry[1]
-#, fuzzy
 msgctxt "0x00037f8a"
 msgid "Drain the lake to reach the bodies."
 msgstr "시신에 손이 닿을 수 있도록 호수의 물을 빼자."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/fer_Wilderness_010/fer_010_OldCrestwoodFetch_journal
 #. PATH = JournalEntry/TaskEntry[2]
-#, fuzzy
 msgctxt "0x00037f8b"
 msgid "Bodies found"
 msgstr "발견한 시체"
@@ -11688,29 +11630,26 @@ msgstr "발견한 시체"
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0003fa39"
 msgid "Choose a Lower Royal Wing Door"
-msgstr "왕실관 하층 문 고르기"
+msgstr "왕실관 하층 문 선택하기"
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_hallastatue_RW_Bonus
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0003fa36"
 msgid ""
 "There are two locked doors in the lower royal wing. One is decorated with "
 "the image of a mage, the other a warrior. Only one will open."
 msgstr ""
-"왕실관 하층에 두 개의 문이 잠겨 있다. 하나는 마법사의 모습으로, 다른 하나는 전사의 모습으로 장식되어 있다. 문은 둘 중 하나만 열 "
-"수 있다."
+"왕실관 하층에는 두 개의 잠겨 있는 문이 있다. 하나는 마법사의 모습으로, 다른 하나는 전사의 모습으로 장식되어 있다. 문은 둘 중 "
+"하나만 열 수 있다."
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_hallastatue_RW_Bonus
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x0003fa38"
 msgid "Find a way into one of two locked rooms."
-msgstr "잠겨있는 두 개의 방 중 하나로 들어갈 수 있는 길을 찾자."
+msgstr "잠겨있는 두 개의 방 중 한 곳으로 들어가자."
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_hallastatue_RW_Bonus
 #. PATH = JournalEntry/TaskEntry[1]
-#, fuzzy
 msgctxt "0x0003fa37"
 msgid "Statuettes required"
 msgstr "필요한 조각상"
@@ -11723,7 +11662,6 @@ msgstr "가스파드 대공의 극비 회동"
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_guestwing_gaspard1
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00022df3"
 msgid ""
 "Gaspard had a secret meeting in the guest wing Trophy Room. What was "
@@ -11746,7 +11684,7 @@ msgstr "기념물 전시실을 지키고 있는 경비원을 유인하자."
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x00022df2"
 msgid "Search the Trophy Room for evidence of Gaspard's meeting."
-msgstr "기념물 전시실에 가서 가스파드의 만남에 대한 증거를 찾자."
+msgstr "기념물 전시실에 가서 가스파드가 가졌던 회동의 증거를 찾자."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_medic_supplies_3
 #. PATH = JournalEntry/TitleReference
@@ -11794,21 +11732,18 @@ msgstr "왕실관 상층 문 열기"
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_hallastatue_RW_Empress
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0003fa3e"
 msgid "Find a way into the locked room in the upper level of the royal wing."
 msgstr "왕실관 상층의 잠긴 방에 들어갈 방법을 찾자."
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_hallastatue_RW_Empress
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x0003fa3d"
 msgid "Gain access to the locked room in the upper royal wing."
-msgstr "왕실관 상층에 있는 잠긴 방에 들어갈 방법을 찾자."
+msgstr "왕실관 상층의 잠긴 방으로 가자."
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_hallastatue_RW_Empress
 #. PATH = JournalEntry/TaskEntry[1]
-#, fuzzy
 msgctxt "0x0003fa3f"
 msgid "Statuettes required"
 msgstr "필요한 조각상"
@@ -11821,14 +11756,12 @@ msgstr "승임의 평야: 마구 보급 요청"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_dalesplains_harness
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00043f2e"
 msgid ""
 "Ornamental harnesses crafted for proper and, more importantly, well-"
 "connected courtiers will go a long way to gain favor in the higher echelons "
 "of Orlesian society."
-msgstr ""
-"연줄이 든든한 궁정 조신들이 주로 채용하는 잘 만든 장식용 마구가 있으면 올레이 상류사회 고위층의 환심을 사는데 아주 유용할 것이다."
+msgstr "연줄이 든든한 궁정 조신들을 위한 장식용 마구가 있으면 올레이 고위층의 환심을 사는 데 아주 유용할 것이다."
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_dalesplains_harness
 #. PATH = JournalEntry/TaskEntry[0]
@@ -11856,7 +11789,6 @@ msgstr "{string}129688{/string}"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_dalesplains_harness
 #. PATH = JournalEntry/TaskEntry[3]
-#, fuzzy
 msgctxt "0x00043f30"
 msgid "Gather the harness materials."
 msgstr "마구 재료를 모으자."
@@ -11869,7 +11801,6 @@ msgstr "돈 뿌리기"
 
 #. EBX = DA3/designcontent/Journals/Halamshiral/hal_CoinToss_Collection
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x0003fdfe"
 msgid ""
 "Orlesian nobles have been known to toss Caprice coins into fountains as a "
@@ -11878,7 +11809,6 @@ msgstr "올레이 귀족들 사이에서 카프리스 동전을 분수에 던져
 
 #. EBX = DA3/designcontent/Journals/Halamshiral/hal_CoinToss_Collection
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x0003fdfd"
 msgid "Caprice coins found"
 msgstr "발견한 카프리스 동전"
@@ -11907,14 +11837,12 @@ msgstr "{string}233344{/string}"
 
 #. EBX = DA3/DesignContent/Journals/Global/Inquisition/scout_oasis_geosurvey02
 #. PATH = JournalEntry/TaskEntry[1]
-#, fuzzy
 msgctxt "0x00043fd3"
 msgid "Paragon's Luster"
 msgstr "파라곤의 영광석"
 
 #. EBX = DA3/DesignContent/Journals/Global/Inquisition/scout_oasis_geosurvey02
 #. PATH = JournalEntry/TaskEntry[2]
-#, fuzzy
 msgctxt "0x00043fd4"
 msgid "Serpentstone"
 msgstr "사문석"
@@ -11965,26 +11893,23 @@ msgstr "이 악마들은 영악하군"
 
 #. EBX = DA3/DesignContent/Journals/ThematicLevels/Bog/the_Bog_Apostate
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x000417dd"
 msgid ""
 "A journal recovered in the Mire suggests a rather unstable apostate is "
 "roaming about somewhere. The apostate, apparently named Widris, seems to be "
 "mixed up with some demons and could be dangerous."
 msgstr ""
-"늪지에서 발견된 일지에 의하면,불안정한 상태의 배교자가 근처를 배회하고 있는 듯하다. 위드리스라는 이름의 이 배교자는 악마와 융합되어 "
+"늪지에서 발견된 일지에 의하면, 불안정한 상태의 배교자가 근처를 배회하고 있는 듯하다. 위드리스라는 이름의 이 배교자는 악마와 융합되어 "
 "위험한 상태일 수 있다."
 
 #. EBX = DA3/DesignContent/Journals/ThematicLevels/Bog/the_Bog_Apostate
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x000417df"
 msgid "Find Widris."
 msgstr "위드리스를 찾자."
 
 #. EBX = DA3/DesignContent/Journals/ThematicLevels/Bog/the_Bog_Apostate
 #. PATH = JournalEntry/TaskEntry[1]
-#, fuzzy
 msgctxt "0x000417e0"
 msgid "Kill Widris."
 msgstr "위드리스를 처치하자."
@@ -11997,7 +11922,6 @@ msgstr "침묵이 내려앉은 평야"
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_pln_wild_unlock
 #. PATH = JournalEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00042dc4"
 msgid ""
 "Leliana is concerned about a lack of information coming out of the Exalted "
@@ -12006,13 +11930,12 @@ msgid ""
 "Both Leliana and Cullen agree that whatever's going on here warrants further "
 "investigation."
 msgstr ""
-"가스파드 대공과 셀린 황제의 군대가 각자의 야영지로 후퇴한 이후, 렐리아나가 승임의 평야에서 들리는 소식이 너무 적어진 것을 걱정하고 "
-"있다. 많은 군인이 불평을 토하며 탈영한 이후로 어떤 소식도 들을 수 없었다고 한다. 렐리아나와 컬렌 모두 이곳에서 일어나고 있는 일에 "
+"가스파드 대공과 셀린 황제의 군대가 각자의 야영지로 후퇴했다. 이후, 렐리아나는 승임의 평야에서 들리는 소식이 너무 적어진 것을 걱정하고 "
+"있다. 많은 군인이 불평을 토로하며 탈영한 이후로 어떤 소식도 들을 수 없었다고 한다. 렐리아나와 컬렌 모두 이곳에서 일어나고 있는 일에 "
 "대해 추가 조사가 필요하다는 데 동의했다."
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_pln_wild_unlock
 #. PATH = JournalEntry/TaskEntry[0]
-#, fuzzy
 msgctxt "0x00042dc2"
 msgid "Go to the war table to investigate the Exalted Plains."
 msgstr "작전 지도에서 승임의 평야를 조사하자."
@@ -13979,7 +13902,6 @@ msgstr "상층 정원에 있는 잠긴 문을 열자."
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_hallastatue_GW_CritPath
 #. PATH = JournalEntry/TaskEntry[1]
-#, fuzzy
 msgctxt "0x0003fa32"
 msgid "Statuettes required"
 msgstr "필요한 조각상"

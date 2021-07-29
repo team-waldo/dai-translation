@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-27 16:23+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2021-07-29 08:23+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
 "Language: ko\n"
@@ -4995,13 +4995,13 @@ msgstr "모험가 방어구"
 #. PATH = Recipe/DisplayName
 msgctxt "0x00037206"
 msgid "Free Army Warrior Armor"
-msgstr "자유군 전사 방어구"
+msgstr "자유 동맹 전사 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/OnePiece/recipe_heavy_1p_human_freearmy
 #. PATH = Recipe/CraftingName
 msgctxt "0x0003722e"
 msgid "Free Army Armor"
-msgstr "자유군 방어구"
+msgstr "자유 동맹 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/OnePiece/recipe_heavy_1p_human_orlesianarmy
 #. PATH = Recipe/DisplayName
@@ -5583,13 +5583,13 @@ msgstr "모험가 방어구"
 #. PATH = Recipe/DisplayName
 msgctxt "0x00037216"
 msgid "Free Army Battlemage Armor"
-msgstr "자유군 전투마법사 방어구"
+msgstr "자유 동맹 전투마법사 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/OnePiece/recipe_light_1p_human_freearmy
 #. PATH = Recipe/CraftingName
 msgctxt "0x00037233"
 msgid "Free Army Armor"
-msgstr "자유군 방어구"
+msgstr "자유 동맹 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/OnePiece/recipe_light_1p_human_orlesianarmy
 #. PATH = Recipe/DisplayName
@@ -6171,13 +6171,13 @@ msgstr "모험가 방어구"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0003720f"
 msgid "Free Army Scout Armor"
-msgstr "자유군 정찰대 방어구"
+msgstr "자유 동맹 정찰대 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/OnePiece/recipe_medium_1p_human_freearmy
 #. PATH = Recipe/CraftingName
 msgctxt "0x00037240"
 msgid "Free Army Armor"
-msgstr "자유군 방어구"
+msgstr "자유 동맹 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/OnePiece/recipe_medium_1p_human_orlesianarmy
 #. PATH = Recipe/DisplayName
@@ -13993,7 +13993,7 @@ msgstr "중갑 모험자 방어구"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00037010"
 msgid "Heavy Free Army Armor"
-msgstr "중갑 자유군 방어구"
+msgstr "중갑 자유 동맹 방어구"
 
 #. FILE = DA3/Equipment/Items/Armors/Heavy/equip_armor_heavy_1p_human_orlesianarmy
 #. PATH = EquipItemAsset/DisplayName
@@ -14784,7 +14784,7 @@ msgstr "경량 모험가 방어구"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00037004"
 msgid "Free Army Battlemage Armor"
-msgstr "자유군 전투마법사 방어구"
+msgstr "자유 동맹 전투마법사 방어구"
 
 #. FILE = DA3/Equipment/Items/Armors/Light/equip_armor_light_1p_human_orlesianarmy
 #. PATH = EquipItemAsset/DisplayName
@@ -15272,7 +15272,7 @@ msgstr "평장 모험가 방어구"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00037026"
 msgid "Medium Free Army Armor"
-msgstr "평장 자유군 방어구"
+msgstr "평장 자유 동맹 방어구"
 
 #. FILE = DA3/Equipment/Items/Armors/Medium/equip_armor_medium_1p_human_orlesianarmy
 #. PATH = EquipItemAsset/DisplayName
@@ -23101,7 +23101,7 @@ msgid ""
 "<font color=\"#F3F781\">Defense slot:</font> +16 health"
 msgstr ""
 "4단계 <font color=\"#848484\">희귀</font> 금속\n"
-"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 속성: 화염)\n"
+"<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이류 피해 속성: 전격)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +2 건강\n"
 "<font color=\"#F3F781\">공격 슬롯:</font> +3.5% 방어 관통력\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +16 체력"
