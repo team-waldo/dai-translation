@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-26 11:23+0000\n"
+"PO-Revision-Date: 2021-07-31 02:23+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -226,7 +226,7 @@ msgstr "마나/기력이 임계값 아래로 떨어지면 파티원은 이를 �
 #. PATH = CharacterBehaviorSetting/SettingName
 msgctxt "0x00040349"
 msgid "Targeting Behavior"
-msgstr "대상을 정하는 방법"
+msgstr "공격 대상 지정 방식"
 
 #. FILE = DA3/Party/General/AI/BehaviorSettings/party_behavior_targeting
 #. PATH = CharacterBehaviorSetting/Choices/member[1]/CharacterBehaviorChoice/ChoiceName

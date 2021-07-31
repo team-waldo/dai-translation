@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-26 11:23+0000\n"
+"PO-Revision-Date: 2021-07-31 02:23+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
@@ -24183,13 +24183,13 @@ msgstr "능력치"
 #. PATH = UICharacterRecordSheetScreenAsset/StatLists/member[2]/StatsWithCategory/CategoryDisplayName
 msgctxt "0x000305cd"
 msgid "Offensive"
-msgstr "공격 능력"
+msgstr "공격"
 
 #. FILE = UI/Flow/Screen/REC/REC_CharRec
 #. PATH = UICharacterRecordSheetScreenAsset/StatLists/member[3]/StatsWithCategory/CategoryDisplayName
 msgctxt "0x00032437"
 msgid "Defensive"
-msgstr "방어 능력"
+msgstr "방어"
 
 #. FILE = UI/Flow/Screen/REC/REC_CharRec
 #. PATH = UICharacterRecordSheetScreenAsset/StatLists/member[4]/StatsWithCategory/CategoryDisplayName
@@ -33209,7 +33209,7 @@ msgstr "위치 사수"
 #. PATH = UIObjectiveTypeSettings/ObjectiveTypeDisplayInfos/member[2]/UIObjectiveDisplayInfo/DisplayText
 msgctxt "0x0004332e"
 msgid "Attack"
-msgstr "공격"
+msgstr "공격력"
 
 #. FILE = UI/Settings/UIObjectiveTypeSettings
 #. PATH = UIObjectiveTypeSettings/ObjectiveTypeDisplayInfos/member[4]/UIObjectiveDisplayInfo/DisplayText

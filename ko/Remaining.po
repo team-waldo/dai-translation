@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-29 08:23+0000\n"
+"PO-Revision-Date: 2021-07-31 02:23+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
@@ -894,7 +894,7 @@ msgstr "모든 마법 혹은 속성 피해에 저항하는 비율입니다."
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x0001816a"
 msgid "Melee Defense"
-msgstr "물리 방어"
+msgstr "근접 방어"
 
 #. FILE = DA3/Combat/Stats/Stat_Defense_Melee
 #. PATH = BWModifiableStat/StatDescription
@@ -2539,7 +2539,7 @@ msgid ""
 "Any status effects caused by your alchemy now last longer.\n"
 "\n"
 msgstr ""
-"당신의 연금술로 인한 상태이상은 이제 더 오랫동안 지속됩니다.\n"
+"연금술로 인한 상태이상이 더 오랫동안 지속됩니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/Alchemist/Stats/MP_alchemist_passive_stats_abilitydata
@@ -4656,7 +4656,7 @@ msgstr "심문회 정보원"
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x00042d87"
 msgid "Inquisition Captain"
-msgstr "심문회 대장"
+msgstr "심문회 지휘관"
 
 #. FILE = DA3/Creatures/Multiplayer/RedTemplar/creature_mp_redtemplar_commander
 #. PATH = CreatureEntityData/CharacterNameReference
@@ -9476,7 +9476,7 @@ msgstr "이 문에 맞는 열쇠가 없습니다."
 #. PATH = GetLocalizedStringIDData[1]/Text
 msgctxt "0x00042b9b"
 msgid "Event"
-msgstr "사건"
+msgstr "이벤트"
 
 #. FILE = DA3/DesignContent/Prefabs/Multiplayer/Global/Events/MP_AssassinateSpawner
 #. PATH = GetLocalizedStringIDData[3]/Text
@@ -9506,13 +9506,13 @@ msgstr "심문회 전령 보호하기"
 #. PATH = GetLocalizedStringIDData[1]/Text
 msgctxt "0x00037ee7"
 msgid "Event"
-msgstr "사건"
+msgstr "이벤트"
 
 #. FILE = DA3/DesignContent/Prefabs/Multiplayer/Global/Events/Patrol_v2/MP_PatrolRoute
 #. PATH = GetLocalizedStringIDData[1]/Text
 msgctxt "0x000416f5"
 msgid "Event Failed"
-msgstr "사건 해결 실패"
+msgstr "이벤트 실패"
 
 #. FILE = DA3/DesignContent/Prefabs/Multiplayer/Global/Events/Recovery/Objects/MP_RecoveryObject_Heirlooms
 #. PATH = GetLocalizedStringIDData[3]/Text
@@ -13916,9 +13916,9 @@ msgid ""
 "\n"
 "New upgrades can be crafted in crafting stations."
 msgstr ""
-"강화품은 각기 다른 아이템에서 자유롭게 떼고 붙일 수 있습니다.\n"
+"개조품은 각기 다른 아이템에서 자유롭게 떼고 붙일 수 있습니다.\n"
 "\n"
-"제작소에서 새 강화품을 만들 수 있습니다."
+"제작소에서 새 개조품을 만들 수 있습니다."
 
 #. FILE = DA3/designcontent/PrefabComponents/General/CMP_CraftingModification
 #. PATH = BWPopUpEntityData[2]/Text

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-29 08:23+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-07-31 02:23+0000\n"
+"Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
 "Language: ko\n"
@@ -9189,7 +9189,7 @@ msgstr ""
 #. PATH = Recipe/DisplayName
 msgctxt "0x0002bf40"
 msgid "Courtyard Upgrade"
-msgstr "안마당 강화"
+msgstr "안뜰 업그레이드"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_courtyard_upgrade
 #. PATH = Recipe/Description
@@ -9197,7 +9197,7 @@ msgctxt "0x0002bf61"
 msgid ""
 "Upgrade the courtyard to cosmetically reflect the Inquisition's focus. "
 "Invest here to select between infirmary space or sparring grounds. "
-msgstr "심문회의 주된 관심사를 반영할 수 있도록 안마당을 개선한다. 여기에 투자하면 치료소와 대련장 중 하나를 고를 수 있다. "
+msgstr "심문회의 주된 관심사를 반영할 수 있도록 안뜰을 개선한다. 여기에 투자하면 치료소와 대련장 중 하나를 고를 수 있다. "
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_ferelden_trebuchet
 #. PATH = Recipe/DisplayName
@@ -13288,13 +13288,13 @@ msgstr "고급 치명타 확률의 반지"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0004362f"
 msgid "Ring of Barrier Penetration"
-msgstr "방어막 관통력의 반지"
+msgstr "보호막 관통력의 반지"
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/equip_acc_ring_damage_bonus_barrier_2
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00043609"
 msgid "Enhanced Ring of Barrier Penetration"
-msgstr "상급 방어막 관통력의 반지"
+msgstr "상급 보호막 관통력의 반지"
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/equip_acc_ring_damage_bonus_barrier_3
 #. PATH = EquipItemAsset/DisplayName
@@ -13636,7 +13636,7 @@ msgstr "천상의 분노 강화 반지"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x000382df"
 msgid "Enhanced Barrier Ring"
-msgstr "방어막 강화 반지"
+msgstr "보호막 강화 반지"
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/equip_ring_upgrade_mage_blizzard
 #. PATH = EquipItemAsset/DisplayName
@@ -23752,7 +23752,7 @@ msgstr "공격력 +10% / 치명타 확률-100%"
 #. PATH = BWPassiveAbility/AbilityNameReference
 msgctxt "0x00049f37"
 msgid "+50% barrier / -50% health"
-msgstr "방어막 +50% / 체력 -50%"
+msgstr "보호막 +50% / 체력 -50%"
 
 #. FILE = DA3_DLC_Blue/Equipment/Sigils/dlcblue_sigil_cold_damage_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -23788,7 +23788,7 @@ msgstr "전방 방어 수치 +15% / 다른 모든 방어 수치 -50%"
 #. PATH = BWPassiveAbility/AbilityNameReference
 msgctxt "0x00049b18"
 msgid "+100% maximum guard / -100% maximum barrier"
-msgstr "최대 방어도 +100% / 최대 방어막 -100%"
+msgstr "최대 방어도 +100% / 최대 보호막 -100%"
 
 #. FILE = DA3_DLC_Blue/Equipment/Sigils/dlcblue_sigil_healing_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference

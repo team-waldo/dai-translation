@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-29 08:23+0000\n"
-"Last-Translator: 평범남 <aaasioa@naver.com>\n"
+"PO-Revision-Date: 2021-07-31 02:23+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/codex/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -4659,7 +4659,6 @@ msgstr "\"방해 금지\""
 
 #. EBX = DA3/designcontent/Codex/Plot/BlackEmporium/dlc_cod_tbe_sign_xenonsleeps
 #. PATH = CodexEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00046b1c"
 msgid ""
 "The sign hanging on Xenon's great chair reads:\n"
@@ -5084,7 +5083,6 @@ msgstr "아바르의 어머니, 빛나는 도끼 티르다의 전설"
 
 #. EBX = DA3/designcontent/Codex/Plot/Hinterlands/cod_his_avvar_saga
 #. PATH = CodexEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00042294"
 msgid ""
 "{i}First stanza:{/i}\n"
@@ -5105,8 +5103,8 @@ msgstr ""
 "\n"
 "산의 창조자, 영혼의 칼날, 빛나는 도끼 티르다의 이야기를 들려 주렴.\n"
 "그녀의 사람들은 자유롭고, 빠르고, 산과 단단한 가죽으로 만들어졌네.\n"
-"현명하고, 담담하며, 손님들에게는 멋진 선물을 하고,\n"
-"영혼에게 희생하고, 그들의 가르침을 받고, 탐구를 따랐다네.\n"
+"자비속에 지혜있고, 침착하게 참조하며, 위대한 유산을 소중한 손님에게 준다네,\n"
+"영을 위하고, 가르침을 갈구하고, 탐구를 따랐다네.\n"
 "그녀의 도끼는 빛났고, 화가 날 때는 불꽃을 튀기는, 깨지지 않는 수정이 달렸네.\n"
 "나뭇잎 귀를 가진 그녀의 연인, 웃는 하늘의 여인의 선물이라네.\n"
 "도전자를 모두 무찌른 최고의 칼날.\n"
@@ -5117,7 +5115,6 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Codex/Plot/Hinterlands/cod_his_avvar_saga
 #. PATH = CodexEntry/TextEntry[1]
-#, fuzzy
 msgctxt "0x00042293"
 msgid ""
 "{i}Second stanza:{/i}\n"
@@ -5151,7 +5148,6 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Codex/Plot/Hinterlands/cod_his_avvar_saga
 #. PATH = CodexEntry/TextEntry[2]
-#, fuzzy
 msgctxt "0x00042292"
 msgid ""
 "{i}Third stanza:{/i}\n"
@@ -5171,7 +5167,7 @@ msgid ""
 msgstr ""
 "{i}제3절:{/i}\n"
 "\n"
-"텔름은 티르다에게 달콤히 속삭였네, 금과 강철로 만든 선물을 주고서,\n"
+"텔름은 티르다에게 달콤히 속삭였네, 기쁨의 금과 강인한 강철로 만든 선물을 주고서,\n"
 "티르다의 사람들을 전사로 만들려 했네, 훔친 심장과 훔친 부족.\n"
 "그녀의 부족, 황금손은 상담했네, 겨울의 바람칼의 차가움에 기대\n"
 "\"내 신부가 되어 깨어나는 강을 건너라, 금빛 도시의 몫을 먹어라.\"\n"
@@ -5185,7 +5181,6 @@ msgstr ""
 
 #. EBX = DA3/designcontent/Codex/Plot/Hinterlands/cod_his_avvar_saga
 #. PATH = CodexEntry/TextEntry[3]
-#, fuzzy
 msgctxt "0x0004228e"
 msgid ""
 "{i}Fourth stanza:{/i}\n"
@@ -41066,8 +41061,8 @@ msgstr ""
 "\n"
 "{i}이로운 효과{/i}\n"
 "\n"
-"보호막: 마법이 대상을 보호합니다. 먼저 방어막을 고갈시키지 않으면 공격해도 대상에게 피해를 줄 수 없습니다. 특정 능력이나 마법, "
-"무기는 방어막에 추가 피해를 줍니다.\n"
+"보호막: 마법이 대상을 보호합니다. 먼저 보호막을 고갈시키지 않으면 공격해도 대상에게 피해를 줄 수 없습니다. 특정 능력이나 마법, "
+"무기는 보호막에 추가 피해를 줍니다.\n"
 "\n"
 "방어도: 대상을 피해로부터 막아주는 전투 기술입니다. 먼저 방어도를 고갈시키지 않으면 공격해도 대상에게 피해를 줄 수 없습니다. 특정 "
 "능력이나 마법, 무기는 방어도에 추가 피해를 줍니다. 방어도가 남아있는 대상은 비틀대거나 쓰러지지 않습니다.\n"
