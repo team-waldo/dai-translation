@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-31 02:23+0000\n"
+"PO-Revision-Date: 2021-08-02 04:24+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -1922,7 +1922,7 @@ msgctxt "0x00044852"
 msgid ""
 "10% chance to apply Walking Bomb for 5 seconds, with detonation of 50% "
 "weapon damage"
-msgstr "적중 시 10% 확률로 살아있는 폭탄 시전 (5초 후 폭발해 무기 공격력의 50%만큼의 피해를 줌)"
+msgstr "적중 시 10% 확률로 살아있는 폭탄 시전 (5초 후 폭발해 무기 피해량의 50%만큼의 피해를 줌)"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_proc_walkingbomb_t2_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -1932,7 +1932,7 @@ msgctxt "0x00044853"
 msgid ""
 "10% chance to apply Walking Bomb for 5 seconds, with detonation of 75% "
 "weapon damage"
-msgstr "적중 시 10% 확률로 살아있는 폭탄 시전 (5초 후 폭발해 무기 공격력의 75%만큼의 피해를 줌)"
+msgstr "적중 시 10% 확률로 살아있는 폭탄 시전 (5초 후 폭발해 무기 피해의 75%만큼의 피해를 줌)"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_proc_walkingbomb_t3_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -1942,7 +1942,7 @@ msgctxt "0x00044854"
 msgid ""
 "10% chance to apply Walking Bomb for 5 seconds, with detonation of 100% "
 "weapon damage"
-msgstr "적중 시 10% 확률로 살아있는 폭탄 시전 (5초 후 폭발해 무기 공격력의 100%만큼의 피해를 줌)"
+msgstr "적중 시 10% 확률로 살아있는 폭탄 시전 (5초 후 폭발해 무기 피해량의 100%만큼의 피해를 줌)"
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_proc_walkingfortress_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -9998,7 +9998,7 @@ msgid ""
 "<font color=\"#BAAB7B\">Bonus Damage vs. Guard: </font><font color=\"#"
 "F5ECCE\">{CUSTOM0}%</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">방어도 대상 피해 증가량: </font><font color=\"#F5ECCE\""
+"<font color=\"#BAAB7B\">방어막 대상 피해 증가량: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0}%</font>\n"
 
 #. FILE = DA3/Party/mage/Staff/DoomBlade/party_mage_staff_doomblade_abilitydata
@@ -10019,7 +10019,7 @@ msgid ""
 "enemies, bypassing their guard and barriers.\n"
 "\n"
 msgstr ""
-"실체화 마법으로 검을 만들어 적의 방어도와 보호막을 관통하는 근거리 공격을 휘두릅니다.\n"
+"실체화 마법으로 검을 만들어 적의 방어막과 보호막을 관통하는 근거리 공격을 휘두릅니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Staff/ElementalCone/party_mage_staff_elementalcone_upgrade_abilitydata
@@ -10553,7 +10553,7 @@ msgid ""
 "Stonefist now deals additional damage against enemies with guard.\n"
 "\n"
 msgstr ""
-"바위주먹이 방어도를 지닌 적에게 추가 피해를 줍니다.\n"
+"바위주먹이 방어막을 지닌 적에게 추가 피해를 줍니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Staff/StoneFist/party_mage_staff_stonefist_upgrade_abilitydata

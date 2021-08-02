@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-31 02:23+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-08-02 04:23+0000\n"
+"Last-Translator: 평범남 <aaasioa@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -159,7 +159,7 @@ msgstr "마나 회복 보너스"
 #. PATH = StatusEffect/Description
 msgctxt "0x0002a291"
 msgid "Guard"
-msgstr "방어도"
+msgstr "방어막"
 
 #. FILE = DA3/Combat/DisplayBuffs/Barrier_Buff
 #. PATH = StatusEffect/Description
@@ -287,7 +287,7 @@ msgstr "해당 캐릭터가 쌓을 수 있는 집중도의 최대치입니다."
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x00013312"
 msgid "Guard (2) Max"
-msgstr "방어도 (2) 최대"
+msgstr "방어막 (2) 최대"
 
 #. FILE = DA3/Combat/Stats/Stat_Armor_3_Max
 #. PATH = BWModifiableStat/StatName
@@ -704,13 +704,13 @@ msgstr "대상을 옆이나 뒤에서 타격했을 때 가하는 추가 피해�
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x00018049"
 msgid "Guard Damage Bonus"
-msgstr "방어도 추가 피해"
+msgstr "방어막 추가 피해"
 
 #. FILE = DA3/Combat/Stats/Stat_Damage_Bonus_Guard
 #. PATH = BWModifiableStat/StatDescription
 msgctxt "0x00032ac7"
 msgid "Increases the damage against enemies under the effect of Guard."
-msgstr "방어도의 영향을 받는 적에게 추가적인 피해를 가합니다."
+msgstr "방어막의 영향을 받는 적에게 추가적인 피해를 가합니다."
 
 #. FILE = DA3/Combat/Stats/Stat_Damage_Bonus_Magic
 #. PATH = BWModifiableStat/StatName
@@ -812,7 +812,7 @@ msgstr "화염 피해에 저항하는 비율입니다."
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x0001bda5"
 msgid "Guard Damage Resistance"
-msgstr "방어도 피해 저항"
+msgstr "방어막 피해 저항"
 
 #. FILE = DA3/Combat/Stats/Stat_Damage_Resistance_Nature
 #. PATH = BWModifiableStat/StatName
@@ -999,7 +999,7 @@ msgstr "묘비 계수"
 #. PATH = BWDepletableStat/StatName
 msgctxt "0x0001327f"
 msgid "Guard"
-msgstr "방어도"
+msgstr "방어막"
 
 #. FILE = DA3/Combat/Stats/Stat_Guard
 #. PATH = BWDepletableStat/StatDescription
@@ -1007,37 +1007,37 @@ msgctxt "0x00032adb"
 msgid ""
 "Enemies must first damage the character's Guard, if any, before they can "
 "damage Health."
-msgstr "적은 해당 캐릭터의 방어도가 남아있다면 체력에 피해를 입힐 수 없습니다."
+msgstr "적은 해당 캐릭터의 방어막이 남아있다면 체력에 피해를 입힐 수 없습니다."
 
 #. FILE = DA3/Combat/Stats/Stat_Guard_2
 #. PATH = BWDepletableStat/StatName
 msgctxt "0x00013300"
 msgid "Guard (2)"
-msgstr "방어도 (2)"
+msgstr "방어막 (2)"
 
 #. FILE = DA3/Combat/Stats/Stat_Guard_3
 #. PATH = BWDepletableStat/StatName
 msgctxt "0x00013301"
 msgid "Guard (3)"
-msgstr "방어도 (3)"
+msgstr "방어막 (3)"
 
 #. FILE = DA3/Combat/Stats/Stat_Guard_4
 #. PATH = BWDepletableStat/StatName
 msgctxt "0x00013302"
 msgid "Guard (4)"
-msgstr "방어도(4)"
+msgstr "방어막(4)"
 
 #. FILE = DA3/Combat/Stats/Stat_Guard_Max
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x00013311"
 msgid "Guard Max"
-msgstr "최대 방어도"
+msgstr "최대 방어막"
 
 #. FILE = DA3/Combat/Stats/Stat_Guard_Regeneration
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x00038c18"
 msgid "Guard Regeneration"
-msgstr "방어도 재생"
+msgstr "방어막 재생"
 
 #. FILE = DA3/Combat/Stats/Stat_Heal_Bonus
 #. PATH = BWModifiableStat/StatName
@@ -1454,7 +1454,7 @@ msgctxt "0x0003242b"
 msgid ""
 "The character's physical strength and ability. Each point increases Attack ("
 "warriors only) and Guard Damage Bonus."
-msgstr "해당 캐릭터의 물리적인 완력과 능력입니다. 매 점수가 방어도 피해량을 증가시킵니다. 전사의 경우 공격력 또한 증가합니다."
+msgstr "해당 캐릭터의 물리적인 완력과 능력입니다. 매 점수가 방어막 피해량을 증가시킵니다. 전사의 경우 공격력 또한 증가합니다."
 
 #. FILE = DA3/Combat/Stats/Stat_Stun_Duration_Modifier
 #. PATH = BWModifiableStat/StatName
@@ -2205,7 +2205,7 @@ msgid ""
 "of enemies nearby.\n"
 "\n"
 msgstr ""
-"아바르의 분노를 활성화하면, 주변에 있는 적의 수에 따라서 방어도를 얻습니다.\n"
+"아바르의 분노를 활성화하면, 주변에 있는 적의 수에 따라서 방어막을 얻습니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Actives/Warrior/Avvar/Charge/MP_avvar_charge_abilitydata
@@ -2222,7 +2222,7 @@ msgid ""
 "attack that deals increased damage and generates guard.\n"
 "\n"
 msgstr ""
-"냉기를 두른 돌진으로 적을 밀쳐내고, 추가 피해를 주고 방어도를 생성하는 맹렬한 공격을 합니다.\n"
+"냉기를 두른 돌진으로 적을 밀쳐내고, 추가 피해를 주고 방어막을 생성하는 맹렬한 공격을 합니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Actives/Warrior/Avvar/Charge/MP_avvar_charge_abilitydata
@@ -2587,7 +2587,7 @@ msgid ""
 "You gain bonus armor for a short time after striking with Spirit Blade.\n"
 "\n"
 msgstr ""
-"영혼 칼날로 적을 공격한 뒤 짧은 시간 동안 추가 방어도를 얻습니다.\n"
+"영혼 칼날로 적을 공격한 뒤 짧은 시간 동안 추가 방어막을 얻습니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/ArcaneWarrior/Stats/MP_arcanewarrior_passive_stats_abilitydata
@@ -5720,13 +5720,13 @@ msgstr "용병 명령서"
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042452"
 msgid "Phylactery Manifest"
-msgstr "보호패 배송목록"
+msgstr "보호의 피 배송목록"
 
 #. FILE = DA3/DesignContent/Items/Ferelden/fer_wild_phylactery_manifest
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042453"
 msgid "A shipping manifest for mage phylacteries."
-msgstr "마법사 보호패 배송목록이다."
+msgstr "마법사 보호의 피 배송목록이다."
 
 #. FILE = DA3/DesignContent/Items/Ferelden/fer_wild_ram_meat
 #. PATH = StackedItemAsset/DisplayName
@@ -6658,7 +6658,7 @@ msgid ""
 "\n"
 "{string}277985{/string}"
 msgstr ""
-"베일 상등병은 혼란에 맞서 무기를 들기 원하는 피난민들을 모아 베일의 비정규군을 창설했다.\n"
+"베일 상병은 혼란에 맞서 무기를 들기 원하는 피난민들을 모아 베일의 비정규군을 창설했다.\n"
 "\n"
 "{string}277985{/string}"
 
@@ -14604,7 +14604,7 @@ msgstr ""
 "방패의 벽 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInve"
 "ntoryItem4}{/notcontroller}: "
 "{controller}Holding{/controller}{notcontroller}Toggling{/notcontroller} 이 "
-"기술은 당신의 기력을 소모하여 공격을 막습니다. 기력이 충분하다면, 방어도를 생성하여 공격을 완벽히 방어할 수 있습니다. 큰 적일수록 "
+"기술은 당신의 기력을 소모하여 공격을 막습니다. 기력이 충분하다면, 방어막을 생성하여 공격을 완벽히 방어할 수 있습니다. 큰 적일수록 "
 "기력을 더 많이 소모합니다."
 
 #. FILE = DA3/designcontent/Prefabs/Multiplayer/Global/Tutorials/MP_TutorialTrigger
@@ -14793,7 +14793,7 @@ msgstr ""
 "황소 돌진 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInven"
 "toryItem1}{/notcontroller}: {controller}버튼을 유지하면{/controller}{notcontroller}"
 "기술을 활성화하면{/notcontroller} 전방으로 돌격하여 경로의 모든 적을 넘어뜨립니다. 돌진 중에는 서서히 기력이 소모됩니다. "
-"적에게 피해를 줄 때마다 방어도를 얻습니다."
+"적에게 피해를 줄 때마다 방어막을 얻습니다."
 
 #. FILE = DA3/designcontent/Prefabs/Multiplayer/Global/Tutorials/MP_TutorialTrigger
 #. PATH = BWPopUpEntityData[29]/Text
@@ -14937,7 +14937,7 @@ msgstr ""
 "방패의 벽 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInve"
 "ntoryItem4}{/notcontroller}: "
 "{controller}Holding{/controller}{notcontroller}Toggling{/notcontroller} 이 "
-"기술은 당신의 기력을 소모하여 공격을 막습니다. 기력이 충분하다면, 방어도를 생성하여 공격을 완벽히 방어할 수 있습니다. 큰 적일수록 "
+"기술은 당신의 기력을 소모하여 공격을 막습니다. 기력이 충분하다면, 방어막을 생성하여 공격을 완벽히 방어할 수 있습니다. 큰 적일수록 "
 "기력을 더 많이 소모합니다."
 
 #. FILE = DA3/designcontent/Prefabs/Multiplayer/Global/Tutorials/MP_TutorialTrigger
@@ -16758,7 +16758,7 @@ msgid ""
 "You gain guard for every enemy struck by Flashing Steel.\n"
 "\n"
 msgstr ""
-"번쩍이는 칼날에 맞은 적 마다 방어도를 얻습니다\n"
+"번쩍이는 칼날에 맞은 적 마다 방어막을 얻습니다\n"
 "\n"
 
 #. FILE = DA3_MP2/Combat/Kits/Isabela/NoEscape/combat_kits_isabela_noescape_abilitydata
@@ -19026,7 +19026,7 @@ msgstr "스트라우드"
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x0003147f"
 msgid "Corporal Vale"
-msgstr "베일 상등병"
+msgstr "베일 상병"
 
 #. FILE = da3/DesignContent/CreatureProfiles/Ferelden/Hinterlands/fer_npc_frantic_husband_son_creatureprofile
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName

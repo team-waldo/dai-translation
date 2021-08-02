@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-07-31 02:23+0000\n"
-"Last-Translator: butnine <butnine@gmail.com>\n"
+"PO-Revision-Date: 2021-08-02 04:23+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
 "Language: ko\n"
@@ -35,10 +35,10 @@ msgid ""
 "\n"
 "This masterwork material gives a chance for critical crafting."
 msgstr ""
-"1단계 <font color=\"#2E9AFE\">명품</font> 결정적 제작 재료\n"
-"<font color=\"#F3F781\">결정적 제작 확률:</font> 20%\n"
+"1단계 확률성 <font color=\"#2E9AFE\">명품</font> 제작 재료\n"
+"<font color=\"#F3F781\">명품 제작 확률:</font> 20%\n"
 "\n"
-"이 명품 재료를 사용하면 결정적 제작이 일어날 가능성이 생깁니다."
+"이 재료를 사용하면 일정 확률로 명품 제작에 성공합니다."
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Cloth/crafting_masterwork_Cotton_2
 #. PATH = RecipeMasterworkItemAsset/DisplayName
@@ -2251,10 +2251,10 @@ msgid ""
 "\n"
 "This masterwork material gives a chance for critical crafting."
 msgstr ""
-"2단계 <font color=\"#2E9AFE\">명품</font> 결정적 제작 재료\n"
-"<font color=\"#F3F781\">결정적 제작 확률:</font> 30%\n"
+"2단계 확률성 <font color=\"#2E9AFE\">명품</font> 제작 재료\n"
+"<font color=\"#F3F781\">명품 제작 확률:</font> 30%\n"
 "\n"
-"이 명품 재료를 사용하면 결정적 제작이 일어날 가능성이 생깁니다."
+"이 재료를 사용하면 일정 확률로 명품 제작에 성공합니다."
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Unique/crafting_masterwork_GreatBearClaws
 #. PATH = RecipeMasterworkItemAsset/DisplayName
@@ -2333,10 +2333,10 @@ msgid ""
 "\n"
 "This masterwork material gives a chance for critical crafting."
 msgstr ""
-"3단계 <font color=\"#2E9AFE\">명품</font> 결정적 제작 재료\n"
-"<font color=\"#F3F781\">결정적 제작 확률:</font> 40%\n"
+"3단계 확률성 <font color=\"#2E9AFE\">명품</font> 제작 재료\n"
+"<font color=\"#F3F781\">명품 제작 확률:</font> 40%\n"
 "\n"
-"이 명품 재료를 사용하면 결정적 제작이 일어날 가능성이 생깁니다."
+"이 재료를 사용하면 일정 확률로 명품 제작에 성공합니다."
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/crafting_masterwork_EssencePerfection
 #. PATH = RecipeMasterworkItemAsset/DisplayName
@@ -3820,7 +3820,7 @@ msgstr ""
 "2단계 <font color=\"#848484\">일반</font> 금속\n"
 "<font color=\"#F3F781\">주 슬롯:</font> 중간 방어 수치 / 피해량 (지팡이류 피해 속성: 화염)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1.5 건강\n"
-"<font color=\"#F3F781\">공격 슬롯:</font> +2.5% 방어도 추가 피해\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2.5% 방어막 추가 피해\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +13 체력"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Metal/recipe_material_Serpentstone
@@ -3902,7 +3902,7 @@ msgstr ""
 "1단계 <font color=\"#848484\">일반</font> 금속\n"
 "<font color=\"#F3F781\">주 슬롯:</font> 낮은 방어 수치 / 피해량 (지팡이 피해 속성: 화염)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1 건강\n"
-"<font color=\"#F3F781\">공격 슬롯:</font> +2% 방어도 추가 피해\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +2% 방어막 추가 피해\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +10 체력"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Metal/recipe_material_Veridium
@@ -3936,7 +3936,7 @@ msgstr ""
 "3단계 <font color=\"#848484\">일반</font> 금속\n"
 "<font color=\"#F3F781\">주 슬롯:</font> 높은 방어 수치 / 피해량 (지팡이 피해 속성: 화염)\n"
 "<font color=\"#F3F781\">보조 슬롯:</font> +1.75 건강\n"
-"<font color=\"#F3F781\">공격 슬롯:</font> +3% 방어도 추가 피해\n"
+"<font color=\"#F3F781\">공격 슬롯:</font> +3% 방어막 추가 피해\n"
 "<font color=\"#F3F781\">방어 슬롯:</font> +15 체력"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Metal/recipe_material_dragon_bone
@@ -4437,7 +4437,7 @@ msgstr "수호자 장갑"
 #. PATH = RecipeSlot[1]/SlotName
 msgctxt "0x0001b43d"
 msgid "Defense"
-msgstr "방어력"
+msgstr "방어"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/Arms/recipe_heavy_var2_0020b
 #. PATH = Recipe/DisplayName
@@ -4503,7 +4503,7 @@ msgstr "수비대 방어구 장갑"
 #. PATH = RecipeSlot[2]/SlotName
 msgctxt "0x0001b43e"
 msgid "Utility"
-msgstr "유용한 능력"
+msgstr "보조"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/Arms/recipe_heavy_var2_0040b
 #. PATH = Recipe/DisplayName
@@ -9273,7 +9273,7 @@ msgstr "홀"
 #. PATH = RecipeSlot[1]/SlotName
 msgctxt "0x0001b440"
 msgid "Offense"
-msgstr "공격 능력"
+msgstr "공격"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Mage/Staff/dlcblue_recipe_staff_singing
 #. PATH = RecipeSlot[4]/SlotName
@@ -13164,25 +13164,25 @@ msgstr "최고급 강장제 허리띠"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00028b77"
 msgid "Guard Belt"
-msgstr "방어도의 허리띠"
+msgstr "방어막의 허리띠"
 
 #. FILE = DA3/Equipment/Items/Accessories/Belts/equip_acc_belt_warrior_guard_1
 #. PATH = EquipItemAsset/Description
 msgctxt "0x000432a3"
 msgid "Increases maximum guard by the specified amount."
-msgstr "최대 방어도를 일정 수치만큼 증가시킨다."
+msgstr "최대 방어막이 해당 수치만큼 증가합니다."
 
 #. FILE = DA3/Equipment/Items/Accessories/Belts/equip_acc_belt_warrior_guard_2
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00028b78"
 msgid "Enhanced Guard Belt"
-msgstr "상급 방어도의 허리띠"
+msgstr "상급 방어막의 허리띠"
 
 #. FILE = DA3/Equipment/Items/Accessories/Belts/equip_acc_belt_warrior_guard_3
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00028b79"
 msgid "Superior Guard Belt"
-msgstr "최고급 방어도의 허리띠"
+msgstr "최고급 방어막의 허리띠"
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/dlcblue_equip_acc_ring_nexus
 #. PATH = EquipItemAsset/DisplayName
@@ -13342,19 +13342,19 @@ msgstr "고급 측면 공격의 반지"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00043604"
 msgid "Ring of Guard Penetration"
-msgstr "방어도 관통력의 반지"
+msgstr "방어막 관통력의 반지"
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/equip_acc_ring_damage_bonus_guard_2
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0004360e"
 msgid "Enhanced Ring of Guard Penetration"
-msgstr "상급 방어도 관통력의 반지"
+msgstr "상급 방어막 관통력의 반지"
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/equip_acc_ring_damage_bonus_guard_3
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00043628"
 msgid "Superb Ring of Guard Penetration"
-msgstr "고급 방어도 관통력의 반지"
+msgstr "고급 방어막 관통력의 반지"
 
 #. FILE = DA3/Equipment/Items/Accessories/Rings/equip_acc_ring_dlc_logitech
 #. PATH = EquipItemAsset/DisplayName
@@ -15560,7 +15560,7 @@ msgstr "활시위"
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00041e61"
 msgid "August Ram Horn"
-msgstr "오거스트 숫양뿔"
+msgstr "오거스트 숫양 뿔"
 
 #. FILE = DA3/Equipment/Items/CreatureCodex/creature_codex_item_bear
 #. PATH = StackedItemAsset/DisplayName
@@ -23373,7 +23373,7 @@ msgstr "완벽한 강장제 허리띠"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00046b16"
 msgid "Master Guard Belt"
-msgstr "완벽한 방어도의 허리띠"
+msgstr "완벽한 방어막의 허리띠"
 
 #. FILE = DA3_DLC1/Equipment/Items/Accessories/Rings/dlc1_equip_dlc1_amulet_cooldown_4
 #. PATH = EquipItemAsset/DisplayName
@@ -23788,7 +23788,7 @@ msgstr "전방 방어 수치 +15% / 다른 모든 방어 수치 -50%"
 #. PATH = BWPassiveAbility/AbilityNameReference
 msgctxt "0x00049b18"
 msgid "+100% maximum guard / -100% maximum barrier"
-msgstr "최대 방어도 +100% / 최대 보호막 -100%"
+msgstr "최대 방어막 +100% / 최대 보호막 -100%"
 
 #. FILE = DA3_DLC_Blue/Equipment/Sigils/dlcblue_sigil_healing_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
