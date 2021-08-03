@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-08-02 04:23+0000\n"
-"Last-Translator: 평범남 <aaasioa@naver.com>\n"
+"PO-Revision-Date: 2021-08-03 11:23+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -327,7 +327,7 @@ msgctxt "0x00032ac8"
 msgid ""
 "Each point of armor penetration ignores one point of the target's armor when "
 "inflicting damage."
-msgstr "피해를 가할 때 적의 방어력을 일부 무시합니다. 이 효과는 방어구 관통력 수치가 높을수록 증가합니다."
+msgstr "피해를 가할 때 적의 방어력을 해당 수치만큼 무시합니다."
 
 #. FILE = DA3/Combat/Stats/Stat_Armor_Penetration_Percentage
 #. PATH = BWModifiableStat/StatName
@@ -654,7 +654,7 @@ msgstr "보호막 추가 피해"
 msgctxt "0x00032ac9"
 msgid ""
 "Increases the damage against enemies that are under the effect of Barrier."
-msgstr "보호막의 영향을 받는 적에게 가하는 피해량이 증가합니다."
+msgstr "적의 보호막에 가하는 피해량이 해당 수치만큼 증가합니다."
 
 #. FILE = DA3/Combat/Stats/Stat_Damage_Bonus_Cold
 #. PATH = BWModifiableStat/StatName
@@ -672,7 +672,7 @@ msgstr "치명타 추가 피해"
 #. PATH = BWModifiableStat/StatDescription
 msgctxt "0x00032aca"
 msgid "Increases the extra damage inflicted with a critical hit."
-msgstr "치명타를 가할 때 입히는 추가 피해량이 증가합니다."
+msgstr "치명타가 적중할 경우 해당 수치만큼 치명타 피해량이 증가합니다."
 
 #. FILE = DA3/Combat/Stats/Stat_Damage_Bonus_Electricity
 #. PATH = BWModifiableStat/StatName
@@ -710,7 +710,7 @@ msgstr "방어막 추가 피해"
 #. PATH = BWModifiableStat/StatDescription
 msgctxt "0x00032ac7"
 msgid "Increases the damage against enemies under the effect of Guard."
-msgstr "방어막의 영향을 받는 적에게 추가적인 피해를 가합니다."
+msgstr "적의 방어막에 가하는 피해량이 해당 수치만큼 증가합니다."
 
 #. FILE = DA3/Combat/Stats/Stat_Damage_Bonus_Magic
 #. PATH = BWModifiableStat/StatName
@@ -752,7 +752,7 @@ msgstr "보조무기 피해량"
 #. PATH = BWStat/StatDescription
 msgctxt "0x00032acd"
 msgid "How much damage is inflicted by the rogue's offhand weapon."
-msgstr "도적의 보조 무기로 타격 시 입히는 피해량입니다."
+msgstr "도적의 보조무기로 타격 시 입히는 피해량입니다."
 
 #. FILE = DA3/Combat/Stats/Stat_Damage_Left_Rune
 #. PATH = BWStat/StatName
@@ -3332,7 +3332,7 @@ msgid ""
 "<font color=\"#BAAB7B\">Damage Bonus vs. Fear: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0}%</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">공포 상태 적에 추가 피해: </font><font color=\"#F5ECCE\""
+"<font color=\"#BAAB7B\">공포 상태 적에 추가 피해량: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0}%</font>\n"
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP2/MP_Bard
@@ -17809,7 +17809,7 @@ msgstr "목걸이"
 #. PATH = UIBWInventoryCategories/CategoryLabels/member[4]/UIBWInventoryComponentCategoryData/CategoryLabel
 msgctxt "0x0002713b"
 msgid "Upgrades"
-msgstr "업그레이드"
+msgstr "개조"
 
 #. FILE = Systems/Inventory/InventoryCategories
 #. PATH = UIBWInventoryCategories/CategoryLabels/member[4]/UIBWInventoryComponentCategoryData/SubcategoryList/member[3]/UIBWInventoryComponentSubcategoryData/SubcategoryLabel
