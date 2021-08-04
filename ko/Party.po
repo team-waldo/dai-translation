@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-08-03 11:23+0000\n"
+"PO-Revision-Date: 2021-08-04 17:23+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -156,7 +156,7 @@ msgstr "치유 물약이 해당 숫자 이하로 남으면 파티원이 사용�
 #. PATH = CharacterBehaviorSetting/SettingName
 msgctxt "0x00040347"
 msgid "Healing Potion HP % Threshold"
-msgstr "치유 물약 HP 임계 값 %"
+msgstr "치유 물약 HP % 한계치"
 
 #. FILE = DA3/Party/General/AI/BehaviorSettings/party_behavior_healthpotion_threshold
 #. PATH = CharacterBehaviorSetting/Choices/member[1]/CharacterBehaviorChoice/ChoiceName
@@ -200,7 +200,7 @@ msgctxt "0x000432de"
 msgid ""
 "When the party member's health falls below this threshold, they will attempt "
 "to use a healing potion."
-msgstr "파티원의 체력이 임계값 아래로 떨어지면 치유 물약을 사용하려고 합니다."
+msgstr "파티원의 체력이 한계치 밑으로 떨어지면 자동으로 치유 물약을 사용합니다."
 
 #. FILE = DA3/Party/General/AI/BehaviorSettings/party_behavior_resource_reserve
 #. PATH = CharacterBehaviorSetting/SettingName
@@ -220,7 +220,7 @@ msgctxt "0x000432df"
 msgid ""
 "If mana/stamina falls below this threshold, party member will stop using "
 "abilities that require it."
-msgstr "마나/기력이 임계값 아래로 떨어지면 파티원은 이를 필요로 하는 기술을 사용하지 않습니다."
+msgstr "마나/기력이 한계치 아래로 떨어지면 파티원은 이를 필요로 하는 기술 사용을 멈출 것입니다."
 
 #. FILE = DA3/Party/General/AI/BehaviorSettings/party_behavior_targeting
 #. PATH = CharacterBehaviorSetting/SettingName
@@ -246,7 +246,7 @@ msgctxt "0x000432e0"
 msgid ""
 "Choose targets by following another party member's target or by prioritizing "
 "threats to another party member."
-msgstr "다른 파티원의 표적을 따르거나 다른 파티원에 대한 위협의 우선 순위를 정하여 표적을 선택하십시오."
+msgstr "다른 파티원이 공격 중인 표적을 공격 대상으로 삼거나 또는 다른 파티원의 우선 위협이 되는 적을 공격 대상로 정합니다."
 
 #. FILE = DA3/Party/General/Abilities/InquisiteAbility/party_general_inquisitorammo_abilitydata
 #. PATH = BWAoEAbility/AbilityNameReference
@@ -5227,7 +5227,7 @@ msgstr ""
 #. PATH = BWPassiveAbility/AbilityNameReference
 msgctxt "0x000425c3"
 msgid "I Was Never Here"
-msgstr "나는 여기 없었다"
+msgstr "그리고 아무도 없었다"
 
 #. FILE = DA3/Party/Rogue/Passives/SilentKiller/party_rogue_passive_silentkiller_abilitydata
 #. PATH = BWPassiveAbility/AbilityDescriptionReference

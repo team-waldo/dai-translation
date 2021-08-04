@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-08-03 11:23+0000\n"
+"PO-Revision-Date: 2021-08-04 17:23+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
@@ -1248,7 +1248,7 @@ msgstr "처치 시 회복"
 #. PATH = BWModifiableStat/StatDescription
 msgctxt "0x00032ad1"
 msgid "Amount of damage to be healed by each killing blow."
-msgstr "마지막 타격을 가했을 때 회복하는 수치입니다."
+msgstr "적을 처치했을 때 체력을 회복합니다. 회복량은 전체 체력 대비 해당 수치에 비례합니다."
 
 #. FILE = DA3/Combat/Stats/Stat_Panic_Duration_Modifier
 #. PATH = BWModifiableStat/StatName
@@ -4188,7 +4188,7 @@ msgstr "용병"
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x000392d7"
 msgid "Rebel Mage"
-msgstr "반란군 마법사"
+msgstr "반역파 마법사"
 
 #. FILE = DA3/Creatures/Faction/Biotic/Human/creature_apostate_spellbinder
 #. PATH = CreatureEntityData/CharacterNameReference
