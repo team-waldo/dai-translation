@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-08-05 19:23+0000\n"
-"Last-Translator: 평범남 <aaasioa@naver.com>\n"
+"PO-Revision-Date: 2021-08-13 10:23+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
 "Language: ko\n"
@@ -5637,7 +5637,7 @@ msgstr "정찰대 외투 장갑"
 #. PATH = Recipe/Description
 msgctxt "0x0003ff2c"
 msgid "Tier 1 Medium Armor Arms Schematic"
-msgstr "1단계 평장 방어구 장갑 도안"
+msgstr "1단계 평갑 방어구 장갑 도안"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Arms/recipe_medium_var2_0020a
 #. PATH = Recipe/CraftingName
@@ -5655,7 +5655,7 @@ msgstr "사냥꾼 외투 장갑"
 #. PATH = Recipe/Description
 msgctxt "0x0003ff3b"
 msgid "Tier 2 Medium Armor Arms Schematic"
-msgstr "2단계 평장 방어구 장갑 도안"
+msgstr "2단계 평갑 방어구 장갑 도안"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Arms/recipe_medium_var2_0020b
 #. PATH = Recipe/CraftingName
@@ -5673,7 +5673,7 @@ msgstr "배회자 외투 장갑"
 #. PATH = Recipe/Description
 msgctxt "0x0003ff37"
 msgid "Tier 3 Medium Armor Arms Schematic"
-msgstr "3단계 평장 방어구 장갑 도안"
+msgstr "3단계 평갑 방어구 장갑 도안"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Arms/recipe_medium_var2_0020c
 #. PATH = Recipe/CraftingName
@@ -5727,7 +5727,7 @@ msgstr "정찰대 외투"
 #. PATH = Recipe/Description
 msgctxt "0x0003ff2a"
 msgid "Tier 1 Medium Armor Schematic"
-msgstr "1단계 평장 방어구 도안"
+msgstr "1단계 평갑 방어구 도안"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Chest/recipe_medium_var1_0211a
 #. PATH = Recipe/CraftingName
@@ -5745,7 +5745,7 @@ msgstr "사냥꾼 외투"
 #. PATH = Recipe/Description
 msgctxt "0x0003ff36"
 msgid "Tier 2 Medium Armor Schematic"
-msgstr "2단계 평장 방어구 도안"
+msgstr "2단계 평갑 방어구 도안"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Chest/recipe_medium_var1_0211b
 #. PATH = Recipe/CraftingName
@@ -5763,7 +5763,7 @@ msgstr "배회자 외투"
 #. PATH = Recipe/Description
 msgctxt "0x0003ff24"
 msgid "Tier 3 Medium Armor Schematic"
-msgstr "3단계 평장 방어구 도안"
+msgstr "3단계 평갑 방어구 도안"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Chest/recipe_medium_var1_0211c
 #. PATH = Recipe/CraftingName
@@ -6021,7 +6021,7 @@ msgstr "정찰대 외투 다리"
 #. PATH = Recipe/Description
 msgctxt "0x0003ff39"
 msgid "Tier 1 Medium Armor Legs Schematic"
-msgstr "1단계 평장 방어구 다리 도안"
+msgstr "1단계 평갑 방어구 다리 도안"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Legs/recipe_medium_var2_0002a
 #. PATH = Recipe/CraftingName
@@ -6039,7 +6039,7 @@ msgstr "사냥꾼 갑옷 다리"
 #. PATH = Recipe/Description
 msgctxt "0x0003ff29"
 msgid "Tier 2 Medium Armor Legs Schematic"
-msgstr "2단계 평장 방어구 다리 도안"
+msgstr "2단계 평갑 방어구 다리 도안"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Legs/recipe_medium_var2_0002b
 #. PATH = Recipe/CraftingName
@@ -6057,7 +6057,7 @@ msgstr "배회자 외투 다리"
 #. PATH = Recipe/Description
 msgctxt "0x0003ff25"
 msgid "Tier 3 Medium Armor Legs Schematic"
-msgstr "3단계 평장 방어구 다리 도안"
+msgstr "3단계 평갑 방어구 다리 도안"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Legs/recipe_medium_var2_0002c
 #. PATH = Recipe/CraftingName
@@ -6117,19 +6117,19 @@ msgstr "타격하는 살갗"
 #. PATH = Recipe/Description
 msgctxt "0x00045704"
 msgid "Tier 4 Medium Armor Schematic"
-msgstr "4단계 평장 방어구 도안"
+msgstr "4단계 평갑 방어구 도안"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/OnePiece/recipe_medium_1p_dragon
 #. PATH = Recipe/DisplayName
 msgctxt "0x000403e4"
 msgid "Medium Armor of the Dragon"
-msgstr "평장 용의 방어구"
+msgstr "평갑 용의 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/OnePiece/recipe_medium_1p_dragon_superb
 #. PATH = Recipe/DisplayName
 msgctxt "0x000403e5"
 msgid "Superb Medium Armor of the Dragon"
-msgstr "고급 평장 용의 방어구"
+msgstr "고급 평갑 용의 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/OnePiece/recipe_medium_1p_dwarf_carta
 #. PATH = Recipe/DisplayName
@@ -6159,7 +6159,7 @@ msgstr "데일스 엘프 갑옷"
 #. PATH = Recipe/DisplayName
 msgctxt "0x00037211"
 msgid "Medium Adventurer Armor"
-msgstr "평장 모험가 방어구"
+msgstr "평갑 모험가 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/OnePiece/recipe_medium_1p_human_adventurer
 #. PATH = Recipe/CraftingName
@@ -9164,7 +9164,7 @@ msgid ""
 "{string}277940{/string}"
 msgstr ""
 "서부 접경지는 대재앙의 역병이 돌아 어떤 생명체도 번성할 수 없어야 마땅하지만, 그럼에도 자리 잡고 살아가는 동물들이 있다. 어느 저명한 "
-"학자가 그 이유를 알아내기 위해 지역의 야생동물 표본을 모으는 것을 도와 달라고 부탁했다. {string}277940{/string}"
+"학자가 그 이유를 알아내기 위해 지역의 야생동물 표본을 모으는 것을 도와달라고 부탁했다. {string}277940{/string}"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_Western_Approach_venatori_intel
 #. PATH = Recipe/DisplayName
@@ -9248,7 +9248,7 @@ msgid ""
 "in this upgrade to choose between a mage or templar tower. "
 "{string}277941{/string}"
 msgstr ""
-"인상깊은 심미적 변화를 주기 위해 주 감시탑을 복원하고 개축한다. 이 강화에 투자하면 마법사 탑 혹은 기사단 탑 중 하나를 선택할 수 "
+"인상 깊은 심미적 변화를 주기 위해 주 감시탑을 복원하고 개축한다. 이 강화에 투자하면 마법사 탑 혹은 기사단 탑 중 하나를 선택할 수 "
 "있다. {string}277941{/string}"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Mage/Staff/dlcblue_recipe_staff_singing
@@ -9560,7 +9560,7 @@ msgstr "고급 손잡이"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001fcbe"
 msgid "Thin Staff Grip"
-msgstr "얇은 지팡이 손잡이"
+msgstr "가느다란 지팡이 손잡이"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Mage/Staff/recipe_staff_grip_t3_3_rare
 #. PATH = Recipe/DisplayName
@@ -11986,7 +11986,7 @@ msgstr "이 개조품은 경량 방어구에만 장착할 수 있습니다."
 #. PATH = UpgradeItemAsset/Description
 msgctxt "0x00043e46"
 msgid "This upgrade can only be attached to medium armors."
-msgstr "이 개조품은 평장 방어구에만 장착할 수 있습니다."
+msgstr "이 개조품은 평갑 방어구에만 장착할 수 있습니다."
 
 #. FILE = DA3/Equipment/Crafting/equip_template_DalesForest_improved_poison_remedy
 #. PATH = EquipItemAsset/DisplayName
@@ -12106,7 +12106,7 @@ msgstr "경량 방어구"
 #. PATH = EquipItemType/DisplayName
 msgctxt "0x000142d6"
 msgid "Medium Armor"
-msgstr "평장 방어구"
+msgstr "평갑 방어구"
 
 #. FILE = DA3/Equipment/EquipItemTypes/item_type_axe
 #. PATH = EquipItemType/DisplayName
@@ -15222,7 +15222,7 @@ msgstr ""
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x000403b2"
 msgid "Medium Armor of the Dragon"
-msgstr "평장 용의 방어구"
+msgstr "평갑 용의 방어구"
 
 #. FILE = DA3/Equipment/Items/Armors/Medium/equip_armor_medium_1p_dwarf_carta
 #. PATH = EquipItemAsset/DisplayName
@@ -15260,25 +15260,25 @@ msgid ""
 msgstr ""
 "많은 데일스 엘프 사냥꾼들은 비어 타나달, 즉 \"세 나무의 길\"을 따른다. 이는 데일스 엘프가 신봉하는 세 가지 지혜의 율법으로 "
 "구성되어 있다. 그런데, 언급되는 일은 적은 네 번째 길인 비어 바날라스, \"그림자의 길\" 또한 존재한다. 이 길은 피의 앙갚음을 "
-"행해야만 하는 사냥꾼들이 따르는 방식으로, 그들은 복수 외에는 무엇도 신경쓰지 않는다. 이리하여 데일스 엘프 암살자의 전설이 탄생하였다."
+"행해야만 하는 사냥꾼들이 따르는 방식으로, 그들은 복수 외에는 무엇도 신경 쓰지 않는다. 이리하여 데일스 엘프 암살자의 전설이 탄생하였다."
 
 #. FILE = DA3/Equipment/Items/Armors/Medium/equip_armor_medium_1p_human_adventurer
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00037022"
 msgid "Medium Adventurer Armor"
-msgstr "평장 모험가 방어구"
+msgstr "평갑 모험가 방어구"
 
 #. FILE = DA3/Equipment/Items/Armors/Medium/equip_armor_medium_1p_human_freearmy
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00037026"
 msgid "Medium Free Army Armor"
-msgstr "평장 자유 동맹 방어구"
+msgstr "평갑 자유 동맹 방어구"
 
 #. FILE = DA3/Equipment/Items/Armors/Medium/equip_armor_medium_1p_human_orlesianarmy
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00037024"
 msgid "Medium Orlesian Army Armor"
-msgstr "평장 올레이군 방어구"
+msgstr "평갑 올레이군 방어구"
 
 #. FILE = DA3/Equipment/Items/Armors/Medium/equip_armor_medium_1p_inquisition
 #. PATH = EquipItemAsset/DisplayName
@@ -17498,7 +17498,7 @@ msgstr "명품 새겨진 지팡이 손잡이"
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001fce6"
 msgid "Thin Staff Grip"
-msgstr "얇은 지팡이 손잡이"
+msgstr "가느다란 지팡이 손잡이"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Weapons/upgrade_2handed_grip_t1_1
 #. PATH = UpgradeItemAsset/DisplayName
@@ -17756,7 +17756,7 @@ msgctxt "0x0003fbb6"
 msgid ""
 "A badly scorched bounty poster. The only identifiable features are a large "
 "winged lizard and the crest of Val Royeaux."
-msgstr "심하게 그슬린 현상수배 전단이다. 알아볼 수 있는 것이라고는 거대한 날개 달린 도마뱀 그림과 발 르와요의 문장 뿐이다."
+msgstr "심하게 그슬린 현상수배 전단이다. 알아볼 수 있는 것이라고는 거대한 날개 달린 도마뱀 그림과 발 르와요의 문장뿐이다."
 
 #. FILE = DA3/Equipment/Items/Valuables/Tier2/valuable_Dragon_Sketches
 #. PATH = StackedItemAsset/DisplayName
@@ -22832,7 +22832,7 @@ msgstr "경량 완갑"
 #. PATH = UpgradeItemType/DisplayName
 msgctxt "0x000289a2"
 msgid "Medium Arms"
-msgstr "평장 완갑"
+msgstr "평갑 완갑"
 
 #. FILE = DA3/Equipment/UpgradeItemTypes/upgrade_type_armor_legs_heavy
 #. PATH = UpgradeItemType/DisplayName
@@ -22850,7 +22850,7 @@ msgstr "경량 다리보호대"
 #. PATH = UpgradeItemType/DisplayName
 msgctxt "0x000289a4"
 msgid "Medium Legs"
-msgstr "평장 다리보호대"
+msgstr "평갑 다리보호대"
 
 #. FILE = DA3/Equipment/UpgradeItemTypes/upgrade_type_bianca_aiming
 #. PATH = UpgradeItemType/DisplayName
@@ -24159,7 +24159,7 @@ msgid ""
 "repeatedly met stone. Some previous owner may have used it to batter down a "
 "wall… or several… and possibly a magma fountain."
 msgstr ""
-"반복적으로 돌과 부딪혔던 거대한 망치의 머리 부분은 흠집 투성이에 움푹 패어 있다. 전 소유자들 몇몇이 벽이나... 아니면 몇몇... "
+"반복적으로 돌과 부딪혔던 거대한 망치의 머리 부분은 흠집투성이에 움푹 패어 있다. 전 소유자들 몇몇이 벽이나... 아니면 몇몇... "
 "그리고 어쩌면 용암 온천을 후려갈겼을지도 모른다."
 
 #. FILE = DA3_dlc_red/Equipment/Items/Weapons/Warrior/WeaponShield/Shields/equip_DLC_Red_dlcred_shield_t4_unique
