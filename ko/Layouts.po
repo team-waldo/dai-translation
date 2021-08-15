@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-08-09 15:24+0000\n"
+"PO-Revision-Date: 2021-08-15 02:24+0000\n"
 "Last-Translator: goodgood <bbung108@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
 "Language: ko\n"
@@ -1827,7 +1827,7 @@ msgstr "에메랄드 왕관"
 #. PATH = GetLocalizedStringIDData/Text
 msgctxt "0x00037ef8"
 msgid "Barred"
-msgstr "막혀 있음"
+msgstr "막혔음"
 
 #. FILE = DA3/Layouts/TheDales/hal_winter_palace_ext/DSG_Doors_Schematic
 #. PATH = GetLocalizedStringIDData/Text
@@ -2216,7 +2216,7 @@ msgstr "도리안: 유혹"
 #. PATH = BWGameInteractionEntityData[6]/InteractionTextReference
 msgctxt "0x00040cba"
 msgid "Sera: The Nothing"
-msgstr "세라: 아무 것도 없는 것"
+msgstr "세라: 아무것도 없는 것"
 
 #. FILE = DA3/Layouts/TheFade/DSG_Global_Codecies
 #. PATH = BWGameInteractionEntityData[8]/InteractionTextReference
@@ -3746,7 +3746,7 @@ msgstr "창고 열쇠 필요"
 #. PATH = NotificationEntityData/TitleTextReference
 msgctxt "0x0004a29f"
 msgid "Device Is Blocked"
-msgstr "장치가 막혀 있음"
+msgstr "장치가 막혔음"
 
 #. FILE = DA3_DLC_Blue/Layouts/DLCBlue_Qunari_Dungeon/DSG_Regions_Schematic
 #. PATH = GetLocalizedStringIDData[1]/Text
@@ -5317,7 +5317,7 @@ msgstr "동테르 저택"
 #. PATH = GetLocalizedStringIDData[3]/Text
 msgctxt "0x00040493"
 msgid "Barred from the other side."
-msgstr "다른 쪽에서 막혀 있습니다."
+msgstr "다른 쪽에서 막혔습니다."
 
 #. FILE = da3/Layouts/TheDales/TheDales_Forest/DSG_InteractiveArt_Schematic
 #. PATH = GetLocalizedStringIDData[5]/Text
@@ -5335,7 +5335,7 @@ msgstr "감시자"
 #. PATH = GetLocalizedStringIDData[2]/Text
 msgctxt "0x000379ff"
 msgid "Ralaferin's Tree"
-msgstr "랄라페린의 나무"
+msgstr "랠러피린의 나무"
 
 #. FILE = da3/Layouts/TheDales/TheDales_Forest/DSG_Landmarks_Schematic
 #. PATH = GetLocalizedStringIDData[3]/Text
@@ -5869,7 +5869,7 @@ msgstr "발레스카의 감시소"
 #. PATH = AppearanceOverrideSpawnData/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x00032f5f"
 msgid "Red Templar Lieutenant"
-msgstr "붉은 성기사 중위"
+msgstr "붉은 성기사 부관"
 
 #. FILE = da3/Layouts/TheDales/TheDales_Highlands/map/TheDales_Highlands_floor0
 #. PATH = BWMapPinLocation[6]/TitleReference
@@ -6170,7 +6170,7 @@ msgstr "강변의 주둔지"
 #. PATH = GetLocalizedStringIDData[19]/Text
 msgctxt "0x00037ff8"
 msgid "Unadin Grotto"
-msgstr "어나딘 동굴"
+msgstr "우나딘 동굴"
 
 #. FILE = da3/Layouts/TheDales/TheDales_Plains/TheDales_Plains/DSG_RegionNotifications_Schematic
 #. PATH = GetLocalizedStringIDData[20]/Text
@@ -7476,7 +7476,7 @@ msgstr "{string}273093{/string}"
 #. PATH = GetLocalizedStringIDData/Text
 msgctxt "0x00041a5b"
 msgid "This door is magically sealed."
-msgstr "문은 마법으로 막혀 있다."
+msgstr "문은 마법으로 막혔다."
 
 #. FILE = da3/Layouts/ThematicLevels/the_DesertRuins_510/DSG_MountainPuzzleRm_Schematic
 #. PATH = BWPopUpEntityData[1]/Text
@@ -8008,7 +8008,7 @@ msgstr "???"
 #. PATH = GetLocalizedStringIDData[1]/Text
 msgctxt "0x00036fd2"
 msgid "Barred"
-msgstr "막혀 있음"
+msgstr "막혔음"
 
 #. FILE = da3/Layouts/ValRoyeaux/Val_SeekerFortress/DSG_0000_Doors_Schematic
 #. PATH = GetLocalizedStringIDData[2]/Text
@@ -8020,7 +8020,7 @@ msgstr "사무관의 처소"
 #. PATH = GetLocalizedStringIDData[3]/Text
 msgctxt "0x00036f99"
 msgid "Barred from the Other Side"
-msgstr "다른 쪽에서 막혀 있음"
+msgstr "다른 쪽에서 막혔음"
 
 #. FILE = da3/Layouts/ValRoyeaux/Val_SeekerFortress/DSG_0000_Doors_Schematic
 #. PATH = GetLocalizedStringIDData[4]/Text
@@ -8295,7 +8295,7 @@ msgstr ""
 "—두 상자, 일반품. 스테르난 봉우리, 앤더펠스. 겔트버그 마을.\n"
 "—\"붉은\" 리륨 다섯 상자. 출처 불분명함. 구도회 대원수의 명령에 따라서만 배급할 것.\n"
 "\n"
-"<b>페이지 밑에 쪽지가 꽂혀 있다.</b>\n"
+"<b>페이지 밑에 쪽지가 꽂혔다.</b>\n"
 "\n"
 "이스릭, \n"
 "\n"
@@ -8720,7 +8720,7 @@ msgstr "메뉴로 나가기"
 #. PATH = GetLocalizedStringIDData/Text
 msgctxt "0x0003efbf"
 msgid "The door is obstructed."
-msgstr "문이 막혀 있습니다."
+msgstr "문이 막혔습니다."
 
 #. FILE = da3/layouts/multiplayer/zones/prefabs/mpelvahn/dsg/elv_ext_4e_l01_dsg_n_s_nongroupable_autogen_Win32
 #. PATH = GetLocalizedStringIDData/Text
@@ -9085,7 +9085,7 @@ msgstr "헤이드룬 타이그 폐허로 올라가는 승강기"
 #. PATH = BWMapPinLocation[6]/TitleReference
 msgctxt "0x0004aa9a"
 msgid "Speak with Lieutenant Renn"
-msgstr "렌 중위와 대화하기"
+msgstr "렌 부관과 대화하기"
 
 #. FILE = da3_dlc_red/Layouts/DLC_Red_Dungeon/map/DLC_Red_Dungeon_floor2
 #. PATH = BWMapPinLocation[7]/TitleReference

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-08-13 10:23+0000\n"
+"PO-Revision-Date: 2021-08-15 02:24+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -776,7 +776,7 @@ msgid ""
 "Experts in this style are still on their feet after punishment that would "
 "kill their allies. They use their shield to protect themselves and stagger "
 "their enemies."
-msgstr "방패 전문가들은 전우를 대신해 치명적인 공격을 굳건하게 버팁니다. 그들은 방패를 사용하여 스스로를 보호하고 적을 경직시킵니다."
+msgstr "방패 전문가들은 전우를 대신해 치명적인 공격을 굳건하게 버팁니다. 그들은 방패를 사용하여 자신을 보호하고 적을 경직시킵니다."
 
 #. FILE = DA3/Party/General/AbilityTrees/Warrior_Templar_Spec_AbilityTree
 #. PATH = BWAbilityTree/TreeDescriptionReference
@@ -5609,7 +5609,7 @@ msgid ""
 "nobody but themselves as you leap away.\n"
 "\n"
 msgstr ""
-"당신이 사라진 곳에서 적들은 허둥댑니다. 적이 허공에 대고 공격을 휘둘러 스스로에게 피해를 입힙니다.\n"
+"당신이 사라진 곳에서 적들은 허둥댑니다. 적이 허공에 대고 공격을 휘둘러 자신에게 피해를 입힙니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/Support/Evade/Upgrade2/party_rogue_support_evade_upgrade2_abilitydata
@@ -5837,7 +5837,7 @@ msgid ""
 "shaken to defend themselves, leaving their armor sundered.\n"
 "\n"
 msgstr ""
-"전쟁 뿔피리가 적의 방비 태세를 무너뜨립니다. 적은 스스로를 지키지도 못할 정도로 공황 상태에 빠져, 방어구 손상 상태에 놓입니다.\n"
+"전쟁 뿔피리가 적의 방비 태세를 무너뜨립니다. 적은 자신을 지키지도 못할 정도로 공황 상태에 빠져, 방어구 손상 상태에 놓입니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Warrior/Battlemaster/Warhorn/party_warrior_battlemaster_warhorn_abilitydata
@@ -6878,8 +6878,7 @@ msgid ""
 "the effect.\n"
 "\n"
 msgstr ""
-"피는 곧 생명입니다. 적을 잡아찢어 현재 잃은 체력에 비례하는 피해를 주고 스스로를 치유합니다. 고통의 고리는 효과를 크게 향상시킵니다."
-"\n"
+"피는 곧 생명입니다. 적을 잡아찢어 현재 잃은 체력에 비례하는 피해를 주고 자신을 치유합니다. 고통의 고리는 효과를 크게 향상시킵니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Warrior/Reaver/Devour/party_warrior_reaver_devour_abilitydata
@@ -8427,7 +8426,7 @@ msgid ""
 "While frozen, the victim of Ice Mine loses all armor protection.\n"
 "\n"
 msgstr ""
-"얼음 지뢰에 의해 빙결된 적은 그 동안 모든 방어력을 잃습니다.\n"
+"얼음 지뢰에 의해 빙결된 적은 그동안 모든 방어력을 잃습니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/FireIce/IceMine/party_mage_fireice_icemine_upgrade_abilitydata
@@ -9253,7 +9252,7 @@ msgid ""
 "paralyzed.\n"
 "\n"
 msgstr ""
-"마법을 시전할 때 스스로를 전격으로 휘감습니다. 주문을 방해하려고 공격하는 적이 전격에 당해 마비됩니다.\n"
+"마법을 시전할 때 자신을 전격으로 휘감습니다. 주문을 방해하려고 공격하는 적이 전격에 당해 마비됩니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Passives/StaticCharge/party_mage_passive_staticcharge_abilitydata
@@ -10867,7 +10866,7 @@ msgid ""
 "You create a barrier of magical energy to protect yourself from damage.\n"
 "\n"
 msgstr ""
-"피해로부터 스스로를 보호하기 위한 마력 에너지 보호막을 생성합니다.\n"
+"피해로부터 자신을 보호하기 위한 마력 에너지 보호막을 생성합니다.\n"
 "\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Barrier/saarebas_abilities_barrier_abilitydata

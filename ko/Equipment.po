@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-08-13 10:23+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2021-08-15 02:24+0000\n"
+"Last-Translator: goodgood <bbung108@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
 "Language: ko\n"
@@ -4057,7 +4057,7 @@ msgstr "슬픈 파편"
 #. PATH = RecipeMaterial/Description
 msgctxt "0x00044a9b"
 msgid "The despondent remains of a once-proud keep door."
-msgstr "한 때 자랑스러웠던 요새 문의 슬픔 가득한 잔해."
+msgstr "한때 자랑스러웠던 요새 문의 슬픔 가득한 잔해."
 
 #. FILE = DA3/Equipment/Crafting/Materials/Special/recipe_material_tevinter_tome
 #. PATH = RecipeMaterial/DisplayName
@@ -4821,7 +4821,7 @@ msgstr "최고급 베나토리 투구"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a233"
 msgid "Defender Coat Legs"
-msgstr "수비대 외투 다리"
+msgstr "수비대 외투 하의"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/Legs/recipe_heavy_var2_0002a
 #. PATH = Recipe/Description
@@ -4833,13 +4833,13 @@ msgstr "1단계 중갑 방어구 다리 도안"
 #. PATH = Recipe/CraftingName
 msgctxt "0x00024402"
 msgid "Defender Legs"
-msgstr "수호자 다리부분"
+msgstr "수호자 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/Legs/recipe_heavy_var2_0002b
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a234"
 msgid "Vanguard Coat Legs"
-msgstr "선봉대 외투 다리"
+msgstr "선봉대 외투 하의"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/Legs/recipe_heavy_var2_0002b
 #. PATH = Recipe/Description
@@ -4851,7 +4851,7 @@ msgstr "2단계 중갑 방어구 다리 도안"
 #. PATH = Recipe/CraftingName
 msgctxt "0x00024404"
 msgid "Vanguard Legs"
-msgstr "선봉대 다리부분"
+msgstr "선봉대 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/Legs/recipe_heavy_var2_0002c
 #. PATH = Recipe/DisplayName
@@ -4869,43 +4869,43 @@ msgstr "3단계 중갑 방어구 다리 도안"
 #. PATH = Recipe/CraftingName
 msgctxt "0x00024406"
 msgid "Battlemaster Legs"
-msgstr "전투전문가 다리"
+msgstr "전투전문가 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/Legs/recipe_heavy_var2_0003a
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a226"
 msgid "Defender Mail Legs"
-msgstr "수비대 갑옷 다리"
+msgstr "수비대 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/Legs/recipe_heavy_var2_0003b
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a22d"
 msgid "Vanguard Mail Legs"
-msgstr "선봉대 갑옷 다리"
+msgstr "선봉대 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/Legs/recipe_heavy_var2_0003c
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a270"
 msgid "Battlemaster Mail Legs"
-msgstr "전투전문가 갑옷 다리"
+msgstr "전투전문가 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/Legs/recipe_heavy_var2_0004a
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a23d"
 msgid "Defender Armor Legs"
-msgstr "수비대 방어구 다리"
+msgstr "수비대 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/Legs/recipe_heavy_var2_0004b
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a229"
 msgid "Vanguard Armor Legs"
-msgstr "선봉대 방어구 다리"
+msgstr "선봉대 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/Legs/recipe_heavy_var2_0004c
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a269"
 msgid "Battlemaster Armor Legs"
-msgstr "전투전문가 방어구 다리"
+msgstr "전투전문가 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/OnePiece/dlcblue_recipe_heavy_1p_griffon
 #. PATH = Recipe/DisplayName
@@ -5439,7 +5439,7 @@ msgstr "최고급 심문관 모자"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a2ef"
 msgid "Apprentice Coat Legs"
-msgstr "수습생 외투 다리"
+msgstr "수습생 외투 하의"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/Legs/recipe_light_var2_0002a
 #. PATH = Recipe/Description
@@ -5451,13 +5451,13 @@ msgstr "1단계 경량 방어구 다리 도안"
 #. PATH = Recipe/CraftingName
 msgctxt "0x00024413"
 msgid "Apprentice Legs"
-msgstr "수습생용 다리부분"
+msgstr "수습생용 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/Legs/recipe_light_var2_0002b
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a301"
 msgid "Enchanter Mail Legs"
-msgstr "마도사 갑옷 다리"
+msgstr "마도사 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/Legs/recipe_light_var2_0002b
 #. PATH = Recipe/Description
@@ -5469,13 +5469,13 @@ msgstr "2단계 경량 방어구 다리 도안"
 #. PATH = Recipe/CraftingName
 msgctxt "0x00024416"
 msgid "Enchanter Legs"
-msgstr "마도사 다리부분"
+msgstr "마도사 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/Legs/recipe_light_var2_0002c
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a2fc"
 msgid "Battlemage Coat Legs"
-msgstr "전투마법사 외투 다리"
+msgstr "전투마법사 외투 하의"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/Legs/recipe_light_var2_0002c
 #. PATH = Recipe/Description
@@ -5487,43 +5487,43 @@ msgstr "3단계 경량 방어구 다리 도안"
 #. PATH = Recipe/CraftingName
 msgctxt "0x00024414"
 msgid "Battlemage Legs"
-msgstr "전투마법사 다리부분"
+msgstr "전투마법사 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/Legs/recipe_light_var2_0003a
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a2ff"
 msgid "Apprentice Mail Legs"
-msgstr "수습생 갑옷 다리"
+msgstr "수습생 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/Legs/recipe_light_var2_0003b
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a2ee"
 msgid "Enchanter Coat Legs"
-msgstr "마도사 외투 다리"
+msgstr "마도사 외투 하의"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/Legs/recipe_light_var2_0003c
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a2f4"
 msgid "Battlemage Mail Legs"
-msgstr "전투마법사 갑옷 다리"
+msgstr "전투마법사 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/Legs/recipe_light_var2_0004a
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a302"
 msgid "Apprentice Armor Legs"
-msgstr "수습생 방어구 다리"
+msgstr "수습생 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/Legs/recipe_light_var2_0004b
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a2f1"
 msgid "Enchanter Armor Legs"
-msgstr "마도사 방어구 다리"
+msgstr "마도사 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/Legs/recipe_light_var2_0004c
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a2dd"
 msgid "Battlemage Armor Legs"
-msgstr "전투마법사 방어구 다리"
+msgstr "전투마법사 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/OnePiece/dlcblue_recipe_light_1p_griffon
 #. PATH = Recipe/DisplayName
@@ -6015,7 +6015,7 @@ msgstr "대군주의 투구"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a2ca"
 msgid "Scout Coat Legs"
-msgstr "정찰대 외투 다리"
+msgstr "정찰대 외투 하의"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Legs/recipe_medium_var2_0002a
 #. PATH = Recipe/Description
@@ -6027,13 +6027,13 @@ msgstr "1단계 평갑 방어구 다리 도안"
 #. PATH = Recipe/CraftingName
 msgctxt "0x0002440b"
 msgid "Scout Legs"
-msgstr "정찰대 다리"
+msgstr "정찰대 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Legs/recipe_medium_var2_0002b
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a2c4"
 msgid "Hunter Mail Legs"
-msgstr "사냥꾼 갑옷 다리"
+msgstr "사냥꾼 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Legs/recipe_medium_var2_0002b
 #. PATH = Recipe/Description
@@ -6045,13 +6045,13 @@ msgstr "2단계 평갑 방어구 다리 도안"
 #. PATH = Recipe/CraftingName
 msgctxt "0x0002440c"
 msgid "Hunter Legs"
-msgstr "사냥꾼 다리"
+msgstr "사냥꾼 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Legs/recipe_medium_var2_0002c
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a2a7"
 msgid "Prowler Coat Legs"
-msgstr "배회자 외투 다리"
+msgstr "배회자 외투 하의"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Legs/recipe_medium_var2_0002c
 #. PATH = Recipe/Description
@@ -6063,43 +6063,43 @@ msgstr "3단계 평갑 방어구 다리 도안"
 #. PATH = Recipe/CraftingName
 msgctxt "0x00024409"
 msgid "Prowler Legs"
-msgstr "배회자 다리"
+msgstr "배회자 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Legs/recipe_medium_var2_0003a
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a2a4"
 msgid "Scout Mail Legs"
-msgstr "정찰대 갑옷 다리"
+msgstr "정찰대 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Legs/recipe_medium_var2_0003b
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a2bd"
 msgid "Hunter Coat Legs"
-msgstr "사냥꾼 외투 다리"
+msgstr "사냥꾼 외투 하의"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Legs/recipe_medium_var2_0003c
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a2b8"
 msgid "Prowler Mail Legs"
-msgstr "배회자 갑옷 다리"
+msgstr "배회자 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Legs/recipe_medium_var2_0004a
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a2ba"
 msgid "Scout Armor Legs"
-msgstr "정찰대 방어구 다리"
+msgstr "정찰대 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Legs/recipe_medium_var2_0004b
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a2be"
 msgid "Hunter Armor Legs"
-msgstr "사냥꾼 방어구 다리"
+msgstr "사냥꾼 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Legs/recipe_medium_var2_0004c
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001a2a1"
 msgid "Prowler Armor Legs"
-msgstr "배회자 방어구 다리"
+msgstr "배회자 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/OnePiece/dlcblue_recipe_medium_1p_griffon
 #. PATH = Recipe/DisplayName
@@ -8287,7 +8287,7 @@ msgid ""
 "Inquisition. The quartermaster is requesting assistance. "
 "{string}277940{/string}"
 msgstr ""
-"병참 장교가 도움을 청해왔다. 심문회로 물품을 조달하기 위한 짐마차가 더 필요하다고 한다. {string}277940{/string}"
+"병참 장교가 도움을 청했다. 심문회로 물품을 조달하기 위한 짐마차가 더 필요하다고 한다. {string}277940{/string}"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_Crestwood_GeoSurvey_01
 #. PATH = Recipe/DisplayName
@@ -8470,8 +8470,7 @@ msgid ""
 "recovering elven artifacts that have been stolen by Orlesian deserters. "
 "{string}277940{/string}"
 msgstr ""
-"데일스 엘프 장로들이 올레이 탈영병들이 훔쳐간 엘프 유물을 되찾는 데 심문회의 도움을 요청해 왔다. "
-"{string}277940{/string}"
+"데일스 엘프 장로들이 올레이 탈영병들이 훔쳐간 엘프 유물을 되찾는 데 심문회의 도움을 요청했다. {string}277940{/string}"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_Dales_Plains_Ceremonial_Burial_Armor
 #. PATH = Recipe/DisplayName
@@ -8902,7 +8901,7 @@ msgid ""
 "oneself."
 msgstr ""
 "장인 개인에게 맞춰진 정밀한 도구다. 저급한 도구로는 저급한 물건밖에 만들 수 없고, 이는 전장에서 용납되지 않는다. 장인이 만든 "
-"결과물이 적을 위협하는 물건이 될지, 스스로를 위험에 빠뜨리는 도구가 될지는 도구의 질이 결정한다."
+"결과물이 적을 위협하는 물건이 될지, 자신을 위험에 빠뜨리는 도구가 될지는 도구의 질이 결정한다."
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_Standard
 #. PATH = Recipe/DisplayName
@@ -12004,8 +12003,8 @@ msgid ""
 "poisoning when dealing with the Orlesian nobility. Adding to our supply of "
 "poison remedies would be advised. {string}277940{/string}"
 msgstr ""
-"심문회와 외교관들이 올레이 귀족들과 교류하며 \"사고로 인한\" 중독 증상이 늘어나고 있다고 보고해 왔다. 해독제 보급량을 늘리는 것이 "
-"좋을 것이다. {string}277940{/string}"
+"심문회와 외교관들이 올레이 귀족들과 교류하며 \"사고로 인한\" 중독 증상이 늘어나고 있다고 보고했다. 해독제 보급량을 늘리는 것이 좋을 "
+"것이다. {string}277940{/string}"
 
 #. FILE = DA3/Equipment/Crafting/equip_template_Desert_Ruins_Geo_02
 #. PATH = EquipItemAsset/DisplayName
@@ -14258,7 +14257,7 @@ msgstr "성기사단 투구"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001c38c"
 msgid "Free Marches Helmet"
-msgstr "자유동맹 투구"
+msgstr "자유 동맹 투구"
 
 #. FILE = DA3/Equipment/Items/Armors/Helms/Heavy/equip_helmet_heavy_t1_3
 #. PATH = EquipItemAsset/DisplayName
@@ -15129,7 +15128,7 @@ msgid ""
 "as well as the approval of the court."
 msgstr ""
 "이것은 황제 셀린 드 발몽이 사용했던 가면 중 하나로, 재능 있는 장인 칼록이 황제를 위해 만들어 바친 물건이라는 소문이 전해진다. "
-"드워프 칼록은 올레이 귀족가의 주문을 받을 때면 언제나 까다롭게 굴었으며, 줄곧 황가의 요청을 거절해 왔으나 용의 시대 9:33년 마침내 "
+"드워프 칼록은 올레이 귀족가의 주문을 받을 때면 언제나 까다롭게 굴었으며, 줄곧 황가의 요청을 거절했으나 용의 시대 9:33년 마침내 "
 "셀린에게 가면 한 벌을 지어 진상했다고 한다. 당시 칼록이 만든 가면을 받는 것은 큰 영예로 여겨졌으며, 이제 이 가면은 황제의 축복과 "
 "올레이 궁정의 호의를 함께 얻은 심문회에게 수여되었다."
 
@@ -15159,7 +15158,7 @@ msgstr ""
 "\"가 전파될 것이라는 두려움에 사로잡힌 이들에게 기피를 받는 지경에 이르렀다. 에브람 백작의 아내, 루이즈 드 모락 부인은 공개적인 "
 "장소에서 모락 가문의 가면을 파괴하고 새 것을 제작하는 볼거리를 기획했으나, 행사를 하루 앞두고 독이든 포도를 먹어 죽음을 맞았다. 모락 "
 "가문의 죽음은 멈추었으나 루이즈 부인의 노력에도 불구하고 새 가면은 세간에 거의 알려지지 않았고, 이전의 가면만이 그 희귀함에 많은 "
-"사람들이 보고 싶어하는 물건이 되었다."
+"사람이 보고 싶어하는 물건이 되었다."
 
 #. FILE = DA3/Equipment/Items/Armors/Masks/equip_mask_7
 #. PATH = EquipItemAsset/DisplayName
@@ -15720,7 +15719,7 @@ msgstr "헐록 화살"
 #.     0x00043a66(277094) : {string}277496{/string} {string}281367{/string}: {CUSTOM0}
 msgctxt "0x00043bf8"
 msgid "Hurlock Alpha Vambrace"
-msgstr "헐록 우두머리 완갑"
+msgstr "헐록 우두머리 장갑"
 
 #. FILE = DA3/Equipment/Items/CreatureCodex/creature_codex_item_knight
 #. PATH = StackedItemAsset/DisplayName
@@ -16358,271 +16357,271 @@ msgstr "최고급 배회자 방어구 장갑"
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b0e6"
 msgid "Defender Coat Legs"
-msgstr "수비대 외투 다리"
+msgstr "수비대 외투 하의"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_heavy_var1_0002b
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b0f1"
 msgid "Vanguard Coat Legs"
-msgstr "선봉대 외투 다리"
+msgstr "선봉대 외투 하의"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_heavy_var1_0002b_rare
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b0e9"
 msgid "Superior Vanguard Coat Legs"
-msgstr "최고급 선봉대 외투 다리"
+msgstr "최고급 선봉대 외투 하의"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_heavy_var1_0002c
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b0ee"
 msgid "Battlemaster Coat Legs"
-msgstr "전투전문가 외투 다리"
+msgstr "전투전문가 외투 하의"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_heavy_var1_0002c_rare
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b0f6"
 msgid "Superior Battlemaster Coat Legs"
-msgstr "최고급 전투전문가 외투 다리"
+msgstr "최고급 전투전문가 외투 하의"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_heavy_var1_0003a
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b0da"
 msgid "Defender Mail Legs"
-msgstr "수비대 갑옷 다리"
+msgstr "수비대 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_heavy_var1_0003b
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b0d9"
 msgid "Vanguard Mail Legs"
-msgstr "선봉대 갑옷 다리"
+msgstr "선봉대 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_heavy_var1_0003b_rare
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b0e3"
 msgid "Superior Vanguard Mail Legs"
-msgstr "최고급 선봉대 갑옷 다리"
+msgstr "최고급 선봉대 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_heavy_var1_0003c
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b0f5"
 msgid "Battlemaster Mail Legs"
-msgstr "전투전문가 갑옷 다리"
+msgstr "전투전문가 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_heavy_var1_0003c_rare
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b0d4"
 msgid "Superior Battlemaster Mail Legs"
-msgstr "최고급 전투전문가 갑옷 다리"
+msgstr "최고급 전투전문가 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_heavy_var1_0004a
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b0df"
 msgid "Defender Armor Legs"
-msgstr "수비대 방어구 다리"
+msgstr "수비대 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_heavy_var1_0004b
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b0dc"
 msgid "Vanguard Armor Legs"
-msgstr "선봉대 방어구 다리"
+msgstr "선봉대 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_heavy_var1_0004b_rare
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b0e8"
 msgid "Superior Vanguard Armor Legs"
-msgstr "최고급 선봉대 방어구 다리"
+msgstr "최고급 선봉대 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_heavy_var1_0004c
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b0f4"
 msgid "Battlemaster Armor Legs"
-msgstr "전투전문가 방어구 다리"
+msgstr "전투전문가 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_heavy_var1_0004c_rare
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b0de"
 msgid "Superior Battlemaster Armor Legs"
-msgstr "최고급 전투전문가 방어구 다리"
+msgstr "최고급 전투전문가 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_light_var1_0002a
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b25b"
 msgid "Apprentice Coat Legs"
-msgstr "수습생 외투 다리"
+msgstr "수습생 외투 하의"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_light_var1_0002b
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b247"
 msgid "Enchanter Coat Legs"
-msgstr "마도사 외투 다리"
+msgstr "마도사 외투 하의"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_light_var1_0002b_rare
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b254"
 msgid "Superior Enchanter Coat Legs"
-msgstr "최고급 마도사 외투 다리"
+msgstr "최고급 마도사 외투 하의"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_light_var1_0002c
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b255"
 msgid "Battlemage Coat Legs"
-msgstr "전투마법사 외투 다리"
+msgstr "전투마법사 외투 하의"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_light_var1_0002c_rare
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b24d"
 msgid "Superior Battlemage Coat Legs"
-msgstr "최고급 전투마법사 외투 다리"
+msgstr "최고급 전투마법사 외투 하의"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_light_var1_0003a
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b269"
 msgid "Apprentice Mail Legs"
-msgstr "수습생 갑옷 다리"
+msgstr "수습생 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_light_var1_0003b
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b250"
 msgid "Enchanter Mail Legs"
-msgstr "마도사 갑옷 다리"
+msgstr "마도사 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_light_var1_0003b_rare
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b24c"
 msgid "Superior Enchanter Mail Legs"
-msgstr "최고급 마도사 갑옷 다리"
+msgstr "최고급 마도사 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_light_var1_0003c
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b244"
 msgid "Battlemage Mail Legs"
-msgstr "전투마법사 갑옷 다리"
+msgstr "전투마법사 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_light_var1_0003c_rare
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b246"
 msgid "Superior Battlemage Mail Legs"
-msgstr "최고급 전투마법사 갑옷 다리"
+msgstr "최고급 전투마법사 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_light_var1_0004a
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b24b"
 msgid "Apprentice Armor Legs"
-msgstr "수습생 방어구 다리"
+msgstr "수습생 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_light_var1_0004b
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b26d"
 msgid "Enchanter Armor Legs"
-msgstr "마도사 방어구 다리"
+msgstr "마도사 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_light_var1_0004b_rare
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b263"
 msgid "Superior Enchanter Armor Legs"
-msgstr "최고급 마도사 방어구 다리"
+msgstr "최고급 마도사 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_light_var1_0004c
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b26a"
 msgid "Battlemage Armor Legs"
-msgstr "전투마법사 방어구 다리"
+msgstr "전투마법사 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_light_var1_0004c_rare
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b266"
 msgid "Superior Battlemage Armor Legs"
-msgstr "최고급 전투마법사 방어구 다리"
+msgstr "최고급 전투마법사 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_medium_var1_0002a
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b23c"
 msgid "Scout Coat Legs"
-msgstr "정찰대 외투 다리"
+msgstr "정찰대 외투 하의"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_medium_var1_0002b
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b22b"
 msgid "Hunter Coat Legs"
-msgstr "사냥꾼 외투 다리"
+msgstr "사냥꾼 외투 하의"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_medium_var1_0002b_rare
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b23a"
 msgid "Superior Hunter Coat Legs"
-msgstr "최고급 사냥꾼 외투 다리"
+msgstr "최고급 사냥꾼 외투 하의"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_medium_var1_0002c
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b218"
 msgid "Prowler Coat Legs"
-msgstr "배회자 외투 다리"
+msgstr "배회자 외투 하의"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_medium_var1_0002c_rare
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b220"
 msgid "Superior Prowler Mail Legs"
-msgstr "최고급 배회자 갑옷 다리"
+msgstr "최고급 배회자 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_medium_var1_0003a
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b23d"
 msgid "Scout Mail Legs"
-msgstr "정찰대 갑옷 다리"
+msgstr "정찰대 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_medium_var1_0003b
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b221"
 msgid "Hunter Mail Legs"
-msgstr "사냥꾼 갑옷 다리"
+msgstr "사냥꾼 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_medium_var1_0003b_rare
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b239"
 msgid "Superior Hunter Mail Legs"
-msgstr "최고급 사냥꾼 갑옷 다리"
+msgstr "최고급 사냥꾼 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_medium_var1_0003c
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b233"
 msgid "Prowler Mail Legs"
-msgstr "배회자 갑옷 다리"
+msgstr "배회자 갑옷 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_medium_var1_0003c_rare
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b236"
 msgid "Superior Prowler Coat Legs"
-msgstr "최고급 배회자 외투 다리"
+msgstr "최고급 배회자 외투 하의"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_medium_var1_0004a
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b223"
 msgid "Scout Armor Legs"
-msgstr "정찰대 방어구 다리"
+msgstr "정찰대 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_medium_var1_0004b
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b21c"
 msgid "Hunter Armor Legs"
-msgstr "사냥꾼 방어구 다리"
+msgstr "사냥꾼 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_medium_var1_0004b_rare
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b237"
 msgid "Superior Hunter Armor Legs"
-msgstr "최고급 사냥꾼 방어구 다리"
+msgstr "최고급 사냥꾼 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_medium_var1_0004c
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b22e"
 msgid "Prowler Armor Legs"
-msgstr "배회자 방어구 다리"
+msgstr "배회자 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Armor/Legs/upgrade_legs_medium_var1_0004c_rare
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001b222"
 msgid "Superior Prowler Armor Legs"
-msgstr "최고급 배회자 방어구 다리"
+msgstr "최고급 배회자 방어구 다리보호대"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Runes/Weapon_Runes/upgrade_rune_fire_0
 #. PATH = UpgradeItemAsset/DisplayName
@@ -17816,7 +17815,7 @@ msgstr "황금 뿔"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x0003fc84"
 msgid "It seems like a lot of people would be looking for this."
-msgstr "많은 사람들이 이 물건을 찾아다닐 것 같다."
+msgstr "많은 사람이 이 물건을 찾아다닐 것 같다."
 
 #. FILE = DA3/Equipment/Items/Valuables/Tier2/valuable_Herb_Book
 #. PATH = StackedItemAsset/DisplayName
@@ -19137,8 +19136,8 @@ msgid ""
 "despite efforts to stamp it out in the old Dalish kingdom. This staff "
 "belonged to a priest of those gods, specifically Daern'thal."
 msgstr ""
-"잊힌 자들은 고대 엘프 만신전에 속하지만, 그 이름은 대배신 이후로 잊히고 말았다. 옛 데일스 왕국에서 잊힌 자 신앙을 짓밟으려 했지만, "
-"이들에 대한 신앙은 어둠 속에서 계속되었다. 이 지팡이는 잊힌 자, 그 중에서도 데어른살을 모시던 사제의 소유였다."
+"잊힌 자들은 고대 엘프 만신전에 속하지만, 그 이름은 대 배신 이후로 잊히고 말았다. 옛 데일스 왕국에서 잊힌 자 신앙을 짓밟으려 "
+"했지만, 이들에 대한 신앙은 어둠 속에서 계속되었다. 이 지팡이는 잊힌 자, 그 중에서도 데어른살을 모시던 사제의 소유였다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Mage/Staff/equip_staff_t3_14_rare
 #. PATH = EquipItemAsset/DisplayName
@@ -19162,7 +19161,7 @@ msgid ""
 "members are said to be \"The First,\" though whether in research or in "
 "application is lost to history."
 msgstr ""
-"이 지팡이에는 대강 \"언제나 앞으로, 언제나 죽음을 향하여\"란 의미의 상징이 찍혀 있다. 이것은 네바라에 죽음을 선망하는 경향이 처음 "
+"이 지팡이에는 대강 \"언제나 앞으로, 언제나 죽음을 향하여\"란 의미의 상징이 찍혔다. 이것은 네바라에 죽음을 선망하는 경향이 처음 "
 "형성되던 시절 유행했던 모탈리타시 종파의 표어로, 그 구성원들은 \"첫 번째\"라 불렸다고 한다. 이를 증빙할 연구나 문서는 역사의 "
 "흐름에 잊히고 말았다."
 
@@ -19193,8 +19192,8 @@ msgid ""
 "we make.\"\n"
 "<i>Her Hands of the Staveworks</i>"
 msgstr ""
-"\"수백년 간 우리는 만들어 왔다. 앞으로도 수백년 간 우리는 만들 것이다. 저들이 모든 마법사를 죽인들, 그래도 우리는 계속 만들 "
-"것이다. 그러나 저들은 그리하지 못한다. <b>우리가 만드는 것</b>이 존재하기에.\"\n"
+"\"수백 년간 우리는 만들었다. 앞으로도 수백 년간 우리는 만들 것이다. 저들이 모든 마법사를 죽인들, 그래도 우리는 계속 만들 것이다. "
+"그러나 저들은 그리하지 못한다. <b>우리가 만드는 것</b>이 존재하기에.\"\n"
 "<b>지팡이를 만드는 그분의 대리자</b>"
 
 #. FILE = DA3/Equipment/Items/Weapons/Mage/Staff/equip_staff_t3_19_rare
@@ -19864,10 +19863,10 @@ msgid ""
 "bring him to the gallows, but ultimately he was killed by one of his "
 "lieutenants, stabbed with his own knife."
 msgstr ""
-"커크월의 코터리는 수년간 할란이라는 자가 이끌어 왔다. 소문에는 그가 배교자이며 흉물로서, 분노의 악마가 어설프게 인간의 탈을 뒤집어쓴 "
-"것에 불과하다는—아니면, 애초에 할란이라는 자는 존재하지 않았다는 이야기가 돈다. 말인즉 그 이름은 가장 잔인한 코터리 일원에게 수시로 "
-"붙는 호칭이란 것이다. 할란은 지하 세계의 우두머리로 군림하는 동안 최소 이백 명을 넘는 사람을 살해했다고 추정된다. 도시 경비대가 "
-"수년간 그를 잡아 교수대에 매달기 위해 부던히 움직였지만, 끝내 할란은 그의 등 뒤를 급습한 부관의 손에 죽음을 맞았다."
+"커크월의 코터리는 수년간 할란이라는 자가 이끌었다. 소문에는 그가 배교자이며 흉물로서, 분노의 악마가 어설프게 인간의 탈을 뒤집어쓴 것에 "
+"불과하다는—아니면, 애초에 할란이라는 자는 존재하지 않았다는 이야기가 돈다. 말인즉 그 이름은 가장 잔인한 코터리 일원에게 수시로 붙는 "
+"호칭이란 것이다. 할란은 지하 세계의 우두머리로 군림하는 동안 최소 이백 명을 넘는 사람을 살해했다고 추정된다. 도시 경비대가 수년간 "
+"그를 잡아 교수대에 매달기 위해 부던히 움직였지만, 끝내 할란은 그의 등 뒤를 급습한 부관의 손에 죽음을 맞았다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Rogue/Daggers/dlcblue_equip_dualdagger_the20_weaponchain
 #. PATH = EquipItemAsset/Description
@@ -19880,8 +19879,8 @@ msgid ""
 "notorious raider captain is a magic worth more than all the enchantments of "
 "the Formari combined."
 msgstr ""
-"동쪽 해협의 왕은 오랫동안 수많은 어리석은 이들과 결투해 왔다. 리알토 해안까지 이어진 아마란틴 해안의 시장에는 약탈자, 밀수꾼, "
-"심지어는 까마귀단 대장의 갈비뼈로 만들었다는 소문이 도는 칼들이 있다. 악명높은 약탈자 대장의 손을 떠났다고 전해지는 그 칼들은 포마리의 "
+"동쪽 해협의 왕은 오랫동안 수많은 어리석은 이들과 결투했다. 리알토 해안까지 이어진 아마란틴 해안의 시장에는 약탈자, 밀수꾼, 심지어는 "
+"까마귀단 대장의 갈비뼈로 만들었다는 소문이 도는 칼들이 있다. 악명높은 약탈자 대장의 손을 떠났다고 전해지는 그 칼들은 포마리의 "
 "마법보다도 가치있다고 한다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Rogue/Daggers/equip_BE_Dagger_1a
@@ -20647,8 +20646,8 @@ msgid ""
 "Accordingly, Avvar who leave the Frostbacks carry a blade made from ore "
 "mined there."
 msgstr ""
-"산아버지 코르트는 세월의 여명에 그 백성들을 산에 데려다 주고는, 그들이 몸을 누일 동굴을 만들고 스스로 계속 살아갈 수 있도록 사냥감을 "
-"몰아다 주었다. 그는 백성들에게 \"산에 머무르라. 산이 필요한 모든 것을 줄 터이니.\" 하고 말했다 한다. 그런 연유로, 서리등선 "
+"산아버지 코르트는 세월의 여명에 그 백성을 산에 데려다 주고는, 그들이 몸을 누일 동굴을 만들고 스스로 계속 살아갈 수 있도록 사냥감을 "
+"몰아다 주었다. 그는 백성에게 \"산에 머무르라. 산이 필요한 모든 것을 줄 터이니.\" 하고 말했다 한다. 그런 연유로, 서리등선 "
 "산맥을 떠나는 아바르는 그곳에서 캔 광석으로 만든 칼을 꼭 지니고 다닌다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Greataxes/equip_greataxe_t2_8_unique
@@ -21009,10 +21008,10 @@ msgid ""
 "be next, in the hands of {spHeroName} {spHeroLastName}, if {shehe} is not "
 "careful."
 msgstr ""
-"가장 깊은 타락과 신념의 검, 이 검이 커크월의 기사단장 메레디스를 광기로 몰고 간 붉은 리륨 검일 리가 없다. 이 검이 엘프와 테빈터와 "
-"대재앙이 서로 뒤엉킨 비전의 힘 속에서 재탄생했을 리도 없다. 그리고 이것이 한 때 천국에 들어갔으며 감히 또 한 번 그러려 하는 "
-"마법사의 이름에 영감을 주었을 리는 더더욱 없다. 만약 이 검이 {spHeroName} {spHeroLastName}의 손에 넘어간다면, "
-"그리고 {shehe}가 조심하지 않는다면, 다음에는 이 검이 또 무엇을 할 수 없게 될지 궁금해질 뿐이다."
+"가장 깊은 타락과 신념의 검, 이 검이 커크월의 기사단장 메러디스를 광기로 몰고 간 붉은 리륨 검일 리가 없다. 이 검이 엘프와 테빈터와 "
+"대재앙이 서로 뒤엉킨 비전의 힘 속에서 재탄생했을 리도 없다. 그리고 이것이 한때 천국에 들어갔으며 감히 또 한 번 그러려 하는 마법사의 "
+"이름에 영감을 주었을 리는 더더욱 없다. 만약 이 검이 {spHeroName} {spHeroLastName}의 손에 넘어간다면, 그리고 "
+"{shehe}가 조심하지 않는다면, 다음에는 이 검이 또 무엇을 할 수 없게 될지 궁금해질 뿐이다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Mauls/dlcblue_equip_maul_the20_attackchain
 #. PATH = EquipItemAsset/DisplayName
@@ -21204,7 +21203,7 @@ msgid ""
 "day, Halamshiral elves consider his name a curse."
 msgstr ""
 "리베인 성기사단에 속해 있었던 메흐메트 경이 데일스에서 일어난 승임의 행군에서 활약한 이유는 단 한 가지뿐이었는데, 이는 바로 그가 "
-"엘프들을 죽이는 것을 광적으로 사랑하기 때문이었다. 그는 이를 원동력 삼아 수많은 승리를 거두었고, 성가회는 그가 사망한 후 그의 업적을 "
+"엘프를 죽이는 것을 광적으로 사랑하기 때문이었다. 그는 이를 원동력 삼아 수많은 승리를 거두었고, 성가회는 그가 사망한 후 그의 업적을 "
 "기리기 위해 성자로 추대하였다. 오늘날, 할람시랄 엘프들에게 그의 이름은 저주와도 같다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Mauls/equip_maul_t3_3
@@ -21295,7 +21294,7 @@ msgstr ""
 "고대의 유물이지만, 아직까지도 어찌나 날카로운지 날 위로 가볍게 떨어지는 비단 손수건마저 자를 수 있다. 한 잊힌 알라마리 장인이 제작한 "
 "이 도끼는 수십 명의 남녀가 휘둘렀는데, 그 모두가 비참한 최후를 맞이하였다. \"늑대손\" 울스터는 뻔히 보이는 나무뿌리에 걸려 "
 "넘어지며 자기 목을 베어버렸다. 아마란틴의 여인 메가나는 이불 속에 도끼를 품고 자다가 그 위에서 굴러 자기 배를 갈라 버렸다. 필리프 "
-"드안델 경은 날카로움을 시험하고자 엄지손가락을 살짝 그었는데, 대수롭지 않게 여겨 잊어버린 이 상처가 독이 오르고 곪아 사망하였다. "
+"단델 경은 날카로움을 시험하고자 엄지손가락을 살짝 그었는데, 대수롭지 않게 여겨 잊어버린 이 상처가 독이 오르고 곪아 사망하였다. "
 "서녘언덕의 질로이 남작은 부하들을 북돋을 연설의 절정부에서 도끼를 치켜들었고, 마른 하늘에 내려친 날벼락에 맞아 버렸다. 사브렌의 시몬 "
 "백작부인은 도끼를 전시하여 연이은 불운을 끝낼 수 있다고 믿었다. 어느 날 도끼는 전시장에서 떨어져 밑에 있던 백작부인의 머리를 두 "
 "쪽으로 갈라버렸다. 이제 많은 이들은 이 도끼가 저주받았다고 믿는다. 이 모든 죽음과 장애를 \"단순한 사고\"로 치부하는 자는 참으로 "
@@ -21674,8 +21673,8 @@ msgid ""
 msgstr ""
 "형태로 추측컨대 자유 동맹에서 만들어진 방패다. 검은 교황의 시대에 아마란틴 해안 지역의 기사와 귀족 사이에 유행했던 기법으로 "
 "제작되었다. 문장이 그려져 있어야 할 곳은 이상하게도 비어 있으며, 아주 희미하게 리륨의 빛이 나는 것으로 보아 포마리가 제작에 관여한 "
-"것이 분명하다. 바깥 면은 무수한 타격으로 심하게 긁혀 있지만 안쪽 면은 가운데 부분을 제외하면 완벽할 정도로 매끄럽다. 중심 부위에는 "
-"작은 글씨로 \"미안하다\"라는 글귀가 새겨져 있다."
+"것이 분명하다. 바깥 면은 무수한 타격으로 심하게 긁혔지만 안쪽 면은 가운데 부분을 제외하면 완벽할 정도로 매끄럽다. 중심 부위에는 작은 "
+"글씨로 \"미안하다\"라는 글귀가 새겨져 있다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/WeaponShield/Shields/dlcblue_equip_shield_the20_shieldsplosion
 #. PATH = EquipItemAsset/Description
@@ -21684,8 +21683,7 @@ msgid ""
 "Stamped on the inside of this shield: \"Property of Xenon the Antiquarian. "
 "Absolutely not for resale! If found, return to urchin immediately.\""
 msgstr ""
-"방패 안쪽에 문구가 찍혀 있다. \"골동품 수집가 제논의 소유임. 재판매 절대 불가! 발견하신 경우 꼬마 녀석에게 즉시 돌려주시기 바람."
-"\""
+"방패 안쪽에 문구가 찍혔다. \"골동품 수집가 제논의 소유임. 재판매 절대 불가! 발견하신 경우 꼬마 녀석에게 즉시 돌려주시기 바람.\""
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/WeaponShield/Shields/dlcblue_equip_shield_the20_toxiccloud
 #. PATH = EquipItemAsset/DisplayName
@@ -21727,7 +21725,7 @@ msgid ""
 "\"Suledin,\" proving that the phrase originally read \"Sulevin ghilana hanin."
 "\""
 msgstr ""
-"이 방패에는 두 번째이자 최후의 엘프 왕국, 할람시랄의 명인 대장장이의 징표가 찍혀 있다. 부드러운 곡선과 장식끈은 잎사귀와 꽃잎이 지닌 "
+"이 방패에는 두 번째이자 최후의 엘프 왕국, 할람시랄의 명인 대장장이의 징표가 찍혔다. 부드러운 곡선과 장식끈은 잎사귀와 꽃잎이 지닌 "
 "자연의 아름다움을 연상시키도록 설계되었다. 안쪽 끄트머리에는 \"술레딘 길라나 하닌.\"이란 엘프어 문구가 새겨져 있다. 자세히 "
 "관찰하니, 각인 일부를 서툰 손길로 긁어내 억지로 \"술레딘\"이라는 단어로 바꾼 흔적이 보인다. 그렇다면 문구는 본래 \"술레빈 길라나 "
 "하닌.\"이었을 것이다."
@@ -21901,7 +21899,7 @@ msgid ""
 "significance to the elven priests, perhaps allowing communion with the God "
 "of Secrets himself."
 msgstr ""
-"이 방패의 힘은 지난 수천 년 간 방패의 모습을 그대로 유지시켰으며, 어쩌면 덜사멘의 사원 전체를 부패하지 않게 지켰는지도 모른다. 이 "
+"이 방패의 힘은 지난 수천 년간 방패의 모습을 그대로 유지시켰으며, 어쩌면 덜사멘의 사원 전체를 부패하지 않게 지켰는지도 모른다. 이 "
 "방패는 엘프 사제들에게 큰 의미를 지녔는데, 아마도 비밀의 신과 교감할 수 있는 능력을 지녔기 때문일 것이다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/WeaponShield/Shields/equip_shield_t2_18_unique
@@ -21920,7 +21918,7 @@ msgid ""
 "the island, they were awarded the emblem emblazoned on their shields ever "
 "since."
 msgstr ""
-"수 시대 동안 에스트워치 경비대는 해적과 쿠나리로부터 그들의 동쪽 전초기지를 지켜 왔으며, 단 한 번 패배했다. 폭풍의 시대 7:70년, "
+"수 시대 동안 에스트워치 경비대는 해적과 쿠나리로부터 그들의 동쪽 전초기지를 지켰으며, 단 한 번 패배했다. 폭풍의 시대 7:70년, "
 "대대적인 쿠나리 침공이 있었던 것이다. 올레이군의 공세에 합류해 섬을 탈환하는 데 성공한 뒤, 그들은 상징을 포상받아 오늘날까지 그 "
 "문장을 자신의 방패에 또렷이 새긴다."
 
@@ -22372,8 +22370,8 @@ msgid ""
 "a secret warrior order in the Frostback Mountains called the Calibanites."
 msgstr ""
 "펜타가스트가 아닌 용 사냥꾼 중 가장 유명하며, (그는 철의 시대 초기에 마지막 용을 살해했다고 주장한다) 평민 출신인 것과 특이한 성적 "
-"취향으로 악명 높은 캘리반이 처음 휘두른 것이다. 그의 연인이던 피온느 테이린 왕의 죽음 이후로 그는 스스로 유배 생활에 들어갔으며, "
-"일부 사람들은 그가 서리등선 산맥에서 캘리버나이트라 불리는 비밀 전사 조직을 훈련시켰다고도 한다."
+"취향으로 악명 높은 캘리반이 처음 휘두른 것이다. 그의 연인이던 피온 테이린 왕의 죽음 이후로 그는 스스로 유배 생활에 들어갔으며, 일부 "
+"사람들은 그가 서리등선 산맥에서 캘리버나이트라 불리는 비밀 전사 조직을 훈련시켰다고도 한다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/WeaponShield/Swords/equip_lsword_t3_1_rare
 #. PATH = EquipItemAsset/DisplayName
@@ -22518,14 +22516,14 @@ msgid ""
 "well practiced. Grants a major increase to Inquisition Power and Influence."
 msgstr ""
 "행위자가 불분명하고 상세 내용 또한 명시되지 않았으나, 다수 국가에서의 지원 및 혜택을 약속하는 내용의 서약서입니다. 밀랍 위에 다수 "
-"여러 왕가의 인장이 찍혀 있습니다. 내용이 사실로 확인되는 경우 큰 논란의 여지가 있으나 이 안건의 시행자들은 능수능란한 이들입니다. "
-"심문회 행동력과 영향력이 상당히 증가합니다."
+"여러 왕가의 인장이 찍혔습니다. 내용이 사실로 확인되는 경우 큰 논란의 여지가 있으나 이 안건의 시행자들은 능수능란한 이들입니다. 심문회 "
+"행동력과 영향력이 상당히 증가합니다."
 
 #. FILE = DA3/Equipment/Loot/MercenaryContracts/mercenary_contract_major_2
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00043319"
 msgid "Protocols of Passage: Free Marches"
-msgstr "여행 협정서: 자유동맹"
+msgstr "여행 협정서: 자유 동맹"
 
 #. FILE = DA3/Equipment/Loot/MercenaryContracts/mercenary_contract_major_2
 #. PATH = StackedItemAsset/Description
@@ -22820,19 +22818,19 @@ msgstr "자루"
 #. PATH = UpgradeItemType/DisplayName
 msgctxt "0x00043e4a"
 msgid "Heavy Arms"
-msgstr "중갑 완갑"
+msgstr "중갑 장갑"
 
 #. FILE = DA3/Equipment/UpgradeItemTypes/upgrade_type_armor_arms_light
 #. PATH = UpgradeItemType/DisplayName
 msgctxt "0x00043e49"
 msgid "Light Arms"
-msgstr "경량 완갑"
+msgstr "경량 장갑"
 
 #. FILE = DA3/Equipment/UpgradeItemTypes/upgrade_type_armor_arms_medium
 #. PATH = UpgradeItemType/DisplayName
 msgctxt "0x000289a2"
 msgid "Medium Arms"
-msgstr "평갑 완갑"
+msgstr "평갑 장갑"
 
 #. FILE = DA3/Equipment/UpgradeItemTypes/upgrade_type_armor_legs_heavy
 #. PATH = UpgradeItemType/DisplayName
@@ -24110,7 +24108,7 @@ msgid ""
 "caught many a poor soul in the centuries since."
 msgstr ""
 "고대에 킹피셔라 불리는 마법사가 지하 가도를 방문해, 눈먼 테트라바라는 물고기를 잡으려 지하 호수에 미끼를 던졌다. 그 교활한 생물은 "
-"절대 미끼를 물지 않았지만, 마법사의 지팡이는 그 이후 수 세기 동안 수많은 불쌍한 생명체들을 잡아 왔다."
+"절대 미끼를 물지 않았지만, 마법사의 지팡이는 그 이후 수 세기 동안 수많은 불쌍한 생명체들을 잡았다."
 
 #. FILE = DA3_dlc_red/Equipment/Items/Weapons/Rogue/Bows/equip_DLC_Red_dlcred_bow_t4_unique
 #. PATH = EquipItemAsset/DisplayName
