@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-08-15 02:24+0000\n"
-"Last-Translator: goodgood <bbung108@gmail.com>\n"
+"PO-Revision-Date: 2021-08-17 16:23+0000\n"
+"Last-Translator: 평범남 <aaasioa@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -3039,7 +3039,7 @@ msgid ""
 "Your offensive spells have a chance to weaken your enemies.\n"
 "\n"
 msgstr ""
-"당신의 공격마법에 적을 약화시킬 가능성이 생깁니다.\n"
+"당신의 공격마법에 적을 약화할 가능성이 생깁니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/Mage/ForceOfWill/MP_mage_passive_forceofwill_abilitydata
@@ -3433,7 +3433,7 @@ msgid ""
 msgstr ""
 "아문드는 하늘의 여인, 아바르의 사제인 하늘감시자로 그 분의 전조를 받들고 죽은 자의 뼈를 제물로 바치는 임무를 맡았다. 헤이븐에서 "
 "하늘이 갈라지자, 그 분의 말씀을 깨달았다. 그 분의 뜻을 관철시키기 위해 심문회의 낯선 낮은 땅 사람들을 따른다. 그들이 무슨 일을 "
-"하는지 확실히 모르지만, 나아가다 보면 그 분이 아문드에게 바라는게 무엇인지 알게 되리라 확신한다."
+"하는지 확실히 모르지만, 나아가다 보면 그 분이 아문드에게 바라는 게 무엇인지 알게 되리라 확신한다."
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP2/MP_Skywatcher
 #. PATH = BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -5955,7 +5955,7 @@ msgstr "드워프 문장"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042bf5"
 msgid "Traditional heraldry of the dwarves of Orzammar."
-msgstr "오자마르 드워프들의 전통 문장."
+msgstr "오자마르 드워프의 전통 문장."
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Heraldry/sky_heraldry_ferelden
 #. PATH = StackedItemAsset/DisplayName
@@ -9297,9 +9297,9 @@ msgstr ""
 "{string}280958{/string}\n"
 "\n"
 "레드클리프 성과 대균열을 닫을 수 있는 마법사들은 안드라스테의 전령과 시간을 조종하는 힘에 이상할 정도로 집착하는 매지스터, 게리온 "
-"알렉시우스의 지배하에 놓여 있다. 그는 {spHeroLastName}를 \"친절히\" 성에 초대했고, 꼭 \"혼자\" 와 교섭에 응하라는 "
-"말을 남겼다. 너무나도 명백한 함정이지만, 알렉시우스의 관심을 끄는 동안 렐리아나와 그녀의 요원들이 성에 침투해 베나토리들을 제거할 수 "
-"있을 것이다. 위험한 도박이지만, 이것이 가장 가능성 높은 작전이다. \n"
+"알렉시우스의 지배하에 놓여 있다. 그는 {spHeroLastName}를 \"친절히\" 성에 초대했고, 꼭 \"혼자\" 와서 교섭을 하자는 "
+"말을 전했다. 너무나도 뻔한 함정이지만, 알렉시우스의 관심이 딴 데 팔려있는 동안 렐리아나와 그녀의 요원들이 성에 잠입해 베나토리들을 "
+"제거할 수 있을 것이다. 위험한 도박이지만, 이것이 가장 가능성 높은 작전이다. \n"
 "\n"
 "{string}281195{/string}: {string}281191{/string}"
 
@@ -9330,9 +9330,9 @@ msgid ""
 msgstr ""
 "{string}280957{/string}\n"
 "\n"
-"렐리아나와 조세핀의 끊임없는 설득과 협박 덕분에 올레이의 가장 영향력있는 일부 귀족 가문을 끌어들이는 데 성공했다. 귀족 가문 열 곳은 "
-"성기사단을 압박하여 대균열을 봉인하는데 힘을 보탤 수 있도록 테린팔 보루로 향하고 있으며 이들은 올레이의 분노를 사고싶지 않으면 자신들의 "
-"의견을 받아들일 것을 요구할 것이다. 심문회는 이 협상의 대변인으로 안드라스테의 전령이 직접 나설 것을 약속했다.\n"
+"렐리아나와 조세핀의 끊임없는 설득과 협박 덕분에 올레이의 가장 영향력 있는 일부 귀족 가문을 끌어들이는 데 성공했다. 귀족 가문 열 곳은 "
+"심문회가 대균열을 봉인하도록 성기사단을 압박하는 것을 돕기 위해 테린팔 보루로 향하고 있으며, 올레이의 분노를 사고싶지 않으면 자신들을 "
+"상대할 것을 대원수에게 요구할 것이다. 심문회는 이 협상의 대변인으로 안드라스테의 전령이 직접 나설 것을 약속했다.\n"
 "\n"
 "{string}281195{/string}: {string}281191{/string}"
 
@@ -9382,7 +9382,7 @@ msgid ""
 "\n"
 "{string}281195{/string}: {string}281191{/string}"
 msgstr ""
-"남아있는 성가회 주교들이 심문회를 이단으로 선언하였다. 대균열에 맞서기 위한 동맹을 모으려는 시도는 묵살당했고, 현재 군중들에게 "
+"남아있는 성가회 주교들이 심문회를 이단으로 선언하였다. 대균열에 맞서기 위한 동맹을 모으려는 시도는 묵살당했고, 현재 군중에게 "
 "공격당하거나 체포되는 일 없이 수도에 발을 들이는 것은 불가능하다. \"안드라스테의 전령\"이 그들이 생각하는 괴물이 아니라는 것을 "
 "증명하려면, 성가회를 설득하여 도시 출입을 허락받아야 한다.\n"
 "\n"
@@ -12960,7 +12960,7 @@ msgstr "데일스 휘장"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042bbf"
 msgid "Drapes marked with common Dalish motifs."
-msgstr "데일스 엘프들이 흔히 쓰는 문양으로 장식된 휘장."
+msgstr "데일스 엘프가 흔히 쓰는 문양으로 장식된 휘장."
 
 #. FILE = DA3/designcontent/Items/Skyhold/Drapes/sky_drapes_dwarven_1
 #. PATH = StackedItemAsset/DisplayName
@@ -12972,7 +12972,7 @@ msgstr "드워프 휘장"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042bc1"
 msgid "Drapes featuring distinctive dwarven elements."
-msgstr "드워프들만의 독특한 요소가 들어간 휘장."
+msgstr "드워프만의 독특한 요소가 들어간 휘장."
 
 #. FILE = DA3/designcontent/Items/Skyhold/Drapes/sky_drapes_elven_1
 #. PATH = StackedItemAsset/DisplayName
@@ -18191,7 +18191,7 @@ msgid ""
 "building in all Halamshiral—and a symbolic seat of authority in a city once "
 "proudly held by the elves."
 msgstr ""
-"이 올레이 황제 소유의 전설적인 별장은 할람시랄 전부를 통틀어 가장 훌륭한 건축물이며, 한때 엘프들이 자랑스럽게 소유했었던 이 도시의 "
+"이 올레이 황제 소유의 전설적인 별장은 할람시랄 전부를 통틀어 가장 훌륭한 건축물이며, 한때 엘프들이 자랑스럽게 소유했던 이 도시의 "
 "권위를 상징하는 곳이기도 하다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
@@ -18212,7 +18212,7 @@ msgid ""
 "despite ages of unrest, the lands the elves call \"Dirthavaren\" retain a "
 "fragile beauty."
 msgstr ""
-"승임의 평야는 갈등을 치르는 곳이며, 몇 세기전, 데일스 엘프들이 마지막 저항을 펼친 장소이기도 하다. 최근에 이 평원은 올레이 내전에서 "
+"승임의 평야는 갈등을 치르는 곳이며, 몇 세기 전, 데일스 엘프가 마지막 저항을 펼친 장소이기도 하다. 최근에 이 평원은 올레이 내전에서 "
 "가장 극렬하게 벌어졌던 분쟁의 주요 무대였다. 그러나 엘프들은 이렇듯 불안정한 세월을 겪었음에도 불구하고 이 땅을 '덜사바렌', 즉 "
 "섬세한 아름다움을 간직한 땅이라 부른다."
 
