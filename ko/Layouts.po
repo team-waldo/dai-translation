@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-08-17 16:23+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2021-08-20 10:24+0000\n"
+"Last-Translator: 평범남 <aaasioa@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1293,9 +1293,9 @@ msgid ""
 msgstr ""
 "영계 균열은 장막이 약화되어 발생합니다. 균열에서는 악마들이 생성되며 주위 모든 악마들을 제거해야만 닫을 수 있습니다.\n"
 "\n"
-"표식은 균열을 불안정화하고 적에게 피해를 입힐 수 있습니다.\n"
+"표식은 균열을 불안정화하고 적에게 피해를 줄 수 있습니다.\n"
 "\n"
-"가능할 때에 영계 균열과 상호작용하여 균열을 불안정화하고 주위 악마에게 피해를 입히고 기절시키십시오."
+"가능할 때에 영계 균열과 상호작용하여 균열을 불안정화하고 주위 악마에게 피해를 주고 기절시키십시오."
 
 #. FILE = DA3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0330_PRO_FirstRift_Schematic
 #. PATH = BWPopUpEntityData[2]/Text
@@ -1357,7 +1357,7 @@ msgid ""
 "mark will cause damage to nearby demons. When all demons are dead, close the "
 "rift with the mark."
 msgstr ""
-"영계 균열은 장막이 약화되어 발생합니다. 균열을 불안정화하면 주위 악마들에게 피해를 입힙니다. 모든 악마가 제거되었다면, 표식을 이용해 "
+"영계 균열은 장막이 약화되어 발생합니다. 균열을 불안정화하면 주위 악마들에게 피해를 줍니다. 모든 악마가 제거되었다면, 표식을 이용해 "
 "균열을 닫으십시오."
 
 #. FILE = DA3/Layouts/FrostbackMountains/FrostbackMountains/DSG_SET_1000_FinalTrebuchetAimingFight_Schematic
@@ -1407,9 +1407,9 @@ msgid ""
 msgstr ""
 "균열의 표식은 집중도를 사용하는 기술입니다.\n"
 "\n"
-"집중도는 파티원이 피해를 입힐 때마다 얻을 수 있는 자원입니다.\n"
+"집중도는 파티원이 피해를 줄 때마다 얻을 수 있는 자원입니다.\n"
 "\n"
-"모든 파티원들에게는 각각의 집중도 게이지가 있으나, 한 명이 피해를 입히면 모든 파티원이 집중도를 얻습니다."
+"모든 파티원들에게는 각각의 집중도 게이지가 있으나, 한 명이 피해를 주면 모든 파티원이 집중도를 얻습니다."
 
 #. FILE = DA3/Layouts/InquisitorBase2/MainBase/CRIT_0001_WildernessPhase1_Schematic
 #. PATH = BWPopUpEntityData[3]/Text
@@ -4610,7 +4610,7 @@ msgid ""
 "attack, but will snap out of it if damaged."
 msgstr ""
 "발화 {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInventor"
-"yItem2}{/notcontroller}: 적에게 불을 질러 공황상태에 빠트립니다. 공황상태의 적은 공격할 수 없지만, 피해를 입으면 "
+"yItem2}{/notcontroller}: 적에게 불을 질러 공황상태에 빠트립니다. 공황상태의 적은 공격할 수 없지만, 피해를 받으면 "
 "공황을 벗어납니다."
 
 #. FILE = da3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0205_PRO_BridgeCombat_Schematic
@@ -4628,7 +4628,7 @@ msgid ""
 "damage."
 msgstr ""
 "은신 {controller}{StringBtnY}{/controller}{notcontroller}{ConceptSelectInventor"
-"yItem2}{/notcontroller}: 피해를 입거나 입힐 때까지 적의 시야에서 벗어납니다."
+"yItem2}{/notcontroller}: 피해를 받거나 입힐 때까지 적의 시야에서 벗어납니다."
 
 #. FILE = da3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0205_PRO_BridgeCombat_Schematic
 #. PATH = BWPopUpEntityData[7]/Title
@@ -4645,7 +4645,7 @@ msgid ""
 "that are farther away."
 msgstr ""
 "장거리 사격 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInve"
-"ntoryItem1}{/notcontroller}: 적에게 사격을 가합니다. 더 멀리 떨어진 적에게 더 큰 피해를 입힙니다."
+"ntoryItem1}{/notcontroller}: 적에게 사격을 가합니다. 더 멀리 떨어진 적에게 더 큰 피해를 줍니다."
 
 #. FILE = da3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0205_PRO_BridgeCombat_Schematic
 #. PATH = BWPopUpEntityData[8]/Title
@@ -4662,7 +4662,7 @@ msgid ""
 "damage if you were just hurt."
 msgstr ""
 "앙갚음 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInvento"
-"ryItem1}{/notcontroller}: 주위의 적에게 무기를 휘두릅니다. 방금 피해를 입었다면 더 큰 피해를 가합니다."
+"ryItem1}{/notcontroller}: 주위의 적에게 무기를 휘두릅니다. 방금 피해를 받었다면 더 큰 피해를 가합니다."
 
 #. FILE = da3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0205_PRO_BridgeCombat_Schematic
 #. PATH = BWPopUpEntityData[9]/Title
@@ -4690,7 +4690,7 @@ msgid ""
 "increasing the magic damage they take."
 msgstr ""
 "연쇄 번개 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInven"
-"toryItem1}{/notcontroller}: 적 여럿을 타격하여 피해를 입히고 충격을 가합니다. 충격받은 적은 마법 피해를 더 크게 "
+"toryItem1}{/notcontroller}: 적 여럿을 타격하여 피해를 주고 충격을 가합니다. 충격받은 적은 마법 피해를 더 크게 "
 "입습니다."
 
 #. FILE = da3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0205_PRO_BridgeCombat_Schematic
@@ -4708,7 +4708,7 @@ msgid ""
 "if attacking from behind."
 msgstr ""
 "쌍 송곳니 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInven"
-"toryItem1}{/notcontroller}: 양 손의 단검으로 적을 내리찌릅니다. 뒤에서 공격할 경우 추가 피해를 입힙니다."
+"toryItem1}{/notcontroller}: 양 손의 단검으로 적을 내리찌릅니다. 뒤에서 공격할 경우 추가 피해를 줍니다."
 
 #. FILE = da3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0205_PRO_BridgeCombat_Schematic
 #. PATH = BWPopUpEntityData[12]/Title
@@ -4725,7 +4725,7 @@ msgid ""
 "already downed foes."
 msgstr ""
 "강렬한 일격 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInve"
-"ntoryItem1}{/notcontroller}: 주위의 적을 무너뜨립니다. 이미 쓰러진 적에게는 더 많은 피해를 입힙니다."
+"ntoryItem1}{/notcontroller}: 주위의 적을 무너뜨립니다. 이미 쓰러진 적에게는 더 많은 피해를 줍니다."
 
 #. FILE = da3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0320_PRO_LakeCombat_Schematic
 #. PATH = BWPopUpEntityData[1]/Title
@@ -4882,7 +4882,7 @@ msgid ""
 msgstr ""
 "당신의 캐릭터의 표식은 균열을 불안정화해 적에게 피해를 줄 수 있습니다.\n"
 "\n"
-"불안정화가 가능할 때 기회를 노리십시오. 단, 피해를 입으면 방해받을 수 있으니 주의하십시오.\n"
+"불안정화가 가능할 때 기회를 노리십시오. 단, 피해를 받으면 방해받을 수 있으니 주의하십시오.\n"
 "\n"
 "불안정화가 가능할 때{controller}{StringBtnA}을 꾹 "
 "눌러{/controller}{notcontroller}{StringBtnMouseRight}를 눌러{/notcontroller} 균열을 "
@@ -7312,7 +7312,7 @@ msgstr "비문"
 msgctxt "0x00033f14"
 msgid ""
 "and worked together, for a time, side by side. Each ruled half the thaig,"
-msgstr "서로 잠시 동안 협력하였다. 각자 타이그의 반을 다스렸으나,"
+msgstr "서로 잠시 협력하였다. 각자 타이그의 반을 다스렸으나,"
 
 #. FILE = da3/Layouts/ThematicLevels/the_DesertRuins_510/DSG_BurialGrounds_PuzzleRm_Schematic
 #. PATH = BWPopUpEntityData[2]/Text
@@ -8203,10 +8203,11 @@ msgid ""
 msgstr ""
 "마리온,\n"
 "\n"
-"나도 너와 똑같은 두통 증상을 겪고 있어. 붉은 리륨 먹어본 사람들 말로는 시간이 지나면 괜찮아진대. 아마 얼마 안 있으면 강력해진 "
-"기분이 들 거야. 어제 폴레트 병장이랑 대련해서 두 번이나 이겼거든! 얼굴 꼬락서니 한 번 통쾌하더라!\n"
+"나도 너랑 똑같은 두통 증상을 겪고 있어. 붉은 리륨 복용한 사람들 말로는 시간이 지나면 괜찮아진대. 너도 금방 강해진 기분이 들 거야. "
+"난 어제 폴레트 병장이랑 대련해서 드디어 이겼어. 두 번이나 말이야! 얼굴 꼬락서니 한 번 통쾌하더라!\n"
 "\n"
-"듣자 하니 붉은 리륨 투여 중인 병사들한테는 배급량을 늘려준다더라. 내일 훈련은 같이하자. 내 수준에 걸맞은 사람과 훈련하고 싶거든.\n"
+"듣자 하니 붉은 리륨 복용 중인 사람들한테는 배급량을 늘려준다더라. 내일은 훈련 같이 하자. 내 수준에 걸맞는 사람이랑 훈련하고 싶거든."
+"\n"
 "\n"
 "베너"
 
@@ -8234,12 +8235,10 @@ msgid ""
 msgstr ""
 "시그릭 기사대장에게\n"
 "\n"
-"내가 분명 장교들이 우리의 다음 작전을 구상하는 동안은 기사들은 하급 병영에서 나오지 말라는 지시를 내렸을 텐데. 이번 일로 기사단의 "
-"자부심은 너무나도 상처입었다. 친목으로 시간을 낭비하는 것 따위는 용납하지 않을 거다. 테린팔 보루가 바로 우리의 목적을 되찾을 곳이란 "
-"말이다.\n"
+"내가 분명 명령을 내렸을 텐데. 장교들이 우리의 다음 행보를 구상하는 동안 기사들은 하부 병영에서 벗어나지 말라고 말이다. 나는 친목 "
+"행위 따윈 용납하지 않을 것이다. 성기사단의 긍지는 너무나 크게 훼손된 상황이다. 테린팔 보루는 우리의 소명을 되찾아줄 곳이란 말이다.\n"
 "\n"
-"내가 직접 위반자들을 처벌할 테니 놈들을 내게 보내고, 훈련 시간을 한 시간 연장하도록. 앞으로 다가올 것에 대비하려면 더 강해져야 한다."
-"\n"
+"내가 직접 위반자들을 처벌할 테니 놈들을 내게 보내고, 훈련 시간을 한 시간 연장하도록. 앞으로 다가올 것에 대비해 더 강해져야 한다.\n"
 "\n"
 "구도회 대원수 루시우스 코린"
 
@@ -8662,7 +8661,7 @@ msgid ""
 "hold {StringBtnA}{/controller}{notcontroller}{StringBtnMouseRight} the rift "
 "{/notcontroller} while controlling your character."
 msgstr ""
-"영계 균열을 불안정화하여 악마에게 피해를 입힐 수 있습니다. 당신의 캐릭터를 조작하는 동안 {controller}균열을 대상으로 지정하고 "
+"영계 균열을 불안정화하여 악마에게 피해를 줄 수 있습니다. 당신의 캐릭터를 조작하는 동안 {controller}균열을 대상으로 지정하고 "
 "{StringBtnA}를 꾹 누르십시오{/controller}{notcontroller}균열에 {StringBtnMouseRight}를 "
 "누르십시오{/notcontroller}."
 
@@ -8835,7 +8834,7 @@ msgid ""
 "Use this ability to turn the Veil itself into a magical shield that deflects "
 "enemy projectiles. It can be upgraded in the Inquisitor ability tree."
 msgstr ""
-"심문관이 새로운 능력을 얻었습니다: 균열의 방패\n"
+"심문관이 새로운 능력을 얻었습니다. 균열의 방패\n"
 "\n"
 "이 능력은 장막을 마법 방패로 변화시켜 적이 보내는 투사체를 빗나가게 합니다. 심문관의 기술 트리에서 강화할 수 있습니다."
 

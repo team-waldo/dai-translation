@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-08-17 16:23+0000\n"
-"Last-Translator: 평범남 <aaasioa@naver.com>\n"
+"PO-Revision-Date: 2021-08-20 10:24+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
 "Language: ko\n"
@@ -1007,7 +1007,7 @@ msgctxt "0x00032adb"
 msgid ""
 "Enemies must first damage the character's Guard, if any, before they can "
 "damage Health."
-msgstr "적은 해당 캐릭터의 방어막이 남아있다면 체력에 피해를 입힐 수 없습니다."
+msgstr "적은 해당 캐릭터의 방어막이 남아있다면 체력에 피해를 줄 수 없습니다."
 
 #. FILE = DA3/Combat/Stats/Stat_Guard_2
 #. PATH = BWDepletableStat/StatName
@@ -2653,7 +2653,7 @@ msgid ""
 "You do more damage to isolated targets.\n"
 "\n"
 msgstr ""
-"혼자 있는 적에게 추가 피해를 입힙니다.\n"
+"혼자 있는 적에게 추가 피해를 줍니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/Assassin/Stats/MP_assassin_passive_stats_abilitydata
@@ -2718,7 +2718,7 @@ msgid ""
 "You deal increased damage to burning, chilled, and shocked targets.\n"
 "\n"
 msgstr ""
-"화상, 오한, 감전 상태인 대상에게 더 높은 피해를 입힙니다.\n"
+"화상, 오한, 감전 상태인 대상에게 더 높은 피해를 줍니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/Avvar/EffectDuration/MP_avvar_passive_effect_duration_abilitydata
@@ -2870,7 +2870,7 @@ msgctxt "0x00042d53"
 msgid ""
 "You do more damage to enemies close to you.\n"
 "\n"
-msgstr "적이 가까이 있을수록 더 많은 피해를 입힙니다.\n"
+msgstr "적이 가까이 있을수록 더 많은 피해를 줍니다.\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/Hunter/Stats/MP_hunter_passive_stats_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -3111,7 +3111,7 @@ msgid ""
 "You do more damage to enemies whose health is less than or equal to yours.\n"
 "\n"
 msgstr ""
-"체력이 당신과 같거나 더 낮은 적에게 더 많은 피해를 입힙니다.\n"
+"체력이 당신과 같거나 더 낮은 적에게 더 많은 피해를 줍니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/Mage/Phasing/MP_mage_passive_phasing_abilitydata
@@ -3144,7 +3144,7 @@ msgid ""
 "short time.\n"
 "\n"
 msgstr ""
-"근접 공격으로 당신을 공격한 적은 잠시 동안 기절할 확률이 생깁니다.\n"
+"근접 공격으로 당신을 공격한 적은 잠시 기절할 확률이 생깁니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/Mage/UnsulliedVictim/MP_mage_passive_unsulliedvictim_abilitydata
@@ -3192,7 +3192,7 @@ msgid ""
 "Attacking an enemy from behind slows them for a short time.\n"
 "\n"
 msgstr ""
-"적을 뒤에서 공격하면 잠시동안 적이 느려집니다.\n"
+"적을 뒤에서 공격하면 잠시 적이 느려집니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/Rogue/Disable/MP_rogue_passive_disable_abilitydata
@@ -3208,7 +3208,7 @@ msgid ""
 "Critical hits on an enemy reduces their damage for a short time.\n"
 "\n"
 msgstr ""
-"적에게 치명타 피해를 주면 적의 공격 피해를 잠시 동안 줄입니다.\n"
+"적에게 치명타 피해를 주면 적의 공격 피해를 잠시 줄입니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/Rogue/Sadism/MP_rogue_passive_sadism_abilitydata
@@ -3322,7 +3322,7 @@ msgid ""
 "You do more damage to enemies afflicted with fear.\n"
 "\n"
 msgstr ""
-"공포에 걸린 적에게 더 많은 피해를 입힙니다.\n"
+"공포에 걸린 적에게 더 많은 피해를 줍니다.\n"
 "\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/Warrior/RuthlessPursuit/MP_warrior_passive_ruthlesspursuit_abilitydata
@@ -3431,9 +3431,9 @@ msgid ""
 "will. He may not be entirely sure what they're doing, but he's certain he "
 "will find out what The Lady wants of him along the way."
 msgstr ""
-"아문드는 하늘의 여인, 아바르의 사제인 하늘감시자로 그 분의 전조를 받들고 죽은 자의 뼈를 제물로 바치는 임무를 맡았다. 헤이븐에서 "
-"하늘이 갈라지자, 그 분의 말씀을 깨달았다. 그 분의 뜻을 관철시키기 위해 심문회의 낯선 낮은 땅 사람들을 따른다. 그들이 무슨 일을 "
-"하는지 확실히 모르지만, 나아가다 보면 그 분이 아문드에게 바라는 게 무엇인지 알게 되리라 확신한다."
+"아문드는 하늘의 여인, 아바르의 사제인 하늘감시자로 그분의 전조를 받들고 죽은 자의 뼈를 제물로 바치는 임무를 맡았다. 헤이븐에서 하늘이 "
+"갈라지자, 그분의 말씀을 깨달았다. 그분의 뜻을 관철시키기 위해 심문회의 낯선 낮은 땅 사람들을 따른다. 그들이 무슨 일을 하는지 확실히 "
+"모르지만, 나아가다 보면 그분이 아문드에게 바라는 게 무엇인지 알게 되리라 확신한다."
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP2/MP_Skywatcher
 #. PATH = BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -3461,7 +3461,7 @@ msgstr "루카"
 #.     0x000446bb(280251) : {string}278214{/string}<br><br>{string}280250{/string} {string}268690{/string}
 msgctxt "0x00043ec6"
 msgid "An eccentric dwarf with an assortment of strange brews and explosives."
-msgstr "여러가지 수상한 혼합물과 폭발물을 가진 괴짜 드워프입니다."
+msgstr "여러 가지 수상한 혼합물과 폭발물을 가진 괴짜 드워프입니다."
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP_Alchemist
 #. PATH = BWMultiplayerCharacterData/DisplayableDescription
@@ -3477,8 +3477,8 @@ msgid ""
 msgstr ""
 "루카는 바이마르크 산맥의 감옥을 기억한다. 그녀는 보잘것없는 드워프라 그저 터널을 청소할 뿐, 왜 카르타가 여기 있는지 알 수 없었다. "
 "카르타가 광기에 빠져드는 것을 보았지만 그 연유 또한 알 수 없었다. 호크가 감옥을 부수었을 때, 그녀는 홀로 갇혀 잊혀갔다. 루카는 몇 "
-"년동안 주워모은 것들을 이용해 폭발을 일으켜 자유를 향한 출구를 만들어냈다. 그러자 심문회가 다가왔다. 심문회는 그 곳의 감옥도, 갇혔던 "
-"무언가도 기억하고 있었다."
+"년동안 주워모은 것들을 이용해 폭발을 일으켜 자유를 향한 출구를 만들어냈다. 그러자 심문회가 다가왔다. 심문회는 그곳의 감옥도, 갇혀 "
+"있던 무언가도 기억하고 있었다."
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP_Alchemist
 #. PATH = BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -3873,8 +3873,8 @@ msgid ""
 msgstr ""
 "시도니는 네바라 모탈리타시의 마법사의 손에서 은밀히 키워져 마법 능력을 마음껏 휘두르며 자라났다. 시도니는 마법에 자부심이 없는 "
 "마법사들에게는 유대감을 느끼지 않으며, 대부분의 다른 이들은 경멸할 뿐이다. 시도니의 유일한 목표는 마법사로써의 최대한의 잠재력을 "
-"발휘하는 것이기에, 늘 마법적 배움에 목말라 있다. 대균열에 대한 소식을 접하자 그것이 자신의 발전을 위한 열쇠가 되기를 바라며 직접 그 "
-"곳으로 향했다."
+"발휘하는 것이기에, 늘 마법적 배움에 목말라 있다. 대균열에 대한 소식을 접하자 그것이 자신의 발전을 위한 열쇠가 되기를 바라며 직접 "
+"그곳으로 향했다."
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP_Necromancer
 #. PATH = BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -4034,9 +4034,9 @@ msgid ""
 "was killed, Belinda remained with the newly formed Inquisition, hoping to "
 "make things right. "
 msgstr ""
-"벨린다는 최근에 성기사단에 합류한 스탁 헤이븐의 귀족으로 기사단이 성가회로부터 분리되기 고작 몇달 전에 서약을 했다. 그녀가 사랑했던 "
-"기사단이 성가회에 반기를 드는 것에 충격 받은 벨린다는 성기사단을 떠났고, 교황에게 충성을 다했다. 저스티니아가 살해당했을 때, 벨린다는 "
-"상황을 바로잡고자 새롭게 창립된 심문회에 입단했다. "
+"벨린다는 최근 성기사단에 합류한 스탁헤이븐의 귀족으로 기사단이 성가회로부터 분리되기 고작 몇 달 전에 서약했다. 그녀가 사랑했던 기사단이 "
+"성가회에 반기를 드는 것에 충격받은 벨린다는 성기사단을 떠났고, 교황에게 충성을 다했다. 저스티니아가 살해당했을 때, 벨린다는 상황을 "
+"바로잡고자 새롭게 창립된 심문회에 입단했다. "
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP_Templar
 #. PATH = BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -8776,7 +8776,7 @@ msgstr "파괴하기"
 #. PATH = BWGameInteractionEntityData/InteractionTextReference
 msgctxt "0x00041b79"
 msgid "Under Protection of the Inquisition"
-msgstr "심문회의 보호 하에 있음"
+msgstr "심문회의 보호하에 있음"
 
 #. FILE = DA3/DesignContent/Prefabs/Inquisition/Inquisition_Camp
 #. PATH = BWPopUpEntityData[1]/Title
@@ -8797,7 +8797,7 @@ msgid ""
 "\n"
 "Camps also serve as fast travel points."
 msgstr ""
-"한 번 건설되면, 심문회 전초기지에서 파티 휴식, 물약을 충전, 체력 보충, 파티원 교체, 보급품 조달이 가능합니다.\n"
+"한번 건설되면, 심문회 전초기지에서 파티 휴식, 물약을 충전, 체력 보충, 파티원 교체, 보급품 조달이 가능합니다.\n"
 "\n"
 "전초기지로 빠른 이동 또한 가능합니다."
 
@@ -8837,7 +8837,7 @@ msgctxt "0x0003826c"
 msgid ""
 "Barriers can be destroyed with enough of the opposite type of elemental "
 "damage. Fire barriers can only be damaged by a mage's cold attacks."
-msgstr "보호막은 반대 속성 피해를 입혀 파괴할 수 있습니다. 화염 보호막은 마법사의 냉기 공격으로만 피해를 입힐 수 있습니다."
+msgstr "보호막은 반대 속성 피해를 주어 파괴할 수 있습니다. 화염 보호막은 마법사의 냉기 공격으로만 피해를 줄 수 있습니다."
 
 #. FILE = DA3/DesignContent/Prefabs/Interactions/Exploration/Barrier_Large_Low_Spirit
 #. PATH = BWPopUpEntityData/Text
@@ -8846,7 +8846,7 @@ msgid ""
 "Elemental barriers can be destroyed with enough of the opposite type of "
 "elemental damage. Spirit barriers can only be damaged by a mage's lightning "
 "attacks."
-msgstr "보호막은 반대 속성 피해를 입혀 파괴할 수 있습니다. 영혼 보호막은 마법사의 전기 공격으로만 피해를 입힐 수 있습니다."
+msgstr "보호막은 반대 속성 피해를 주어 파괴할 수 있습니다. 영혼 보호막은 마법사의 전기 공격으로만 피해를 줄 수 있습니다."
 
 #. FILE = DA3/DesignContent/Prefabs/Interactions/Exploration/Barrier_Large_Medium_Ice
 #. PATH = BWPopUpEntityData/Text
@@ -8854,7 +8854,7 @@ msgctxt "0x0003826d"
 msgid ""
 "Barriers can be destroyed with enough of the opposite type of elemental "
 "damage. Ice barriers can only be damaged by a mage's fire attacks."
-msgstr "보호막은 반대 속성 피해를 입혀 파괴할 수 있습니다. 얼음 보호막은 마법사의 화염 공격으로만 피해를 입힐 수 있습니다."
+msgstr "보호막은 반대 속성 피해를 주어 파괴할 수 있습니다. 얼음 보호막은 마법사의 화염 공격으로만 피해를 줄 수 있습니다."
 
 #. FILE = DA3/DesignContent/Prefabs/Interactions/Exploration/Ladder_4m_Drop
 #. PATH = BWGameInteractionEntityData/InteractionTextReference
@@ -9205,7 +9205,7 @@ msgid ""
 msgstr ""
 "코리피우스의 병력이 패주했으니, 그가 회복하기 전에 찾아내 끌어내야 할 때가 왔다.\n"
 "\n"
-"경고: 이것은 이야기의 결말로 이어지는 퀘스트를 시작합니다. 이후에도 게임을 계속 플레이할 수 있지만, 일부 컨텐츠가 제한될 수 "
+"경고: 이것은 이야기의 결말로 이어지는 퀘스트를 시작합니다. 이후에도 게임을 계속 플레이할 수 있지만, 일부 콘텐츠가 제한될 수 "
 "있습니다. 이 작전을 수행하기 전 중요한 작업들을 먼저 끝내십시오.\n"
 "\n"
 "{string}281195{/string}: {string}281193{/string}"
@@ -9670,7 +9670,7 @@ msgctxt "0x00043d6d"
 msgid ""
 "You have bled out and can only spectate from the Fade until the surviving "
 "party members reach the next checkpoint."
-msgstr "당신은 과다출혈하였으며 생존한 파티원들이 다음 자동 저장 지점에 도달할 때 까지는 영계에서 관전만 가능합니다."
+msgstr "당신은 과다출혈하였으며 생존한 파티원들이 다음 자동 저장 지점에 도달할 때까지는 영계에서 관전만 가능합니다."
 
 #. FILE = DA3/DesignContent/Prefabs/Multiplayer/MP_KnockDownBleedoutLogic
 #. PATH = GetLocalizedStringIDData/Text
@@ -9716,7 +9716,7 @@ msgid ""
 "While you can directly control and switch between party members at any time, "
 "they will follow these rules when you are not controlling them."
 msgstr ""
-"행동 창에서는 파티원들이 전투에서 어떤 방식으로 싸우고, 협력하고, 방어할 지를 설정할 수 있습니다.\n"
+"행동 창에서는 파티원들이 전투에서 어떤 방식으로 싸우고, 협력하고, 방어할지를 설정할 수 있습니다.\n"
 "\n"
 "언제든 파티원을 직접 조종할 수도 있지만, 그렇지 않은 때에는 위의 설정대로 행동합니다."
 
@@ -13879,7 +13879,7 @@ msgid ""
 "Experiment with different combinations of materials and slots to create "
 "unique items that fit your needs."
 msgstr ""
-"제작 슬롯에는 다섯 가지 종류가 있습니다: 보조, 공격, 방어, 피해량, 그리고 방어 수치.\n"
+"제작 슬롯에는 다섯 가지 종류가 있습니다. 보조, 공격, 방어, 피해량, 그리고 방어 수치.\n"
 "\n"
 "슬롯의 종류에 따라 제작 재료에서 뽑아내는 능력치가 달리 결정됩니다.\n"
 "\n"
@@ -14556,7 +14556,7 @@ msgid ""
 "you've recently taken damage, you hit that much harder and stagger your foes."
 msgstr ""
 "앙갚음 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInvento"
-"ryItem1}{/notcontroller}: 상태 이상을 회복하고 근처 적을 강하게 타격합니다. 최근 피해를 입었다면 그만큼 더 위력이 "
+"ryItem1}{/notcontroller}: 상태 이상을 회복하고 근처 적을 강하게 타격합니다. 최근 피해를 받았다면 그만큼 더 위력이 "
 "늘어나고 적을 경직시킵니다."
 
 #. FILE = DA3/designcontent/Prefabs/Multiplayer/Global/Tutorials/MP_TutorialTrigger
@@ -14634,7 +14634,7 @@ msgid ""
 "a short time."
 msgstr ""
 "강렬한 일격 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInve"
-"ntoryItem1}{/notcontroller}: 목표에게 큰 물리 피해를 입힙니다. 적은 쓰러져 잠시 동안 무방비 상태가 됩니다."
+"ntoryItem1}{/notcontroller}: 목표에게 큰 물리 피해를 줍니다. 적은 쓰러져 잠시 무방비 상태가 됩니다."
 
 #. FILE = DA3/designcontent/Prefabs/Multiplayer/Global/Tutorials/MP_TutorialTrigger
 #. PATH = BWPopUpEntityData[16]/Text
@@ -14741,8 +14741,8 @@ msgid ""
 "or more foes are in close proximity for maximum effectiveness."
 msgstr ""
 "연쇄 번개 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInven"
-"toryItem1}{/notcontroller}: 적에게 전격 피해를 가합니다. 근처의 적에게 튕기며 연쇄적인 피해를 입히기 때문에, 둘 "
-"이상의 적이 모여있을 때 사용하면 가장 효율적입니다."
+"toryItem1}{/notcontroller}: 적에게 전격 피해를 가합니다. 근처의 적에게 튕기며 연쇄적인 피해를 주기 때문에, 둘 "
+"이상의 적이 모였을 때 사용하면 가장 효율적입니다."
 
 #. FILE = DA3/designcontent/Prefabs/Multiplayer/Global/Tutorials/MP_TutorialTrigger
 #. PATH = BWPopUpEntityData[25]/Text
@@ -14805,8 +14805,8 @@ msgid ""
 "attack and are susceptible to combo attacks from Rogues and Warriors."
 msgstr ""
 "겨울의 손아귀 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInv"
-"entoryItem1}{/notcontroller}: 이 기술을 사용하여 대상을 빙결시키고 냉기 피해를 입히십시오. 빙결된 적은 "
-"움직이거나 공격할 수 없고, 도적이나 전사가 콤보 공격을 가할 수 있습니다."
+"entoryItem1}{/notcontroller}: 이 기술을 사용하여 대상을 빙결시키고 냉기 피해를 주십시오. 빙결된 적은 움직이거나 "
+"공격할 수 없고, 도적이나 전사가 콤보 공격을 가할 수 있습니다."
 
 #. FILE = DA3/designcontent/Prefabs/Multiplayer/Global/Tutorials/MP_TutorialTrigger
 #. PATH = BWPopUpEntityData[30]/Text
@@ -14818,7 +14818,7 @@ msgid ""
 "slowed."
 msgstr ""
 "마름쇠 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInvento"
-"ryItem1}{/notcontroller}: 캐릭터 주변에 마름쇠를 떨어뜨립니다. 범위 내에 접근하는 적은 소량의 피해를 입고 이동 "
+"ryItem1}{/notcontroller}: 캐릭터 주변에 마름쇠를 떨어뜨립니다. 범위 내에 접근하는 적은 소량의 피해를 받고 이동 "
 "속도가 느려집니다."
 
 #. FILE = DA3/designcontent/Prefabs/Multiplayer/Global/Tutorials/MP_TutorialTrigger
@@ -14856,8 +14856,8 @@ msgid ""
 "or more foes are in close proximity for maximum effectiveness."
 msgstr ""
 "연쇄 번개 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInven"
-"toryItem1}{/notcontroller}: 적에게 전격 피해를 가합니다. 근처의 적에게 튕기며 연쇄적인 피해를 입히기 때문에, 둘 "
-"이상의 적이 모여있을 때 사용하면 가장 효율적입니다."
+"toryItem1}{/notcontroller}: 적에게 전격 피해를 가합니다. 근처의 적에게 튕기며 연쇄적인 피해를 주기 때문에, 둘 "
+"이상의 적이 모였을 때 사용하면 가장 효율적입니다."
 
 #. FILE = DA3/designcontent/Prefabs/Multiplayer/Global/Tutorials/MP_TutorialTrigger
 #. PATH = BWPopUpEntityData[34]/Text
@@ -14920,7 +14920,7 @@ msgstr ""
 "공포 {controller}{StringBtnRB}{/controller}{notcontroller}{ConceptSelectInvento"
 "ryItem4}{/notcontroller}: 이 기능을 사용하면 광역기 조준 모드를 시작합니다. 주문을 시전할 지역으로 십자선을 "
 "이동하십시오. {controller}{StringBtnA}{/controller}{notcontroller}{StringBtnMouseLe"
-"ft}{/notcontroller} 를 눌러 위치를 지정하면, 적에게 공황 상태를 가합니다. 적은 피해를 입기 전까지 도망을 치며 공격을 "
+"ft}{/notcontroller} 를 눌러 위치를 지정하면, 적에게 공황 상태를 가합니다. 적은 피해를 받기 전까지 도망을 치며 공격을 "
 "할 수 없습니다."
 
 #. FILE = DA3/designcontent/Prefabs/Multiplayer/Global/Tutorials/MP_TutorialTrigger
@@ -14987,8 +14987,8 @@ msgid ""
 "attack and are susceptible to combo attacks from Rogues and Warriors."
 msgstr ""
 "겨울의 손아귀 {controller}{StringBtnX}{/controller}{notcontroller}{ConceptSelectInv"
-"entoryItem1}{/notcontroller}: 이 기술을 사용하여 대상을 빙결시키고 냉기 피해를 입히십시오. 빙결된 적은 "
-"움직이거나 공격할 수 없고, 도적이나 전사가 콤보 공격을 가할 수 있습니다."
+"entoryItem1}{/notcontroller}: 이 기술을 사용하여 대상을 빙결시키고 냉기 피해를 주십시오. 빙결된 적은 움직이거나 "
+"공격할 수 없고, 도적이나 전사가 콤보 공격을 가할 수 있습니다."
 
 #. FILE = DA3/designcontent/Prefabs/Multiplayer/Global/Tutorials/MP_TutorialTrigger
 #. PATH = BWPopUpEntityData[45]/Text
@@ -15102,7 +15102,7 @@ msgid ""
 "{/controller}{notcontroller}{StringBtnMouseRight}{/notcontroller}button to "
 "plant the Inquisition's banner and begin the final battle."
 msgstr ""
-"미니맵을 사용하여 심문회 깃발을 찾고 그 쪽으로 이동하십시오. 가까이 다가간다면 깃발 아래 하얀 원이 보일 것입니다. 모든 파티원들이 "
+"미니맵을 사용하여 심문회 깃발을 찾고 그쪽으로 이동하십시오. 가까이 다가간다면 깃발 아래 하얀 원이 보일 것입니다. 모든 파티원들이 "
 "준비되었다면 마지막 전투를 시작하기 위해 원 안에 들어가 {controller}{StringBtnA}{/controller}{notcont"
 "roller}{StringBtnMouseRight}{/notcontroller}를 눌러 심문회의 깃발을 꽂으십시오."
 
@@ -15450,7 +15450,7 @@ msgid ""
 "that the pages are in order, it's easy to spot the author's signature on the "
 "last page of notes: \"Written by Helsdim Rolfsen of Stone-Bear Hold.\""
 msgstr ""
-"서리등선 분지에 있는 수상한 음모론이 가득한 책이다. 페이지들이 순서대로 정렬되자, 마지막 쪽에 있는 작가의 서명이 또렷하게 보인다: "
+"서리등선 분지에 있는 수상한 음모론이 가득한 책이다. 페이지들이 순서대로 정렬되자, 마지막 쪽에 있는 작가의 서명이 또렷하게 보인다. "
 "\"돌곰 요새의 헬스딤 롤프슨 씀.\""
 
 #. FILE = DA3_DLC1/designcontent/Items/dlc1_murderersgold_item
@@ -16124,7 +16124,7 @@ msgid ""
 "emergencies, my petite! Love, Mama.\""
 msgstr ""
 "블러셔 다섯 통, 립스틱 세 단지, 작지만 튼튼한 머리빗, 그리고 반짝반짝 빛나는 보석이 박힌 머리장식과 리본이 들어 있는 광택나는 "
-"상자다. 뚜껑 안쪽에 붙어 있는 쪽지에는 이렇게 쓰여 있다: \"급할 때 쓸 물건 몇 개 넣었단다, 우리 아가! 사랑해, 엄마가.”"
+"상자다. 뚜껑 안쪽에 붙어 있는 쪽지에는 이렇게 쓰여 있다. \"급할 때 쓸 물건 몇 개 넣었단다, 우리 아가! 사랑해, 엄마가.”"
 
 #. FILE = DA3_DLC_Blue/designcontent/Items/dlcblue_napkin
 #. PATH = StackedItemAsset/DisplayName
@@ -16140,7 +16140,7 @@ msgid ""
 "smudged by wine stains, the only ones still readable are \"There was once a "
 "man from Hossberg.\""
 msgstr ""
-"구석에 잉크로 글씨가 적힌 구겨진 비단 냅킨이다. 글씨는 와인 자국에 번져, 읽을 수 있는 구절은 하나뿐이다: \"옛날 옛적 호스버그에서 "
+"구석에 잉크로 글씨가 적힌 구겨진 비단 냅킨이다. 글씨는 와인 자국에 번져, 읽을 수 있는 구절은 하나뿐이다. \"옛날 옛적 호스버그에서 "
 "온 한 남자가 있었다.”"
 
 #. FILE = DA3_DLC_Blue/designcontent/Items/dlcblue_paddles
@@ -20561,7 +20561,7 @@ msgid ""
 "enemy marked with Vendetta.\n"
 "\n"
 msgstr ""
-"복수의 표식이 찍힌 적에게 피해를 입힐 때 마다 모든 액티브 스킬의 재사용 대기시간이 줄어듭니다.\n"
+"복수의 표식이 찍힌 적에게 피해를 줄 때 마다 모든 액티브 스킬의 재사용 대기시간이 줄어듭니다.\n"
 "\n"
 
 #. FILE = da3_mp2/Combat/Kits/Isabela/Passives/ImprovedVendetta/combat_kits_isabela_passive_improvedvendetta_abilitydata
@@ -20652,7 +20652,7 @@ msgid ""
 "over time.\n"
 "\n"
 msgstr ""
-"교묘함이 1중첩 이상일 때, 지속 피해를 입지 않습니다.\n"
+"교묘함이 1중첩 이상일 때, 지속 피해를 받지 않습니다.\n"
 "\n"
 
 #. FILE = da3_mp2/Combat/Kits/Isabela/Passives/Versatility/combat_kits_isabela_passive_versatility_abilitydata

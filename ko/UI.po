@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-08-17 16:24+0000\n"
+"PO-Revision-Date: 2021-08-20 10:24+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
@@ -101,8 +101,8 @@ msgid ""
 "functional upgrade that brings a potential resource gain from the inspired, "
 "including gold from tithes."
 msgstr ""
-"정원을 성당으로 업그레이드하여 누구에게나 희망을 선사합니다. 영감 받은 자들에게서 자원을 더 얻을 수 있고, 십일조 헌금으로 재화를 벌 "
-"수 있습니다."
+"정원을 성당으로 업그레이드하여 누구에게나 희망을 선사합니다. 영감받은 자들에게서 자원을 더 얻을 수 있고, 십일조 헌금으로 재화를 벌 수 "
+"있습니다."
 
 #. FILE = UI/Assets/BaseChoices/UIBaseChoice_Garden
 #. PATH = UIBaseChoiceAsset/RightChoice/UIBaseChoiceOption/OptionTitle
@@ -437,7 +437,7 @@ msgid ""
 "incredible damage. They may get up close and personal with daggers or strike "
 "from a distance with arrows."
 msgstr ""
-"도적은 중갑보다는 속도와 민첩성에 의존하며, 기술과 전장에서의 유리한 위치를 이용해 엄청난 피해를 입힙니다. 그들은 근접해 단검으로 "
+"도적은 중갑보다는 속도와 민첩성에 의존하며, 기술과 전장에서의 유리한 위치를 이용해 엄청난 피해를 줍니다. 그들은 근접해 단검으로 "
 "공격하거나 멀리서 화살을 쏴 공격할 수 있습니다."
 
 #. FILE = UI/Assets/CharacterCreation/CharacterClassUIData
@@ -455,7 +455,7 @@ msgid ""
 "incredible damage. They may get up close and personal with daggers or strike "
 "from a distance with arrows."
 msgstr ""
-"도적은 중갑보다는 속도와 민첩성에 의존하며, 기술과 전장에서의 유리한 위치를 이용해 엄청난 피해를 입힙니다. 그들은 근접해 단검으로 "
+"도적은 중갑보다는 속도와 민첩성에 의존하며, 기술과 전장에서의 유리한 위치를 이용해 엄청난 피해를 줍니다. 그들은 근접해 단검으로 "
 "공격하거나 멀리서 화살을 쏴 공격할 수 있습니다."
 
 #. FILE = UI/Assets/CharacterCreation/CharacterClassUIData
@@ -473,7 +473,7 @@ msgid ""
 "incredible damage. They may get up close and personal with daggers or strike "
 "from a distance with arrows."
 msgstr ""
-"도적은 중갑보다는 속도와 민첩성에 의존하며, 기술과 전장에서의 유리한 위치를 이용해 엄청난 피해를 입힙니다. 그들은 근접해 단검으로 "
+"도적은 중갑보다는 속도와 민첩성에 의존하며, 기술과 전장에서의 유리한 위치를 이용해 엄청난 피해를 줍니다. 그들은 근접해 단검으로 "
 "공격하거나 멀리서 화살을 쏴 공격할 수 있습니다."
 
 #. FILE = UI/Assets/CharacterCreation/CharacterClassUIData
@@ -491,7 +491,7 @@ msgid ""
 "incredible damage. They may get up close and personal with daggers or strike "
 "from a distance with arrows."
 msgstr ""
-"도적은 중갑보다는 속도와 민첩성에 의존하며, 기술과 전장에서의 유리한 위치를 이용해 엄청난 피해를 입힙니다. 그들은 근접해 단검으로 "
+"도적은 중갑보다는 속도와 민첩성에 의존하며, 기술과 전장에서의 유리한 위치를 이용해 엄청난 피해를 줍니다. 그들은 근접해 단검으로 "
 "공격하거나 멀리서 화살을 쏴 공격할 수 있습니다."
 
 #. FILE = UI/Assets/CharacterCreation/CharacterClassUIData
@@ -1299,7 +1299,7 @@ msgctxt "0x00045ab2"
 msgid ""
 "Choose whether Voice Chat continues to broadcast while the game is in the "
 "background."
-msgstr "게임이 비활성화 되어 있을 때에도 계속해서 보이스 채팅을 송출할지 설정합니다."
+msgstr "게임이 비활성화되어 있을 때에도 계속해서 보이스 채팅을 송출할지 설정합니다."
 
 #. FILE = UI/Assets/GameOptions/GameOptions_FriendlyFire
 #. PATH = UIGameOptionsItemAsset/Title
@@ -1878,7 +1878,7 @@ msgctxt "0x00044fe6"
 msgid ""
 "Whether or not the game stops time automatically when switching to the "
 "tactical camera."
-msgstr "전술 시점으로 진입할 때 게임을 자동으로 정지할 지 선택합니다."
+msgstr "전술 시점으로 진입할 때 게임을 자동으로 정지할지 선택합니다."
 
 #. FILE = UI/Assets/GameOptions/GameOptions_PauseWhileTargetingAOEs
 #. PATH = UIGameOptionsItemAsset/Title
@@ -21493,8 +21493,8 @@ msgid ""
 "Your {xboxone}Xbox 360 {/xboxone}{ps4}PlayStation®3 system {/ps4}Multiplayer "
 "data was migrated previously. The data cannot be migrated again."
 msgstr ""
-"이전에 {xboxone}Xbox 360 {/xboxone}{ps4}PlayStation®3 기기{/ps4}의 온라인 정보가 동기화 된 "
-"적이 있습니다. 재동기화할 수 없습니다."
+"이전에 {xboxone}Xbox 360 {/xboxone}{ps4}PlayStation®3 기기{/ps4}의 온라인 정보가 동기화된 적이 "
+"있습니다. 재동기화할 수 없습니다."
 
 #. FILE = UI/Flow/Gen3MigrationFlowPrefab
 #. PATH = BWPopUpEntityData[8]/Text
@@ -21566,7 +21566,7 @@ msgid ""
 "Promoting this character will reset their experience level and abilities, "
 "but you will receive a +1 Constitution bonus for all characters. Are you "
 "sure you want to continue?"
-msgstr "이 캐릭터를 승급 시키면 레벨과 기술이 초기화 되지만 모든 캐릭터들이 건강 보너스를 +1 얻게 됩니다. 계속 진행하시겠습니까?"
+msgstr "이 캐릭터를 승급시키면 레벨과 기술이 초기화되지만 모든 캐릭터가 건강 보너스를 +1 얻게 됩니다. 계속 진행하시겠습니까?"
 
 #. FILE = UI/Flow/PRE_ChangeCharacter_Prefab
 #. PATH = BWPopUpEntityData[2]/Text
@@ -21575,7 +21575,7 @@ msgid ""
 "Promoting this character will reset their experience level and abilities, "
 "but you will receive a +1 Willpower bonus for all characters. Are you sure "
 "you want to continue?"
-msgstr "이 캐릭터를 승급 시키면 레벨과 기술이 초기화 되지만 모든 캐릭터들이 정신력 보너스를 +1 얻게 됩니다. 계속 진행하시겠습니까?"
+msgstr "이 캐릭터를 승급시키면 레벨과 기술이 초기화되지만 모든 캐릭터가 정신력 보너스를 +1 얻게 됩니다. 계속 진행하시겠습니까?"
 
 #. FILE = UI/Flow/PRE_ChangeCharacter_Prefab
 #. PATH = BWPopUpEntityData[3]/Text
@@ -21602,7 +21602,7 @@ msgid ""
 "Promoting your character will reset their experience level and abilities, "
 "but you will receive a +1 Cunning bonus for all characters. Are you sure you "
 "want to continue?"
-msgstr "이 캐릭터를 승급 시키면 레벨과 기술이 초기화 되지만 모든 캐릭터들이 교활 보너스를 +1 얻게 됩니다. 계속 진행하시겠습니까?"
+msgstr "이 캐릭터를 승급시키면 레벨과 기술이 초기화되지만 모든 캐릭터가 교활 보너스를 +1 얻게 됩니다. 계속 진행하시겠습니까?"
 
 #. FILE = UI/Flow/PRE_ChangeCharacter_Prefab
 #. PATH = BWPopUpEntityData[6]/Title
@@ -21797,7 +21797,7 @@ msgstr "대화 종료"
 #. PATH = UIConversationScreenAsset/LocalizedLabels/member[4]/UIScreenAssetLocalizedLabel/LocString
 msgctxt "0x00043a7e"
 msgid "Cannot skip while content installing."
-msgstr "컨텐츠 설치 중에는 넘기기를 이용할 수 없습니다."
+msgstr "콘텐츠 설치 중에는 넘기기를 이용할 수 없습니다."
 
 #. FILE = UI/Flow/Screen/CoopBrowserScreen
 #. PATH = BWButtonLegendBinding/LegendButtons/member[1]/BWButtonLegendEntry/LocalizedDisplayString
@@ -23843,7 +23843,7 @@ msgstr "캐릭터 요약"
 #. PATH = UILocalizedScreenAsset/LocalizedLabels/member[8]/UIScreenAssetLocalizedLabel/LocString
 msgctxt "0x0004410e"
 msgid "The World So Far..."
-msgstr "여기까지의 이야기..."
+msgstr "지금까지의 이야기..."
 
 #. FILE = UI/Flow/Screen/PRE/PRE_StartMenu
 #. PATH = UILocalizedScreenAsset/LocalizedLabels/member[3]/UIScreenAssetLocalizedLabel/LocString
@@ -24727,7 +24727,7 @@ msgstr "파티원"
 #. PATH = UIBWMapScreenAsset/LocalizedLabels/member[48]/UIScreenAssetLocalizedLabel/LocString
 msgctxt "0x00043177"
 msgid "Content Installing..."
-msgstr "컨텐츠 설치 중..."
+msgstr "콘텐츠 설치 중..."
 
 #. FILE = UI/Flow/Screen/REC/REC_WorldMap
 #. PATH = UIBWMapScreenAsset/LocalizedLabels/member[49]/UIScreenAssetLocalizedLabel/LocString
@@ -33413,7 +33413,7 @@ msgstr "캐릭터 불러오기"
 #. PATH = UICharGenCompData/CharacterImportDownloading
 msgctxt "0x000446d4"
 msgid "Downloading character data from the Dragon Age Keep..."
-msgstr "Dragon Age Keep에서 캐릭터 데이터 다운로드중..."
+msgstr "Dragon Age Keep에서 캐릭터 데이터 다운로드 중..."
 
 #. FILE = UI/UIComponents/UICharGenComp
 #. PATH = UICharGenCompData/CharacterImportLogin

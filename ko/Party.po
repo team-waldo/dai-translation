@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-08-17 16:23+0000\n"
+"PO-Revision-Date: 2021-08-20 10:24+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -560,7 +560,7 @@ msgid ""
 "unleash explosive shots to devastating effect."
 msgstr ""
 "원거리 교전에 통달한 전문가입니다. 가까이 붙으려는 적을 떨쳐내거나, 화살이나 쇠뇌살을 다수의 적에게 꽂아줄 수 있습니다. 심지어 "
-"폭발물을 쏴 엄청난 피해를 입힐 수도 있습니다."
+"폭발물을 쏴 엄청난 피해를 줄 수도 있습니다."
 
 #. FILE = DA3/Party/General/AbilityTrees/Rogue_Assassin_Spec_AbilityTree
 #. PATH = BWAbilityTree/TreeNameReference
@@ -2254,7 +2254,7 @@ msgctxt "0x00043129"
 msgid ""
 "All targets suffer <font color=\"#F5ECCE\">{CUSTOM0}</font> spirit damage "
 "when the effect wears off."
-msgstr "효과가 끝날 때 모든 대상이 <font color=\"#F5ECCE\">{CUSTOM0}</font> 영혼 피해를 입습니다."
+msgstr "효과가 끝날 때 모든 대상이 <font color=\"#F5ECCE\">{CUSTOM0}</font> 영혼 피해를 받습니다."
 
 #. FILE = DA3/Party/General/Potions/CrowPoison/party_general_potion_crowpoison_abilitydata
 #. PATH = BWActivatedAbility/AbilityNameReference
@@ -2648,8 +2648,7 @@ msgstr ""
 "대상 지점에 벌떼를 <font color=\"#F5ECCE\">{CUSTOM0}</font>초 동안 소환합니다. 벌떼는 처음 접촉한 적을 "
 "공격하여 초당 <font color=\"#F5ECCE\">{CUSTOM1}</font>만큼의 피해를 <font color=\"#"
 "F5ECCE\">{CUSTOM2}</font>초 동안 줍니다. \n"
-"벌떼에게 공격 받은 대상은 매초 <font color=\"#F5ECCE\">{CUSTOM3}%</font> 확률로 공황 상태에 빠집니다."
-"\n"
+"벌떼에게 공격받은 대상은 매초 <font color=\"#F5ECCE\">{CUSTOM3}%</font> 확률로 공황 상태에 빠집니다.\n"
 
 #. FILE = DA3/Party/General/Potions/InsectSwarm/party_general_potion_insectswarm_upgrade1a_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -3169,7 +3168,7 @@ msgid ""
 "barrier generation for a brief duration.\n"
 "\n"
 msgstr ""
-"마법이나 상태 효과를 제거하면 잠시 동안 마법으로 입히는 피해량과 보호막 생성량이 증가합니다.\n"
+"마법이나 상태 효과를 제거하면 잠시 마법으로 입히는 피해량과 보호막 생성량이 증가합니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Mount/Ability/dismount_abilitydata
@@ -3470,7 +3469,7 @@ msgid ""
 "yet.\n"
 "\n"
 msgstr ""
-"약간의 시간을 들여 완벽한 사격을 가해 어마어마한 피해를 줍니다. 피해를 입지 않은 적에게는 추가 피해를 줍니다.\n"
+"약간의 시간을 들여 완벽한 사격을 가해 어마어마한 피해를 줍니다. 피해를 받지 않은 적에게는 추가 피해를 줍니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/Archery/Snipe/party_rogue_archery_snipe_abilitydata
@@ -3647,7 +3646,7 @@ msgid ""
 "early for bonus damage.\n"
 "\n"
 msgstr ""
-"죽음의 표식이 더 오래 지속되지만, 직접 발동하여 일찍 추가 피해를 입힐 수 없게 됩니다.\n"
+"죽음의 표식이 더 오래 지속되지만, 직접 발동하여 일찍 추가 피해를 줄 수 없게 됩니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/Assassin/MarkOfDeath/party_rogue_assassin_markofdeath_upgrade1_abilitydata
@@ -3743,7 +3742,7 @@ msgid ""
 "to sleep. Sleeping enemies awaken after taking damage.\n"
 "\n"
 msgstr ""
-"강력한 혼합물이 담긴 폭탄을 던져 적을 수면 상태에 빠뜨립니다. 수면 중인 적은 피해를 입으면 깨어납니다.\n"
+"강력한 혼합물이 담긴 폭탄을 던져 적을 수면 상태에 빠뜨립니다. 수면 중인 적은 피해를 받으면 깨어납니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/Assassin/SleepBomb/party_rogue_assassin_sleepbomb_upgrade2_abilitydata
@@ -4570,7 +4569,7 @@ msgid ""
 "after being damaged.\n"
 "\n"
 msgstr ""
-"혼절 가루의 영향을 받은 적이 더 오래 잠들고, 피해를 입어도 곧바로 깨지 않습니다.\n"
+"혼절 가루의 영향을 받은 적이 더 오래 잠들고, 피해를 받아도 곧바로 깨지 않습니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/General/SleepDust/party_rogue_general_sleepdust_upgrade1_abilitydata
@@ -4597,7 +4596,7 @@ msgid ""
 "they wake up naturally.\n"
 "\n"
 msgstr ""
-"혼절 가루의 지속시간이 짧아지지만, 지속시간이 끝날 때 적이 큰 피해를 입습니다.\n"
+"혼절 가루의 지속시간이 짧아지지만, 지속시간이 끝날 때 적이 큰 피해를 받습니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/General/SpikeTrap/party_rogue_general_spiketrap_abilitydata
@@ -4681,7 +4680,7 @@ msgid ""
 "You remain in stealth for a short time after attacking or taking damage.\n"
 "\n"
 msgstr ""
-"공격하거나 피해를 입어도 짧은 시간 은신이 유지됩니다.\n"
+"공격하거나 피해를 받아도 짧은 시간 은신이 유지됩니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/General/Stealth2/party_rogue_general_stealth2_abilitydata
@@ -4744,7 +4743,7 @@ msgid ""
 "you gain a major bonus to your guard.\n"
 "\n"
 msgstr ""
-"적을 그림자 일격으로 공격했고 최근 피해를 입지 않았다면, 추가 방어막을 대량 획득합니다.\n"
+"적을 그림자 일격으로 공격했고 최근 피해를 받지 않았다면, 추가 방어막을 대량 획득합니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/General/SuckerPunch/party_rogue_general_suckerpunch_skirmisher_upgrade_abilitydata
@@ -4999,7 +4998,7 @@ msgid ""
 "a chance to dodge enemy attacks, taking no damage.\n"
 "\n"
 msgstr ""
-"보이지 않으면 때릴 수도 없습니다. 교묘하게 싸워 일정 확률로 적의 공격을 회피합니다. 회피한 공격에는 피해를 입지 않습니다.\n"
+"보이지 않으면 때릴 수도 없습니다. 교묘하게 싸워 일정 확률로 적의 공격을 회피합니다. 회피한 공격에는 피해를 받지 않습니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/Passives/Focus/party_rogue_passive_focus_abilitydata
@@ -5220,7 +5219,7 @@ msgid ""
 "time.\n"
 "\n"
 msgstr ""
-"치명타가 적의 방어구를 갈라버립니다. 잠시 동안 적을 방어구 손상 상태로 만듭니다.\n"
+"치명타가 적의 방어구를 갈라버립니다. 잠시 적을 방어구 손상 상태로 만듭니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/Passives/SilentKiller/party_rogue_passive_silentkiller_abilitydata
@@ -5456,7 +5455,7 @@ msgid ""
 "nearby enemies.\n"
 "\n"
 msgstr ""
-"서리 플라스크 효과를 받고 있을 때 얼어붙은 적을 깨부순다면, 가까이 있던 적도 피해를 입습니다.\n"
+"서리 플라스크 효과를 받고 있을 때 얼어붙은 적을 깨부순다면, 가까이 있던 적도 피해를 받습니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/Stalker/AspectOfPride/party_rogue_stalker_aspectofpride_upgrade1_abilitydata
@@ -5474,8 +5473,8 @@ msgid ""
 "electricity damage when it ends.\n"
 "\n"
 msgstr ""
-"농축된 번개 비약의 효과로 주변의 시간이 멈춘 듯이 느껴집니다. 지속 시간 동안 피해를 입은 적은 효과가 끝날 때 추가 전격 피해를 "
-"입습니다.\n"
+"농축된 번개 비약의 효과로 주변의 시간이 멈춘 듯이 느껴집니다. 지속 시간 동안 피해를 받은 적은 효과가 끝날 때 추가 전격 피해를 "
+"받습니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/Stalker/AspectOfPride/party_rogue_stalker_aspectofpride_upgrade1_abilitydata
@@ -5609,7 +5608,7 @@ msgid ""
 "nobody but themselves as you leap away.\n"
 "\n"
 msgstr ""
-"당신이 사라진 곳에서 적들은 허둥댑니다. 적이 허공에 대고 공격을 휘둘러 자신에게 피해를 입힙니다.\n"
+"당신이 사라진 곳에서 적들은 허둥댑니다. 적이 허공에 대고 공격을 휘둘러 자신에게 피해를 줍니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/Support/Evade/Upgrade2/party_rogue_support_evade_upgrade2_abilitydata
@@ -5691,7 +5690,7 @@ msgctxt "0x0004490b"
 msgid ""
 "Guard provides protection from incoming attacks by granting additional "
 "health. Guard must be broken before a target will take damage."
-msgstr "방어막은 추가 체력을 부여합니다. 방어막이 소진되기 전에는 대상이 피해를 입지 않습니다."
+msgstr "방어막은 추가 체력을 부여합니다. 방어막이 소진되기 전에는 대상이 피해를 받지 않습니다."
 
 #. FILE = DA3/Party/Warrior/Battlemaster/Inspiringhorn/party_warrior_battlemaster_InspiringHorn_abilitydata
 #. PATH = BWActivatedAbility/AbilityNameReference
@@ -6025,7 +6024,7 @@ msgid ""
 "of range of the enemy.\n"
 "\n"
 msgstr ""
-"적을 도발해 광분하게 합니다. 대상은 가하는 공격이 점점 거세지지만, 점점 더 큰 피해를 입습니다. 이 효과는 적의 사정거리에서 벗어나면 "
+"적을 도발해 광분하게 합니다. 대상은 가하는 공격이 점점 거세지지만, 점점 더 큰 피해를 받습니다. 이 효과는 적의 사정거리에서 벗어나면 "
 "종료됩니다.\n"
 "\n"
 
@@ -6073,7 +6072,7 @@ msgid ""
 "damage and you correct weaknesses of your own.\n"
 "\n"
 msgstr ""
-"적의 약점을 파악하는 동시에 스스로의 약점을 보완합니다. 목숨 건 혈투가 활성화된 동안, 대상이 피해를 입을 때마다 방어막이 증가합니다."
+"적의 약점을 파악하는 동시에 스스로의 약점을 보완합니다. 목숨 건 혈투가 활성화된 동안, 대상이 피해를 받을 때마다 방어막이 증가합니다."
 "\n"
 "\n"
 
@@ -6399,7 +6398,7 @@ msgid ""
 "armor for a short time.\n"
 "\n"
 msgstr ""
-"치명타를 맞은 적은 갑옷과 방패가 부서져 잠시동안 방어구가 손상됩니다.\n"
+"치명타를 맞은 적은 갑옷과 방패가 부서져 잠시 방어구가 손상됩니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Warrior/Passives/DeathLaugh/party_warrior_passive_deathlaugh_abilitydata
@@ -6928,7 +6927,7 @@ msgid ""
 "the effect. You take damage with each swing.\n"
 "\n"
 msgstr ""
-"분노에 휩싸여 적에게 달려듭니다. 이 기술을 사용할 때마다 피해를 입지만, 부상이 깊을수록 공격력은 증가합니다. 고통의 고리와 함께 시전 "
+"분노에 휩싸여 적에게 달려듭니다. 이 기술을 사용할 때마다 피해를 받지만, 부상이 깊을수록 공격력은 증가합니다. 고통의 고리와 함께 시전 "
 "시 효과가 크게 상승합니다.\n"
 "\n"
 
@@ -6973,7 +6972,7 @@ msgid ""
 "often.\n"
 "\n"
 msgstr ""
-"용의 격노를 사용해도 피해를 입지 않습니다. 대신 자주 사용할 수 없습니다.\n"
+"용의 격노를 사용해도 피해를 받지 않습니다. 대신 자주 사용할 수 없습니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Warrior/Reaver/PainAura/party_warrior_chevalier_painaura_upgrade1_abilitydata
@@ -7102,7 +7101,7 @@ msgid ""
 "demons.\n"
 "\n"
 msgstr ""
-"눈부신 빛의 기둥을 소환해 적을 기절시킵니다. 악마는 피해를 입습니다.\n"
+"눈부신 빛의 기둥을 소환해 적을 기절시킵니다. 악마는 피해를 받습니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Warrior/Templar/MakersWrath/party_warrior_templar_makerswrath_upgrade1_abilitydata
@@ -7196,7 +7195,7 @@ msgid ""
 "the area of effect.\n"
 "\n"
 msgstr ""
-"축복받은 무기에 영향을 받은 아군은 효과 범위를 이탈해도 잠시 동안 효과를 유지합니다.\n"
+"축복받은 무기에 영향을 받은 아군은 효과 범위를 이탈해도 잠시 효과를 유지합니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Warrior/TwoHanded/Ammo/party_warrior_twohanded_ammo_ability
@@ -7530,7 +7529,7 @@ msgid ""
 "heavier hits, knocking enemies back.\n"
 "\n"
 msgstr ""
-"소용돌이의 재사용 대기시간이 감소하고, 더 큰 피해를 입히며, 강한 충격으로 적을 밀어냅니다.\n"
+"소용돌이의 재사용 대기시간이 감소하고, 더 큰 피해를 주며, 강한 충격으로 적을 밀어냅니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Warrior/TwoHanded/Whirlwind/party_warrior_twohanded_whirlwind_upgrade3_abilitydata
@@ -8206,7 +8205,7 @@ msgid ""
 "curse in a devastating explosion.\n"
 "\n"
 msgstr ""
-"대상을 저주하여 일정 시간 영혼 피해를 입힌 뒤, 저주를 발동하여 치명적인 폭발을 일으킵니다.\n"
+"대상을 저주하여 일정 시간 영혼 피해를 준 뒤, 저주를 발동하여 치명적인 폭발을 일으킵니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Controller/WalkingBomb/party_mage_controller_walkingbomb_abilitydata
@@ -8284,7 +8283,7 @@ msgid ""
 "staggering the target.\n"
 "\n"
 msgstr ""
-"지면에 문양을 생성합니다. 문양은 잠시 후 작동되며, 적이 그 위를 지나면 폭발하여 피해를 입히고 경직시킵니다.\n"
+"지면에 문양을 생성합니다. 문양은 잠시 후 작동되며, 적이 그 위를 지나면 폭발하여 피해를 주고 경직시킵니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/FireIce/FireMine/party_mage_fireice_firemine_aoeabilitydata
@@ -9162,7 +9161,7 @@ msgctxt "0x0004490a"
 msgid ""
 "A barrier provides an additional health bar that must be destroyed before "
 "the target will take any damage. Barrier is vulnerable to dispel effects."
-msgstr "보호막은 추가 체력을 부여합니다. 보호막이 파괴되기 전에는 대상이 피해를 입지 않습니다. 마법 해제 효과에 취약합니다."
+msgstr "보호막은 추가 체력을 부여합니다. 보호막이 파괴되기 전에는 대상이 피해를 받지 않습니다. 마법 해제 효과에 취약합니다."
 
 #. FILE = DA3/Party/mage/Passives/Shroud/party_mage_passive_shroud_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -9179,7 +9178,7 @@ msgid ""
 "do, the more powerful your barrier grows.\n"
 "\n"
 msgstr ""
-"적을 공격하면서 내뿜었던 에너지를 다시 흡수합니다. 공격이 적중할 때마다 보호막이 강화됩니다. 더 큰 피해를 입힐수록 보호막은 더욱 "
+"적을 공격하면서 내뿜었던 에너지를 다시 흡수합니다. 공격이 적중할 때마다 보호막이 강화됩니다. 더 큰 피해를 줄수록 보호막은 더욱 "
 "견고해집니다.\n"
 "\n"
 
@@ -9727,7 +9726,7 @@ msgid ""
 "area.\n"
 "\n"
 msgstr ""
-"차디찬 눈보라를 불러일으켜 적에게 피해를 입히고 오한 효과를 부여합니다.\n"
+"차디찬 눈보라를 불러일으켜 적에게 피해를 주고 오한 효과를 부여합니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Staff/ChargedBurstIce/party_mage_staff_chargedburst_ice_abilitydata
@@ -10055,7 +10054,7 @@ msgid ""
 "whenever you take damage.\n"
 "\n"
 msgstr ""
-"장막의 일격 시전 범위가 현재 위치로 고정되지만, 피해를 입을 때마다 재사용 대기시간이 감소합니다.\n"
+"장막의 일격 시전 범위가 현재 위치로 고정되지만, 피해를 받을 때마다 재사용 대기시간이 감소합니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Staff/FistOfTheMaker/party_mage_staff_fistofthemaker_upgrade2_abilitydata
@@ -10272,7 +10271,7 @@ msgid ""
 "they take significant damage.\n"
 "\n"
 msgstr ""
-"공포에 당한 적이 두려움에 빠져 자신을 향한 공격에 반응하지 않습니다. 막대한 피해를 입으면 공포에서 풀려납니다.\n"
+"공포에 당한 적이 두려움에 빠져 자신을 향한 공격에 반응하지 않습니다. 막대한 피해를 받으면 공포에서 풀려납니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Staff/Phantasm/party_mage_staff_phantasm_upgrade2_abilitydata
@@ -10443,7 +10442,7 @@ msgid ""
 "magic type for a short time.\n"
 "\n"
 msgstr ""
-"에너지 포화가 적중할 때 마다 잠시 동안 시전자의 지팡이 계열에 대한 대상의 마법 저항력을 낮춥니다.\n"
+"에너지 포화가 적중할 때 마다 잠시 시전자의 지팡이 계열에 대한 대상의 마법 저항력을 낮춥니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Staff/SeekerSwarm/party_mage_staff_seekerswarm_upgrade_abilitydata
@@ -10496,7 +10495,7 @@ msgid ""
 "When enemies take damage inside the field, Spirit Blade gains power.\n"
 "\n"
 msgstr ""
-"적이 분열장 내부에서 피해를 입으면, 영혼 칼날이 충전됩니다.\n"
+"적이 분열장 내부에서 피해를 받으면, 영혼 칼날이 충전됩니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Staff/SlowBubble/party_mage_staff_slowbubble_upgrade_abilitydata
@@ -10850,7 +10849,7 @@ msgid ""
 "Your elemental projectiles now pick targets at random but deal more damage.\n"
 "\n"
 msgstr ""
-"이제 당신의 원소 투사체가 무작위 대상를 향해 발사되지만 더 큰 피해를 입힙니다.\n"
+"이제 당신의 원소 투사체가 무작위 대상를 향해 발사되지만 더 큰 피해를 줍니다.\n"
 "\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Barrier/saarebas_abilities_barrier_abilitydata
@@ -10935,7 +10934,7 @@ msgctxt "0x0004b3d1"
 msgid ""
 "<font color=\"#F5ECCE\">You deal cold damage to enemies you pass "
 "through.</font>\n"
-msgstr "<font color=\"#F5ECCE\">통과하는 적에게 냉기 피해를 입힙니다.</font>\n"
+msgstr "<font color=\"#F5ECCE\">통과하는 적에게 냉기 피해를 줍니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Blink/saarebas_abilities_blink_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
@@ -10943,7 +10942,7 @@ msgctxt "0x0004b3d2"
 msgid ""
 "<font color=\"#F5ECCE\">You leap back to safety, dealing electricity damage "
 "to enemies you pass.</font>\n"
-msgstr "<font color=\"#F5ECCE\">안전한 후방으로 도약하며 통과하는 적에게 전격 피해를 입힙니다.</font>\n"
+msgstr "<font color=\"#F5ECCE\">안전한 후방으로 도약하며 통과하는 적에게 전격 피해를 줍니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Blink/saarebas_abilities_blink_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[8]/FloatProviderTokenizedString/StringReference
@@ -10992,8 +10991,7 @@ msgid ""
 "<font color=\"#F5ECCE\">Chilling ice deals {CUSTOM0}% cold damage and "
 "briefly freezes targets.</font>\n"
 msgstr ""
-"<font color=\"#F5ECCE\">차디찬 한기가 {CUSTOM0}%의 냉기 피해를 입히고 대상을 잠시 빙결시킵니다.</font>"
-"\n"
+"<font color=\"#F5ECCE\">차디찬 한기가 {CUSTOM0}%의 냉기 피해를 주고 대상을 잠시 빙결시킵니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Breath/saarebas_abilities_breath_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
@@ -11008,7 +11006,7 @@ msgstr "<font color=\"#F5ECCE\">짜릿한 전기가 적을 {CUSTOM0}초간 마�
 msgctxt "0x0004b3c4"
 msgid ""
 "<font color=\"#F5ECCE\">Burning fire deals {CUSTOM0}% fire damage.</font>\n"
-msgstr "<font color=\"#F5ECCE\">불타는 화염이 {CUSTOM0}%의 화염 피해를 입힙니다.</font>\n"
+msgstr "<font color=\"#F5ECCE\">불타는 화염이 {CUSTOM0}%의 화염 피해를 줍니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Breath/saarebas_abilities_breath_upgrade_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -11101,7 +11099,7 @@ msgid ""
 "time.\n"
 "\n"
 msgstr ""
-"원소의 능력으로 한 대상을 공격하여 지속 피해를 입힙니다.\n"
+"원소의 능력으로 한 대상을 공격하여 지속 피해를 줍니다.\n"
 "\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/DoT/saarebas_abilities_dot_abilitydata
@@ -11110,7 +11108,7 @@ msgctxt "0x0004b39f"
 msgid ""
 "<font color=\"#F5ECCE\">The target takes {CUSTOM0}% fire damage per "
 "second.</font>\n"
-msgstr "<font color=\"#F5ECCE\">대상은 매초 {CUSTOM0}%의 화염 피해를 입습니다.</font>\n"
+msgstr "<font color=\"#F5ECCE\">대상은 매초 {CUSTOM0}%의 화염 피해를 받습니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/DoT/saarebas_abilities_dot_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
@@ -11126,7 +11124,7 @@ msgid ""
 "<font color=\"#F5ECCE\">The target takes {CUSTOM0}% of its current health as "
 "electricity damage every second.</font>\n"
 msgstr ""
-"<font color=\"#F5ECCE\">대상은 매초 현재 체력의 {CUSTOM0}% 에 해당하는 전격 피해를 입습니다.</font>\n"
+"<font color=\"#F5ECCE\">대상은 매초 현재 체력의 {CUSTOM0}% 에 해당하는 전격 피해를 받습니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/DoT/saarebas_abilities_dot_upgrade_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -11237,7 +11235,7 @@ msgctxt "0x0004b3aa"
 msgid ""
 "<font color=\"#F5ECCE\">You shove back enemies who stand before you, dealing "
 "physical damage.</font>\n"
-msgstr "<font color=\"#F5ECCE\">전방의 적을 밀쳐 물리 피해를 입힙니다.</font>\n"
+msgstr "<font color=\"#F5ECCE\">전방의 적을 밀쳐 물리 피해를 줍니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Grip/saarebas_abilities_grip_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
@@ -11266,7 +11264,7 @@ msgid ""
 "Striking an enemy with this spell restores your own health.\n"
 "\n"
 msgstr ""
-"이 주문으로 적에게 피해를 입히면 자신의 체력을 회복합니다.\n"
+"이 주문으로 적에게 피해를 주면 자신의 체력을 회복합니다.\n"
 "\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/PointBlank/saarebas_abilities_pointblank_abilitydata
@@ -11293,7 +11291,7 @@ msgid ""
 "within {CUSTOM1} meters.</font>\n"
 msgstr ""
 "<font color=\"#F5ECCE\">화염 고리로 {CUSTOM1}미터 안의 적에게 {CUSTOM0}%만큼 피해를 "
-"입힙니다.</font>\n"
+"줍니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/PointBlank/saarebas_abilities_pointblank_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
@@ -11352,7 +11350,7 @@ msgstr ""
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b399"
 msgid "<font color=\"#F5ECCE\">An icy stone deals cold damage.</font>\n"
-msgstr "<font color=\"#F5ECCE\">얼음에 뒤덮인 돌은 냉기 피해를 입힙니다.</font>\n"
+msgstr "<font color=\"#F5ECCE\">얼음에 뒤덮인 돌은 냉기 피해를 줍니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Projectile/saarebas_abilities_projectile_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
@@ -11489,7 +11487,7 @@ msgid ""
 "{CUSTOM0}% weapon damage.</font>\n"
 msgstr ""
 "<font color=\"#F5ECCE\">화염 장벽이 대상을 쓸어버리며 무기 피해량의 {CUSTOM0}% 만큼 피해를 "
-"입힙니다.</font>\n"
+"줍니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Wall/saarebas_abilities_wall_upgrade_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
