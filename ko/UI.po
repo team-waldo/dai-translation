@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-10-05 01:23+0000\n"
+"PO-Revision-Date: 2021-10-07 01:23+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
@@ -22422,7 +22422,7 @@ msgstr "물약 허리띠"
 #. PATH = UIPotionMappingScreenAsset/LocalizedLabels/member[5]/UIScreenAssetLocalizedLabel/LocString
 msgctxt "0x00029025"
 msgid "Map Potion"
-msgstr "지도 물약"
+msgstr "물약 배정"
 
 #. FILE = UI/Flow/Screen/ENV/ENV_PotionMapping
 #. PATH = UIPotionMappingScreenAsset/LocalizedLabels/member[8]/UIScreenAssetLocalizedLabel/LocString
@@ -22825,7 +22825,7 @@ msgstr "인벤토리"
 #. PATH = UIHeroMenuScreenAsset/Elements/member[3]/UIHeroMenuListData/Locks/member[1]/HeroMenuItemLockEntry/Text
 msgctxt "0x000422de"
 msgid "The {CUSTOM0} is not available while you are under attack."
-msgstr "{CUSTOM0}은 공격 받는 중엔 불가합니다."
+msgstr "{CUSTOM0}는 공격받는 중에 열 수 없습니다."
 
 #. FILE = UI/Flow/Screen/GLO/GLO_HeroMenu
 #. PATH = UIHeroMenuScreenAsset/Elements/member[4]/UIHeroMenuListData/DisplayString
