@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-10-07 01:23+0000\n"
+"PO-Revision-Date: 2021-10-11 04:23+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
@@ -1129,7 +1129,7 @@ msgstr "레벨 오프셋"
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x0001330c"
 msgid "Magic"
-msgstr "마법"
+msgstr "마력"
 
 #. FILE = DA3/Combat/Stats/Stat_Magic
 #. PATH = BWModifiableStat/StatDescription
@@ -1138,7 +1138,8 @@ msgid ""
 "The character's connection to the Fade and ability to manipulate it. Each "
 "point increases Attack (mages only) and Barrier Damage Bonus."
 msgstr ""
-"해당 캐릭터의 영계와의 결속과 이를 다루는 능력입니다. 매 점수가 보호막 피해량을 증가시킵니다. 마법사의 경우 공격력 또한 증가합니다."
+"해당 캐릭터의 영계와의 결속 정도와 이를 다루는 능력의 척도입니다. 매 점수가 보호막 피해량을 증가시킵니다. 마법사의 경우 공격력 또한 "
+"증가합니다."
 
 #. FILE = DA3/Combat/Stats/Stat_Mana_Max
 #. PATH = BWModifiableStat/StatName
