@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-10-22 09:24+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2021-11-05 10:24+0000\n"
+"Last-Translator: 평범남 <aaasioa@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
 "Language: ko\n"
@@ -20932,11 +20932,11 @@ msgid ""
 "territory. It will take significant effort to bring her from Tantervale, but "
 "this arcanist would be invaluable to the Inquisition."
 msgstr ""
-"하늘보루는 룬 제작과 명품 제작 쪽으로 커다란 잠재력을 지닌 곳이다. 하지만 이러한 하늘보루의 장점을 살리기 위해서는 재능있는 전문가가 "
-"필요하다. 전쟁과 베나토리로 인해 수많은 전문가들이 사라졌지만, 실력이 뛰어난 \"비전 장인\"의 소재를 파악했다. 안드라스테 협회와 "
-"제국 협회 양측 수석 마도사들의 콧대를 <i>전부</i> 누른것으로 명성도 높다고 한다. 두 번의 암살 시도와 한 번 이상의 폭발 사건 "
-"때문에, 영지의 지주들은 그녀가 자신들의 영토를 가로지르는 것을 허가하지 않고 있다. 그녀를 탠터베일에서 데려오는 건 힘든 일이지만, 이 "
-"비전 장인은 심문회에게 귀중한 일원이 될 것이다."
+"하늘보루는 룬 제작과 명품 제작 방면에서 엄청난 잠재력을 지닌 곳이다. 그런 장점을 살리려면 재능있는 전문가가 필요하지만 말이다. 전쟁과 "
+"베나토리로 인해 숱한 전문가를 잃은 상황이지만, 뛰어난 실력을 가진 한 \"비전 장인\"의 소재가 파악됐다. 안드라스테 교단 협회와 제국 "
+"협회 양측 수석 마도사들의 콧대를 <i>전부</i> 누른 일로 명성이 높은 자라고 한다. 두 건의 암살 시도와 최소 한 번 이상의 폭발 "
+"사건 때문에, 영주들은 그녀가 자신들의 영토를 통과하는 걸 허가하지 않고 있다. 그녀를 탠터베일에서 데려오는 건 힘겨운 일이 될 테지만, "
+"이 비전 장인은 심문회에게 귀중한 인재가 될 것이다."
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/gen_region_dagna
 #. PATH = OperationEntry/TextEntry[1]
@@ -20980,8 +20980,8 @@ msgid ""
 "than a few traditional-minded mages. She awaits a meeting with the "
 "Inquisitor in the Undercroft."
 msgstr ""
-"보통의 마법사 몇 명을 데려오는 것보다 훨씬 큰 비용이 소요되었고 우려되는 부분들도 없지 않았지만, 비전장인을 무사히 데려왔다. "
-"지하실에서 심문관을 만나기 위해 기다리고 있다."
+"엄청난 비용이 소요된 데다가, 평범한 마법사 몇 명 데려다 쓰는 것보다 우려되는 점이 없잖아 있지만, 비전장인을 무사히 데려왔습니다. "
+"지하실에서 심문관님을 기다리고 있는 중입니다."
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/gen_region_dagna
 #. PATH = OperationEntry/Specialist[0]/SpecialistMissionInfo/OperationTextReference
@@ -20989,20 +20989,19 @@ msgctxt "0x0002b32b"
 msgid ""
 "Alliance can overwhelm any concern. The owners of where she will travel need "
 "only be convinced of the worth of pleasing us."
-msgstr ""
-"동맹이 있으니 걱정할 필요 없어요. 그녀가 지나칠 영지의 지주들에게, 우리의 호의를 사는 것이 얼마나 중요한지 확실히 알려주도록 하죠."
+msgstr "동맹을 만들면 만사 해결이죠. 그녀가 지나갈 지역의 영주들에게, 우리 호의를 사는 게 얼마나 중요한지 가르쳐주도록 해요."
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/gen_region_dagna
 #. PATH = OperationEntry/Specialist[1]/SpecialistMissionInfo/OperationTextReference
 msgctxt "0x0002b32a"
 msgid "To bar passage, they must know she's there. They will not."
-msgstr "다그나가 거기 있다는 걸 알아야 길도 막을 수 있겠죠. 아무도 모르게 데려오겠습니다."
+msgstr "저들이 비전장인의 통과를 막으려 들어도 소재를 모르면 소용없는 짓이죠. 눈치채지 못하게 만들겠습니다."
 
 #. EBX = DA3/designcontent/Operations/Global/SkyholdPeople/gen_region_dagna
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
 msgctxt "0x0002b329"
 msgid "A full retinue will secure her safety along the Imperial Highway."
-msgstr "수행단을 보내 제국 도로를 따라 그녀를 안전하게 데려오게 하겠습니다."
+msgstr "수행단을 파견해 제국 도로를 따라 그녀를 안전히 호위해 오겠습니다."
 
 #. EBX = DA3/designcontent/Operations/TheDales/Plains/dal_dalish_gift_op
 #. PATH = WartableEntry/TitleReference
