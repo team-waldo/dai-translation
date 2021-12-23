@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-08-23 11:23+0000\n"
+"PO-Revision-Date: 2021-12-23 08:24+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -10441,7 +10441,7 @@ msgid ""
 "magic type for a short time.\n"
 "\n"
 msgstr ""
-"에너지 포화가 적중할 때 마다 잠시 시전자의 지팡이 계열에 대한 대상의 마법 저항력을 낮춥니다.\n"
+"에너지 포화가 적중할 때마다 시전자의 지팡이 속성에 대한 대상의 저항력을 잠시 낮춥니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Staff/SeekerSwarm/party_mage_staff_seekerswarm_upgrade_abilitydata
@@ -10796,7 +10796,7 @@ msgstr "<br></br>"
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[3]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b38e"
 msgid "<font color=\"#BAAB7B\">Opening: </font>"
-msgstr "<font color=\"#BAAB7B\">개시할 때: </font>"
+msgstr "<font color=\"#BAAB7B\">개시 태세: </font>"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Barrage/saarebas_abilities_barrage_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
@@ -10804,13 +10804,13 @@ msgctxt "0x0004b3df"
 msgid ""
 "<font color=\"#F5ECCE\">{CUSTOM0} ice projectiles that chill enemies.</font>"
 "\n"
-msgstr "<font color=\"#F5ECCE\">적에게 오한을 가하는 냉기 투사체 {CUSTOM0} 개.</font>\n"
+msgstr "<font color=\"#F5ECCE\">적에게 냉기 투사체 {CUSTOM0}개를 날려 오한에 떨게 합니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Barrage/saarebas_abilities_barrage_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[5]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b38f"
 msgid "<font color=\"#BAAB7B\">Flow: </font>"
-msgstr "<font color=\"#BAAB7B\">물결칠 때: </font>"
+msgstr "<font color=\"#BAAB7B\">흐름 태세: </font>"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Barrage/saarebas_abilities_barrage_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
@@ -10819,13 +10819,13 @@ msgid ""
 "<font color=\"#F5ECCE\">{CUSTOM0} fire projectiles that leave enemies "
 "burning.</font>\n"
 msgstr ""
-"<font color=\"#F5ECCE\">적을 화상 상태로 만드는 {CUSTOM0} 개의 화염 투사체를 발사합니다.</font>\n"
+"<font color=\"#F5ECCE\">적에게 {CUSTOM0}개의 화염 투사체를 날려 화상 상태로 만듭니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Barrage/saarebas_abilities_barrage_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[7]/FloatProviderTokenizedString/StringReference
 msgctxt "0x0004b390"
 msgid "<font color=\"#BAAB7B\">Finishing: </font>"
-msgstr "<font color=\"#BAAB7B\">마무리할 때: </font>"
+msgstr "<font color=\"#BAAB7B\">마무리 태세: </font>"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Barrage/saarebas_abilities_barrage_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[8]/FloatProviderTokenizedString/StringReference
@@ -10833,7 +10833,7 @@ msgctxt "0x0004b3e1"
 msgid ""
 "<font color=\"#F5ECCE\">{CUSTOM0} lightning projectiles that shock "
 "enemies.</font>\n"
-msgstr "<font color=\"#F5ECCE\">{CUSTOM0} 개의 전격 투사체로 적을 감전시킵니다.</font>\n"
+msgstr "<font color=\"#F5ECCE\">적에게 {CUSTOM0}개의 전격 투사체를 날려 감전시킵니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Barrage/saarebas_abilities_barrage_upgrade_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -10855,7 +10855,7 @@ msgstr ""
 #. PATH = BWActivatedAbility/AbilityNameReference
 msgctxt "0x0004b3b2"
 msgid "Saar-Taar Shield"
-msgstr "사아르 타아르 방패"
+msgstr "사아르타아르 방패"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Barrier/saarebas_abilities_barrier_abilitydata
 #. PATH = BWActivatedAbility/AbilityDescriptionReference
@@ -10873,7 +10873,7 @@ msgctxt "0x0004b3b4"
 msgid ""
 "<font color=\"#F5ECCE\">You generate {CUSTOM0}% barrier for yourself.</font>"
 "\n"
-msgstr "<font color=\"#F5ECCE\">자신에게 {CUSTOM0}%를 생성합니다.</font>\n"
+msgstr "<font color=\"#F5ECCE\">자신에게 {CUSTOM0}%의 보호막을 생성합니다.</font>\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Barrier/saarebas_abilities_barrier_abilitydata
 #. PATH = BWActivatedAbility/AdditionalDescriptors/member[4]/FloatProviderTokenizedString/StringReference
@@ -10914,7 +10914,7 @@ msgstr ""
 #. PATH = BWActivatedAbility/AbilityNameReference
 msgctxt "0x0004b3cf"
 msgid "Asaara's Leap"
-msgstr "아사라의 도약"
+msgstr "아스아라의 도약"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Blink/saarebas_abilities_blink_abilitydata
 #. PATH = BWActivatedAbility/AbilityDescriptionReference
@@ -10964,7 +10964,7 @@ msgid ""
 "Using Asaara's Leap frees you from ongoing status effects.\n"
 "\n"
 msgstr ""
-"아사라의 도약을 사용하면 지속 중인 상태 효과가 제거됩니다.\n"
+"아스아라의 도약을 사용하면 적용된 상태이상이 제거됩니다.\n"
 "\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Breath/saarebas_abilities_breath_abilitydata
@@ -11027,7 +11027,7 @@ msgstr ""
 #. PATH = BWActivatedAbility/AbilityNameReference
 msgctxt "0x0004b38d"
 msgid "Itwa-Adim Explosion"
-msgstr "이트와 아딤 폭발"
+msgstr "이트와아딤 폭발"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Burst/saarebas_abilities_burst_abilitydata
 #. PATH = BWActivatedAbility/AbilityDescriptionReference
@@ -11088,7 +11088,7 @@ msgstr ""
 #. PATH = BWActivatedAbility/AbilityNameReference
 msgctxt "0x0004b39c"
 msgid "Curse of Shokasit"
-msgstr "쇼카싯의 저주"
+msgstr "쇼크아시트의 저주"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/DoT/saarebas_abilities_dot_abilitydata
 #. PATH = BWActivatedAbility/AbilityDescriptionReference
@@ -11433,7 +11433,7 @@ msgstr "<font color=\"#F5ECCE\">화염의 고리는 매초 {CUSTOM0}%만큼의 �
 #. PATH = BWAbilityUpgrade/AbilityNameReference
 msgctxt "0x0004b3db"
 msgid "Ring of the Kadan"
-msgstr "카단의 반지"
+msgstr "카단의 고리"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Abilities/Ring/saarebas_abilities_ring_upgrade_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityDescriptionReference
@@ -11611,7 +11611,7 @@ msgid ""
 "stance.\n"
 "\n"
 msgstr ""
-"마무리 자세에서 주문을 시전하는 동안 방해를 받지 않습니다.\n"
+"마무리 태세에서 주문을 시전하는 동안 방해를 받지 않습니다.\n"
 "\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Passive/Overload/saarebas_passive_overload_abilitydata
@@ -11661,7 +11661,7 @@ msgid ""
 "of that same element.\n"
 "\n"
 msgstr ""
-"지팡이의 원소 충전을 잘 이용하면 같은 원소 속성의 주문 피해를 더 증가시킬 수 있습니다.\n"
+"지팡이에 충전된 원소력을 끌어내어 지팡이 속성과 일치하는 원소 주문의 피해를 증가시킵니다.\n"
 "\n"
 
 #. FILE = DA3_DLC_Blue/Party/MP/Kits/Saarebas/Passive/Stats/saarebas_passive_stats_abilitydata
