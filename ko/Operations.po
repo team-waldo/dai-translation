@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2021-12-04 15:24+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-12-25 20:24+0000\n"
+"Last-Translator: 평범남 <aaasioa@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
 "Language: ko\n"
@@ -98,8 +98,8 @@ msgid ""
 "are quite wealthy, but if it is to grow, it will need access to coin of its "
 "own."
 msgstr ""
-"현재 하늘보루는 무역의 중심지는 아니지만, 언젠가는 그렇게 될 것이다. 심문회 재정은 주로 신실한 후원자들이 주도하고 있으며, 그들의 "
-"일부는 꽤 부유하지만, 심문회가 더욱 성장하기 위해서는 심문회 내에서 자체적으로 자금을 운용해야 한다."
+"하늘보루는 무역 중심지가 아니지만, 언젠가는 그렇게 될 것이다. 심문회 재정은 신실한 후원자들이 큰 축을 맡고 있는데, 그들 중 일부가 "
+"꽤 부유하긴 하지만, 심문회가 더욱 성장하려면 자체적으로 자금을 마련할 방법이 필요하다."
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_skyhold_op
 #. PATH = OperationEntry/TextEntry[1]
@@ -107,7 +107,7 @@ msgctxt "0x000404b7"
 msgid ""
 "Our efforts have proven successful, Inquisitor. I've taken a portion for our "
 "coffers, but the remainder may be used as you require."
-msgstr "우리의 노력이 성공을 거뒀습니다, 심문관님. 일부 금액을 금고에 넣어 두었습니다. 나머지는 필요에 따라 사용하시면 됩니다."
+msgstr "수고를 들인 보람이 있었습니다, 심문관님. 일정 금액은 금고로 보냈지만, 나머지는 예하께서 필요한 곳에 쓰시면 됩니다."
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_skyhold_op
 #. PATH = OperationEntry/TextEntry[2]
@@ -160,7 +160,7 @@ msgctxt "0x000404b6"
 msgid ""
 "My family has earned coin as honest traders for generations. I would be "
 "happy to employ my skills on the Inquisition's behalf."
-msgstr "저희 가문은 대대로 정직한 무역을 통해 재산을 모았어요. 심문회를 위해 제 기술을 쓸 수 있다면 기쁠 거예요."
+msgstr "저희 가문은 대대로 정직한 무역을 통해 재산을 모았죠. 심문회를 위해 제 재주를 기꺼이 발휘해 보겠습니다."
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_skyhold_op
 #. PATH = OperationEntry/Specialist[1]/SpecialistMissionInfo/OperationTextReference
@@ -168,7 +168,7 @@ msgctxt "0x000404b5"
 msgid ""
 "We have information many would pay dearly for. Let us sell anything that "
 "does not harm us in return."
-msgstr "우리에겐 많은 이들이 엄청난 대가를 지불할 정보가 있어요. 우리에게 해가 되지 않는 정보를 팔아넘기죠."
+msgstr "우리에겐 많은 이들이 비싼 값을 내더라도 얻으려 할 정보가 있어요. 우리에게 역풍이 불지 않을 만한 정보를 팔아넘기죠."
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_skyhold_op
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
@@ -176,9 +176,7 @@ msgctxt "0x000404ba"
 msgid ""
 "There are many wealthy patrons who would pay for our protection and even our "
 "good graces. Let them."
-msgstr ""
-"우리에겐 부유한 후원자가 많이 있습니다. 우리 병력의 보호를 위해서, 심지어는 우리와의 좋은 관계만을 위해서라도 비용을 댈 겁니다. "
-"그러도록 두죠."
+msgstr "우리의 보호와, 심지어는 환심 같은 걸 얻으려고 자금을 대줄 부유한 후원자들이 잔뜩 있습니다. 그들에게 맡기죠."
 
 #. EBX = DA3/DesignContent/Operations/Global/Ben-Hassrath/bh_knives_3
 #. PATH = WartableEntry/TitleReference
@@ -5856,9 +5854,9 @@ msgid ""
 "possible to cast because the Breach has thinned the Veil. Alexius can look "
 "into applications of the theory for safer use."
 msgstr ""
-"알렉시우스는 심문회의 마법 연구원으로 일하고 있다. 그가 레드클리프에서 사용한 주문은 굉장히 복잡한 것이었다. 그는 주문 실행을 가능케 "
-"했던 이론에 대해 전부 이해하지는 못했지만, 그 마법의 실행이 가능했던 건 균열로 인해 장막이 얇아졌기 때문이라는 사실을 인정했다. 이 "
-"주문을 더 안전하게 사용하기 위해 알렉시우스에게 주문 이론의 응용에 대해 조사하도록 할 수 있다."
+"알렉시우스는 심문회의 마법 연구원으로 일하게 됐다. 그가 레드클리프에서 쓴 주문은 믿기 힘들 만큼 복잡한 것이었다. 정작 주문을 쓴 "
+"본인은 주문의 바탕이 된 이론을 전부 이해하고 있진 않았지만, 주문의 실행이 가능했던 원인이 그저 대균열로 인해 장막이 얇아졌기 "
+"때문이라는 사실은 털어놨다. 알렉시우스라면 이 이론을 보다 안전하게 응용할 방법을 알아낼 수 있을 것이다."
 
 #. EBX = DA3/DesignContent/Operations/Global/Judgments/Ops_judgment_Alexius
 #. PATH = OperationEntry/TextEntry[1]
@@ -5874,8 +5872,8 @@ msgid ""
 msgstr ""
 "심문관,\n"
 "\n"
-"내 연구 결과는 다음과 같소. 만족스러우실 거라 믿소. 첩보대장이 당신이 결과에 만족해한다면 족쇄 없이 돌아다닐 수 있게 해 주겠다고 "
-"했지만, 날 위해 거짓으로 칭찬을 늘어놓지는 말기를.\n"
+"내 연구 성과를 전하오. 만족스러울 거라 믿소. 당신 첩보대장이 당신을 만족시키면 족쇄 없이 다니게 해 주겠다고 얘기했지만, 날 위해 "
+"억지로 거짓 칭찬을 늘어놓진 마시오.\n"
 "\n"
 "게리온 알렉시우스"
 
@@ -5885,7 +5883,7 @@ msgctxt "0x00040c50"
 msgid ""
 "Alexius has been given all the books and equipment he requires. Let us see "
 "if he will prove useful."
-msgstr "알렉시우스가 요청한 서적과 장비를 모두 지급했습니다. 본인의 유용함을 증명해 보일 수 있을지 지켜보도록 하지요."
+msgstr "알렉시우스가 요청한 서적과 장비를 모두 지급했습니다. 본인이 쓸모있단 걸 증명해 보일지 지켜보도록 하죠."
 
 #. EBX = DA3/designcontent/Operations/WorldUnlocks/wld_region_hinterlands
 #. PATH = WartableEntry/TitleReference
@@ -28544,8 +28542,8 @@ msgid ""
 msgstr ""
 "피오나,\n"
 "\n"
-"가능한 모든 마법사들에게 말을 전하긴 했는데, 어떤 조직은 너무 멀어서 접근이 어렵네요. 심문회가 나서서 그들과 접촉해줘야 할 것 "
-"같아요... 최소한 성기사들이 사라졌다는 건 알려줘야 하잖아요. <i>진짜</i> 사라진 거 맞죠? 그쵸?\n"
+"최대한 모든 마법사들에게 소식을 전하긴 했는데, 일부 조직은 너무 먼 데 있어 연락하기 어렵더군요. 심문회가 직접 그들과 접촉해야 할 것 "
+"같아요... 적어도 성기사들이 사라졌단 건 알려줘야 하잖아요. 사라진 거 <i>맞죠</i>? 네?\n"
 "\n"
 "스케치"
 
@@ -28562,9 +28560,9 @@ msgid ""
 msgstr ""
 "사령관님,\n"
 "\n"
-"지금 막 많은 수의 마법사들이 모습을 드러냈습니다. 우호적인 자들이길 바랍니다. 그렇지 않으면 문제가 커지니까요.\n"
+"방금 수많은 마법사들이 당도했습니다. 우호적인 자들이면 좋겠군요. 그렇지 않으면 문제가 될 테니까요.\n"
 "\n"
-"지휘관 라일렌"
+"라일렌 부대장"
 
 #. EBX = DA3/DesignContent/Operations/Global/CritPathReactivity/Redcliffe/gen_ops_red_mage_allies_1
 #. PATH = OperationEntry/Specialist[0]/SpecialistMissionInfo/OperationTextReference
@@ -28573,7 +28571,7 @@ msgid ""
 "Rebel mages may not believe we aren't templars. I can ask the Bannorn for "
 "help contacting them."
 msgstr ""
-"반역파 마법사들은 우리가 성기사가 아니라는 걸 믿지 못할 수도 있어요. 남작령에 요청해서 대신 저들과 접촉해 달라고 부탁해 보겠습니다."
+"반역파 마법사들이 우리가 성기사가 아니란 걸 믿어주지 않을 수도 있어요. 우리 대신 저들과 접촉해 달라고 남작령에 부탁해 볼게요."
 
 #. EBX = DA3/DesignContent/Operations/Global/CritPathReactivity/Redcliffe/gen_ops_red_mage_allies_1
 #. PATH = OperationEntry/Specialist[1]/SpecialistMissionInfo/OperationTextReference
@@ -28581,7 +28579,7 @@ msgctxt "0x0003fe2e"
 msgid ""
 "I can send a few agents with a mage from Redcliffe to persuade these cells "
 "to come in."
-msgstr "레드클리프의 마법사와 제 요원을 함께 보내 저들 조직을 설득시켜 보겠습니다."
+msgstr "요원 몇 명을 레드클리프의 마법사와 함께 보내 그 조직들을 회유해 보겠습니다."
 
 #. EBX = DA3/DesignContent/Operations/Global/CritPathReactivity/Redcliffe/gen_ops_red_mage_allies_1
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
@@ -28589,9 +28587,7 @@ msgctxt "0x0003fe2c"
 msgid ""
 "They're likely afraid to come out of hiding. I can send a few non-templar "
 "soldiers to protect the mages on their way here."
-msgstr ""
-"마법사들은 모습을 드러내기를 두려워하고 있습니다. 그들이 이곳에 오는 걸 보호할 수 있도록 성기사가 아닌 우리 병사들을 몇 명 보내도록 "
-"하죠."
+msgstr "모습을 드러내는 게 두려울 테죠. 성기사가 아닌 병사들로 몇 명 추려 보내 이리로 오는 마법사들을 보호하겠습니다."
 
 #. EBX = DA3/designcontent/Operations/Global/Crafting/gen_gold_skyhold_tithe_op
 #. PATH = WartableEntry/TitleReference
@@ -29623,7 +29619,7 @@ msgid ""
 "<i>A scribble of heraldic symbols and directions are below. Also Sera's name "
 "thirty-seven times.</i>"
 msgstr ""
-"도대체 무슨 말인지 전혀 모르겠군요. 세라를 데려온 건 전령이니 {shehe}라면 조언해 줄 수 있을 것 같군요.\n"
+"도대체 무슨 말인지 전혀 모르겠습니다. 세라를 데려온 건 전령이니 {shehe}라면 조언해 줄 수 있을 것 같군요.\n"
 "\n"
 "컬렌\n"
 "\n"
@@ -29638,7 +29634,7 @@ msgstr ""
 "\n"
 "세라\n"
 "\n"
-"<i>아래쪽에 가문의 문장 그림과 방향을 안내하는 낙서가 그려져 있고 세라의 이름도 37번이나 적혔다.</i>"
+"<i>아래쪽에 가문의 문장 그림과 방향을 안내하는 낙서가 그려져 있고 세라의 이름도 37번이나 적혀있다.</i>"
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Sera/ops_sera_red_jenny_01
 #. PATH = OperationEntry/TextEntry[1]
