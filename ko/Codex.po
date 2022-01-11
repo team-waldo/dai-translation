@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2022-01-09 12:57+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2022-01-11 08:57+0000\n"
+"Last-Translator: 평범남 <aaasioa@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/codex/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -20571,15 +20571,14 @@ msgstr "새끼용 둥지"
 
 #. EBX = DA3/designcontent/Codex/Plot/Hinterlands/cod_pop_dragonling_lair
 #. PATH = CodexEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x000422ff"
 msgid ""
 "{i}The dragonlings' nest is marked with patches of blackened stone, bones, "
 "and a few very charred picks that were evidently used as makeshift weapons, "
 "although not well.{/i}"
 msgstr ""
-"{i}검게 탄 돌과 뼈, 그리고 임시변통 무기로 사용된 듯한 새까맣게 탄 나뭇가지들이 새끼용 둥지에 흔적으로 남았다. 그 무기들은 그다지 "
-"도움이 되지는 않았던 것 같다.{/i}"
+"{i}그을린 돌과 뼈가 새끼용 둥지에 흔적으로 남아 있다. 임시변통 무기로 쓰인 듯한 숯덩이가 된 곡괭이들도 있는데, 그다지 도움 되진 "
+"않았던 모양이다.{/i}"
 
 #. EBX = DA3/designcontent/Codex/Plot/Crestwood/fer010_landmark_h
 #. PATH = CodexEntry/TitleReference
@@ -27104,7 +27103,7 @@ msgstr ""
 #. PATH = CodexEntry/TitleReference
 msgctxt "0x00042f61"
 msgid "Construction Report: Brickmarks"
-msgstr "건축 보고서: 벽돌에 남은 흔적"
+msgstr "건축 보고서: 벽돌 표식"
 
 #. EBX = DA3/designcontent/Codex/Plot/Skyhold/cod_sky_construction_notes_04
 #. PATH = CodexEntry/TextEntry[0]
@@ -27124,15 +27123,15 @@ msgid ""
 "\n"
 "Commander Cullen"
 msgstr ""
-"하늘보루에 있는 벽돌은 다른 곳에서 훔쳐 온 겁니다. 선조님의 기록에서 보았던 표식이 하늘보루의 벽돌에도 있더군요. 그분은 하이에버에서 "
-"일하다 4:80년에 그곳이 털리면서 해고당했죠. 그건 올레이의 것이었지만, 이곳의 건축 스타일은 올레이식이 아닙니다. 그러니까 아마 "
-"어디서 약탈해 온 거겠죠. 다른 것도 있을 겁니다. 오래전의 일이지만, 심문관님도 이것들이 어디서 왔는지는 아셔야 할 것 같네요.\n"
+"하늘보루에 도둑맞은 벽돌이 있습니다. 선조님의 기록에서 본 표식이 새겨져 있더군요. 4:80년 하이에버가 털리기 전에 거기서 구워진 "
+"물건이죠. 약탈자는 올레이였는데, 이곳 벽돌이 올레이 양식이 아닌 걸 감안하면, 그때 약탈된 것일 터입니다. 찾아보면 이런 게 더 나올 "
+"겁니다. 무척 오래전 일이지만, 심문관님도 이것들이 어디 물건인지는 알아둬야 할 듯싶군요.\n"
 "\n"
-"석공 가논 올림\n"
+"석공 가논\n"
 "\n"
 "\n"
-"대의를 위해서라면 작은 것들을 희생해야 합니다. 이곳이 심문회의 주둔지가 되면, 과거의 잘못들은 금세 가려질 것입니다. 하지만 하이에버에 "
-"전령을 보내 역사를 수정하게 할 수는 있습니다.\n"
+"우리의 대의는 과보다 공을 우선해야 한다. 일단 이곳이 심문회의 터전이 되면, 과거의 잘못은 금세 퇴색될 것이다. 그래도 하이에버에 "
+"전갈을 보내 이에 대한 역사를 개정할 수 있도록 하겠다.\n"
 "\n"
 "사령관 컬렌"
 
@@ -29035,15 +29034,14 @@ msgstr "물품 목록"
 
 #. EBX = DA3/designcontent/Codex/Plot/Hinterlands/cod_pop_supply_list
 #. PATH = CodexEntry/TextEntry[0]
-#, fuzzy
 msgctxt "0x00042361"
 msgid ""
 "{i}A list of supplies for a great deal of lumber, along with rope, pulleys, "
 "tar, nails, and waterproofing oils. It appears to be a list of items needed "
 "to construct a dock.{/i}"
 msgstr ""
-"{i}건축 자재 목록이다. 아주 많은 양의 목재에 더불어 밧줄, 도르래, 타르, 못, 방수용 기름 등이 기재되어 있다. 부두 건설에 "
-"필요한 것들을 나열해 둔 것 같다.{/i}"
+"{i}상당한 목재량과 함께 밧줄, 도르래, 타르, 못, 방수용 기름 등의 자재가 기재된 목록이다. 선창 건설에 필요한 재료 목록인 것 "
+"같다.{/i}"
 
 #. EBX = DA3/designcontent/Codex/Plot/WesternApproach/cod_lor_phylactery_cache
 #. PATH = CodexEntry/TitleReference

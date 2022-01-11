@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2022-01-09 12:57+0000\n"
+"PO-Revision-Date: 2022-01-11 08:57+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
@@ -4393,7 +4393,7 @@ msgstr "용병"
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x000392d4"
 msgid "Mercenary Guardsman"
-msgstr "용병 위병"
+msgstr "용병 방패병"
 
 #. FILE = DA3/Creatures/Faction/Biotic/Human/creature_mercenary_spellbinder
 #. PATH = CreatureEntityData/CharacterNameReference
@@ -11402,7 +11402,7 @@ msgstr "노상강도 대장"
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x00040e09"
 msgid "Highwayman Guardsman"
-msgstr "노상강도 주병"
+msgstr "노상강도 방패병"
 
 #. FILE = DA3/designcontent/CreatureProfiles/Ferelden/fer010_lieutenant_bandit_creatureprofile
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -15161,7 +15161,7 @@ msgstr "하콘 추종자 보병"
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x000466f2"
 msgid "Hakkonite Guardsman"
-msgstr "하콘 추종자 위병"
+msgstr "하콘 추종자 방패병"
 
 #. FILE = DA3_DLC1/Creatures/Faction/Biotic/Human/creature_dlc1_hakkon_prowler
 #. PATH = CreatureEntityData/CharacterNameReference

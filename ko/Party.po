@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2022-01-04 11:57+0000\n"
+"PO-Revision-Date: 2022-01-11 08:57+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -864,7 +864,7 @@ msgctxt "0x0004b258"
 msgid ""
 "The wearer of this belt gains a small boost to attack speed when below 50% "
 "health."
-msgstr "이 허리띠를 착용한 사람은 체력이 50% 미만일 때 공격 속도가 약간 증가합니다."
+msgstr "이 허리띠를 착용한 캐릭터는 체력이 50% 미만일 때 공격 속도가 약간 증가합니다."
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_attackspeed_lowhp_t2_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -872,7 +872,7 @@ msgctxt "0x0004b25a"
 msgid ""
 "The wearer of this belt gains a moderate boost to attack speed when below "
 "50% health."
-msgstr "이 허리띠를 착용한 사람은 체력이 50% 미만일 때 공격 속도가 상당히 증가합니다."
+msgstr "이 허리띠를 착용한 캐릭터는 체력이 50% 미만일 때 공격 속도가 상당히 증가합니다."
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_attackspeed_lowhp_t3_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -880,7 +880,7 @@ msgctxt "0x0004b25c"
 msgid ""
 "The wearer of this belt gains a large boost to attack speed when below 50% "
 "health."
-msgstr "이 허리띠를 착용한 사람은 체력이 50% 미만일 때 공격 속도가 크게 증가합니다."
+msgstr "이 허리띠를 착용한 캐릭터는 체력이 50% 미만일 때 공격 속도가 크게 증가합니다."
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_berserker_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -1221,20 +1221,20 @@ msgstr "집중도 획득량 +30%"
 #. PATH = BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b233"
 msgid "The wearer of this amulet receives a small amount of barrier when hit."
-msgstr "이 목걸이를 착용한 사람은 공격할 때 소량의 보호막을 얻습니다."
+msgstr "이 목걸이를 착용한 캐릭터는 공격받을 때마다 소량의 보호막을 얻습니다."
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_genbarrier_t2_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b235"
 msgid ""
 "The wearer of this amulet receives a moderate amount of barrier when hit."
-msgstr "이 목걸이를 착용한 사람은 공격할 때 보호막을 얻습니다."
+msgstr "이 목걸이를 착용한 캐릭터는 공격받을 때마다 보호막을 얻습니다."
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_genbarrier_t3_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
 msgctxt "0x0004b237"
 msgid "The wearer of this amulet receives a large amount of barrier when hit."
-msgstr "이 목걸이를 착용한 사람은 공격할 때 대량의 보호막을 얻습니다."
+msgstr "이 목걸이를 착용한 캐릭터는 공격받을 때마다 대량의 보호막을 얻습니다."
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_genthreat_t1_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -2973,8 +2973,7 @@ msgctxt "0x00043152"
 msgid ""
 "Any enemy that hits the user has a <font color=\"#F5ECCE\">{CUSTOM0}%</font> "
 "chance to be stunned."
-msgstr ""
-"적이 시전자를 가격할 경우 <font color=\"#F5ECCE\">{CUSTOM0}%</font> 의 확률로 적이 기절합니다."
+msgstr "적이 시전자를 가격할 경우 <font color=\"#F5ECCE\">{CUSTOM0}%</font>의 확률로 적이 기절합니다."
 
 #. FILE = DA3/Party/General/Potions/SpiritResistance/party_general_potion_spiritresistance_abilitydata
 #. PATH = BWActivatedAbility/AbilityNameReference
