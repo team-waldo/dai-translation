@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2022-01-11 08:57+0000\n"
+"PO-Revision-Date: 2022-01-14 12:57+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
@@ -10483,7 +10483,7 @@ msgstr "화염 룬"
 #. PATH = Recipe/Description
 msgctxt "0x000447fc"
 msgid "Adds fire damage to each weapon strike."
-msgstr "각각의 무기 공격에 화염 피해를 더한다."
+msgstr "각각의 무기 공격에 화염 피해를 더합니다."
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Runes/recipe_rune_fire_2
 #. PATH = Recipe/DisplayName
@@ -10507,7 +10507,7 @@ msgstr "서리 룬"
 #. PATH = Recipe/Description
 msgctxt "0x000447fa"
 msgid "Adds cold damage to each weapon strike."
-msgstr "각각의 무기 공격에 냉기 피해를 더한다."
+msgstr "각각의 무기 공격에 냉기 피해를 더합니다."
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Runes/recipe_rune_frost_2
 #. PATH = Recipe/DisplayName
@@ -10531,7 +10531,7 @@ msgstr "번개 룬"
 #. PATH = Recipe/Description
 msgctxt "0x000447fe"
 msgid "Adds electricity damage to each weapon strike."
-msgstr "각각의 무기 공격에 전격 피해를 더한다."
+msgstr "각각의 무기 공격에 전격 피해를 더합니다."
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Runes/recipe_rune_lightning_2
 #. PATH = Recipe/DisplayName
@@ -10655,7 +10655,7 @@ msgstr "영혼 룬"
 #. PATH = Recipe/Description
 msgctxt "0x000447ff"
 msgid "Adds spirit damage to each weapon strike."
-msgstr "각각의 무기 공격에 영혼 피해를 더한다."
+msgstr "각각의 무기 공격에 영혼 피해를 더합니다."
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Runes/recipe_staff_rune_spirit_2
 #. PATH = Recipe/DisplayName
@@ -12437,7 +12437,7 @@ msgctxt "0x00041b6c"
 msgid ""
 "This amulet grants an ability point to whoever equips it. After it's used, "
 "the amulet shatters."
-msgstr "이 부적은 착용자에게 능력 점수 1점을 부여한다. 한번 사용된 부적은 파괴된다."
+msgstr "이 목걸이는 착용자에게 능력 점수 1점을 부여합니다. 한번 사용하면 목걸이는 파괴됩니다."
 
 #. FILE = DA3/Equipment/Items/Accessories/Amulets/equip_acc_amulet_constitution_1
 #. PATH = EquipItemAsset/DisplayName
@@ -15924,7 +15924,7 @@ msgctxt "0x00043449"
 msgid ""
 "Coats weapons with deadly poison. Each hit does damage over time to the "
 "target."
-msgstr "무기에 치명적인 독을 바릅니다.. 공격이 적중할 때마다 대상에게 지속 피해를 줍니다."
+msgstr "무기에 치명적인 독을 바릅니다. 공격이 적중할 때마다 대상에게 지속 피해를 줍니다."
 
 #. FILE = DA3/Equipment/Items/Potions/item_unlock_potion_elfroot
 #. PATH = StackedItemAsset/DisplayName
