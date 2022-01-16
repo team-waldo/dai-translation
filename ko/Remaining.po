@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2022-01-13 08:57+0000\n"
+"PO-Revision-Date: 2022-01-16 02:57+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
@@ -18529,10 +18529,9 @@ msgstr "멀티플레이어"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[44]/DescriptionReference
-#, fuzzy
 msgctxt "0x00041f53"
 msgid "All journals related to multiplayer quests."
-msgstr "모든 저널은 멀티플레이어 퀘스트와 연관되어 있다."
+msgstr "멀티플레이어 퀘스트와 연관된 일지입니다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[45]/TitleReference
