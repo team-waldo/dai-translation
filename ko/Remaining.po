@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2022-01-16 02:57+0000\n"
+"PO-Revision-Date: 2022-01-18 07:57+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
@@ -1157,7 +1157,7 @@ msgstr "죽음의 표식"
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x00038921"
 msgid "Meditation Duration Modifier"
-msgstr "명상 지속 시간 조절"
+msgstr "명상 지속시간 조절"
 
 #. FILE = DA3/Combat/Stats/Stat_Meditation_Duration_Modifier
 #. PATH = BWModifiableStat/StatDescription
@@ -1165,7 +1165,7 @@ msgctxt "0x00038924"
 msgid ""
 "The increase, in seconds, for the duration of Meditation when a mage "
 "activates it."
-msgstr "마법사가 명상을 사용했을 때의 지속 시간 연장을 조절합니다."
+msgstr "마법사가 명상을 사용했을 때의 지속시간 연장을 조절합니다."
 
 #. FILE = DA3/Combat/Stats/Stat_Mount_Power
 #. PATH = BWModifiableStat/StatName
@@ -2356,7 +2356,7 @@ msgid ""
 "<font color=\"#BAAB7B\">Cost: </font><font color=\"#F5ECCE\">{CUSTOM0} "
 "stamina per attack while active</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">소모값: </font><font color=\"#F5ECCE\">활성화된 동안 공격 "
+"<font color=\"#BAAB7B\">자원 소모: </font><font color=\"#F5ECCE\">활성화된 동안 공격 "
 "당{CUSTOM0}의 기력</font>\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Actives/Warrior/Avvar/ElementalWhirlwind/MP_avvar_elemental_whirlwind_ring_upgrade_abilitydata
@@ -2415,7 +2415,7 @@ msgid ""
 "<font color=\"#BAAB7B\">Duration Increased By: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds per enemy hit</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">지속 시간 늘어남: </font><font color=\"#F5ECCE\">{CUSTOM0} "
+"<font color=\"#BAAB7B\">지속시간 늘어남: </font><font color=\"#F5ECCE\">{CUSTOM0} "
 "초, 매 타수마다</font>\n"
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Actives/Warrior/Avvar/LightningRing/MP_avvar_lightningring_ring_upgrade_abilitydata

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2022-01-11 08:57+0000\n"
+"PO-Revision-Date: 2022-01-18 07:57+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -27,7 +27,7 @@ msgid ""
 "remains undetected for the duration of the effect, even while attacking.\n"
 "\n"
 msgstr ""
-"동료를 이끌고 은신합니다. 효과 지속 시간 동안 일행이 발각되지 않고 공격해도 은신이 풀리지 않습니다.\n"
+"동료를 이끌고 은신합니다. 효과 지속시간 동안 일행이 발각되지 않고 공격해도 은신이 풀리지 않습니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Archived/Rogue/General/PartyStealth/party_rogue_general_partystealth_abilitydata
@@ -1532,7 +1532,7 @@ msgctxt "0x0004aced"
 msgid ""
 "Permaflame: all nearby enemies are constantly burning; grants 50% bonus "
 "resistance to fire and 50% bonus fire damage"
-msgstr "영구 연소: 주변의 적이 지속적으로 불타오릅니다. 화염 저항력이 50% 증가하고 화염 공격력이 50% 증가합니다"
+msgstr "영구 연소: 주변의 적이 지속적으로 불타오릅니다. 화염 저항력이 50% 증가하고 화염 공격력이 50% 증가합니다."
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_permafrost_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -1540,7 +1540,7 @@ msgctxt "0x0004acc4"
 msgid ""
 "Permafrost: all nearby enemies are constantly chilled; grants 50% bonus "
 "resistance to cold and physical damage"
-msgstr "영구 빙결: 주변의 적이 지속적으로 오한 상태가 됩니다. 냉기 및 물리 저항력 50% 증가"
+msgstr "영구 빙결: 주변의 적이 지속적으로 오한 상태가 됩니다. 냉기 및 물리 저항력이 50% 증가합니다."
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_permashock_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -1548,7 +1548,7 @@ msgctxt "0x0004acee"
 msgid ""
 "Permashock: all nearby enemies are constantly shocked; grants 50% bonus "
 "resistance to electricity and 50% attack speed"
-msgstr "영구 감전: 주변의 적이 지속적으로 감전됩니다. 전격 저항력이 50% 증가하고 공격 속도가 50% 증가합니다"
+msgstr "영구 감전: 주변의 적이 지속적으로 감전됩니다. 전격 저항력이 50% 증가하고 공격 속도가 50% 증가합니다."
 
 #. FILE = DA3/Party/General/Passive/unique_item_passive_poison_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -2680,7 +2680,7 @@ msgctxt "0x00043143"
 msgid ""
 "Increase the swarm's attack duration by <font color=\"#F5ECCE\">{CUSTOM0}</"
 "font> seconds"
-msgstr "휩싸임 지속 시간을 <font color=\"#F5ECCE\">{CUSTOM0}</font>초만큼 증가시킵니다"
+msgstr "휩싸임 지속시간을 <font color=\"#F5ECCE\">{CUSTOM0}</font>초만큼 증가시킵니다"
 
 #. FILE = DA3/Party/General/Potions/InsectSwarm/party_general_potion_insectswarm_upgrade2b_abilitydata
 #. PATH = BWAbilityUpgrade/AbilityNameReference
@@ -3074,7 +3074,7 @@ msgid ""
 "<font color=\"#BAAB7B\">Fear Duration: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} seconds</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">공포 지속 시간: </font><font color=\"#F5ECCE\""
+"<font color=\"#BAAB7B\">공포 지속시간: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0}초</font>\n"
 
 #. FILE = DA3/Party/Mage/FireIce/WallOfFire/party_mage_fireice_walloffire_upgrade_abilitydata
@@ -3708,7 +3708,7 @@ msgid ""
 "closest enemy back with you.\n"
 "\n"
 msgstr ""
-"지속 시간이 길어져 더 오래 싸울 수 있고, 등불로 돌아갈 때 가장 가까이 있는 적을 함께 데려갑니다.\n"
+"지속시간이 길어져 더 오래 싸울 수 있고, 등불로 돌아갈 때 가장 가까이 있는 적을 함께 데려갑니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Rogue/Assassin/PathOfShadows/party_rogue_assassin_pathofshadows_upgrade2_abilitydata
@@ -5056,7 +5056,7 @@ msgctxt "0x00042609"
 msgid ""
 "The effects of your elixirs last longer if you activate one immediately "
 "after another expires.\n"
-msgstr "영약의 효과가 끝난 직후 다른 영약을 이어 사용하면, 그 영약의 지속 시간이 늘어납니다.\n"
+msgstr "영약의 효과가 끝난 직후 다른 영약을 이어 사용하면, 그 영약의 지속시간이 늘어납니다.\n"
 
 #. FILE = DA3/Party/Rogue/Passives/HighGround/party_rogue_passive_highground_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -5472,7 +5472,7 @@ msgid ""
 "electricity damage when it ends.\n"
 "\n"
 msgstr ""
-"농축된 번개 비약의 효과로 주변의 시간이 멈춘 듯이 느껴집니다. 지속 시간 동안 피해를 받은 적은 효과가 끝날 때 추가 전격 피해를 "
+"농축된 번개 비약의 효과로 주변의 시간이 멈춘 듯이 느껴집니다. 지속시간 동안 피해를 받은 적은 효과가 끝날 때 추가 전격 피해를 "
 "받습니다.\n"
 "\n"
 
@@ -7210,7 +7210,7 @@ msgid ""
 "Your attacks are harder and faster, and you gain health with each strike.\n"
 "\n"
 msgstr ""
-"지속 시간 동안 멈출 수 없는 맹렬한 무력의 화신이 됩니다. 매 공격이 더 빠르고 강해지며, 적을 공격할 때마다 체력을 회복합니다.\n"
+"지속시간 동안 멈출 수 없는 맹렬한 무력의 화신이 됩니다. 매 공격이 더 빠르고 강해지며, 적을 공격할 때마다 체력을 회복합니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Warrior/TwoHanded/Ammo/party_warrior_twohanded_ammo_ability
@@ -7621,7 +7621,7 @@ msgid ""
 "Striking a killing blow with Livid active resets its duration.\n"
 "\n"
 msgstr ""
-"격분 중에 적을 처치하면 지속 시간이 초기화됩니다.\n"
+"격분 중에 적을 처치하면 지속시간이 초기화됩니다.\n"
 "\n"
 
 #. FILE = DA3/Party/Warrior/Vanguard/ArmyRoll/Upgrade1/party_warrior_vanguard_armyroll_upgrade1_abilitydata
@@ -8088,7 +8088,7 @@ msgid ""
 "fight on your behalf.\n"
 "\n"
 msgstr ""
-"대상에게 공격적인 영혼의 징표를 남겨 지속 피해를 줍니다. 낙인 지속 시간 중에 대상이 죽으면 영혼이 죽은 이의 몸을 빼앗아 짧은 시간 "
+"대상에게 공격적인 영혼의 징표를 남겨 지속 피해를 줍니다. 낙인 지속시간 중에 대상이 죽으면 영혼이 죽은 이의 몸을 빼앗아 짧은 시간 "
 "동안 당신을 위해 싸웁니다.\n"
 "\n"
 
@@ -8764,7 +8764,7 @@ msgid ""
 "chilling or freezing targets.\n"
 "\n"
 msgstr ""
-"냉기를 부리는 데에 통달했습니다. 오한과 빙결 효과의 지속 시간이 향상됩니다.\n"
+"냉기를 부리는 데에 통달했습니다. 오한과 빙결 효과의 지속시간이 향상됩니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Passives/DisciplineMastery/party_mage_passive_disciplinemastery_abilitydata
@@ -9330,7 +9330,7 @@ msgid ""
 "<font color=\"#BAAB7B\">Cost Reduction: </font><font color=\"#F5ECCE\""
 ">{CUSTOM0} mana</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">소모값 감소량: </font><font color=\"#F5ECCE\">{CUSTOM0} "
+"<font color=\"#BAAB7B\">자원 소모 감소량: </font><font color=\"#F5ECCE\">{CUSTOM0} "
 "마나</font>\n"
 
 #. FILE = DA3/Party/mage/Staff/AblativeArmor/party_mage_staff_ablativearmor_ring_upgrade_abilitydata
@@ -9626,7 +9626,7 @@ msgid ""
 "<font color=\"#BAAB7B\">Cost: </font><font color=\"#F5ECCE\">{CUSTOM0} "
 "stamina</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">소모값: </font><font color=\"#F5ECCE\">{CUSTOM0} "
+"<font color=\"#BAAB7B\">자원 소모: </font><font color=\"#F5ECCE\">{CUSTOM0} "
 "기력</font>\n"
 
 #. FILE = DA3/Party/mage/Staff/BurstLightning/party_mage_staff_lightningrod_abilitydata
@@ -9734,8 +9734,8 @@ msgid ""
 "<font color=\"#BAAB7B\">Ice Damage: </font><font color=\"#F5ECCE\">{CUSTOM0}"
 "% weapon damage per second</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">냉기 피해량: </font><font color=\"#F5ECCE\">초당 무기 "
-"피해량의{CUSTOM0}%</font>\n"
+"<font color=\"#BAAB7B\">냉기 피해량: </font><font color=\"#F5ECCE\">초당 무기 피해량의 "
+"{CUSTOM0}%</font>\n"
 
 #. FILE = DA3/Party/mage/Staff/ChargedBurstIce/party_mage_staff_chargedburst_ice_abilitydata
 #. PATH = BWAoEAbility/AdditionalDescriptors/member[6]/FloatProviderTokenizedString/StringReference
@@ -9744,7 +9744,7 @@ msgid ""
 "<font color=\"#BAAB7B\">Cost: </font><font color=\"#F5ECCE\">{CUSTOM0} mana "
 "per second</font>\n"
 msgstr ""
-"<font color=\"#BAAB7B\">소모값: </font><font color=\"#F5ECCE\">초당 {CUSTOM0}의 "
+"<font color=\"#BAAB7B\">자원 소모: </font><font color=\"#F5ECCE\">초당 {CUSTOM0}의 "
 "마나</font>\n"
 
 #. FILE = DA3/Party/mage/Staff/ChargedBurstIce/party_mage_staff_chargedburst_ice_upgrade2_abilitydata
