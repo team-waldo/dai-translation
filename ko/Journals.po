@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2022-01-13 08:57+0000\n"
+"PO-Revision-Date: 2022-01-21 03:57+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
@@ -1598,13 +1598,13 @@ msgstr "프루 장군과 대화하자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0004038d"
 msgid "Rifts near the Cove"
-msgstr "산그늘 인근의 균열"
+msgstr "산골짜기 길 인근의 균열"
 
 #. EBX = DA3/DesignContent/Journals/ThematicLevels/DesertRuins/the_DesertRuins_Faderifts_Cove
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x0004038b"
 msgid "Active Fade rifts have been spotted in the area near the cove camp."
-msgstr "산그늘 야영지 근처에 영계 균열이 열린 것을 발견했다."
+msgstr "산골짜기 길 야영지 근처에 영계 균열이 열린 것을 발견했다."
 
 #. EBX = DA3/DesignContent/Journals/ThematicLevels/DesertRuins/the_DesertRuins_Faderifts_Cove
 #. PATH = JournalEntry/TaskEntry[0]
@@ -1826,7 +1826,7 @@ msgstr "발견한 씨앗"
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0003fc17"
 msgid "They Shall Not Pass"
-msgstr "그들은 지나갈 수 없다"
+msgstr "너흰 못 지나간다"
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_hld_wild_brokenbridge
 #. PATH = JournalEntry/TextEntry[0]
@@ -9332,7 +9332,7 @@ msgstr "{string}205752{/string}"
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x000300b1"
 msgid "Search the Venatori camp north of the cove."
-msgstr "산그늘 북쪽에서 베나토리 야영지를 찾아보자."
+msgstr "산골짜기 길 북쪽에서 베나토리 야영지를 찾아보자."
 
 #. EBX = DA3/DesignContent/Journals/ThematicLevels/DesertRuins/the_DesertRuins_Venatori
 #. PATH = JournalEntry/TaskEntry[3]
@@ -11444,7 +11444,7 @@ msgstr "황족의 방에 있는 금고실에 들어갈 방법을 찾자."
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x0003fa42"
 msgid "Gain access to the vault."
-msgstr "지하실에 접근할 방법을 찾자."
+msgstr "금고에 접근할 방법을 찾자."
 
 #. EBX = DA3/DesignContent/Journals/Halamshiral/hal_hallastatue_SQ_Bonus
 #. PATH = JournalEntry/TaskEntry[1]
