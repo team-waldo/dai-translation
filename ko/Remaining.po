@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2022-01-21 03:57+0000\n"
+"PO-Revision-Date: 2022-01-23 01:57+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
@@ -3651,9 +3651,9 @@ msgid ""
 "bother her. A weapon has no loyalty—it serves whoever wields it. Now, the "
 "Inquisition wields Argent."
 msgstr ""
-"아르장은 옛 올레이 말로 \"수은\" 이라는 뜻이다. 태어날 때부터 무기로 길러진 빠르고 강하고 치명적인 자. 수많은 주인을 섬기며 "
-"때로는 경호원으로, 보통은 암살자로 살았다. 여러 귀족을 거치며 그녀는 귀한 검처럼 사고 팔렸지만 별로 개의치 않았다. 무기는 충성심이 "
-"없다. 그저 휘두르는 자를 섬길 뿐. 이제, 심문회가 아르장을 쥐고 있다."
+"아르장은 옛 올레이 말로 \"수은\"이라는 뜻이다. 태어날 때부터 무기로 길러진 빠르고 강하고 치명적인 자. 수많은 주인을 섬기며 때로는 "
+"경호원으로, 보통은 암살자로 살았다. 여러 귀족을 거치며 그녀는 귀한 검처럼 사고 팔렸지만 별로 개의치 않았다. 무기는 충성심이 없다. "
+"그저 휘두르는 자를 섬길 뿐. 이제, 심문회가 아르장을 쥐고 있다."
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP_Duelist
 #. PATH = BWMultiplayerCharacterData/DisplayableLockedDescription
@@ -4783,7 +4783,7 @@ msgstr "하이에나"
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x00018610"
 msgid "Lurker"
-msgstr "러커"
+msgstr "잠복꾼"
 
 #. FILE = DA3/Creatures/Multiplayer/Wilderness/mp_wilderness_wilderness_mabari_mp
 #. PATH = CreatureEntityData/CharacterNameReference
@@ -8536,7 +8536,7 @@ msgstr "하이에나 이빨 {string}281367{/string}: {CUSTOM0}"
 #.     0x00044b17(281367) : Removed
 msgctxt "0x0004200c"
 msgid "Lurker Claws {string}281367{/string}: {CUSTOM0}"
-msgstr "러커 발톱 {string}281367{/string}: {CUSTOM0}"
+msgstr "잠복꾼 발톱 {string}281367{/string}: {CUSTOM0}"
 
 #. FILE = DA3/DesignContent/Prefabs/CreatureCodex/CreatureCodexSubPrefab_mabari
 #. PATH = NotificationEntityData[1]/TitleTextReference
@@ -9208,8 +9208,8 @@ msgid ""
 msgstr ""
 "코리피우스의 병력이 패주했으니, 그가 회복하기 전에 찾아내 끌어내야 할 때가 왔다.\n"
 "\n"
-"경고: 이것은 이야기의 결말로 이어지는 퀘스트를 시작합니다. 이후에도 게임을 계속 플레이할 수 있지만, 일부 콘텐츠가 제한될 수 "
-"있습니다. 이 작전을 수행하기 전 중요한 작업들을 먼저 끝내십시오.\n"
+"경고: 이 작전은 이야기의 결말로 이어지는 퀘스트를 시작합니다. 이후에도 게임을 계속 플레이할 수 있지만, 일부 콘텐츠가 제한될 수 "
+"있습니다. 이 작전을 수행하기 전에 남은 중요한 과제가 있다면 먼저 완수하십시오.\n"
 "\n"
 "{string}281195{/string}: {string}281193{/string}"
 
@@ -11899,7 +11899,7 @@ msgstr "보기 흉한 인형"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x000418a5"
 msgid "Odd-looking child's doll with name tag \"Treasure.\""
-msgstr "\"보물\" 이라는 이름표가 달린 기묘하게 생긴 인형."
+msgstr "\"보물\"이라는 이름표가 달린 기묘하게 생긴 인형."
 
 #. FILE = DA3/designcontent/Items/Dales/dal_fst_maliphant_key
 #. PATH = StackedItemAsset/DisplayName
@@ -15323,7 +15323,7 @@ msgstr "영계에 물든 거르거트"
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x00045a30"
 msgid "Fade-Touched Lurker"
-msgstr "영계에 물든 러커"
+msgstr "영계에 물든 잠복꾼"
 
 #. FILE = DA3_DLC1/DesignContent/CreatureProfiles/DLC1/Wilderness/dlc1_wild_fadetouched_wolf
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
