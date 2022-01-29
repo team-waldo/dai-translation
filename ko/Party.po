@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2022-01-18 07:57+0000\n"
+"PO-Revision-Date: 2022-01-29 01:57+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/party/ko/>\n"
 "Language: ko\n"
@@ -398,8 +398,8 @@ msgid ""
 "can put the fear of death into enemies, bring spirits to fight on their "
 "behalf, and even cause devastating explosions when their enemies die."
 msgstr ""
-"이 마법사들은 죽음에 이끌린 영을 속박하는 기술을 전문적으로 다룹니다. 강령술사는 적에게 공포를 심어주며 그들을 대신해 싸울 영혼들을 "
-"불러올 수 있고, 또한 적이 사망했을 때 파괴적인 위력의 시체 폭발을 일으킬 수도 있습니다."
+"이 마법사들은 죽음에 이끌린 영을 속박하는 기술을 전문적으로 다룹니다. 강령술사는 적에게 공포를 심어주며 그들을 대신해 싸울 영을 소환할 "
+"수 있고, 또한 적이 사망했을 때 파괴적인 위력의 시체 폭발을 일으킬 수도 있습니다."
 
 #. FILE = DA3/Party/General/AbilityTrees/Mage_Dorian_Spec_AbilityTree
 #. PATH = BWAbilityTree/TreeDescriptionReference
@@ -505,7 +505,7 @@ msgid ""
 "the essence of the Fade itself. Their spells disrupt hostile magic, create "
 "defensive barriers, and even heal injuries."
 msgstr ""
-"영혼 학파에 통달한 마법사들은 영계 자체의 본질과 영혼을 불러내는 수호 마법을 사용합니다. 이 마법사들은 적대적 마법을 교란하고 보호막을 "
+"영혼 학파에 통달한 마법사들은 영계 자체의 본질과 영을 불러내는 수호 마법을 사용합니다. 이 마법사들은 적대적 마법을 교란하고 보호막을 "
 "만들 수 있으며 부상도 치료할 수 있습니다."
 
 #. FILE = DA3/Party/General/AbilityTrees/Mage_Summoner_Spec_AbilityTree
@@ -588,7 +588,7 @@ msgid ""
 "speed and precision. He can eliminate targets too dangerous to face directly "
 "with strikes they never even notice."
 msgstr ""
-"자비에 헌신하는 영혼으로서는 이상한 일이지만, 콜은 빠르고 정확하게 적을 죽이는 데 알맞습니다. 그는 직접 상대하기엔 너무 위험한 대상을 "
+"자비에 헌신하는 영으로서는 이상한 일이지만, 콜은 빠르고 정확하게 적을 죽이는 데 알맞습니다. 그는 직접 상대하기엔 너무 위험한 대상을 "
 "아무도 눈치채지 못하게 제거할 수 있습니다."
 
 #. FILE = DA3/Party/General/AbilityTrees/Rogue_DualWeapon_AbilityTree
@@ -8901,8 +8901,8 @@ msgid ""
 "means until the spirit leaves.\n"
 "\n"
 msgstr ""
-"전투 중 쓰러지면 잠깐 동안 영혼이 당신의 모습을 갖추고 대신 싸웁니다. 영혼은 영계에서 직접 마력을 끌어들여 마법을 마나 소모 없이 "
-"사용합니다. 영혼이 떠나기 전에는 어떤 방법으로도 되살아날 수 없습니다.\n"
+"전투 중 쓰러지면 잠깐 동안 영이 당신의 모습을 갖추고 대신 싸웁니다. 영은 영계에서 직접 마력을 끌어들여 마법을 마나 소모 없이 "
+"사용합니다. 영이 떠나기 전에는 어떤 방법으로도 되살아날 수 없습니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Passives/Fate/party_mage_passive_fate_abilitydata
@@ -9043,7 +9043,7 @@ msgid ""
 "a short time.\n"
 "\n"
 msgstr ""
-"적을 쓰러뜨리면 영혼이 몰려들어 주문의 위력이 잠시 증가합니다.\n"
+"적을 쓰러뜨리면 영이 몰려들어 주문의 위력이 잠시 증가합니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Passives/ManaVoid/party_mage_passive_manavoid_abilitydata
@@ -10157,7 +10157,7 @@ msgid ""
 "fallen unconscious, and a glyph around you provides ongoing healing to the "
 "party for the spell's duration.\n"
 msgstr ""
-"우호적인 영혼들의 힘을 빌어 전투를 이어나갈 수 있도록 합니다. 의식을 잃고 쓰러진 아군을 포함해 아군 전체가 최대 체력으로 회복됩니다. "
+"우호적인 영들의 힘을 빌어 전투를 이어나갈 수 있도록 합니다. 의식을 잃고 쓰러진 아군을 포함해 아군 전체가 최대 체력으로 회복됩니다. "
 "주문의 효과가 종료될 때까지 주위에서 흐르는 문양이 아군의 체력을 지속해서 회복합니다.\n"
 
 #. FILE = DA3/Party/mage/Staff/Heal/party_mage_staff_heal_abilitydata
@@ -10242,7 +10242,7 @@ msgid ""
 "You unleash spirits of fear that terrify all enemies within the area.\n"
 "\n"
 msgstr ""
-"무시무시한 영혼을 불러내어 범위 내의 적을 공포에 빠지게 합니다.\n"
+"무시무시한 영을 불러내어 범위 내의 적을 공포에 빠지게 합니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Staff/Phantasm/party_mage_staff_phantasm_abilitydata
@@ -10359,7 +10359,7 @@ msgid ""
 "and reviving them if they fall unconscious.\n"
 "\n"
 msgstr ""
-"영혼이 짧은 시간 아군을 보호하여 받는 피해를 감소시키고, 대상이 쓰러지면 소생시킵니다.\n"
+"영이 짧은 시간 아군을 보호하여 받는 피해를 감소시키고, 대상이 쓰러지면 소생시킵니다.\n"
 "\n"
 
 #. FILE = DA3/Party/mage/Staff/Resurrect/party_mage_staff_resurrect_upgrade_abilitydata
