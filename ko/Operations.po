@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2022-02-11 15:57+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"PO-Revision-Date: 2022-02-16 08:57+0000\n"
+"Last-Translator: 평범남 <aaasioa@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
 "Language: ko\n"
@@ -7483,8 +7483,8 @@ msgid ""
 "wandered from the site of the original rifts. The Inquisition has received "
 "numerous requests for aid in dealing with this problem."
 msgstr ""
-"심문관은 영계 균열을 닫기 위해 애써왔다. 이 같은 노력 덕분에 테다스 전역의 많은 지역이 보다 안정되었다. 하지만 균열이 사라진 자리에 "
-"악마들이 남아 떠돌아다니는 경우도 종종 있다. 심문회는 이 문제를 해결해달라는 요청을 수없이 받고 있다."
+"심문관님이 영계 균열을 닫는 데 힘쓴 덕분에 테다스 내 여러 지역이 훨씬 안정되었습니다. 하지만 균열이 사라진 자리에 악마들이 여전히 "
+"남아 떠도는 경우가 종종 있죠. 이 문제를 해결해달라는 요청이 심문회에 잔뜩 들어오고 있습니다."
 
 #. EBX = DA3/DesignContent/Operations/Global/KillCollection/gen_ops_rifts_1
 #. PATH = OperationEntry/TextEntry[1]
@@ -7497,9 +7497,9 @@ msgid ""
 "\n"
 "Cullen"
 msgstr ""
-"상황이 가장 심각한 곳으로 병사들을 보냈고, 페렐던과 올레이의 주민들로부터 수많은 감사편지를 받았습니다.\n"
+"문제가 가장 심각한 곳으로 병사들을 보냈습니다. 페렐던과 올레이 사람들로부터 수많은 감사편지를 받았죠.\n"
 "\n"
-"심문회를 믿으면 그에 대한 보답이 따른다는 사실이 증명되는 순간입니다.\n"
+"심문회를 믿으면 보답받는다는 사실을 증명하고 있는 중입니다.\n"
 "\n"
 "컬렌"
 
@@ -7513,9 +7513,9 @@ msgid ""
 "We have played our part in closing the rifts; the nobles will now see to the "
 "safety of those living on their lands."
 msgstr ""
-"몇몇 귀족 가문으로부터 약속을 받아냈어요. 대의를 위해, 개인 경호원은 물론 다른 자원들을 제공하는 데 동의했습니다. \n"
+"몇몇 귀족 가문으로부터 약조를 받았습니다. 대의를 위해, 사병과 다른 자원들을 제공하는 데 동의했죠. \n"
 "\n"
-"우리는 균열을 닫는 걸로 우리의 역할을 다했습니다. 이제부터 사람들의 안전을 지키는 일은 그 땅의 주인인 귀족들의 몫이죠."
+"우린 균열을 닫는 걸로 우리 역할을 다했어요. 해당 지역 주민들의 안위는 이제 그 땅의 주인인 귀족들이 챙길 거예요."
 
 #. EBX = DA3/DesignContent/Operations/Global/KillCollection/gen_ops_rifts_1
 #. PATH = OperationEntry/Specialist[0]/SpecialistMissionInfo/OperationTextReference
@@ -7523,7 +7523,7 @@ msgctxt "0x000404e9"
 msgid ""
 "Local nobility should take an interest in securing their lands. We can "
 "appeal to them for assistance."
-msgstr "해당 지역의 귀족들이라면 자신들의 땅을 안전하게 지키는데 관심을 가질 거예요. 그들에게 도움을 요청하겠습니다."
+msgstr "현지 귀족들이라면 응당 자신들이 다스리는 땅의 안위에 관심이 있겠죠. 그들에게 도움을 호소해 보겠습니다."
 
 #. EBX = DA3/DesignContent/Operations/Global/KillCollection/gen_ops_rifts_1
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
@@ -7531,7 +7531,7 @@ msgctxt "0x000404ea"
 msgid ""
 "Our soldiers can do sweeps of areas formerly containing Fade rifts and "
 "eliminate any demons."
-msgstr "우리 병사들을 보내 이전에 영계 균열이 있던 지역을 쓸어 버리고 악마를 한 마리도 남김없이 제거하겠습니다."
+msgstr "우리 병사들이라면 영계 균열이 있던 지역을 쓸어 버리고 악마를 한 마리도 남김없이 제거할 수 있습니다."
 
 #. EBX = DA3/DesignContent/Operations/Global/Followers/Blackwall/blk_mainplot_prisonbreak_options
 #. PATH = WartableEntry/TitleReference
@@ -28827,10 +28827,10 @@ msgid ""
 "\n"
 "Ivor of the Blades"
 msgstr ""
-"전령님,\n"
+"예하,\n"
 "\n"
-"저희 헤사리안의 칼날이 해안가에 보관 중인 물자가 있습니다. 심문회에서 원하는 대로 사용하십시오. 비록 명예롭지 못한 방법을 사용했다고 "
-"생각하는 사람들도 있긴 합니다만 전 지도자가 은닉처를 상당한 규모로 늘려두었습니다.\n"
+"저희 헤사리안의 칼날은 해안가에 물자를 보관해 두고 있습니다. 예하께서 원하시는 대로 사용하십시오. 이전 지도자가 은닉품을 엄청나게 "
+"늘려뒀습니다. 일부 단원들에게 비열한 짓거리로 모은 거란 눈총을 받긴 했지만 말입니다.\n"
 "\n"
 "칼날의 아이버"
 
@@ -28845,9 +28845,9 @@ msgid ""
 "\n"
 "Ivor of the Blades"
 msgstr ""
-"전령님,\n"
+"예하,\n"
 "\n"
-"이 물건들이 전령님과 심문회에 도움이 될거라 믿습니다. 저희는 앞으로도 심문회를 위해 봉사하겠습니다.\n"
+"이 물자들이 예하와 심문회에 도움이 될거라 믿습니다. 저희는 앞으로도 예하를 위해 봉사하겠습니다.\n"
 "\n"
 "칼날의 아이버"
 
@@ -28873,7 +28873,7 @@ msgctxt "0x0003fed2"
 msgid ""
 "We cannot openly accept stolen goods. Of course, we have no way of returning "
 "them, so we may discreetly take found goods."
-msgstr "장물을 공개적으로 받을 순 없지만 다시 돌려줄 방법도 없으니, 조심스럽게 가져오도록 하죠."
+msgstr "장물을 대놓고 받을 순 없어요. 그렇다고 다시 돌려줄 수도 없는 노릇이니, 조심스럽게 습득물을 챙기는 게 좋겠네요."
 
 #. EBX = DA3/designcontent/Operations/StormCoast/storm_ops_blades_gift
 #. PATH = OperationEntry/Specialist[1]/SpecialistMissionInfo/OperationTextReference
@@ -28882,14 +28882,14 @@ msgid ""
 "They work for you; let them keep their supplies. We know little of this "
 "group. Perhaps instead they have knowledge worth sharing."
 msgstr ""
-"당신을 위해 일하는 자들이니 그 물자들은 저들이 보관하게 하세요. 아직 저 집단에 대해 아는 것이 너무 적습니다. 어쩌면 저들이 공유할 "
-"만한 가치있는 정보를 알지도 모르겠군요."
+"예하를 위해 일하는 자들이니, 저들에게 계속 보관을 맡기죠. 우린 저 집단에 대해 아는 것이 적어요. 물자 대신 쓸만한 지식을 공유하는 "
+"게 괜찮을지도 모르겠네요."
 
 #. EBX = DA3/designcontent/Operations/StormCoast/storm_ops_blades_gift
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
 msgctxt "0x0003fed3"
 msgid "We could use the resources. Our soldiers can deliver them."
-msgstr "활용할 만한 자원인 것 같습니다. 병사들을 보내 가져오게 하겠습니다."
+msgstr "유용하게 쓸 수 있을 듯싶군요. 병사들을 보내 가져오도록 하겠습니다."
 
 #. EBX = DA3/designcontent/Operations/Global/Mounts/ops_mounts_activation_marketing_05_high
 #. PATH = WartableEntry/TitleReference
