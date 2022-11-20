@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2022-08-09 19:43+0000\n"
+"PO-Revision-Date: 2022-11-20 21:14+0000\n"
 "Last-Translator: 평범남 <aaasioa@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
@@ -3087,7 +3087,7 @@ msgstr "왕실 엘프뿌리"
 #.     0x00044a62(281186) : {blank} {linebreak}  {string}281176{/string} {string}87035{/string}, {string}87032{/string}, {string}100043{/string}, {string}87034{/string}, {string}100043{/string}, {string}87033{/string}, {string}136861{/string}, {string}87036{/string}, {string}136863{/string}, {string}136868{/string}, {string}136878{/string}, {string}87027{/string}, {string}99795{/string}, {string}129683{/string}, {string}99794{/string}, {string}100530{/string}, {string}129686{/string}, {string}129695{/string}.
 msgctxt "0x000153f8"
 msgid "Spindleweed"
-msgstr "회전초"
+msgstr "물레가락풀"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Leather/recipe_material_August_Ram_Fur
 #. PATH = RecipeMaterial/DisplayName
@@ -8384,7 +8384,7 @@ msgstr ""
 #. PATH = Recipe/DisplayName
 msgctxt "0x0003da86"
 msgid "Patrol Shelters"
-msgstr "정찰병 전초기지"
+msgstr "순찰병 쉼터"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_DalesHighlands_Patrol_Shelters
 #. PATH = Recipe/Description
@@ -8396,7 +8396,7 @@ msgid ""
 "Skyhold so they can take shelter from harsh weather and offer refuge to "
 "travelers coming on Inquisition business. {string}277941{/string}"
 msgstr ""
-"하늘보루 인근 산악지대를 정찰하는 경비병들이 험한 날씨를 피하고 심문회를 방문하는 이들이 휴식할 수 있게끔 전초기지를 건설하자. "
+"하늘보루 인근 산악지대를 순찰하는 심문회 파수병들이 험한 날씨를 피하고, 심문회를 방문하는 이들이 휴식을 취할 수 있도록 쉼터를 짓자. "
 "{string}277941{/string}"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_DalesHighlands_WoolenCoats
@@ -9047,7 +9047,7 @@ msgid ""
 "Hargrave's ancient battles with the Avvar in the Fallow Mire. "
 "{string}277939{/string}"
 msgstr ""
-"어느 부유한 페렐던 귀족이 오래전 고요한 늪지에서 벌어진 하그레이브 남작과 아바르의 전투에 관련된 유물을 찾아달라고 부탁했다. "
+"어느 부유한 페렐던 귀족이 오래전 고요한 늪지에서 벌어진 하그레이브 남작과 아바르족 간의 전투에 관련된 유물을 찾아달라고 부탁했다. "
 "{string}277939{/string}"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_TheBog_Recipe_02
@@ -18101,7 +18101,7 @@ msgstr "조개껍데기 장신구"
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042214"
 msgid "Ornate Silver Necklace"
-msgstr "장식된 은목걸이"
+msgstr "화려하게 장식된 은목걸이"
 
 #. FILE = DA3/Equipment/Items/Valuables/Tier3/valuable_Silver_Necklace_Ornate
 #. PATH = StackedItemAsset/Description
@@ -18109,7 +18109,7 @@ msgctxt "0x0004221e"
 msgid ""
 "A well-crafted silver necklace with an inscription: \"May our love endure. -"
 "R\""
-msgstr "훌륭하게 만들어진 은목걸이다. \"우리 사랑이 영원하기를. -R\"이란 글귀가 새겨져 있다."
+msgstr "잘 만들어진 은목걸이다. \"우리 사랑이 영원하기를. -R\"이란 글귀가 새겨져 있다."
 
 #. FILE = DA3/Equipment/Items/Valuables/Tier3/valuable_Tavlas_gem_tooth
 #. PATH = StackedItemAsset/DisplayName

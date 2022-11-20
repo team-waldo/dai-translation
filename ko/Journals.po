@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2022-02-11 15:57+0000\n"
-"Last-Translator: 평범남 <aaasioa@naver.com>\n"
+"PO-Revision-Date: 2022-11-20 21:14+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1492,7 +1492,7 @@ msgstr "엘프뿌리"
 #. PATH = JournalEntry/TaskEntry[4]
 msgctxt "0x0004378f"
 msgid "Spindleweed"
-msgstr "회전초"
+msgstr "물레가락풀"
 
 #. EBX = DA3/DesignContent/Journals/Global/Inquisition/upgrade_keep_quests
 #. PATH = JournalEntry/TaskEntry[5]
@@ -2827,13 +2827,13 @@ msgstr "니사의 장부를 읽어보자."
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x0002fd6d"
 msgid "Find and deliver five bushels of spindleweed."
-msgstr "회전초 다섯 개를 찾아 전달하자."
+msgstr "물레가락풀 다섯 개를 찾아 전달하자."
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_pln_wild_dalish_supplies
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x000440fc"
 msgid "Spindleweed gathered"
-msgstr "채집한 회전초"
+msgstr "채집한 물레가락풀"
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_pln_wild_dalish_supplies
 #. PATH = JournalEntry/TaskEntry[3]
@@ -4333,7 +4333,7 @@ msgid ""
 "High dragon hunting patterns are largely undocumented. Frederic is "
 "interested in the location of any dead gurn showing signs that it was killed "
 "by a dragon."
-msgstr "대부분의 고룡 사냥법은 기록 되지 않았다. 프레데릭은 용에게 사냥당한 거른의 사체가 있는 곳을 알고 싶어한다."
+msgstr "대부분의 고룡 사냥법은 기록되지 않았다. 프레데릭은 용에게 사냥당한 거른의 사체가 있는 곳을 알고 싶어 한다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_researcher_find_dragon
 #. PATH = JournalEntry/TaskEntry[0]
@@ -5655,7 +5655,7 @@ msgstr "엘프뿌리"
 #.     0x00044a20(281120) : {string}271455{/string}
 msgctxt "0x0004245f"
 msgid "Spindleweed"
-msgstr "회전초"
+msgstr "물레가락풀"
 
 #. EBX = DA3/DesignContent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_crossroads_medic
 #. PATH = JournalEntry/TaskEntry[4]
@@ -5705,7 +5705,7 @@ msgstr "약초 목록을 얻자."
 #.     0x00044a2d(281133) : {string}271463{/string}
 msgctxt "0x00042467"
 msgid "Spindleweed"
-msgstr "회전초"
+msgstr "물레가락풀"
 
 #. EBX = DA3/DesignContent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_crossroads_medic
 #. PATH = JournalEntry/TaskEntry[11]
@@ -7269,7 +7269,7 @@ msgstr "에말리엔에게 발로린의 소지품을 돌려주자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0003fb66"
 msgid "Call Me Imshael"
-msgstr "임샤엘이라 불러다오"
+msgstr "나를 임샤엘이라 부르라"
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_hld_wild_imshael
 #. PATH = JournalEntry/TextEntry[0]
