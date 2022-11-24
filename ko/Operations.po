@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2022-11-20 21:14+0000\n"
-"Last-Translator: 평범남 <aaasioa@naver.com>\n"
+"PO-Revision-Date: 2022-11-24 01:14+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
 "Language: ko\n"
@@ -2507,7 +2507,7 @@ msgctxt "0x00040dd9"
 msgid ""
 "Nevarra is crawling with Venatori agents. I can get a few of my best spies "
 "into place undetected, but no more."
-msgstr "네바라에는 베나토리 요원들이 득실댑니다. 제 최고의 첩자들을 몰래 투입할 수는 있지만, 그 이상의 활동은 무리에요."
+msgstr "네바라에는 베나토리 요원들이 득실댑니다. 제 최고의 첩자들을 몰래 투입할 수는 있지만, 그 이상의 활동은 무리예요."
 
 #. EBX = DA3/DesignContent/Operations/Global/Ben-Hassrath/bh_knives_4
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
@@ -3467,7 +3467,7 @@ msgstr ""
 "<i>다그나의 쪽지가 뒤쪽에 이어진다.</i>\n"
 "\n"
 "감사합니다, 심문관님. 물론 불만이 있으시긴 하지만, 아버지는 제가 잘 있었으면 좋겠다고 생각하셔요. 아버지께서 가문의 문장을 "
-"보내주셨어요. 뒷판이 없어서 달고 다닐 수는 없지만, 그래도 이게 어디에요. 지상에 올라온 다른 드워프들보다 훨씬 좋은 대접인걸요.\n"
+"보내주셨어요. 뒤판이 없어서 달고 다닐 수는 없지만, 그래도 이게 어디예요. 지상에 올라온 다른 드워프들보다 훨씬 좋은 대접인걸요.\n"
 "\n"
 "비전 장인 다그나"
 
@@ -11166,10 +11166,10 @@ msgid ""
 "Leliana"
 msgstr ""
 "이 정도면 성공이라고 해야겠습니다, 심문관. 플로리안 대공 주변의 귀족들은 그녀의 “방문”에 충분히 겁을 먹고 그녀의 발자취를 따르길 "
-"포기했어요. 사실, 이 작전은 너무 효과적이어서 우리들 때문에 생긴 도시 괴담이 귀족들 사이에서 퍼지고 있는 것 같더군요. 거울을 보며 “"
-"지난 계절” 이라고 세 번 속삭이면, 상자에 든 대공이 나타나서는 평생 굽 없는 신발만 신게 되는 저주를 내린다면서요.\n"
+"포기했어요. 사실, 이 작전은 너무 효과적이어서 우리 때문에 생긴 도시 괴담이 귀족들 사이에 퍼지고 있는 것 같더군요. 거울을 보며 “"
+"지난 계절”이라고 세 번 속삭이면, 상자에 든 대공이 나타나서는 평생 굽 없는 신발만 신게 되는 저주를 내린다면서요.\n"
 "\n"
-"근데 아시나요? 이건 사실이에요. 제가 아는 백작도 당했답니다. 한번 해 봐요, {spHeroName}.\n"
+"근데 아시나요? 이건 사실이에요. 제가 아는 백작도 당했답니다. 한번 해 봐요, {spHeroName} 님.\n"
 "\n"
 "렐리아나"
 
@@ -13735,7 +13735,7 @@ msgstr ""
 #. PATH = OperationEntry/Specialist[0]/SpecialistMissionInfo/OperationTextReference
 msgctxt "0x0003fec7"
 msgid "A rare chance for exchange. They'll have writs to bargain."
-msgstr "흔치 않은 교역 기회에요. 그들에게 협상 서류를 들려주도록 하죠."
+msgstr "흔치 않은 교역 기회예요. 그들에게 협상 서류를 들려주도록 하죠."
 
 #. EBX = DA3/designcontent/Operations/Global/TheCrew/gen_chain_the_crew_05
 #. PATH = OperationEntry/Specialist[1]/SpecialistMissionInfo/OperationTextReference
@@ -14863,7 +14863,7 @@ msgctxt "0x0003fe7a"
 msgid ""
 "A holdout over negotiations. This offer comes with caveats, but it is "
 "valuable."
-msgstr "협상하면 해결되는 문제에요. 경고를 동반한 제안이기는 하지만, 그럴만한 가치가 있어요."
+msgstr "협상하면 해결되는 문제예요. 경고를 동반한 제안이기는 하지만, 그럴 만한 가치가 있어요."
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_04
 #. PATH = OperationEntry/Specialist[1]/SpecialistMissionInfo/OperationTextReference
@@ -22145,7 +22145,9 @@ msgctxt "0x00040941"
 msgid ""
 "I have a cousin in Rialto. If she threw a soiree and invited Lord Enzo, his "
 "house would be clear for Leliana's agents."
-msgstr "리알토에 사촌이 살고 있어요. 그녀가 파티를 열어 엔조경을 초대한 틈에 렐리아나의 요원들이 그의 저택에 잠입하게 하면 됩니다."
+msgstr ""
+"리알토에 제 사촌이 한 명 살아요. 사촌에게 야회를 열고 엔조 경을 초대하게 하면, 렐리아나의 요원들이 경의 저택에 손쉽게 잠입할 수 "
+"있습니다."
 
 #. EBX = DA3/DesignContent/Operations/Global/Crows/gen_ops_crows_antiva
 #. PATH = OperationEntry/Specialist[1]/SpecialistMissionInfo/OperationTextReference
