@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2022-11-20 21:14+0000\n"
+"PO-Revision-Date: 2022-12-29 12:15+0000\n"
 "Last-Translator: 평범남 <aaasioa@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
@@ -8415,8 +8415,8 @@ msgid ""
 "requesting materials to craft additional heavy coats for their use. "
 "{string}277941{/string}"
 msgstr ""
-"심문회 병력들의 장비 상태가 산악지대에서 활동하기에 썩 좋지 못하다. 병참 장교가 병사들이 껴입을 두꺼운 외투를 보급하기 위해 재료 "
-"조달을 요청했다. {string}277941{/string}"
+"심문회 병력의 장비는 산악지대 활동에 영 알맞지 않다. 병참 장교가 병사들이 껴입을 두꺼운 외투의 재료를 조달해달라고 요청했다. "
+"{string}277941{/string}"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_Dales_Forest_Geo_Survey_01
 #. PATH = Recipe/DisplayName
@@ -8998,7 +8998,7 @@ msgstr ""
 #. PATH = Recipe/DisplayName
 msgctxt "0x00040d53"
 msgid "Templar Lyrium Philter"
-msgstr "성기사단의 리륨 용액"
+msgstr "성기사단의 리륨 용액함"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_TemplarPhilter
 #. PATH = Recipe/Description
@@ -9010,9 +9010,9 @@ msgid ""
 "the point that depriving them of it can drive them mad. A risk not to be "
 "taken lightly, and none do."
 msgstr ""
-"성기사가 사용할 리륨을 직접 가공하는 데 필요한 물건들이다. 이것이 없으면 성기사는 마법적 능력을 발휘할 수 없다. 리륨을 복용하는 "
-"성기사는 수년에 걸쳐 지독한 리륨 증독 증세에 시달리게 된다고 전해지며, 투여를 중단할 시에는 광증에 사로잡힐 수도 있다고 한다. 이는 "
-"가볍게 여길 만한 위험이 아니기에, 모두가 이 사실을 엄중하게 받아들인다."
+"성기사가 자신의 체내에 주입할 리륨을 가공할 때 쓰는 물건들이다. 당연하게도 이것이 없으면 성기사는 마법적 능력을 발휘할 수 없다. "
+"성기사가 앓는 극심한 리륨 증독 증세는 수년에 걸쳐 더욱 악화된다고 하는데, 투여를 중단할 경우 광증을 일으킬 수도 있다고 한다. 이는 "
+"가볍게 여길 만한 위험요소가 아니며, 그걸 간과하는 자는 아무도 없다."
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_TheBog_GeoSurvey_01
 #. PATH = Recipe/DisplayName

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2022-11-20 21:15+0000\n"
+"PO-Revision-Date: 2022-12-29 12:15+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/ui/ko/>\n"
 "Language: ko\n"
@@ -1456,7 +1456,7 @@ msgctxt "0x00044dcd"
 msgid ""
 "Set the quality of in-game effects. Higher values will result in richer-"
 "looking spells, fire, smoke, and other atmospheric effects."
-msgstr "인게임 이펙트의 품질을 설정합니다. 높은 수치는 더 풍부한 주문, 불꽃, 연기, 그리고 다른 환경 이펙트들을 향상시킵니다."
+msgstr "인게임 이펙트의 품질을 설정합니다. 수치가 높을수록 주문, 불꽃, 연기 및 여타 환경 이펙트의 심미성이 더 풍부해집니다."
 
 #. FILE = UI/Assets/GameOptions/GameOptions_GraphicsEffects
 #. PATH = UIGameOptionsItemAsset/EnumDisplayStrings/member[1]
@@ -1494,7 +1494,7 @@ msgctxt "0x00044dd5"
 msgid ""
 "Set the mesh quality level. Higher values will display props and characters "
 "in more geometric detail and will be visible from a further distance."
-msgstr "메쉬 품질 레벨을 설정합니다. 높은 수치는 소품과 캐릭터들의 디테일을 향상시키고, 멀리서도 보이게 합니다."
+msgstr "메쉬 품질 레벨을 설정합니다. 수치가 높을수록 사물과 캐릭터의 기하학적 디테일이 향상되고 더욱 먼 거리에서도 보이게 됩니다."
 
 #. FILE = UI/Assets/GameOptions/GameOptions_GraphicsMultisampleAA
 #. PATH = UIGameOptionsItemAsset/Title
@@ -1509,7 +1509,9 @@ msgid ""
 "Set the quality of multisample anti-aliasing to be used during rendering. "
 "Higher-quality levels will result in a smoother image with more detail "
 "captured."
-msgstr "렌더링 중의 멀티샘플 안티앨리어싱의 품질을 설정합니다. 높은 품질 레벨은 더 부드러운 이미지와 더 많은 디테일을 표현합니다."
+msgstr ""
+"렌더링 과정에서 사용되는 멀티샘플 안티앨리어싱의 품질을 설정합니다. 품질 레벨이 높아질수록 이미지가 부드러워지고 세부적인 표현이 "
+"부각됩니다."
 
 #. FILE = UI/Assets/GameOptions/GameOptions_GraphicsMultisampleAA
 #. PATH = UIGameOptionsItemAsset/EnumDisplayStrings/member[1]
@@ -1542,7 +1544,7 @@ msgid ""
 "Set the level of post-processing effects applied to images. Higher values "
 "display higher-quality motion blur and depth-of-field blur."
 msgstr ""
-"이미지에 적용되는 포스트 프로세싱 이펙트의 레벨을 설정합니다. 높은 수치는 높은 품질의 모션 블러와 공간 깊이 블러를 보여줍니다."
+"이미지에 적용되는 포스트 프로세싱 효과의 수준을 설정합니다. 수치가 높을수록 모션 블러 및 피사계 심도 블러 효과의 품질이 향상됩니다."
 
 #. FILE = UI/Assets/GameOptions/GameOptions_GraphicsPostprocessAA
 #. PATH = UIGameOptionsItemAsset/Title
@@ -1557,7 +1559,8 @@ msgid ""
 "Set the level of post-process anti-aliasing. Higher levels will result in "
 "smoother images with a lower performance cost than multisample anti-aliasing."
 msgstr ""
-"포스트 프로세싱 안티앨리어싱의 레벨을 설정합니다. 높은 수치는 부드러운 이미지를 보여주며, 멀티샘플 안티앨리어싱보다 퍼포먼스가 낮아집니다."
+"포스트 프로세스 안티앨리어싱의 레벨을 설정합니다. 높게 설정하면 부드러운 이미지를 보여줍니다. 멀티샘플 안티앨리어싱보다 퍼포먼스 부담이 "
+"적습니다."
 
 #. FILE = UI/Assets/GameOptions/GameOptions_GraphicsQuality
 #. PATH = UIGameOptionsItemAsset/Title
@@ -1595,7 +1598,7 @@ msgctxt "0x00044ea9"
 msgid ""
 "Set the shader rendering quality. Higher values will display lighting and "
 "materials that are richer and more detailed."
-msgstr "셰이더 렌더링 품질을 설정합니다. 수치가 높을수록 더 풍부하고 디테일 높은 조명과 소재가 보여집니다."
+msgstr "셰이더 렌더링 품질을 설정합니다. 수치가 높을수록 조명과 물체 질감이 더 풍부하고 세밀하게 표현됩니다."
 
 #. FILE = UI/Assets/GameOptions/GameOptions_GraphicsShadow
 #. PATH = UIGameOptionsItemAsset/Title
@@ -1635,7 +1638,7 @@ msgctxt "0x00044dd9"
 msgid ""
 "Set the tessellation quality level. Higher values produce rich geometric "
 "detail on the ground and other in-game objects. "
-msgstr "테셀레이션 품질을 설정합니다. 이 수치가 높으면 지면과 다른 인게임 물체들의 기하학적 디테일이 추가됩니다. "
+msgstr "테셀레이션 품질을 설정합니다. 이 수치가 높으면 지면 및 기타 인게임 물체의 기하학적 디테일이 풍성해집니다. "
 
 #. FILE = UI/Assets/GameOptions/GameOptions_GraphicsTexture
 #. PATH = UIGameOptionsItemAsset/Title
@@ -1690,7 +1693,7 @@ msgctxt "0x00044ddc"
 msgid ""
 "Set the water simulation quality. Higher values display extra detail on "
 "dynamic water and oceans."
-msgstr "물 시뮬레이션 품질을 설정합니다. 이 수치가 높으면 물과 바다에 디테일 표현 수준이 높아집니다."
+msgstr "물 시뮬레이션 품질을 설정합니다. 이 수치가 높으면 동적인 수면 및 바다의 디테일 표현 수준이 높아집니다."
 
 #. FILE = UI/Assets/GameOptions/GameOptions_HUDVisibility_PC
 #. PATH = UIGameOptionsItemAsset/Title
