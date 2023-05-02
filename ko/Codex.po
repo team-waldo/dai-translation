@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2023-04-25 07:52+0000\n"
+"PO-Revision-Date: 2023-05-02 18:53+0000\n"
 "Last-Translator: 평범남 <aaasioa@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/codex/ko/>\n"
 "Language: ko\n"
@@ -6110,13 +6110,13 @@ msgstr "니사의 장부"
 #. PATH = CodexEntry/TextEntry[0]
 msgctxt "0x000415b5"
 msgid "Spindleweed's getting scarce."
-msgstr "물레가락풀이 점점 부족해지고 있다."
+msgstr "물레가락풀이 바닥나고 있다."
 
 #. EBX = DA3/designcontent/Codex/Plot/ExaltedPlains/dal_pln_wild_dalish_supplies
 #. PATH = CodexEntry/TextEntry[1]
 msgctxt "0x000415b6"
 msgid "Running out of elfroot for salves."
-msgstr "고약에 넣을 엘프뿌리가 부족하다."
+msgstr "고약에 쓸 엘프뿌리가 떨어져 간다."
 
 #. EBX = DA3/designcontent/Codex/Plot/ExaltedPlains/dal_pln_wild_dalish_supplies
 #. PATH = CodexEntry/TextEntry[2]
@@ -6126,7 +6126,7 @@ msgctxt "0x000415b7"
 msgid ""
 "Someone took {string}129691{/string} without my permission. If I find out "
 "who..."
-msgstr "누군가가 {string}129691{/string}을 내 허락 없이 가져갔어. 누군지 걸리기만 해 봐..."
+msgstr "누가 {string}129691{/string}을 내 허락도 없이 가져갔다. 어떤 놈인지 잡히기만 해 봐라..."
 
 #. EBX = DA3/designcontent/Codex/Plot/ExaltedPlains/dal_pln_wild_dalish_supplies
 #. PATH = CodexEntry/TextEntry[3]
@@ -6138,7 +6138,7 @@ msgstr "아라벨을 수리할 철이 더 필요하다."
 #. PATH = CodexEntry/TextEntry[4]
 msgctxt "0x000415b4"
 msgid "I wish we had some great bear fur. Nights are getting cold."
-msgstr "큰곰 모피가 좀 더 있으면 좋겠다. 밤이 점점 추워지고 있다."
+msgstr "큰곰 모피가 좀 더 생기면 좋겠다. 밤이 점점 추워지고 있다."
 
 #. EBX = DA3/designcontent/Codex/Plot/EmeraldGraves/dal_fst_wild_redtemplar_orders
 #. PATH = CodexEntry/TitleReference
