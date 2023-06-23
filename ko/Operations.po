@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2023-06-21 15:53+0000\n"
+"PO-Revision-Date: 2023-06-23 19:53+0000\n"
 "Last-Translator: 평범남 <aaasioa@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/operations/ko/>"
 "\n"
@@ -8861,8 +8861,9 @@ msgid ""
 "transferred onto the stone from a much older edifice that dates back to the "
 "original elven nation or even earlier."
 msgstr ""
-"데일스 지방에서 발견된 엘프 문양은 큰 가치가 있을지도 모른다. 간단히 조사한 바에 따르면, 문양들은 그것들이 발견된 유적보다 더 예전의 "
-"것으로 밝혀졌다. 아마 훨씬 오래전의 엘프 국가나 그보다 더 이전 시대의 건물에서 지금의 돌로 옮겨 적혔을 가능성도 있다."
+"데일스 지방에서 발견된 엘프 상형 문자는 귀중한 가치를 지니고 있을지도 모른다. 간단히 조사한 바에 따르면, 해당 문자들은 그것들이 "
+"발견된 유적보다 더 예전의 것으로 보이는데, 태초의 엘프 국가나 그보다 더 이전 시대의 건축물에서 추출되어 우리가 발견한 돌에 옮겨 적힌 "
+"것일 가능성이 있다."
 
 #. EBX = DA3/designcontent/Operations/TheDales/Plains/dal_region_temple
 #. PATH = OperationEntry/TextEntry[1]
@@ -8876,10 +8877,10 @@ msgid ""
 "investigate these glyphs. A group of treasure hunters evidently mentioned "
 "them several years ago... though they have not been heard from since."
 msgstr ""
-"일깨우는 바다의 해안을 따라 이동하는 여러 데일스 부족에게 약간의 \"선물\"을 쥐여줘야 했지만, 덕분에 실리안이 문양을 번역하는데 "
-"필요한 문자를 얻었어요. 그는 그것이 비밀을 관장하는 엘프 신 덜사멘에게 바쳐진 것이며, 고대 사원의 위치를 알려주는 일종의 지도라고 "
-"해요. 그가 사원의 위치를 알려주었지만, 이 문자들을 조사한 건 우리가 처음이 아니라는 점에 주목할 필요가 있어요. 듣자 하니 보물 "
-"사냥꾼 무리가 이미 몇 년 전에 이에 대해 언급했는데, 그 이후 소식이 끊겼다고 하네요."
+"일깨우는 바다 해안을 따라 여행 중인 몇몇 데일스 부족에게 소정의 \"선물\"을 쥐여줘야 했지만, 덕분에 실리안의 번역 작업에 필요한 "
+"글자를 얻어낼 수 있었어요. 해당 상형 문자들은 일종의 지도로, 비밀을 관장하는 엘프 신 덜사멘에게 헌정된 어느 사원의 위치를 가리킨다고 "
+"하네요. 일단 사원의 위치를 언질 받긴 했는데, 이 상형 문자들을 조사한 게 우리가 처음이 아니란 사실을 주지해두셔야 할 것 같아요. 몇 "
+"년 전, 한 보물 사냥꾼 무리가 이 문자들에 대해 들먹였다고 하던데... 그 이후로 소식이 끊겼다네요."
 
 #. EBX = DA3/designcontent/Operations/TheDales/Plains/dal_region_temple
 #. PATH = OperationEntry/Specialist[0]/SpecialistMissionInfo/OperationTextReference
@@ -8887,7 +8888,9 @@ msgctxt "0x0002b1b3"
 msgid ""
 "One of our mages, a Dalish elf named Cillian, believes he may be able to "
 "translate the glyphs—provided we grant him the needed contacts."
-msgstr "심문회 마법사인 데일스 엘프 실리안이 자료를 제공해 주면 그 문양을 번역할 수 있을 것 같다고 하네요."
+msgstr ""
+"심문회 마법사이자 데일스 엘프인 실리안이란 분이 해당 상형 문자를 번역할 수 있을 것 같다고 하네요. 그 일에 필요한 연고자들과 연결해 "
+"준다면 말이죠."
 
 #. EBX = DA3/designcontent/Operations/Global/Followers/Vivienne/gen_ops_viv4
 #. PATH = WartableEntry/TitleReference
@@ -26461,8 +26464,8 @@ msgid ""
 msgstr ""
 "<i>병참 장교가 보내온 쪽지</i>\n"
 "\n"
-"관용을 베풀어주셔서 감사드립니다. 서덜랜드와 그 동료들을 심문회 요원에 걸맞은 장비로 무장시켰습니다. 그들의 변변찮은 출신으로 보아, "
-"아마 그런 장비는 태어나서 처음 봤을 겁니다.\n"
+"아량을 베풀어주셔서 감사드립니다. 서덜랜드와 그 동료들에게 심문회 요원에 걸맞은 장비를 맞춰줬습니다. 그들의 변변찮은 출신을 미루어 "
+"보자면, 그런 장비는 아마 태어나서 처음 봤을 테죠.\n"
 "\n"
 "모리스 경"
 
@@ -26470,14 +26473,14 @@ msgstr ""
 #. PATH = OperationEntry/Specialist[0]/SpecialistMissionInfo/OperationTextReference
 msgctxt "0x0003fe4b"
 msgid "If they represent us, then they should reflect our influence."
-msgstr "우리를 대변시킬 거라면, 우리 영향력이 반영되게끔 꾸며야겠네요."
+msgstr "우리를 대변시킬 거라면, 우리 위세가 반영되게끔 꾸며줘야겠네요."
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_03
 #. PATH = OperationEntry/Specialist[1]/SpecialistMissionInfo/OperationTextReference
 msgctxt "0x0003fe4c"
 msgid ""
 "It would take little to have them look like the hidden arm they could be."
-msgstr "그들을 비밀 병기로 보이게 만드는 것쯤이야 그리 어려운 일은 아니죠."
+msgstr "그 친구들을 비밀 병기로 보이게 만드는 것쯤이야 그리 어려운 일은 아니죠."
 
 #. EBX = DA3/DesignContent/Operations/Global/TheCrew/gen_chain_the_crew_03
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
