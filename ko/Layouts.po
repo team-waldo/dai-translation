@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2023-07-30 10:53+0000\n"
+"PO-Revision-Date: 2023-08-10 03:53+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/layouts/ko/>\n"
 "Language: ko\n"
@@ -393,7 +393,7 @@ msgstr "후회하는 마페라스"
 #. PATH = GetLocalizedStringIDData[15]/Text
 msgctxt "0x0003fd9a"
 msgid "The Hero of Ferelden"
-msgstr "페렐던의 영웅"
+msgstr "퍼렐던의 영웅"
 
 #. FILE = DA3/Layouts/Ferelden/Ferelden_Wilderness_Main/DSG_Landmarks_Content_Schematic
 #. PATH = GetLocalizedStringIDData[16]/Text
@@ -513,7 +513,7 @@ msgstr "불탄 자들의 도랑"
 #. PATH = GetLocalizedStringIDData[11]/Text
 msgctxt "0x00029b3b"
 msgid "The Hinterlands"
-msgstr "내륙지역"
+msgstr "배후지대"
 
 #. FILE = DA3/Layouts/Ferelden/Ferelden_Wilderness_Main/DSG_Regions_Schematic
 #. PATH = GetLocalizedStringIDData[12]/Text
@@ -951,7 +951,7 @@ msgstr "숨겨진 동굴"
 #. PATH = GetLocalizedStringIDData/Text
 msgctxt "0x0002c27a"
 msgid "Fereldan Wyvern Statues"
-msgstr "페렐던 와이번 조각상"
+msgstr "퍼렐던 와이번 조각상"
 
 #. FILE = DA3/Layouts/Ferelden/fer_Wilderness_010/DSG_Landmark_C_Content_Schematic
 #. PATH = GetLocalizedStringIDData/Text
@@ -1149,7 +1149,7 @@ msgstr "나가기"
 #. PATH = UILevelDescriptionComponent/LocationName
 msgctxt "0x00029d7e"
 msgid "Frostback Mountains"
-msgstr "서리등선 산맥"
+msgstr "서리등 산맥"
 
 #. FILE = DA3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0101_WarTable_Main_Schematic
 #. PATH = BWPopUpEntityData[1]/Title
@@ -1211,7 +1211,7 @@ msgstr "작전 지도"
 #. PATH = BWPopUpEntityData[4]/Text
 msgctxt "0x00043a8b"
 msgid "Perform the Scout the Hinterlands operation."
-msgstr "내륙지역 정찰 작전을 수행하십시오."
+msgstr "배후지대 정찰 작전을 수행하십시오."
 
 #. FILE = DA3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0101_WarTable_Main_Schematic
 #. PATH = BWPopUpEntityData[5]/Text
@@ -1223,9 +1223,9 @@ msgid ""
 "Mother Giselle is in the Hinterlands, which can be found on the Ferelden "
 "side of the table."
 msgstr ""
-"작전 지도를 통해 올레이와 페렐던 전역에 심문회의 영향력을 넓힐 수 있습니다.\n"
+"작전 지도를 통해 올레이와 퍼렐던 전역에 심문회의 영향력을 넓힐 수 있습니다.\n"
 "\n"
-"지젤 신모는 작전 지도의  페렐던 쪽에 위치한 내륙지역에 있습니다."
+"지젤 신모는 작전 지도의  퍼렐던 쪽에 위치한 배후지대에 있습니다."
 
 #. FILE = DA3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0101_WarTable_Main_Schematic
 #. PATH = BWPopUpEntityData[6]/Text
@@ -1239,7 +1239,7 @@ msgid ""
 msgstr ""
 "심문회는 정찰 작전을 통해 새로운 지역을 해금할 수 있습니다. {scouting}\n"
 "\n"
-"작전 지도에서 페렐던의 내륙지역에 정찰 작전을 펼치십시오."
+"작전 지도에서 퍼렐던의 배후지대에 정찰 작전을 펼치십시오."
 
 #. FILE = DA3/Layouts/FrostbackMountains/FrostbackMountains/DSG_0120_Chantry_Exterior_Main_Schematic
 #. PATH = BWPopUpEntityData/Title
@@ -2300,7 +2300,7 @@ msgstr "영계"
 #. PATH = AppearanceOverrideSpawnData[1]/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x0004251f"
 msgid "The Harrowing"
-msgstr "입단 시험"
+msgstr "시련 의식"
 
 #. FILE = DA3/Layouts/TheFade/QST_0310_ADA_Main
 #. PATH = AppearanceOverrideSpawnData[2]/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
@@ -3998,7 +3998,7 @@ msgstr "순수의 요새"
 #.     0x0004aa8c(305804) : {string}292730{/string}
 msgctxt "0x0004777a"
 msgid "Darkspawn Warrens"
-msgstr "어둠의 피조물 군서지"
+msgstr "어둠피조물 군서지"
 
 #. FILE = DA3_DLC_Red/Layouts/DLC_Red_Dungeon/DSG_Global_Schematic
 #. PATH = GetLocalizedStringIDData[3]/Text
@@ -4916,7 +4916,7 @@ msgstr "성스러운 재의 성전"
 #. PATH = GetLocalizedStringIDData[5]/Text
 msgctxt "0x0001e520"
 msgid "Frostback Mountains"
-msgstr "서리등선 산맥"
+msgstr "서리등 산맥"
 
 #. FILE = da3/Layouts/FrostbackMountains/FrostbackMountains/DSG_AreaNotifications_Schematic
 #. PATH = GetLocalizedStringIDData[6]/Text
@@ -6695,7 +6695,7 @@ msgstr "흉물"
 #. PATH = AppearanceOverrideSpawnData[2]/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x00042521"
 msgid "Darkspawn"
-msgstr "어둠의 피조물"
+msgstr "어둠피조물"
 
 #. FILE = da3/Layouts/TheFade/QST_0410_ADA_PostPuzzleDialog
 #. PATH = AppearanceOverrideSpawnData[3]/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
@@ -6773,7 +6773,7 @@ msgstr "약병 놓기"
 #. PATH = GetLocalizedStringIDData/Text
 msgctxt "0x00040df9"
 msgid "Vial of Darkspawn Blood"
-msgstr "어둠의 피조물의 피가 담긴 병"
+msgstr "어둠피조물의 피가 담긴 병"
 
 #. FILE = da3/Layouts/TheFade/QST_500_Puzzle_Main
 #. PATH = BWGameInteractionEntityData[1]/InteractionTextReference
@@ -8375,7 +8375,7 @@ msgstr "테린팔 보루 - 상층"
 #. PATH = BWMapPinArea[1]/TitleReference
 msgctxt "0x00030dd0"
 msgid "The Hinterlands"
-msgstr "내륙지역"
+msgstr "배후지대"
 
 #. FILE = da3/Layouts/WorldMap/gen_da3_world_map/map/gen_da3_world_map_floor0
 #. PATH = BWMapPinArea[2]/TitleReference
@@ -8769,7 +8769,7 @@ msgstr "대전당"
 #. PATH = GetLocalizedStringIDData[1]/Text
 msgctxt "0x0004506e"
 msgid "Frostback Basin"
-msgstr "서리등선 분지"
+msgstr "서리등 분지"
 
 #. FILE = da3_dlc1/Layouts/DLC1_Dungeon/DLC1_Dungeon/DSG_Doors_Schematic
 #. PATH = GetLocalizedStringIDData[2]/Text
@@ -8990,7 +8990,7 @@ msgstr "획득하기"
 #. PATH = BWMapPinLocation[1]/TitleReference
 msgctxt "0x0004a06b"
 msgid "Follow Shaper Valta's Stone Sense"
-msgstr "발타 기록관의 돌 감각 따라가기"
+msgstr "구체자 발타의 돌 감각 따라가기"
 
 #. FILE = da3_dlc_red/Layouts/DLC_Red_Dungeon/map/DLC_Red_Dungeon_floor0
 #. PATH = BWMapPinSearchZone/TitleReference
@@ -9038,7 +9038,7 @@ msgstr "소규모 야영지"
 #. PATH = BWMapPinLocation[14]/TitleReference
 msgctxt "0x0004aab0"
 msgid "Follow Shaper Valta's Stone Sense Through the Bastion of the Pure"
-msgstr "발타 기록관의 돌 감각을 따라 순수의 요새 통과하기"
+msgstr "구체자 발타의 돌 감각을 따라 순수의 요새 통과하기"
 
 #. FILE = da3_dlc_red/Layouts/DLC_Red_Dungeon/map/DLC_Red_Dungeon_floor1
 #. PATH = BWMapPinSearchZone[3]/TitleReference
@@ -9068,7 +9068,7 @@ msgstr "잊힌 동굴 탐사하기"
 #. PATH = BWMapPinLocation[4]/TitleReference
 msgctxt "0x00049274"
 msgid "Follow Shaper Valta's Stone Sense"
-msgstr "발타 기록관의 돌 감각 따라가기"
+msgstr "구체자 발타의 돌 감각 따라가기"
 
 #. FILE = da3_dlc_red/Layouts/DLC_Red_Dungeon/map/DLC_Red_Dungeon_floor2
 #. PATH = BWMapPinArea[2]/TitleReference
@@ -9098,7 +9098,7 @@ msgstr "세그러마르 희생의 관문"
 #. PATH = BWMapPinSearchZone[1]/TitleReference
 msgctxt "0x00047789"
 msgid "Darkspawn Hunting Pack"
-msgstr "어둠의 피조물 사냥조"
+msgstr "어둠피조물 사냥조"
 
 #. FILE = da3_dlc_red/Layouts/DLC_Red_Dungeon/map/DLC_Red_Dungeon_floor3
 #. PATH = BWMapPinLocation[5]/TitleReference
@@ -9110,7 +9110,7 @@ msgstr "고대의 승강기"
 #. PATH = BWMapPinLocation[10]/TitleReference
 msgctxt "0x0004aaab"
 msgid "Follow Shaper Valta's Stone Sense Through Heidrun Thaig"
-msgstr "발타 기록관의 돌 감각을 따라 헤이드룬 타이그 통과하기"
+msgstr "구체자 발타의 돌 감각을 따라 헤이드룬 타이그 통과하기"
 
 #. FILE = da3_dlc_red/Layouts/DLC_Red_Dungeon/map/DLC_Red_Dungeon_floor3
 #. PATH = BWMapPinArea[1]/TitleReference
@@ -9128,7 +9128,7 @@ msgstr "야영지 세우기"
 #. PATH = BWMapPinSearchZone[6]/TitleReference
 msgctxt "0x00047788"
 msgid "Darkspawn Nest"
-msgstr "어둠의 피조물 둥지"
+msgstr "어둠피조물 둥지"
 
 #. FILE = da3_dlc_red/Layouts/DLC_Red_Dungeon/map/DLC_Red_Dungeon_floor3
 #. PATH = BWMapPinLocation[16]/TitleReference
@@ -9146,7 +9146,7 @@ msgstr "헤이드룬 타이그 폐허"
 #. PATH = BWMapPinArea[2]/TitleReference
 msgctxt "0x0004ab17"
 msgid "Lift Up to the Darkspawn Warrens"
-msgstr "어둠의 피조물 군서지로 올라가는 승강기"
+msgstr "어둠피조물 군서지로 올라가는 승강기"
 
 #. FILE = da3_dlc_red/Layouts/DLC_Red_Dungeon/map/DLC_Red_Dungeon_floor4
 #. PATH = BWMapPinArea[1]/TitleReference
@@ -9158,7 +9158,7 @@ msgstr "폭풍 해안의 틈새로 올라가는 승강기"
 #. PATH = BWMapPinLocation[2]/TitleReference
 msgctxt "0x0004aaa1"
 msgid "Follow Shaper Valta's Stone Sense Through the Darkspawn Warrens"
-msgstr "발타 기록관의 돌 감각을 따라 어둠의 피조물 군서지 통과하기"
+msgstr "구체자 발타의 돌 감각을 따라 어둠피조물 군서지 통과하기"
 
 #. FILE = da3_dlc_red/Layouts/DLC_Red_Dungeon/map/DLC_Red_Dungeon_floor4
 #. PATH = BWMapPinLocation[4]/TitleReference
@@ -9176,7 +9176,7 @@ msgstr "보상 받기"
 #. PATH = BWMapPinLocation[6]/TitleReference
 msgctxt "0x0004a7d5"
 msgid "Navigate the Darkspawn Warrens"
-msgstr "어둠의 피조물 군서지로 가는 길 찾기"
+msgstr "어둠피조물 군서지로 가는 길 찾기"
 
 #. FILE = da3_dlc_red/Layouts/DLC_Red_Dungeon/map/DLC_Red_Dungeon_floor4
 #. PATH = BWMapPinSearchZone[1]/TitleReference

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2023-07-13 11:53+0000\n"
-"Last-Translator: 평범남 <aaasioa@naver.com>\n"
+"PO-Revision-Date: 2023-08-10 03:53+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/equipment/ko/>"
 "\n"
 "Language: ko\n"
@@ -4009,13 +4009,13 @@ msgstr "폭발성 가루 통"
 #. PATH = RecipeMaterial/DisplayName
 msgctxt "0x0002bf2c"
 msgid "Fereldan Lock"
-msgstr "페렐던식 자물쇠"
+msgstr "퍼렐던식 자물쇠"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Special/recipe_material_ferelden_tome
 #. PATH = RecipeMaterial/DisplayName
 msgctxt "0x0002bf2a"
 msgid "Fereldan Tome"
-msgstr "페렐던 서책"
+msgstr "퍼렐던 서책"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Special/recipe_material_logging_stand_location
 #. PATH = RecipeMaterial/DisplayName
@@ -4995,13 +4995,13 @@ msgstr "모험가 방어구"
 #. PATH = Recipe/DisplayName
 msgctxt "0x00037206"
 msgid "Free Army Warrior Armor"
-msgstr "자유 동맹 전사 방어구"
+msgstr "자유 연맹 전사 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/OnePiece/recipe_heavy_1p_human_freearmy
 #. PATH = Recipe/CraftingName
 msgctxt "0x0003722e"
 msgid "Free Army Armor"
-msgstr "자유 동맹 방어구"
+msgstr "자유 연맹 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Heavy/OnePiece/recipe_heavy_1p_human_orlesianarmy
 #. PATH = Recipe/DisplayName
@@ -5583,13 +5583,13 @@ msgstr "모험가 방어구"
 #. PATH = Recipe/DisplayName
 msgctxt "0x00037216"
 msgid "Free Army Battlemage Armor"
-msgstr "자유 동맹 전투마법사 방어구"
+msgstr "자유 연맹 전투마법사 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/OnePiece/recipe_light_1p_human_freearmy
 #. PATH = Recipe/CraftingName
 msgctxt "0x00037233"
 msgid "Free Army Armor"
-msgstr "자유 동맹 방어구"
+msgstr "자유 연맹 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Light/OnePiece/recipe_light_1p_human_orlesianarmy
 #. PATH = Recipe/DisplayName
@@ -5955,7 +5955,7 @@ msgstr "모자"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001c381"
 msgid "Fereldan Scout Hat"
-msgstr "페렐던 정찰대 모자"
+msgstr "퍼렐던 정찰대 모자"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/Helmets/recipe_medium_helmet_2
 #. PATH = Recipe/Description
@@ -6171,13 +6171,13 @@ msgstr "모험가 방어구"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0003720f"
 msgid "Free Army Scout Armor"
-msgstr "자유 동맹 정찰대 방어구"
+msgstr "자유 연맹 정찰대 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/OnePiece/recipe_medium_1p_human_freearmy
 #. PATH = Recipe/CraftingName
 msgctxt "0x00037240"
 msgid "Free Army Armor"
-msgstr "자유 동맹 방어구"
+msgstr "자유 연맹 방어구"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Medium/OnePiece/recipe_medium_1p_human_orlesianarmy
 #. PATH = Recipe/DisplayName
@@ -8107,7 +8107,7 @@ msgstr "이사벨라의 결투용 가죽 방어구 (안티바식)"
 #. PATH = Recipe/DisplayName
 msgctxt "0x000470ea"
 msgid "Isabela's Dueling Leathers (Marcher)"
-msgstr "이사벨라의 결투용 가죽 방어구 (자유 동맹식)"
+msgstr "이사벨라의 결투용 가죽 방어구 (자유 연맹식)"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Armors/Multiplayer/recipe_mp2_MP_Isabela_02c
 #. PATH = Recipe/DisplayName
@@ -8275,7 +8275,7 @@ msgstr ""
 #. PATH = Recipe/DisplayName
 msgctxt "0x0003b4e5"
 msgid "Fereldan Caravans"
-msgstr "페렐던 짐마차"
+msgstr "퍼렐던 짐마차"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_Crestwood_Covered_Caravans
 #. PATH = Recipe/Description
@@ -8698,7 +8698,7 @@ msgstr ""
 #. PATH = Recipe/DisplayName
 msgctxt "0x00040e61"
 msgid "Hinterlands Geological Survey"
-msgstr "내륙지역 지질 조사"
+msgstr "배후지대 지질 조사"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_Hinterlands_GeoSurvey_01
 #. PATH = Recipe/Description
@@ -8709,7 +8709,7 @@ msgid ""
 "Several dwarven academics at the University of Orlais have requested samples "
 "of ore from the Fereldan Hinterlands. {string}277939{/string}"
 msgstr ""
-"올레이 대학의 드워프 연구자 몇몇이 페렐던 내륙지역의 광물 표본을 구해 달라고 요청했다. {string}277939{/string}"
+"올레이 대학의 드워프 연구자 몇몇이 퍼렐던 배후지대의 광물 표본을 구해 달라고 요청했다. {string}277939{/string}"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_Hinterlands_inquisition_tapestries
 #. PATH = Recipe/DisplayName
@@ -9036,7 +9036,7 @@ msgstr ""
 #. PATH = Recipe/DisplayName
 msgctxt "0x0003fd23"
 msgid "Fereldan History"
-msgstr "페렐던 역사서"
+msgstr "퍼렐던 역사서"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_TheBog_Recipe_01
 #. PATH = Recipe/Description
@@ -9048,7 +9048,7 @@ msgid ""
 "Hargrave's ancient battles with the Avvar in the Fallow Mire. "
 "{string}277939{/string}"
 msgstr ""
-"어느 부유한 페렐던 귀족이 오래전 고요한 늪지에서 벌어진 하그레이브 남작과 아바르족 간의 전투에 관련된 유물을 찾아달라고 부탁했다. "
+"어느 부유한 퍼렐던 귀족이 오래전 고요한 늪지에서 벌어진 하그레이브 남작과 아바르족 간의 전투에 관련된 유물을 찾아달라고 부탁했다. "
 "{string}277939{/string}"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_TheBog_Recipe_02
@@ -9084,7 +9084,7 @@ msgstr "고요한 늪지: 퀘스트 3 설명"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0002bf3d"
 msgid "A Study of Fereldan Culture"
-msgstr "페렐던 문화 연구집"
+msgstr "퍼렐던 문화 연구집"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_UNUSED_culture_ferelden
 #. PATH = Recipe/Description
@@ -9095,7 +9095,7 @@ msgid ""
 "The Fereldans have strong links to various barbarian tribes. We need to find "
 "out how we can use this. {string}277940{/string}"
 msgstr ""
-"페렐던인들은 여러 야만인 부족과 깊은 연관성을 지녔다. 이 사실을 이용할 방안을 모색해야 한다. {string}277940{/string}"
+"퍼렐던인들은 여러 야만인 부족과 깊은 연관성을 지녔다. 이 사실을 이용할 방안을 모색해야 한다. {string}277940{/string}"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_UNUSED_culture_tevinter
 #. PATH = Recipe/DisplayName
@@ -9203,7 +9203,7 @@ msgstr "심문회의 주된 관심사를 반영할 수 있도록 안뜰을 개�
 #. PATH = Recipe/DisplayName
 msgctxt "0x0002bf44"
 msgid "Fereldan Trebuchet"
-msgstr "페렐던식 투석기"
+msgstr "퍼렐던식 투석기"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Special/recipe_ferelden_trebuchet
 #. PATH = Recipe/Description
@@ -10558,7 +10558,7 @@ msgctxt "0x000447f8"
 msgid ""
 "Inflicts bonus damage against red templars and darkspawn on each weapon "
 "strike."
-msgstr "무기 공격이 적중할 때마다 붉은 성기사 혹은 어둠의 피조물 유형 대상에 추가 피해를 줍니다."
+msgstr "무기 공격이 적중할 때마다 붉은 성기사 혹은 어둠피조물 유형 대상에 추가 피해를 줍니다."
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Runes/recipe_rune_vs_corrupted_2
 #. PATH = Recipe/DisplayName
@@ -11100,7 +11100,7 @@ msgstr "대형 도끼"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001f70b"
 msgid "Masterwork Fereldan Broadaxe"
-msgstr "명품 페렐던 넓적도끼"
+msgstr "명품 퍼렐던 넓적도끼"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Greataxes/recipe_greataxe_t2_2
 #. PATH = Recipe/DisplayName
@@ -11304,7 +11304,7 @@ msgstr "명품 촘촘한 끝장식"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001f776"
 msgid "Fereldan Greatsword"
-msgstr "페렐던 대검"
+msgstr "퍼렐던 대검"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Greatswords/recipe_greatsword_t1_1
 #. PATH = Recipe/Description
@@ -11584,7 +11584,7 @@ msgid ""
 "forcing the high dragon laying siege to the area to land. Calling the high "
 "dragon in this manner destroys the Dragon's Call."
 msgstr ""
-"이 망치를 페렐던 성의 고대 징에 사용하면 지역을 공격 중인 고룡을 강제로 지상에 끌어내릴 수 있다. 한 번 사용한 용의 부름은 파괴된다."
+"이 망치를 퍼렐던 성의 고대 징에 사용하면 지역을 공격 중인 고룡을 강제로 지상에 끌어내릴 수 있다. 한 번 사용한 용의 부름은 파괴된다."
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Maces/recipe_mace_dragon_summon
 #. PATH = Recipe/CraftingName
@@ -11818,7 +11818,7 @@ msgstr "겨울숨결"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001bea8"
 msgid "Darkspawn Alpha Shield"
-msgstr "어둠의 피조물 우두머리 방패"
+msgstr "어둠피조물 우두머리 방패"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Shields/recipe_shield_t1_1
 #. PATH = Recipe/DisplayName
@@ -11878,7 +11878,7 @@ msgstr "원형 방패"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001be85"
 msgid "Darkspawn Shield"
-msgstr "어둠의 피조물 방패"
+msgstr "어둠피조물 방패"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Shields/recipe_shield_t2_3
 #. PATH = Recipe/DisplayName
@@ -11890,7 +11890,7 @@ msgstr "중갑 방패"
 #. PATH = Recipe/DisplayName
 msgctxt "0x0001be87"
 msgid "Darkspawn Alpha Shield"
-msgstr "어둠의 피조물 우두머리 방패"
+msgstr "어둠피조물 우두머리 방패"
 
 #. FILE = DA3/Equipment/Crafting/Recipes/Weapons/Warrior/Shields/recipe_shield_t2_5_rare
 #. PATH = Recipe/DisplayName
@@ -12403,7 +12403,7 @@ msgid ""
 "warrior dating from the time of the original darkspawn incursions against "
 "the dwarven empire."
 msgstr ""
-"이 조잡하지만 특색 있는 목걸이의 유래는 드워프 전사 레그지스의 시대까지 거슬러 올라간다. 그는 어둠의 피조물이 최초로 드워프 제국을 "
+"이 조잡하지만 특색 있는 목걸이의 유래는 드워프 전사 레그지스의 시대까지 거슬러 올라간다. 그는 어둠피조물이 최초로 드워프 제국을 "
 "침공했을 당시의 인물이었다."
 
 #. FILE = DA3/Equipment/Items/Accessories/Amulets/equip_BE_acc_amulet_mage
@@ -13974,8 +13974,8 @@ msgid ""
 "possible."
 msgstr ""
 "망자의 군단에 입단하는 드워프는 타이그를 떠나기 전에 죽음을 맞는다. 장례식을 치르고, 사랑하는 이들과 작별 인사를 나눈 뒤 동료 "
-"군단원과 함께 지하 가도로 향한다. 그들은 생전에 지었던 모든 죄를 사면받으며 다시는 돌아올 수 없게 된다. 옛 영토를 앗아간 어둠의 "
-"피조물과 끝없는 전투를 벌이는 처지인 오자마르의 드워프에게, 망자의 군단원이 되는 것은 최고의 영예이다."
+"군단원과 함께 지하 가도로 향한다. 그들은 생전에 지었던 모든 죄를 사면받으며 다시는 돌아올 수 없게 된다. 옛 영토를 앗아간 "
+"어둠피조물과 끝없는 전투를 벌이는 처지인 오자마르의 드워프에게, 망자의 군단원이 되는 것은 최고의 영예이다."
 
 #. FILE = DA3/Equipment/Items/Armors/Heavy/equip_armor_heavy_1p_elf_dalish
 #. PATH = EquipItemAsset/DisplayName
@@ -13993,7 +13993,7 @@ msgstr "중갑 모험자 방어구"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00037010"
 msgid "Heavy Free Army Armor"
-msgstr "중갑 자유 동맹 방어구"
+msgstr "중갑 자유 연맹 방어구"
 
 #. FILE = DA3/Equipment/Items/Armors/Heavy/equip_armor_heavy_1p_human_orlesianarmy
 #. PATH = EquipItemAsset/DisplayName
@@ -14258,13 +14258,13 @@ msgstr "성기사단 투구"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001c38c"
 msgid "Free Marches Helmet"
-msgstr "자유 동맹 투구"
+msgstr "자유 연맹 투구"
 
 #. FILE = DA3/Equipment/Items/Armors/Helms/Heavy/equip_helmet_heavy_t1_3
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001c38f"
 msgid "Fereldan Soldier Helmet"
-msgstr "페렐던 병사 투구"
+msgstr "퍼렐던 병사 투구"
 
 #. FILE = DA3/Equipment/Items/Armors/Helms/Heavy/equip_helmet_heavy_t2_1
 #. PATH = EquipItemAsset/DisplayName
@@ -14470,7 +14470,7 @@ msgstr "튼튼한 모험가 모자"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001c39a"
 msgid "Fereldan Scout Hat"
-msgstr "페렐던 정찰대 모자"
+msgstr "퍼렐던 정찰대 모자"
 
 #. FILE = DA3/Equipment/Items/Armors/Helms/Medium/equip_helmet_medium_t2_2
 #. PATH = EquipItemAsset/DisplayName
@@ -14720,7 +14720,7 @@ msgid ""
 "their sunken ship… including the Arishok's personal face paint, created from "
 "a rare and venomous snake in Par Vollen known to kill a person in seconds."
 msgstr ""
-"커크월에서 전해진 이야기에 의하면, 쿠나리 군대의 우두머리는 자유 동맹의 커크월에 틀어박힌 채로, 고향의 쿠나리에게 원조를 받거나 도움을 "
+"커크월에서 전해진 이야기에 의하면, 쿠나리 군대의 우두머리는 자유 연맹의 커크월에 틀어박힌 채로, 고향의 쿠나리에게 원조를 받거나 도움을 "
 "청하지도 않으면서 수년을 그냥 흘려보냈다고 한다. 그가 어째서 그런 행동을 했는지, 그리고 어떻게 쿠나리가 아리쇽 없이 지낼 수 "
 "있었는지는 알려지지 않았다. 한편, 커크월의 쿠나리는 그들의 침몰한 함선에 실린 물자의 상당량을 거래하였고… 그중에는 사람을 수 초만에 "
 "죽일 수 있는 파 볼렌의 희귀한 독사를 원료로 만들어진 아리쇽 본인의 얼굴 물감이 포함되어 있었다."
@@ -14784,7 +14784,7 @@ msgstr "경량 모험가 방어구"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00037004"
 msgid "Free Army Battlemage Armor"
-msgstr "자유 동맹 전투마법사 방어구"
+msgstr "자유 연맹 전투마법사 방어구"
 
 #. FILE = DA3/Equipment/Items/Armors/Light/equip_armor_light_1p_human_orlesianarmy
 #. PATH = EquipItemAsset/DisplayName
@@ -15272,7 +15272,7 @@ msgstr "평갑 모험가 방어구"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00037026"
 msgid "Medium Free Army Armor"
-msgstr "평갑 자유 동맹 방어구"
+msgstr "평갑 자유 연맹 방어구"
 
 #. FILE = DA3/Equipment/Items/Armors/Medium/equip_armor_medium_1p_human_orlesianarmy
 #. PATH = EquipItemAsset/DisplayName
@@ -15610,7 +15610,7 @@ msgstr "시체 뇌간"
 #.     0x00044aa6(281254) : {string}269939{/string} {string}281367{/string}: {CUSTOM0}
 msgctxt "0x00041e73"
 msgid "Darkspawn Teeth"
-msgstr "어둠의 피조물 이빨"
+msgstr "어둠피조물 이빨"
 
 #. FILE = DA3/Equipment/Items/CreatureCodex/creature_codex_item_deepstalker
 #. PATH = StackedItemAsset/DisplayName
@@ -15887,7 +15887,7 @@ msgstr "화려한 장궁"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001bf95"
 msgid "Fereldan Longsword"
-msgstr "페렐던 장검"
+msgstr "퍼렐던 장검"
 
 #. FILE = DA3/Equipment/Items/FollowersDefault/equip_shield_t2_7
 #. PATH = EquipItemAsset/DisplayName
@@ -17114,7 +17114,7 @@ msgstr "묶은 끝장식"
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x00043b92"
 msgid "Fereldan Longsword Grip"
-msgstr "페렐던식 장검 손잡이"
+msgstr "퍼렐던식 장검 손잡이"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Weapons/Longswords/upgrade_lsword_grip_t1_2
 #. PATH = UpgradeItemAsset/DisplayName
@@ -17150,7 +17150,7 @@ msgstr "올레이 장교 장검 손잡이"
 #. PATH = UpgradeItemAsset/DisplayName
 msgctxt "0x0001c05a"
 msgid "Masterwork Fereldan Longsword Grip"
-msgstr "명품 페렐던식 장검 손잡이"
+msgstr "명품 퍼렐던식 장검 손잡이"
 
 #. FILE = DA3/Equipment/Items/Upgrades/Weapons/Longswords/upgrade_lsword_grip_t2_6
 #. PATH = UpgradeItemAsset/DisplayName
@@ -17780,13 +17780,13 @@ msgstr "독수리 깃털 부적"
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x0002998c"
 msgid "Fereldan Medallion of Service"
-msgstr "페렐던 군대 복무 기념메달"
+msgstr "퍼렐던 군대 복무 기념메달"
 
 #. FILE = DA3/Equipment/Items/Valuables/Tier2/valuable_Fereldan_toy_soldier
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00029972"
 msgid "Fereldan Toy Soldier"
-msgstr "페렐던 장난감 병정"
+msgstr "퍼렐던 장난감 병정"
 
 #. FILE = DA3/Equipment/Items/Valuables/Tier2/valuable_Fire_Agate
 #. PATH = StackedItemAsset/DisplayName
@@ -18176,7 +18176,7 @@ msgstr "수정 그리폰 장식품"
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x0002995b"
 msgid "Darkspawn Totem"
-msgstr "어둠의 피조물 토템"
+msgstr "어둠피조물 토템"
 
 #. FILE = DA3/Equipment/Items/Valuables/Tier4/valuable_Dwarven_Dragon_Statue
 #. PATH = StackedItemAsset/DisplayName
@@ -18917,7 +18917,7 @@ msgid ""
 "but the shaman vanished during the final battle in the southern Hinterlands."
 msgstr ""
 "코카리 야생지 남부, 태양이 뜨지 않는 공포의 땅에서 제작된 것으로 추정되는 이 지팡이는 발락이라는 아바르 전쟁군주를 수행하던 주술사가 "
-"사용한 것이다. 발락은 철의 시대의 정점에 페렐던 계곡을 습격했다 패배했지만, 주술사는 마지막 전투 중 내륙지역 남부로 모습을 감추었다."
+"사용한 것이다. 발락은 철의 시대의 정점에 퍼렐던 계곡을 습격했다 패배했지만, 주술사는 마지막 전투 중 배후지대 남부로 모습을 감추었다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Mage/Staff/equip_staff_t2_15_unique
 #. PATH = EquipItemAsset/DisplayName
@@ -19408,7 +19408,7 @@ msgstr "사냥 장궁"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001906d"
 msgid "Fereldan Army Longbow"
-msgstr "페렐던군 장궁"
+msgstr "퍼렐던군 장궁"
 
 #. FILE = DA3/Equipment/Items/Weapons/Rogue/Bows/equip_bow_t1_3
 #. PATH = EquipItemAsset/DisplayName
@@ -19420,7 +19420,7 @@ msgstr "균형 잡힌 사냥 장궁"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x000286ad"
 msgid "Fereldan Officer Longbow"
-msgstr "페렐던 장교의 장궁"
+msgstr "퍼렐던 장교의 장궁"
 
 #. FILE = DA3/Equipment/Items/Weapons/Rogue/Bows/equip_bow_t1_5
 #. PATH = EquipItemAsset/DisplayName
@@ -19432,7 +19432,7 @@ msgstr "단단한 사냥 장궁"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00019062"
 msgid "Fereldan Skirmisher Longbow"
-msgstr "페렐던 척후병 장궁"
+msgstr "퍼렐던 척후병 장궁"
 
 #. FILE = DA3/Equipment/Items/Weapons/Rogue/Bows/equip_bow_t1_7_rare
 #. PATH = EquipItemAsset/DisplayName
@@ -19662,7 +19662,7 @@ msgid ""
 "leads caravans though the dangerous Wandering Hills to the distant port of "
 "Laysh and comprise the best marksmen in Thedas."
 msgstr ""
-"앤더펠스의 \"녹의단\" 전사들의 시조는 머데인의 사냥꾼, 그런즈맨이다. 그는 첫 번째 대재앙 당시 어둠의 피조물 전선을 넘어 호스버그 "
+"앤더펠스의 \"녹의단\" 전사들의 시조는 머데인의 사냥꾼, 그런즈맨이다. 그는 첫 번째 대재앙 당시 어둠피조물 전선을 넘어 호스버그 "
 "주민들을 굶주림으로부터 구한 것으로 명망이 높다. 그의 이름을 따라 창립된 녹의단은 테다스 최고의 명사수로 구성되어 있으며, 위험천만한 "
 "굽은구릉을 넘어 머나먼 레이슈의 항구로 대상단을 인도한다."
 
@@ -19686,7 +19686,7 @@ msgid ""
 msgstr ""
 "네바라 출신의 위나 디 라디아는 쌍탑의 시대의 가장 유명한 엘프 영웅 중 하나였다. 데일스 지방을 수호하던 에메랄드 기사단의 후예인 "
 "그는, 세 번째 대재앙이 닥치자 조부의 활을 들고 나서서 그 아름다움과 노련함으로 테다스군을 고무시켰다. 이후 위나의 이름을 내걸고 엘프 "
-"격리촌에서 반란이 일어나자 위나는 자유 동맹의 군주들과 마찰을 겪었고, 범죄자로 지목되는 것을 피해 종적을 감추었다. 그 전설은 아직도 "
+"격리촌에서 반란이 일어나자 위나는 자유 연맹의 군주들과 마찰을 겪었고, 범죄자로 지목되는 것을 피해 종적을 감추었다. 그 전설은 아직도 "
 "도시 엘프 사이에서 맥을 잇고 있다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Rogue/Bows/equip_bow_t3_14_rare
@@ -20484,7 +20484,7 @@ msgstr ""
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00020303"
 msgid "Darkspawn Sickle"
-msgstr "어둠의 피조물 낫"
+msgstr "어둠피조물 낫"
 
 #. FILE = DA3/Equipment/Items/Weapons/Rogue/Daggers/equip_dagger_t3_8
 #. PATH = EquipItemAsset/DisplayName
@@ -20611,7 +20611,7 @@ msgstr "스텐의 전투도끼"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001f727"
 msgid "Darkspawn Alpha Greataxe"
-msgstr "어둠의 피조물 우두머리 거대 도끼"
+msgstr "어둠피조물 우두머리 거대 도끼"
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Greataxes/equip_greataxe_t2_4_rare
 #. PATH = EquipItemAsset/DisplayName
@@ -20629,7 +20629,7 @@ msgstr "균형 잡힌 전투도끼"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001f71a"
 msgid "Fereldan Broadaxe"
-msgstr "페렐던 넓적도끼"
+msgstr "퍼렐던 넓적도끼"
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Greataxes/equip_greataxe_t2_7
 #. PATH = EquipItemAsset/DisplayName
@@ -20648,8 +20648,8 @@ msgid ""
 "mined there."
 msgstr ""
 "산아버지 코르트는 세월의 여명에 그 백성을 산에 데려다 주고는, 그들이 몸을 누일 동굴을 만들고 스스로 계속 살아갈 수 있도록 사냥감을 "
-"몰아다 주었다. 그는 백성에게 \"산에 머무르라. 산이 필요한 모든 것을 줄 터이니.\" 하고 말했다 한다. 그런 연유로, 서리등선 "
-"산맥을 떠나는 아바르는 그곳에서 캔 광석으로 만든 칼을 꼭 지니고 다닌다."
+"몰아다 주었다. 그는 백성에게 \"산에 머무르라. 산이 필요한 모든 것을 줄 터이니.\" 하고 말했다 한다. 그런 연유로, 서리등 산맥을 "
+"떠나는 아바르는 그곳에서 캔 광석으로 만든 칼을 꼭 지니고 다닌다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Greataxes/equip_greataxe_t2_8_unique
 #. PATH = EquipItemAsset/DisplayName
@@ -20665,7 +20665,7 @@ msgid ""
 "This axe predates the thaig's loss to the darkspawn, and from flecks on the "
 "hilt, the blade was once coated in gold."
 msgstr ""
-"드워프의 다르말론 타이그는 테다스의 가장 큰 금광 중 하나였다. 이 도끼는 어둠의 피조물의 공격에 다르말론 타이그를 잃기 전에 만들어진 "
+"드워프의 다르말론 타이그는 테다스의 가장 큰 금광 중 하나였다. 이 도끼는 어둠피조물의 공격에 다르말론 타이그를 잃기 전에 만들어진 "
 "것으로, 자루 부분의 얼룩으로 보건대 한때 그 칼날에는 금박이 씌워졌던 것으로 보인다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Greataxes/equip_greataxe_t3_1
@@ -20727,7 +20727,7 @@ msgid ""
 "Age after extended diplomacy by Prince Artesian Vael, only to be lost again "
 "when the Qunari invaded in the Steel Age. It has not been seen since."
 msgstr ""
-"이 도끼는 영광의 시대에 자유 동맹을 통일하려 했다 실패한 스탁헤이븐의 파이러스 대공이 처음으로 사용한 것이다. 파이러스의 목숨을 앗은 "
+"이 도끼는 영광의 시대에 자유 연맹을 통일하려 했다 실패한 스탁헤이븐의 파이러스 대공이 처음으로 사용한 것이다. 파이러스의 목숨을 앗은 "
 "전투 이후, 도끼는 테빈터 제국의 손에 떨어졌다. 승임의 시대에 이르러 아르티지언 베일 대공의 끈질긴 외교 끝에 도끼는 다시 "
 "스탁헤이븐으로 돌아왔으나, 철의 시대 쿠나리 침공을 겪으면서 또 한번 행방불명되었다. 이후 이 도끼를 본 이는 아무도 없다."
 
@@ -20935,9 +20935,9 @@ msgid ""
 "Frostback Mountains or make overtures to enemies among the Avvar—thus his "
 "nickname, \"the Mountain Terror.\""
 msgstr ""
-"베네드린 테어린 국왕은 렌도르에게 \"페렐던 왕조에 대한 헌신\"을 명목으로 여러 차례 기사 작위를 수여했다. 역사가들은 렌도르가 "
-"서리등선 산맥을 우회하는 올레이 순찰대를 습격하거나 아바르의 적에게 접근하기 위해 정기적으로 고용되었던 모험가 혹은 용병이었으며, 그래서 "
-"그의 별명이 \"산의 공포\"였던 것이라 믿고 있다."
+"베네드린 테어린 국왕은 렌도르에게 \"퍼렐던 왕조에 대한 헌신\"을 명목으로 여러 차례 기사 작위를 수여했다. 역사가들은 렌도르가 서리등 "
+"산맥을 우회하는 올레이 순찰대를 습격하거나 아바르의 적에게 접근하기 위해 정기적으로 고용되었던 모험가 혹은 용병이었으며, 그래서 그의 "
+"별명이 \"산의 공포\"였던 것이라 믿고 있다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Greatswords/equip_greatsword_t3_1
 #. PATH = EquipItemAsset/DisplayName
@@ -21178,9 +21178,9 @@ msgid ""
 "However, while Hossberg did force the horde into retreat, Grey Wardens "
 "entering the city found only chaos and no Ansel."
 msgstr ""
-"이 큰망치는 3차 대재앙 시절의 어둠의 피조물 공성전 때 호스버그가 생존하게 해 준 물건이라 전해진다. 오늘날까지도 앤더펠스에서는 "
-"큰망치를 고결하게 들어올린 채 도시의 검은 탑 꼭대기에 군림한 안셀 경의 모습을 그린 그림이 전해지고는 한다. 그러나, 호스버그가 적을 "
-"후퇴시킨 것은 사실이지만, 회색 감시자들이 도시에 들어섰을 때 안셀은 간데없이 도시는 혼란에 휩싸여 있었다고 한다."
+"이 큰망치는 3차 대재앙 시절의 어둠피조물 공성전 때 호스버그가 생존하게 해 준 물건이라 전해진다. 오늘날까지도 앤더펠스에서는 큰망치를 "
+"고결하게 들어올린 채 도시의 검은 탑 꼭대기에 군림한 안셀 경의 모습을 그린 그림이 전해지고는 한다. 그러나, 호스버그가 적을 후퇴시킨 "
+"것은 사실이지만, 회색 감시자들이 도시에 들어섰을 때 안셀은 간데없이 도시는 혼란에 휩싸여 있었다고 한다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/TwoHanded/Mauls/equip_maul_t3_1_rare
 #. PATH = EquipItemAsset/DisplayName
@@ -21672,7 +21672,7 @@ msgid ""
 "blows beyond counting, but the inside is perfectly smooth except near the "
 "center, where \"I'm sorry\" is etched in small letters."
 msgstr ""
-"형태로 추측컨대 자유 동맹에서 만들어진 방패다. 검은 교황의 시대에 아마란틴 해안 지역의 기사와 귀족 사이에 유행했던 기법으로 "
+"형태로 추측컨대 자유 연맹에서 만들어진 방패다. 검은 교황의 시대에 아마란틴 해안 지역의 기사와 귀족 사이에 유행했던 기법으로 "
 "제작되었다. 문장이 그려져 있어야 할 곳은 이상하게도 비어 있으며, 아주 희미하게 리륨의 빛이 나는 것으로 보아 포마리가 제작에 관여한 "
 "것이 분명하다. 바깥 면은 무수한 타격으로 심하게 긁혔지만 안쪽 면은 가운데 부분을 제외하면 완벽할 정도로 매끄럽다. 중심 부위에는 작은 "
 "글씨로 \"미안하다\"라는 글귀가 새겨져 있다."
@@ -21837,7 +21837,7 @@ msgstr ""
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001bea1"
 msgid "Fereldan Tower Shield"
-msgstr "페렐던 대형 방패"
+msgstr "퍼렐던 대형 방패"
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/WeaponShield/Shields/equip_shield_t2_11
 #. PATH = EquipItemAsset/DisplayName
@@ -21855,7 +21855,7 @@ msgstr "도적단 대형 방패"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001bea4"
 msgid "Fereldan Noble Shield"
-msgstr "페렐던 귀족의 방패"
+msgstr "퍼렐던 귀족의 방패"
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/WeaponShield/Shields/equip_shield_t2_14
 #. PATH = EquipItemAsset/DisplayName
@@ -21951,7 +21951,7 @@ msgstr "명품 다리미꼴 방패"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001bea9"
 msgid "Masterwork Darkspawn Shield"
-msgstr "명품 어둠의 피조물 방패"
+msgstr "명품 어둠피조물 방패"
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/WeaponShield/Shields/equip_shield_t2_6
 #. PATH = EquipItemAsset/DisplayName
@@ -21969,7 +21969,7 @@ msgstr "성기사단 지휘관 방패"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x00028744"
 msgid "Darkspawn Shield"
-msgstr "어둠의 피조물 방패"
+msgstr "어둠피조물 방패"
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/WeaponShield/Shields/equip_shield_t2_9
 #. PATH = EquipItemAsset/DisplayName
@@ -22203,7 +22203,7 @@ msgstr "용병단 검"
 #. PATH = EquipItemAsset/DisplayName
 msgctxt "0x0001c041"
 msgid "Fereldan Captain Longsword"
-msgstr "페렐던 대장의 장검"
+msgstr "퍼렐던 대장의 장검"
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/WeaponShield/Swords/equip_lsword_t1_4
 #. PATH = EquipItemAsset/DisplayName
@@ -22253,8 +22253,8 @@ msgid ""
 msgstr ""
 "키릴 경이 신록의 기사와 그 유명한 결투를 벌였을 때, 많은 이들이 키릴 경이 자신이 쓸 검에 마법을 걸었으며, 신록의 기사(그 정체는 "
 "끝내 밝혀지지 않았다)가 이를 알면서도 아무 말을 하지 않았던 것이라고 의심했다. 키릴 경이 승리하자 비겁한 짓이라는 항변이 여럿 "
-"터져나왔고, 이는 자유 동맹의 탠터베일을 향한 공격으로까지 이어졌다. 키릴 경과 그 검은 함께 모습을 감추었는데, 이는 암살자의 짓이거나 "
-"그가 신원을 바꾸고 페렐던으로 잠적했기 때문일 것이다."
+"터져나왔고, 이는 자유 연맹의 탠터베일을 향한 공격으로까지 이어졌다. 키릴 경과 그 검은 함께 모습을 감추었는데, 이는 암살자의 짓이거나 "
+"그가 신원을 바꾸고 퍼렐던으로 잠적했기 때문일 것이다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/WeaponShield/Swords/equip_lsword_t2_1_rare
 #. PATH = EquipItemAsset/DisplayName
@@ -22372,7 +22372,7 @@ msgid ""
 msgstr ""
 "펜타가스트가 아닌 용 사냥꾼 중 가장 유명하며, (그는 철의 시대 초기에 마지막 용을 살해했다고 주장한다) 평민 출신인 것과 특이한 성적 "
 "취향으로 악명 높은 캘리반이 처음 휘두른 것이다. 그의 연인이던 피온 테어린 왕의 죽음 이후로 그는 스스로 유배 생활에 들어갔으며, 일부 "
-"사람들은 그가 서리등선 산맥에서 캘리버나이트라 불리는 비밀 전사 조직을 훈련시켰다고도 한다."
+"사람들은 그가 서리등 산맥에서 캘리버나이트라 불리는 비밀 전사 조직을 훈련시켰다고도 한다."
 
 #. FILE = DA3/Equipment/Items/Weapons/Warrior/WeaponShield/Swords/equip_lsword_t3_1_rare
 #. PATH = EquipItemAsset/DisplayName
@@ -22458,7 +22458,7 @@ msgstr "생명체 연구품입니다. 생명체 연구 전문가에게 가져다
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x000432ff"
 msgid "Southern Ferelden Independent Compact"
-msgstr "남부 페렐던 독립 협정"
+msgstr "남부 퍼렐던 독립 협정"
 
 #. FILE = DA3/Equipment/Loot/MercenaryContracts/mercenary_contract_large_1
 #. PATH = StackedItemAsset/Description
@@ -22493,7 +22493,7 @@ msgstr "남부 네바라 독립 협정"
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x0004330d"
 msgid "Northern Ferelden Independent Compact"
-msgstr "북부 페렐던 독립 협정"
+msgstr "북부 퍼렐던 독립 협정"
 
 #. FILE = DA3/Equipment/Loot/MercenaryContracts/mercenary_contract_large_5
 #. PATH = StackedItemAsset/DisplayName
@@ -22524,7 +22524,7 @@ msgstr ""
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00043319"
 msgid "Protocols of Passage: Free Marches"
-msgstr "여행 협정서: 자유 동맹"
+msgstr "여행 협정서: 자유 연맹"
 
 #. FILE = DA3/Equipment/Loot/MercenaryContracts/mercenary_contract_major_2
 #. PATH = StackedItemAsset/Description
@@ -22535,7 +22535,7 @@ msgid ""
 "obfuscating mire of language to draw out names. Subtle but far-reaching. "
 "Grants a major increase to Inquisition Power and Influence."
 msgstr ""
-"자유 동맹 중에서도 일부 영향력 있는 도시국가 내 조합 및 무역 협력자들의 합의서입니다. 쉽게 얻을 수 없는 물건으로, 어느 행정관도 이 "
+"자유 연맹 중에서도 일부 영향력 있는 도시국가 내 조합 및 무역 협력자들의 합의서입니다. 쉽게 얻을 수 없는 물건으로, 어느 행정관도 이 "
 "고의적으로 복잡하게 작성된 문자의 나열 속에서 특정한 이름을 추려낼 수 없을 것입니다. 은밀하면서도 파급력이 큽니다. 심문회 행동력과 "
 "영향력을 상당히 증가시킵니다."
 
@@ -22768,7 +22768,7 @@ msgstr "데일스 요새 (마법사, 레벨 16-19: 무기, 방어구, 도안)"
 #. PATH = StoreData/StoreName
 msgctxt "0x00034f8d"
 msgid "Fereldan Crossroads (mage weapons, armors, schematics, and accessories)"
-msgstr "페렐던 교차로 (마법사 무기, 방어구, 도안, 장신구)"
+msgstr "퍼렐던 교차로 (마법사 무기, 방어구, 도안, 장신구)"
 
 #. FILE = DA3/Equipment/Stores/store_haven
 #. PATH = StoreData/StoreName
@@ -22800,7 +22800,7 @@ msgstr "레드클리프 상점 2 (도적 방어구와 무기: 아이템과 도�
 #. PATH = StoreData/StoreName
 msgctxt "0x00034fa2"
 msgid "Fereldan Village 3 (all weapons for all classes, level 12-15)"
-msgstr "페렐던 마을 3 (모든 직업, 모든 무기, 레벨 12-15)"
+msgstr "퍼렐던 마을 3 (모든 직업, 모든 무기, 레벨 12-15)"
 
 #. FILE = DA3/Equipment/Stores/store_western_approach_keep
 #. PATH = StoreData/StoreName
@@ -23443,7 +23443,7 @@ msgid ""
 "Andrastian mages once used staves like this one to exact justice against "
 "maleficarum. None have been made since the Towers Age."
 msgstr ""
-"안드라스테 신앙을 지닌 마법사들은 한때 이런 지팡이를 말레피카들을 처단하는 데 사용했다. 이 종류의 지팡이는 쌍탑의 시대 이후로는 일절 "
+"안드라스테 신앙을 지닌 마법사들은 한때 이런 지팡이를 사술사들을 처단하는 데 사용했다. 이 종류의 지팡이는 쌍탑의 시대 이후로는 일절 "
 "제작되지 않았다."
 
 #. FILE = DA3_DLC1/Equipment/Items/Weapons/Mage/Staff/dlc1_equip_dlc1_staff_energy
@@ -23478,7 +23478,7 @@ msgid ""
 "Hunters, those Emerald Knights tasked with protecting the Dalish kingdom "
 "from maleficarum and demons."
 msgstr ""
-"할람시랄의 타날레스라는 전설의 엘프 대장장이는 한때 말레피카와 악마들로부터 데일스 왕국을 보호하는 임무를 맡은 에메랄드 기사들인, 영계 "
+"할람시랄의 타날레스라는 전설의 엘프 대장장이는 한때 사술사와 악마들로부터 데일스 왕국을 보호하는 임무를 맡은 에메랄드 기사들인, 영계 "
 "사냥꾼들을 위해 활을 만들었다."
 
 #. FILE = DA3_DLC1/Equipment/Items/Weapons/Rogue/Bows/dlc1_equip_dlc1_bow_2

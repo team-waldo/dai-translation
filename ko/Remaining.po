@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2023-05-12 00:53+0000\n"
+"PO-Revision-Date: 2023-08-10 03:53+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/remaining/ko/>"
 "\n"
@@ -2027,7 +2027,7 @@ msgstr "길을 통달한 자"
 #. PATH = MPServerMappingChallengeRewardText[39]/RewardText
 msgctxt "0x0004af25"
 msgid "Defender of Ferelden"
-msgstr "페렐던의 수호자"
+msgstr "퍼렐던의 수호자"
 
 #. FILE = DA3/Configurations/Online/MPServerMappingConfiguration
 #. PATH = MPServerMappingChallengeRewardText[40]/RewardText
@@ -2573,7 +2573,7 @@ msgid ""
 "While Pala uses weapons, she still honors the rigorous lessons that helped "
 "her and her fellow sisters destroy darkspawn with their bare hands in the "
 "Deep Roads."
-msgstr "팔라는 전투 중에도 자신과 자매들이 지하 가도에서 맨 손으로 어둠의 피조물을 파괴할 수 있게 도와주었던 호된 교훈을 기립니다."
+msgstr "팔라는 전투 중에도 자신과 자매들이 지하 가도에서 맨 손으로 어둠피조물을 파괴할 수 있게 도와주었던 호된 교훈을 기립니다."
 
 #. FILE = DA3/Configurations/Online/Multiplayer/Abilities/Passives/KitUnique/ArcaneWarrior/SpellSword/MP_arcanewarrior_passive_spellsword_abilitydata
 #. PATH = BWPassiveAbility/AbilityNameReference
@@ -3742,7 +3742,7 @@ msgid ""
 "against Thedas's greatest threat. "
 msgstr ""
 "망자의 군단은 오자마르에서 제일 유명하고 헌신적인 전사들이다. 이 드워프들은 자신들의 죽음을 선언하고 지하 가도로 들어가 도시를 향해 "
-"밀려드는 어둠의 피조물들과 끝없는 싸움에 동참한다. 코르빈은 그들 중 하나다. 오자마르 출신의 매우 뛰어난 전사로 군단을 위해 자원했다. "
+"밀려드는 어둠피조물들과 끝없는 싸움에 동참한다. 코르빈은 그들 중 하나다. 오자마르 출신의 매우 뛰어난 전사로 군단을 위해 자원했다. "
 "드워프 왕과 심문회 사이 동맹의 결과로 이제 코르빈은 테다스의 가장 큰 위협에 맞서 지상으로 나왔다. "
 
 #. FILE = DA3/Configurations/Party/Multiplayer/MP_Guardian
@@ -4309,7 +4309,7 @@ msgstr "데일스 사냥꾼"
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x0001890a"
 msgid "Fereldan Woodsman"
-msgstr "페렐던 자연인"
+msgstr "퍼렐던 자연인"
 
 #. FILE = DA3/Creatures/Faction/Biotic/Human/creature_ferelden_farmer_footsoldier
 #. PATH = CreatureEntityData/CharacterNameReference
@@ -4615,7 +4615,7 @@ msgstr "망령"
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x00042dd4"
 msgid "Fereldan Frostback"
-msgstr "페렐던 서리등"
+msgstr "퍼렐던 서리등"
 
 #. FILE = DA3/Creatures/Faction/Draconic/Dragon/creature_boss_highdragon_desertruins
 #. PATH = CreatureEntityData/CharacterNameReference
@@ -5854,25 +5854,25 @@ msgstr "드워프 스타일의 침대."
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042bdf"
 msgid "Free Marches I"
-msgstr "자유 동맹 침대 I"
+msgstr "자유 연맹 침대 I"
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Dwarven/sky_bed_freemarches_1
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042be0"
 msgid "A bed featuring decorations from the Free Marches."
-msgstr "자유 동맹 양식으로 장식된 침대."
+msgstr "자유 연맹 양식으로 장식된 침대."
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Dwarven/sky_bed_freemarches_2
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042be1"
 msgid "Free Marches Bed II"
-msgstr "자유 동맹 침대 II"
+msgstr "자유 연맹 침대 II"
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Dwarven/sky_bed_freemarches_2
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042be2"
 msgid "A bed featuring decorations from the Free Marches."
-msgstr "자유 동맹 양식으로 장식된 침대."
+msgstr "자유 연맹 양식으로 장식된 침대."
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Dwarven/sky_bed_orlesian_1
 #. PATH = StackedItemAsset/DisplayName
@@ -5962,25 +5962,25 @@ msgstr "오자마르 드워프의 전통 문장."
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042bf6"
 msgid "Fereldan Heraldry"
-msgstr "페렐던 문장"
+msgstr "퍼렐던 문장"
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Heraldry/sky_heraldry_ferelden
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042bf7"
 msgid "Heraldry from Ferelden, a nation in southern Thedas."
-msgstr "남부 테다스에 위치한 국가, 페렐던의 문장."
+msgstr "남부 테다스에 위치한 국가, 퍼렐던의 문장."
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Heraldry/sky_heraldry_freemarches
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042bf8"
 msgid "Free Marches Heraldry"
-msgstr "자유 동맹 문장"
+msgstr "자유 연맹 문장"
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Heraldry/sky_heraldry_freemarches
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042bf9"
 msgid "Heraldry from Kirkwall, a prominent city-state of the Free Marches."
-msgstr "자유 동맹의 도시국가인 커크월의 문장."
+msgstr "자유 연맹의 도시국가인 커크월의 문장."
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Heraldry/sky_heraldry_greywarden
 #. PATH = StackedItemAsset/DisplayName
@@ -6083,13 +6083,13 @@ msgstr "드워프 디자인의 스테인드글라스 창."
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042c58"
 msgid "Fereldan Glass"
-msgstr "페렐던 유리창"
+msgstr "퍼렐던 유리창"
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Windows/sky_windows_ferelden
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042c59"
 msgid "Stained glass from Ferelden, with a design heavily featuring mabari."
-msgstr "마바리 사냥개가 그려진 페렐던산 스테인드글라스."
+msgstr "마바리 사냥개가 그려진 퍼렐던산 스테인드글라스."
 
 #. FILE = DA3/DesignContent/Items/Skyhold/Windows/sky_windows_inquisition
 #. PATH = StackedItemAsset/DisplayName
@@ -6460,7 +6460,7 @@ msgid ""
 "\n"
 "{string}277971{/string}"
 msgstr ""
-"페렐던의 베란드 경은 심문회의 소식을 들고 남작령으로 돌아갔다. 그의 목소리는 많은 이들을 심문회의 대의에 동참시켰다.\n"
+"퍼렐던의 베란드 경은 심문회의 소식을 들고 대남작령 지방으로 돌아갔다. 그의 목소리는 많은 이들을 심문회의 대의에 동참시켰다.\n"
 "\n"
 "{string}277971{/string}"
 
@@ -6698,7 +6698,7 @@ msgid ""
 "\n"
 "{string}277985{/string}"
 msgstr ""
-"페렐던의 베란드 경은 그의 검과 그를 따르는 병력을 심문회에 바쳤다. 이들의 합류는 심문회의 사기를 상승시킨다.\n"
+"퍼렐던의 베란드 경은 그의 검과 그를 따르는 병력을 심문회에 바쳤다. 이들의 합류는 심문회의 사기를 상승시킨다.\n"
 "\n"
 "{string}277985{/string}"
 
@@ -9177,7 +9177,7 @@ msgid ""
 "\n"
 "{string}281195{/string}: {string}281192{/string}"
 msgstr ""
-"아다만트 요새는 어둠의 피조물의 공격을 수도 없이 견뎌왔다. 요새를 수호하는 회색 감시자들은 전설적인 전사들이다. 감시단 사령관 클라렐이 "
+"아다만트 요새는 어둠피조물의 공격을 수도 없이 견뎌왔다. 요새를 수호하는 회색 감시자들은 전설적인 전사들이다. 감시단 사령관 클라렐이 "
 "악마 군대를 만드는 것을 막기 위해, 심문회 병력은 아다만트의 방어를 뚫을 만큼 강력한 공성 장비를 필요로 할 것이다.\n"
 "\n"
 "{string}281195{/string}: {string}281192{/string}"
@@ -9266,7 +9266,7 @@ msgid ""
 "{string}281195{/string}: {string}281193{/string}"
 msgstr ""
 "심문회는 이제 누구도 넘볼 수 없는 세력이 되었다. 심문회의 동맹을 모아 {spHeroLastName} 심문관의 군대와 함께 코리피우스의 "
-"광신도들을 마지막으로 상대하기 위해 수목 야생지로 진군하도록 하자. 이 어둠의 피조물 매지스터가 야생지에 숨겨진 엘프 유물을 찾아 영계의 "
+"광신도들을 마지막으로 상대하기 위해 수목 야생지로 진군하도록 하자. 이 어둠피조물 매지스터가 야생지에 숨겨진 엘프 유물을 찾아 영계의 "
 "힘을 얻기 전에, 심문회가 그를 막아야 한다.\n"
 "\n"
 "{string}281195{/string}: {string}281193{/string}"
@@ -10358,7 +10358,7 @@ msgstr "비할 데 없는"
 #. PATH = AwardAchievementData[2]/LocalizedDescription
 msgctxt "0x0004a5ac"
 msgid "Even Ground on: slay a level 16 or higher Fereldan Frostback."
-msgstr "공평한 환경 시련을 활성화하고 레벨 16 이상의 페렐던 서리등을 처치하십시오."
+msgstr "공평한 환경 시련을 활성화하고 레벨 16 이상의 퍼렐던 서리등을 처치하십시오."
 
 #. FILE = DA3/Persistence/AchievementTree
 #. PATH = AwardAchievementData[2]/LocalizedName
@@ -10467,7 +10467,7 @@ msgstr "불씨를 피우는 자"
 #. PATH = AwardAchievementData[11]/LocalizedDescription
 msgctxt "0x0004aa02"
 msgid "Help Shaper Valta discover secret dwarven history."
-msgstr "발타 기록관이 숨겨진 드워프 역사를 발견하도록 도움을 주십시오."
+msgstr "구체자 발타가 숨겨진 드워프 역사를 발견하도록 도움을 주십시오."
 
 #. FILE = DA3/Persistence/AchievementTree
 #. PATH = AwardAchievementData[11]/LocalizedName
@@ -11005,7 +11005,7 @@ msgstr "지상을 위협하는 지진을 멈추십시오."
 #. PATH = AwardAchievementData[54]/LocalizedName
 msgctxt "0x0004aa01"
 msgid "Shaper of Stone"
-msgstr "돌의 기록관"
+msgstr "돌의 구체자"
 
 #. FILE = DA3/Persistence/AchievementTree
 #. PATH = AwardAchievementData[55]/LocalizedDescription
@@ -11216,7 +11216,7 @@ msgstr "큰곰"
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x0004238b"
 msgid "Fereldan Frostback"
-msgstr "페렐던 서리등"
+msgstr "퍼렐던 서리등"
 
 #. FILE = DA3/designcontent/CreatureProfiles/Ferelden/Hinterlands/fer_com_grandfather_demon_creatureprofile
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -11312,7 +11312,7 @@ msgstr "피난민 사냥꾼"
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x00032d91"
 msgid "Hinterlands Healer"
-msgstr "내륙지역 치료사"
+msgstr "배후지대 치료사"
 
 #. FILE = DA3/designcontent/CreatureProfiles/Ferelden/Hinterlands/fer_npc_merchant_crossroads_creatureprofile
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -11953,7 +11953,7 @@ msgstr "발라마르 열쇠"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x0002a0a7"
 msgid "This key was found alongside a letter on a desk in the Hinterlands."
-msgstr "이 열쇠는 내륙지역의 책상 위에 있던 편지 옆에서 발견되었다."
+msgstr "이 열쇠는 배후지대의 책상 위에 있던 편지 옆에서 발견되었다."
 
 #. FILE = DA3/designcontent/Items/Ferelden/fer_wild_lq7_keyh
 #. PATH = StackedItemAsset/DisplayName
@@ -12117,49 +12117,49 @@ msgstr "드워프 깃발에 다는 장식."
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042b61"
 msgid "Fereldan Banner"
-msgstr "페렐던 깃발"
+msgstr "퍼렐던 깃발"
 
 #. FILE = DA3/designcontent/Items/Skyhold/Banners/sky_banner_ferelden_2
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042b77"
 msgid "A banner from Ferelden."
-msgstr "페렐던에서 온 깃발."
+msgstr "퍼렐던에서 온 깃발."
 
 #. FILE = DA3/designcontent/Items/Skyhold/Banners/sky_banner_ferelden_3
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042b62"
 msgid "Fereldan Banner Crown"
-msgstr "페렐던 깃발장식"
+msgstr "퍼렐던 깃발장식"
 
 #. FILE = DA3/designcontent/Items/Skyhold/Banners/sky_banner_ferelden_3
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042b78"
 msgid "Ornamentation for a Fereldan banner."
-msgstr "페렐던 깃발에 다는 장식."
+msgstr "퍼렐던 깃발에 다는 장식."
 
 #. FILE = DA3/designcontent/Items/Skyhold/Banners/sky_banner_freemarches_2
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042b63"
 msgid "Free Marches Banner "
-msgstr "자유 동맹 깃발 "
+msgstr "자유 연맹 깃발 "
 
 #. FILE = DA3/designcontent/Items/Skyhold/Banners/sky_banner_freemarches_2
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042b79"
 msgid "A banner from Kirkwall, of the Free Marches."
-msgstr "자유 동맹의 커크월에서 온 깃발."
+msgstr "자유 연맹의 커크월에서 온 깃발."
 
 #. FILE = DA3/designcontent/Items/Skyhold/Banners/sky_banner_freemarches_3
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042b64"
 msgid "Free Marches Banner Crown"
-msgstr "자유 동맹 깃발장식"
+msgstr "자유 연맹 깃발장식"
 
 #. FILE = DA3/designcontent/Items/Skyhold/Banners/sky_banner_freemarches_3
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042b7a"
 msgid "Ornamentation for a Free Marches banner."
-msgstr "자유 동맹 깃발에 다는 장식."
+msgstr "자유 연맹 깃발에 다는 장식."
 
 #. FILE = DA3/designcontent/Items/Skyhold/Banners/sky_banner_inquisition_2
 #. PATH = StackedItemAsset/DisplayName
@@ -12993,25 +12993,25 @@ msgstr "엘프들만의 독특한 요소가 들어간 휘장."
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042bc4"
 msgid "Fereldan Drapery"
-msgstr "페렐던 휘장"
+msgstr "퍼렐던 휘장"
 
 #. FILE = DA3/designcontent/Items/Skyhold/Drapes/sky_drapes_ferelden_1
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042bc5"
 msgid "Drapes bearing distinctive Fereldan elements."
-msgstr "페렐던의 장식요소가 들어간 휘장."
+msgstr "퍼렐던의 장식요소가 들어간 휘장."
 
 #. FILE = DA3/designcontent/Items/Skyhold/Drapes/sky_drapes_freemarches_1
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042bc6"
 msgid "Free Marcher Drapery"
-msgstr "자유 동맹 휘장"
+msgstr "자유 연맹 휘장"
 
 #. FILE = DA3/designcontent/Items/Skyhold/Drapes/sky_drapes_freemarches_1
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042bc7"
 msgid "Drapes decorated with heraldry of the Free Marcher states."
-msgstr "자유 동맹 도시국가들의 문장으로 장식된 휘장."
+msgstr "자유 연맹 도시국가들의 문장으로 장식된 휘장."
 
 #. FILE = DA3/designcontent/Items/Skyhold/Drapes/sky_drapes_greywarden_1
 #. PATH = StackedItemAsset/DisplayName
@@ -13135,7 +13135,7 @@ msgstr "체이신드 옥좌"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042c2e"
 msgid "An ancient stone chair, carved by the Chasind of the Fereldan wilds."
-msgstr "페렐던 야생지의 체이신드 부족이 조각한, 고대의 돌로 만든 의자."
+msgstr "퍼렐던 야생지의 체이신드 부족이 조각한, 고대의 돌로 만든 의자."
 
 #. FILE = DA3/designcontent/Items/Skyhold/Thrones/sky_throne_chasind_2
 #. PATH = StackedItemAsset/DisplayName
@@ -13203,7 +13203,7 @@ msgstr "마도사의 옥좌를 위한 추가 장식물."
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042c3a"
 msgid "Fereldan Throne"
-msgstr "페렐던 옥좌"
+msgstr "퍼렐던 옥좌"
 
 #. FILE = DA3/designcontent/Items/Skyhold/Thrones/sky_throne_ferelden_1
 #. PATH = StackedItemAsset/Description
@@ -13211,31 +13211,31 @@ msgctxt "0x00042c3b"
 msgid ""
 "A sturdy seat, handcrafted in Ferelden, surmounted by carved wooden mabari "
 "heads."
-msgstr "페렐던 장인이 만든 튼튼한 의자. 나무로 된 마바리 머리 조각으로 장식되어 있다."
+msgstr "퍼렐던 장인이 만든 튼튼한 의자. 나무로 된 마바리 머리 조각으로 장식되어 있다."
 
 #. FILE = DA3/designcontent/Items/Skyhold/Thrones/sky_throne_ferelden_2
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042c3c"
 msgid "Fereldan Throne Accessory I"
-msgstr "페렐던 옥좌 장식 I"
+msgstr "퍼렐던 옥좌 장식 I"
 
 #. FILE = DA3/designcontent/Items/Skyhold/Thrones/sky_throne_ferelden_2
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042c3d"
 msgid "Additional ornamentation for the Fereldan throne."
-msgstr "페렐던 옥좌를 위한 추가 장식물."
+msgstr "퍼렐던 옥좌를 위한 추가 장식물."
 
 #. FILE = DA3/designcontent/Items/Skyhold/Thrones/sky_throne_ferelden_3
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00042c3e"
 msgid "Fereldan Throne Accessory II"
-msgstr "페렐던 옥좌 장식 II"
+msgstr "퍼렐던 옥좌 장식 II"
 
 #. FILE = DA3/designcontent/Items/Skyhold/Thrones/sky_throne_ferelden_3
 #. PATH = StackedItemAsset/Description
 msgctxt "0x00042c3f"
 msgid "Additional ornamentation for the Fereldan throne."
-msgstr "페렐던 옥좌를 위한 추가 장식물."
+msgstr "퍼렐던 옥좌를 위한 추가 장식물."
 
 #. FILE = DA3/designcontent/Items/Skyhold/Thrones/sky_throne_inquisition_1
 #. PATH = StackedItemAsset/DisplayName
@@ -14198,7 +14198,7 @@ msgctxt "0x00026c5e"
 msgid ""
 "The Orlesian court is pleased to see a noble—even a Marcher—leading the "
 "Inquisition. You're off to a good start."
-msgstr "올레이 궁정은 비록 자유 동맹 출신이지만 귀족이 심문회를 이끈다는 사실에 만족하고 있다. 순조로운 출발이다."
+msgstr "올레이 궁정은 비록 자유 연맹 출신이지만 귀족이 심문회를 이끈다는 사실에 만족하고 있다. 순조로운 출발이다."
 
 #. FILE = DA3/designcontent/Prefabs/Levels/CritPlots/Halamshiral/hal_global_court_approval_flags
 #. PATH = BWPopUpEntityData[5]/Text
@@ -15443,7 +15443,7 @@ msgstr "아바르 유리창"
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00047044"
 msgid "Mysteries of the Frostback Basin"
-msgstr "서리등선 분지의 신비"
+msgstr "서리등 분지의 신비"
 
 #. FILE = DA3_DLC1/designcontent/Items/conspiracy_writing_item
 #. PATH = StackedItemAsset/Description
@@ -15453,7 +15453,7 @@ msgid ""
 "that the pages are in order, it's easy to spot the author's signature on the "
 "last page of notes: \"Written by Helsdim Rolfsen of Stone-Bear Hold.\""
 msgstr ""
-"서리등선 분지에 있는 수상한 음모론이 가득한 책이다. 페이지들이 순서대로 정렬되자, 마지막 쪽에 있는 작가의 서명이 또렷하게 보인다. "
+"서리등 분지에 있는 수상한 음모론이 가득한 책이다. 페이지들이 순서대로 정렬되자, 마지막 쪽에 있는 작가의 서명이 또렷하게 보인다. "
 "\"돌곰 요새의 헬스딤 롤프슨 씀.\""
 
 #. FILE = DA3_DLC1/designcontent/Items/dlc1_murderersgold_item
@@ -15504,7 +15504,7 @@ msgstr "아메리단의 반지"
 #. PATH = StackedItemAsset/Description
 msgctxt "0x000457ae"
 msgid "Ring found at a shrine in Frostback Basin."
-msgstr "서리등선 분지의 사원에서 발견된 반지."
+msgstr "서리등 분지의 사원에서 발견된 반지."
 
 #. FILE = DA3_DLC1/designcontent/Items/dlc1_tracing_item
 #. PATH = StackedItemAsset/DisplayName
@@ -15522,7 +15522,7 @@ msgstr "전 심문관의 정찰병들이 남긴 그림의 흔적이다."
 #. PATH = JournalSystemCategory[2]/TitleReference
 msgctxt "0x000450b7"
 msgid "Frostback Basin"
-msgstr "서리등선 분지"
+msgstr "서리등 분지"
 
 #. FILE = DA3_DLC1/designcontent/Journals/System/DLC1JournalSystemCategories
 #. PATH = JournalSystemCategory[2]/DescriptionReference
@@ -15535,7 +15535,7 @@ msgid ""
 "and, in more recent generations, established a hold along its steep mountain "
 "cliffs."
 msgstr ""
-"역사를 통틀어 감히 서리등선 분지를 탐험할 수 있었던 자들은 거의 없었다. 빽빽이 우거진 숲속 고대 테빈터 폐허는 그 용도가 잊혔고, "
+"역사를 통틀어 감히 서리등 분지를 탐험할 수 있었던 자들은 거의 없었다. 빽빽이 우거진 숲속 고대 테빈터 폐허는 그 용도가 잊혔고, "
 "드물게 있었던 원정대들도 큰 소득을 얻지 못했거나 아예 돌아오지 못했다. 그러나 아바르족만큼은 예외였다. 그들은 오랜 세월 분지를 "
 "여행했으며, 최근 세대에 이르러서는 가파른 산의 절벽을 따라 요새들을 건립했다."
 
@@ -16310,7 +16310,7 @@ msgstr "대지분쇄자의 무기 가져가기"
 #. PATH = UIBaseCustomizeItemAsset/Title
 msgctxt "0x000476db"
 msgid "FROSTBACK BASIN"
-msgstr "서리등선 분지"
+msgstr "서리등 분지"
 
 #. FILE = DA3_ItemPacks/ItemPack2/ip2_Stables_Warpaint_Bogunicorn
 #. PATH = UIBaseCustomizeItemAsset/Title
@@ -16343,7 +16343,7 @@ msgstr "겨울바람보다 날카로운 이빨을 가졌지만, 대담한 기수
 #. PATH = UIBaseCustomizeItemAsset/Title
 msgctxt "0x000476fd"
 msgid "Frostback Mountain Horse"
-msgstr "서리등선 산악마"
+msgstr "서리등 산악마"
 
 #. FILE = DA3_ItemPacks/ItemPack2/ip2_Stables_Warpaint_Horse
 #. PATH = UIBaseCustomizeItemAsset/Description
@@ -16369,7 +16369,7 @@ msgstr "감히 그에 맞서는 불운한 자들에게 공포를 심어 주는 �
 #. PATH = UIBaseCustomizeItemAsset/Title
 msgctxt "0x000476fe"
 msgid "Greater Frostback Elk"
-msgstr "고결한 서리등선 엘크"
+msgstr "고결한 서리등 엘크"
 
 #. FILE = DA3_ItemPacks/ItemPack2/ip2_Stables_Warpaint_Redhart
 #. PATH = UIBaseCustomizeItemAsset/Description
@@ -18019,9 +18019,8 @@ msgid ""
 "cult during the Fifth Blight—now serves as a makeshift camp for those "
 "working to pick up the pieces."
 msgstr ""
-"헤이븐은 한때 서리등선 산맥 깊숙한 곳에 있는 성스러운 재의 성전으로 향하는 순례자들의 휴식처였다. 사원이 파괴된 후, 다섯 번째 "
-"대재앙이 일어났을 때 용을 숭배하는 집단의 본거지기도 했던 이 유명한 마을은 이제 질서를 바로 세우려는 사람들을 위한 임시거점 역할을 "
-"하고 있다."
+"헤이븐은 한때 서리등 산맥 깊숙한 곳에 있는 성스러운 재의 성전으로 향하는 순례자들의 휴식처였다. 사원이 파괴된 후, 다섯 번째 대재앙이 "
+"일어났을 때 용을 숭배하는 집단의 본거지기도 했던 이 유명한 마을은 이제 질서를 바로 세우려는 사람들을 위한 임시거점 역할을 하고 있다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[9]/TitleReference
@@ -18177,7 +18176,7 @@ msgid ""
 "otherwise be a peaceful life here, most concerning is the dragon that's made "
 "its nest nearby."
 msgstr ""
-"크레스트우드 마을은 발 르와요와 데네림을 지나는 길목에 위치하고 있다. 주민들은 농사를 짓거나 가축을 키우고 여행자들과 거래를 하며 "
+"크레스트우드 마을은 발 르와요와 데너림을 지나는 길목에 위치하고 있다. 주민들은 농사를 짓거나 가축을 키우고 여행자들과 거래를 하며 "
 "생계를 유지하고 있다. 와이번들과 도적들이 성가시게 굴지만 않는다면 평화로운 곳이지만 가장 큰 문제는 근처에 둥지를 틀고 있는 용이다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
@@ -18256,7 +18255,7 @@ msgstr ""
 #. PATH = JournalSystemCategory[25]/TitleReference
 msgctxt "0x00019c5e"
 msgid "The Hinterlands"
-msgstr "내륙지역"
+msgstr "배후지대"
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
 #. PATH = JournalSystemCategory[25]/DescriptionReference
@@ -18267,7 +18266,7 @@ msgid ""
 "chaos. The conflict between mages and templars forced many off their lands, "
 "demons stalk the hills, and reports of strange magic abound near Redcliffe."
 msgstr ""
-"페렐던 중심부에는 내륙지역의 오래된 숲과 농장들이 자리 잡고 있다. 이 레드클리프로 향하는 바위투성이의 경사진 길목은 현재 혼란에 빠진 "
+"퍼렐던 중심부에는 배후지대의 오래된 숲과 농장들이 자리 잡고 있다. 이 레드클리프로 향하는 바위투성이의 경사진 길목은 현재 혼란에 빠진 "
 "상태다. 마법사와 성기사간의 갈등으로 많은 사람이 고향을 떠났으며, 언덕에는 악마가 서성거리고, 레드클리프 근처에서는 이상한 마법에 대한 "
 "보고가 들려오고 있다."
 
@@ -18562,7 +18561,7 @@ msgid ""
 "community called Fisher's End, which was wiped out by a plague that swept "
 "through a few years ago."
 msgstr ""
-"고요한 늪지는 페렐던 남서쪽 외딴 습지대에 넓게 펼쳐져 있는 곳이다. 이 눅눅하고 위험한 습지는 한때 어부의 해안이라고 불리는 작은 어촌 "
+"고요한 늪지는 퍼렐던 남서쪽 외딴 습지대에 넓게 펼쳐져 있는 곳이다. 이 눅눅하고 위험한 습지는 한때 어부의 해안이라고 불리는 작은 어촌 "
 "공동체의 거처였으나, 이들은 몇 년 전 불어닥친 전염병에 의해 모두 몰살당하고 말았다."
 
 #. FILE = Systems/JournalSystem/JournalSystemCategories
@@ -18761,7 +18760,7 @@ msgstr "야수에게 주는 피해 증가"
 #. PATH = BWModifiableStat/StatName
 msgctxt "0x0004393e"
 msgid "Damage Bonus Against Darkspawn"
-msgstr "어둠의 피조물에게 주는 피해 증가"
+msgstr "어둠피조물에게 주는 피해 증가"
 
 #. FILE = da3/Combat/Stats/Stat_Damage_Bonus_Demons
 #. PATH = BWModifiableStat/StatName
@@ -19058,7 +19057,7 @@ msgstr "안톤 대사"
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x0004084b"
 msgid "Fereldan Mercenary Captain"
-msgstr "페렐던 용병대장"
+msgstr "퍼렐던 용병대장"
 
 #. FILE = da3/DesignContent/CreatureProfiles/Halamshiral/hal_SerPhillipe_CreatureProfile
 #. PATH = CreatureProfile/AppearanceOverride/member/CreatureAppearanceCustomizations/OverrideName
@@ -19716,7 +19715,7 @@ msgstr "렌 부관"
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x00048176"
 msgid "Shaper Valta"
-msgstr "기록관 발타"
+msgstr "구체자 발타"
 
 #. FILE = da3_dlc_red/Creatures/Faction/Biotic/LostDwarves/Exotic/creature_DLC_Red_LostDwarf_Exotic
 #. PATH = CreatureEntityData/CharacterNameReference
@@ -20821,22 +20820,22 @@ msgstr "정상에 용이 소환되었습니다!"
 #. PATH = BWMultiplayerLevelDescription/DisplayableName
 msgctxt "0x0004717b"
 msgid "Ferelden Castle"
-msgstr "페렐던 성"
+msgstr "퍼렐던 성"
 
 #. FILE = da3_mp2/Layouts/Multiplayer/MPCastle01/MP2_Castle01
 #. PATH = DA3MultiplayerDragonLevelDescription/DragonVariants/member[1]/DA3MPDragonLevelVariant/LevelNameOverride
 msgctxt "0x0004717c"
 msgid "Ferelden Castle (Inferno)"
-msgstr "페렐던 성 (지옥불)"
+msgstr "퍼렐던 성 (지옥불)"
 
 #. FILE = da3_mp2/Layouts/Multiplayer/MPCastle01/MP2_Castle01
 #. PATH = DA3MultiplayerDragonLevelDescription/DragonVariants/member[2]/DA3MPDragonLevelVariant/LevelNameOverride
 msgctxt "0x0004717d"
 msgid "Ferelden Castle (Storm)"
-msgstr "페렐던 성 (폭풍)"
+msgstr "퍼렐던 성 (폭풍)"
 
 #. FILE = da3_mp2/Layouts/Multiplayer/MPCastle01_Ice/MP2_Castle01_Ice
 #. PATH = BWMultiplayerLevelDescription/DisplayableName
 msgctxt "0x0004717e"
 msgid "Ferelden Castle (Frost)"
-msgstr "페렐던 성 (서리)"
+msgstr "퍼렐던 성 (서리)"

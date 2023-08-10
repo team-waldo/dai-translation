@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2022-12-05 12:14+0000\n"
+"PO-Revision-Date: 2023-08-10 03:53+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/dai/journals/ko/>\n"
 "Language: ko\n"
@@ -28,7 +28,7 @@ msgid ""
 "Hinterlands. With so many Wardens disappearing in the wake of the Divine's "
 "death, this Blackwall should be questioned."
 msgstr ""
-"렐리아나의 요원이 목격담을 보고했다. 회색 감시자 차림을 한 블랙월이라는 자가 페렐던의 내륙지역에서 여행 중이라고 한다. 교황의 선종 "
+"렐리아나의 요원이 목격담을 보고했다. 회색 감시자 차림을 한 블랙월이라는 자가 퍼렐던의 배후지대에서 여행 중이라고 한다. 교황의 선종 "
 "이후 수많은 감시자가 사라지고 있으니, 이 블랙월이라는 자를 만나 탐문해 볼 필요가 있다."
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/Blackwall/blackwall_acquisition_journal
@@ -43,7 +43,7 @@ msgstr "{string}280827{/string}"
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x00017089"
 msgid "Search for Blackwall in the Hinterlands."
-msgstr "내륙지역에서 블랙월을 찾아보자."
+msgstr "배후지대에서 블랙월을 찾아보자."
 
 #. EBX = DA3/DesignContent/Journals/TheDales/TheDales_Main/dal_wild_treasure_map_01
 #. PATH = JournalEntry/TitleReference
@@ -542,7 +542,7 @@ msgstr "발견한 보호패"
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x00041f89"
 msgid "Find a phylactery in the Hinterlands."
-msgstr "내륙지역에서 보호의 피를 찾자."
+msgstr "배후지대에서 보호의 피를 찾자."
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/viv_approvalgrind_journal
 #. PATH = JournalEntry/TaskEntry[2]
@@ -578,7 +578,7 @@ msgstr "서부 접경지에서 협회 서적을 찾자."
 #. PATH = JournalEntry/TaskEntry[7]
 msgctxt "0x00041f8a"
 msgid "Find a Circle tome in the Hinterlands."
-msgstr "내륙지역에서 협회 서적을 찾자."
+msgstr "배후지대에서 협회 서적을 찾자."
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/viv_approvalgrind_journal
 #. PATH = JournalEntry/TaskEntry[8]
@@ -1390,7 +1390,7 @@ msgstr "내륙지의 명소"
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x0002b589"
 msgid "Discover all landmarks in the Hinterlands."
-msgstr "내륙지역에 있는 모든 명소를 찾아보자."
+msgstr "배후지대에 있는 모든 명소를 찾아보자."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_landmarks
 #. PATH = JournalEntry/TaskEntry[0]
@@ -1530,7 +1530,7 @@ msgctxt "0x000323df"
 msgid ""
 "When there's time, Cullen wishes to be accompanied somewhere in the Fereldan "
 "interior."
-msgstr "컬렌은 시간이 있을 때 페렐던 내륙의 어느 장소에 같이 가 주길 바라고 있다."
+msgstr "컬렌은 시간이 있을 때 퍼렐던 내륙의 어느 장소에 같이 가 주길 바라고 있다."
 
 #. EBX = da3/DesignContent/Journals/Global/Followers/Cullen/cullen_giftplot_journal
 #. PATH = JournalEntry/TextEntry[1]
@@ -1975,7 +1975,7 @@ msgctxt "0x0003247b"
 msgid ""
 "The Carta are setting up a red lyrium mining operation in the Hinterlands "
 "with the help of local mercenaries."
-msgstr "카르타는 지역 용병들을 이용해 내륙지역에 있는 붉은 리륨 채광 작전을 세우고 있다."
+msgstr "카르타는 지역 용병들을 이용해 배후지대에 있는 붉은 리륨 채광 작전을 세우고 있다."
 
 #. EBX = DA3/DesignContent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_carta
 #. PATH = JournalEntry/TaskEntry[0]
@@ -2298,7 +2298,7 @@ msgctxt "0x0003febf"
 msgid ""
 "Mercenaries are stirring unrest in the Hinterlands. They have occupied an "
 "old fort in the woods."
-msgstr "숲속의 오래된 요새를 점거한 용병들이 내륙지역에서 문제를 일삼는다고 한다."
+msgstr "숲속의 오래된 요새를 점거한 용병들이 배후지대에서 문제를 일삼는다고 한다."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_mercs
 #. PATH = JournalEntry/TaskEntry[0]
@@ -2375,7 +2375,7 @@ msgctxt "0x0004227a"
 msgid ""
 "Pieces of an old Tevinter mosaic are scattered across the Hinterlands. If "
 "recovered, they could be reassembled."
-msgstr "고대 테빈터 모자이크 조각이 내륙지역에 흩어져 있다. 조각들을 회수하면 다시 조립할 수 있을 것이다."
+msgstr "고대 테빈터 모자이크 조각이 배후지대에 흩어져 있다. 조각들을 회수하면 다시 조립할 수 있을 것이다."
 
 #. EBX = DA3/designcontent/Journals/Skyhold/sky_mosaic_3
 #. PATH = JournalEntry/TaskEntry[0]
@@ -2530,7 +2530,7 @@ msgid ""
 "fears Grey Wardens are under the influence of the ancient darkspawn. Hawke "
 "has a Warden contact who may be able to say more."
 msgstr ""
-"배릭에게는 이전에 코리피우스에 맞서 싸웠던 호크라는 친구가 있다. 그는 회색 감시자들이 고대 어둠의 피조물의 영향을 받는 것을 걱정하며, "
+"배릭에게는 이전에 코리피우스에 맞서 싸웠던 호크라는 친구가 있다. 그는 회색 감시자들이 고대 어둠피조물의 영향을 받는 것을 걱정하며, "
 "이에 관해 더 많은 정보를 알려줄 수 있는 감시자 연락책을 알고 있다고 한다."
 
 #. EBX = DA3/designcontent/Journals/Adamant/ada_adamant_main_journal
@@ -3249,7 +3249,7 @@ msgstr "발견한 명소"
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00043f89"
 msgid "Hinterlands Cage Requisition"
-msgstr "내륙지역: 철창 보급 요청"
+msgstr "배후지대: 철창 보급 요청"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_hinterlands_cages
 #. PATH = JournalEntry/TextEntry[0]
@@ -3277,7 +3277,7 @@ msgstr "철"
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x00043f86"
 msgid "Fereldan Lock"
-msgstr "페렐던식 자물쇠"
+msgstr "퍼렐던식 자물쇠"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_hinterlands_cages
 #. PATH = JournalEntry/TaskEntry[3]
@@ -3720,7 +3720,7 @@ msgid ""
 "Ferelden, but not until his farmers are guaranteed safe return to their "
 "lands."
 msgstr ""
-"데넷 조마사는 심문회에게 페렐던에서 가장 좋은 군마를 지원해줄 수 있다. 하지만 그러기 위해서는 우선 데넷의 농부들의 안전이 보장되어야 "
+"데넷 조마사는 심문회에게 퍼렐던에서 가장 좋은 군마를 지원해줄 수 있다. 하지만 그러기 위해서는 우선 데넷의 농부들의 안전이 보장되어야 "
 "한다."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_horses_inquisition_horses
@@ -3834,7 +3834,7 @@ msgctxt "0x000269e7"
 msgid ""
 "Inquisition soldiers are missing in the uncharted marshes of southern "
 "Ferelden."
-msgstr "심문회 병사들이 남부 페렐던의 미지의 늪지대에서 실종되었다."
+msgstr "심문회 병사들이 남부 퍼렐던의 미지의 늪지대에서 실종되었다."
 
 #. EBX = DA3/DesignContent/Journals/ThematicLevels/Bog/the_Bog_Main
 #. PATH = JournalEntry/TaskEntry[0]
@@ -4824,7 +4824,7 @@ msgctxt "0x00042db3"
 msgid ""
 "There are reports of a small group of Grey Wardens traveling along the "
 "northern coast of Ferelden in an area known as the Storm Coast."
-msgstr "소규모 회색 감시자 집단이 페렐던의 폭풍 해안이라고 알려진 지역의 북쪽 해안을 따라 이동 중이라는 보고가 들어왔다."
+msgstr "소규모 회색 감시자 집단이 퍼렐던의 폭풍 해안이라고 알려진 지역의 북쪽 해안을 따라 이동 중이라는 보고가 들어왔다."
 
 #. EBX = DA3/designcontent/Journals/ThematicLevels/StormCoast/stormcoast_unlock
 #. PATH = JournalEntry/TaskEntry[0]
@@ -5858,7 +5858,7 @@ msgstr "동굴을 탐험하자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00043f90"
 msgid "Hinterlands Weapons Requisition"
-msgstr "내륙지역: 무기 보급 요청"
+msgstr "배후지대: 무기 보급 요청"
 
 #. EBX = DA3/DesignContent/Journals/Global/Inquisition/scout_hinterlands_weapons
 #. PATH = JournalEntry/TextEntry[0]
@@ -6156,7 +6156,7 @@ msgctxt "0x00043eed"
 msgid ""
 "Fereldan caravans are needed to facilitate transportation of goods back to "
 "the Inquisition."
-msgstr "심문회의 화물 수송을 용이하게 하기 위해서는 페렐던의 짐수레가 필요하다."
+msgstr "심문회의 화물 수송을 용이하게 하기 위해서는 퍼렐던의 짐수레가 필요하다."
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_crestwood_caravans
 #. PATH = JournalEntry/TaskEntry[0]
@@ -6485,7 +6485,7 @@ msgstr "대장장이와 이야기하자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00043f96"
 msgid "Hinterlands Field Tent Requisition"
-msgstr "내륙지역: 군용 천막 보급 요청"
+msgstr "배후지대: 군용 천막 보급 요청"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_hinterlands_tents
 #. PATH = JournalEntry/TextEntry[0]
@@ -6493,7 +6493,7 @@ msgctxt "0x00043f94"
 msgid ""
 "Field tents are sorely needed to protect the Inquisition presence in the "
 "Hinterlands from the elements."
-msgstr "내륙지역의 비바람으로부터 심문회 주둔군을 보호할 수 있는 군용 천막이 절실히 필요하다."
+msgstr "배후지대의 비바람으로부터 심문회 주둔군을 보호할 수 있는 군용 천막이 절실히 필요하다."
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_hinterlands_tents
 #. PATH = JournalEntry/TaskEntry[0]
@@ -7128,7 +7128,7 @@ msgstr "조사 표본을 모으자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00043fb5"
 msgid "Hinterlands Iron Survey"
-msgstr "내륙지역: 철 표본 조사"
+msgstr "배후지대: 철 표본 조사"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_hinterlands_geosurvey02
 #. PATH = JournalEntry/TextEntry[0]
@@ -7136,7 +7136,7 @@ msgctxt "0x00043fb4"
 msgid ""
 "The University of Orlais has requested iron and onyx samples for a "
 "geological survey of the Hinterlands."
-msgstr "올레이 대학에서 내륙지역의 지질 조사를 위해 철과 마노 표본을 요청했다."
+msgstr "올레이 대학에서 배후지대의 지질 조사를 위해 철과 마노 표본을 요청했다."
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_hinterlands_geosurvey02
 #. PATH = JournalEntry/TaskEntry[0]
@@ -7222,13 +7222,13 @@ msgstr "도적들을 처치하자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00038dcd"
 msgid "Shards in the Hinterlands"
-msgstr "내륙지역의 편린"
+msgstr "배후지대의 편린"
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_shards
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x00038dcb"
 msgid "Search for any shards scattered around the Hinterlands."
-msgstr "내륙지역에 흩어진 편린을 찾아보자."
+msgstr "배후지대에 흩어진 편린을 찾아보자."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_shards
 #. PATH = JournalEntry/TaskEntry[0]
@@ -7620,7 +7620,7 @@ msgid ""
 "somewhere in the Hinterlands."
 msgstr ""
 "비앙카에 따르면 몇 년 전, 호크와 배릭이 커크월 밑의 지하 가도를 탐험하다 발견한 타이그에서 코리피우스가 붉은 리륨을 채취하고 있다고 "
-"한다. 내륙지역 어딘가에 있는 지하 가도 입구를 통해 그곳에 들어갈 수 있을지도 모른다."
+"한다. 배후지대 어딘가에 있는 지하 가도 입구를 통해 그곳에 들어갈 수 있을지도 모른다."
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/Varric/var_sidequest_journal
 #. PATH = JournalEntry/TextEntry[1]
@@ -7650,7 +7650,7 @@ msgstr "{string}280827{/string}"
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x00041b06"
 msgid "Scout the Hinterlands."
-msgstr "내륙지역을 정찰하자."
+msgstr "배후지대를 정찰하자."
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/Varric/var_sidequest_journal
 #. PATH = JournalEntry/TaskEntry[1]
@@ -9466,13 +9466,13 @@ msgstr "봉인한 영계 균열"
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00042390"
 msgid "Astrariums in the Hinterlands"
-msgstr "내륙지역의 천체 투영기"
+msgstr "배후지대의 천체 투영기"
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_astrarium
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x00042391"
 msgid "Find and complete all astrarium pedestals in the Hinterlands."
-msgstr "내륙지역에 존재하는 모든 천체 투영기를 찾고 별자리를 완성하자."
+msgstr "배후지대에 존재하는 모든 천체 투영기를 찾고 별자리를 완성하자."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_astrarium
 #. PATH = JournalEntry/TextEntry[1]
@@ -9968,7 +9968,7 @@ msgstr "작전실을 찾자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00043fb0"
 msgid "Hinterlands Drakestone Survey"
-msgstr "내륙지역: 용석 표본 조사"
+msgstr "배후지대: 용석 표본 조사"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_hinterlands_geosurvey01
 #. PATH = JournalEntry/TextEntry[0]
@@ -9976,7 +9976,7 @@ msgctxt "0x00043faf"
 msgid ""
 "The University of Orlais has requested drakestone and iron samples for a "
 "geological survey of the Hinterlands."
-msgstr "올레이 대학에서 내륙지역의 지질 조사를 위해 용석과 철 표본을 요청했다."
+msgstr "올레이 대학에서 배후지대의 지질 조사를 위해 용석과 철 표본을 요청했다."
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_hinterlands_geosurvey01
 #. PATH = JournalEntry/TaskEntry[0]
@@ -10311,7 +10311,7 @@ msgid ""
 "Solas has located a powerful rift in the Hinterlands that has not yet "
 "opened. He believes it to be unique and well worth investigating."
 msgstr ""
-"솔라스가 내륙지역에서 아직 열리지 않은 강력한 균열을 찾아냈다. 그는 그것이 조사할 가치가 있는 독특한 균열이라고 생각하고 있다."
+"솔라스가 배후지대에서 아직 열리지 않은 강력한 균열을 찾아냈다. 그는 그것이 조사할 가치가 있는 독특한 균열이라고 생각하고 있다."
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/Solas/sol_SpecialRift_journal
 #. PATH = JournalEntry/TextEntry[1]
@@ -11011,7 +11011,7 @@ msgstr "프레데릭의 물품들을 돌려주자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00043fa6"
 msgid "Hinterlands Puzzle Box Requisition"
-msgstr "내륙지역: 퍼즐 상자 보급 요청"
+msgstr "배후지대: 퍼즐 상자 보급 요청"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_hinterlands_puzzlebox
 #. PATH = JournalEntry/TextEntry[0]
@@ -11139,7 +11139,7 @@ msgstr "장막 측정"
 msgctxt "0x00041b9c"
 msgid ""
 "Solas has learned of an artifact in the Hinterlands that he wishes to study."
-msgstr "솔라스가 내륙지역에 조사해보고 싶은 유물이 있다고 한다."
+msgstr "솔라스가 배후지대에 조사해보고 싶은 유물이 있다고 한다."
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/Solas/sol_ApprovalGrind_journal
 #. PATH = JournalEntry/TextEntry[1]
@@ -11153,7 +11153,7 @@ msgstr "{string}280827{/string}"
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x00041b9a"
 msgid "Travel to the Hinterlands with Solas."
-msgstr "솔라스와 함께 내륙지역으로 가자."
+msgstr "솔라스와 함께 배후지대로 가자."
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/Solas/sol_ApprovalGrind_journal
 #. PATH = JournalEntry/TaskEntry[1]
@@ -11277,7 +11277,7 @@ msgid ""
 "Hinterlands near Redcliffe. Leliana believes she may be sympathetic to the "
 "Inquisition's cause."
 msgstr ""
-"지젤 신모라는 성가회 성직자가 레드클리프 근처의 페렐던 내륙지역에서 피난민들을 돌보고 있다. 렐리아나는 그녀가 심문회의 명분에 동조할 "
+"지젤 신모라는 성가회 성직자가 레드클리프 근처의 퍼렐던 배후지대에서 피난민들을 돌보고 있다. 렐리아나는 그녀가 심문회의 명분에 동조할 "
 "거라고 생각한다."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
@@ -11289,7 +11289,7 @@ msgid ""
 "activities—will earn Power for the Inquisition, giving Mother Giselle "
 "leverage to arrange a meeting with clerics in Val Royeaux."
 msgstr ""
-"베일 상병이 내륙지역을 안정시키기 위한 도움을 요청했다. 균열을 닫고, 야영지를 설립하고, 보급 요청을 수행하는 등 여러 활동으로 "
+"베일 상병이 배후지대를 안정시키기 위한 도움을 요청했다. 균열을 닫고, 야영지를 설립하고, 보급 요청을 수행하는 등 여러 활동으로 "
 "심문회의 행동력을 키울 수 있으며, 이를 통해 지젤 신모에게 발 르와요에 있는 성직자들과의 만남을 주선할 수단을 제공할 수 있을 것이다."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
@@ -11298,7 +11298,7 @@ msgctxt "0x0002760c"
 msgid ""
 "Word of the Inquisition's work in the Hinterlands has spread. The Chantry "
 "clerics in Val Royeaux are ready to meet."
-msgstr "내륙지역에서의 심문회의 활약에 대한 소문이 널리 퍼졌다. 발 르와요에서 성가회 성직자들을 만날 준비가 되었다."
+msgstr "배후지대에서의 심문회의 활약에 대한 소문이 널리 퍼졌다. 발 르와요에서 성가회 성직자들을 만날 준비가 되었다."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
 #. PATH = JournalEntry/TextEntry[4]
@@ -11324,13 +11324,13 @@ msgstr "헤이븐의 성당에 보고하자."
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x000424b6"
 msgid "Scout the Hinterlands to gain access to the region."
-msgstr "내륙지역에 접근하기 위해 정찰대를 파견하자."
+msgstr "배후지대에 접근하기 위해 정찰대를 파견하자."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
 #. PATH = JournalEntry/TaskEntry[3]
 msgctxt "0x00017083"
 msgid "Travel to the Hinterlands to speak with Mother Giselle."
-msgstr "내륙지역으로 가서 지젤 신모와 이야기하자."
+msgstr "배후지대로 가서 지젤 신모와 이야기하자."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
 #. PATH = JournalEntry/TaskEntry[4]
@@ -11342,7 +11342,7 @@ msgstr "교차로의 위험요소들을 제거하자."
 #. PATH = JournalEntry/TaskEntry[5]
 msgctxt "0x0003fbeb"
 msgid "Speak with Corporal Vale about the state of the Hinterlands."
-msgstr "베일 상병과 내륙지역에 대해 이야기하자."
+msgstr "베일 상병과 배후지대에 대해 이야기하자."
 
 #. EBX = DA3/designcontent/Journals/Haven/hav_main
 #. PATH = JournalEntry/TaskEntry[6]
@@ -12456,7 +12456,7 @@ msgstr "조사 표본을 모으자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0003fda3"
 msgid "Keeping the Darkspawn Down"
-msgstr "어둠의 피조물 구제작업"
+msgstr "어둠피조물 구제작업"
 
 #. EBX = DA3/DesignContent/Journals/ThematicLevels/StormCoast/storm_dsp_main
 #. PATH = JournalEntry/TextEntry[0]
@@ -12467,8 +12467,8 @@ msgid ""
 "tunnels. If these tunnels are sealed, it should keep the darkspawn "
 "underground where they belong."
 msgstr ""
-"많은 수의 어둠의 피조물이 폭풍 해안의 지상으로 올라오고 있다. 이들을 처치하는 것은 심문회의 몫이다. 이들은 굴을 통해 지상으로 "
-"올라오고 있다. 땅굴을 봉인하면, 놈들이 지상으로 올라오는 것을 막을 수 있을 것이다."
+"많은 수의 어둠피조물이 폭풍 해안의 지상으로 올라오고 있다. 이들을 처치하는 것은 심문회의 몫이다. 이들은 굴을 통해 지상으로 올라오고 "
+"있다. 땅굴을 봉인하면, 놈들이 지상으로 올라오는 것을 막을 수 있을 것이다."
 
 #. EBX = DA3/DesignContent/Journals/ThematicLevels/StormCoast/storm_dsp_main
 #. PATH = JournalEntry/TaskEntry[0]
@@ -12636,7 +12636,7 @@ msgstr "조사 표본을 모으자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0002cac8"
 msgid "Holding the Hinterlands"
-msgstr "내륙지역 확보"
+msgstr "배후지대 확보"
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_camps
 #. PATH = JournalEntry/TextEntry[0]
@@ -12644,7 +12644,7 @@ msgctxt "0x0002cac7"
 msgid ""
 "Establish camps to hold the Hinterlands and support Inquisition activity in "
 "the region."
-msgstr "내륙지역을 확보하고 지역의 심문회 활동을 지원하기 위해 야영지를 설치하자."
+msgstr "배후지대를 확보하고 지역의 심문회 활동을 지원하기 위해 야영지를 설치하자."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_camps
 #. PATH = JournalEntry/TaskEntry[0]
@@ -12713,13 +12713,13 @@ msgstr "발견한 페이렐의 무덤 열쇠조각"
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00038dc8"
 msgid "Regions in the Hinterlands"
-msgstr "내륙지역 탐방"
+msgstr "배후지대 탐방"
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_regions
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x00038dc7"
 msgid "Explore all corners of the Hinterlands."
-msgstr "내륙지역의 모든 지역을 탐사하자."
+msgstr "배후지대의 모든 지역을 탐사하자."
 
 #. EBX = DA3/designcontent/Journals/Ferelden/Fer_Wilderness_Main/fer_wild_regions
 #. PATH = JournalEntry/TaskEntry[0]
@@ -12866,7 +12866,7 @@ msgid ""
 "the Avvar in the Fallow Mire, has asked for any artifacts from the era that "
 "can be recovered."
 msgstr ""
-"고요한 늪지는 하그레이브 남작과 아바르의 유명한 전투가 벌어졌던 곳이다. 그 전투에 흥미를 가진 페렐던의 부유한 귀족이 그 시기의 유물을 "
+"고요한 늪지는 하그레이브 남작과 아바르의 유명한 전투가 벌어졌던 곳이다. 그 전투에 흥미를 가진 퍼렐던의 부유한 귀족이 그 시기의 유물을 "
 "찾아 달라고 요청했다."
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_thebog_fereldanartifacts
@@ -12881,19 +12881,19 @@ msgstr "{string}233344{/string}"
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x00043ff4"
 msgid "Fereldan Tome"
-msgstr "페렐던 서책"
+msgstr "퍼렐던 서책"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_thebog_fereldanartifacts
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x00043ff0"
 msgid "Fereldan Medallion of Service"
-msgstr "페렐던 훈장"
+msgstr "퍼렐던 훈장"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_thebog_fereldanartifacts
 #. PATH = JournalEntry/TaskEntry[3]
 msgctxt "0x00043ff1"
 msgid "Gather Fereldan artifacts."
-msgstr "페렐던의 유물을 모으자."
+msgstr "퍼렐던의 유물을 모으자."
 
 #. EBX = DA3/designcontent/Journals/TheDales/TheDales_Main/dal_fst_wild_angrybear
 #. PATH = JournalEntry/TitleReference
@@ -12919,7 +12919,7 @@ msgstr "문제의 곰을 뒤쫓자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00043f9d"
 msgid "Hinterlands Tapestry Requisition"
-msgstr "내륙지역: 벽걸이 융단 보급 요청"
+msgstr "배후지대: 벽걸이 융단 보급 요청"
 
 #. EBX = DA3/designcontent/Journals/Global/Inquisition/scout_hinterlands_tapestry
 #. PATH = JournalEntry/TextEntry[0]
@@ -13434,7 +13434,7 @@ msgstr "승임의 평야에서 힐데브란트 경을 쓰러트리자."
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x00035888"
 msgid "Take down Ser Rebenger Torn in the Fereldan Hinterlands."
-msgstr "페렐던 내륙지역에서 레벤저 톤 경을 쓰러트리자."
+msgstr "퍼렐던 배후지대에서 레벤저 톤 경을 쓰러트리자."
 
 #. EBX = DA3/DesignContent/Journals/Global/Followers/Cassandra/cas_ApprovalGrind_journal
 #. PATH = JournalEntry/TaskEntry[3]
@@ -14107,7 +14107,7 @@ msgstr "용 사냥꾼"
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x00042f55"
 msgid "Kill every known high dragon in Ferelden and Orlais."
-msgstr "페렐던과 올레이에 살고 있다고 알려진 모든 고룡을 처치하자."
+msgstr "퍼렐던과 올레이에 살고 있다고 알려진 모든 고룡을 처치하자."
 
 #. EBX = DA3/DesignContent/Journals/Global/Collections/wld_collection_dragons
 #. PATH = JournalEntry/TaskEntry[0]
@@ -14462,7 +14462,7 @@ msgstr "{string}205752{/string}"
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00032f47"
 msgid "Hinterland Who's Who"
-msgstr "내륙지역 인명부"
+msgstr "배후지대 인명부"
 
 #. EBX = DA3/DesignContent/Journals/Ferelden/Fer_Wilderness_Main/LightQuests/fer_wild_lq18
 #. PATH = JournalEntry/TextEntry[0]
@@ -14882,7 +14882,7 @@ msgid ""
 "Ferelden and Orlais. The Wardens who abandoned these camps may have left "
 "behind artifacts of interest to Blackwall."
 msgstr ""
-"블랙월은 페렐던과 올레이 전역의 옛 감시자 야영지와 전초기지가 표시된 지도를 가지고 있다. 이 야영지를 버린 감시자들이 블랙월이 관심을 "
+"블랙월은 퍼렐던과 올레이 전역의 옛 감시자 야영지와 전초기지가 표시된 지도를 가지고 있다. 이 야영지를 버린 감시자들이 블랙월이 관심을 "
 "가질 만한 유물을 남겨두었을지도 모른다."
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/Blackwall/blk_approvalgrind_journal
@@ -14903,7 +14903,7 @@ msgstr "발견한 폭풍 해안 유물"
 #. PATH = JournalEntry/TaskEntry[1]
 msgctxt "0x000439aa"
 msgid "Hinterlands artifacts found"
-msgstr "발견한 내륙지역 유믈"
+msgstr "발견한 배후지대 유믈"
 
 #. EBX = DA3/designcontent/Journals/Global/Followers/Blackwall/blk_approvalgrind_journal
 #. PATH = JournalEntry/TaskEntry[2]
@@ -15283,13 +15283,13 @@ msgstr "뿔 나팔을 불어 신호를 보내자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0002e497"
 msgid "The Trouble with Darkspawn"
-msgstr "어둠의 피조물과의 분쟁"
+msgstr "어둠피조물과의 분쟁"
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x0002e495"
 msgid "There is increased darkspawn activity in the Western Approach."
-msgstr "서부 접경지에서 어둠의 피조물의 활동이 증가했다."
+msgstr "서부 접경지에서 어둠피조물의 활동이 증가했다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TextEntry[1]
@@ -15297,7 +15297,7 @@ msgctxt "0x00038313"
 msgid ""
 "A range of sulphur pits prevents further investigation of the darkspawn "
 "presence. Return to Skyhold to arrange a way across."
-msgstr "유황 구덩이 때문에 어둠의 피조물의 행방을 조사할 수 없다. 하늘보루로 돌아가 이곳을 건널 방법을 찾자."
+msgstr "유황 구덩이 때문에 어둠피조물의 행방을 조사할 수 없다. 하늘보루로 돌아가 이곳을 건널 방법을 찾자."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TextEntry[2]
@@ -15306,13 +15306,13 @@ msgid ""
 "Inquisition soldiers have completed a bridge across the sulphur pits. "
 "Darkspawn appear to be concentrated in a Tevinter ruin on the other side."
 msgstr ""
-"심문회 병사들이 유황 구덩이를 가로지르는 다리를 완성했다. 어둠의 피조물은 반대편에 있는 테빈터 폐허에 주둔하고 있는 것으로 보인다."
+"심문회 병사들이 유황 구덩이를 가로지르는 다리를 완성했다. 어둠피조물은 반대편에 있는 테빈터 폐허에 주둔하고 있는 것으로 보인다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TextEntry[3]
 msgctxt "0x0003f6fb"
 msgid "The darkspawn are emerging through a hole dug into the structure."
-msgstr "구조물에 파인 구멍을 통해 어둠의 피조물이 나타나고 있다."
+msgstr "구조물에 파인 구멍을 통해 어둠피조물이 나타나고 있다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TextEntry[4]
@@ -15320,7 +15320,7 @@ msgctxt "0x0003f7b7"
 msgid ""
 "The hole appears to have been created from the outside. This was not the "
 "work of darkspawn."
-msgstr "이 구멍은 외부에서 만들어진 것으로 보인다. 이것은 어둠의 피조물이 한 짓이 아니다."
+msgstr "이 구멍은 외부에서 만들어진 것으로 보인다. 이것은 어둠피조물이 한 짓이 아니다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TextEntry[5]
@@ -15329,14 +15329,13 @@ msgid ""
 "The Venatori, led by Servis, were excavating when they accidentally broke "
 "into darkspawn-infested tunnels. Servis has since fled the vicinity."
 msgstr ""
-"세르비스가 이끄는 베나토리가 발굴 작업을 하던 도중 우연히 어둠의 피조물이 득실거리는 땅굴에 진입했다. 그 후, 세르비스는 근방으로 "
-"도망쳤다."
+"세르비스가 이끄는 베나토리가 발굴 작업을 하던 도중 우연히 어둠피조물이 득실거리는 땅굴에 진입했다. 그 후, 세르비스는 근방으로 도망쳤다."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x0002e499"
 msgid "Search for more signs of darkspawn."
-msgstr "어둠의 피조물들의 흔적을 더 찾아보자."
+msgstr "어둠피조물들의 흔적을 더 찾아보자."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TaskEntry[1]
@@ -15350,7 +15349,7 @@ msgstr "{string}205752{/string}"
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x00038314"
 msgid "Find the source of the darkspawn."
-msgstr "어둠의 피조물들의 근원지를 찾아보자."
+msgstr "어둠피조물들의 근원지를 찾아보자."
 
 #. EBX = DA3/designcontent/Journals/TheWesternApproach/wes_main/wes_keep_darkspawn
 #. PATH = JournalEntry/TaskEntry[3]
@@ -15433,7 +15432,7 @@ msgstr "남아 있는 것"
 msgctxt "0x00045100"
 msgid ""
 "A mysterious island in Frostback Basin may yield clues to the region's past."
-msgstr "서리등선 분지의 알 수 없는 섬에 분지의 과거에 대한 단서가 남아있을지 모른다."
+msgstr "서리등 분지의 알 수 없는 섬에 분지의 과거에 대한 단서가 남아있을지 모른다."
 
 #. EBX = DA3_DLC1/designcontent/Journals/DLC1/ResearchOutpost/dlc1_outpost_island
 #. PATH = JournalEntry/TaskEntry[0]
@@ -15499,13 +15498,13 @@ msgstr "봉인한 영계 균열"
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x000450ae"
 msgid "Regions in Frostback Basin"
-msgstr "서리등선 분지 지역 탐방"
+msgstr "서리등 분지 지역 탐방"
 
 #. EBX = DA3_DLC1/designcontent/Journals/DLC1/DLC1_Wilderness/dlc1_wild_regions
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x000450af"
 msgid "Explore all corners of Frostback Basin."
-msgstr "서리등선 분지의 모든 지역을 탐사하자."
+msgstr "서리등 분지의 모든 지역을 탐사하자."
 
 #. EBX = DA3_DLC1/designcontent/Journals/DLC1/DLC1_Wilderness/dlc1_wild_regions
 #. PATH = JournalEntry/TaskEntry[0]
@@ -15774,13 +15773,13 @@ msgid ""
 "Avvar god. The dragon flew into the Frostback Basin and will wreak havoc "
 "unless stopped."
 msgstr ""
-"하콘의 아귀가 아바르 신의 영혼이 담겼다고 하는 용을 풀었다. 용은 서리등선 분지로 날아들었고 막지 못하면 엄청난 피해를 불러올 것 이다."
+"하콘의 아귀가 아바르 신의 영혼이 담겼다고 하는 용을 풀었다. 용은 서리등 분지로 날아들었고 막지 못하면 엄청난 피해를 불러올 것 이다."
 
 #. EBX = DA3_DLC1/designcontent/Journals/DLC1/Dragon/dlc1_dragon
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x00046546"
 msgid "Return to the Frostback Basin."
-msgstr "서리등선 분지로 돌아가자."
+msgstr "서리등 분지로 돌아가자."
 
 #. EBX = DA3_DLC1/designcontent/Journals/DLC1/Dragon/dlc1_dragon
 #. PATH = JournalEntry/TaskEntry[1]
@@ -15981,13 +15980,13 @@ msgstr "요새의 지도자와 이야기해 보자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00045a55"
 msgid "Landmarks in Frostback Basin"
-msgstr "서리등선 분지의 명소"
+msgstr "서리등 분지의 명소"
 
 #. EBX = DA3_DLC1/designcontent/Journals/DLC1/DLC1_Wilderness/dlc1_wild_landmarks
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x00045a54"
 msgid "Discover all landmarks in Frostback Basin."
-msgstr "서리등선 분지의 모든 명소를 찾아보자."
+msgstr "서리등 분지의 모든 명소를 찾아보자."
 
 #. EBX = DA3_DLC1/designcontent/Journals/DLC1/DLC1_Wilderness/dlc1_wild_landmarks
 #. PATH = JournalEntry/TaskEntry[0]
@@ -16041,7 +16040,7 @@ msgid ""
 "Professor Kenric has a lead on Inquisitor Ameridan, and Scout Harding can "
 "outline potential risks in the region."
 msgstr ""
-"이제 심문회가 서리등선 분지에 자리를 잡았으니, 켄릭 교수는 아메리단 심문관 조사를 이끌고 하딩 정찰병은 이 지역의 잠재적 위험요소를 "
+"이제 심문회가 서리등 분지에 자리를 잡았으니, 켄릭 교수는 아메리단 심문관 조사를 이끌고 하딩 정찰병은 이 지역의 잠재적 위험요소를 "
 "설명해 줄 것이다."
 
 #. EBX = DA3_DLC1/designcontent/Journals/DLC1/ResearchOutpost/dlc1_outpost_getting_started
@@ -16062,7 +16061,7 @@ msgctxt "0x000450fd"
 msgid ""
 "A strange letter was found in Frostback Basin. Following up on this letter "
 "may lead to its source."
-msgstr "서리등선 분지에서 수상한 편지가 발견되었다. 편지에 적힌 대로 따라가면 그 근원을 찾을 수 있을 것 같다."
+msgstr "서리등 분지에서 수상한 편지가 발견되었다. 편지에 적힌 대로 따라가면 그 근원을 찾을 수 있을 것 같다."
 
 #. EBX = DA3_DLC1/designcontent/Journals/DLC1/ResearchOutpost/dlc1_outpost_mystery_letter
 #. PATH = JournalEntry/TaskEntry[0]
@@ -16108,8 +16107,8 @@ msgid ""
 "friend was recently murdered and Scout Harding is concerned about Grandin's "
 "safety."
 msgstr ""
-"그랜딘이라는 심문회 정찰병이 서리등선 분지에서 실종되었다. 그랜딘의 친구가 최근 살해당했기에, 하딩 정찰병은 그랜딘의 안전에 대해 "
-"우려하고 있다."
+"그랜딘이라는 심문회 정찰병이 서리등 분지에서 실종되었다. 그랜딘의 친구가 최근 살해당했기에, 하딩 정찰병은 그랜딘의 안전에 대해 우려하고 "
+"있다."
 
 #. EBX = DA3_DLC1/designcontent/Journals/DLC1/ResearchOutpost/dlc1_outpost_missing_soldier
 #. PATH = JournalEntry/TaskEntry[0]
@@ -16141,13 +16140,13 @@ msgstr "{string}290546{/string}"
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x000450b2"
 msgid "Astrariums in Frostback Basin"
-msgstr "서리등선 분지 천체 투영기"
+msgstr "서리등 분지 천체 투영기"
 
 #. EBX = DA3_DLC1/designcontent/Journals/DLC1/DLC1_Wilderness/dlc1_wild_astrarium
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x000450b4"
 msgid "Find and complete all astrarium pedestals in the Frostback Basin."
-msgstr "서리등선 분지에 존재하는 모든 천체 투영기를 찾고 별자리를 완성하자."
+msgstr "서리등 분지에 존재하는 모든 천체 투영기를 찾고 별자리를 완성하자."
 
 #. EBX = DA3_DLC1/designcontent/Journals/DLC1/DLC1_Wilderness/dlc1_wild_astrarium
 #. PATH = JournalEntry/TextEntry[1]
@@ -16263,14 +16262,14 @@ msgid ""
 "hold secrets beneficial to both academic research and the Inquisition "
 "itself. Further investigation is warranted."
 msgstr ""
-"올레이 대학의 교수 브램 켄릭이 심문회에 편지를 보냈다. 그는 서리등선 분지라는 외딴 지역에 학문적 연구는 물론, 심문회에도 도움이 "
-"될만한 비밀이 숨겨져 있으리라고 믿는다. 추가 조사가 필요하다."
+"올레이 대학의 교수 브램 켄릭이 심문회에 편지를 보냈다. 그는 서리등 분지라는 외딴 지역에 학문적 연구는 물론, 심문회에도 도움이 될만한 "
+"비밀이 숨겨져 있으리라고 믿는다. 추가 조사가 필요하다."
 
 #. EBX = DA3_DLC1/DesignContent/Journals/DLC1/Global/dlc1_skyhold_opening
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x00046547"
 msgid "Investigate Frostback Basin at the war table."
-msgstr "작전 지도에서 서리등선 분지를 조사하자."
+msgstr "작전 지도에서 서리등 분지를 조사하자."
 
 #. EBX = DA3_DLC1/DesignContent/Journals/DLC1/Global/dlc1_skyhold_opening
 #. PATH = JournalEntry/TaskEntry[1]
@@ -16284,7 +16283,7 @@ msgstr "{string}205752{/string}"
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x00046e35"
 msgid "Travel to Frostback Basin."
-msgstr "서리등선 분지로 떠나자."
+msgstr "서리등 분지로 떠나자."
 
 #. EBX = DA3_DLC1/DesignContent/Journals/DLC1/AvvarVillage/dlc1_avvar_bard_artifacts
 #. PATH = JournalEntry/TitleReference
@@ -16349,7 +16348,7 @@ msgctxt "0x00046f1d"
 msgid ""
 "An unnatural but strangely familiar cold emanates from a locked door within "
 "Frostback Basin."
-msgstr "서리등선 분지의 잠긴 문에서 부자연스럽지만 묘하게 친숙한 냉기가 뿜어져 나오고 있다."
+msgstr "서리등 분지의 잠긴 문에서 부자연스럽지만 묘하게 친숙한 냉기가 뿜어져 나오고 있다."
 
 #. EBX = DA3_DLC1/designcontent/Journals/DLC1/DLC1_Wilderness/dlc1_wild_occularum_dungeon
 #. PATH = JournalEntry/TaskEntry[0]
@@ -16373,13 +16372,13 @@ msgstr "방을 탐사하자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x00045aac"
 msgid "Shards in Frostback Basin"
-msgstr "서리등선 분지의 편린"
+msgstr "서리등 분지의 편린"
 
 #. EBX = DA3_DLC1/DesignContent/Journals/DLC1/DLC1_Wilderness/dlc1_wild_shards
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x00045aaa"
 msgid "Search for any shards scattered around Frostback Basin."
-msgstr "서리등선 분지에 흩어진 편린을 찾아보자."
+msgstr "서리등 분지에 흩어진 편린을 찾아보자."
 
 #. EBX = DA3_DLC1/DesignContent/Journals/DLC1/DLC1_Wilderness/dlc1_wild_shards
 #. PATH = JournalEntry/TaskEntry[0]
@@ -16399,7 +16398,7 @@ msgctxt "0x0004703c"
 msgid ""
 "A series of papers were found in Frostback Basin. They appear to outline "
 "some sort of conspiracy."
-msgstr "서리등선 분지에서 다량의 서류가 발견되었다. 서류는 어떠한 음모에 대하여 다루고 있는 듯하다."
+msgstr "서리등 분지에서 다량의 서류가 발견되었다. 서류는 어떠한 음모에 대하여 다루고 있는 듯하다."
 
 #. EBX = DA3_DLC1/designcontent/Journals/DLC1/AvvarVillage/dlc1_avvar_conspirator
 #. PATH = JournalEntry/TaskEntry[0]
@@ -16435,7 +16434,7 @@ msgstr "음모론자에게 책을 넘겨주자."
 #. PATH = JournalEntry/TitleReference
 msgctxt "0x0004506b"
 msgid "Holding Frostback Basin"
-msgstr "서리등선 분지 사수"
+msgstr "서리등 분지 사수"
 
 #. EBX = DA3_DLC1/designcontent/Journals/DLC1/DLC1_Wilderness/dlc1_wild_camps
 #. PATH = JournalEntry/TextEntry[0]
@@ -16443,7 +16442,7 @@ msgctxt "0x0004506c"
 msgid ""
 "Establish camps to hold Frostback Basin and support Inquisition activity in "
 "the region."
-msgstr "서리등선 분지를 확보하고 지역의 심문회 활동을 지원하기 위해 야영지를 설치하자."
+msgstr "서리등 분지를 확보하고 지역의 심문회 활동을 지원하기 위해 야영지를 설치하자."
 
 #. EBX = DA3_DLC1/designcontent/Journals/DLC1/DLC1_Wilderness/dlc1_wild_camps
 #. PATH = JournalEntry/TaskEntry[0]
@@ -16684,7 +16683,7 @@ msgid ""
 "strong opinions, and both of their representatives would have the "
 "Inquisitor's ear."
 msgstr ""
-"코리피우스의 몰락 후 2년, 교황 빅토리아는 심문회의 운명을 결정하기 위해 고위 평의회를 소집했다. 올레이와 페렐던은 모두 확고한 의견을 "
+"코리피우스의 몰락 후 2년, 교황 빅토리아는 심문회의 운명을 결정하기 위해 고위 평의회를 소집했다. 올레이와 퍼렐던은 모두 확고한 의견을 "
 "갖고 있으며, 각 나라의 대표들은 심문관이 그들의 말을 들어 주기를 원할 것이다."
 
 #. EBX = DA3_DLC_Blue/DesignContent/Journals/dlcblue_critpath
@@ -16693,7 +16692,7 @@ msgctxt "0x000479fc"
 msgid ""
 "With the Fereldan and Orlesian ambassadors greeted, the Exalted Council can "
 "begin."
-msgstr "페렐던과 올레이 대사들이 인사를 나눴으니, 고위 평의회가 시작될 것이다."
+msgstr "퍼렐던과 올레이 대사들이 인사를 나눴으니, 고위 평의회가 시작될 것이다."
 
 #. EBX = DA3_DLC_Blue/DesignContent/Journals/dlcblue_critpath
 #. PATH = JournalEntry/TextEntry[3]
@@ -16779,7 +16778,7 @@ msgstr "선택사항: 옛 친구들을 만나자."
 #. PATH = JournalEntry/TaskEntry[2]
 msgctxt "0x000479bd"
 msgid "Speak with the Fereldan ambassador."
-msgstr "페렐던의 대사와 이야기해 보자."
+msgstr "퍼렐던의 대사와 이야기해 보자."
 
 #. EBX = DA3_DLC_Blue/DesignContent/Journals/dlcblue_critpath
 #. PATH = JournalEntry/TaskEntry[3]
@@ -17013,13 +17012,13 @@ msgstr "봉인을 방어하라"
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x000474a3"
 msgid "Repel the darkspawn assault and secure the seal."
-msgstr "어둠의 피조물 공격을 격퇴하고 봉인을 지키자."
+msgstr "어둠피조물 공격을 격퇴하고 봉인을 지키자."
 
 #. EBX = da3_dlc_red/DesignContent/Journals/seal_wave_event/seal_wave_event
 #. PATH = JournalEntry/TaskEntry[0]
 msgctxt "0x000474a5"
 msgid "Darkspawn slain"
-msgstr "처치한 어둠의 피조물"
+msgstr "처치한 어둠피조물"
 
 #. EBX = da3_dlc_red/DesignContent/Journals/seal_wave_event/seal_wave_event
 #. PATH = JournalEntry/TaskEntry[1]
@@ -17124,7 +17123,7 @@ msgstr "승강기를 타고 지하 가도로 내려가자."
 #. PATH = JournalEntry/TaskEntry[5]
 msgctxt "0x000474c5"
 msgid "Navigate the Darkspawn Warrens."
-msgstr "어둠의 피조물 군서지를 찾자."
+msgstr "어둠피조물 군서지를 찾자."
 
 #. EBX = DA3_DLC_Red/designcontent/Journals/descent/the_descent_main_journal
 #. PATH = JournalEntry/TaskEntry[6]
@@ -17136,13 +17135,13 @@ msgstr "룬이 새겨진 세그러마르 관문을 열자."
 #. PATH = JournalEntry/TaskEntry[7]
 msgctxt "0x0004a2f4"
 msgid "Navigate the Darkspawn Warrens."
-msgstr "어둠의 피조물 군서지를 찾자."
+msgstr "어둠피조물 군서지를 찾자."
 
 #. EBX = DA3_DLC_Red/designcontent/Journals/descent/the_descent_main_journal
 #. PATH = JournalEntry/TaskEntry[8]
 msgctxt "0x00049371"
 msgid "Follow Valta through the Darkspawn Warrens."
-msgstr "발타와 함께 어둠의 피조물 군서지를 지나가자."
+msgstr "발타와 함께 어둠피조물 군서지를 지나가자."
 
 #. EBX = DA3_DLC_Red/designcontent/Journals/descent/the_descent_main_journal
 #. PATH = JournalEntry/TaskEntry[9]
@@ -17166,7 +17165,7 @@ msgstr "발타를 따라 헤이드룬 타이그를 지나가자."
 #. PATH = JournalEntry/TaskEntry[12]
 msgctxt "0x00047650"
 msgid "Push the darkspawn out of their nest."
-msgstr "어둠의 피조물들을 둥지에서 쫓아내자."
+msgstr "어둠피조물들을 둥지에서 쫓아내자."
 
 #. EBX = DA3_DLC_Red/designcontent/Journals/descent/the_descent_main_journal
 #. PATH = JournalEntry/TaskEntry[13]
@@ -17331,8 +17330,8 @@ msgid ""
 "gate in the Darkspawn Warrens. The gate can only be opened with ancient "
 "gears."
 msgstr ""
-"발타의 돌 감각은 앞으로 나아가는 길이 어둠의 피조물 군서지에 있는 룬이 새겨진 관문을 통과해야 한다는 것을 알려주고 있다. 관문은 "
-"고대의 톱니바퀴로만 열 수 있다."
+"발타의 돌 감각은 앞으로 나아가는 길이 어둠피조물 군서지에 있는 룬이 새겨진 관문을 통과해야 한다는 것을 알려주고 있다. 관문은 고대의 "
+"톱니바퀴로만 열 수 있다."
 
 #. EBX = DA3_DLC_Red/designcontent/Journals/Global/dlcred_critpath_geardoor_journal
 #. PATH = JournalEntry/TaskEntry[0]
@@ -17407,7 +17406,7 @@ msgctxt "0x00048e92"
 msgid ""
 "Pages torn from a crazed dwarf's journal are scattered across the Darkspawn "
 "Warrens and the ruins of Heidrun Thaig."
-msgstr "미쳐버린 드워프가 남긴 일지의 찢긴 부분은 어둠의 피조물 군서지와 헤이드룬 타이그의 폐허 곳곳에 흩어져 있다."
+msgstr "미쳐버린 드워프가 남긴 일지의 찢긴 부분은 어둠피조물 군서지와 헤이드룬 타이그의 폐허 곳곳에 흩어져 있다."
 
 #. EBX = da3_dlc_red/DesignContent/Journals/SideContent/Side_3/dlcred_side3_journal_1
 #. PATH = JournalEntry/TextEntry[1]
@@ -17417,8 +17416,7 @@ msgid ""
 "writings scattered across the Darkspawn Warrens and the ruins of Heidrun "
 "Thaig."
 msgstr ""
-"한 드워프가 지하 가도의 동굴에서 최후를 맞이했다. 그의 마지막 기록은 온 어둠의 피조물 군서지와 헤이드룬 타이그 폐허에 걸쳐 흩어져 "
-"있다."
+"한 드워프가 지하 가도의 동굴에서 최후를 맞이했다. 그의 마지막 기록은 온 어둠피조물 군서지와 헤이드룬 타이그 폐허에 걸쳐 흩어져 있다."
 
 #. EBX = da3_dlc_red/DesignContent/Journals/SideContent/Side_3/dlcred_side3_journal_1
 #. PATH = JournalEntry/TaskEntry[0]
@@ -17745,7 +17743,7 @@ msgstr "축조자의 탑"
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x0004a4ed"
 msgid "A worn model of the Builder's Towers stands in the Darkspawn Warrens."
-msgstr "어둠의 피조물 군서지에 낡은 축조자의 탑 모형이 있다."
+msgstr "어둠피조물 군서지에 낡은 축조자의 탑 모형이 있다."
 
 #. EBX = DA3_DLC_Red/designcontent/Journals/SideContent/towers/dlcred_towers_journal
 #. PATH = JournalEntry/TaskEntry[0]
@@ -17831,7 +17829,7 @@ msgstr "타이그 탈환"
 #. PATH = JournalEntry/TextEntry[0]
 msgctxt "0x00047625"
 msgid "Darkspawn have overrun this section of the Deep Roads."
-msgstr "어둠의 피조물들이 지하 가도의 이 구역에 들끓고 있다."
+msgstr "어둠피조물들이 지하 가도의 이 구역에 들끓고 있다."
 
 #. EBX = da3_dlc_red/DesignContent/Journals/level_3_wave_event/dlcred_level3WaveEvent
 #. PATH = JournalEntry/TaskEntry[0]
@@ -17867,7 +17865,7 @@ msgstr "밀사 우두머리를 처치하자."
 #. PATH = JournalEntry/TaskEntry[5]
 msgctxt "0x0004778a"
 msgid "Darkspawn waves"
-msgstr "어둠의 피조물 공격"
+msgstr "어둠피조물 공격"
 
 #. EBX = DA3_DLC_Red/designcontent/Journals/dlcred_landmarks_journal
 #. PATH = JournalEntry/TitleReference
