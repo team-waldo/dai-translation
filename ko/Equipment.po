@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2024-12-22 11:43+0000\n"
+"PO-Revision-Date: 2025-01-21 04:43+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/dai/equipment/ko/>\n"
 "Language: ko\n"
@@ -869,13 +869,13 @@ msgstr ""
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00024aff"
 msgid "Masterwork Quillback Leather"
-msgstr "명품 퀼백 가죽"
+msgstr "명품 가시등이 가죽"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Leather/crafting_masterwork_Buzzard_2
 #. PATH = RecipeMasterworkItemAsset/DisplayName
 msgctxt "0x00044899"
 msgid "Fade-Touched Quillback Leather"
-msgstr "영계에 물든 퀼백 가죽"
+msgstr "영계에 물든 가시등이 가죽"
 
 #. FILE = DA3/Equipment/Crafting/Masterwork/Leather/crafting_masterwork_Buzzard_2
 #. PATH = RecipeMasterworkItemAsset/Description
@@ -3163,7 +3163,7 @@ msgstr ""
 #.     0x00044013(278547) : {string}129678{/string}
 msgctxt "0x0001fa8e"
 msgid "Quillback Leather"
-msgstr "퀼백 가죽"
+msgstr "가시등이 가죽"
 
 #. FILE = DA3/Equipment/Crafting/Materials/Leather/recipe_material_Buzzard_Hide
 #. PATH = RecipeMaterial/Description
@@ -15595,7 +15595,7 @@ msgstr "대형 무기 파편"
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00041e6a"
 msgid "Quillback Fang"
-msgstr "퀼백 송곳니"
+msgstr "가시등이 송곳니"
 
 #. FILE = DA3/Equipment/Items/CreatureCodex/creature_codex_item_corpse
 #. PATH = StackedItemAsset/DisplayName
