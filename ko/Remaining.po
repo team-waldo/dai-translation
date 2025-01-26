@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2025-01-21 04:43+0000\n"
+"PO-Revision-Date: 2025-01-26 11:43+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/dai/remaining/ko/>\n"
 "Language: ko\n"
@@ -4722,7 +4722,7 @@ msgstr "브론토"
 #. PATH = CreatureEntityData/CharacterNameReference
 msgctxt "0x00018935"
 msgid "Quillback"
-msgstr "가시등이"
+msgstr "바늘등이"
 
 #. FILE = DA3/Creatures/Multiplayer/Wilderness/mp_wilderness_wilderness_deepstalker_mp
 #. PATH = CreatureEntityData/CharacterNameReference
@@ -6265,13 +6265,13 @@ msgstr "겉에 쪽지가 감긴 열쇠다."
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x0002dc95"
 msgid "Quillback Intestine"
-msgstr "가시등이 창자"
+msgstr "바늘등이 창자"
 
 #. FILE = DA3/DesignContent/Items/WesternApproach/wes_buzzard_drop
 #. PATH = StackedItemAsset/Description
 msgctxt "0x0002dc96"
 msgid "Slimy, pungent ropes of intestine from a quillback."
-msgstr "끈적끈적하고 악취가 풍기는 가시등이의 창자다."
+msgstr "끈적끈적하고 악취가 풍기는 바늘등이의 창자다."
 
 #. FILE = DA3/DesignContent/Items/WesternApproach/wes_campa_missingitem_01
 #. PATH = StackedItemAsset/DisplayName
@@ -8357,7 +8357,7 @@ msgstr "큰 무기 조각 제출됨: {CUSTOM0}"
 #.     0x00044b17(281367) : Removed
 msgctxt "0x00042006"
 msgid "Quillback Fangs {string}281367{/string}: {CUSTOM0}"
-msgstr "가시등이 송곳니 {string}281367{/string}: {CUSTOM0}"
+msgstr "바늘등이 송곳니 {string}281367{/string}: {CUSTOM0}"
 
 #. FILE = DA3/DesignContent/Prefabs/CreatureCodex/CreatureCodexSubPrefab_cave_mole
 #. PATH = NotificationEntityData[2]/TitleTextReference
@@ -13738,7 +13738,7 @@ msgstr "렐리아나가 작전을 수행하는 데 걸리는 시간이 5% 단축
 #. PATH = StackedItemAsset/DisplayName
 msgctxt "0x00040d8c"
 msgid "Alpha Quillback Spines"
-msgstr "우두머리 가시등이 등뼈"
+msgstr "우두머리 바늘등이 가시"
 
 #. FILE = DA3/designcontent/Plots/Global/ClassSpecialization/Item_AssassinsWeapon
 #. PATH = StackedItemAsset/DisplayName
@@ -14254,7 +14254,7 @@ msgstr "기억 수정"
 #. PATH = AppearanceOverrideSpawnData/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
 msgctxt "0x00043399"
 msgid "Alpha Quillback"
-msgstr "우두머리 가시등이"
+msgstr "우두머리 바늘등이"
 
 #. FILE = DA3/designcontent/Prefabs/Levels/PlayerSpec/gen_spec_assassin_encounter_1
 #. PATH = AppearanceOverrideSpawnData/AppearanceOverride/CreatureAppearanceCustomizations/OverrideName
