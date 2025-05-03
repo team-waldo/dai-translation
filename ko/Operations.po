@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-17 16:34+0900\n"
-"PO-Revision-Date: 2024-12-22 11:43+0000\n"
+"PO-Revision-Date: 2025-05-03 14:43+0000\n"
 "Last-Translator: 평범남 <aaasioa@naver.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/dai/operations/ko/>\n"
 "Language: ko\n"
@@ -3048,8 +3048,8 @@ msgid ""
 "shipped out of the Western Approach. He claims he requires a small squadron "
 "of helpers and a decent amount of coin to recover them for the Inquisition."
 msgstr ""
-"베나토리인 세르비스는 체포된 후 심문회를 돕겠다며, 그가 서부 접경지 밖으로 운반했던 오래된 마법 유물 일부의 행방을 알려주었다. 그는 "
-"유물들을 심문회로 회수하려면 조력자로 구성된 소규모 중대와 상당량의 금전이 필요하다고 주장하고 있다."
+"베나토리 세르비스는 체포된 후 심문회를 돕겠다며 자신이 서부 접경지 밖으로 반출한 어느 옛 마법 유물들의 행방에 대한 정보를 알려줬다. "
+"그는 이 유물들을 심문회로 회수하려면 일을 도와줄 소규모 조원과 상당량의 금전이 필요하다 주장하고 있다."
 
 #. EBX = DA3/DesignContent/Operations/Global/Judgments/Ops_judgment_Servis
 #. PATH = OperationEntry/TextEntry[1]
@@ -3057,7 +3057,7 @@ msgctxt "0x00040c30"
 msgid ""
 "Servis performed as he said he would and has gotten his hands on a "
 "collection of priceless Tevinter artifacts he dug up in the Western Approach."
-msgstr "세르비스가 약속대로 서부 접경지에서 발굴해낸 귀한 테빈터 유물들을 가지고 돌아왔다."
+msgstr "세르비스가 약속한 대로 서부 접경지에서 자신이 예전에 발굴해낸 귀중한 테빈터 유물들을 가지고 돌아왔다."
 
 #. EBX = DA3/DesignContent/Operations/Global/Judgments/Ops_judgment_Servis
 #. PATH = OperationEntry/TextEntry[2]
@@ -3079,12 +3079,12 @@ msgid ""
 msgstr ""
 "심문관, \n"
 "\n"
-"세르비스가 약속대로 유물을 가지고 돌아왔습니다. 그런데 그가 값비싼 장식품 하나를 개인적으로 숨겼고, 감시차 보냈던 첩보원이 그 상황을 "
-"포착했습니다. 세르비스는 우리가 이제 막 전향한 요원의 동태를 감시할 만큼 똑똑한지 알고 싶었을 뿐이라고 주장하며 망설임 없이 물건을 "
-"돌려주었고, 베나토리가 접경지 바로 외곽에 숨겨둔 보석과 금전 은닉처의 위치를 알려주었습니다. \n"
+"세르비스가 약속대로 유물을 가지고 돌아왔습니다. 다만 놈이 정말 비싸기만 한 쓸데없는 장신구 하나를 제 몫으로 빼돌리는 걸 감시역으로 "
+"붙인 첩자가 현장에서 포착했죠. 세르비스는 주저 없이 그 물건을 돌려주면서 이제 막 전향한 요원을 상대로 감시를 풀지 않을 만큼 우리가 "
+"똑똑한지 알고 싶었을 뿐이라 주장하고 있어요. 그러곤 베나토리가 접경지 바로 외곽에 숨겨둔 보석과 금전 은닉처 위치를 알려주더군요. \n"
 "\n"
-"제가 보기에 그는 잡히길 바라고 있었던 것 같습니다. 이 마법사는 즐기고 있어요. 이런 사람이라면 그리 어렵지 않게 우리가 원하는 "
-"방향으로 움직이게 할 수 있죠. \n"
+"제가 보기엔 걸리길 바라고 있던 것 같습니다. 이 마법사는 그런 걸 즐기고 있어요. 이런 사람은 그리 어렵지 않게 우리가 원하는 방향으로 "
+"행동하게 할 수 있죠. \n"
 "\n"
 "렐리아나"
 
@@ -3095,8 +3095,7 @@ msgid ""
 "He seems too prideful to cheat us without proving his worth first. I'd give "
 "him what he asks. Within reason."
 msgstr ""
-"자존심이 상당히 강한 사람이라, 자신의 가치를 먼저 증명해 보이기 전에는 우리를 배신하지 않을 것 같군요. 그가 요구하는 걸 주겠습니다. "
-"합리적인 선 안에서요."
+"자존심이 참 센 사람이라 자기 가치를 증명해 보이기 전까진 배반할 것 같진 않네요. 그가 요구하는 걸 제공할게요. 합리적인 선 안에서요."
 
 #. EBX = DA3/DesignContent/Operations/Global/Judgments/Ops_judgment_Servis
 #. PATH = OperationEntry/Specialist[1]/SpecialistMissionInfo/OperationTextReference
@@ -3104,15 +3103,14 @@ msgctxt "0x00040c31"
 msgid ""
 "We cannot fully trust the man, and he knows it. I will give him his helpers… "
 "and send an unseen spy along."
-msgstr ""
-"우리는 그자를 완전히 믿을 수 없어요. 그자도 이걸 알고 있습니다. 조력자들을 내주도록 하지요... 눈에 띄지 않는 첩보원들과 함께요."
+msgstr "우리는 그자를 완전히 믿을 수 없고, 그자도 이를 알고 있죠. 제가 조력자들을 제공할게요. 눈에 띄지 않게 첩자도 끼워서요."
 
 #. EBX = DA3/DesignContent/Operations/Global/Judgments/Ops_judgment_Servis
 #. PATH = OperationEntry/Specialist[2]/SpecialistMissionInfo/OperationTextReference
 msgctxt "0x00040c2f"
 msgid ""
 "I can send my soldiers to help this mage. They'll keep a close eye on him."
-msgstr "제 병사들을 보내 그 마법사를 도울 수 있습니다. 그들이 그자를 주의 깊게 감시할 겁니다."
+msgstr "제 병사들을 보내 그 마법사를 도울 수 있습니다. 그들이 놈을 면밀히 감시할 겁니다."
 
 #. EBX = DA3/designcontent/Operations/TheDales/Forest/dal_forest_emerald_tomb_ops
 #. PATH = WartableEntry/TitleReference
